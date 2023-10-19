@@ -11,7 +11,7 @@
             "ru": "Очаровательно красивый"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/The_Enchanted_Castle.jpg",
-        "file": "The_Enchanted_Castle.json"
+        "file": "The_Enchanted_Castle.txt"
     }, {
         "name": {
             "de": "Die goldene Gans",
@@ -24,7 +24,7 @@
             "ru": "Чудесно волшебный"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/The_Golden_Goose.png",
-        "file": "The_Golden_Goose.json"
+        "file": "The_Golden_Goose.txt"
     }, {
         "name": {
             "de": "Rotkäppchen",
@@ -37,6 +37,6 @@
             "ru": "Классическая сказка"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/Little_Red_Riding_Hood.png",
-        "file": "Little_Red_Riding_Hood.json"
+        "file": "Little_Red_Riding_Hood.txt"
     }
 ]
