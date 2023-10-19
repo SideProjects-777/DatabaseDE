@@ -1,5 +1,138 @@
-{
-    "ru":["Бонн", "Кельн", "Дюссельдорф"],
-    "de":["Bonn","Köln","Düsseldorf"],
-    "en":["Bonn", "Cologne", "Dusseldorf"]
-}
+[
+    {
+      "name": {
+        "de": "Berlin",
+        "en": "Berlin",
+        "ru": "Берлин"
+      },
+      "folder": "berlin",
+      "description": {
+        "de": "Große Metropole",
+        "en": "Large metropolis",
+        "ru": "Большой город"
+      },
+      "image": "https://example.com/image1.jpg",
+      "amountOfStories": 7
+    },
+    {
+      "name": {
+        "de": "Hamburg",
+        "en": "Hamburg",
+        "ru": "Гамбург"
+      },
+      "folder": "hamburg",
+      "description": {
+        "de": "Hafenstadt",
+        "en": "Port city",
+        "ru": "Портовый город"
+      },
+      "image": "https://example.com/image2.jpg",
+      "amountOfStories": 3
+    },
+    {
+      "name": {
+        "de": "Munich",
+        "en": "Munich",
+        "ru": "Мюнхен"
+      },
+      "folder": "munich",
+      "description": {
+        "de": "Biergarten",
+        "en": "Beer garden",
+        "ru": "Пивной сад"
+      },
+      "image": "https://example.com/image3.jpg",
+      "amountOfStories": 5
+    },
+    {
+      "name": {
+        "de": "Cologne",
+        "en": "Cologne",
+        "ru": "Кёльн"
+      },
+      "folder": "cologne",
+      "description": {
+        "de": "Domstadt",
+        "en": "Cathedral city",
+        "ru": "Город собора"
+      },
+      "image": "https://example.com/image4.jpg",
+      "amountOfStories": 9
+    },
+    {
+      "name": {
+        "de": "Dresden",
+        "en": "Dresden",
+        "ru": "Дрезден"
+      },
+      "folder": "dresden",
+      "description": {
+        "de": "Kunststadt",
+        "en": "Art city",
+        "ru": "Город искусства"
+      },
+      "image": "https://example.com/image5.jpg",
+      "amountOfStories": 2
+    },
+    {
+      "name": {
+        "de": "Frankfurt",
+        "en": "Frankfurt",
+        "ru": "Франкфурт"
+      },
+      "folder": "frankfurt",
+      "description": {
+        "de": "Bankenstadt",
+        "en": "Bank city",
+        "ru": "Банковский город"
+      },
+      "image": "https://example.com/image6.jpg",
+      "amountOfStories": 4
+    },
+    {
+      "name": {
+        "de": "Hannover",
+        "en": "Hannover",
+        "ru": "Ганновер"
+      },
+      "folder": "hannover",
+      "description": {
+        "de": "Messestadt",
+        "en": "Trade fair city",
+        "ru": "Город ярмарок"
+      },
+      "image": "https://example.com/image7.jpg",
+      "amountOfStories": 6
+    },
+    {
+      "name": {
+        "de": "Leipzig",
+        "en": "Leipzig",
+        "ru": "Лейпциг"
+      },
+      "folder": "leipzig",
+      "description": {
+        "de": "Kulturstadt",
+        "en": "Cultural city",
+        "ru": "Культурный город"
+      },
+      "image": "https://example.com/image8.jpg",
+      "amountOfStories": 8
+    },
+    {
+      "name": {
+        "de": "Stuttgart",
+        "en": "Stuttgart",
+        "ru": "Штутгарт"
+      },
+      "folder": "stuttgart",
+      "description": {
+        "de": "Autohersteller",
+        "en": "Car manufacturer",
+        "ru": "Производитель автомобилей"
+      },
+      "image": "https://example.com/image9.jpg",
+      "amountOfStories": 10
+    }
+  ]
+  
