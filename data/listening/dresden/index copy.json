@@ -1,0 +1,42 @@
+[
+    {
+        "name": {
+            "de": "Das verwunschene Schloss",
+            "en": "The Enchanted Castle",
+            "ru": "Зачарованный замок"
+        },
+        "description": {
+            "de": "Märchenhaft schön",
+            "en": "Enchantingly beautiful",
+            "ru": "Очаровательно красивый"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/The_Enchanted_Castle.jpg",
+        "file": "The_Enchanted_Castle.txt"
+    }, {
+        "name": {
+            "de": "Die goldene Gans",
+            "en": "The Golden Goose",
+            "ru": "Золотая гусь"
+        },
+        "description": {
+            "de": "Wunderbar märchenhaft",
+            "en": "Wonderfully magical",
+            "ru": "Чудесно волшебный"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/The_Golden_Goose.png",
+        "file": "The_Golden_Goose.txt"
+    }, {
+        "name": {
+            "de": "Rotkäppchen",
+            "en": "Little Red Riding Hood",
+            "ru": "Красная шапочка"
+        },
+        "description": {
+            "de": "Klassisches Märchen",
+            "en": "Classic fairy tale",
+            "ru": "Классическая сказка"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/Little_Red_Riding_Hood.png",
+        "file": "Little_Red_Riding_Hood.txt"
+    }
+]
