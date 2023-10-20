@@ -1,0 +1,124 @@
+[
+    {
+        "de": "Begegnung",
+        "en": "encounter",
+        "ru": "встреча",
+        "descriptionEN": "A chance meeting or encounter with someone.",
+        "descriptionRU": "Случайная встреча с кем-то."
+    }, {
+        "de": "aufregenden",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "Causing great enthusiasm or interest.",
+        "descriptionRU": "Вызывающий великий интерес и восторг."
+    }, {
+        "de": "Hauptstadt",
+        "en": "capital",
+        "ru": "столица",
+        "descriptionEN": "The city that serves as the seat of government for a country or region.",
+        "descriptionRU": "Город, который служит центром правительства страны или региона."
+    }, {
+        "de": "Wahrzeichen",
+        "en": "landmark",
+        "ru": "ориентир",
+        "descriptionEN": "A recognizable and significant feature of a place.",
+        "descriptionRU": "Узнаваемая и значимая черта места."
+    }, {
+        "de": "Sehenswürdigkeiten",
+        "en": "sights",
+        "ru": "достопримечательности",
+        "descriptionEN": "Places or things worth seeing or visiting.",
+        "descriptionRU": "Места или вещи, которые стоит посетить или увидеть."
+    }, {
+        "de": "Anweisungen",
+        "en": "instructions",
+        "ru": "инструкции",
+        "descriptionEN": "Directions or guidance on how to do something.",
+        "descriptionRU": "Направления или рекомендации о том, как что-то сделать."
+    }, {
+        "de": "Hilfsbereitschaft",
+        "en": "helpfulness",
+        "ru": "готовность помочь",
+        "descriptionEN": "The quality of being willing to assist or support others.",
+        "descriptionRU": "Качество готовности помогать или поддерживать других."
+    }, {
+        "de": "verwirrt",
+        "en": "confused",
+        "ru": "смущенный",
+        "descriptionEN": "Unable to think clearly or understand something.",
+        "descriptionRU": "Не в состоянии ясно мыслить или понимать что-то."
+    }, {
+        "de": "Warteschlange",
+        "en": "queue",
+        "ru": "очередь",
+        "descriptionEN": "A line of people waiting for something, often in order.",
+        "descriptionRU": "Линия людей, ожидающих что-то, часто в порядке очереди."
+    }, {
+        "de": "Freundschaften",
+        "en": "friendships",
+        "ru": "дружба",
+        "descriptionEN": "The state or quality of being friends, or the relationships between friends.",
+        "descriptionRU": "Состояние или качество дружбы, или отношения между друзьями."
+    }, {
+        "de": "zufällige",
+        "en": "random",
+        "ru": "случайный",
+        "descriptionEN": "Occurring without a specific pattern or plan.",
+        "descriptionRU": "Происходящий без определенного шаблона или плана."
+    }, {
+        "de": "geschäftigen",
+        "en": "busy",
+        "ru": "занятый",
+        "descriptionEN": "Full of activity and hustle.",
+        "descriptionRU": "Полон активности и суеты."
+    }, {
+        "de": "Wahrheit",
+        "en": "truth",
+        "ru": "правда",
+        "descriptionEN": "The quality or state of being in accordance with fact or reality.",
+        "descriptionRU": "Качество или состояние соответствия факту или реальности."
+    }, {
+        "de": "Freundlichkeit",
+        "en": "kindness",
+        "ru": "доброта",
+        "descriptionEN": "The quality of being friendly, generous, or considerate.",
+        "descriptionRU": "Качество дружелюбия, щедрости или внимательности."
+    }, {
+        "de": "Besichtigung",
+        "en": "sightseeing",
+        "ru": "осмотр достопримечательностей",
+        "descriptionEN": "The activity of visiting interesting places and tourist attractions.",
+        "descriptionRU": "Активность посещения интересных мест и туристических достопримечательностей."
+    }, {
+        "de": "U-Bahnen",
+        "en": "subways",
+        "ru": "метро",
+        "descriptionEN": "Underground rail systems for public transportation.",
+        "descriptionRU": "Подземные железные дороги для общественного транспорта."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "Leaving a strong and lasting impression.",
+        "descriptionRU": "Оставляющий сильное и долговременное впечатление."
+    }, {
+        "de": "zurück",
+        "en": "back",
+        "ru": "назад",
+        "descriptionEN": "In the opposite direction from where one is currently.",
+        "descriptionRU": "В противоположном направлении от текущего."
+    }, {
+        "de": "Spazierte",
+        "en": "walked",
+        "ru": "гулял",
+        "descriptionEN": "Moved on foot at a leisurely pace.",
+        "descriptionRU": "Двигался пешком с небольшой скоростью."
+    }, {
+        "de": "Sonnigen",
+        "en": "sunny",
+        "ru": "солнечный",
+        "descriptionEN": "Marked by bright sunlight and clear skies.",
+        "descriptionRU": "Отмечен ярким солнцем и ясным небом."
+    }
+
+]
