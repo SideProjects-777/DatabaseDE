@@ -10,8 +10,8 @@
             "en": "Enchantingly beautiful",
             "ru": "Очаровательно красивый"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/The_Enchanted_Castle.mp3",
-        "file": "The_Enchanted_Castle.txt"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/The_Enchanted_Castle.jpg",
+        "file": "The_Enchanted_Castle.mp3"
     }, {
         "name": {
             "de": "Die goldene Gans",
@@ -23,8 +23,8 @@
             "en": "Wonderfully magical",
             "ru": "Чудесно волшебный"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/The_Golden_Goose.mp3",
-        "file": "The_Golden_Goose.txt"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/The_Golden_Goose.png",
+        "file": "The_Golden_Goose.mp3"
     }, {
         "name": {
             "de": "Rotkäppchen",
@@ -36,7 +36,7 @@
             "en": "Classic fairy tale",
             "ru": "Классическая сказка"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/Little_Red_Riding_Hood.mp3",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/Little_Red_Riding_Hood.png",
         "file": "Little_Red_Riding_Hood.mp3"
     }
 ]
