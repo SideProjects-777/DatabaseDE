@@ -10,6 +10,7 @@
             "en": "Enchantingly beautiful",
             "ru": "Очаровательно красивый"
         },
+        "level":"A1",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/The_Enchanted_Castle.jpg",
         "file": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/txt/The_Enchanted_Castle.txt",
         "words": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/words/The_Enchanted_Castle.json",
@@ -27,6 +28,7 @@
             "en": "Wonderfully magical",
             "ru": "Чудесно волшебный"
         },
+        "level":"B1",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/The_Golden_Goose.png",
         "file": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/txt/Freundliche_Begegnung.txt",
         "words": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/words/Freundliche_Begegnung.json",
@@ -44,6 +46,7 @@
             "en": "Classic fairy tale",
             "ru": "Классическая сказка"
         },
+        "level":"A2",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/img/Little_Red_Riding_Hood.png",
         "file": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/txt/Little_Red_Riding_Hood.txt",
         "words": "https://sideprojects-777.github.io/DatabaseDE/data/reading/berlin/words/Little_Red_Riding_Hood.json",
