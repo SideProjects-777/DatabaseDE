@@ -1,0 +1,125 @@
+[
+    {
+        "name": {
+            "de": "Frage 1",
+            "en": "Question 1",
+            "ru": "Вопрос 1"
+        },
+        "answers":[
+            {
+                "text":{
+                    "de": "Antworte 1",
+                    "en": "Answer 1",
+                    "ru": "Ответ 1"
+                },
+                "correct":false
+            },
+            {
+                "text":{
+                    "de": "Antworte 2",
+                    "en": "Answer 2",
+                    "ru": "Ответ 2"
+                },
+                "correct":false
+            },
+            {
+                "text":{
+                    "de": "Antworte 3",
+                    "en": "Answer 3",
+                    "ru": "Ответ 3"
+                },
+                "correct":false
+            },
+            {
+                "text":{
+                    "de": "Antworte 4",
+                    "en": "Answer 4",
+                    "ru": "Ответ 4"
+                },
+                "correct":true
+            }
+        ]
+    },
+    {
+        "name": {
+            "de": "Frage 2",
+            "en": "Question 2",
+            "ru": "Вопрос 2"
+        },
+        "answers":[
+            {
+                "text":{
+                    "de": "Antworte 1",
+                    "en": "Answer 1",
+                    "ru": "Ответ 1"
+                },
+                "correct":false
+            },
+            {
+                "text":{
+                    "de": "Antworte 2",
+                    "en": "Answer 2",
+                    "ru": "Ответ 2"
+                },
+                "correct":true
+            },
+            {
+                "text":{
+                    "de": "Antworte 3",
+                    "en": "Answer 3",
+                    "ru": "Ответ 3"
+                },
+                "correct":false
+            },
+            {
+                "text":{
+                    "de": "Antworte 4",
+                    "en": "Answer 4",
+                    "ru": "Ответ 4"
+                },
+                "correct":false
+            }
+        ]
+    },
+    {
+        "name": {
+            "de": "Frage 3",
+            "en": "Question 3",
+            "ru": "Вопрос 3"
+        },
+        "answers":[
+            {
+                "text":{
+                    "de": "Antworte 1",
+                    "en": "Answer 1",
+                    "ru": "Ответ 1"
+                },
+                "correct":false
+            },
+            {
+                "text":{
+                    "de": "Antworte 2",
+                    "en": "Answer 2",
+                    "ru": "Ответ 2"
+                },
+                "correct":false
+            },
+            {
+                "text":{
+                    "de": "Antworte 3",
+                    "en": "Answer 3",
+                    "ru": "Ответ 3"
+                },
+                "correct":true
+            },
+            {
+                "text":{
+                    "de": "Antworte 4",
+                    "en": "Answer 4",
+                    "ru": "Ответ 4"
+                },
+                "correct":false
+            }
+        ]
+    }
+]
