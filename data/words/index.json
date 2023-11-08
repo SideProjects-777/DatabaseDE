@@ -1,24 +1,21 @@
-[
-    {
-        "links":[
-            {
-                "title":{
-                    "de":"Berlin",
-                    "en":"Berlin",
-                    "ru":"Берлин"
-                },
-                "filename":"/berlin/index.json",
-                "image":"https://sideprojects-777.github.io/DatabaseDE/data/words/berlin/image.jpg"
+{
+    "links": [
+        {
+            "title": {
+                "de": "Berlin",
+                "en": "Berlin",
+                "ru": "Берлин"
             },
-            {
-                "title":{
-                    "de":"Haushalt",
-                    "en":"Household",
-                    "ru":"Быт"
-                },
-                "filename":"/household/index.json",
-                "image":"https://sideprojects-777.github.io/DatabaseDE/data/reading/household/image.jpg"
-            }
-        ]
-    }
-]
+            "filename": "/berlin/index.json",
+            "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/berlin/image.jpg"
+        }, {
+            "title": {
+                "de": "Haushalt",
+                "en": "Household",
+                "ru": "Быт"
+            },
+            "filename": "/household/index.json",
+            "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/household/image.jpg"
+        }
+    ]
+}
