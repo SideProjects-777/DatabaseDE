@@ -8,7 +8,7 @@
                     "ru":"Берлин"
                 },
                 "filename":"/berlin/index.json",
-                "image":"/berlin/img/berlin.jpg"
+                "image":"https://sideprojects-777.github.io/DatabaseDE/data/words/berlin/image.jpg"
             },
             {
                 "title":{
@@ -17,7 +17,7 @@
                     "ru":"Быт"
                 },
                 "filename":"/household/index.json",
-                "image":""
+                "image":"https://sideprojects-777.github.io/DatabaseDE/data/reading/household/image.jpg"
             }
         ]
     }
