@@ -1,0 +1,24 @@
+[
+    {
+        "links":[
+            {
+                "title":{
+                    "de":"Berlin",
+                    "en":"Berlin",
+                    "ru":"Берлин"
+                },
+                "filename":"/berlin/index.json",
+                "image":"/berlin/img/berlin.jpg"
+            },
+            {
+                "title":{
+                    "de":"Haushalt",
+                    "en":"Household",
+                    "ru":"Быт"
+                },
+                "filename":"/household/index.json",
+                "image":""
+            }
+        ]
+    }
+]
