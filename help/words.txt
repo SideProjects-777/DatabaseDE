@@ -1,0 +1,25 @@
+	Given the following text:
+<Text>
+
+
+	Extract 15 words and provide output in json format with the following structure:
+
+	export interface Word {
+		de: string, -> our word (if noun provide with article)
+		en: string, -> english translation
+		ru: string, -> russian translation
+		descriptionEN: string, -> explanation in english
+		descriptionRU: string, -> explanation in russian
+	}
+
+	Selected words are not allowed to be phrases only single words. If the given word is noun, then de part should also have its article (der / die / das)
+
+	example:
+	{
+		de: "die Erfahrung",
+		en: "Experience"
+		ru: "Опыт"
+		descriptionEN: "practical contact with and observation of facts or events."
+		descriptionRU: "Совокупность практически усвоенных знаний, навыков, умения."
+
+	}
