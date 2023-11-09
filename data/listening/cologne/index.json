@@ -1,0 +1,20 @@
+[
+    {
+        "name": {
+            "de": "Lukas' Katzenmission",
+            "en": "Luke's cat mission",
+            "ru": "Кошачья миссия Люка"
+        },
+        "description": {
+            "de": "Spät, aber mit Katzen-Charme: Lukas und die Heumarkt-Rettung",
+            "en": "Late, but with cat charm: Lukas and the Heumarkt rescue",
+            "ru": "С опозданием, но с кошачьим шармом: Лукас и спасение на Хоймаркте"
+        },
+        "level": "A2",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Lukas_Katzenmission.jpg",
+        "file": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/audio/Lukas_Katzenmission.mp3",
+        "words": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Lukas_Katzenmission.json",
+        "yesNo": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/yesNo/Lukas_Katzenmission.json",
+        "multi": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/multi/Lukas_Katzenmission.json"
+    }
+]

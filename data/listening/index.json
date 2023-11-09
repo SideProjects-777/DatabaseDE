@@ -27,8 +27,8 @@
             "ru": "Город собора"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
-        "amountOfStories": 0,
-        "active": false
+        "amountOfStories": 1,
+        "active": true
     }, {
         "name": {
             "de": "Berlin",
