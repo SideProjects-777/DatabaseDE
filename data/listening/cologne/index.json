@@ -12,7 +12,7 @@
         },
         "level": "A2",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Lukas_Katzenmission.jpg",
-        "file": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/audio/Lukas_Katzenmission.mp3",
+        "file": "Lukas_Katzenmission.mp3",
         "words": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Lukas_Katzenmission.json",
         "yesNo": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/yesNo/Lukas_Katzenmission.json",
         "multi": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/multi/Lukas_Katzenmission.json"

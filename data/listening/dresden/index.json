@@ -11,7 +11,11 @@
             "ru": "Очаровательно красивый"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/The_Enchanted_Castle.jpg",
-        "file": "The_Enchanted_Castle.mp3"
+        "file": "The_Enchanted_Castle.mp3",
+        "level": "A2",
+        "words": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/words/The_Enchanted_Castle.json",
+        "yesNo": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/yesNo/The_Enchanted_Castle.json",
+        "multi": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/multi/The_Enchanted_Castle.json"
     }, {
         "name": {
             "de": "Die goldene Gans",
@@ -24,7 +28,11 @@
             "ru": "Чудесно волшебный"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/The_Golden_Goose.png",
-        "file": "The_Golden_Goose.mp3"
+        "file": "The_Golden_Goose.mp3",
+        "level": "B1",
+        "words": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/words/The_Golden_Goose.json",
+        "yesNo": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/yesNo/The_Golden_Goose.json",
+        "multi": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/multi/The_Golden_Goose.json"
     }, {
         "name": {
             "de": "Rotkäppchen",
@@ -37,6 +45,10 @@
             "ru": "Классическая сказка"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/img/Little_Red_Riding_Hood.png",
-        "file": "Little_Red_Riding_Hood.mp3"
+        "file": "Little_Red_Riding_Hood.mp3",
+        "level": "A1",
+        "words": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/words/Little_Red_Riding_Hood.json",
+        "yesNo": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/yesNo/Little_Red_Riding_Hood.json",
+        "multi": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dresden/multi/Little_Red_Riding_Hood.json"
     }
 ]
