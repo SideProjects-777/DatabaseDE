@@ -1,0 +1,93 @@
+[
+    {
+        "de": "Inmitten",
+        "en": "Amidst",
+        "ru": "Среди",
+        "descriptionEN": "Surrounded by or in the middle of",
+        "descriptionRU": "Окруженный или посреди"
+    }, {
+        "de": "imposante",
+        "en": "imposing",
+        "ru": "внушительный",
+        "descriptionEN": "Impressive in size or appearance",
+        "descriptionRU": "Внушающий впечатление размером или внешним видом"
+    }, {
+        "de": "der Kölner",
+        "en": "Cologne",
+        "ru": "Кёльнский",
+        "descriptionEN": "Related to or from Cologne",
+        "descriptionRU": "Связанный с Кёльном или из Кёльна"
+    }, {
+        "de": "der Dom",
+        "en": "Cathedral",
+        "ru": "Собор",
+        "descriptionEN": "Referring to the cathedral",
+        "descriptionRU": "Относящийся к собору"
+    }, {
+        "de": "treffen",
+        "en": "meet",
+        "ru": "встречаться",
+        "descriptionEN": "Encounter or come across",
+        "descriptionRU": "Встретиться с кем-то"
+    }, {
+        "de": "der Zufall",
+        "en": "coincidence",
+        "ru": "случайность",
+        "descriptionEN": "A happening by chance",
+        "descriptionRU": "Событие, произошедшее случайно"
+    }, {
+        "de": "aufeinander",
+        "en": "each other",
+        "ru": "друг на друга",
+        "descriptionEN": "Towards one another",
+        "descriptionRU": "Друг к другу"
+    }, {
+        "de": "der Transferstudent",
+        "en": "transfer student",
+        "ru": "студент-трансферник",
+        "descriptionEN": "A student who transfers from one university to another",
+        "descriptionRU": "Студент, переводящийся из одного университета в другой"
+    }, {
+        "de": "die Universität",
+        "en": "university",
+        "ru": "университет",
+        "descriptionEN": "An institution of higher learning",
+        "descriptionRU": "Учебное заведение высшего образования"
+    }, {
+        "de": "die Fremde",
+        "en": "stranger",
+        "ru": "незнакомец",
+        "descriptionEN": "Someone not known or familiar",
+        "descriptionRU": "Кто-то неизвестный или незнакомый"
+    }, {
+        "de": "der Zwischenstopp",
+        "en": "layover",
+        "ru": "пересадка",
+        "descriptionEN": "A temporary stop during a journey",
+        "descriptionRU": "Временная остановка во время путешествия"
+    }, {
+        "de": "die Bank",
+        "en": "bench",
+        "ru": "скамейка",
+        "descriptionEN": "A long seat for multiple people",
+        "descriptionRU": "Длинное сиденье для нескольких человек"
+    }, {
+        "de": "die Anekdoten",
+        "en": "anecdotes",
+        "ru": "анекдоты",
+        "descriptionEN": "Short and amusing or interesting stories",
+        "descriptionRU": "Короткие и забавные или интересные рассказы"
+    }, {
+        "de": "das Fenster",
+        "en": "window",
+        "ru": "окно",
+        "descriptionEN": "An opening in a wall for light and air",
+        "descriptionRU": "Отверстие в стене для света и воздуха"
+    }, {
+        "de": "der Zug",
+        "en": "train",
+        "ru": "поезд",
+        "descriptionEN": "A connected series of railway carriages",
+        "descriptionRU": "Связанная серия железнодорожных вагонов"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": {
+            "de": "Fremde im Dom",
+            "en": "Strangers in the cathedral",
+            "ru": "Незнакомцы в соборе"
+        },
+        "description": {
+            "de": "Dom-Begegnung: Zufällige Freundschaft in Köln",
+            "en": "Cathedral Encounter: Accidental Friendship in Cologne",
+            "ru": "Встреча в соборе: случайная дружба в Кёльне"
+        },
+        "level": "A2",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg",
+        "file": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/txt/Fremde_im_Dom.txt",
+        "words": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json",
+        "yesNo": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/yesNo/Fremde_im_Dom.json",
+        "multi": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/multi/Fremde_im_Dom.json"
+    }
+]
