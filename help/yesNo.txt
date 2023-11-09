@@ -1,0 +1,13 @@
+	Given the following text:
+<Text>
+
+
+	Based on it generate 10 true or false questions in the following format
+
+    {
+        "title": "string", -> sentence either true or false
+        "tr": boolean, -> set true if the statement is true, set false otherwise
+        "fle": boolean, -> set false if the statement is true, set true otherwise
+    },
+
+    Answer should be in json.

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Max wurde in Hamburg geboren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Maria war bereits mehrmals im Kölner Dom gewesen, bevor sie Max und Herr Müller traf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Herr Müller musste die Wartezeit im Dom verbringen, weil sein Flug Verspätung hatte.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max war gespannt auf die neuen Abenteuer als Austauschstudent.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die drei trafen sich absichtlich im Kölner Dom, nicht durch Zufall.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Maria war beeindruckt von der Kultur und dem Dialekt in Köln.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Unterhaltung zwischen Max, Maria und Herr Müller war geprägt von Missverständnissen aufgrund der Sprachbarriere.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Herr Müller erzählte, dass er die Zeit im Dom genoss, weil er dort arbeitete.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max und Maria sprachen während der Unterhaltung nur Englisch, um sich besser zu verstehen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die zufällige Begegnung im Kölner Dom hinterließ keine bleibende Erinnerung für Max, Maria und Herr Müller.",
+        "tr": false,
+        "fle": true
+    }
+]
