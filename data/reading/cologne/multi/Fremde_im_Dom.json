@@ -1,0 +1,417 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "de": "Was war Max' Geburtsort?",
+            "en": "Where was Max born?",
+            "ru": "Где родился Макс?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 1,
+                "text": {
+                    "de": "Hamburg",
+                    "en": "Hamburg",
+                    "ru": "Гамбург"
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 1,
+                "text": {
+                    "de": "Köln",
+                    "en": "Cologne",
+                    "ru": "Кёльн"
+                },
+                "correct": true
+            }, {
+                "id": 3,
+                "questionId": 1,
+                "text": {
+                    "de": "Berlin",
+                    "en": "Berlin",
+                    "ru": "Берлин"
+                },
+                "correct": false
+            }, {
+                "id": 4,
+                "questionId": 1,
+                "text": {
+                    "de": "München",
+                    "en": "Munich",
+                    "ru": "Мюнхен"
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 2,
+        "name": {
+            "de": "Warum musste Max die Universität wechseln?",
+            "en": "Why did Max have to change universities?",
+            "ru": "Почему Максу пришлось сменить университет?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 2,
+                "text": {
+                    "de": "Er hat die Stadt nicht gemocht.",
+                    "en": "He didn't like the city.",
+                    "ru": "Ему не нравился город."
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 2,
+                "text": {
+                    "de": "Er wollte näher bei seiner Familie sein.",
+                    "en": "He wanted to be closer to his family.",
+                    "ru": "Он хотел быть ближе к семье."
+                },
+                "correct": false
+            }, {
+                "id": 3,
+                "questionId": 2,
+                "text": {
+                    "de": "Er war ein Transferstudent.",
+                    "en": "He was a transfer student.",
+                    "ru": "Он был студентом-трансферником."
+                },
+                "correct": true
+            }, {
+                "id": 4,
+                "questionId": 2,
+                "text": {
+                    "de": "Die Universität war geschlossen.",
+                    "en": "The university was closed.",
+                    "ru": "Университет был закрыт."
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 3,
+        "name": {
+            "de": "Was beeindruckte Maria in Köln?",
+            "en": "What impressed Maria in Cologne?",
+            "ru": "Что впечатлило Марию в Кёльне?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 3,
+                "text": {
+                    "de": "Die modernen Gebäude.",
+                    "en": "The modern buildings.",
+                    "ru": "Современные здания."
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 3,
+                "text": {
+                    "de": "Der Kölner Dom.",
+                    "en": "The Cologne Cathedral.",
+                    "ru": "Кёльнский собор."
+                },
+                "correct": true
+            }, {
+                "id": 3,
+                "questionId": 3,
+                "text": {
+                    "de": "Die Parks und Gärten.",
+                    "en": "The parks and gardens.",
+                    "ru": "Парки и сады."
+                },
+                "correct": false
+            }, {
+                "id": 4,
+                "questionId": 3,
+                "text": {
+                    "de": "Die Einkaufsmöglichkeiten.",
+                    "en": "The shopping opportunities.",
+                    "ru": "Возможности для шопинга."
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 4,
+        "name": {
+            "de": "Was erzählte Max stolz über die Kölner Kultur?",
+            "en": "What did Max proudly tell about Cologne's culture?",
+            "ru": "О чём с гордостью рассказывал Макс о кёльнской культуре?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 4,
+                "text": {
+                    "de": "Die kulinarischen Spezialitäten.",
+                    "en": "The culinary specialties.",
+                    "ru": "Кулинарные специальности."
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 4,
+                "text": {
+                    "de": "Die Musiktradition.",
+                    "en": "The musical tradition.",
+                    "ru": "Музыкальная традиция."
+                },
+                "correct": false
+            }, {
+                "id": 3,
+                "questionId": 4,
+                "text": {
+                    "de": "Die kölsche Mundart.",
+                    "en": "The Cologne dialect.",
+                    "ru": "Кёльнский диалект."
+                },
+                "correct": true
+            }, {
+                "id": 4,
+                "questionId": 4,
+                "text": {
+                    "de": "Die Theateraufführungen.",
+                    "en": "The theater performances.",
+                    "ru": "Театральные постановки."
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 5,
+        "name": {
+            "de": "Was teilte Herr Müller über seine Zeit im Dom mit?",
+            "en": "What did Mr. Müller share about his time in the cathedral?",
+            "ru": "Что рассказал мистер Мюллер о своём времени в соборе?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 5,
+                "text": {
+                    "de": "Er hat im Dom gearbeitet.",
+                    "en": "He worked in the cathedral.",
+                    "ru": "Он работал в соборе."
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 5,
+                "text": {
+                    "de": "Er hat die Zeit dort genossen.",
+                    "en": "He enjoyed his time there.",
+                    "ru": "Он наслаждался временем там."
+                },
+                "correct": true
+            }, {
+                "id": 3,
+                "questionId": 5,
+                "text": {
+                    "de": "Er hat den Dom restauriert.",
+                    "en": "He restored the cathedral.",
+                    "ru": "Он восстанавливал собор."
+                },
+                "correct": false
+            }, {
+                "id": 4,
+                "questionId": 5,
+                "text": {
+                    "de": "Er hat im Dom übernachtet.",
+                    "en": "He stayed overnight in the cathedral.",
+                    "ru": "Он переночевал в соборе."
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 6,
+        "name": {
+            "de": "Worauf freute sich Herr Müller besonders?",
+            "en": "What was Mr. Müller particularly looking forward to?",
+            "ru": "На что особенно с нетерпением ждал мистер Мюллер?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 6,
+                "text": {
+                    "de": "Die lebhaften Karnevalsfeierlichkeiten.",
+                    "en": "The lively carnival celebrations.",
+                    "ru": "Живые карнавальные празднования."
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 6,
+                "text": {
+                    "de": "Die Zeit im Dom.",
+                    "en": "The time in the cathedral.",
+                    "ru": "Время в соборе."
+                },
+                "correct": false
+            }, {
+                "id": 3,
+                "questionId": 6,
+                "text": {
+                    "de": "Das Treffen mit seinen Enkelkindern.",
+                    "en": "Meeting his grandchildren.",
+                    "ru": "Встреча с внуками."
+                },
+                "correct": true
+            }, {
+                "id": 4,
+                "questionId": 6,
+                "text": {
+                    "de": "Die Vielfalt der deutschen Städte.",
+                    "en": "The diversity of German cities.",
+                    "ru": "Разнообразие немецких городов."
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 7,
+        "name": {
+            "de": "Was beeindruckte Maria an Köln?",
+            "en": "What impressed Maria about Cologne?",
+            "ru": "Что впечатлило Марию в Кёльне?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 7,
+                "text": {
+                    "de": "Die Menschen",
+                    "en": "The people",
+                    "ru": "Люди"
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 7,
+                "text": {
+                    "de": "Der Dom",
+                    "en": "The cathedral",
+                    "ru": "Собор"
+                },
+                "correct": true
+            }, {
+                "id": 3,
+                "questionId": 7,
+                "text": {
+                    "de": "Die Kultur",
+                    "en": "The culture",
+                    "ru": "Культура"
+                },
+                "correct": false
+            }, {
+                "id": 4,
+                "questionId": 7,
+                "text": {
+                    "de": "Das Essen",
+                    "en": "The food",
+                    "ru": "Еда"
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 8,
+        "name": {
+            "de": "Was war das Hauptthema von Max' Gespräch?",
+            "en": "What was the main topic of Max's conversation?",
+            "ru": "Какая была основная тема разговора Макса?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 8,
+                "text": {
+                    "de": "Kölner Kultur",
+                    "en": "Cologne culture",
+                    "ru": "Кёльнская культура"
+                },
+                "correct": true
+            }, {
+                "id": 2,
+                "questionId": 8,
+                "text": {
+                    "de": "Karnevalsfeierlichkeiten",
+                    "en": "Carnival celebrations",
+                    "ru": "Карнавальные торжества"
+                },
+                "correct": false
+            }, {
+                "id": 3,
+                "questionId": 8,
+                "text": {
+                    "de": "Kölscher Dialekt",
+                    "en": "Colognian dialect",
+                    "ru": "Кёльнский диалект"
+                },
+                "correct": false
+            }, {
+                "id": 4,
+                "questionId": 8,
+                "text": {
+                    "de": "Transferstudium",
+                    "en": "Transfer studies",
+                    "ru": "Трансферное обучение"
+                },
+                "correct": false
+            }
+        ]
+    }, {
+        "id": 9,
+        "name": {
+            "de": "Was musste Herr Müller aufgrund einer Zugverspätung tun?",
+            "en": "What did Mr. Müller have to do due to a train delay?",
+            "ru": "Что должен был сделать мистер Мюллер из-за задержки поезда?"
+        },
+        "answers": [
+            {
+                "id": 1,
+                "questionId": 9,
+                "text": {
+                    "de": "Flugzeug nehmen",
+                    "en": "Take a plane",
+                    "ru": "Взять самолет"
+                },
+                "correct": false
+            }, {
+                "id": 2,
+                "questionId": 9,
+                "text": {
+                    "de": "Taxi nehmen",
+                    "en": "Take a taxi",
+                    "ru": "Взять такси"
+                },
+                "correct": false
+            }, {
+                "id": 3,
+                "questionId": 9,
+                "text": {
+                    "de": "Wartezeit im Kölner Dom verbringen",
+                    "en": "Spend waiting time in the Cologne Cathedral",
+                    "ru": "Провести время ожидания в Кёльнском соборе"
+                },
+                "correct": true
+            }, {
+                "id": 4,
+                "questionId": 9,
+                "text": {
+                    "de": "Zu Fuß gehen",
+                    "en": "Go on foot",
+                    "ru": "Идти пешком"
+                },
+                "correct": false
+            }
+        ]
+    }
+]

@@ -23,3 +23,5 @@
 		descriptionRU: "Совокупность практически усвоенных знаний, навыков, умения."
 
 	}
+
+	Answer should be in json.
