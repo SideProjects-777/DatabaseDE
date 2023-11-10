@@ -1,6 +1,5 @@
 [
 	{
-		"id": 1,
 		"name": {
 			"de": "War Lukas rechtzeitig zur Arbeit?",
 			"en": "Was Lukas on time for work?",
@@ -8,8 +7,6 @@
 		},
 		"answers": [
 			{
-				"id": 1,
-				"questionId": 1,
 				"text": {
 					"de": "Ja, er war pünktlich.",
 					"en": "Yes, he was on time.",
@@ -18,8 +15,6 @@
 				"correct": true
 			},
 			{
-				"id": 2,
-				"questionId": 1,
 				"text": {
 					"de": "Nein, er war spät dran.",
 					"en": "No, he was late.",
@@ -38,8 +33,6 @@
 		},
 		"answers": [
 			{
-				"id": 3,
-				"questionId": 2,
 				"text": {
 					"de": "Ja, die Katze war ruhig.",
 					"en": "Yes, the cat was calm.",
@@ -48,8 +41,6 @@
 				"correct": true
 			},
 			{
-				"id": 4,
-				"questionId": 2,
 				"text": {
 					"de": "Nein, die Katze war aufgeregt.",
 					"en": "No, the cat was excited.",
@@ -60,7 +51,6 @@
 		]
 	},
 	{
-		"id": 3,
 		"name": {
 			"de": "War Lukas gestresst, als er half?",
 			"en": "Was Lukas stressed when he helped?",
@@ -68,8 +58,6 @@
 		},
 		"answers": [
 			{
-				"id": 5,
-				"questionId": 3,
 				"text": {
 					"de": "Ja, Lukas war gestresst.",
 					"en": "Yes, Lukas was stressed.",
@@ -78,8 +66,6 @@
 				"correct": false
 			},
 			{
-				"id": 6,
-				"questionId": 3,
 				"text": {
 					"de": "Nein, Lukas war entspannt.",
 					"en": "No, Lukas was relaxed.",
@@ -90,7 +76,6 @@
 		]
 	},
 	{
-		"id": 4,
 		"name": {
 			"de": "War Frau Müller sauer wegen der Verspätung?",
 			"en": "Was Frau Müller angry about the delay?",
@@ -98,8 +83,6 @@
 		},
 		"answers": [
 			{
-				"id": 7,
-				"questionId": 4,
 				"text": {
 					"de": "Ja, sie war sauer.",
 					"en": "Yes, she was angry.",
@@ -108,8 +91,6 @@
 				"correct": false
 			},
 			{
-				"id": 8,
-				"questionId": 4,
 				"text": {
 					"de": "Nein, sie war dankbar.",
 					"en": "No, she was grateful.",

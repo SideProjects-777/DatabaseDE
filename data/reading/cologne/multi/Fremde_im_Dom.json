@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "name": {
             "de": "Was war Max' Geburtsort?",
             "en": "Where was Max born?",
@@ -8,8 +7,6 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 1,
                 "text": {
                     "de": "Hamburg",
                     "en": "Hamburg",
@@ -17,8 +14,6 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 1,
                 "text": {
                     "de": "Köln",
                     "en": "Cologne",
@@ -26,8 +21,6 @@
                 },
                 "correct": true
             }, {
-                "id": 3,
-                "questionId": 1,
                 "text": {
                     "de": "Berlin",
                     "en": "Berlin",
@@ -35,8 +28,6 @@
                 },
                 "correct": false
             }, {
-                "id": 4,
-                "questionId": 1,
                 "text": {
                     "de": "München",
                     "en": "Munich",
@@ -46,7 +37,6 @@
             }
         ]
     }, {
-        "id": 2,
         "name": {
             "de": "Warum musste Max die Universität wechseln?",
             "en": "Why did Max have to change universities?",
@@ -54,8 +44,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 2,
+
                 "text": {
                     "de": "Er hat die Stadt nicht gemocht.",
                     "en": "He didn't like the city.",
@@ -63,8 +52,7 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 2,
+
                 "text": {
                     "de": "Er wollte näher bei seiner Familie sein.",
                     "en": "He wanted to be closer to his family.",
@@ -72,8 +60,6 @@
                 },
                 "correct": false
             }, {
-                "id": 3,
-                "questionId": 2,
                 "text": {
                     "de": "Er war ein Transferstudent.",
                     "en": "He was a transfer student.",
@@ -92,7 +78,7 @@
             }
         ]
     }, {
-        "id": 3,
+
         "name": {
             "de": "Was beeindruckte Maria in Köln?",
             "en": "What impressed Maria in Cologne?",
@@ -100,8 +86,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 3,
+
                 "text": {
                     "de": "Die modernen Gebäude.",
                     "en": "The modern buildings.",
@@ -109,8 +94,7 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 3,
+
                 "text": {
                     "de": "Der Kölner Dom.",
                     "en": "The Cologne Cathedral.",
@@ -118,8 +102,7 @@
                 },
                 "correct": true
             }, {
-                "id": 3,
-                "questionId": 3,
+
                 "text": {
                     "de": "Die Parks und Gärten.",
                     "en": "The parks and gardens.",
@@ -127,8 +110,7 @@
                 },
                 "correct": false
             }, {
-                "id": 4,
-                "questionId": 3,
+
                 "text": {
                     "de": "Die Einkaufsmöglichkeiten.",
                     "en": "The shopping opportunities.",
@@ -138,7 +120,7 @@
             }
         ]
     }, {
-        "id": 4,
+
         "name": {
             "de": "Was erzählte Max stolz über die Kölner Kultur?",
             "en": "What did Max proudly tell about Cologne's culture?",
@@ -146,8 +128,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 4,
+
                 "text": {
                     "de": "Die kulinarischen Spezialitäten.",
                     "en": "The culinary specialties.",
@@ -155,8 +136,7 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 4,
+
                 "text": {
                     "de": "Die Musiktradition.",
                     "en": "The musical tradition.",
@@ -164,8 +144,7 @@
                 },
                 "correct": false
             }, {
-                "id": 3,
-                "questionId": 4,
+
                 "text": {
                     "de": "Die kölsche Mundart.",
                     "en": "The Cologne dialect.",
@@ -173,8 +152,7 @@
                 },
                 "correct": true
             }, {
-                "id": 4,
-                "questionId": 4,
+
                 "text": {
                     "de": "Die Theateraufführungen.",
                     "en": "The theater performances.",
@@ -184,7 +162,7 @@
             }
         ]
     }, {
-        "id": 5,
+       
         "name": {
             "de": "Was teilte Herr Müller über seine Zeit im Dom mit?",
             "en": "What did Mr. Müller share about his time in the cathedral?",
@@ -192,8 +170,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 5,
+              
                 "text": {
                     "de": "Er hat im Dom gearbeitet.",
                     "en": "He worked in the cathedral.",
@@ -201,8 +178,7 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 5,
+             
                 "text": {
                     "de": "Er hat die Zeit dort genossen.",
                     "en": "He enjoyed his time there.",
@@ -210,8 +186,7 @@
                 },
                 "correct": true
             }, {
-                "id": 3,
-                "questionId": 5,
+              
                 "text": {
                     "de": "Er hat den Dom restauriert.",
                     "en": "He restored the cathedral.",
@@ -219,8 +194,7 @@
                 },
                 "correct": false
             }, {
-                "id": 4,
-                "questionId": 5,
+               
                 "text": {
                     "de": "Er hat im Dom übernachtet.",
                     "en": "He stayed overnight in the cathedral.",
@@ -230,7 +204,7 @@
             }
         ]
     }, {
-        "id": 6,
+      
         "name": {
             "de": "Worauf freute sich Herr Müller besonders?",
             "en": "What was Mr. Müller particularly looking forward to?",
@@ -238,8 +212,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 6,
+             
                 "text": {
                     "de": "Die lebhaften Karnevalsfeierlichkeiten.",
                     "en": "The lively carnival celebrations.",
@@ -247,8 +220,7 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 6,
+              
                 "text": {
                     "de": "Die Zeit im Dom.",
                     "en": "The time in the cathedral.",
@@ -256,8 +228,7 @@
                 },
                 "correct": false
             }, {
-                "id": 3,
-                "questionId": 6,
+               
                 "text": {
                     "de": "Das Treffen mit seinen Enkelkindern.",
                     "en": "Meeting his grandchildren.",
@@ -265,8 +236,7 @@
                 },
                 "correct": true
             }, {
-                "id": 4,
-                "questionId": 6,
+               
                 "text": {
                     "de": "Die Vielfalt der deutschen Städte.",
                     "en": "The diversity of German cities.",
@@ -276,7 +246,7 @@
             }
         ]
     }, {
-        "id": 7,
+       
         "name": {
             "de": "Was beeindruckte Maria an Köln?",
             "en": "What impressed Maria about Cologne?",
@@ -284,8 +254,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 7,
+               
                 "text": {
                     "de": "Die Menschen",
                     "en": "The people",
@@ -293,8 +262,7 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 7,
+               
                 "text": {
                     "de": "Der Dom",
                     "en": "The cathedral",
@@ -302,8 +270,7 @@
                 },
                 "correct": true
             }, {
-                "id": 3,
-                "questionId": 7,
+              
                 "text": {
                     "de": "Die Kultur",
                     "en": "The culture",
@@ -311,8 +278,7 @@
                 },
                 "correct": false
             }, {
-                "id": 4,
-                "questionId": 7,
+               
                 "text": {
                     "de": "Das Essen",
                     "en": "The food",
@@ -322,7 +288,7 @@
             }
         ]
     }, {
-        "id": 8,
+      
         "name": {
             "de": "Was war das Hauptthema von Max' Gespräch?",
             "en": "What was the main topic of Max's conversation?",
@@ -330,8 +296,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 8,
+            
                 "text": {
                     "de": "Kölner Kultur",
                     "en": "Cologne culture",
@@ -339,8 +304,7 @@
                 },
                 "correct": true
             }, {
-                "id": 2,
-                "questionId": 8,
+                
                 "text": {
                     "de": "Karnevalsfeierlichkeiten",
                     "en": "Carnival celebrations",
@@ -348,8 +312,7 @@
                 },
                 "correct": false
             }, {
-                "id": 3,
-                "questionId": 8,
+             
                 "text": {
                     "de": "Kölscher Dialekt",
                     "en": "Colognian dialect",
@@ -357,8 +320,7 @@
                 },
                 "correct": false
             }, {
-                "id": 4,
-                "questionId": 8,
+               
                 "text": {
                     "de": "Transferstudium",
                     "en": "Transfer studies",
@@ -368,7 +330,7 @@
             }
         ]
     }, {
-        "id": 9,
+       
         "name": {
             "de": "Was musste Herr Müller aufgrund einer Zugverspätung tun?",
             "en": "What did Mr. Müller have to do due to a train delay?",
@@ -376,8 +338,7 @@
         },
         "answers": [
             {
-                "id": 1,
-                "questionId": 9,
+                
                 "text": {
                     "de": "Flugzeug nehmen",
                     "en": "Take a plane",
@@ -385,8 +346,7 @@
                 },
                 "correct": false
             }, {
-                "id": 2,
-                "questionId": 9,
+               
                 "text": {
                     "de": "Taxi nehmen",
                     "en": "Take a taxi",
@@ -394,8 +354,7 @@
                 },
                 "correct": false
             }, {
-                "id": 3,
-                "questionId": 9,
+                
                 "text": {
                     "de": "Wartezeit im Kölner Dom verbringen",
                     "en": "Spend waiting time in the Cologne Cathedral",
@@ -403,8 +362,7 @@
                 },
                 "correct": true
             }, {
-                "id": 4,
-                "questionId": 9,
+              
                 "text": {
                     "de": "Zu Fuß gehen",
                     "en": "Go on foot",
