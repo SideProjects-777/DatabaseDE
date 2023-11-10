@@ -1,21 +1,6 @@
 [
     {
         "name": {
-            "de": "Dresden",
-            "en": "Dresden",
-            "ru": "Дрезден"
-        },
-        "folder": "dresden",
-        "description": {
-            "de": "Kunststadt",
-            "en": "Art city",
-            "ru": "Город искусства"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dresden.jpg",
-        "amountOfStories": 3,
-        "active": true
-    }, {
-        "name": {
             "de": "Cologne",
             "en": "Cologne",
             "ru": "Кёльн"
@@ -29,6 +14,21 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
         "amountOfStories": 1,
         "active": true
+    }, {
+        "name": {
+            "de": "Dresden",
+            "en": "Dresden",
+            "ru": "Дрезден"
+        },
+        "folder": "dresden",
+        "description": {
+            "de": "Kunststadt",
+            "en": "Art city",
+            "ru": "Город искусства"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dresden.jpg",
+        "amountOfStories": 3,
+        "active": false
     }, {
         "name": {
             "de": "Berlin",
