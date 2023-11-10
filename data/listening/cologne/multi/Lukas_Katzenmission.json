@@ -1,103 +1,47 @@
 [
-	{
-		"name": {
-			"de": "War Lukas rechtzeitig zur Arbeit?",
-			"en": "Was Lukas on time for work?",
-			"ru": "Был ли Лукас вовремя на работу?"
-		},
-		"answers": [
-			{
-				"text": {
-					"de": "Ja, er war pünktlich.",
-					"en": "Yes, he was on time.",
-					"ru": "Да, он был вовремя."
-				},
-				"correct": true
-			},
-			{
-				"text": {
-					"de": "Nein, er war spät dran.",
-					"en": "No, he was late.",
-					"ru": "Нет, он опоздал."
-				},
-				"correct": false
-			}
-		]
-	},
-	{
-		"id": 2,
-		"name": {
-			"de": "War die Katze ruhig, als Lukas sie hervorholte?",
-			"en": "Was the cat calm when Lukas retrieved it?",
-			"ru": "Кошка была спокойной, когда Лукас ее извлекал?"
-		},
-		"answers": [
-			{
-				"text": {
-					"de": "Ja, die Katze war ruhig.",
-					"en": "Yes, the cat was calm.",
-					"ru": "Да, кошка была спокойной."
-				},
-				"correct": true
-			},
-			{
-				"text": {
-					"de": "Nein, die Katze war aufgeregt.",
-					"en": "No, the cat was excited.",
-					"ru": "Нет, кошка была взволнованной."
-				},
-				"correct": false
-			}
-		]
-	},
-	{
-		"name": {
-			"de": "War Lukas gestresst, als er half?",
-			"en": "Was Lukas stressed when he helped?",
-			"ru": "Был ли Лукас стрессованным, когда он помогал?"
-		},
-		"answers": [
-			{
-				"text": {
-					"de": "Ja, Lukas war gestresst.",
-					"en": "Yes, Lukas was stressed.",
-					"ru": "Да, Лукас был стрессованным."
-				},
-				"correct": false
-			},
-			{
-				"text": {
-					"de": "Nein, Lukas war entspannt.",
-					"en": "No, Lukas was relaxed.",
-					"ru": "Нет, Лукас был спокойным."
-				},
-				"correct": true
-			}
-		]
-	},
-	{
-		"name": {
-			"de": "War Frau Müller sauer wegen der Verspätung?",
-			"en": "Was Frau Müller angry about the delay?",
-			"ru": "Была ли Фрау Мюллер зла из-за задержки?"
-		},
-		"answers": [
-			{
-				"text": {
-					"de": "Ja, sie war sauer.",
-					"en": "Yes, she was angry.",
-					"ru": "Да, она была злая."
-				},
-				"correct": false
-			},
-			{
-				"text": {
-					"de": "Nein, sie war dankbar.",
-					"en": "No, she was grateful.",
-					"ru": "Нет, она была благодарной."
-				},
-				"correct": true
-			}
-		]
-	}
+    {
+        "name": "War Lukas rechtzeitig zur Arbeit?",
+        "answers": [
+            {
+                "text": "Ja, er war pünktlich.",
+                "correct": true
+            }, {
+                "text": "Nein, er war spät dran.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "War die Katze ruhig, als Lukas sie hervorholte?",
+        "answers": [
+            {
+                "text": "Ja, die Katze war ruhig.",
+                "correct": true
+            }, {
+                "text": "Nein, die Katze war aufgeregt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "War Lukas gestresst, als er half?",
+        "answers": [
+            {
+                "text": "Ja, Lukas war gestresst.",
+                "correct": false
+            }, {
+                "text": "Nein, Lukas war entspannt.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "War Frau Müller sauer wegen der Verspätung?",
+        "answers": [
+            {
+                "text": "Ja, sie war sauer.",
+                "correct": false
+            }, {
+                "text": "Nein, sie war dankbar.",
+                "correct": true
+            }
+        ]
+    }
 ]
