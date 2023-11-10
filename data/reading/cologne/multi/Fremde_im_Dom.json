@@ -1,373 +1,191 @@
 [
     {
-        "name": {
-            "de": "Was war Max' Geburtsort?",
-            "en": "Where was Max born?",
-            "ru": "Где родился Макс?"
-        },
+        "name": "Was war Max' Geburtsort?",
         "answers": [
             {
-                "text": {
-                    "de": "Hamburg",
-                    "en": "Hamburg",
-                    "ru": "Гамбург"
-                },
+                "text": "Hamburg",
                 "correct": false
             }, {
-                "text": {
-                    "de": "Köln",
-                    "en": "Cologne",
-                    "ru": "Кёльн"
-                },
+                "text": "Köln",
                 "correct": true
             }, {
-                "text": {
-                    "de": "Berlin",
-                    "en": "Berlin",
-                    "ru": "Берлин"
-                },
+                "text": "Berlin",
                 "correct": false
             }, {
-                "text": {
-                    "de": "München",
-                    "en": "Munich",
-                    "ru": "Мюнхен"
-                },
+                "text": "München",
                 "correct": false
             }
         ]
     }, {
-        "name": {
-            "de": "Warum musste Max die Universität wechseln?",
-            "en": "Why did Max have to change universities?",
-            "ru": "Почему Максу пришлось сменить университет?"
-        },
+        "name": "Warum musste Max die Universität wechseln?",
         "answers": [
             {
 
-                "text": {
-                    "de": "Er hat die Stadt nicht gemocht.",
-                    "en": "He didn't like the city.",
-                    "ru": "Ему не нравился город."
-                },
+                "text": "Er hat die Stadt nicht gemocht.",
                 "correct": false
             }, {
 
-                "text": {
-                    "de": "Er wollte näher bei seiner Familie sein.",
-                    "en": "He wanted to be closer to his family.",
-                    "ru": "Он хотел быть ближе к семье."
-                },
+                "text": "Er wollte näher bei seiner Familie sein.",
                 "correct": false
             }, {
-                "text": {
-                    "de": "Er war ein Transferstudent.",
-                    "en": "He was a transfer student.",
-                    "ru": "Он был студентом-трансферником."
-                },
+                "text": "Er war ein Transferstudent.",
                 "correct": true
             }, {
-                "id": 4,
-                "questionId": 2,
-                "text": {
-                    "de": "Die Universität war geschlossen.",
-                    "en": "The university was closed.",
-                    "ru": "Университет был закрыт."
-                },
+                "text": "Die Universität war geschlossen.",
                 "correct": false
             }
         ]
     }, {
 
-        "name": {
-            "de": "Was beeindruckte Maria in Köln?",
-            "en": "What impressed Maria in Cologne?",
-            "ru": "Что впечатлило Марию в Кёльне?"
-        },
+        "name": "Was beeindruckte Maria in Köln?",
         "answers": [
             {
 
-                "text": {
-                    "de": "Die modernen Gebäude.",
-                    "en": "The modern buildings.",
-                    "ru": "Современные здания."
-                },
+                "text": "Die modernen Gebäude.",
                 "correct": false
             }, {
 
-                "text": {
-                    "de": "Der Kölner Dom.",
-                    "en": "The Cologne Cathedral.",
-                    "ru": "Кёльнский собор."
-                },
+                "text": "Der Kölner Dom.",
                 "correct": true
             }, {
 
-                "text": {
-                    "de": "Die Parks und Gärten.",
-                    "en": "The parks and gardens.",
-                    "ru": "Парки и сады."
-                },
+                "text": "Die Parks und Gärten.",
                 "correct": false
             }, {
 
-                "text": {
-                    "de": "Die Einkaufsmöglichkeiten.",
-                    "en": "The shopping opportunities.",
-                    "ru": "Возможности для шопинга."
-                },
+                "text": "Die Einkaufsmöglichkeiten.",
                 "correct": false
             }
         ]
     }, {
 
-        "name": {
-            "de": "Was erzählte Max stolz über die Kölner Kultur?",
-            "en": "What did Max proudly tell about Cologne's culture?",
-            "ru": "О чём с гордостью рассказывал Макс о кёльнской культуре?"
-        },
+        "name": "Was erzählte Max stolz über die Kölner Kultur?",
         "answers": [
             {
 
-                "text": {
-                    "de": "Die kulinarischen Spezialitäten.",
-                    "en": "The culinary specialties.",
-                    "ru": "Кулинарные специальности."
-                },
+                "text": "Die kulinarischen Spezialitäten.",
                 "correct": false
             }, {
 
-                "text": {
-                    "de": "Die Musiktradition.",
-                    "en": "The musical tradition.",
-                    "ru": "Музыкальная традиция."
-                },
+                "text": "Die Musiktradition.",
                 "correct": false
             }, {
 
-                "text": {
-                    "de": "Die kölsche Mundart.",
-                    "en": "The Cologne dialect.",
-                    "ru": "Кёльнский диалект."
-                },
+                "text": "Die kölsche Mundart.",
                 "correct": true
             }, {
 
-                "text": {
-                    "de": "Die Theateraufführungen.",
-                    "en": "The theater performances.",
-                    "ru": "Театральные постановки."
-                },
+                "text": "Die Theateraufführungen.",
                 "correct": false
             }
         ]
     }, {
-       
-        "name": {
-            "de": "Was teilte Herr Müller über seine Zeit im Dom mit?",
-            "en": "What did Mr. Müller share about his time in the cathedral?",
-            "ru": "Что рассказал мистер Мюллер о своём времени в соборе?"
-        },
+
+        "name": "Was teilte Herr Müller über seine Zeit im Dom mit?",
         "answers": [
             {
-              
-                "text": {
-                    "de": "Er hat im Dom gearbeitet.",
-                    "en": "He worked in the cathedral.",
-                    "ru": "Он работал в соборе."
-                },
+
+                "text": "Er hat im Dom gearbeitet.",
                 "correct": false
             }, {
-             
-                "text": {
-                    "de": "Er hat die Zeit dort genossen.",
-                    "en": "He enjoyed his time there.",
-                    "ru": "Он наслаждался временем там."
-                },
+
+                "text": "Er hat die Zeit dort genossen.",
                 "correct": true
             }, {
-              
-                "text": {
-                    "de": "Er hat den Dom restauriert.",
-                    "en": "He restored the cathedral.",
-                    "ru": "Он восстанавливал собор."
-                },
+
+                "text": "Er hat den Dom restauriert.",
                 "correct": false
             }, {
-               
-                "text": {
-                    "de": "Er hat im Dom übernachtet.",
-                    "en": "He stayed overnight in the cathedral.",
-                    "ru": "Он переночевал в соборе."
-                },
+
+                "text": "Er hat im Dom übernachtet.",
                 "correct": false
             }
         ]
     }, {
-      
-        "name": {
-            "de": "Worauf freute sich Herr Müller besonders?",
-            "en": "What was Mr. Müller particularly looking forward to?",
-            "ru": "На что особенно с нетерпением ждал мистер Мюллер?"
-        },
+
+        "name": "Worauf freute sich Herr Müller besonders?",
         "answers": [
             {
-             
-                "text": {
-                    "de": "Die lebhaften Karnevalsfeierlichkeiten.",
-                    "en": "The lively carnival celebrations.",
-                    "ru": "Живые карнавальные празднования."
-                },
+
+                "text": "Die lebhaften Karnevalsfeierlichkeiten.",
                 "correct": false
             }, {
-              
-                "text": {
-                    "de": "Die Zeit im Dom.",
-                    "en": "The time in the cathedral.",
-                    "ru": "Время в соборе."
-                },
+
+                "text": "Die Zeit im Dom.",
                 "correct": false
             }, {
-               
-                "text": {
-                    "de": "Das Treffen mit seinen Enkelkindern.",
-                    "en": "Meeting his grandchildren.",
-                    "ru": "Встреча с внуками."
-                },
+
+                "text": "Das Treffen mit seinen Enkelkindern.",
                 "correct": true
             }, {
-               
-                "text": {
-                    "de": "Die Vielfalt der deutschen Städte.",
-                    "en": "The diversity of German cities.",
-                    "ru": "Разнообразие немецких городов."
-                },
+
+                "text": "Die Vielfalt der deutschen Städte.",
                 "correct": false
             }
         ]
     }, {
-       
-        "name": {
-            "de": "Was beeindruckte Maria an Köln?",
-            "en": "What impressed Maria about Cologne?",
-            "ru": "Что впечатлило Марию в Кёльне?"
-        },
+
+        "name": "Was beeindruckte Maria an Köln?",
         "answers": [
             {
-               
-                "text": {
-                    "de": "Die Menschen",
-                    "en": "The people",
-                    "ru": "Люди"
-                },
+
+                "text": "Die Menschen",
                 "correct": false
             }, {
-               
-                "text": {
-                    "de": "Der Dom",
-                    "en": "The cathedral",
-                    "ru": "Собор"
-                },
+
+                "text": "Der Dom",
                 "correct": true
             }, {
-              
-                "text": {
-                    "de": "Die Kultur",
-                    "en": "The culture",
-                    "ru": "Культура"
-                },
+
+                "text": "Die Kultur",
                 "correct": false
             }, {
-               
-                "text": {
-                    "de": "Das Essen",
-                    "en": "The food",
-                    "ru": "Еда"
-                },
+
+                "text": "Das Essen",
                 "correct": false
             }
         ]
     }, {
-      
-        "name": {
-            "de": "Was war das Hauptthema von Max' Gespräch?",
-            "en": "What was the main topic of Max's conversation?",
-            "ru": "Какая была основная тема разговора Макса?"
-        },
+
+        "name": "Was war das Hauptthema von Max' Gespräch?",
         "answers": [
             {
-            
-                "text": {
-                    "de": "Kölner Kultur",
-                    "en": "Cologne culture",
-                    "ru": "Кёльнская культура"
-                },
+
+                "text": "Kölner Kultur",
                 "correct": true
             }, {
-                
-                "text": {
-                    "de": "Karnevalsfeierlichkeiten",
-                    "en": "Carnival celebrations",
-                    "ru": "Карнавальные торжества"
-                },
+
+                "text": "Karnevalsfeierlichkeiten",
                 "correct": false
             }, {
-             
-                "text": {
-                    "de": "Kölscher Dialekt",
-                    "en": "Colognian dialect",
-                    "ru": "Кёльнский диалект"
-                },
+
+                "text": "Kölscher Dialekt",
                 "correct": false
             }, {
-               
-                "text": {
-                    "de": "Transferstudium",
-                    "en": "Transfer studies",
-                    "ru": "Трансферное обучение"
-                },
+
+                "text": "Transferstudium",
                 "correct": false
             }
         ]
     }, {
-       
-        "name": {
-            "de": "Was musste Herr Müller aufgrund einer Zugverspätung tun?",
-            "en": "What did Mr. Müller have to do due to a train delay?",
-            "ru": "Что должен был сделать мистер Мюллер из-за задержки поезда?"
-        },
+
+        "name": "Was musste Herr Müller aufgrund einer Zugverspätung tun?",
         "answers": [
             {
-                
-                "text": {
-                    "de": "Flugzeug nehmen",
-                    "en": "Take a plane",
-                    "ru": "Взять самолет"
-                },
+
+                "text": "Flugzeug nehmen",
                 "correct": false
             }, {
-               
-                "text": {
-                    "de": "Taxi nehmen",
-                    "en": "Take a taxi",
-                    "ru": "Взять такси"
-                },
+
+                "text": "Taxi nehmen",
                 "correct": false
             }, {
-                
-                "text": {
-                    "de": "Wartezeit im Kölner Dom verbringen",
-                    "en": "Spend waiting time in the Cologne Cathedral",
-                    "ru": "Провести время ожидания в Кёльнском соборе"
-                },
+
+                "text": "Wartezeit im Kölner Dom verbringen",
                 "correct": true
             }, {
-              
-                "text": {
-                    "de": "Zu Fuß gehen",
-                    "en": "Go on foot",
-                    "ru": "Идти пешком"
-                },
+
+                "text": "Zu Fuß gehen",
                 "correct": false
             }
         ]
