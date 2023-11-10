@@ -1,5 +1,6 @@
 [
     {
+        "id":"1",
         "name": {
             "de": "Cologne",
             "en": "Cologne",
@@ -15,6 +16,7 @@
         "amountOfStories": 1,
         "active": true
     }, {
+        "id":"2",
         "name": {
             "de": "Berlin",
             "en": "Berlin",

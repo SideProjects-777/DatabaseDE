@@ -11,10 +11,10 @@
             "ru": "Встреча в соборе: случайная дружба в Кёльне"
         },
         "level": "A2",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg",
-        "file": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/txt/Fremde_im_Dom.txt",
-        "words": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json",
-        "yesNo": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/yesNo/Fremde_im_Dom.json",
-        "multi": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/multi/Fremde_im_Dom.json"
+        "image": "Fremde_im_Dom.jpg",
+        "file": "Fremde_im_Dom.txt",
+        "words": "Fremde_im_Dom.json",
+        "yesNo": "Fremde_im_Dom.json",
+        "multi": "Fremde_im_Dom.json"
     }
 ]
