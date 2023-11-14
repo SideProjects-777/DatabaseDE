@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Hohenzollernbrücke befindet sich in München.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Anna und Daniel Herz haben Marie Schulmanns Geldbörse absichtlich gefunden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Ein Liebesschloss ist ein Vorhängeschloss, das ewige Liebe an einer Brücke symbolisiert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Marie Schulmann hat im Sommer ihre Geldbörse verloren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das frisch verheiratete Paar feierte seinen Jahrestag auf der Hohenzollernbrücke.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Marie Schulmann erkannte Anna und Daniel am Foto in der Geldbörse.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Liebesschlossinstallation auf der Brücke ist nicht berühmt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die alte Dame, Marie Schulmann, schenkte Anna und Daniel ein Vorhängeschloss als Hochzeitsgeschenk.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Daniel Herz hat die Geldbörse zufällig in Maries Tasche gefunden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Marie Schulmanns verlorene Geldbörse enthielt ein kleines, verblasstes Foto von ihr.",
+        "tr": true,
+        "fle": false
+    }
+]

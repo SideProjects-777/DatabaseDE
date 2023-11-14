@@ -13,7 +13,23 @@
         "level": "A2",
         "image": "Fremde_im_Dom.jpg",
         "file": "Fremde_im_Dom.txt",
-        "words": "Fremde_im_Dom.json",        
+        "words": "Fremde_im_Dom.json",
         "multi": "Fremde_im_Dom.json"
+    }, {
+        "name": {
+            "de": "Verlorene Brieftasche",
+            "en": "Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },
+        "description": {
+            "de": "Unerwartete Anleihen auf der Hohenzollernbrücke",
+            "en": "Unexpected Bonds on the Hohenzollern Bridge",
+            "ru": "Неожиданные узы на мосту Гогенцоллернов"
+        },
+        "level": "A2",
+        "image": "Lost_Wallet.jpg",
+        "file": "Lost_Wallet.txt",
+        "words": "Lost_Wallet.json",
+        "yesNo": "Lost_Wallet.json"
     }
 ]

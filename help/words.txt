@@ -13,7 +13,7 @@
 	}
 
 	Selected words are not allowed to be phrases only single words. If the given word is noun, then de part should also have its article (der / die / das)
-
+	Include also verbs, adverbs and adjectives
 	example:
 	{
 		de: "die Erfahrung",
