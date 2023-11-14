@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wann wurde der Kölner Dom fertiggestellt?",
+        "answers": [
+            {
+                "text": "Im 19. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "Im 20. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "Im 18. Jahrhundert",
+                "correct": true
+            }, {
+                "text": "Im 16. Jahrhundert",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Baustil dominiert beim Kölner Dom?",
+        "answers": [
+            {
+                "text": "Barock",
+                "correct": false
+            }, {
+                "text": "Romanisch",
+                "correct": false
+            }, {
+                "text": "Gotik",
+                "correct": true
+            }, {
+                "text": "Renaissance",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Fluss fließ durch Köln?",
+        "answers": [
+            {
+                "text": "Donau",
+                "correct": false
+            }, {
+                "text": "Main",
+                "correct": false
+            }, {
+                "text": "Rhein",
+                "correct": true
+            }, {
+                "text": "Mosel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was befindet sich im Dreikönigenschrein im Kölner Dom?",
+        "answers": [
+            {
+                "text": "Historische Bücher",
+                "correct": false
+            }, {
+                "text": "Reliquien der Heiligen Drei Könige",
+                "correct": true
+            }, {
+                "text": "Kunstwerke aus dem 18. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "Antike Münzen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie hoch sind die Türme des Kölner Doms?",
+        "answers": [
+            {
+                "text": "80 Meter",
+                "correct": false
+            }, {
+                "text": "120 Meter",
+                "correct": false
+            }, {
+                "text": "157 Meter",
+                "correct": true
+            }, {
+                "text": "200 Meter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Bedeutung hat der Kölner Dom für die Stadt?",
+        "answers": [
+            {
+                "text": "Nur touristisch",
+                "correct": false
+            }, {
+                "text": "Nur kulturell",
+                "correct": false
+            }, {
+                "text": "Religiöses und kulturelles Zentrum",
+                "correct": true
+            }, {
+                "text": "Nur historisch",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Veranstaltungen finden regelmäßig im Kölner Dom statt?",
+        "answers": [
+            {
+                "text": "Konzerte",
+                "correct": false
+            }, {
+                "text": "Sportveranstaltungen",
+                "correct": false
+            }, {
+                "text": "Gottesdienste und Events",
+                "correct": true
+            }, {
+                "text": "Theateraufführungen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was symbolisieren die Liebesschlösser auf der Hohenzollernbrücke?",
+        "answers": [
+            {
+                "text": "Ewige Freundschaft",
+                "correct": false
+            }, {
+                "text": "Ewige Liebe",
+                "correct": true
+            }, {
+                "text": "Ewiger Wohlstand",
+                "correct": false
+            }, {
+                "text": "Ewige Treue",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Besucher strömen jährlich zum Kölner Dom?",
+        "answers": [
+            {
+                "text": "500.000",
+                "correct": false
+            }, {
+                "text": "1 Million",
+                "correct": false
+            }, {
+                "text": "3 Millionen",
+                "correct": true
+            }, {
+                "text": "5 Millionen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Jahreszeit bietet den besten Blick vom Kölner Dom?",
+        "answers": [
+            {
+                "text": "Frühling",
+                "correct": false
+            }, {
+                "text": "Sommer",
+                "correct": false
+            }, {
+                "text": "Herbst",
+                "correct": true
+            }, {
+                "text": "Winter",
+                "correct": false
+            }
+        ]
+    }
+]

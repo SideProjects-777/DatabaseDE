@@ -1,0 +1,87 @@
+[
+    {
+        "de": "der Dom",
+        "en": "Cathedral",
+        "ru": "Собор",
+        "descriptionEN": "a large and important church, typically one that is the main church of a diocese.",
+        "descriptionRU": "большая и важная церковь, обычно являющаяся главной церковью епархии."
+    }, {
+        "de": "gotisch",
+        "en": "Gothic",
+        "ru": "Готический",
+        "descriptionEN": "relating to a style of architecture that flourished in Europe from the 12th to the 16th century.",
+        "descriptionRU": "относящийся к стилю архитектуры, процветавшему в Европе с XII по XVI век."
+    }, {
+        "de": "der Turm",
+        "en": "Tower",
+        "ru": "Башня",
+        "descriptionEN": "a tall structure, typically taller than it is wide, often used as a lookout or landmark.",
+        "descriptionRU": "высокая конструкция, обычно более высокая, чем широкая, часто используемая как вышка или ориентир."
+    }, {
+        "de": "die Verzierung",
+        "en": "Decoration",
+        "ru": "Украшение",
+        "descriptionEN": "the process of adorning or decorating; ornamentation.",
+        "descriptionRU": "процесс украшения или декорирования; орнаментация."
+    }, {
+        "de": "die Geschichte",
+        "en": "History",
+        "ru": "История",
+        "descriptionEN": "the study of past events, particularly in human affairs.",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах."
+    }, {
+        "de": "die Reliquie",
+        "en": "Relic",
+        "ru": "Реликвия",
+        "descriptionEN": "objects esteemed and venerated because of association with a saint or martyr.",
+        "descriptionRU": "предметы, уважаемые и почитаемые из-за связи с святым или мучеником."
+    }, {
+        "de": "das Artefakt",
+        "en": "Artifact",
+        "ru": "Артефакт",
+        "descriptionEN": "an object made by a human being, typically one of cultural or historical interest.",
+        "descriptionRU": "предмет, созданный человеком, обычно представляющий культурный или исторический интерес."
+    }, {
+        "de": "die Architektur",
+        "en": "Architecture",
+        "ru": "Архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings.",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий."
+    }, {
+        "de": "der Blick",
+        "en": "View",
+        "ru": "Вид",
+        "descriptionEN": "the ability to see or the range of vision.",
+        "descriptionRU": "способность видеть или диапазон зрения."
+    }, {
+        "de": "die Bedeutung",
+        "en": "Significance",
+        "ru": "Значение",
+        "descriptionEN": "the quality of being worthy of attention; importance.",
+        "descriptionRU": "качество, достойное внимания; важность."
+    }, {
+        "de": "religiöse",
+        "en": "religious",
+        "ru": "религиозный",
+        "descriptionEN": "relating to or believing in a religion; having a strong belief in a deity or deities.",
+        "descriptionRU": "относящийся к религии или верящий в религию; сильно верящий в божество или богов."
+    }, {
+        "de": "die Kultur",
+        "en": "Culture",
+        "ru": "Культура",
+        "descriptionEN": "the arts and other manifestations of human intellectual achievement regarded collectively.",
+        "descriptionRU": "искусство и другие проявления интеллектуальных достижений человека, рассматриваемые в совокупности."
+    }, {
+        "de": "der Besucher",
+        "en": "Visitor",
+        "ru": "Посетитель",
+        "descriptionEN": "a person visiting a place for pleasure or out of curiosity.",
+        "descriptionRU": "человек, посещающий место для удовольствия или из любопытства."
+    }, {
+        "de": "der Jahrestag",
+        "en": "Anniversary",
+        "ru": "Годовщина",
+        "descriptionEN": "the annual recurrence of a date marking a notable event.",
+        "descriptionRU": "годовая повторяемость даты, отмечающей заметное событие."
+    }
+]

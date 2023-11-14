@@ -1,47 +1,30 @@
 	Given the following text:
 <TEXT>
 export interface Question {
-    id:number, -> id of the question
-    name: LanguageState, -> question itself in 3 language representation -> en: question in english, de -> question in german and ru -> question in russian
+    name: string, -> question itself in german language 
     answers:Answers[]; -> an array of answers, usually min 2 and max 4
 }
 
 export interface Answers {
-    id:number, -> id of the answer
-    questionId:number, -> id of the question, it is the same number as id of Question interface
-    text: LanguageState, -> answer represented in 3 languages  -> en: answer in english, de -> answer in german and ru -> answer in russian
+    text: string, -> answer represented in german language
     correct:boolean, -> marks if the question is correct
 }
 
-export interface LanguageState{
-	de : string;
-	en : string;
-	ru : string;
-}
+
  
  Example of such response is the following
 
     {
-        "id":1, -> id of the question or questionId
-        "name": {
-            "de": "Frage 1", -> question title in german
-            "en": "Question 1", -> translated version to english
-            "ru": "Вопрос 1" -> translated version to russian
-        },
+        "name": "Frage 1", -> question title in german,
         "answers":[
             {
-                "id":1, -> id of an answer answer
-                "questionId":1, -> mapped with question id
-                "text":{
-                    "de": "Antworte 1", -> answer to the question in german
-                    "en": "Answer 1", -> answer to the question in english
-                    "ru": "Ответ 1" -> answer to the question in russian
-                },
+            
+                "text": "Antworte 1", -> answer to the question in german,
                 "correct":false -> boolean if this is the correct answer
             },
             ....
         ]
     }
 
-	
+	All the questions should be taken from the text.
 	Response should be in json.

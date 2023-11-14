@@ -31,5 +31,22 @@
         "file": "Lost_Wallet.txt",
         "words": "Lost_Wallet.json",
         "yesNo": "Lost_Wallet.json"
+    },
+    {
+        "name": {
+            "de": "Kölner Dom",
+            "en": "Cologne cathedral",
+            "ru": "Кельнский собор"
+        },
+        "description": {
+            "de": "Historische und majestätische Kathedrale",
+            "en": "Historical and majestic cathedral",
+            "ru": "Исторический и величественный собор"
+        },
+        "level": "B1",
+        "image": "Dom.jpg",
+        "file": "Dom.txt",
+        "words": "Dom.json",
+        "multi": "Dom.json"
     }
 ]
