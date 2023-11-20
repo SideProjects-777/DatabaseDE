@@ -5,7 +5,7 @@
             "en": "Berlin",
             "ru": "Берлин"
         },
-        "filename": "/berlin/index.json",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/berlin/image.jpg"
     }, {
         "title": {
@@ -13,7 +13,39 @@
             "en": "Household",
             "ru": "Быт"
         },
-        "filename": "/household/index.json",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
+    }, {
+        "title": {
+            "de": "Lukas' Katzenmission",
+            "en": "Luke's cat mission",
+            "ru": "Кошачья миссия Люка"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Lukas_Katzenmission.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Lukas_Katzenmission.jpg"
+    }, {
+        "title": {
+            "de": "Kölner Dom",
+            "en": "Cologne cathedral",
+            "ru": "Кельнский собор"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dom.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dom.jpg"
+    }, {
+        "title": {
+            "de": "Verlorene Brieftasche",
+            "en": "Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Lost_Wallet.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Lost_Wallet.jpg"
+    }, {
+        "title": {
+            "de": "Fremde im Dom",
+            "en": "Strangers in the cathedral",
+            "ru": "Незнакомцы в соборе"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg"
     }
 ]
