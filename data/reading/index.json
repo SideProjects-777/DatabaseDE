@@ -16,62 +16,47 @@
         "active": true
     }, {
         "name": {
-            "de": "Berlin",
-            "en": "Berlin",
-            "ru": "Берлин"
+            "de": "Bonn",
+            "en": "Bonn",
+            "ru": "Бонн"
         },
-        "folder": "berlin",
+        "folder": "bonn",
         "description": {
-            "de": "Große Metropole",
-            "en": "Large metropolis",
-            "ru": "Большой город"
+            "de": "Der Geburtsort von Beethoven",
+            "en": "The birthplace of Beethoven",
+            "ru": "Родина Бетховена"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/berlin.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonn.jpg",
         "amountOfStories": 0,
         "active": false
     }, {
         "name": {
-            "de": "Hamburg",
-            "en": "Hamburg",
-            "ru": "Гамбург"
+            "de": "Koblenz",
+            "en": "Koblenz",
+            "ru": "Кобленц"
         },
-        "folder": "hamburg",
+        "folder": "koblenz",
         "description": {
-            "de": "Hafenstadt",
-            "en": "Port city",
-            "ru": "Портовый город"
+            "de": "Der Zusammenfluss von Rhein und Mosel",
+            "en": "The confluence of the Rhine and Moselle",
+            "ru": "Слияние рек Рейн и Мозель"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/hamburg.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
         "amountOfStories": 0,
         "active": false
     }, {
         "name": {
-            "de": "Munich",
-            "en": "Munich",
-            "ru": "Мюнхен"
+            "de": "Düsseldorf",
+            "en": "Düsseldorf",
+            "ru": "Дюссельдорф"
         },
-        "folder": "munich",
+        "folder": "dusseldorf",
         "description": {
-            "de": "Biergarten",
-            "en": "Beer garden",
-            "ru": "Пивной сад"
+            "de": "Belebte Mode- und Handelsmessen",
+            "en": "Bustling fashion and trade fairs",
+            "ru": "Оживленные ярмарки моды и торговли"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/munich.jpg",
-        "amountOfStories": 0,
-        "active": false
-    }, {
-        "name": {
-            "de": "Dresden",
-            "en": "Dresden",
-            "ru": "Дрезден"
-        },
-        "folder": "dresden",
-        "description": {
-            "de": "Kunststadt",
-            "en": "Art city",
-            "ru": "Город искусства"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dresden.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
         "amountOfStories": 0,
         "active": false
     }, {
@@ -91,47 +76,17 @@
         "active": false
     }, {
         "name": {
-            "de": "Hannover",
-            "en": "Hannover",
-            "ru": "Ганновер"
+            "de": "Dortmund",
+            "en": "Dortmund",
+            "ru": "Дортмунд"
         },
-        "folder": "hannover",
+        "folder": "dortmund",
         "description": {
-            "de": "Messestadt",
-            "en": "Trade fair city",
-            "ru": "Город ярмарок"
+            "de": "Westfalenstadion",
+            "en": "Signal Iduna Park",
+            "ru": "Сигна́л Иду́на Парк"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/hannover.jpg",
-        "amountOfStories": 0,
-        "active": false
-    }, {
-        "name": {
-            "de": "Leipzig",
-            "en": "Leipzig",
-            "ru": "Лейпциг"
-        },
-        "folder": "leipzig",
-        "description": {
-            "de": "Kulturstadt",
-            "en": "Cultural city",
-            "ru": "Культурный город"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/leipzig.jpg",
-        "amountOfStories": 0,
-        "active": false
-    }, {
-        "name": {
-            "de": "Stuttgart",
-            "en": "Stuttgart",
-            "ru": "Штутгарт"
-        },
-        "folder": "stuttgart",
-        "description": {
-            "de": "Autohersteller",
-            "en": "Car manufacturer",
-            "ru": "Производитель автомобилей"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/stuttgart.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
         "amountOfStories": 0,
         "active": false
     }
