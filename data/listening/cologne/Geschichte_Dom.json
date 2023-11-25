@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "de": "Kölner Dom",
+            "en": "Cologne Cathedral",
+            "ru": "Кельнский собор"
+        },
+        "description": {
+            "de": "History of the cathedral's construction",
+            "en": "Geschichte des Baus der Kathedrale",
+            "ru": "История постройки собора"
+        },
+        "level": "B1",
+        "image": "Geschichte_Dom.jpg",
+        "file": "Geschichte_Dom.txt",
+        "words": "Geschichte_Dom.json",
+        "yesNo": "Geschichte_Dom.json"
+    }
+]
