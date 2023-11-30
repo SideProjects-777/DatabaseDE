@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Wo hat Helma die letzten 16 Jahre verbracht?",
+        "answers": [
+            {
+                "text": "In Köln",
+                "correct": false
+            }, {
+                "text": "In Cochem",
+                "correct": true
+            }, {
+                "text": "In Hamburg",
+                "correct": false
+            }, {
+                "text": "In Berlin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo wurde Lisa geboren und aufgewachsen?",
+        "answers": [
+            {
+                "text": "In Cochem",
+                "correct": false
+            }, {
+                "text": "In Hamburg",
+                "correct": true
+            }, {
+                "text": "In Köln",
+                "correct": false
+            }, {
+                "text": "In Frankfurt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was suchte Hans in Köln?",
+        "answers": [
+            {
+                "text": "Abenteuer",
+                "correct": false
+            }, {
+                "text": "Inspiration für sein Buch",
+                "correct": true
+            }, {
+                "text": "Kulinarische Erfahrungen",
+                "correct": false
+            }, {
+                "text": "Entspannung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo kreuzten sich die Wege von Helma, Lisa und Hans?",
+        "answers": [
+            {
+                "text": "In der Nähe des Hamburger Doms",
+                "correct": false
+            }, {
+                "text": "In der Nähe des Kölner Doms",
+                "correct": true
+            }, {
+                "text": "In der Altstadt von Cochem",
+                "correct": false
+            }, {
+                "text": "Am Rheinufer von Frankfurt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machten Helma, Lisa und Hans gemeinsam in Köln?",
+        "answers": [
+            {
+                "text": "Einkaufen gehen",
+                "correct": false
+            }, {
+                "text": "Fußballspielen",
+                "correct": false
+            }, {
+                "text": "Die Stadt erkunden",
+                "correct": true
+            }, {
+                "text": "Kochen lernen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo reflektierten Helma, Lisa und Hans über die Abenteuer des Tages?",
+        "answers": [
+            {
+                "text": "Im Flugzeug",
+                "correct": false
+            }, {
+                "text": "In einem gemütlichen Café",
+                "correct": true
+            }, {
+                "text": "Auf dem Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Am Rheinufer",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was trugen Helma, Lisa und Hans im Herzen und im Kopf?",
+        "answers": [
+            {
+                "text": "Rezepte für Kölner Spezialitäten",
+                "correct": false
+            }, {
+                "text": "Die Essenz von Berlin",
+                "correct": false
+            }, {
+                "text": "Die Magie von Köln",
+                "correct": true
+            }, {
+                "text": "Geografische Koordinaten",
+                "correct": false
+            }
+        ]
+    }
+]

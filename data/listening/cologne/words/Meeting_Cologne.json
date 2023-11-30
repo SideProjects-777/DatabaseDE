@@ -1,0 +1,87 @@
+[
+    {
+        "de": "die letzten",
+        "en": "the last",
+        "ru": "последние",
+        "descriptionEN": "indicating that a period of time preceding the moment of speaking or writing has just elapsed.",
+        "descriptionRU": "указывает на то, что период времени, предшествующий моменту разговора или написания, только что прошел."
+    }, {
+        "de": "kurz",
+        "en": "short",
+        "ru": "краткий",
+        "descriptionEN": "measuring a small distance from end to end.",
+        "descriptionRU": "измерение небольшого расстояния от конца до конца."
+    }, {
+        "de": "erste",
+        "en": "first",
+        "ru": "первый",
+        "descriptionEN": "coming before all others in time or order.",
+        "descriptionRU": "приходящий перед всеми по времени или порядку."
+    }, {
+        "de": "erfahrener",
+        "en": "experienced",
+        "ru": "опытный",
+        "descriptionEN": "having knowledge or skill in a particular field, especially a profession or job.",
+        "descriptionRU": "имеющий знания или навыки в определенной области, особенно в профессии или работе."
+    }, {
+        "de": "zufällig",
+        "en": "coincidentally",
+        "ru": "случайно",
+        "descriptionEN": "happening by chance; not planned or expected.",
+        "descriptionRU": "происходящий случайно; не запланированный или ожидаемый."
+    }, {
+        "de": "Nähe",
+        "en": "near",
+        "ru": "рядом",
+        "descriptionEN": "at or to a short distance away; nearby.",
+        "descriptionRU": "на коротком расстоянии; поблизости."
+    }, {
+        "de": "gemütlichen",
+        "en": "cozy",
+        "ru": "уютный",
+        "descriptionEN": "giving a feeling of comfort, warmth, and relaxation.",
+        "descriptionRU": "создающий ощущение комфорта, тепла и расслабления."
+    }, {
+        "de": "die Zusammenarbeit",
+        "en": "collaboration",
+        "ru": "сотрудничество",
+        "descriptionEN": "the action of working with someone to produce or create something.",
+        "descriptionRU": "действие совместной работы с кем-то для производства или создания чего-то."
+    }, {
+        "de": "die Erfahrung",
+        "en": "experience",
+        "ru": "опыт",
+        "descriptionEN": "practical contact with and observation of facts or events.",
+        "descriptionRU": "совокупность практически усвоенных знаний, навыков, умения."
+    }, {
+        "de": "die Idee",
+        "en": "idea",
+        "ru": "идея",
+        "descriptionEN": "a thought or suggestion as to a possible course of action.",
+        "descriptionRU": "мысль или предложение относительно возможного пути действий."
+    }, {
+        "de": "inspirierend",
+        "en": "inspiring",
+        "ru": "вдохновляющий",
+        "descriptionEN": "filling someone with the urge or ability to do or feel something.",
+        "descriptionRU": "наполняющий кого-то желанием или способностью делать или чувствовать что-то."
+    }, {
+        "de": "die Magie",
+        "en": "magic",
+        "ru": "волшебство",
+        "descriptionEN": "the power of apparently influencing events by using mysterious or supernatural forces.",
+        "descriptionRU": "способность, по-видимому, влиять на события с использованием таинственных или сверхъестественных сил."
+    }, {
+        "de": "das Herz",
+        "en": "heart",
+        "ru": "сердце",
+        "descriptionEN": "the central or most vital part of something.",
+        "descriptionRU": "центральная или наиболее важная часть чего-то."
+    }, {
+        "de": "der Kopf",
+        "en": "mind",
+        "ru": "ум",
+        "descriptionEN": "the element of a person that enables them to be aware of the world.",
+        "descriptionRU": "элемент человека, позволяющий им осознавать мир."
+    }
+]

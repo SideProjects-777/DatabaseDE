@@ -1,19 +1,19 @@
 [
     {
         "name": {
-            "de": "Kölner Dom",
-            "en": "Cologne Cathedral",
-            "ru": "Кельнский собор"
+            "de": "Kölner Begegnung",
+            "en": "Meeting in Cologne",
+            "ru": "Знакомство в Кельне"
         },
         "description": {
-            "de": "History of the cathedral's construction",
-            "en": "Geschichte des Baus der Kathedrale",
-            "ru": "История постройки собора"
+            "en": "City Rediscovery and Inspiration",
+            "de": "Stadt-Wiederentdeckung und Inspiration",
+            "ru": "Переосмысление города и вдохновение"
         },
-        "level": "B1",
-        "image": "Geschichte_Dom.jpg",
-        "file": "Geschichte_Dom.txt",
-        "words": "Geschichte_Dom.json",
-        "yesNo": "Geschichte_Dom.json"
+        "level": "A2",
+        "image": "Meeting_Cologne.jpg",
+        "file": "Meeting_Cologne.mp3",
+        "words": "Meeting_Cologne.json",
+        "multi": "Meeting_Cologne.json"
     }
 ]
