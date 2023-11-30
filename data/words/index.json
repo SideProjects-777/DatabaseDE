@@ -17,14 +17,6 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
     }, {
         "title": {
-            "de": "Lukas' Katzenmission",
-            "en": "Luke's cat mission",
-            "ru": "Кошачья миссия Люка"
-        },
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Lukas_Katzenmission.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Lukas_Katzenmission.jpg"
-    }, {
-        "title": {
             "de": "Kölner Dom",
             "en": "Cologne cathedral",
             "ru": "Кельнский собор"
