@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Giraffen sind die kleinsten Tiere im Zoo.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Giraffen haben lange Hälse, um leichter an Futter zu gelangen.",
+        "tr": true,
+        "fle": false
+    },
+    {
+        "title": "Zebras haben Streifen, um sich vor Feinden im Wasser zu verstecken.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Die Streifen der Zebras dienen auch als Schutz vor Insekten.",
+        "tr": true,
+        "fle": false
+    },
+    {
+        "title": "Elefanten haben große Ohren, um besser hören zu können.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Elefanten nutzen ihre Ohren als Ventilator, um sich abzukühlen.",
+        "tr": true,
+        "fle": false
+    },
+    {
+        "title": "Der Zoo ist wie eine Schatzkiste ohne Informationen über Tiere.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Jedes Tier im Zoo hat seine eigenen Anpassungen, die es einzigartig machen.",
+        "tr": true,
+        "fle": false
+    },
+    {
+        "title": "Bettina hat keine Fragen über die Tiere gestellt.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Bettina hat am Ende des Tages nichts über Tiere gelernt.",
+        "tr": false,
+        "fle": true
+    }
+]

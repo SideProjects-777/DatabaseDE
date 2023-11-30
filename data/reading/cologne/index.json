@@ -48,5 +48,22 @@
         "file": "Dom.txt",
         "words": "Dom.json",
         "multi": "Dom.json"
+    },
+    {
+        "name": {
+            "de": "Wilde Entdeckungen",
+            "en": "Wild Explorations",
+            "ru": "Дикие исследования"
+        },
+        "description": {
+            "en": "Adventure in Animal Kingdom",
+            "de": "Abenteuer im Tierreich",
+            "ru": "Приключение в мире животных"
+        },
+        "level": "A2",
+        "image": "Zoo.jpg",
+        "file": "Zoo.txt",
+        "words": "Zoo.json",
+        "yesNo": "Zoo.json"
     }
 ]
