@@ -39,7 +39,7 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg"
-    },{
+    }, {
         "title": {
             "de": "Wilde Entdeckungen",
             "en": "Wild Explorations",
@@ -47,5 +47,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Zoo.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Zoo.jpg"
+    }, {
+        "title": {
+            "de": "Kölner Begegnung",
+            "en": "Meeting in Cologne",
+            "ru": "Знакомство в Кельне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Meeting_Cologne.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Meeting_Cologne.jpg"
     }
 ]
