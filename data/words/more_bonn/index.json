@@ -1,0 +1,79 @@
+[
+	{
+		"de": "der Schatten",
+		"en": "Shadow",
+		"ru": "Тень",
+		"descriptionEN": "a dark area or shape produced by an object blocking the light.",
+		"descriptionRU": "Темная область или форма, образованная объектом, блокирующим свет."
+	},
+	{
+		"de": "die Blütezeit",
+		"en": "Blossoming Period",
+		"ru": "Период цветения",
+		"descriptionEN": "the period of maximum development or achievement.",
+		"descriptionRU": "Период максимального развития или достижения."
+	},
+	{
+		"de": "die Atmosphäre",
+		"en": "Atmosphere",
+		"ru": "Атмосфера",
+		"descriptionEN": "the pervading tone or mood of a place, situation, or work of art.",
+		"descriptionRU": "Преобладающий тон или настроение места, ситуации или произведения искусства."
+	},
+	{
+		"de": "der Saal",
+		"en": "Hall",
+		"ru": "Зал",
+		"descriptionEN": "a large room for meetings, concerts, or public events.",
+		"descriptionRU": "Большая комната для собраний, концертов или общественных мероприятий."
+	},
+	{
+		"de": "der Haribo-Laden",
+		"en": "Haribo Store",
+		"ru": "Магазин Haribo",
+		"descriptionEN": "a retail establishment where one can purchase a variety of Haribo sweets.",
+		"descriptionRU": "Торговое предприятие, где можно приобрести разнообразные сладости Haribo."
+	},
+	{
+		"de": "die Gummibärchen",
+		"en": "Gummy Bears",
+		"ru": "Мишки Гамми",
+		"descriptionEN": "small, fruit-flavored gelatin candies shaped like bears.",
+		"descriptionRU": "Маленькие фруктовые желатиновые конфеты в форме медвежат."
+	},
+	{
+		"de": "der Spazierweg",
+		"en": "Walking Path",
+		"ru": "Прогулочная дорожка",
+		"descriptionEN": "a path for walking, especially one for leisurely strolls.",
+		"descriptionRU": "Дорожка для прогулок, особенно для неспешных прогулок."
+	},
+	{
+		"de": "die Wanderung",
+		"en": "Hike",
+		"ru": "Поход",
+		"descriptionEN": "a long walk, especially in the countryside or wilderness.",
+		"descriptionRU": "Долгая прогулка, особенно по сельской местности или дикой природе."
+	},
+	{
+		"de": "die Verwandlung",
+		"en": "Transformation",
+		"ru": "Преобразование",
+		"descriptionEN": "a marked change in form, nature, or appearance.",
+		"descriptionRU": "Заметное изменение формы, природы или внешнего вида."
+	},
+	{
+		"de": "das Mekka",
+		"en": "Mekka",
+		"ru": "Мекка",
+		"descriptionEN": "a place that is regarded as the center or goal of an activity or interest.",
+		"descriptionRU": "Место, считающееся центром или целью деятельности или интереса."
+	},
+	{
+		"de": "das Festival",
+		"en": "Festival",
+		"ru": "Фестиваль",
+		"descriptionEN": "a day or period of celebration, typically for cultural or artistic events.",
+		"descriptionRU": "День или период празднования, обычно культурных или художественных событий."
+	}
+]

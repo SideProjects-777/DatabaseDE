@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "de": "Warum Bonn?",
+            "en": "Why Bonn?",
+            "ru": "Почему Бонн?"
+        },
+        "description": {
+            "de": "Bonner Charme",
+            "en": "Charm in Bonn",
+            "ru": "Очарование Бонна"
+        },
+        "level": "B1",
+        "image": "Warum_Bonn.jpg",
+        "file": "Warum_Bonn.txt",
+        "words": "Warum_Bonn.json",
+        "yesNo": "Warum_Bonn.json"
+    }
+]

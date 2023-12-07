@@ -1,0 +1,52 @@
+[
+	{
+		"title": "Bonn war von 1949 bis 1990 die Hauptstadt der DDR.",
+		"tr": false,
+		"fle": true
+	},
+	{
+		"title": "Der Kirschbaumtunnel blüht jedes Jahr im Sommer.",
+		"tr": false,
+		"fle": true
+	},
+	{
+		"title": "Das Beethoven-Museum in Bonn enthält die größte Sammlung von Beethovens persönlichen Gegenständen.",
+		"tr": true,
+		"fle": false
+	},
+	{
+		"title": "Das Beethoven-Festival in Bonn findet nur alle zwei Jahre statt.",
+		"tr": false,
+		"fle": true
+	},
+	{
+		"title": "Der Haribo-Laden in Bonn bietet nur Gummibärchen mit Lakritzgeschmack an.",
+		"tr": false,
+		"fle": true
+	},
+	{
+		"title": "Der Freizeitpark Rheinaue liegt nicht am Ufer des Rheins.",
+		"tr": false,
+		"fle": true
+	},
+	{
+		"title": "In Bonn kann man im Sommer Boot fahren und Yoga im Freizeitpark Rheinaue machen.",
+		"tr": true,
+		"fle": false
+	},
+	{
+		"title": "Das Beethovenfest in Bonn findet jedes Jahr im Mai statt.",
+		"tr": false,
+		"fle": true
+	},
+	{
+		"title": "Der Kirschbaumtunnel in Bonn blüht normalerweise im März.",
+		"tr": false,
+		"fle": true
+	},
+	{
+		"title": "Das Zentrum der Vereinten Nationen in Deutschland befindet sich in Bonn.",
+		"tr": true,
+		"fle": false
+	}
+]

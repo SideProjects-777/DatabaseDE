@@ -1,0 +1,107 @@
+[
+	{
+		"de": "die Stadt",
+		"en": "City",
+		"ru": "Город",
+		"descriptionEN": "a large and permanent human settlement.",
+		"descriptionRU": "Большое и постоянное человеческое поселение."
+	},
+	{
+		"de": "der Tourist",
+		"en": "Tourist",
+		"ru": "Турист",
+		"descriptionEN": "a person who is traveling or visiting a place for pleasure.",
+		"descriptionRU": "Человек, который путешествует или посещает место для удовольствия."
+	},
+	{
+		"de": "der Grund",
+		"en": "Reason",
+		"ru": "Причина",
+		"descriptionEN": "a cause or justification for an action or event.",
+		"descriptionRU": "Причина или обоснование для действия или события."
+	},
+	{
+		"de": "die Kirschblüte",
+		"en": "Cherry Blossom",
+		"ru": "Цветение вишни",
+		"descriptionEN": "the period during which cherry trees bloom.",
+		"descriptionRU": "Период цветения вишни."
+	},
+	{
+		"de": "der Musiker",
+		"en": "Musician",
+		"ru": "Музыкант",
+		"descriptionEN": "a person who plays a musical instrument or is musically talented.",
+		"descriptionRU": "Человек, играющий на музыкальном инструменте или обладающий музыкальным талантом."
+	},
+	{
+		"de": "die Heimat",
+		"en": "Homeland",
+		"ru": "Родина",
+		"descriptionEN": "one's place of origin; a country to which one belongs.",
+		"descriptionRU": "Место происхождения; страна, к которой принадлежит человек."
+	},
+	{
+		"de": "das Souvenir",
+		"en": "Souvenir",
+		"ru": "Сувенир",
+		"descriptionEN": "a keepsake or token of remembrance.",
+		"descriptionRU": "Сувенир или токен воспоминания."
+	},
+	{
+		"de": "der Spaziergang",
+		"en": "Stroll",
+		"ru": "Прогулка",
+		"descriptionEN": "a leisurely walk; a wander on foot.",
+		"descriptionRU": "Неспешная прогулка; бродяжничество пешком."
+	},
+	{
+		"de": "der Rhein",
+		"en": "Rhine",
+		"ru": "Рейн",
+		"descriptionEN": "a European river flowing from the Swiss Alps through Germany to the North Sea.",
+		"descriptionRU": "Европейская река, текущая из швейцарских Альп через Германию в Северное море."
+	},
+	{
+		"de": "der Freizeitpark",
+		"en": "Amusement Park",
+		"ru": "Парк развлечений",
+		"descriptionEN": "a large outdoor area with fairground rides, games, and shows.",
+		"descriptionRU": "Большая территория на открытом воздухе с аттракционами, играми и представлениями."
+	},
+	{
+		"de": "die Oase",
+		"en": "Oasis",
+		"ru": "Оазис",
+		"descriptionEN": "a fertile spot in a desert where water is found.",
+		"descriptionRU": "Плодородное место в пустыне, где есть вода."
+	},
+	{
+		"de": "das Picknick",
+		"en": "Picnic",
+		"ru": "Пикник",
+		"descriptionEN": "an outdoor meal where participants bring their food.",
+		"descriptionRU": "Пикник - прием пищи на свежем воздухе, где участники принесли свою еду."
+	},
+	{
+		"de": "das Eichhörnchen",
+		"en": "Squirrel",
+		"ru": "Белка",
+		"descriptionEN": "a small, bushy-tailed rodent often seen climbing trees.",
+		"descriptionRU": "Маленькое, кистевиднохвостое грызунчик, часто видимое на деревьях."
+	},
+	{
+		"de": "die Ente",
+		"en": "Duck",
+		"ru": "Утка",
+		"descriptionEN": "a waterbird with a broad flat bill, webbed feet, and a quack.",
+		"descriptionRU": "Водоплавающая птица с широким плоским клювом, лапами с перепонками и кряквой."
+	},
+	{
+		"de": "das Buch",
+		"en": "Book",
+		"ru": "Книга",
+		"descriptionEN": "a written or printed work consisting of pages glued or sewn together.",
+		"descriptionRU": "Письменное или печатное произведение, состоящее из склеенных или сшитых страниц."
+	}
+]
