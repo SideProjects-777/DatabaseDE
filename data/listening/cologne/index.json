@@ -15,5 +15,21 @@
         "file": "Meeting_Cologne.mp3",
         "words": "Meeting_Cologne.json",
         "multi": "Meeting_Cologne.json"
+    }, {
+        "name": {
+            "de": "Flughafen Bonn/Köln",
+            "en": "Bonn/Cologne Airport",
+            "ru": "Аэропорт Бонн/Кельн"
+        },
+        "description": {
+            "en": "Interesting details about the airport",
+            "de": "Interessante Details über den Flughafen",
+            "ru": "Интересные детали аэропорта"
+        },
+        "level": "B1",
+        "image": "Flughafen_Cologne_Bonn.jpg",
+        "file": "Flughafen_Cologne_Bonn.mp3",
+        "words": "Flughafen_Cologne_Bonn.json",
+        "yesNo": "Flughafen_Cologne_Bonn.json"
     }
 ]

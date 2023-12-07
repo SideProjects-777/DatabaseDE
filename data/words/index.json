@@ -71,5 +71,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/image.jpg"
+    }, {
+        "title": {
+            "de": "Flughafen Bonn/Köln",
+            "en": "Bonn/Cologne Airport",
+            "ru": "Аэропорт Бонн/Кельн"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Flughafen_Cologne_Bonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Flughafen_Cologne_Bonn.jpg"
     }
 ]

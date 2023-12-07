@@ -1,0 +1,153 @@
+[
+    {
+        "de": "der Flughafen",
+        "en": "airport",
+        "ru": "аэропорт",
+        "descriptionEN": "a place where aircraft regularly take off and land, with facilities for passengers.",
+        "descriptionRU": "место, где регулярно взлетают и садятся воздушные суда, с инфраструктурой для пассажиров."
+    }, {
+        "de": "die Funktionsweise",
+        "en": "operation",
+        "ru": "функционирование",
+        "descriptionEN": "the way in which something works or operates.",
+        "descriptionRU": "способ, которым что-то работает или функционирует."
+    }, {
+        "de": "der Passagierverkehr",
+        "en": "passenger traffic",
+        "ru": "пассажирский трафик",
+        "descriptionEN": "the movement of passengers to and from a particular place.",
+        "descriptionRU": "движение пассажиров в определенном направлении."
+    }, {
+        "de": "das Drehkreuz",
+        "en": "hub",
+        "ru": "хаб",
+        "descriptionEN": "a central airport that serves as a connecting point for flights.",
+        "descriptionRU": "центральный аэропорт, служащий точкой пересадки для рейсов."
+    }, {
+        "de": "die Passage",
+        "en": "passage",
+        "ru": "проход",
+        "descriptionEN": "a way for people to pass through, typically a corridor or hallway.",
+        "descriptionRU": "путь для передвижения людей, обычно коридор или холл."
+    }, {
+        "de": "die Luftfahrt",
+        "en": "aviation",
+        "ru": "авиация",
+        "descriptionEN": "the operation of aircraft, particularly commercial airplanes.",
+        "descriptionRU": "эксплуатация воздушных судов, особенно коммерческих самолетов."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs.",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах."
+    }, {
+        "de": "der Bedarf",
+        "en": "need",
+        "ru": "потребность",
+        "descriptionEN": "a requirement for something; necessary or essential.",
+        "descriptionRU": "требование к чему-то; необходимо или существенно."
+    }, {
+        "de": "der Zugang",
+        "en": "access",
+        "ru": "доступ",
+        "descriptionEN": "the means or opportunity to approach or enter a place.",
+        "descriptionRU": "средство или возможность подойти или войти в место."
+    }, {
+        "de": "das Terminal",
+        "en": "terminal",
+        "ru": "терминал",
+        "descriptionEN": "a building at an airport where passengers transfer between ground transportation and the facilities that allow them to board and disembark from aircraft.",
+        "descriptionRU": "здание на аэропорту, где пассажиры переходят между наземным транспортом и объектами, позволяющими им садиться и высаживаться из воздушных судов."
+    }, {
+        "de": "liegen",
+        "en": "to lie",
+        "ru": "лежать",
+        "descriptionEN": "to be in or assume a horizontal or resting position on a surface.",
+        "descriptionRU": "находиться в горизонтальном или покоящемся положении на поверхности."
+    }, {
+        "de": "nutzen",
+        "en": "to use",
+        "ru": "использовать",
+        "descriptionEN": "to employ something for a practical purpose; make use of.",
+        "descriptionRU": "применять что-то в практических целях; использовать."
+    }, {
+        "de": "beginnen",
+        "en": "to begin",
+        "ru": "начинать",
+        "descriptionEN": "to start or commence an action, process, or event.",
+        "descriptionRU": "начать или начать действие, процесс или событие."
+    }, {
+        "de": "verlängern",
+        "en": "to extend",
+        "ru": "удлинять",
+        "descriptionEN": "to make something longer or last for a longer time.",
+        "descriptionRU": "сделать что-то длиннее или продолжиться в течение более длительного времени."
+    }, {
+        "de": "locken",
+        "en": "to attract",
+        "ru": "привлекать",
+        "descriptionEN": "to draw or compel someone or something to come toward or accompany one.",
+        "descriptionRU": "привлечь или обязать кого-то или что-то подходить или сопровождать."
+    }, {
+        "de": "verfügen",
+        "en": "to have",
+        "ru": "иметь",
+        "descriptionEN": "to possess or own something; to have at one's disposal.",
+        "descriptionRU": "обладать или владеть чем-то; иметь в своем распоряжении."
+    }, {
+        "de": "befinden",
+        "en": "to be located",
+        "ru": "располагаться",
+        "descriptionEN": "to be situated in a particular place or position.",
+        "descriptionRU": "находиться в определенном месте или положении."
+    }, {
+        "de": "fliegen",
+        "en": "to fly",
+        "ru": "летать",
+        "descriptionEN": "to travel through the air using wings or an engine.",
+        "descriptionRU": "путешествовать через воздух с использованием крыльев или двигателя."
+    }, {
+        "de": "anfliegen",
+        "en": "to approach by air",
+        "ru": "приближаться в воздухе",
+        "descriptionEN": "to come near or nearer in an aircraft.",
+        "descriptionRU": "приблизиться или приблизиться воздушным судном."
+    }, {
+        "de": "verfügen",
+        "en": "to have available",
+        "ru": "иметь в наличии",
+        "descriptionEN": "to have something at one's disposal; to possess or control.",
+        "descriptionRU": "иметь что-то в распоряжении; обладать или управлять."
+    }, {
+        "de": "fliegen",
+        "en": "to soar",
+        "ru": "взмывать",
+        "descriptionEN": "to fly or rise high in the air with majestic movement.",
+        "descriptionRU": "лететь или подниматься высоко в воздухе с величественным движением."
+    }, {
+        "de": "bauen",
+        "en": "to build",
+        "ru": "строить",
+        "descriptionEN": "to construct something by putting parts or material together.",
+        "descriptionRU": "построить что-то, собрав части или материал вместе."
+    }, {
+        "de": "nutzen",
+        "en": "to utilize",
+        "ru": "использовать",
+        "descriptionEN": "to make practical and effective use of.",
+        "descriptionRU": "практическое и эффективное использование."
+    }, {
+        "de": "fliegen",
+        "en": "to transport",
+        "ru": "транспортировать",
+        "descriptionEN": "to carry or move from one place to another.",
+        "descriptionRU": "переносить или перемещать из одного места в другое."
+    }, {
+        "de": "ermöglichen",
+        "en": "to enable",
+        "ru": "делать возможным",
+        "descriptionEN": "to make something possible or achievable.",
+        "descriptionRU": "сделать что-то возможным или достижимым."
+    }
+]

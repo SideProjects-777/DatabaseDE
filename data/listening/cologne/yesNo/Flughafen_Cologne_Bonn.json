@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Der Flughafen Bonn/Köln ist der größte Flughafen Deutschlands.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Konrad-Adenauer-Flughafen liegt etwa 15 Kilometer von Köln und Bonn entfernt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Flughafen Bonn/Köln ist der drittgrößte im Frachtverkehr in Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Bau des Flughafens begann im Jahr 1938 als ziviler Flugplatz.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Start- und Landebahn des Flughafens war in den 60er Jahren die längste der Welt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Flughafen Köln/Bonn ist besonders bekannt für seine teuren Flugtickets.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Flughafen verfügt über drei Terminals: zwei für den Passagierverkehr und eins für die gewerbliche Luftfahrt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Terminal 1 wurde in den 80er Jahren erbaut und hat 15 Flugzeugpositionen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Terminal 2 liegt südlich des ersten Terminals.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das dritte Terminal ist das älteste am Flughafen.",
+        "tr": false,
+        "fle": true
+    }
+]
