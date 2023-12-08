@@ -62,15 +62,7 @@
             "ru": "Почему Бонн?"
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Warum_Bonn.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Warum_Bonn.jpg"
-    }, {
-        "title": {
-            "de": "Mehr von Bonn",
-            "en": "More from Bonn",
-            "ru": "Еще из Бонна"
-        },
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/index.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/image.jpg"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Bonn.jpg"
     }, {
         "title": {
             "de": "Flughafen Bonn/Köln",
@@ -79,5 +71,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Flughafen_Cologne_Bonn.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Flughafen_Cologne_Bonn.jpg"
-    }
+    }, {
+        "title": {
+            "de": "Mehr von Bonn",
+            "en": "More from Bonn",
+            "ru": "Еще из Бонна"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/image.jpg"
+    }, 
 ]
