@@ -1,0 +1,108 @@
+[
+    {
+      "name": "Welches Semester studiert Rose Physik?",
+      "answers": [
+        {
+          "text": "Erstes Semester",
+          "correct": false
+        },
+        {
+          "text": "Zweites Semester",
+          "correct": false
+        },
+        {
+          "text": "Drittes Semester",
+          "correct": true
+        },
+        {
+          "text": "Viertes Semester",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Woher stammt Rose ursprünglich?",
+      "answers": [
+        {
+          "text": "Bonn",
+          "correct": false
+        },
+        {
+          "text": "Cochem",
+          "correct": true
+        },
+        {
+          "text": "Bornheim",
+          "correct": false
+        },
+        {
+          "text": "Born",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Welchen Traum hat Marie?",
+      "answers": [
+        {
+          "text": "Ärztin werden",
+          "correct": false
+        },
+        {
+          "text": "Lehrerin werden",
+          "correct": true
+        },
+        {
+          "text": "Forscherin werden",
+          "correct": false
+        },
+        {
+          "text": "Architektin werden",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Wohin fährt Marie jedes Wochenende?",
+      "answers": [
+        {
+          "text": "Nach Bonn",
+          "correct": false
+        },
+        {
+          "text": "Nach Cochem",
+          "correct": false
+        },
+        {
+          "text": "Nach Bornheim",
+          "correct": true
+        },
+        {
+          "text": "Nach Berlin",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Was erreichte den Höhepunkt an einem Tag im Oktober?",
+      "answers": [
+        {
+          "text": "Das Stadtfest",
+          "correct": false
+        },
+        {
+          "text": "Das Heimweh von Rose",
+          "correct": true
+        },
+        {
+          "text": "Der Regen",
+          "correct": false
+        },
+        {
+          "text": "Die Prüfungsergebnisse",
+          "correct": false
+        }
+      ]
+    }
+  ]
+  

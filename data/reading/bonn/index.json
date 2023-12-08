@@ -15,5 +15,22 @@
         "file": "Warum_Bonn.txt",
         "words": "Warum_Bonn.json",
         "yesNo": "Warum_Bonn.json"
+    },
+    {
+        "name": {
+            "de": "Schönes Wochenende",
+            "en": "Warm Weekend",
+            "ru": "Теплый выходной"
+        },
+        "description": {
+            "de": "Bonn Rückzug: Herzliches Wochenende",
+            "en": "Bonn Retreat: Heartwarming Weekend",
+            "ru": "Отдых в Бонне: Теплый Уикенд"
+        },
+        "level": "B1",
+        "image": "Weekend.jpg",
+        "file": "Weekend.txt",
+        "words": "Weekend.json",
+        "multi": "Weekend.json"
     }
 ]

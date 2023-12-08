@@ -1,0 +1,189 @@
+[
+    {
+        "de": "die Stadt",
+        "en": "City",
+        "ru": "Город",
+        "descriptionEN": "A place where people live, usually larger than a town.",
+        "descriptionRU": "Место, где люди живут, обычно крупнее по размеру, чем городок."
+    }, {
+        "de": "die Akademie",
+        "en": "Academy",
+        "ru": "Академия",
+        "descriptionEN": "An institution of higher learning, typically specializing in a certain field of study.",
+        "descriptionRU": "Учебное заведение, обычно специализирующееся в определенной области знаний."
+    }, {
+        "de": "das Heimweh",
+        "en": "Homesickness",
+        "ru": "Тоска по дому",
+        "descriptionEN": "A feeling of longing for one's home or a familiar environment.",
+        "descriptionRU": "Чувство тоски по дому или знакомой обстановке."
+    }, {
+        "de": "die Eltern",
+        "en": "Parents",
+        "ru": "Родители",
+        "descriptionEN": "One's mother and father.",
+        "descriptionRU": "Мать и отец человека."
+    }, {
+        "de": "der Stau",
+        "en": "Traffic jam",
+        "ru": "Пробка",
+        "descriptionEN": "A situation where vehicles are slow or stopped due to congestion.",
+        "descriptionRU": "Ситуация, при которой транспорт двигается медленно или стоит из-за затора."
+    }, {
+        "de": "das Wochenende",
+        "en": "Weekend",
+        "ru": "Уикенд",
+        "descriptionEN": "The period from Friday evening through Sunday, often a time of leisure.",
+        "descriptionRU": "Период с пятницы вечером по воскресенье, часто время досуга."
+    }, {
+        "de": "die Herbstfarben",
+        "en": "Autumn colors",
+        "ru": "Осенние краски",
+        "descriptionEN": "The various shades of color associated with the autumn season.",
+        "descriptionRU": "Различные оттенки цвета, характерные для осеннего сезона."
+    }, {
+        "de": "die Zugehörigkeit",
+        "en": "Belonging",
+        "ru": "Принадлежность",
+        "descriptionEN": "The state of being a member or part of a group or community.",
+        "descriptionRU": "Состояние являться членом или частью группы или общности."
+    }, {
+        "de": "die Einsamkeit",
+        "en": "Loneliness",
+        "ru": "Одиночество",
+        "descriptionEN": "The state of feeling alone or isolated.",
+        "descriptionRU": "Состояние чувства одиночества или изоляции."
+    }, {
+        "de": "das Charm",
+        "en": "Charm",
+        "ru": "Шарм",
+        "descriptionEN": "A compelling attractiveness or pleasant quality.",
+        "descriptionRU": "Привлекательность или приятное качество."
+    }, {
+        "de": "die Seele",
+        "en": "Soul",
+        "ru": "Душа",
+        "descriptionEN": "The spiritual or immaterial part of a human being.",
+        "descriptionRU": "Духовная или нематериальная часть человека."
+    }, {
+        "de": "das Umfeld",
+        "en": "Environment",
+        "ru": "Окружение",
+        "descriptionEN": "The surroundings or conditions in which a person, animal, or plant lives.",
+        "descriptionRU": "Окружающая среда или условия, в которых живет человек, животное или растение."
+    }, {
+        "de": "die Veränderung",
+        "en": "Change",
+        "ru": "Изменение",
+        "descriptionEN": "The process or result of making something different.",
+        "descriptionRU": "Процесс или результат изменения чего-то."
+    }, {
+        "de": "entschlossen",
+        "en": "determined",
+        "ru": "Решительный",
+        "descriptionEN": "Having a firm decision and commitment to achieve a specific goal.",
+        "descriptionRU": "Имеющий твердое решение и обязательство достичь определенной цели."
+    }, {
+        "de": "das Herz",
+        "en": "Heart",
+        "ru": "Сердце",
+        "descriptionEN": "The organ in your chest that sends the blood around your body.",
+        "descriptionRU": "Орган в груди, который направляет кровь по всему телу."
+    }, {
+        "de": "der Vorschlag",
+        "en": "Proposal",
+        "ru": "Предложение",
+        "descriptionEN": "A suggestion or plan put forward for consideration or discussion by others.",
+        "descriptionRU": "Предложение или план, выдвигаемый для рассмотрения или обсуждения другими."
+    }, {
+        "de": "die Einladung",
+        "en": "Invitation",
+        "ru": "Приглашение",
+        "descriptionEN": "A written or verbal request inviting someone to go somewhere or do something.",
+        "descriptionRU": "Письменное или устное приглашение пригласить кого-то куда-то или сделать что-то."
+    }, {
+        "de": "die Aussicht",
+        "en": "Prospect",
+        "ru": "Перспектива",
+        "descriptionEN": "The possibility or likelihood of some future event occurring.",
+        "descriptionRU": "Возможность или вероятность наступления какого-то будущего события."
+    }, {
+        "de": "Idyllisches",
+        "en": "Idyllic",
+        "ru": "Идиллический",
+        "descriptionEN": "Extremely happy, peaceful, or picturesque.",
+        "descriptionRU": "Чрезвычайно счастливый, мирный или живописный."
+    }, {
+        "de": "teilen",
+        "en": "to share",
+        "ru": "делить",
+        "descriptionEN": "To divide or distribute something among two or more people.",
+        "descriptionRU": "Разделить или распределить что-то между двумя или более людьми."
+    }, {
+        "de": "faszinieren",
+        "en": "to fascinate",
+        "ru": "очаровывать",
+        "descriptionEN": "To attract and hold the interest of someone intensely.",
+        "descriptionRU": "Привлекать и удерживать интерес кого-то интенсивно."
+    }, {
+        "de": "kämpfen",
+        "en": "to struggle",
+        "ru": "бороться",
+        "descriptionEN": "To make forceful efforts to overcome a difficulty or challenge.",
+        "descriptionRU": "Приложить усилия для преодоления трудности или вызова."
+    }, {
+        "de": "bemerken",
+        "en": "to notice",
+        "ru": "замечать",
+        "descriptionEN": "To observe or become aware of something through perception.",
+        "descriptionRU": "Замечать или осознавать что-то через восприятие."
+    }, {
+        "de": "machen",
+        "en": "to make",
+        "ru": "создавать",
+        "descriptionEN": "To create or produce something.",
+        "descriptionRU": "Создать или произвести что-то."
+    }, {
+        "de": "fahren",
+        "en": "to travel",
+        "ru": "путешествовать",
+        "descriptionEN": "To go on a journey or trip, typically to another place.",
+        "descriptionRU": "Совершить путешествие, обычно в другое место."
+    }, {
+        "de": "erreichen",
+        "en": "to reach",
+        "ru": "достигать",
+        "descriptionEN": "To arrive at a destination or a certain point.",
+        "descriptionRU": "Достигнуть места назначения или определенной точки."
+    }, {
+        "de": "scheinen",
+        "en": "to seem",
+        "ru": "казаться",
+        "descriptionEN": "To give the impression or appear in a certain way.",
+        "descriptionRU": "Производить впечатление или появляться определенным образом."
+    }, {
+        "de": "nehmen",
+        "en": "to accept",
+        "ru": "принимать",
+        "descriptionEN": "To agree to receive or undertake something offered.",
+        "descriptionRU": "Согласиться получить или взять на себя предложенное."
+    }, {
+        "de": "empfangen",
+        "en": "to receive",
+        "ru": "получать",
+        "descriptionEN": "To be given or presented with something.",
+        "descriptionRU": "Быть дано или предоставлено что-то."
+    }, {
+        "de": "bleiben",
+        "en": "to remain",
+        "ru": "оставаться",
+        "descriptionEN": "To stay in the same place or condition.",
+        "descriptionRU": "Остаться в том же месте или состоянии."
+    }, {
+        "de": "verwandeln",
+        "en": "to transform",
+        "ru": "преобразовывать",
+        "descriptionEN": "To change or convert into a different form or state.",
+        "descriptionRU": "Измениться или превратиться в другую форму или состояние."
+    }
+]
