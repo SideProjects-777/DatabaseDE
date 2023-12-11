@@ -79,5 +79,21 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/image.jpg"
+    }, {
+        "title": {
+            "de": "Warum Bonn?",
+            "en": "Why Bonn?",
+            "ru": "Почему Бонн?"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Krankheit.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Krankheit.jpg"
+    },  {
+        "title": {
+            "de": "Schokoladenparadies",
+            "en": "Chocolate Paradise",
+            "ru": "Шоколадный рай"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Schokoladenparadies.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Schokoladenparadies.jpg"
     }
 ]

@@ -31,5 +31,22 @@
         "file": "Flughafen_Cologne_Bonn.mp3",
         "words": "Flughafen_Cologne_Bonn.json",
         "yesNo": "Flughafen_Cologne_Bonn.json"
+    },
+    {
+        "name": {
+            "de": "Schokoladenparadies",
+            "en": "Chocolate Paradise",
+            "ru": "Шоколадный рай"
+        },
+        "description":{
+            "de": "Jan Hoffmann im Schokoladenmuseum",
+            "en": "Jan Hoffmann at the Chocolate Museum",
+            "ru": "Ян Хоффман в Шоколадном музее"
+        },
+        "level": "B1",
+        "image": "Schokoladenparadies.jpg",
+        "file": "Schokoladenparadies.mp3",
+        "words": "Schokoladenparadies.json",
+        "yesNo": "Schokoladenparadies.json"
     }
 ]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Jan Hoffmann steht jeden Tag um 7 Uhr auf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Jan Hoffmann stellt die Kaffeemaschine an, bevor er ins Bad geht.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Schokoladenmuseum in Köln wurde von Jan Hoffmann eröffnet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Kölner Schokoladenmuseum finanziert sich selbst.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Museumsgebäude erinnert von weitem an ein Schiff aus Metall und Holz.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Schokoladenmuseum wurde zu Werbezwecken für ein Unternehmen errichtet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Exponate im Museum zeigen nur die modernen Produkte der Schokoladenherstellung.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Kinder, die das Museum besuchen, sind neugierig und begeistert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Als Museumsmitarbeiter hat Jan Hoffmann keine Freude an seiner Arbeit.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Jan Hoffmann kann am Wochenende gut abschalten und entspannen.",
+        "tr": true,
+        "fle": false
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "de": "der Morgenkaffee",
+        "en": "morning coffee",
+        "ru": "утренний кофе",
+        "descriptionEN": "A cup of coffee consumed in the morning for a refreshing start to the day.",
+        "descriptionRU": "Кофе, выпитый утром для освежающего начала дня."
+    }, {
+        "de": "die Arbeit",
+        "en": "work",
+        "ru": "работа",
+        "descriptionEN": "An activity involving mental or physical effort done to achieve a purpose or result.",
+        "descriptionRU": "Деятельность, требующая умственного или физического усилия, выполняемая с целью достижения результата."
+    }, {
+        "de": "die Führung",
+        "en": "tour",
+        "ru": "экскурсия",
+        "descriptionEN": "A journey or excursion, typically for sightseeing and guided by someone knowledgeable.",
+        "descriptionRU": "Путешествие или экскурсия, обычно с целью осмотра достопримечательностей и сопровождаемая опытным гидом."
+    }, {
+        "de": "das Museum",
+        "en": "museum",
+        "ru": "музей",
+        "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+    }, {
+        "de": "die Insel",
+        "en": "island",
+        "ru": "остров",
+        "descriptionEN": "A piece of land surrounded by water, smaller than a continent.",
+        "descriptionRU": "Участок суши, окруженный водой и меньший по размеру, чем континент."
+    }, {
+        "de": "die Technologie",
+        "en": "technology",
+        "ru": "технология",
+        "descriptionEN": "The application of scientific knowledge for practical purposes, especially in industry.",
+        "descriptionRU": "Применение научных знаний в практических целях, особенно в промышленности."
+    }, {
+        "de": "die Schokolade",
+        "en": "chocolate",
+        "ru": "шоколад",
+        "descriptionEN": "A sweet food preparation made from roasted and ground cacao seeds.",
+        "descriptionRU": "Сладкое блюдо, приготовленное из обжаренных и измельченных семян какао."
+    }, {
+        "de": "die Augen",
+        "en": "eyes",
+        "ru": "глаза",
+        "descriptionEN": "The organs of sight in humans and animals.",
+        "descriptionRU": "Органы зрения у людей и животных."
+    }, {
+        "de": "erleben",
+        "en": "experience",
+        "ru": "переживать",
+        "descriptionEN": "To encounter or undergo events, emotions, or situations.",
+        "descriptionRU": "Сталкиваться или переживать события, эмоции или ситуации."
+    }, {
+        "de": "entdecken",
+        "en": "discover",
+        "ru": "открывать",
+        "descriptionEN": "To find or learn something for the first time.",
+        "descriptionRU": "Находить или узнавать что-то впервые."
+    }, {
+        "de": "faszinierend",
+        "en": "fascinating",
+        "ru": "очаровательный",
+        "descriptionEN": "Extremely interesting or charming.",
+        "descriptionRU": "Исключительно интересный или очаровательный."
+    }, {
+        "de": "unterhaltsam",
+        "en": "entertaining",
+        "ru": "развлекательный",
+        "descriptionEN": "Providing amusement or enjoyment.",
+        "descriptionRU": "Обеспечивающий развлечение и удовольствие."
+    }
+]
