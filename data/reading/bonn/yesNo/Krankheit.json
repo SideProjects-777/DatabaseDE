@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Alexandr arbeitet im Beethoven-Museum.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Alexandr hat sich heute wohl gefühlt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Alexandr hat die Symptome im Internet recherchiert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Arzt fragt nach Allergien.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Alexandr darf morgen an einem Vortrag teilnehmen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Arzt empfiehlt Tee mit Honig.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Alexandr bekommt eine Einladung zum Fußballspiel.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Arzt verschreibt Medikamente.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Alexandr muss drei Tage im Bett bleiben.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Es gibt keine Nachuntersuchungstermin.",
+        "tr": false,
+        "fle": true
+    }
+]

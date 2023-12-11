@@ -32,5 +32,22 @@
         "file": "Weekend.txt",
         "words": "Weekend.json",
         "multi": "Weekend.json"
+    },
+    {
+        "name": {
+            "de": "Ein Besuch beim Arzt",
+            "en": "A Visit to the Doctor",
+            "ru": "Визит к врачу"    
+        },
+        "description": {
+            "de": "Gesundheitsberatung erleben",
+            "en": "Experiencing Health Consultation",
+            "ru": "Опыт консультации по здоровью"
+        },
+        "level": "B1",
+        "image": "Krankheit.jpg",
+        "file": "Krankheit.txt",
+        "words": "Krankheit.json",
+        "multi": "Krankheit.json"
     }
 ]

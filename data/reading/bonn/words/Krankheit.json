@@ -1,0 +1,75 @@
+[
+    {
+        "de": "der Student",
+        "en": "student",
+        "ru": "студент",
+        "descriptionEN": "a person who is studying at a university or other higher education institution.",
+        "descriptionRU": "человек, обучающийся в университете или другом высшем учебном заведении."
+    }, {
+        "de": "das Symptom",
+        "en": "symptom",
+        "ru": "симптом",
+        "descriptionEN": "indications of a medical condition that are observed by a patient or a physician.",
+        "descriptionRU": "признаки медицинского состояния, замеченные пациентом или врачом."
+    }, {
+        "de": "die Apotheke",
+        "en": "pharmacy",
+        "ru": "аптека",
+        "descriptionEN": "a place where medicinal drugs are prepared, dispensed, or sold.",
+        "descriptionRU": "место, где приготавливаются, выдаются или продаются лекарственные препараты."
+    }, {
+        "de": "das Rezept",
+        "en": "prescription",
+        "ru": "рецепт",
+        "descriptionEN": "a written direction for a therapeutic or corrective agent; a medical prescription.",
+        "descriptionRU": "письменное указание на лечебное или корректирующее средство; медицинский рецепт."
+    }, {
+        "de": "die Untersuchung",
+        "en": "examination",
+        "ru": "обследование",
+        "descriptionEN": "a detailed inspection or investigation; the act or process of examining something closely.",
+        "descriptionRU": "детальный осмотр или исследование; действие или процесс близкого рассмотрения чего-либо."
+    }, {
+        "de": "das Bett",
+        "en": "bed",
+        "ru": "кровать",
+        "descriptionEN": "a piece of furniture for sleep or rest, typically a framework with a mattress.",
+        "descriptionRU": "предмет мебели для сна или отдыха, обычно основа с матрасом."
+    }, {
+        "de": "der Vortrag",
+        "en": "lecture",
+        "ru": "лекция",
+        "descriptionEN": "an oral presentation intended to present information or teach people about a particular subject.",
+        "descriptionRU": "устное выступление, предназначенное для представления информации или преподавания определенной темы."
+    }, {
+        "de": "der Tee",
+        "en": "tea",
+        "ru": "чай",
+        "descriptionEN": "a hot drink made by infusing the dried, crushed leaves of the tea plant in boiling water.",
+        "descriptionRU": "горячий напиток, приготовленный заливанием сушеных, измельченных листьев чайного куста кипящей водой."
+    }, {
+        "de": "rennen",
+        "en": "run",
+        "ru": "бежать",
+        "descriptionEN": "to move rapidly on foot; to sprint or dash.",
+        "descriptionRU": "двигаться быстро пешком; спринтовать или мчаться."
+    }, {
+        "de": "bleiben",
+        "en": "stay",
+        "ru": "оставаться",
+        "descriptionEN": "to continue to be in a specified state or condition.",
+        "descriptionRU": "продолжать находиться в определенном состоянии или условии."
+    }, {
+        "de": "gut",
+        "en": "good",
+        "ru": "хорошо",
+        "descriptionEN": "of high quality; satisfactory or acceptable in quality or quantity.",
+        "descriptionRU": "высокого качества; удовлетворительный или приемлемый по качеству или количеству."
+    }, {
+        "de": "viel",
+        "en": "much",
+        "ru": "много",
+        "descriptionEN": "a large amount or degree of something.",
+        "descriptionRU": "большое количество или степень чего-то."
+    }
+]
