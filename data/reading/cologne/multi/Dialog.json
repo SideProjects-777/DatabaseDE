@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Was fragen wir zufällige Menschen auf der Straße?",
+        "answers": [
+            {
+                "text": "Ihren Geburtstag",
+                "correct": false
+            }, {
+                "text": "Nach dem ersten Gedanken zu Köln",
+                "correct": true
+            }, {
+                "text": "Nach ihren Hobbys",
+                "correct": false
+            }, {
+                "text": "Nach ihrem Lieblingsessen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Sophie Müllers Lieblingsplatz in Köln?",
+        "answers": [
+            {
+                "text": "Der Lindenthal Park",
+                "correct": false
+            }, {
+                "text": "Das Imhoff-Schokoladenmuseum",
+                "correct": false
+            }, {
+                "text": "Flora und Botanischer Garten",
+                "correct": true
+            }, {
+                "text": "Kölner Dom",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum liebt Sophie Müller den Flora und Botanischer Garten?",
+        "answers": [
+            {
+                "text": "Wegen des städtischen Trubels",
+                "correct": false
+            }, {
+                "text": "Aufgrund der grünen Umgebung",
+                "correct": false
+            }, {
+                "text": "Wegen der prächtigen Blumen und der vielfältigen Flora",
+                "correct": true
+            }, {
+                "text": "Wegen der Architektur der Gewächshäuser",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Maximilian Wagners Lieblingsplatz in Köln?",
+        "answers": [
+            {
+                "text": "Der Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Der Lindenthal Park",
+                "correct": true
+            }, {
+                "text": "Das Imhoff-Schokoladenmuseum",
+                "correct": false
+            }, {
+                "text": "Flora und Botanischer Garten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum liebt Maximilian Wagner den Lindenthal Park?",
+        "answers": [
+            {
+                "text": "Wegen der Architektur",
+                "correct": false
+            }, {
+                "text": "Wegen der Mountainbike-Strecken",
+                "correct": true
+            }, {
+                "text": "Wegen des städtischen Trubels",
+                "correct": false
+            }, {
+                "text": "Wegen der frischen Luft",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Leon Brauns Lieblingsplatz in Köln?",
+        "answers": [
+            {
+                "text": "Das Imhoff-Schokoladenmuseum",
+                "correct": true
+            }, {
+                "text": "Flora und Botanischer Garten",
+                "correct": false
+            }, {
+                "text": "Der Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Der Lindenthal Park",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum liebt Leon Braun das Imhoff-Schokoladenmuseum?",
+        "answers": [
+            {
+                "text": "Wegen der frischen Luft",
+                "correct": false
+            }, {
+                "text": "Wegen der Architektur",
+                "correct": false
+            }, {
+                "text": "Wegen der lehrreichen Führung",
+                "correct": true
+            }, {
+                "text": "Wegen der Mountainbike-Strecken",
+                "correct": false
+            }
+        ]
+    }
+]

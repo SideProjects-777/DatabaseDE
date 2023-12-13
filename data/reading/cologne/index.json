@@ -65,5 +65,22 @@
         "file": "Zoo.txt",
         "words": "Zoo.json",
         "yesNo": "Zoo.json"
+    },
+    {
+        "name": {
+            "de": "Köln im Dialog: ",
+            "en": "Cologne in Dialogue",
+            "ru": "Кёльн в диалоге"
+        },
+        "description": {
+            "en": "People and Their Favorite Places",
+            "de": "Menschen und ihre Lieblingsplätze",
+            "ru": "Люди и их любимые места"
+        },
+        "level": "A2",
+        "image": "Dialog.jpg",
+        "file": "Dialog.txt",
+        "words": "Dialog.json",
+        "multi": "Dialog.json"
     }
 ]
