@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Julia ist 23 Jahre alt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Julia ist vor einem Jahr von Stuttgart nach Bonn gezogen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julia wohnt nicht alleine in ihrem Wohnheim.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Nachbarschaft in Bonn ist nicht nett.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julia geht gerne mit ihren Kommilitonen in die Mensa.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julias Zimmer ist voll von Elefantenfiguren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julia plant, nach dem Studium eine eigene Bäckerei zu eröffnen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Katze Minka hat den Umzug gut gemeistert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Julia freut sich auf einen Besuch im Rheinaue-Park, weil es dort eine Achterbahn gibt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julia möchte im Rheinaue-Park die Rehe im Gehege sehen.",
+        "tr": true,
+        "fle": false
+    }
+]

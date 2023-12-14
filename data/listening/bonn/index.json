@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "de": "Julias Neue Welt",
+            "en": "Julia's New Horizons",
+            "ru": "Новые горизонты Юлии"
+        },
+        "description":{
+            "de": "Von Stuttgart nach Bonn mit Minka der Katze",
+            "en": "From Stuttgart to Bonn with Minka the Cat",
+            "ru": "Из Штутгарта в Бонн с котом Минка"
+        },
+        "level": "B1",
+        "image": "NeuStadt.jpg",
+        "file": "NeuStadt.mp3",
+        "words": "NeuStadt.json",
+        "yesNo": "NeuStadt.json"
+    }
+]

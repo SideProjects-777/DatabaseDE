@@ -1,0 +1,69 @@
+[
+    {
+        "de": "das Wohnheim",
+        "en": "Dormitory",
+        "ru": "Общежитие",
+        "descriptionEN": "A residence hall providing accommodations for students.",
+        "descriptionRU": "Студенческое общежитие."
+    }, {
+        "de": "der Studium",
+        "en": "Studies",
+        "ru": "Учеба",
+        "descriptionEN": "The process or act of acquiring knowledge, skills, and information through learning.",
+        "descriptionRU": "Процесс или акт приобретения знаний, навыков и информации через обучение."
+    }, {
+        "de": "die Mensa",
+        "en": "Cafeteria",
+        "ru": "Столовая",
+        "descriptionEN": "A dining facility, typically on a college or university campus, where students eat together.",
+        "descriptionRU": "Столовая, обычно расположенная на кампусе колледжа или университета, где студенты обедают вместе."
+    }, {
+        "de": "das Buch",
+        "en": "Book",
+        "ru": "Книга",
+        "descriptionEN": "A written or printed work consisting of pages glued or sewn together along one side.",
+        "descriptionRU": "Письменное или печатное произведение, состоящее из страниц, склеенных или сшитых вместе с одной стороны."
+    }, {
+        "de": "der Plan",
+        "en": "Plan",
+        "ru": "План",
+        "descriptionEN": "A detailed proposal for doing or achieving something.",
+        "descriptionRU": "Подробное предложение для осуществления чего-либо или достижения чего-либо."
+    }, {
+        "de": "die Katze",
+        "en": "Cat",
+        "ru": "Кошка",
+        "descriptionEN": "A small domesticated carnivorous mammal with retractable claws.",
+        "descriptionRU": "Небольшое одомашненное хищное млекопитающее с убираемыми когтями."
+    }, {
+        "de": "das Wochenende",
+        "en": "Weekend",
+        "ru": "Уикенд",
+        "descriptionEN": "The period from Friday evening through Sunday evening, often devoted to leisure activities.",
+        "descriptionRU": "Период с пятницы вечером до воскресенья вечером, часто посвященный досугу."
+    }, {
+        "de": "gezogen",
+        "en": "moved",
+        "ru": "переехал(а)",
+        "descriptionEN": "To change one's residence or location.",
+        "descriptionRU": "Изменить свое место жительства или местоположение."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый(ая)",
+        "descriptionEN": "Pleasing to the senses or mind; attractive.",
+        "descriptionRU": "Приятный для чувств или разума; привлекательный."
+    }, {
+        "de": "nett",
+        "en": "nice",
+        "ru": "милый(ая)",
+        "descriptionEN": "Pleasant, agreeable, or kind in character.",
+        "descriptionRU": "Приятный, дружелюбный или добрый по характеру."
+    }, {
+        "de": "gemütlich",
+        "en": "cozy",
+        "ru": "уютный(ая)",
+        "descriptionEN": "Giving a feeling of comfort, warmth, and relaxation.",
+        "descriptionRU": "Создающий ощущение комфорта, тепла и расслабления."
+    }
+]

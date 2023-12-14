@@ -111,5 +111,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wandern.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wandern.jpg"
+    }, {
+        "title": {
+            "de": "Julias Neue Welt",
+            "en": "Julia's New Horizons",
+            "ru": "Новые горизонты Юлии"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/NeuStadt.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/NeuStadt.jpg"
     }
 ]
