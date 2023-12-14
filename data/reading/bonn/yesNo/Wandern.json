@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Maximilian arbeitet als Arzt in der Stadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Ausflug von Maximilian führt ihn zum Schloss Drachenburg.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Schloss Drachenburg wurde im Barockstil erbaut.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Maximilian findet die Kombination von Wandern und Geschichte nicht besonders ansprechend.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Schloss Drachenburg liegt am Ufer des Rheins.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Schloss wurde ursprünglich für einen Künstler erbaut.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Maximilian schätzt die technischen Aspekte des Schlosses nicht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die historische Beleuchtung des Schlosses Drachenburg fasziniert Maximilian.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Maximilian plant seinen Ausflug an einem Wochentag.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Schloss Drachenburg ist ein Juwel der Region aufgrund seiner modernen Architektur.",
+        "tr": false,
+        "fle": true
+    }
+]

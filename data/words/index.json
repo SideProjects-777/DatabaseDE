@@ -87,7 +87,7 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Krankheit.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Krankheit.jpg"
-    },  {
+    }, {
         "title": {
             "de": "Schokoladenparadies",
             "en": "Chocolate Paradise",
@@ -95,5 +95,21 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Schokoladenparadies.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Schokoladenparadies.jpg"
+    }, {
+        "title": {
+            "de": "Köln im Dialog: ",
+            "en": "Cologne in Dialogue",
+            "ru": "Кёльн в диалоге"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dialog.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dialog.jpg"
+    }, {
+        "title": {
+            "de": "Wandern durch die Geschichte",
+            "en": "Hiking through History",
+            "ru": "Путешествие в прошлое"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wandern.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wandern.jpg"
     }
 ]

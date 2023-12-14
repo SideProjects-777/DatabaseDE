@@ -15,8 +15,7 @@
         "file": "Warum_Bonn.txt",
         "words": "Warum_Bonn.json",
         "yesNo": "Warum_Bonn.json"
-    },
-    {
+    }, {
         "name": {
             "de": "Schönes Wochenende",
             "en": "Warm Weekend",
@@ -32,12 +31,11 @@
         "file": "Weekend.txt",
         "words": "Weekend.json",
         "multi": "Weekend.json"
-    },
-    {
+    }, {
         "name": {
             "de": "Ein Besuch beim Arzt",
             "en": "A Visit to the Doctor",
-            "ru": "Визит к врачу"    
+            "ru": "Визит к врачу"
         },
         "description": {
             "de": "Gesundheitsberatung erleben",
@@ -49,5 +47,21 @@
         "file": "Krankheit.txt",
         "words": "Krankheit.json",
         "multi": "Krankheit.json"
+    }, {
+        "name": {
+            "de": "Wandern durch die Geschichte",
+            "en": "Hiking through History",
+            "ru": "Путешествие в прошлое"
+        },
+        "description": {
+            "de": "Maximilians Wochenendabenteuer am Schloss Drachenburg",
+            "en": "Maximilian's Weekend Adventure at Drachenburg Castle",
+            "ru": "Уикенд Максимилиана в замке Драхенбург"
+        },
+        "level": "B2",
+        "image": "Wandern.jpg",
+        "file": "Wandern.txt",
+        "words": "Wandern.json",
+        "yesNo": "Wandern.json"
     }
 ]
