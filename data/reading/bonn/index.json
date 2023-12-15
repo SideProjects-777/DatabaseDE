@@ -46,7 +46,7 @@
         "image": "Krankheit.jpg",
         "file": "Krankheit.txt",
         "words": "Krankheit.json",
-        "multi": "Krankheit.json"
+        "yesNo": "Krankheit.json"
     }, {
         "name": {
             "de": "Wandern durch die Geschichte",
