@@ -33,6 +33,22 @@
         "yesNo": "Cologne_Erkunden_II.json"
     }, {
         "name": {
+            "de": "Знакомство с Кельном (часть 3)",
+            "en": "Exploring Cologne (Part 3)",
+            "ru": "Köln erkunden (Teil 3)"
+        },
+        "description": {
+            "de": "Stadtführer",
+            "en": "City Guide",
+            "ru": "Путеводитель"
+        },
+        "level": "B1",
+        "image": "Cologne_Erkunden_III.jpg",
+        "file": "Cologne_Erkunden_III.txt",
+        "words": "Cologne_Erkunden_III.json",
+        "yesNo": "Cologne_Erkunden_III.json"
+    }, {
+        "name": {
             "de": "Fremde im Dom",
             "en": "Strangers in the cathedral",
             "ru": "Незнакомцы в соборе"

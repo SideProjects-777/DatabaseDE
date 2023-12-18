@@ -1,0 +1,75 @@
+[
+    {
+        "de": "das Gebäude",
+        "en": "Building",
+        "ru": "Здание",
+        "descriptionEN": "A structure with a roof and walls, such as a house or factory.",
+        "descriptionRU": "Строение с крышей и стенами, такое как дом или завод."
+    }, {
+        "de": "die Gasse",
+        "en": "Alley",
+        "ru": "Переулок",
+        "descriptionEN": "A narrow passageway between or behind buildings, often pedestrian-only.",
+        "descriptionRU": "Узкий проход между или за зданиями, часто только для пешеходов."
+    }, {
+        "de": "die Kathedrale",
+        "en": "Cathedral",
+        "ru": "Собор",
+        "descriptionEN": "A large and important Christian church, typically with Gothic architecture.",
+        "descriptionRU": "Большая и важная христианская церковь, обычно с готической архитектурой."
+    }, {
+        "de": "der Turm",
+        "en": "Tower",
+        "ru": "Башня",
+        "descriptionEN": "A tall structure, often freestanding, used for various purposes.",
+        "descriptionRU": "Высокая конструкция, часто самостоятельно стоящая, используемая для различных целей."
+    }, {
+        "de": "die Loggia",
+        "en": "Loggia",
+        "ru": "Лоджия",
+        "descriptionEN": "An architectural feature, a gallery or room with one or more open sides.",
+        "descriptionRU": "Архитектурный элемент, галерея или комната с одним или несколькими открытыми сторонами."
+    }, {
+        "de": "erkunden",
+        "en": "Explore",
+        "ru": "Исследовать",
+        "descriptionEN": "To travel through an unfamiliar area in order to learn about it.",
+        "descriptionRU": "Проходить через незнакомую территорию с целью изучения."
+    }, {
+        "de": "genießen",
+        "en": "Enjoy",
+        "ru": "Наслаждаться",
+        "descriptionEN": "To take pleasure or satisfaction in an activity or experience.",
+        "descriptionRU": "Испытывать удовольствие или удовлетворение от деятельности или опыта."
+    }, {
+        "de": "bewundern",
+        "en": "Admire",
+        "ru": "Восхищаться",
+        "descriptionEN": "To regard with respect, approval, or pleasure.",
+        "descriptionRU": "Рассматривать с уважением, одобрением или удовольствием."
+    }, {
+        "de": "historisch",
+        "en": "Historic",
+        "ru": "Исторический",
+        "descriptionEN": "Relating to the past, especially the history of a place or thing.",
+        "descriptionRU": "Относящийся к прошлому, особенно к истории места или вещи."
+    }, {
+        "de": "zahlreich",
+        "en": "Numerous",
+        "ru": "Многочисленный",
+        "descriptionEN": "A large number or quantity of something.",
+        "descriptionRU": "Большое количество чего-то."
+    }, {
+        "de": "beeindruckend",
+        "en": "Impressive",
+        "ru": "Впечатляющий",
+        "descriptionEN": "Evoking admiration through size, quality, or skill.",
+        "descriptionRU": "Вызывающий восхищение размером, качеством или мастерством."
+    }, {
+        "de": "abwechslungsreich",
+        "en": "Varied",
+        "ru": "Разнообразный",
+        "descriptionEN": "Diverse and having a range of different elements.",
+        "descriptionRU": "Разнообразный и имеющий различные элементы."
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Das Kölner Rathaus wurde im 16. Jahrhundert erbaut.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Altstadt von Köln ist nur für den Autoverkehr zugänglich.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Große Martinskirche in der Altstadt von Köln ist heute eine Kunstgalerie.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die archäologische Zone der Altstadt von Köln enthält römische Ruinen des Praetoriums.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Kölner Dom wurde im 14. Jahrhundert begonnen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Zwillingstürme des Kölner Doms sind 157 Meter hoch.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Schatzkammer des Kölner Doms enthält ein berühmtes Relief der Anbetung der Könige aus dem Jahr 1540.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Rundblick vom Südturm des Kölner Doms ist über mehr als 600 Stufen zu erreichen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Kölner Domführungen in englischer Sprache sind nur sonntags verfügbar.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Kölner Domwebsite informiert nicht über mögliche Schließungen.",
+        "tr": false,
+        "fle": true
+    }
+]
