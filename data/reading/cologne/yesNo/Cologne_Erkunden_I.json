@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Köln ist eine Stadt im Osten Deutschlands.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Kölner Dom ist das Zentrum der 12 beeindruckenden romanischen Kirchen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Flora und der Botanische Garten befinden sich in der Altstadt von Köln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Schokoladenmuseum zeigt nur moderne Methoden der Schokoladenherstellung.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Hans Imhoff kaufte die Stollwerck Schokoladenfabrik im Jahr 1972.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Schokoladenmuseum bietet kostenlose Kostproben aus einem Käsebrunnen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Kölner Seilbahn wurde im Jahr 1957 als erste europäische Seilbahn eröffnet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Kölner Fernmeldeturm befindet sich südwestlich der Kölner Altstadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Colonius ist ein historisches Gebäude in der Altstadt von Köln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Kone-Dreieck ist ein modernes Gebäude am Ottoplatz mit einer Aussichtsplattform.",
+        "tr": true,
+        "fle": false
+    }
+]

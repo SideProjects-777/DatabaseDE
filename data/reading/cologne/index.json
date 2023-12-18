@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "de": "Знакомство с Кельном (часть 1)",
+            "en": "Exploring Cologne (Part 1)",
+            "ru": "Köln erkunden (Teil 1)"
+        },
+        "description": {
+            "de": "Stadtführer",
+            "en": "City Guide",
+            "ru": "Путеводитель"
+        },
+        "level": "B1",
+        "image": "Cologne_Erkunden_I.jpg",
+        "file": "Cologne_Erkunden_I.txt",
+        "words": "Cologne_Erkunden_I.json",
+        "yesNo": "Cologne_Erkunden_I.json"
+    }, {
+        "name": {
             "de": "Fremde im Dom",
             "en": "Strangers in the cathedral",
             "ru": "Незнакомцы в соборе"
@@ -31,8 +47,7 @@
         "file": "Lost_Wallet.txt",
         "words": "Lost_Wallet.json",
         "yesNo": "Lost_Wallet.json"
-    },
-    {
+    }, {
         "name": {
             "de": "Kölner Dom",
             "en": "Cologne cathedral",
@@ -48,8 +63,7 @@
         "file": "Dom.txt",
         "words": "Dom.json",
         "multi": "Dom.json"
-    },
-    {
+    }, {
         "name": {
             "de": "Wilde Entdeckungen",
             "en": "Wild Explorations",
@@ -65,8 +79,7 @@
         "file": "Zoo.txt",
         "words": "Zoo.json",
         "yesNo": "Zoo.json"
-    },
-    {
+    }, {
         "name": {
             "de": "Köln im Dialog: ",
             "en": "Cologne in Dialogue",
