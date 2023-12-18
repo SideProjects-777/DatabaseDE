@@ -1,6 +1,6 @@
 [
     {
-        "de": "Begegnung",
+        "de": "die Begegnung",
         "en": "encounter",
         "ru": "встреча",
         "descriptionEN": "A chance meeting or encounter with someone.",
@@ -12,31 +12,31 @@
         "descriptionEN": "Causing great enthusiasm or interest.",
         "descriptionRU": "Вызывающий великий интерес и восторг."
     }, {
-        "de": "Hauptstadt",
+        "de": "die Hauptstadt",
         "en": "capital",
         "ru": "столица",
         "descriptionEN": "The city that serves as the seat of government for a country or region.",
         "descriptionRU": "Город, который служит центром правительства страны или региона."
     }, {
-        "de": "Wahrzeichen",
+        "de": "das Wahrzeichen",
         "en": "landmark",
         "ru": "ориентир",
         "descriptionEN": "A recognizable and significant feature of a place.",
         "descriptionRU": "Узнаваемая и значимая черта места."
     }, {
-        "de": "Sehenswürdigkeiten",
-        "en": "sights",
-        "ru": "достопримечательности",
+        "de": "die Sehenswürdigkeit",
+        "en": "sight",
+        "ru": "достопримечательность",
         "descriptionEN": "Places or things worth seeing or visiting.",
         "descriptionRU": "Места или вещи, которые стоит посетить или увидеть."
     }, {
-        "de": "Anweisungen",
-        "en": "instructions",
-        "ru": "инструкции",
+        "de": "die Anweisung",
+        "en": "instruction",
+        "ru": "инструкция",
         "descriptionEN": "Directions or guidance on how to do something.",
         "descriptionRU": "Направления или рекомендации о том, как что-то сделать."
     }, {
-        "de": "Hilfsbereitschaft",
+        "de": "die Hilfsbereitschaft",
         "en": "helpfulness",
         "ru": "готовность помочь",
         "descriptionEN": "The quality of being willing to assist or support others.",
@@ -48,14 +48,14 @@
         "descriptionEN": "Unable to think clearly or understand something.",
         "descriptionRU": "Не в состоянии ясно мыслить или понимать что-то."
     }, {
-        "de": "Warteschlange",
+        "de": "die Warteschlange",
         "en": "queue",
         "ru": "очередь",
         "descriptionEN": "A line of people waiting for something, often in order.",
         "descriptionRU": "Линия людей, ожидающих что-то, часто в порядке очереди."
     }, {
-        "de": "Freundschaften",
-        "en": "friendships",
+        "de": "die Freundschaft",
+        "en": "friendship",
         "ru": "дружба",
         "descriptionEN": "The state or quality of being friends, or the relationships between friends.",
         "descriptionRU": "Состояние или качество дружбы, или отношения между друзьями."
@@ -72,26 +72,26 @@
         "descriptionEN": "Full of activity and hustle.",
         "descriptionRU": "Полон активности и суеты."
     }, {
-        "de": "Wahrheit",
+        "de": "die Wahrheit",
         "en": "truth",
         "ru": "правда",
         "descriptionEN": "The quality or state of being in accordance with fact or reality.",
         "descriptionRU": "Качество или состояние соответствия факту или реальности."
     }, {
-        "de": "Freundlichkeit",
+        "de": "die Freundlichkeit",
         "en": "kindness",
         "ru": "доброта",
         "descriptionEN": "The quality of being friendly, generous, or considerate.",
         "descriptionRU": "Качество дружелюбия, щедрости или внимательности."
     }, {
-        "de": "Besichtigung",
+        "de": "die Besichtigung",
         "en": "sightseeing",
         "ru": "осмотр достопримечательностей",
         "descriptionEN": "The activity of visiting interesting places and tourist attractions.",
         "descriptionRU": "Активность посещения интересных мест и туристических достопримечательностей."
     }, {
-        "de": "U-Bahnen",
-        "en": "subways",
+        "de": "die U-Bahn",
+        "en": "subway",
         "ru": "метро",
         "descriptionEN": "Underground rail systems for public transportation.",
         "descriptionRU": "Подземные железные дороги для общественного транспорта."
@@ -108,13 +108,13 @@
         "descriptionEN": "In the opposite direction from where one is currently.",
         "descriptionRU": "В противоположном направлении от текущего."
     }, {
-        "de": "Spazierte",
-        "en": "walked",
-        "ru": "гулял",
+        "de": "spazieren",
+        "en": "walk",
+        "ru": "гулять",
         "descriptionEN": "Moved on foot at a leisurely pace.",
         "descriptionRU": "Двигался пешком с небольшой скоростью."
     }, {
-        "de": "Sonnigen",
+        "de": "sonnig",
         "en": "sunny",
         "ru": "солнечный",
         "descriptionEN": "Marked by bright sunlight and clear skies.",
