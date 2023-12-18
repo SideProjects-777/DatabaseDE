@@ -1,0 +1,63 @@
+[
+    {
+        "de": "die Gedenkstätte",
+        "en": "Memorial site",
+        "ru": "Мемориальное место",
+        "descriptionEN": "A location dedicated to preserving the memory of a person or event.",
+        "descriptionRU": "Место, посвященное сохранению памяти о человеке или событии."
+    }, {
+        "de": "das Museum",
+        "en": "Museum",
+        "ru": "Музей",
+        "descriptionEN": "An institution dedicated to the acquisition, preservation, and exhibition of objects of artistic, cultural, or scientific significance.",
+        "descriptionRU": "Учреждение, посвященное приобретению, сохранению и выставке объектов художественного, культурного или научного значения."
+    }, {
+        "de": "der Schwerpunkt",
+        "en": "Focus",
+        "ru": "Акцент",
+        "descriptionEN": "The central or main point of emphasis.",
+        "descriptionRU": "Центральная или основная точка акцента."
+    }, {
+        "de": "die Rundfahrt",
+        "en": "Round trip",
+        "ru": "Круговой тур",
+        "descriptionEN": "A journey that starts and finishes at the same place, often with stops along the way.",
+        "descriptionRU": "Путешествие, которое начинается и заканчивается в одном и том же месте, часто с остановками по пути."
+    }, {
+        "de": "die Aussicht",
+        "en": "View",
+        "ru": "Вид",
+        "descriptionEN": "A sight or prospect, typically of attractive natural scenery.",
+        "descriptionRU": "Зрелище или перспектива, обычно привлекательного природного пейзажа."
+    }, {
+        "de": "gemütlich",
+        "en": "Cozy",
+        "ru": "Уютный",
+        "descriptionEN": "Giving a feeling of comfort, warmth, and relaxation.",
+        "descriptionRU": "Создающий ощущение уюта, тепла и расслабления."
+    }, {
+        "de": "regionale",
+        "en": "Regional",
+        "ru": "Региональный",
+        "descriptionEN": "Relating to or characteristic of a particular region.",
+        "descriptionRU": "Относящийся к или характерный для определенного региона."
+    }, {
+        "de": "dreistündigen",
+        "en": "Three-hour",
+        "ru": "Трехчасовой",
+        "descriptionEN": "Lasting for a period of three hours.",
+        "descriptionRU": "Длительностью три часа."
+    }, {
+        "de": "unvergleichlichen",
+        "en": "Unparalleled",
+        "ru": "Безпрецедентный",
+        "descriptionEN": "Having no equal; better or greater than others.",
+        "descriptionRU": "Не имеющий равных; лучший или больший чем другие."
+    }, {
+        "de": "charmanten",
+        "en": "Charming",
+        "ru": "Очаровательный",
+        "descriptionEN": "Delightfully pleasing or attractive.",
+        "descriptionRU": "Восхитительно приятный или привлекательный."
+    }
+]

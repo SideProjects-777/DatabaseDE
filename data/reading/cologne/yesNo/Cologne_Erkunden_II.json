@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Das NS-Dokumentationszentrum in Köln ist ein interaktives Museum, das sich auf moderne Kunst konzentriert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Inschriften der Gefangenen in den Gefängniszellen des NS-Dokumentationszentrums sind im Keller zu finden.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Wallraf-Richartz-Museum und das Museum Ludwig befinden sich in historischen Gebäuden in Köln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Agfa Photo Historama im Wallraf-Richartz-Gebäude zeigt Fotos und Kameras ab 1814.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Hohenzollernbrücke ist keine der wichtigsten Sehenswürdigkeiten auf der einstündigen Rheinrundfahrt in Köln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die abendliche Panorama-Schifffahrt auf dem Rhein dauert vier Stunden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Während der abendlichen Panorama-Schifffahrt auf dem Rhein können Sie regionale Spezialitäten probieren.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die dreistündige Dinnerfahrt auf dem Kölner Rhein bietet einen Blick auf das Rheintal.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der KD Hop-on-Hop-off-Rheinpass ab Köln ermöglicht das Erkunden der Mosel mit ihren charmanten Städten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Es gibt auch Tagestouren mit dem Rheinpass nach Königswinter.",
+        "tr": true,
+        "fle": false
+    }
+]
