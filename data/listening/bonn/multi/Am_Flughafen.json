@@ -1,0 +1,108 @@
+[
+    {
+      "name": "Wo lässt sich Familie Müller beraten?",
+      "answers": [
+        {
+          "text": "im Reisebüro",
+          "correct": true 
+        },
+        {
+          "text": "im Internet",
+          "correct": false
+        },
+        {
+          "text": "im Hotel",
+          "correct": false
+        },
+        {
+          "text": "zu Hause",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Wie lautet das Reiseziel der Familie Müller?",
+      "answers": [
+        {
+          "text": "Ibiza",
+          "correct": false
+        },
+        {
+          "text": "Mallorca",
+          "correct": true
+        },
+        {
+          "text": "Korsika",
+          "correct": false
+        },
+        {
+          "text": "Menorca",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Wieviel Gepäck hat Familie Müller dabei?",
+      "answers": [
+        {
+          "text": "vier Koffer",
+          "correct": false
+        },
+        {
+          "text": "einen Koffer und zwei Taschen",
+          "correct": false
+        },
+        {
+          "text": "drei Koffer und zwei Taschen",
+          "correct": true
+        },
+        {
+          "text": "drei Taschen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Wie fühlt sich Herr Müller beim Starten des Flugzeugs?",
+      "answers": [
+        {
+          "text": "er fühlt sich nicht wohl",
+          "correct": true
+        },
+        {
+          "text": "er fühlt sich schläfrig",
+          "correct": false
+        },
+        {
+          "text": "er ist hungrig",
+          "correct": false
+        },
+        {
+          "text": "er ist durstig",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Wo holen die Passagiere nach der Landung ihr Gepäck ab?",
+      "answers": [
+        {
+          "text": "auf der Rollbahn",
+          "correct": false
+        },
+        {
+          "text": "im Hotel",
+          "correct": false
+        },
+        {
+          "text": "am Gepäckband",
+          "correct": true
+        },
+        {
+          "text": "im Wartebereich",
+          "correct": false
+        }
+      ]
+    }
+  ]
+  

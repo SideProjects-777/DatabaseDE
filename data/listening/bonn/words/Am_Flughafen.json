@@ -1,0 +1,129 @@
+[
+    {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group consisting of two parents and their children living together as a unit.",
+        "descriptionRU": "группа, состоящая из двух родителей и их детей, живущих вместе как единое целое."
+    }, {
+        "de": "das Reisebüro",
+        "en": "travel agency",
+        "ru": "турагентство",
+        "descriptionEN": "a business that sells travel-related products and services to customers.",
+        "descriptionRU": "организация, продающая туристические продукты и услуги клиентам."
+    }, {
+        "de": "der Flug",
+        "en": "flight",
+        "ru": "рейс",
+        "descriptionEN": "a journey made through the air, especially in an airplane.",
+        "descriptionRU": "путешествие в воздухе, особенно на самолете."
+    }, {
+        "de": "die Insel",
+        "en": "island",
+        "ru": "остров",
+        "descriptionEN": "a piece of land surrounded by water.",
+        "descriptionRU": "земельный участок, окруженный водой."
+    }, {
+        "de": "das Hotel",
+        "en": "hotel",
+        "ru": "отель",
+        "descriptionEN": "an establishment providing lodging, meals, and other services for travelers and tourists.",
+        "descriptionRU": "учреждение, предоставляющее проживание, питание и другие услуги для путешественников и туристов."
+    }, {
+        "de": "der Strand",
+        "en": "beach",
+        "ru": "пляж",
+        "descriptionEN": "a sandy or pebbly shore, especially by the sea.",
+        "descriptionRU": "песчаный или галечный берег, особенно у моря."
+    }, {
+        "de": "das Meer",
+        "en": "sea",
+        "ru": "море",
+        "descriptionEN": "the expanse of salt water that covers most of the earth's surface.",
+        "descriptionRU": "простор соленой воды, покрывающий большую часть поверхности Земли."
+    }, {
+        "de": "das Taxi",
+        "en": "taxi",
+        "ru": "такси",
+        "descriptionEN": "a car with a driver that a person hires to take them to a destination of their choice.",
+        "descriptionRU": "автомобиль с водителем, который арендуется человеком для доставки его в пункт назначения."
+    }, {
+        "de": "der Flughafen",
+        "en": "airport",
+        "ru": "аэропорт",
+        "descriptionEN": "a place where aircraft regularly take off and land, with facilities for passengers.",
+        "descriptionRU": "место, где регулярно взлетают и садятся воздушные суда, с оборудованием для пассажиров."
+    }, {
+        "de": "das Gepäck",
+        "en": "luggage",
+        "ru": "багаж",
+        "descriptionEN": "bags and other containers with their contents; belongings of a traveler.",
+        "descriptionRU": "сумки и другие контейнеры с их содержимым; вещи путешественника."
+    }, {
+        "de": "die Handgepäck",
+        "en": "carry-on luggage",
+        "ru": "ручная кладь",
+        "descriptionEN": "small baggage that a passenger can carry onto the plane.",
+        "descriptionRU": "небольшой багаж, который пассажир может взять с собой в самолет."
+    }, {
+        "de": "der Flugschalter",
+        "en": "check-in counter",
+        "ru": "стойка регистрации",
+        "descriptionEN": "a counter or desk at an airport where passengers check in for their flights.",
+        "descriptionRU": "стойка или стол на аэропорту, где пассажиры регистрируются на свои рейсы."
+    }, {
+        "de": "der Flugsteig",
+        "en": "boarding gate",
+        "ru": "ворота посадки",
+        "descriptionEN": "a point at an airport from which passengers embark on an aircraft.",
+        "descriptionRU": "точка на аэропорту, с которой пассажиры садятся в воздушное судно."
+    }, {
+        "de": "die Sicherheitskontrolle",
+        "en": "security check",
+        "ru": "контроль безопасности",
+        "descriptionEN": "the process of checking passengers and their belongings for prohibited items.",
+        "descriptionRU": "процесс проверки пассажиров и их вещей на предмет запрещенных предметов."
+    }, {
+        "de": "das Gate",
+        "en": "gate",
+        "ru": "ворота",
+        "descriptionEN": "an area in an airport from which passengers board or disembark.",
+        "descriptionRU": "область на аэропорту, с которой пассажиры посадки или высадки."
+    }, {
+        "de": "der Wartebereich",
+        "en": "waiting area",
+        "ru": "зона ожидания",
+        "descriptionEN": "a designated area where passengers can wait before boarding their flights.",
+        "descriptionRU": "специально отведенная область, где пассажиры могут ждать перед посадкой на свой рейс."
+    }, {
+        "de": "die Flugnummer",
+        "en": "flight number",
+        "ru": "номер рейса",
+        "descriptionEN": "a unique code assigned to a specific flight.",
+        "descriptionRU": "уникальный код, присвоенный конкретному рейсу."
+    }, {
+        "de": "der Passagier",
+        "en": "passenger",
+        "ru": "пассажир",
+        "descriptionEN": "a person who is traveling in a vehicle, especially one that is not the driver.",
+        "descriptionRU": "человек, путешествующий в транспортном средстве, особенно не являющийся водителем."
+    }, {
+        "de": "der Start",
+        "en": "takeoff",
+        "ru": "взлет",
+        "descriptionEN": "the moment when an aircraft leaves the ground to ascend into the air.",
+        "descriptionRU": "момент, когда воздушное судно покидает землю, чтобы подниматься в воздух."
+    }, {
+        "de": "das Gepäckband",
+        "en": "baggage carousel",
+        "ru": "конвейер для багажа",
+        "descriptionEN": "a moving conveyor belt at an airport for delivering passengers' checked luggage.",
+        "descriptionRU": "движущийся конвейер на аэропорту для доставки зарегистрированных багажей пассажиров."
+    }, {
+        "de": "der Urlaub",
+        "en": "vacation",
+        "ru": "отпуск",
+        "descriptionEN": "a period of time dedicated to leisure and travel, typically away from work or school.",
+        "descriptionRU": "период времени, посвященный досугу и путешествиям, обычно вдали от работы или учебы."
+    }
+]

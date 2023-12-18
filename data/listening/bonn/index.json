@@ -15,5 +15,22 @@
         "file": "NeuStadt.mp3",
         "words": "NeuStadt.json",
         "yesNo": "NeuStadt.json"
+    },
+    {
+        "name": {
+            "de": "Am Flughafen",
+            "en": "At the airport",
+            "ru": "В аэропорту"
+        },
+        "description":{
+            "de": "Die Müller'sche Urlaubsreise",
+            "en": "The Müller Family's Vacation Journey",
+            "ru": "Отпуск семьи Мюллер"
+        },
+        "level": "A2",
+        "image": "Am_Flughafen.jpg",
+        "file": "Am_Flughafen.mp3",
+        "words": "Am_Flughafen.json",
+        "multi": "Am_Flughafen.json"
     }
 ]
