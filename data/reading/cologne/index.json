@@ -1,9 +1,9 @@
 [
     {
         "name": {
-            "de": "Знакомство с Кельном (часть 1)",
+            "de": "Köln erkunden (Teil 1)",
             "en": "Exploring Cologne (Part 1)",
-            "ru": "Köln erkunden (Teil 1)"
+            "ru": "Знакомство с Кельном (часть 1)"
         },
         "description": {
             "de": "Stadtführer",
@@ -17,9 +17,9 @@
         "yesNo": "Cologne_Erkunden_I.json"
     }, {
         "name": {
-            "de": "Знакомство с Кельном (часть 2)",
+            "de": "Köln erkunden (Teil 2)",
             "en": "Exploring Cologne (Part 2)",
-            "ru": "Köln erkunden (Teil 2)"
+            "ru": "Знакомство с Кельном (часть 2)"
         },
         "description": {
             "de": "Stadtführer",
@@ -33,9 +33,9 @@
         "yesNo": "Cologne_Erkunden_II.json"
     }, {
         "name": {
-            "de": "Знакомство с Кельном (часть 3)",
+            "de": "Köln erkunden (Teil 3)",
             "en": "Exploring Cologne (Part 3)",
-            "ru": "Köln erkunden (Teil 3)"
+            "ru": "Знакомство с Кельном (часть 3)"
         },
         "description": {
             "de": "Stadtführer",
