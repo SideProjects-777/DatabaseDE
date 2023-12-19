@@ -119,5 +119,37 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/NeuStadt.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/NeuStadt.jpg"
+    }, {
+        "title": {
+            "de": "Köln erkunden (Teil 1)",
+            "en": "Exploring Cologne (Part 1)",
+            "ru": "Знакомство с Кельном (часть 1)"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_I.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_I.jpg"
+    }, {
+        "title": {
+            "de": "Köln erkunden (Teil 2)",
+            "en": "Exploring Cologne (Part 2)",
+            "ru": "Знакомство с Кельном (часть 2)"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_II.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_II.jpg"
+    }, {
+        "title": {
+            "de": "Köln erkunden (Teil 3)",
+            "en": "Exploring Cologne (Part 3)",
+            "ru": "Знакомство с Кельном (часть 3)"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_III.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_III.jpg"
+    }, {
+        "title": {
+            "de": "Am Flughafen",
+            "en": "At the airport",
+            "ru": "В аэропорту"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Am_Flughafen.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Am_Flughafen.jpg"
     }
 ]
