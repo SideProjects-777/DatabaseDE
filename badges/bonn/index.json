@@ -1,0 +1,81 @@
+[
+    {
+        "name": {
+            "de": "Fluß der Träume",
+            "en": "River of Dreams",
+            "ru": "Река грез"
+        },
+        "description": {
+            "de": "Abendliche Eleganz auf dem Rhein",
+            "en": "Evening Elegance on the Rhein",
+            "ru": "Вечерняя элегантность на Рейне"
+        },
+        "image": "1.jpg",
+        "key": "River of Dreams"
+    }, {
+        "name": {
+            "de": "Herz von Bonn",
+            "en": "Heart of Bonn",
+            "ru": "Сердце Бонна"
+        },
+        "description": {
+            "de": "Abendlicher Charme in Bonn",
+            "en": "Evening Charm in Bonn",
+            "ru": "Вечернее очарование Бонна"
+        },
+        "image": "2.jpg",
+        "key": "Heart of Bonn"
+    }, {
+        "name": {
+            "de": "Altstadt Schönheit",
+            "en": "Altstadt Beauty",
+            "ru": "Красота старого города"
+        },
+        "description": {
+            "de": "Bonns lebendiges Erbe",
+            "en": "Bonn's Living Heritage",
+            "ru": "Живое наследие Бонна"
+        },
+        "image": "3.jpg",
+        "key": "Altstadt Beauty"
+    }, {
+        "name": {
+            "de": "Sakura Träume",
+            "en": "Sakura Dreams",
+            "ru": "Мечты о Сакуре"
+        },
+        "description": {
+            "de": "Kirschblüten in Bonn",
+            "en": "Cherry Blossoms in Bonn",
+            "ru": "Цветение сакуры в Бонне"
+        },
+        "image": "4.jpg",
+        "key": "Sakura Dreams"
+    }, {
+        "name": {
+            "de": "Die Bonner Stille Vorlesung",
+            "en": "Bonn's Silent Lecture",
+            "ru": "Тихая лекция в Бонне"
+        },
+        "description": {
+            "de": "Universität Bonn in Weiß",
+            "en": "University of Bonn in White",
+            "ru": "Боннский университет в белом"
+        },
+        "image": "5.jpg",
+        "key": "Bonn's Silent Lecture"
+    }, {
+        "name": {
+            "de": "Alleine in Bonn",
+            "en": "Alone in Bonn",
+            "ru": "Один в Бонне"
+        },
+        "description": {
+            "de": "Eine Stadt in der Stille",
+            "en": "A City in Silence",
+            "ru": "Город в тишине"
+        },
+        "image": "6.jpg",
+        "key": "Alone in Bonn"
+    }
+]

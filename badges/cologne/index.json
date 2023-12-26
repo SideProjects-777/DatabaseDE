@@ -1,0 +1,81 @@
+[
+    {
+        "name": {
+            "de": "Sonnenuntergangssilhouetten",
+            "en": "Sunset Silhouettes",
+            "ru": "Силуэты заката"
+        },
+        "description": {
+            "de": "Kölner Dom bei Sonnenuntergang",
+            "en": "Cologne Cathedral at Sunset",
+            "ru": "Кельнский собор на закате"
+        },
+        "image": "1.jpg",
+        "key":"Sunset Silhouettes"
+    }, {
+        "name": {
+            "de": "Zuflucht in der Stille",
+            "en": "Sanctuary in Silence",
+            "ru": "Убежище в тишине"
+        },
+        "description": {
+            "de": "Kölner Dom Ununterbrochen",
+            "en": "Cologne Cathedral Uninterrupted",
+            "ru": "Кёльнский собор без перерыва"
+        },
+        "image": "2.jpg",
+        "key":"Sanctuary in Silence"
+    }, {
+        "name": {
+            "de": "Ein Sessellift-Erfahrung",
+            "en": "A Sesselbahn Experience",
+            "ru": "Опыт кресельных подъемников"
+        },
+        "description": {
+            "de": "Chairlift-Erfahrung",
+            "en": "Chairlift Perspectives",
+            "ru": "Перспективы кресельного подъемника"
+        },
+        "image": "3.jpg",
+        "key":"A Sesselbahn Experience"
+    }, {
+        "name": {
+            "de": "Locken der Liebe",
+            "en": "Locks of Love",
+            "ru": "Замки любви"
+        },
+        "description": {
+            "de": "Stille Botschaften auf der Hohenzollernbrücke",
+            "en": "Silent Messages on Hohenzollern Bridge",
+            "ru": "Безмолвные послания на мосту Гогенцоллерна"
+        },
+        "image": "4.jpg",
+        "key":"Locks of Love"
+    }, {
+        "name": {
+            "de": "Tor zur Geschichte",
+            "en": "Gateway to History",
+            "ru": "Портал в историю"
+        },
+        "description": {
+            "de": "Hahnentor in Ruhestellung",
+            "en": "Hahnentor in Silent Repose",
+            "ru": "Ханнентор в молчаливом покое"
+        },
+        "image": "5.jpg",
+        "key":"Gateway to History"
+    }, {
+        "name": {
+            "de": "Spiegel der Majestät",
+            "en": "Mirror of Majesty",
+            "ru": "Зеркало величия"
+        },
+        "description": {
+            "de": "Spiegelnder Kölner Dom",
+            "en": "Reflecting Cologne Cathedral",
+            "ru": "Отражение Кельнского собора"
+        },
+        "image": "6.jpg",
+        "key":"Mirror of Majesty"
+    }
+]

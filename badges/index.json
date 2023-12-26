@@ -1,0 +1,87 @@
+[
+    {
+        "name": {
+            "de": "Köln",
+            "en": "Cologne",
+            "ru": "Кёльн"
+        },
+        "folder": "cologne",
+        "description": {
+            "de": "Domstadt",
+            "en": "Cathedral city",
+            "ru": "Город собора"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
+        "active": true
+    }, {
+        "name": {
+            "de": "Bonn",
+            "en": "Bonn",
+            "ru": "Бонн"
+        },
+        "folder": "bonn",
+        "description": {
+            "de": "Der Geburtsort von Beethoven",
+            "en": "The birthplace of Beethoven",
+            "ru": "Родина Бетховена"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonn.jpg",
+        "active": true
+    }, {
+        "name": {
+            "de": "Koblenz",
+            "en": "Koblenz",
+            "ru": "Кобленц"
+        },
+        "folder": "koblenz",
+        "description": {
+            "de": "Der Zusammenfluss von Rhein und Mosel",
+            "en": "The confluence of the Rhine and Moselle",
+            "ru": "Слияние рек Рейн и Мозель"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
+        "active": false
+    }, {
+        "name": {
+            "de": "Düsseldorf",
+            "en": "Düsseldorf",
+            "ru": "Дюссельдорф"
+        },
+        "folder": "dusseldorf",
+        "description": {
+            "de": "Belebte Mode- und Handelsmessen",
+            "en": "Bustling fashion and trade fairs",
+            "ru": "Оживленные ярмарки моды и торговли"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
+        "active": false
+    }, {
+        "name": {
+            "de": "Frankfurt",
+            "en": "Frankfurt",
+            "ru": "Франкфурт"
+        },
+        "folder": "frankfurt",
+        "description": {
+            "de": "Bankenstadt",
+            "en": "Bank city",
+            "ru": "Банковский город"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/frankfurt.jpg",
+        "active": false
+    }, {
+        "name": {
+            "de": "Dortmund",
+            "en": "Dortmund",
+            "ru": "Дортмунд"
+        },
+        "folder": "dortmund",
+        "description": {
+            "de": "Westfalenstadion",
+            "en": "Signal Iduna Park",
+            "ru": "Сигна́л Иду́на Парк"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
+        "active": false
+    }
+]
