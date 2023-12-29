@@ -6,15 +6,31 @@
             "ru": "Дом Бетховена I"
         },
         "description": {
-            "de": "Beethoven-Haus Vorstellung",
-            "en": "Beethoven House Introduction",
-            "ru": "Дом Бетховена Введение"
+            "de": "Überblick über das Museum und seine Umgebung",
+            "en": "Overview of the museum and its surroundings",
+            "ru": "Обзор музея и его окрестностей"
         },
         "level": "B2",
         "image": "BeethovenI.jpg",
         "file": "BeethovenI.mp3",
         "words": "BeethovenI.json",
         "yesNo": "BeethovenI.json"
+    }, {
+        "name": {
+            "de": "Beethoven-Haus II",
+            "en": "Beethoven House II",
+            "ru": "Дом Бетховена II"
+        },
+        "description": {
+            "de": "Hintergrund und seine Exponate",
+            "en": "Background and its exhibits",
+            "ru": "История и ее экспонаты"
+        },
+        "level": "B2",
+        "image": "BeethovenII.jpg",
+        "file": "BeethovenII.mp3",
+        "words": "BeethovenII.json",
+        "multi": "BeethovenII.json"
     }, {
         "name": {
             "de": "Julias Neue Welt",

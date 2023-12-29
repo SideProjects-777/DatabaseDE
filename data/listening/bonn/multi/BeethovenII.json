@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Wann wurde das Museum eröffnet?",
+        "answers": [
+            {
+                "text": "10. Mai 1893",
+                "correct": true
+            }, {
+                "text": "2. Juni 1901",
+                "correct": false
+            }, {
+                "text": "15. Dezember 1887",
+                "correct": false
+            }, {
+                "text": "7. August 1912",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Sammlung beherbergt das Museum heute?",
+        "answers": [
+            {
+                "text": "Mozart-Sammlung",
+                "correct": false
+            }, {
+                "text": "Beethoven-Sammlung",
+                "correct": true
+            }, {
+                "text": "Bach-Sammlung",
+                "correct": false
+            }, {
+                "text": "Schubert-Sammlung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Aus welchen Gebäuden besteht das Museum?",
+        "answers": [
+            {
+                "text": "Vorderhaus und Anbau",
+                "correct": true
+            }, {
+                "text": "Hinterhaus und Seitenflügel",
+                "correct": false
+            }, {
+                "text": "Turm und Keller",
+                "correct": false
+            }, {
+                "text": "Dachgeschoss und Terrasse",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann wurde die Dauerausstellung zuletzt renoviert?",
+        "answers": [
+            {
+                "text": "1995/96",
+                "correct": true
+            }, {
+                "text": "1980",
+                "correct": false
+            }, {
+                "text": "2005",
+                "correct": false
+            }, {
+                "text": "2010",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was beherbergt das Studio für digitale Sammlungen?",
+        "answers": [
+            {
+                "text": "Gemälde und Skulpturen",
+                "correct": false
+            }, {
+                "text": "Bücher und Manuskripte",
+                "correct": false
+            }, {
+                "text": "Digitalisierte Dokumente",
+                "correct": true
+            }, {
+                "text": "Archäologische Funde",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Szenen werden auf der Musikvisualisierungsbühne gezeigt?",
+        "answers": [
+            {
+                "text": "Mozarts Klaviersonaten",
+                "correct": false
+            }, {
+                "text": "Beethovens Fidelio",
+                "correct": true
+            }, {
+                "text": "Bachs Orchestersuiten",
+                "correct": false
+            }, {
+                "text": "Schuberts Liederzyklus",
+                "correct": false
+            }
+        ]
+    }
+]
