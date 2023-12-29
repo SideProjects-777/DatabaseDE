@@ -1,11 +1,27 @@
 [
     {
         "name": {
+            "de": "Beethoven-Haus I",
+            "en": "Beethoven House I",
+            "ru": "Дом Бетховена I"
+        },
+        "description": {
+            "de": "Beethoven-Haus Vorstellung",
+            "en": "Beethoven House Introduction",
+            "ru": "Дом Бетховена Введение"
+        },
+        "level": "B2",
+        "image": "BeethovenI.jpg",
+        "file": "BeethovenI.mp3",
+        "words": "BeethovenI.json",
+        "yesNo": "BeethovenI.json"
+    }, {
+        "name": {
             "de": "Julias Neue Welt",
             "en": "Julia's New Horizons",
             "ru": "Новые горизонты Юлии"
         },
-        "description":{
+        "description": {
             "de": "Von Stuttgart nach Bonn mit Minka der Katze",
             "en": "From Stuttgart to Bonn with Minka the Cat",
             "ru": "Из Штутгарта в Бонн с котом Минка"
@@ -15,14 +31,13 @@
         "file": "NeuStadt.mp3",
         "words": "NeuStadt.json",
         "yesNo": "NeuStadt.json"
-    },
-    {
+    }, {
         "name": {
             "de": "Am Flughafen",
             "en": "At the airport",
             "ru": "В аэропорту"
         },
-        "description":{
+        "description": {
             "de": "Die Müller'sche Urlaubsreise",
             "en": "The Müller Family's Vacation Journey",
             "ru": "Отпуск семьи Мюллер"

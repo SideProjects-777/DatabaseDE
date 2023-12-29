@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Das Beethoven-Haus ist nur ein Museum.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Beethoven-Haus wurde 1889 von Ludwig van Beethoven gegründet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Kernstück des Beethoven-Hauses ist das Beethoven-Archiv.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In den Nachbargebäuden befindet sich ein Kammermusiksaal.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Musikliebhaber und Fachleute können sich nicht im Beethoven-Haus treffen und austauschen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Beethoven-Haus wird ausschließlich durch öffentliche Mittel finanziert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Haus Bonngasse 20 wurde um 1700 auf einem älteren Kellergewölbe errichtet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Es gibt viele erhaltene Bürgerhäuser aus kurfürstlicher Zeit.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Haus Bonngasse 20 lag damals in der bevorzugten Wohngegend der Hofbediensteten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Haus Bonngasse 20 befindet sich am Rheinufer.",
+        "tr": false,
+        "fle": true
+    }
+]

@@ -151,5 +151,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Am_Flughafen.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Am_Flughafen.jpg"
+    }, {
+        "title": {
+            "de": "Am Flughafen",
+            "en": "At the airport",
+            "ru": "В аэропорту"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BeethovenI.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BeethovenI.jpg"
     }
 ]

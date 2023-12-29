@@ -2,7 +2,7 @@
 <Text>
 
 
-	Extract 20 words and provide output in json format with the following structure:
+	Extract words and provide output in json format with the following structure:
 
 	export interface Word {
 		de: string, -> our word (if noun provide with article)
