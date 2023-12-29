@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "de": "COVID mit Beethoven",
+            "en": "COVID with Beethoven",
+            "ru": "КОВИД с Бетховеном"
+        },
+        "description": {
+            "de": "Beethovens Museum im Zeitalter des COVID-19",
+            "en": "Beethoven's Museum in the Age of COVID-19",
+            "ru": "Музей Бетховена в эпоху COVID-19"
+        },
+        "level": "B2",
+        "image": "COVID_Beethoven.png",
+        "file": "COVID_Beethoven.txt",
+        "words": "COVID_Beethoven.json",
+        "multi": "COVID_Beethoven.json"
+    }, {
+        "name": {
             "de": "Warum Bonn?",
             "en": "Why Bonn?",
             "ru": "Почему Бонн?"

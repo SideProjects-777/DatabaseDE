@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Welches ist das Herzstück des Online-Projektes?",
+        "answers": [
+            {
+                "text": "Ein 3D-Rundgang durch das Beethoven-Haus.",
+                "correct": true
+            }, {
+                "text": "Die Beethoven-Locke.",
+                "correct": false
+            }, {
+                "text": "Die gläsernen Vitrinen.",
+                "correct": false
+            }, {
+                "text": "Das Stieler-Porträt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was muss Direktor Malte Boecker tun, um zu den Objekten zu gelangen?",
+        "answers": [
+            {
+                "text": "Schlösser öffnen, Alarmanlage deaktivieren und Sicherheitscode eingeben.",
+                "correct": true
+            }, {
+                "text": "Die Beethoven-Locke präsentieren.",
+                "correct": false
+            }, {
+                "text": "Den 3D-Rundgang starten.",
+                "correct": false
+            }, {
+                "text": "Die gläsernen Vitrinen öffnen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Erinnerungsgabe befindet sich in einer gläsernen Vitrine?",
+        "answers": [
+            {
+                "text": "Eine Beethoven-Locke und Blumen vom Wiener Grab.",
+                "correct": true
+            }, {
+                "text": "Ein Stieler-Porträt.",
+                "correct": false
+            }, {
+                "text": "Eine Federkiel und ein Schreibtisch.",
+                "correct": false
+            }, {
+                "text": "Ein Quatuor Èbène.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was blockiert die Google-App \"Beethoven Everywhere\"?",
+        "answers": [
+            {
+                "text": "Das Herunterladen von Noten oder Briefen in hochauflösender Grafik.",
+                "correct": true
+            }, {
+                "text": "Den Zugang zum Beethoven-Haus.",
+                "correct": false
+            }, {
+                "text": "Die Google-App selbst.",
+                "correct": false
+            }, {
+                "text": "Den 3D-Rundgang.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist laut Malte Boecker ein Kulturwandel?",
+        "answers": [
+            {
+                "text": "Die Möglichkeit, hochauflösende Abbildungen herunterzuladen.",
+                "correct": false
+            }, {
+                "text": "Die Öffnung des Museums für Fotografien.",
+                "correct": false
+            }, {
+                "text": "Die größtmögliche Zugänglichkeit für die Öffentlichkeit.",
+                "correct": true
+            }, {
+                "text": "Die Sperrung der Google-App \"Beethoven Everywhere\".",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Schwerpunkt der Google-App \"Beethoven Everywhere\"?",
+        "answers": [
+            {
+                "text": "Videoclips auf Deutsch oder Englisch.",
+                "correct": true
+            }, {
+                "text": "Die Beethoven-Locke.",
+                "correct": false
+            }, {
+                "text": "Die Weltreise des Quatuor Èbène.",
+                "correct": false
+            }, {
+                "text": "Das Stieler-Porträt als Homeoffice-Hintergrund.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was will Google Arts and Culture mit der App erreichen?",
+        "answers": [
+            {
+                "text": "Eine immersive Erfahrung durch die Verbindung von Bild und Ton.",
+                "correct": true
+            }, {
+                "text": "Die Sperrung der Fotografie im Museum.",
+                "correct": false
+            }, {
+                "text": "Die Herausforderung des Beethoven-Images.",
+                "correct": false
+            }, {
+                "text": "Die Verbreitung von Beethoven-Roadmovies.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wovon handelt das Kapitel \"Beethoven Goes Pop!\"?",
+        "answers": [
+            {
+                "text": "Populäre Themen rund um Beethoven.",
+                "correct": true
+            }, {
+                "text": "Die Beethoven-Locke.",
+                "correct": false
+            }, {
+                "text": "Historische Details des Beethoven-Hauses.",
+                "correct": false
+            }, {
+                "text": "Die Weltreise des Quatuor Èbène.",
+                "correct": false
+            }
+        ]
+    }
+]
