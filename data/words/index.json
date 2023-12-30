@@ -153,11 +153,27 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Am_Flughafen.jpg"
     }, {
         "title": {
-            "de": "Am Flughafen",
-            "en": "At the airport",
-            "ru": "В аэропорту"
+            "de": "Beethoven-Haus I",
+            "en": "Beethoven House I",
+            "ru": "Дом Бетховена I"
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BeethovenI.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BeethovenI.jpg"
+    }, {
+        "title": {
+            "de": "Beethoven-Haus II",
+            "en": "Beethoven House II",
+            "ru": "Дом Бетховена II"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BeethovenII.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BeethovenII.jpg"
+    }, {
+        "title": {
+            "de": "COVID mit Beethoven",
+            "en": "COVID with Beethoven",
+            "ru": "КОВИД с Бетховеном"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/COVID_Beethoven.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/COVID_Beethoven.png"
     }
 ]
