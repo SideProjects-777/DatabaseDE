@@ -175,5 +175,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/COVID_Beethoven.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/COVID_Beethoven.png"
+    }, {
+        "title": {
+            "de": "Das Arithmeum in Bonn",
+            "en": "The Arithmeum in Bonn",
+            "ru": "Аритмеум в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Arithmeum.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Arithmeum.jpg"
     }
 ]

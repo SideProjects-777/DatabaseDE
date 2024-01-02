@@ -1,18 +1,7 @@
 	Given the following text:
 <TEXT>
-export interface Question {
-    name: string, -> question itself in german language 
-    answers:Answers[]; -> an array of answers, usually min 2 and max 4
-}
 
-export interface Answers {
-    text: string, -> answer represented in german language
-    correct:boolean, -> marks if the question is correct
-}
-
-
- 
- Example of such response is the following
+Based on it generate 10 Questions of the structure below
 
     {
         "name": "Frage 1", -> question title in german,
@@ -25,6 +14,17 @@ export interface Answers {
             ....
         ]
     }
+
+    export interface Question {
+        name: string, -> question itself in german language 
+        answers:Answers[]; -> an array of answers, usually min 2 and max 4
+    }
+
+    export interface Answers {
+        text: string, -> answer represented in german language
+        correct:boolean, -> marks if the question is correct
+    }
+
 
 	All the questions should be taken from the text.
 	Response should be in json.

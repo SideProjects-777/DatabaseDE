@@ -1,0 +1,69 @@
+[
+    {
+        "de": "die Zählhilfe",
+        "en": "counting aid",
+        "ru": "счетное устройство",
+        "descriptionEN": "An instrument or tool used for counting.",
+        "descriptionRU": "Инструмент или устройство, используемое для подсчета."
+    }, {
+        "de": "der Rechentisch",
+        "en": "calculating table",
+        "ru": "вычислительный стол",
+        "descriptionEN": "A table designed for performing mathematical calculations.",
+        "descriptionRU": "Стол, предназначенный для выполнения математических расчетов."
+    }, {
+        "de": "die Feinmechanik",
+        "en": "precision mechanics",
+        "ru": "точная механика",
+        "descriptionEN": "The branch of mechanics dealing with small movements and forces.",
+        "descriptionRU": "Отрасль механики, занимающаяся малыми движениями и силами."
+    }, {
+        "de": "die Rechenmaschine",
+        "en": "calculating machine",
+        "ru": "вычислительная машина",
+        "descriptionEN": "A mechanical or electronic device designed to perform mathematical calculations.",
+        "descriptionRU": "Механическое или электронное устройство, предназначенное для выполнения математических расчетов."
+    }, {
+        "de": "die Verschlüsselungsmaschine",
+        "en": "encryption machine",
+        "ru": "шифровальная машина",
+        "descriptionEN": "A machine used for encoding information to secure it from unauthorized access.",
+        "descriptionRU": "Устройство для кодирования информации для защиты от несанкционированного доступа."
+    }, {
+        "de": "der Rundgang",
+        "en": "tour",
+        "ru": "тур",
+        "descriptionEN": "A guided or unguided tour through a place or facility.",
+        "descriptionRU": "Экскурсия или самостоятельное путешествие по месту или объекту."
+    }, {
+        "de": "die Entwicklung",
+        "en": "development",
+        "ru": "развитие",
+        "descriptionEN": "The process of growth, progress, or advancement.",
+        "descriptionRU": "Процесс роста, прогресса или развития."
+    }, {
+        "de": "erleichtern",
+        "en": "facilitate",
+        "ru": "облегчать",
+        "descriptionEN": "To make easier or less difficult.",
+        "descriptionRU": "Делать что-то более легким или менее сложным."
+    }, {
+        "de": "übersteigen",
+        "en": "surpass",
+        "ru": "превосходить",
+        "descriptionEN": "To go beyond in degree, amount, extent, or surpassing.",
+        "descriptionRU": "Превосходить по степени, количеству, объему или степени."
+    }, {
+        "de": "raffiniert",
+        "en": "sophisticated",
+        "ru": "утонченный",
+        "descriptionEN": "Having a refined or cultured quality.",
+        "descriptionRU": "Имеющий изысканный или культурный характер."
+    }, {
+        "de": "umfassend",
+        "en": "comprehensive",
+        "ru": "всесторонний",
+        "descriptionEN": "Covering or involving much; inclusive.",
+        "descriptionRU": "Охватывающий или включающий многое; всесторонний."
+    }
+]

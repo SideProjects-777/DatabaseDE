@@ -17,6 +17,22 @@
         "multi": "COVID_Beethoven.json"
     }, {
         "name": {
+            "de": "Das Arithmeum in Bonn",
+            "en": "The Arithmeum in Bonn",
+            "ru": "Аритмеум в Бонне"
+        },
+        "description": {
+            "de": "Eine Reise durch die Geschichte der Rechenmaschinen",
+            "en": "A Journey through the History of Calculating Machines",
+            "ru": "Путешествие по истории вычислительных машин"
+        },
+        "level": "B2",
+        "image": "Arithmeum.png",
+        "file": "Arithmeum.txt",
+        "words": "Arithmeum.json",
+        "multi": "Arithmeum.json"
+    }, {
+        "name": {
             "de": "Warum Bonn?",
             "en": "Why Bonn?",
             "ru": "Почему Бонн?"

@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welches Museum in Bonn hält ein besonderes Angebot für Mathematikbegeisterte bereit?",
+        "answers": [
+            {
+                "text": "Das Arithmeum",
+                "correct": true
+            }, {
+                "text": "Das Historium",
+                "correct": false
+            }, {
+                "text": "Das Mathematikmuseum",
+                "correct": false
+            }, {
+                "text": "Das Zahlenreich",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wofür wurden Rechenpfennige auf dem Rechentisch im Mittelalter verwendet?",
+        "answers": [
+            {
+                "text": "Zum Schreiben von Zahlen",
+                "correct": false
+            }, {
+                "text": "Zum Handeln von Waren",
+                "correct": false
+            }, {
+                "text": "Zur Durchführung von Grundrechenarten",
+                "correct": true
+            }, {
+                "text": "Zum Spielen von Spielen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Funktion hatten Verschlüsselungsmaschinen für das Militär?",
+        "answers": [
+            {
+                "text": "Kochen von Lebensmitteln",
+                "correct": false
+            }, {
+                "text": "Erzeugung von Codes zur Geheimhaltung",
+                "correct": true
+            }, {
+                "text": "Übersetzen von Sprachen",
+                "correct": false
+            }, {
+                "text": "Medizinische Behandlungen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Rechenmaschine markiert das Ende der mechanischen Ära im Arithmeum?",
+        "answers": [
+            {
+                "text": "Curta",
+                "correct": false
+            }, {
+                "text": "Hamann 1630",
+                "correct": true
+            }, {
+                "text": "Goerz A",
+                "correct": false
+            }, {
+                "text": "Brunsviga Modell 1",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war die berühmte Curta?",
+        "answers": [
+            {
+                "text": "Eine elektronische Rechenmaschine",
+                "correct": false
+            }, {
+                "text": "Eine mechanische Vierfach-Rechenmaschine",
+                "correct": true
+            }, {
+                "text": "Ein Buch über Mathematikgeschichte",
+                "correct": false
+            }, {
+                "text": "Ein Denkmal für Mathematiker",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Firma entwickelte das Modell Anita C VIII, die erste elektronische Tischrechenmaschine?",
+        "answers": [
+            {
+                "text": "Bell",
+                "correct": true
+            }, {
+                "text": "Goerz",
+                "correct": false
+            }, {
+                "text": "Hamann",
+                "correct": false
+            }, {
+                "text": "Brunsviga",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was erleichterten die Rechenmaschinen im Büroalltag?",
+        "answers": [
+            {
+                "text": "Kommunikation",
+                "correct": false
+            }, {
+                "text": "Transport",
+                "correct": false
+            }, {
+                "text": "Mathematische Berechnungen",
+                "correct": true
+            }, {
+                "text": "Kunsthandwerk",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kennzeichnete die Enigma im Arithmeum?",
+        "answers": [
+            {
+                "text": "Voll funktionsunfähig",
+                "correct": false
+            }, {
+                "text": "Mechanische Uhr",
+                "correct": false
+            }, {
+                "text": "Verschlüsselungsmaschine",
+                "correct": true
+            }, {
+                "text": "Gemälde eines Künstlers",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum konnte sich die Hamann 1630 nicht auf dem Markt durchsetzen?",
+        "answers": [
+            {
+                "text": "Sie war zu billig.",
+                "correct": false
+            }, {
+                "text": "Sie war zu kompliziert und teuer.",
+                "correct": true
+            }, {
+                "text": "Sie war zu einfach.",
+                "correct": false
+            }, {
+                "text": "Sie war zu groß.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Entwicklung löste das endgültige Ende der mechanischen Rechenmaschinen aus?",
+        "answers": [
+            {
+                "text": "Elektronische Rechenmaschinen",
+                "correct": true
+            }, {
+                "text": "Mechanische Uhren",
+                "correct": false
+            }, {
+                "text": "Kunststoffverarbeitung",
+                "correct": false
+            }, {
+                "text": "Medizinische Geräte",
+                "correct": false
+            }
+        ]
+    }
+]
