@@ -1,0 +1,165 @@
+[
+    {
+        "de": "die Fusion",
+        "en": "merger",
+        "ru": "слияние",
+        "descriptionEN": "the combination or merging of two or more entities into a single entity.",
+        "descriptionRU": "объединение или слияние двух или более сущностей в единое целое."
+    }, {
+        "de": "der Visionär",
+        "en": "visionary",
+        "ru": "провидец",
+        "descriptionEN": "individuals with the ability to think about or plan the future with imagination or wisdom.",
+        "descriptionRU": "люди с способностью мыслить или планировать будущее с помощью воображения или мудрости."
+    }, {
+        "de": "die Identität",
+        "en": "identity",
+        "ru": "идентичность",
+        "descriptionEN": "the fact of being who or what a person or thing is.",
+        "descriptionRU": "факт того, кто или что является человеком или вещью."
+    }, {
+        "de": "der Einsatz",
+        "en": "commitment",
+        "ru": "приверженность",
+        "descriptionEN": "the state or quality of being dedicated to a cause or activity.",
+        "descriptionRU": "состояние или качество преданности какой-то цели или деятельности."
+    }, {
+        "de": "das Ziel",
+        "en": "goal",
+        "ru": "цель",
+        "descriptionEN": "the object of a person's ambition or effort; an aim or desired result.",
+        "descriptionRU": "объект чьей-то амбиции или усилий; цель или желаемый результат."
+    }, {
+        "de": "die Infrastruktur",
+        "en": "infrastructure",
+        "ru": "инфраструктура",
+        "descriptionEN": "the basic physical and organizational structures and facilities needed for the operation of a society.",
+        "descriptionRU": "основные физические и организационные структуры и объекты, необходимые для функционирования общества."
+    }, {
+        "de": "der Erfolg",
+        "en": "success",
+        "ru": "успех",
+        "descriptionEN": "the accomplishment of an aim or purpose.",
+        "descriptionRU": "достижение цели или намеченного плана."
+    }, {
+        "de": "die Niederlage",
+        "en": "defeat",
+        "ru": "поражение",
+        "descriptionEN": "the action of losing a game or contest.",
+        "descriptionRU": "действие по проигрышу в игре или соревновании."
+    }, {
+        "de": "arbeiten",
+        "en": "work",
+        "ru": "работать",
+        "descriptionEN": "to engage in activity for the purpose of an economic gain or livelihood.",
+        "descriptionRU": "заниматься деятельностью с целью получения экономической выгоды или средства к существованию."
+    }, {
+        "de": "gründen",
+        "en": "found",
+        "ru": "основывать",
+        "descriptionEN": "to establish or originate (an institution or organization).",
+        "descriptionRU": "основывать или происходить (учреждение или организацию)."
+    }, {
+        "de": "professionell",
+        "en": "professional",
+        "ru": "профессиональный",
+        "descriptionEN": "relating to or connected with a profession; engaged in a specified activity as one's main paid occupation.",
+        "descriptionRU": "относящийся к профессии; занимающийся определенной деятельностью как своим основным оплачиваемым занятием."
+    }, {
+        "de": "regional",
+        "en": "regional",
+        "ru": "региональный",
+        "descriptionEN": "relating to or characteristic of a region.",
+        "descriptionRU": "относящийся к или характерный для региона."
+    }, {
+        "de": "die Mitglieder",
+        "en": "members",
+        "ru": "члены",
+        "descriptionEN": "individuals who belong to a group or organization.",
+        "descriptionRU": "люди, принадлежащие к группе или организации."
+    }, {
+        "de": "die Fanclubs",
+        "en": "fan clubs",
+        "ru": "фан-клубы",
+        "descriptionEN": "organized groups of fans dedicated to a particular team, celebrity, or cause.",
+        "descriptionRU": "организованные группы поклонников, преданных определенной команде, знаменитости или причине."
+    }, {
+        "de": "die Hymne",
+        "en": "anthem",
+        "ru": "гимн",
+        "descriptionEN": "a song of praise or devotion, typically associated with a nation or institution.",
+        "descriptionRU": "песня похвалы или преданности, обычно ассоциированная с нацией или институтом."
+    }, {
+        "de": "der Schock",
+        "en": "shock",
+        "ru": "шок",
+        "descriptionEN": "a sudden upsetting or surprising event or experience.",
+        "descriptionRU": "внезапное потрясающее или удивительное событие или переживание."
+    }, {
+        "de": "die Welle",
+        "en": "wave",
+        "ru": "волна",
+        "descriptionEN": "a long body of water curling into an arched form and breaking on the shore.",
+        "descriptionRU": "длинное тело воды, изгибающееся в арочную форму и разбивающееся о берег."
+    }, {
+        "de": "die Unterstützung",
+        "en": "support",
+        "ru": "поддержка",
+        "descriptionEN": "the action of providing assistance, encouragement, or approval to someone or something.",
+        "descriptionRU": "действие предоставления помощи, поощрения или одобрения кому-то или чему-то."
+    }, {
+        "de": "die Treue",
+        "en": "loyalty",
+        "ru": "верность",
+        "descriptionEN": "the quality of being loyal to someone or something.",
+        "descriptionRU": "качество быть верным кому-то или чему-то."
+    }, {
+        "de": "die Qualifikation",
+        "en": "qualification",
+        "ru": "квалификация",
+        "descriptionEN": "the action or process of proving one's suitability for a particular role or activity.",
+        "descriptionRU": "действие или процесс доказательства соответствия своей пригодности для определенной роли или деятельности."
+    }, {
+        "de": "die Euphorie",
+        "en": "euphoria",
+        "ru": "эйфория",
+        "descriptionEN": "a feeling or state of intense excitement and happiness.",
+        "descriptionRU": "чувство или состояние интенсивного волнения и счастья."
+    }, {
+        "de": "die Enttäuschung",
+        "en": "disappointment",
+        "ru": "разочарование",
+        "descriptionEN": "the feeling of sadness or displeasure caused by the non-fulfillment of one's hopes or expectations.",
+        "descriptionRU": "чувство грусти или недовольства, вызванное невыполнением своих надежд или ожиданий."
+    }, {
+        "de": "die Bundesliga",
+        "en": "Bundesliga",
+        "ru": "Бундеслига",
+        "descriptionEN": "the top professional football league in Germany.",
+        "descriptionRU": "высшая профессиональная футбольная лига в Германии."
+    }, {
+        "de": "die Seele",
+        "en": "soul",
+        "ru": "душа",
+        "descriptionEN": "the spiritual or immaterial part of a human being, regarded as immortal.",
+        "descriptionRU": "духовная или нематериальная часть человека, рассматриваемая как бессмертная."
+    }, {
+        "de": "der Kern",
+        "en": "core",
+        "ru": "ядро",
+        "descriptionEN": "the central or most important part.",
+        "descriptionRU": "центральная или наиболее важная часть."
+    }, {
+        "de": "die Begeisterung",
+        "en": "enthusiasm",
+        "ru": "энтузиазм",
+        "descriptionEN": "intense and eager enjoyment, interest, or approval.",
+        "descriptionRU": "интенсивное и увлеченное наслаждение, интерес или одобрение."
+    }, {
+        "de": "die Hingabe",
+        "en": "devotion",
+        "ru": "преданность",
+        "descriptionEN": "love, loyalty, or enthusiasm for a person, activity, or cause.",
+        "descriptionRU": "любовь, верность или энтузиазм к человеку, деятельности или причине."
+    }
+]

@@ -49,6 +49,22 @@
         "yesNo": "Cologne_Erkunden_III.json"
     }, {
         "name": {
+            "de": "Die Geschichte des 1. FC Köln",
+            "en": "The history of 1. FC Köln",
+            "ru": "История 1. ФК Кёльн"
+        },
+        "description": {
+            "de": "Von den Anfängen bis zur Gegenwart",
+            "en": "From Its Beginnings to the Present",
+            "ru": "От первых шагов до наших дней"
+        },
+        "level": "B2",
+        "image": "FC_Koeln.jpg",
+        "file": "FC_Koeln.txt",
+        "words": "FC_Koeln.json",
+        "multi": "FC_Koeln.json"
+    }, {
+        "name": {
             "de": "Fremde im Dom",
             "en": "Strangers in the cathedral",
             "ru": "Незнакомцы в соборе"

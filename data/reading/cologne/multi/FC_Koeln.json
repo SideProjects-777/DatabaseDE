@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wann wurde der 1. FC Köln gegründet?",
+        "answers": [
+            {
+                "text": "Am 13. Februar 1948",
+                "correct": true
+            }, {
+                "text": "Am 1. März 1950",
+                "correct": false
+            }, {
+                "text": "Am 20. Juli 1962",
+                "correct": false
+            }, {
+                "text": "Am 5. Dezember 1975",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer wurde zum ersten Vorsitzenden des 1. FC Köln gewählt?",
+        "answers": [
+            {
+                "text": "Franz Kremer",
+                "correct": true
+            }, {
+                "text": "Hans Schäfer",
+                "correct": false
+            }, {
+                "text": "Jupp Röhrig",
+                "correct": false
+            }, {
+                "text": "Wolfgang Overath",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Ziel prägte das sportliche Bestreben des 1. FC Köln von Anfang an?",
+        "answers": [
+            {
+                "text": "Der Gewinn des DFB-Pokals",
+                "correct": false
+            }, {
+                "text": "Die Teilnahme an der UEFA Europa League",
+                "correct": false
+            }, {
+                "text": "Die Frage, Deutscher Meister zu werden",
+                "correct": true
+            }, {
+                "text": "Die Etablierung in der Bundesliga",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Jahr gewann der 1. FC Köln erstmals den nationalen Titel?",
+        "answers": [
+            {
+                "text": "1955",
+                "correct": false
+            }, {
+                "text": "1962",
+                "correct": true
+            }, {
+                "text": "1971",
+                "correct": false
+            }, {
+                "text": "1980",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Tier wurde aus einer Bierlaune heraus zum Wappentier des 1. FC Köln gemacht?",
+        "answers": [
+            {
+                "text": "Löwe",
+                "correct": false
+            }, {
+                "text": "Adler",
+                "correct": false
+            }, {
+                "text": "Bär",
+                "correct": false
+            }, {
+                "text": "Geißbock",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was schuf Franz Kremer frühzeitig für den 1. FC Köln?",
+        "answers": [
+            {
+                "text": "Eine moderne Infrastruktur",
+                "correct": true
+            }, {
+                "text": "Ein neues Stadion",
+                "correct": false
+            }, {
+                "text": "Eine eigene Fanhymne",
+                "correct": false
+            }, {
+                "text": "Ein Nachwuchsleistungszentrum",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Gegen welchen Widerstand kämpfte Franz Kremer bei der Einführung der bundesweiten Profiliga?",
+        "answers": [
+            {
+                "text": "Fanclubs",
+                "correct": false
+            }, {
+                "text": "Spieler",
+                "correct": false
+            }, {
+                "text": "Konservative Kräfte im deutschen Fußball",
+                "correct": true
+            }, {
+                "text": "Sponsorunterstützung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welchen Titel holte der 1. FC Köln in der Saison 1977/1978?",
+        "answers": [
+            {
+                "text": "DFB-Pokal",
+                "correct": true
+            }, {
+                "text": "UEFA Europa League",
+                "correct": false
+            }, {
+                "text": "Deutscher Meister",
+                "correct": false
+            }, {
+                "text": "Bundesliga-Meisterschaft",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Jahr markierte den ersten Abstieg des 1. FC Köln aus der Bundesliga?",
+        "answers": [
+            {
+                "text": "1990",
+                "correct": false
+            }, {
+                "text": "2001",
+                "correct": false
+            }, {
+                "text": "2012",
+                "correct": false
+            }, {
+                "text": "1998",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie reagierte die Mannschaft des 1. FC Köln nach dem sechsten Abstieg im Sommer 2018?",
+        "answers": [
+            {
+                "text": "Sie fiel auseinander",
+                "correct": false
+            }, {
+                "text": "Sie kämpfte für den direkten Wiederaufstieg",
+                "correct": true
+            }, {
+                "text": "Sie wechselte geschlossen zu anderen Vereinen",
+                "correct": false
+            }, {
+                "text": "Sie verweigerte die Teilnahme an der 2. Bundesliga",
+                "correct": false
+            }
+        ]
+    }
+]
