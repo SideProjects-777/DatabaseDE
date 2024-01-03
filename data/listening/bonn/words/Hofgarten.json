@@ -1,0 +1,135 @@
+[
+    {
+        "de": "der Hofgarten",
+        "en": "courtyard garden",
+        "ru": "дворцовый сад",
+        "descriptionEN": "A garden located in front of the electoral palace, historically used for various events.",
+        "descriptionRU": "Сад, расположенный перед избирательным дворцом, исторически использовавшийся для различных мероприятий."
+    }, {
+        "de": "die Universität",
+        "en": "university",
+        "ru": "университет",
+        "descriptionEN": "An institution of higher education and research.",
+        "descriptionRU": "Учреждение высшего образования и научных исследований."
+    }, {
+        "de": "der Rasen",
+        "en": "lawn",
+        "ru": "газон",
+        "descriptionEN": "An area covered with grass, typically used for recreational purposes.",
+        "descriptionRU": "Участок, покрытый травой, обычно используемый для отдыха."
+    }, {
+        "de": "die Manifestation",
+        "en": "manifestation",
+        "ru": "проявление",
+        "descriptionEN": "A public display or demonstration, often expressing a specific idea or opinion.",
+        "descriptionRU": "Публичное выражение или демонстрация, часто выражающая конкретную идею или мнение."
+    }, {
+        "de": "der Aufmarsch",
+        "en": "march",
+        "ru": "шествие",
+        "descriptionEN": "A organized movement of people, typically for a demonstration or protest.",
+        "descriptionRU": "Организованное передвижение людей, обычно для демонстрации или протеста."
+    }, {
+        "de": "die Grundfreiheit",
+        "en": "basic freedom",
+        "ru": "основная свобода",
+        "descriptionEN": "Fundamental rights and freedoms guaranteed to individuals.",
+        "descriptionRU": "Фундаментальные права и свободы, гарантированные человеку."
+    }, {
+        "de": "die Regierung",
+        "en": "government",
+        "ru": "правительство",
+        "descriptionEN": "The governing body of a nation, state, or community.",
+        "descriptionRU": "Управляющий орган нации, штата или общества."
+    }, {
+        "de": "der Frieden",
+        "en": "peace",
+        "ru": "мир",
+        "descriptionEN": "A state of tranquility or quiet; absence of disturbance or agitation.",
+        "descriptionRU": "Состояние спокойствия или тишины; отсутствие беспокойства или возмущения."
+    }, {
+        "de": "protestieren",
+        "en": "to protest",
+        "ru": "протестовать",
+        "descriptionEN": "To express strong disapproval or objection to something.",
+        "descriptionRU": "Выражать крайнее несогласие или возражение по отношению к чему-либо."
+    }, {
+        "de": "fordern",
+        "en": "to demand",
+        "ru": "требовать",
+        "descriptionEN": "To request forcefully or urgently.",
+        "descriptionRU": "Требовать силой или настойчиво."
+    }, {
+        "de": "friedlich",
+        "en": "peaceful",
+        "ru": "мирный",
+        "descriptionEN": "Characterized by the absence of war or violence; calm.",
+        "descriptionRU": "Характеризующийся отсутствием войны или насилия; спокойный."
+    }, {
+        "de": "groß",
+        "en": "large",
+        "ru": "большой",
+        "descriptionEN": "Of considerable or relatively great size, extent, or capacity.",
+        "descriptionRU": "Значительного или относительно большого размера, объема или вместимости."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "The art and science of designing and creating buildings and other physical structures.",
+        "descriptionRU": "Искусство и наука проектирования и создания зданий и других физических структур."
+    }, {
+        "de": "das Jubiläum",
+        "en": "anniversary",
+        "ru": "юбилей",
+        "descriptionEN": "A celebration or commemoration of a notable event or milestone.",
+        "descriptionRU": "Празднование или памятное событие или веху."
+    }, {
+        "de": "die Gemeinschaft",
+        "en": "community",
+        "ru": "община",
+        "descriptionEN": "A group of people living in the same place or having a particular characteristic in common.",
+        "descriptionRU": "Группа людей, живущих в одном месте или имеющих общий характер."
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "The transmission of customs or beliefs from generation to generation.",
+        "descriptionRU": "Передача обычаев или убеждений из поколения в поколение."
+    }, {
+        "de": "das Erbe",
+        "en": "heritage",
+        "ru": "наследие",
+        "descriptionEN": "Something that is inherited; a characteristic or legacy passed down from one generation to the next.",
+        "descriptionRU": "Что-то, что унаследовано; характеристика или наследие, переданное из поколения в поколение."
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "The state of having different forms, elements, or qualities.",
+        "descriptionRU": "Состояние, при котором есть разные формы, элементы или качества."
+    }, {
+        "de": "die Brücke",
+        "en": "bridge",
+        "ru": "мост",
+        "descriptionEN": "A structure carrying a pathway or roadway over a depression or obstacle.",
+        "descriptionRU": "Конструкция, несущая путь или дорогу через впадину или препятствие."
+    }, {
+        "de": "die Freiheit",
+        "en": "freedom",
+        "ru": "свобода",
+        "descriptionEN": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
+        "descriptionRU": "Сила или право действовать, говорить или думать так, как хочется, без препятствий или ограничений."
+    }, {
+        "de": "die Kultur",
+        "en": "culture",
+        "ru": "культура",
+        "descriptionEN": "The arts, customs, and other manifestations of human intellectual achievement.",
+        "descriptionRU": "Искусство, обычаи и другие проявления интеллектуальных достижений человека."
+    }, {
+        "de": "die Begegnung",
+        "en": "encounter",
+        "ru": "встреча",
+        "descriptionEN": "A meeting, especially one that is unplanned or unexpected.",
+        "descriptionRU": "Встреча, особенно та, которая не запланирована или неожиданна."
+    }
+]

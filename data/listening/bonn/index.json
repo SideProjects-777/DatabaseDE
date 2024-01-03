@@ -33,6 +33,22 @@
         "multi": "BeethovenII.json"
     }, {
         "name": {
+            "de": "Hofgarten",
+            "en": "Court garden",
+            "ru": "Сад во дворе"
+        },
+        "description": {
+            "de": "Veranstaltungsort politischer Großkundgebungen",
+            "en": "Venue for major political rallies",
+            "ru": "Место проведения крупных политических митингов"
+        },
+        "level": "B2",
+        "image": "Hofgarten.jpg",
+        "file": "Hofgarten.mp3",
+        "words": "Hofgarten.json",
+        "yesNo": "Hofgarten.json"
+    },{
+        "name": {
             "de": "Julias Neue Welt",
             "en": "Julia's New Horizons",
             "ru": "Новые горизонты Юлии"
