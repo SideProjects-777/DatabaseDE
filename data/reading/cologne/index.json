@@ -65,6 +65,22 @@
         "multi": "FC_Koeln.json"
     }, {
         "name": {
+            "de": "Stolpersteine",
+            "en": "Stumbling blocks",
+            "ru": "Камни преткновения"
+        },
+        "description": {
+            "de": "Enthüllung von Erinnerungen auf Kölns Straßen",
+            "en": "Unveiling Memories on Cologne's Streets",
+            "ru": "Воспоминания на улицах Кёльна"
+        },
+        "level": "A2",
+        "image": "Stolpersteine.jpg",
+        "file": "Stolpersteine.txt",
+        "words": "Stolpersteine.json",
+        "multi": "Stolpersteine.json"
+    }, {
+        "name": {
             "de": "Fremde im Dom",
             "en": "Strangers in the cathedral",
             "ru": "Незнакомцы в соборе"

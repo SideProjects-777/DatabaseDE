@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "de": "Flughafen Bonn/Köln",
+            "en": "Bonn/Cologne Airport",
+            "ru": "Аэропорт Бонн/Кельн"
+        },
+        "description": {
+            "en": "Interesting details about the airport",
+            "de": "Interessante Details über den Flughafen",
+            "ru": "Интересные детали аэропорта"
+        },
+        "level": "B1",
+        "image": "Flughafen_Cologne_Bonn.jpg",
+        "file": "Flughafen_Cologne_Bonn.mp3",
+        "words": "Flughafen_Cologne_Bonn.json",
+        "yesNo": "Flughafen_Cologne_Bonn.json"
+    }, {
+        "name": {
             "de": "Kölner Begegnung",
             "en": "Meeting in Cologne",
             "ru": "Знакомство в Кельне"
@@ -17,28 +33,11 @@
         "multi": "Meeting_Cologne.json"
     }, {
         "name": {
-            "de": "Flughafen Bonn/Köln",
-            "en": "Bonn/Cologne Airport",
-            "ru": "Аэропорт Бонн/Кельн"
-        },
-        "description": {
-            "en": "Interesting details about the airport",
-            "de": "Interessante Details über den Flughafen",
-            "ru": "Интересные детали аэропорта"
-        },
-        "level": "B1",
-        "image": "Flughafen_Cologne_Bonn.jpg",
-        "file": "Flughafen_Cologne_Bonn.mp3",
-        "words": "Flughafen_Cologne_Bonn.json",
-        "yesNo": "Flughafen_Cologne_Bonn.json"
-    },
-    {
-        "name": {
             "de": "Schokoladenparadies",
             "en": "Chocolate Paradise",
             "ru": "Шоколадный рай"
         },
-        "description":{
+        "description": {
             "de": "Jan Hoffmann im Schokoladenmuseum",
             "en": "Jan Hoffmann at the Chocolate Museum",
             "ru": "Ян Хоффман в Шоколадном музее"

@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wer begann das Kunstprojekt mit der Verlegung von Stolpersteinen?",
+        "answers": [
+            {
+                "text": "Gunter Demnig",
+                "correct": true
+            }, {
+                "text": "Historisches Kölner Rathaus",
+                "correct": false
+            }, {
+                "text": "Opfer des Nationalsozialismus",
+                "correct": false
+            }, {
+                "text": "Judenkartei",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann begann das Kunstprojekt mit der Verlegung von Stolpersteinen?",
+        "answers": [
+            {
+                "text": "1995",
+                "correct": true
+            }, {
+                "text": "1939",
+                "correct": false
+            }, {
+                "text": "2016",
+                "correct": false
+            }, {
+                "text": "1945",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Stolpersteine wurden bis Ende 2016 in ganz Europa verlegt?",
+        "answers": [
+            {
+                "text": "60.000",
+                "correct": true
+            }, {
+                "text": "50.000",
+                "correct": false
+            }, {
+                "text": "1.200",
+                "correct": false
+            }, {
+                "text": "1.000",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Kölner Künstler ist der Initiator des Stolperstein-Kunstprojekts?",
+        "answers": [
+            {
+                "text": "Gunter Demnig",
+                "correct": true
+            }, {
+                "text": "Weißenburgstr. 53",
+                "correct": false
+            }, {
+                "text": "Maastrichter Str. 3",
+                "correct": false
+            }, {
+                "text": "Vogelsanger Str. 1",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war die wichtigste Quelle für mögliche Standorte der Stolpersteine?",
+        "answers": [
+            {
+                "text": "Judenkartei",
+                "correct": true
+            }, {
+                "text": "Opfer des Nationalsozialismus",
+                "correct": false
+            }, {
+                "text": "Historisches Kölner Rathaus",
+                "correct": false
+            }, {
+                "text": "Stadtverwaltung Köln",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum werden die Stolpersteine vor dem letzten frei gewählten Wohnort des Opfers verlegt?",
+        "answers": [
+            {
+                "text": "Um die Opfer wieder sichtbar zu machen",
+                "correct": true
+            }, {
+                "text": "Um die Steine zu schützen",
+                "correct": false
+            }, {
+                "text": "Um die Stadt zu schmücken",
+                "correct": false
+            }, {
+                "text": "Um die Opfer zu verstecken",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Gruppen werden durch die Stolpersteine besonders geehrt?",
+        "answers": [
+            {
+                "text": "Jüdische Bürgerinnen und Bürger sowie Sinti, Roma und andere Verfolgte des Nationalsozialismus",
+                "correct": true
+            }, {
+                "text": "Kölner Künstler",
+                "correct": false
+            }, {
+                "text": "Historisches Kölner Rathaus",
+                "correct": false
+            }, {
+                "text": "Stadtverwaltung Köln",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Ereignis fand am 17. Mai 1939 in Deutschland statt, das als wichtige Quelle für Standorte der Stolpersteine diente?",
+        "answers": [
+            {
+                "text": "Volkszählung",
+                "correct": true
+            }, {
+                "text": "Deportation",
+                "correct": false
+            }, {
+                "text": "Kunstprojekt von Gunter Demnig",
+                "correct": false
+            }, {
+                "text": "Historisches Kölner Rathaus",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war die erste Adresse, auf die ein Stolperstein vor dem historischen Kölner Rathaus verweist?",
+        "answers": [
+            {
+                "text": "Weißenburgstr. 53",
+                "correct": false
+            }, {
+                "text": "Maastrichter Str. 3",
+                "correct": false
+            }, {
+                "text": "Vogelsanger Str. 1",
+                "correct": false
+            }, {
+                "text": "Historisches Kölner Rathaus",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Warum wurden die Stolpersteine kontrovers diskutiert?",
+        "answers": [
+            {
+                "text": "Einige betrachten sie als Schande für die Opfer, weil man über die Steine läuft.",
+                "correct": true
+            }, {
+                "text": "Einige betrachten sie als Kunstaktion von Gunter Demnig.",
+                "correct": false
+            }, {
+                "text": "Einige betrachten sie als historisches Erbe.",
+                "correct": false
+            }, {
+                "text": "Einige betrachten sie als Modeerscheinung.",
+                "correct": false
+            }
+        ]
+    }
+]
