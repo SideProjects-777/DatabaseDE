@@ -49,6 +49,22 @@
         "yesNo": "Cologne_Erkunden_III.json"
     }, {
         "name": {
+            "de": "Kölner Bierboom",
+            "en": "Cologne beer boom",
+            "ru": "Кельнский пивной бум"
+        },
+        "description": {
+            "de": "Kölsch und seine faszinierende Braugeschichte",
+            "en": "Kölsch and Its Fascinating Brewing History",
+            "ru": "Кёльш и его увлекательная история варки"
+        },
+        "level": "B2",
+        "image": "Bierboom.jpg",
+        "file": "Bierboom.txt",
+        "words": "Bierboom.json",
+        "yesNo": "Bierboom.json"
+    }, {
+        "name": {
             "de": "Die Geschichte des 1. FC Köln",
             "en": "The history of 1. FC Köln",
             "ru": "История 1. ФК Кёльн"

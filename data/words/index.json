@@ -199,5 +199,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Hofgarten.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Hofgarten.jpg"
+    }, {
+        "title": {
+            "de": "Kölner Bierboom",
+            "en": "Cologne beer boom",
+            "ru": "Кельнский пивной бум"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Bierboom.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Bierboom.jpg"
     }
 ]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Kölsch ist ein dunkles Bier.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Kölner Brauer mussten während des Ersten Weltkriegs mit einer reduzierten Menge an Malz auskommen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Zweite Weltkrieg hatte nur geringe Auswirkungen auf die Kölner Brauereien.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Kölsch wurde im Jahr 1918 erstmals hergestellt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Brauereien in Köln einigten sich 1986 darauf, was ein echtes Kölsch ist.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das traditionelle Glas für Kölsch in Köln ist niedrig und bauchig.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Franzosen besetzten Köln im Jahr 1815.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In der Zwischenkriegszeit stellten viele Kölner Brauereien auf die Produktion von Lagerbieren um.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Kölsch wurde im 18. Jahrhundert als Antwort auf untergäriges Bier entwickelt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Vielfalt der Bierstile in Köln nahm nach dem Zweiten Weltkrieg deutlich zu.",
+        "tr": false,
+        "fle": true
+    }
+]

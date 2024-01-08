@@ -1,0 +1,87 @@
+[
+    {
+        "de": "das Getränk",
+        "en": "drink",
+        "ru": "напиток",
+        "descriptionEN": "a liquid that can be swallowed as refreshment or nourishment.",
+        "descriptionRU": "жидкость, которую можно проглотить в качестве освежения или питания."
+    }, {
+        "de": "die Antwort",
+        "en": "answer",
+        "ru": "ответ",
+        "descriptionEN": "a spoken or written reply or response to a question, request, letter, or situation.",
+        "descriptionRU": "устный или письменный ответ на вопрос, запрос, письмо или ситуацию."
+    }, {
+        "de": "die Brauer",
+        "en": "brewer",
+        "ru": "пивовар",
+        "descriptionEN": "a person or company that makes beer by brewing malt, hops, and water.",
+        "descriptionRU": "человек или компания, занимающаяся производством пива, с использованием солода, хмеля и воды."
+    }, {
+        "de": "die Vielfalt",
+        "en": "variety",
+        "ru": "разнообразие",
+        "descriptionEN": "the quality or state of being different or diverse; the absence of uniformity, sameness, or monotony.",
+        "descriptionRU": "качество или состояние различия или разнообразия; отсутствие однородности, однообразия или монотонности."
+    }, {
+        "de": "der Geschmack",
+        "en": "taste",
+        "ru": "вкус",
+        "descriptionEN": "the sensation of flavor perceived in the mouth and throat on contact with a substance.",
+        "descriptionRU": "ощущение вкуса, воспринимаемое во рту и горле при контакте с веществом."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town.",
+        "descriptionRU": "крупный город."
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future.",
+        "descriptionRU": "неопределенное продолжение существования и событий в прошлом, настоящем и будущем."
+    }, {
+        "de": "das Bier",
+        "en": "beer",
+        "ru": "пиво",
+        "descriptionEN": "an alcoholic drink made from yeast-fermented malt flavored with hops.",
+        "descriptionRU": "алкогольный напиток, изготовленный из сброженного дрожжами солода с добавлением хмеля."
+    }, {
+        "de": "brauen",
+        "en": "brew",
+        "ru": "варить (пиво)",
+        "descriptionEN": "to make beer by brewing malt, hops, and water.",
+        "descriptionRU": "готовить пиво, варя солод, хмель и воду."
+    }, {
+        "de": "trinken",
+        "en": "drink",
+        "ru": "пить",
+        "descriptionEN": "to take liquid into the mouth and swallow.",
+        "descriptionRU": "принимать жидкость в рот и глотать."
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group.",
+        "descriptionRU": "нравится, восхищается или наслаждается многими людьми или конкретным человеком или группой."
+    }, {
+        "de": "speziell",
+        "en": "special",
+        "ru": "особенный",
+        "descriptionEN": "better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "лучше, больше или иным образом отличается от привычного."
+    }, {
+        "de": "untergärig",
+        "en": "bottom-fermented",
+        "ru": "низоверхнегозрелый",
+        "descriptionEN": "fermented at relatively low temperatures by yeast that settles to the bottom of the fermenting vessel.",
+        "descriptionRU": "сброженный при относительно низких температурах дрожжами, которые оседают на дно сосуда для сброживания."
+    }, {
+        "de": "obergärig",
+        "en": "top-fermented",
+        "ru": "верховерхнегозрелый",
+        "descriptionEN": "fermented at relatively high temperatures by yeast that rises to the top of the fermenting vessel.",
+        "descriptionRU": "сброженный при относительно высоких температурах дрожжами, которые поднимаются наверх сосуда для сброживания."
+    }
+]
