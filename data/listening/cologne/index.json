@@ -30,7 +30,7 @@
         "image": "MorgenerlebnisseI.jpg",
         "file": "MorgenerlebnisseI.mp3",
         "words": "MorgenerlebnisseI.json",
-        "multi": "MorgenerlebnisseI.json"
+        "yesNo": "MorgenerlebnisseI.json"
     }, {
         "name": {
             "de": "Kölner Begegnung",
