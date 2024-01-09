@@ -3,8 +3,11 @@ https://ttsmaker.com/
 
 Make it 4000 characters.
 
+Interview:
+120095
+
 Voice part:
-127002 male
+289 male
 290 female
 Stories:
 https://www.sloeful.com/german/stories

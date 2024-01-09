@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Tom ist in Köln geboren.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Felix ist Software-Entwickler.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Eintritt in den Kölner Dom ist kostenpflichtig.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Hohenzollernbrücke ist ein Ort für Liebespaare.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Köln Triangle ist das niedrigste Gebäude in Köln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Schiffsrundfahrten auf dem Rhein sind nicht erwähnenswert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Kölner Dom ist kein UNESCO-Weltkulturerbe.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Man kann den Südturm des Doms nicht besteigen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Sendung handelt von abendlichen Entdeckungen in Köln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Felix hat sein ganzes Leben in Frankfurt verbracht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Hohenzollernbrücke liegt vor dem Kölner Dom.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Köln Triangle bietet keinen Panoramablick auf die Stadt.",
+        "tr": false,
+        "fle": true
+    }
+]

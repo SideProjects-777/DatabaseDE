@@ -207,5 +207,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Bierboom.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Bierboom.jpg"
+    }, {
+        "title":  {
+            "de": "Morgenerlebnisse von Felix",
+            "en": "Morning Explorations of Felix",
+            "ru": "Утренние приключения Феликса"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/MorgenerlebnisseI.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/MorgenerlebnisseI.jpg"
     }
 ]
