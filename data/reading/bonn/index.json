@@ -49,6 +49,22 @@
         "yesNo": "Warum_Bonn.json"
     }, {
         "name": {
+            "de": "Bonner Farben",
+            "en": "Colors of Bonn",
+            "ru": "Краски Бонна"
+        },
+        "description": {
+            "de": "Karnevalsfreude",
+            "en": "Carnival joy",
+            "ru": "Радость карнавала"
+        },
+        "level": "B1",
+        "image": "Karnevalsfreude.jpg",
+        "file": "Karnevalsfreude.txt",
+        "words": "Karnevalsfreude.json",
+        "yesNo": "Karnevalsfreude.json"
+    }, {
+        "name": {
             "de": "Schönes Wochenende",
             "en": "Warm Weekend",
             "ru": "Теплый выходной"

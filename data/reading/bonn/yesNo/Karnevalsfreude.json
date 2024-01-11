@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Das Feuerwerk 'Rhein in Flammen' findet jedes Jahr in Bonn statt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Festfahrten auf dem Rhein sind nicht beliebt bei Touristen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Beethovenfest in Bonn wird im Sommer veranstaltet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Karneval in Bonn dauert von Mitte November bis Mitte März.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Bierfest - die Bierbörse - findet im September statt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Im Rheinaue-Park gibt es jeden dritten Samstag im Monat einen Flohmarkt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Ballonfestival in Bonn findet im Juli statt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Aktion 'Europäische Museumsnacht' ermöglicht einen kostenlosen Museumsbesuch in Bonn.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Martinsfest in Deutschland wird am 11. Dezember gefeiert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Während des Weihnachtsmarkts in Bonn verwandeln sich die zentralen Straßen in ein Dorf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Bonner Videonale dauert einen Monat.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Kürbislaternen beim Martinsfest werden mit einer Glühbirne beleuchtet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Festival 'Rhein in Flammen' endet in Linz.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Pützchens Markt in Beuel ist einer der kleinsten Märkte Deutschlands.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Programm des Beethovenfestes in Bonn ist nicht abwechslungsreich.",
+        "tr": false,
+        "fle": true
+    }
+]

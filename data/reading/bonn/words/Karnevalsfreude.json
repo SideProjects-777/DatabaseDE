@@ -1,0 +1,177 @@
+[
+    {
+        "de": "das Festival",
+        "en": "Festival",
+        "ru": "Фестиваль",
+        "descriptionEN": "A celebration or series of performances of a certain kind, often musical.",
+        "descriptionRU": "Празднование или серия выступлений определенного рода, часто музыкальных."
+    }, {
+        "de": "die Veranstaltung",
+        "en": "Event",
+        "ru": "Событие",
+        "descriptionEN": "A planned public or social occasion.",
+        "descriptionRU": "Запланированное общественное или социальное событие."
+    }, {
+        "de": "die Prozession",
+        "en": "Procession",
+        "ru": "Процессия",
+        "descriptionEN": "An organized body of people advancing in a formal or ceremonial manner.",
+        "descriptionRU": "Организованное движение людей формальным или церемониальным образом."
+    }, {
+        "de": "die Stadt",
+        "en": "City",
+        "ru": "Город",
+        "descriptionEN": "A large town.",
+        "descriptionRU": "Крупный город."
+    }, {
+        "de": "der Rhein",
+        "en": "Rhine",
+        "ru": "Рейн",
+        "descriptionEN": "A major European river flowing from the Swiss Alps through Germany.",
+        "descriptionRU": "Крупная европейская река, текущая от швейцарских Альп через Германию."
+    }, {
+        "de": "die Nacht",
+        "en": "Night",
+        "ru": "Ночь",
+        "descriptionEN": "The period of darkness in each twenty-four hours.",
+        "descriptionRU": "Период темноты в каждые двадцать четыре часа."
+    }, {
+        "de": "der Tourist",
+        "en": "Tourist",
+        "ru": "Турист",
+        "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
+        "descriptionRU": "Человек, который путешествует или посещает место для удовольствия."
+    }, {
+        "de": "die Musikgruppe",
+        "en": "Music Group",
+        "ru": "Музыкальная группа",
+        "descriptionEN": "A group of musicians who perform together.",
+        "descriptionRU": "Группа музыкантов, выступающих вместе."
+    }, {
+        "de": "die Kirmesplätze",
+        "en": "Fairgrounds",
+        "ru": "Площади ярмарки",
+        "descriptionEN": "An area set aside for a fair or carnival.",
+        "descriptionRU": "Территория, выделенная для проведения ярмарки или карнавала."
+    }, {
+        "de": "das Feuerwerk",
+        "en": "Fireworks",
+        "ru": "Фейерверк",
+        "descriptionEN": "A display of fireworks.",
+        "descriptionRU": "Показ фейерверка."
+    }, {
+        "de": "der Markt",
+        "en": "Market",
+        "ru": "Рынок",
+        "descriptionEN": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+        "descriptionRU": "Регулярное собрание людей для покупки и продажи продовольствия, скота и других товаров."
+    }, {
+        "de": "das Museum",
+        "en": "Museum",
+        "ru": "Музей",
+        "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+    }, {
+        "de": "der Weihnachtsmarkt",
+        "en": "Christmas Market",
+        "ru": "Рождественский рынок",
+        "descriptionEN": "A street market associated with the celebration of Christmas.",
+        "descriptionRU": "Уличный рынок, связанный с празднованием Рождества."
+    }, {
+        "de": "anziehen",
+        "en": "Attract",
+        "ru": "Привлекать",
+        "descriptionEN": "Cause to come to a place or participate in a venture.",
+        "descriptionRU": "Побуждать приходить в определенное место или участвовать в предприятии."
+    }, {
+        "de": "probieren",
+        "en": "Try",
+        "ru": "Пробовать",
+        "descriptionEN": "Make an attempt or effort to do something.",
+        "descriptionRU": "Предпринимать попытку или усилие сделать что-то."
+    }, {
+        "de": "besuchen",
+        "en": "Visit",
+        "ru": "Посещать",
+        "descriptionEN": "Go to see and spend time with (someone) socially.",
+        "descriptionRU": "Идти, чтобы увидеть и провести время с кем-то социально."
+    }, {
+        "de": "veranstalten",
+        "en": "Organize",
+        "ru": "Организовывать",
+        "descriptionEN": "Arrange or establish a planned event or activity.",
+        "descriptionRU": "Устраивать или учреждать запланированное событие или мероприятие."
+    }, {
+        "de": "bewundern",
+        "en": "Admire",
+        "ru": "Восхищаться",
+        "descriptionEN": "Regard with respect or warm approval.",
+        "descriptionRU": "Смотреть с уважением или теплым одобрением."
+    }, {
+        "de": "öffnen",
+        "en": "Open",
+        "ru": "Открывать",
+        "descriptionEN": "Move or adjust to permit access.",
+        "descriptionRU": "Перемещаться или регулироваться для предоставления доступа."
+    }, {
+        "de": "verwandeln",
+        "en": "Transform",
+        "ru": "Преобразовывать",
+        "descriptionEN": "Make a marked change in the form, nature, or appearance.",
+        "descriptionRU": "Произвести заметное изменение формы, природы или внешнего вида."
+    }, {
+        "de": "feiern",
+        "en": "Celebrate",
+        "ru": "Праздновать",
+        "descriptionEN": "Acknowledge and enjoy a significant event.",
+        "descriptionRU": "Признавать и наслаждаться значимым событием."
+    }, {
+        "de": "faszinierend",
+        "en": "Fascinating",
+        "ru": "Захватывающий",
+        "descriptionEN": "Extremely interesting or charming.",
+        "descriptionRU": "Крайне интересный или очаровательный."
+    }, {
+        "de": "reichhaltig",
+        "en": "Rich",
+        "ru": "Богатый",
+        "descriptionEN": "Having a great deal of something, especially wealth or resources.",
+        "descriptionRU": "Имеющий много чего-то, особенно богатства или ресурсов."
+    }, {
+        "de": "spektakulär",
+        "en": "Spectacular",
+        "ru": "Спектакульный",
+        "descriptionEN": "Beautiful in a dramatic and eye-catching way.",
+        "descriptionRU": "Красивый драматическим и привлекательным образом."
+    }, {
+        "de": "einzigartig",
+        "en": "Unique",
+        "ru": "Уникальный",
+        "descriptionEN": "Being the only one of its kind; unlike anything else.",
+        "descriptionRU": "Будучи единственным в своем роде; ни на что не похожим."
+    }, {
+        "de": "fröhlich",
+        "en": "Cheerful",
+        "ru": "Веселый",
+        "descriptionEN": "Noticeably happy and optimistic.",
+        "descriptionRU": "Заметно счастливый и оптимистичный."
+    }, {
+        "de": "interessant",
+        "en": "Interesting",
+        "ru": "Интересный",
+        "descriptionEN": "Arousing curiosity or interest; captivating.",
+        "descriptionRU": "Будоражащий любопытство или интерес; завораживающий."
+    }, {
+        "de": "märchenhaft",
+        "en": "Fairytale-like",
+        "ru": "Сказочный",
+        "descriptionEN": "Characteristic of or resembling a fairy tale.",
+        "descriptionRU": "Характерный для или напоминающий сказку."
+    }, {
+        "de": "regelmäßig",
+        "en": "Regularly",
+        "ru": "Регулярно",
+        "descriptionEN": "At evenly spaced intervals; not interrupted or varying.",
+        "descriptionRU": "С равными интервалами; не прерывается и не изменяется."
+    }
+]
