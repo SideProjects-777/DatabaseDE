@@ -1,0 +1,207 @@
+[
+    {
+        "name": "Welche Speisen bringen die Freunde mit?",
+        "answers": [
+            {
+                "text": "Kartoffelsalat, Baklava, indisches Curry und russische Teigtaschen",
+                "correct": true
+            }, {
+                "text": "Mojito, Backblech und Gemüse",
+                "correct": false
+            }, {
+                "text": "Nüsse, Honig und Reis",
+                "correct": false
+            }, {
+                "text": "Kartoffelsalat, Baklava, indisches Curry und Rindfleisch",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Metin für seine Freunde gemacht?",
+        "answers": [
+            {
+                "text": "Indisches Curry",
+                "correct": false
+            }, {
+                "text": "Baklava",
+                "correct": true
+            }, {
+                "text": "Kartoffelsalat",
+                "correct": false
+            }, {
+                "text": "Russische Teigtaschen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bringt Veronika zu dem Treffen mit?",
+        "answers": [
+            {
+                "text": "Mojito aus Kuba",
+                "correct": true
+            }, {
+                "text": "Deutsches Bier",
+                "correct": false
+            }, {
+                "text": "Indisches Curry",
+                "correct": false
+            }, {
+                "text": "Russische Teigtaschen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was passiert, als Veronika endlich ankommt?",
+        "answers": [
+            {
+                "text": "Sie ärgert sich über die Verspätung",
+                "correct": false
+            }, {
+                "text": "Die Freunde beginnen mit dem Essen",
+                "correct": true
+            }, {
+                "text": "Sie bringt mehr Essen mit",
+                "correct": false
+            }, {
+                "text": "Sie verlässt das Treffen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Aussage beschreibt die Freunde richtig?",
+        "answers": [
+            {
+                "text": "Alle Freunde kommen aus dem gleichen Land",
+                "correct": false
+            }, {
+                "text": "Jeder Freund spricht dieselbe Sprache",
+                "correct": false
+            }, {
+                "text": "Die Freunde haben unterschiedliche Kulturen, Religionen und Sprachen",
+                "correct": true
+            }, {
+                "text": "Die Freunde essen nur russische Teigtaschen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Baklava?",
+        "answers": [
+            {
+                "text": "Ein indisches Curry",
+                "correct": false
+            }, {
+                "text": "Eine leckere Nachspeise mit Honig und Nüssen",
+                "correct": true
+            }, {
+                "text": "Russische Teigtaschen",
+                "correct": false
+            }, {
+                "text": "Kartoffelsalat",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was isst jeder gerne in Deutschland?",
+        "answers": [
+            {
+                "text": "Indisches Curry",
+                "correct": false
+            }, {
+                "text": "Kartoffelsalat",
+                "correct": true
+            }, {
+                "text": "Russische Teigtaschen",
+                "correct": false
+            }, {
+                "text": "Baklava",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Benjamin noch nie gegessen?",
+        "answers": [
+            {
+                "text": "Kartoffelsalat",
+                "correct": false
+            }, {
+                "text": "Indisches Curry",
+                "correct": true
+            }, {
+                "text": "Baklava",
+                "correct": false
+            }, {
+                "text": "Russische Teigtaschen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sagt Wladimir zu Veronika?",
+        "answers": [
+            {
+                "text": "Er sagt, dass Veronika zu spät ist",
+                "correct": true
+            }, {
+                "text": "Er bedankt sich für das Essen",
+                "correct": false
+            }, {
+                "text": "Er beschwert sich über das mitgebrachte Essen",
+                "correct": false
+            }, {
+                "text": "Er sagt, dass Veronika nicht mehr willkommen ist",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machen die Freunde jede Woche?",
+        "answers": [
+            {
+                "text": "Sie gehen ins Kino",
+                "correct": false
+            }, {
+                "text": "Sie treffen sich und bringen Speisen aus ihrer eigenen Kultur mit",
+                "correct": true
+            }, {
+                "text": "Sie spielen Fußball",
+                "correct": false
+            }, {
+                "text": "Sie gehen wandern",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was trinken die Freunde, als Veronika Mojito mitbringt?",
+        "answers": [
+            {
+                "text": "Deutsches Bier",
+                "correct": false
+            }, {
+                "text": "Wasser",
+                "correct": false
+            }, {
+                "text": "Mojito aus Kuba",
+                "correct": true
+            }, {
+                "text": "Russischen Wodka",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was macht Veronika mit der Flasche Mojito?",
+        "answers": [
+            {
+                "text": "Sie trinkt alles alleine",
+                "correct": false
+            }, {
+                "text": "Sie wirft die Flasche weg",
+                "correct": false
+            }, {
+                "text": "Sie teilt Mojito mit ihren Freunden",
+                "correct": true
+            }, {
+                "text": "Sie verlässt das Treffen",
+                "correct": false
+            }
+        ]
+    }
+]

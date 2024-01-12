@@ -63,5 +63,21 @@
         "file": "Schokoladenparadies.mp3",
         "words": "Schokoladenparadies.json",
         "yesNo": "Schokoladenparadies.json"
+    }, {
+        "name": {
+            "de": "Länderübergreifende Freundschaft",
+            "en": "International friendship",
+            "ru": "Интернациональная дружба"
+        },
+        "description": {
+            "de": "Unterschiedliche Menschen, unterschiedliche Kulturen",
+            "en": "Different people, different cultures",
+            "ru": "Разные люди, разные культуры"
+        },
+        "level": "B1",
+        "image": "Friendship.jpg",
+        "file": "Friendship.mp3",
+        "words": "Friendship.json",
+        "multi": "Friendship.json"
     }
 ]

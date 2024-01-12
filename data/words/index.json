@@ -231,5 +231,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Karnevalsfreude.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Karnevalsfreude.jpg"
+    }, {
+        "title": {
+            "de": "Länderübergreifende Freundschaft",
+            "en": "International friendship",
+            "ru": "Интернациональная дружба"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Friendship.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Friendship.jpg"
     }
 ]
