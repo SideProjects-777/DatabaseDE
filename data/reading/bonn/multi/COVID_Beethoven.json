@@ -3,14 +3,14 @@
         "name": "Welches ist das Herzstück des Online-Projektes?",
         "answers": [
             {
-                "text": "Ein 3D-Rundgang durch das Beethoven-Haus.",
-                "correct": true
+                "text": "Die gläsernen Vitrinen.",
+                "correct": false
             }, {
                 "text": "Die Beethoven-Locke.",
                 "correct": false
             }, {
-                "text": "Die gläsernen Vitrinen.",
-                "correct": false
+                "text": "Ein 3D-Rundgang durch das Beethoven-Haus.",
+                "correct": true
             }, {
                 "text": "Das Stieler-Porträt.",
                 "correct": false
@@ -37,8 +37,8 @@
         "name": "Welche Erinnerungsgabe befindet sich in einer gläsernen Vitrine?",
         "answers": [
             {
-                "text": "Eine Beethoven-Locke und Blumen vom Wiener Grab.",
-                "correct": true
+                "text": "Ein Quatuor Èbène.",
+                "correct": false
             }, {
                 "text": "Ein Stieler-Porträt.",
                 "correct": false
@@ -46,8 +46,8 @@
                 "text": "Eine Federkiel und ein Schreibtisch.",
                 "correct": false
             }, {
-                "text": "Ein Quatuor Èbène.",
-                "correct": false
+                "text": "Eine Beethoven-Locke und Blumen vom Wiener Grab.",
+                "correct": true
             }
         ]
     }, {
@@ -88,11 +88,11 @@
         "name": "Was ist ein Schwerpunkt der Google-App \"Beethoven Everywhere\"?",
         "answers": [
             {
-                "text": "Videoclips auf Deutsch oder Englisch.",
-                "correct": true
-            }, {
                 "text": "Die Beethoven-Locke.",
                 "correct": false
+            }, {
+                "text": "Videoclips auf Deutsch oder Englisch.",
+                "correct": true
             }, {
                 "text": "Die Weltreise des Quatuor Èbène.",
                 "correct": false
@@ -105,8 +105,8 @@
         "name": "Was will Google Arts and Culture mit der App erreichen?",
         "answers": [
             {
-                "text": "Eine immersive Erfahrung durch die Verbindung von Bild und Ton.",
-                "correct": true
+                "text": "Die Verbreitung von Beethoven-Roadmovies.",
+                "correct":false 
             }, {
                 "text": "Die Sperrung der Fotografie im Museum.",
                 "correct": false
@@ -114,19 +114,19 @@
                 "text": "Die Herausforderung des Beethoven-Images.",
                 "correct": false
             }, {
-                "text": "Die Verbreitung von Beethoven-Roadmovies.",
-                "correct": false
+                "text": "Eine immersive Erfahrung durch die Verbindung von Bild und Ton.",
+                "correct": true
             }
         ]
     }, {
         "name": "Wovon handelt das Kapitel \"Beethoven Goes Pop!\"?",
         "answers": [
             {
-                "text": "Populäre Themen rund um Beethoven.",
-                "correct": true
-            }, {
                 "text": "Die Beethoven-Locke.",
                 "correct": false
+            }, {
+                "text": "Populäre Themen rund um Beethoven.",
+                "correct": true
             }, {
                 "text": "Historische Details des Beethoven-Hauses.",
                 "correct": false
