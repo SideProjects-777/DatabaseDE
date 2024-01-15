@@ -97,6 +97,22 @@
         "yesNo": "Krankheit.json"
     }, {
         "name": {
+            "de": "Harmonien der Vergangenheit",
+            "en": "Harmonies of the Past",
+            "ru": "Гармонии прошлого"
+        },
+        "description": {
+            "de": "Eine Rock-Symphonie im Beethoven-Haus",
+            "en": "A Rock Symphony in Beethoven's House",
+            "ru": "Рок-симфония в Доме Бетховена"
+        },
+        "level": "B1",
+        "image": "Rock_Symphony.jpg",
+        "file": "Rock_Symphony.txt",
+        "words": "Rock_Symphony.json",
+        "multi": "Rock_Symphony.json"
+    }, {
+        "name": {
             "de": "Wandern durch die Geschichte",
             "en": "Hiking through History",
             "ru": "Путешествие в прошлое"

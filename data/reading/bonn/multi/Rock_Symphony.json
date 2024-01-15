@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wer waren die drei Fremden in der Silvesternacht?",
+        "answers": [
+            {
+                "text": "Anna Schmidt, Tom Becker und Sophie Müller",
+                "correct": true
+            }, {
+                "text": "Ludwig Beethoven, Mozart und Bach",
+                "correct": false
+            }, {
+                "text": "Michael, Lisa und David",
+                "correct": false
+            }, {
+                "text": "Karl, Maria und Stefan",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum trug Anna ihre Kamera um den Hals?",
+        "answers": [
+            {
+                "text": "Für die Mode",
+                "correct": false
+            }, {
+                "text": "Um Fotos zu machen",
+                "correct": true
+            }, {
+                "text": "Als Schmuckstück",
+                "correct": false
+            }, {
+                "text": "Als Geschenk für Tom",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Tom von Beruf?",
+        "answers": [
+            {
+                "text": "Architekt",
+                "correct": false
+            }, {
+                "text": "Software-Ingenieur",
+                "correct": true
+            }, {
+                "text": "Musiker",
+                "correct": false
+            }, {
+                "text": "Marketingexperte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was faszinierte Anna in Bonn?",
+        "answers": [
+            {
+                "text": "Die Straßenatmosphäre",
+                "correct": false
+            }, {
+                "text": "Das Essen",
+                "correct": false
+            }, {
+                "text": "Die Architektur",
+                "correct": true
+            }, {
+                "text": "Die Menschenmenge",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was erregte Annas Aufmerksamkeit auf dem Plakat?",
+        "answers": [
+            {
+                "text": "Grüße aus dem Beethoven-Haus",
+                "correct": true
+            }, {
+                "text": "Ein Musikfestival",
+                "correct": false
+            }, {
+                "text": "Einladung zu einer Party",
+                "correct": false
+            }, {
+                "text": "Verkauf von Gitarren",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was schlug Tom vor, im Beethoven-Haus zu organisieren?",
+        "answers": [
+            {
+                "text": "Kunstausstellung",
+                "correct": false
+            }, {
+                "text": "Theaterstück",
+                "correct": false
+            }, {
+                "text": "Kochshow",
+                "correct": false
+            }, {
+                "text": "Rockkonzert",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was war der Grund für Toms Unsicherheit?",
+        "answers": [
+            {
+                "text": "Zweifel an der Idee des Rockkonzerts",
+                "correct": true
+            }, {
+                "text": "Angst vor der Dunkelheit",
+                "correct": false
+            }, {
+                "text": "Mangel an musikalischem Talent",
+                "correct": false
+            }, {
+                "text": "Unsicherheit in der Stadt Bonn",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was beschäftigte Tom, während er auf seiner Gitarre spielte?",
+        "answers": [
+            {
+                "text": "Essenspläne",
+                "correct": false
+            }, {
+                "text": "Urlaubsziele",
+                "correct": false
+            }, {
+                "text": "Grenzen der Musik",
+                "correct": true
+            }, {
+                "text": "Wettervorhersage",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was begann Anna zu entwerfen, als die Vorbereitungen begannen?",
+        "answers": [
+            {
+                "text": "Kochrezepte",
+                "correct": false
+            }, {
+                "text": "Architekturpläne",
+                "correct": false
+            }, {
+                "text": "Rockkonzert-Plakate",
+                "correct": true
+            }, {
+                "text": "Urlaubspostkarten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was erfüllte das Beethovenhaus, als die Streicher verstummten?",
+        "answers": [
+            {
+                "text": "Traurigkeit",
+                "correct": false
+            }, {
+                "text": "Einheit und ein gemeinsames Gefühl des Erreichten",
+                "correct": true
+            }, {
+                "text": "Lärm und Chaos",
+                "correct": false
+            }, {
+                "text": "Stille und Leere",
+                "correct": false
+            }
+        ]
+    }
+]

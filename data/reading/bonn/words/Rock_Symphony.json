@@ -1,0 +1,153 @@
+[
+    {
+        "de": "der Architektur",
+        "en": "Architecture",
+        "ru": "Архитектура",
+        "descriptionEN": "The art or practice of designing and constructing buildings.",
+        "descriptionRU": "Искусство или практика проектирования и строительства зданий."
+    }, {
+        "de": "die Kamera",
+        "en": "Camera",
+        "ru": "Камера",
+        "descriptionEN": "An optical instrument for recording or capturing visual images.",
+        "descriptionRU": "Оптическое устройство для записи или захвата визуальных изображений."
+    }, {
+        "de": "der Software-Ingenieur",
+        "en": "Software Engineer",
+        "ru": "Инженер-программист",
+        "descriptionEN": "A person who designs, develops, and maintains software applications.",
+        "descriptionRU": "Человек, занимающийся проектированием, разработкой и поддержкой программных приложений."
+    }, {
+        "de": "die Gitarre",
+        "en": "Guitar",
+        "ru": "Гитара",
+        "descriptionEN": "A stringed musical instrument with a fretted fingerboard and six strings.",
+        "descriptionRU": "Струнный музыкальный инструмент с накладкой для пальцев и шестью струнами."
+    }, {
+        "de": "das Marketing",
+        "en": "Marketing",
+        "ru": "Маркетинг",
+        "descriptionEN": "The action or business of promoting and selling products or services.",
+        "descriptionRU": "Деятельность или бизнес по продвижению и продаже товаров или услуг."
+    }, {
+        "de": "die Atmosphäre",
+        "en": "Atmosphere",
+        "ru": "Атмосфера",
+        "descriptionEN": "The pervading tone or mood of a place, situation, or work of art.",
+        "descriptionRU": "Преобладающий тон или настроение места, ситуации или произведения искусства."
+    }, {
+        "de": "das Gefühl",
+        "en": "Feeling",
+        "ru": "Чувство",
+        "descriptionEN": "An emotional state or reaction.",
+        "descriptionRU": "Эмоциональное состояние или реакция."
+    }, {
+        "de": "das Plakat",
+        "en": "Poster",
+        "ru": "Плакат",
+        "descriptionEN": "A large printed notice or advertisement for public display.",
+        "descriptionRU": "Крупное напечатанное уведомление или реклама для общественного отображения."
+    }, {
+        "de": "die Botschaft",
+        "en": "Message",
+        "ru": "Сообщение",
+        "descriptionEN": "A verbal, written, or recorded communication sent to or left for a recipient.",
+        "descriptionRU": "Устное, письменное или записанное сообщение, отправленное или оставленное для получателя."
+    }, {
+        "de": "entzifferte",
+        "en": "deciphered",
+        "ru": "расшифровал",
+        "descriptionEN": "To convert (a text written in code, or a coded signal) into normal language.",
+        "descriptionRU": "Преобразовать текст, написанный в коде, или закодированный сигнал в обычный язык."
+    }, {
+        "de": "die Vorbereitung",
+        "en": "Preparation",
+        "ru": "Подготовка",
+        "descriptionEN": "Activity carried out to get ready for an event or undertaking.",
+        "descriptionRU": "Деятельность, проводимая для подготовки к событию или предприятию."
+    }, {
+        "de": "die Symphonie",
+        "en": "Symphony",
+        "ru": "Симфония",
+        "descriptionEN": "An elaborate musical composition for full orchestra, typically in four movements.",
+        "descriptionRU": "Замысловатая музыкальная композиция для полного оркестра, обычно в четырех частях."
+    }, {
+        "de": "der Applaus",
+        "en": "Applause",
+        "ru": "Аплодисменты",
+        "descriptionEN": "The sound of clapping, typically as a show of approval or appreciation.",
+        "descriptionRU": "Звук хлопков, обычно как проявление одобрения или благодарности."
+    }, {
+        "de": "unvergessliche",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "Impossible to forget; very memorable.",
+        "descriptionRU": "Невозможно забыть; очень запоминающийся."
+    }, {
+        "de": "ziellos",
+        "en": "aimless",
+        "ru": "бесцельный",
+        "descriptionEN": "Lacking a clear purpose or goal.",
+        "descriptionRU": "Отсутствие ясной цели или задачи."
+    }, {
+        "de": "lebhaften",
+        "en": "lively",
+        "ru": "живой",
+        "descriptionEN": "Full of life and energy; active and outgoing.",
+        "descriptionRU": "Полный жизни и энергии; активный и общительный."
+    }, {
+        "de": "die Einsamkeit",
+        "en": "Loneliness",
+        "ru": "Одиночество",
+        "descriptionEN": "The state of being alone and feeling isolated or lonely.",
+        "descriptionRU": "Состояние одиночества и чувство изоляции или одиночества."
+    }, {
+        "de": "verzweifelt",
+        "en": "desperate",
+        "ru": "отчаянный",
+        "descriptionEN": "Feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.",
+        "descriptionRU": "Чувство, выражение или вовлечение в безнадежное ощущение, что ситуацию так плоха, что с ней невозможно справиться."
+    }, {
+        "de": "das Hochgefühl",
+        "en": "Elation",
+        "ru": "Восторг",
+        "descriptionEN": "A feeling of great joy or pride; exultant happiness.",
+        "descriptionRU": "Чувство великой радости или гордости; восторженное счастье."
+    }, {
+        "de": "die Einheit",
+        "en": "Unity",
+        "ru": "Единство",
+        "descriptionEN": "The state of being united or forming a whole.",
+        "descriptionRU": "Состояние объединенности или формирования целого."
+    }, {
+        "de": "die Streicher",
+        "en": "Strings",
+        "ru": "Струнные",
+        "descriptionEN": "Musical instruments that produce sound by vibrating strings.",
+        "descriptionRU": "Музыкальные инструменты, производящие звук вибрирующими струнами."
+    }, {
+        "de": "das Flattern",
+        "en": "Flutter",
+        "ru": "Махание",
+        "descriptionEN": "The rapid, irregular motion of something light.",
+        "descriptionRU": "Быстрое, нерегулярное движение чего-то легкого."
+    }, {
+        "de": "die Aufregung",
+        "en": "Excitement",
+        "ru": "Возбуждение",
+        "descriptionEN": "A state of being excited; a feeling of eager enthusiasm and interest.",
+        "descriptionRU": "Состояние возбуждения; чувство нетерпеливого восторга и интереса."
+    }, {
+        "de": "die Bräuche",
+        "en": "Customs",
+        "ru": "Обычаи",
+        "descriptionEN": "Traditional and widely accepted ways of behaving or doing things in a society.",
+        "descriptionRU": "Традиционные и широко принятые способы поведения или деятельности в обществе."
+    }, {
+        "de": "das Kerzenlicht",
+        "en": "Candlelight",
+        "ru": "Свечной свет",
+        "descriptionEN": "Light from candles.",
+        "descriptionRU": "Свет от свечей."
+    }
+]

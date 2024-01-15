@@ -247,5 +247,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Fahrradtour.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Fahrradtour.jpg"
+    }, {
+        "title": {
+            "de": "Harmonien der Vergangenheit",
+            "en": "Harmonies of the Past",
+            "ru": "Гармонии прошлого"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Rock_Symphony.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Rock_Symphony.jpg"
     }
 ]
