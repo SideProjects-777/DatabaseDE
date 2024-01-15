@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wer begleitet mich bei der Fahrradtour?",
+        "answers": [
+            {
+                "text": "Meine beste Freundin",
+                "correct": true
+            }, {
+                "text": "Alleine",
+                "correct": false
+            }, {
+                "text": "Mein Bruder",
+                "correct": false
+            }, {
+                "text": "Niemand",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was packe ich in den Korb für das Picknick?",
+        "answers": [
+            {
+                "text": "Bücher und Stifte",
+                "correct": false
+            }, {
+                "text": "Kleidung und Schuhe",
+                "correct": false
+            }, {
+                "text": "Elektronische Geräte",
+                "correct": false
+            }, {
+                "text": "Essen und Trinken",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was mache ich mit dem Korb auf meinem Fahrrad?",
+        "answers": [
+            {
+                "text": "Trage ihn auf dem Kopf",
+                "correct": false
+            }, {
+                "text": "Lasse ihn zu Hause",
+                "correct": false
+            }, {
+                "text": "Befestige ihn",
+                "correct": true
+            }, {
+                "text": "Verkaufe ihn",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Farbe hat das Fahrrad meiner Freundin?",
+        "answers": [
+            {
+                "text": "Rot",
+                "correct": true
+            }, {
+                "text": "Schwarz",
+                "correct": false
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Grün",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie ist das Wetter während der Fahrradtour?",
+        "answers": [
+            {
+                "text": "Regnerisch",
+                "correct": false
+            }, {
+                "text": "Sonnig",
+                "correct": true
+            }, {
+                "text": "Bewölkt",
+                "correct": false
+            }, {
+                "text": "Schneereich",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Essen gibt es beim Picknick?",
+        "answers": [
+            {
+                "text": "Pizza",
+                "correct": false
+            }, {
+                "text": "Sushi",
+                "correct": false
+            }, {
+                "text": "Käse, Wurst, Brot und Obst",
+                "correct": true
+            }, {
+                "text": "Hamburger",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was mache ich mit meinem staubigen Fahrrad?",
+        "answers": [
+            {
+                "text": "Lassen staubig",
+                "correct": false
+            }, {
+                "text": "Verkaufen",
+                "correct": false
+            }, {
+                "text": "Ignorieren",
+                "correct": false
+            }, {
+                "text": "Putzen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie fühle ich mich während der Fahrradtour?",
+        "answers": [
+            {
+                "text": "Traurig",
+                "correct": false
+            }, {
+                "text": "Aufgeregt",
+                "correct": true
+            }, {
+                "text": "Müde",
+                "correct": false
+            }, {
+                "text": "Verwirrt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was packe ich für das Picknick außer Essen?",
+        "answers": [
+            {
+                "text": "Kleidung",
+                "correct": false
+            }, {
+                "text": "Gesellschaftsspiele",
+                "correct": false
+            }, {
+                "text": "Besteck, Teller und Taschentücher",
+                "correct": true
+            }, {
+                "text": "Schlafsack",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie beschreibe ich mein Fahrrad?",
+        "answers": [
+            {
+                "text": "Klein und schnell",
+                "correct": false
+            }, {
+                "text": "Schwarz und langsam",
+                "correct": true
+            }, {
+                "text": "Rot und leistungsstark",
+                "correct": false
+            }, {
+                "text": "Blau und geräumig",
+                "correct": false
+            }
+        ]
+    }
+]

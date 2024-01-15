@@ -37,14 +37,14 @@
         "name": "Aus welchen Gebäuden besteht das Museum?",
         "answers": [
             {
-                "text": "Vorderhaus und Anbau",
-                "correct": true
-            }, {
                 "text": "Hinterhaus und Seitenflügel",
                 "correct": false
             }, {
                 "text": "Turm und Keller",
                 "correct": false
+            }, {
+                "text": "Vorderhaus und Anbau",
+                "correct": true
             }, {
                 "text": "Dachgeschoss und Terrasse",
                 "correct": false
@@ -54,11 +54,11 @@
         "name": "Wann wurde die Dauerausstellung zuletzt renoviert?",
         "answers": [
             {
-                "text": "1995/96",
-                "correct": true
-            }, {
                 "text": "1980",
                 "correct": false
+            }, {
+                "text": "1995/96",
+                "correct": true
             }, {
                 "text": "2005",
                 "correct": false
@@ -77,11 +77,11 @@
                 "text": "Bücher und Manuskripte",
                 "correct": false
             }, {
-                "text": "Digitalisierte Dokumente",
-                "correct": true
-            }, {
                 "text": "Archäologische Funde",
                 "correct": false
+            }, {
+                "text": "Digitalisierte Dokumente",
+                "correct": true
             }
         ]
     }, {
@@ -91,11 +91,11 @@
                 "text": "Mozarts Klaviersonaten",
                 "correct": false
             }, {
-                "text": "Beethovens Fidelio",
-                "correct": true
-            }, {
                 "text": "Bachs Orchestersuiten",
                 "correct": false
+            }, {
+                "text": "Beethovens Fidelio",
+                "correct": true
             }, {
                 "text": "Schuberts Liederzyklus",
                 "correct": false

@@ -47,7 +47,7 @@
         "file": "Hofgarten.mp3",
         "words": "Hofgarten.json",
         "yesNo": "Hofgarten.json"
-    },{
+    }, {
         "name": {
             "de": "Julias Neue Welt",
             "en": "Julia's New Horizons",
@@ -79,5 +79,21 @@
         "file": "Am_Flughafen.mp3",
         "words": "Am_Flughafen.json",
         "multi": "Am_Flughafen.json"
+    }, {
+        "name": {
+            "de": "Fahrradtour",
+            "en": "Bike tour",
+            "ru": "Велосипедный тур"
+        },
+        "description": {
+            "de": "Picknick am See mit der Besten Freundin",
+            "en": "The Müller Family's Vacation Journey",
+            "ru": "Picnic at the lake with best friend"
+        },
+        "level": "A2",
+        "image": "Fahrradtour.jpg",
+        "file": "Fahrradtour.mp3",
+        "words": "Fahrradtour.json",
+        "multi": "Fahrradtour.json"
     }
 ]
