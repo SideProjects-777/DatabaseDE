@@ -49,6 +49,22 @@
         "yesNo": "Cologne_Erkunden_III.json"
     }, {
         "name": {
+            "de": "Köln gegen Düsseldorf",
+            "en": "Cologne vs. Düsseldorf",
+            "ru": "Кёльн против Дюссельдорфа"
+        },
+        "description": {
+            "de": "Zwei deutsche Städte im Vergleich",
+            "en": "A Tale of Two German Cities",
+            "ru": "История двух немецких городов"
+        },
+        "level": "B2",
+        "image": "KoelnDus.jpg",
+        "file": "KoelnDus.txt",
+        "words": "KoelnDus.json",
+        "yesNo": "KoelnDus.json"
+    }, {
+        "name": {
             "de": "Kölner Bierboom",
             "en": "Cologne beer boom",
             "ru": "Кельнский пивной бум"

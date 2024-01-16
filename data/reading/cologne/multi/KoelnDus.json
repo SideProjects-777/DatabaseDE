@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welche beiden deutschen Städte liegen weniger als 40 Kilometer voneinander entfernt?",
+        "answers": [
+            {
+                "text": "Köln und Bonn",
+                "correct": false
+            }, {
+                "text": "Düsseldorf und Bonn",
+                "correct": false
+            }, {
+                "text": "Köln und Düsseldorf",
+                "correct": true
+            }, {
+                "text": "Frankfurt und Stuttgart",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sind einige Unterschiede zwischen Köln und Düsseldorf?",
+        "answers": [
+            {
+                "text": "Die Architektur",
+                "correct": true
+            }, {
+                "text": "Die Einwohnerzahl",
+                "correct": false
+            }, {
+                "text": "Die Wirtschaftsstruktur",
+                "correct": false
+            }, {
+                "text": "Die geografische Lage",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt wurde im Mittelalter zum wichtigen Handelsweg?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": true
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Bonn",
+                "correct": false
+            }, {
+                "text": "Frankfurt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein wichtiger architektonischer Ort in Düsseldorf?",
+        "answers": [
+            {
+                "text": "Der Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Die Königsallee",
+                "correct": false
+            }, {
+                "text": "Das Museum Ludwig",
+                "correct": false
+            }, {
+                "text": "Die Altstadt",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was charakterisiert den Vibe von Düsseldorf?",
+        "answers": [
+            {
+                "text": "Business, High Fashion und Chic",
+                "correct": true
+            }, {
+                "text": "Industriell, medial und lässig",
+                "correct": false
+            }, {
+                "text": "Traditionell und gemütlich",
+                "correct": false
+            }, {
+                "text": "Kulturell und vielfältig",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt hat eine größere japanische Gemeinde?",
+        "answers": [
+            {
+                "text": "Bonn",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }, {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Frankfurt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wurde durch schwere Bombardierungen im Zweiten Weltkrieg stark beeinflusst?",
+        "answers": [
+            {
+                "text": "Die Kölner Altstadt",
+                "correct": true
+            }, {
+                "text": "Die Düsseldorfer Altstadt",
+                "correct": false
+            }, {
+                "text": "Die Königsallee",
+                "correct": false
+            }, {
+                "text": "Der Kölner Dom",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt wurde Hauptstadt von Nordrhein-Westfalen?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Bonn",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }, {
+                "text": "Frankfurt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird als Deutschland Äquivalent zu den Champs-Élysées bezeichnet?",
+        "answers": [
+            {
+                "text": "Die Königsallee",
+                "correct": true
+            }, {
+                "text": "Die Altstadt",
+                "correct": false
+            }, {
+                "text": "Der Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Die Immermannstraße",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird im Text als ein echtes Zwei-für-Eins-Angebot bezeichnet?",
+        "answers": [
+            {
+                "text": "Die Kölner Altstadt",
+                "correct": false
+            }, {
+                "text": "Die Düsseldorfer Altstadt",
+                "correct": false
+            }, {
+                "text": "Die Nähe der beiden Städte",
+                "correct": true
+            }, {
+                "text": "Die Rheinregion",
+                "correct": false
+            }
+        ]
+    }
+]

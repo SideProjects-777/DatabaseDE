@@ -1,0 +1,183 @@
+[
+    {
+        "de": "der Ufer",
+        "en": "shore",
+        "ru": "берег",
+        "descriptionEN": "The land along the edge of a body of water, such as a lake or river.",
+        "descriptionRU": "Земля вдоль края водоема, такого как озеро или река."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "A large and permanent human settlement with a complex social, economic, and political structure.",
+        "descriptionRU": "Большое и постоянное человеческое поселение с сложной социальной, экономической и политической структурой."
+    }, {
+        "de": "das Bier",
+        "en": "beer",
+        "ru": "пиво",
+        "descriptionEN": "An alcoholic drink made from fermented malted barley, flavored with hops.",
+        "descriptionRU": "Алкогольный напиток, изготовленный из сбраживаемого ячменного солода, приправленного хмелем."
+    }, {
+        "de": "die Rivalität",
+        "en": "rivalry",
+        "ru": "соперничество",
+        "descriptionEN": "Competition for the same objective or for superiority in the same field.",
+        "descriptionRU": "Конкуренция за одну и ту же цель или за превосходство в одной и той же области."
+    }, {
+        "de": "der Zug",
+        "en": "train",
+        "ru": "поезд",
+        "descriptionEN": "A series of connected railroad cars pulled or pushed by one or more locomotives.",
+        "descriptionRU": "Серия соединенных вагонов, тянутых или толкаемых одним или несколькими локомотивами."
+    }, {
+        "de": "der Dom",
+        "en": "cathedral",
+        "ru": "собор",
+        "descriptionEN": "A large and important church, especially the one presided over by a bishop.",
+        "descriptionRU": "Большая и важная церковь, особенно та, над которой присутствует епископ."
+    }, {
+        "de": "das Angebot",
+        "en": "offer",
+        "ru": "предложение",
+        "descriptionEN": "A proposal to enter into a contract or other legal agreement.",
+        "descriptionRU": "Предложение заключить контракт или другое юридическое соглашение."
+    }, {
+        "de": "der Konflikt",
+        "en": "conflict",
+        "ru": "конфликт",
+        "descriptionEN": "A serious disagreement or argument, typically a protracted one.",
+        "descriptionRU": "Серьезное разногласие или аргумент, обычно затянутый."
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "The expression or application of human creative skill and imagination.",
+        "descriptionRU": "Выражение или применение творческого мастерства и воображения человека."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "The art or practice of designing and constructing buildings.",
+        "descriptionRU": "Искусство или практика проектирования и строительства зданий."
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "The state or condition of having various differing elements.",
+        "descriptionRU": "Состояние или условие наличия различных элементов."
+    }, {
+        "de": "der Charme",
+        "en": "charm",
+        "ru": "очарование",
+        "descriptionEN": "The power or quality of giving delight or arousing admiration.",
+        "descriptionRU": "Сила или качество приносить удовольствие или вызывать восхищение."
+    }, {
+        "de": "die Eskalation",
+        "en": "escalation",
+        "ru": "эскалация",
+        "descriptionEN": "A rapid increase or intensification.",
+        "descriptionRU": "Быстрое увеличение или усиление."
+    }, {
+        "de": "die Gesellschaft",
+        "en": "society",
+        "ru": "общество",
+        "descriptionEN": "The aggregate of people living together in a more or less ordered community.",
+        "descriptionRU": "Совокупность людей, живущих в более или менее упорядоченном сообществе."
+    }, {
+        "de": "die Elite",
+        "en": "elite",
+        "ru": "элита",
+        "descriptionEN": "A select group that is superior in terms of ability or qualities.",
+        "descriptionRU": "Отборная группа, превосходящая по способностям или качествам."
+    }, {
+        "de": "die Kultur",
+        "en": "culture",
+        "ru": "культура",
+        "descriptionEN": "The customs, arts, social institutions, and achievements of a particular nation, people, or other social group.",
+        "descriptionRU": "Обычаи, искусства, социальные институты и достижения определенной нации, народа или другой социальной группы."
+    }, {
+        "de": "die Grenze",
+        "en": "border",
+        "ru": "граница",
+        "descriptionEN": "A line separating two political or geographical areas.",
+        "descriptionRU": "Линия, разделяющая две политические или географические области."
+    }, {
+        "de": "die Mode",
+        "en": "fashion",
+        "ru": "мода",
+        "descriptionEN": "A popular trend, especially in styles of dress and ornament.",
+        "descriptionRU": "Популярный тренд, особенно в стилях одежды и украшений."
+    }, {
+        "de": "die Wirtschaft",
+        "en": "economy",
+        "ru": "экономика",
+        "descriptionEN": "The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
+        "descriptionRU": "Богатство и ресурсы страны или региона, особенно с точки зрения производства и потребления товаров и услуг."
+    }, {
+        "de": "das Hochhaus",
+        "en": "skyscraper",
+        "ru": "небоскреб",
+        "descriptionEN": "A very tall building with many stories.",
+        "descriptionRU": "Очень высокое здание с множеством этажей."
+    }, {
+        "de": "der Konsum",
+        "en": "consumption",
+        "ru": "потребление",
+        "descriptionEN": "The using up of a resource.",
+        "descriptionRU": "Использование ресурса."
+    }, {
+        "de": "das Angebot",
+        "en": "offering",
+        "ru": "предложение",
+        "descriptionEN": "A thing offered, especially as a gift or contribution.",
+        "descriptionRU": "Предмет, предложенный, особенно в качестве подарка или вклада."
+    }, {
+        "de": "die Gastronomie",
+        "en": "gastronomy",
+        "ru": "гастрономия",
+        "descriptionEN": "The practice of choosing, cooking, and eating good food.",
+        "descriptionRU": "Практика выбора, приготовления и употребления в пищу хорошей еды."
+    }, {
+        "de": "die Skulptur",
+        "en": "sculpture",
+        "ru": "скульптура",
+        "descriptionEN": "The art of making two- or three-dimensional representative or abstract forms.",
+        "descriptionRU": "Искусство создания двух- или трехмерных представительных или абстрактных форм."
+    }, {
+        "de": "das Erbe",
+        "en": "heritage",
+        "ru": "наследие",
+        "descriptionEN": "Property that is or may be inherited.",
+        "descriptionRU": "Собственность, которая может быть унаследована."
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "The envelope of gases surrounding the earth or another planet.",
+        "descriptionRU": "Оболочка газов, окружающих землю или другую планету."
+    }, {
+        "de": "das Erlebnis",
+        "en": "experience",
+        "ru": "переживание",
+        "descriptionEN": "Practical contact with and observation of facts or events.",
+        "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения."
+    }, {
+        "de": "die Eskapade",
+        "en": "escapade",
+        "ru": "эскапада",
+        "descriptionEN": "An act or incident involving excitement, daring, or adventure.",
+        "descriptionRU": "Действие или инцидент, связанный с волнением, смелостью или приключением."
+    }, {
+        "de": "der Genuss",
+        "en": "enjoyment",
+        "ru": "удовольствие",
+        "descriptionEN": "The state or process of taking pleasure in something.",
+        "descriptionRU": "Состояние или процесс получения удовольствия от чего-то."
+    }, {
+        "de": "der Wandel",
+        "en": "change",
+        "ru": "изменение",
+        "descriptionEN": "The act or instance of making or becoming different.",
+        "descriptionRU": "Действие или пример того, как что-то становится или делается иным."
+    }
+]

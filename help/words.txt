@@ -13,8 +13,8 @@
 	}
 
 	Selected words are not allowed to be phrases only single words.
-	Generate 8 nouns  with its article (der / die / das)
-	Generate 4 verbs in infinite form
+	Generate 12 nouns  with its article (der / die / das)
+	Generate 6 verbs in infinite form
 	
 	Rest should be adjectives and adverbs
 	example:
