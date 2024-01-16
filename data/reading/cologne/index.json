@@ -113,6 +113,22 @@
         "multi": "Fremde_im_Dom.json"
     }, {
         "name": {
+            "de": "Magie im Kölner Zoo",
+            "en": "Magic at Cologne Zoo",
+            "ru": "Волшебство в Кёльнском зоопарке"
+        },
+        "description": {
+            "de": "Unerwartete Bindungen im Zoo",
+            "en": "Unexpected Bonds at the Zoo",
+            "ru": "Неожиданные знакомства в зоопарке"
+        },
+        "level": "B1",
+        "image": "Magic.jpg",
+        "file": "Magic.txt",
+        "words": "Magic.json",
+        "yesNo": "Magic.json"
+    }, {
+        "name": {
             "de": "Verlorene Brieftasche",
             "en": "Lost Wallet",
             "ru": "Потерянный кошелек"

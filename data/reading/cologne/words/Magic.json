@@ -1,0 +1,93 @@
+[
+    {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town",
+        "descriptionRU": "крупный город"
+    }, {
+        "de": "das Lachen",
+        "en": "laughter",
+        "ru": "смех",
+        "descriptionEN": "the action or sound of laughing",
+        "descriptionRU": "действие или звук смеха"
+    }, {
+        "de": "das Mädchen",
+        "en": "girl",
+        "ru": "девочка",
+        "descriptionEN": "a female child",
+        "descriptionRU": "женский ребенок"
+    }, {
+        "de": "der Zoo",
+        "en": "zoo",
+        "ru": "зоопарк",
+        "descriptionEN": "a park where live animals are exhibited",
+        "descriptionRU": "парк, где выставляются животные"
+    }, {
+        "de": "die Mutter",
+        "en": "mother",
+        "ru": "мать",
+        "descriptionEN": "a woman in relation to her child or children",
+        "descriptionRU": "женщина в отношении к ее ребенку или детям"
+    }, {
+        "de": "die Freude",
+        "en": "joy",
+        "ru": "радость",
+        "descriptionEN": "a feeling of great pleasure and happiness",
+        "descriptionRU": "чувство большого удовольствия и счастья"
+    }, {
+        "de": "das Telefon",
+        "en": "phone",
+        "ru": "телефон",
+        "descriptionEN": "a system for converting sound vibrations into electrical signals",
+        "descriptionRU": "система преобразования звуковых вибраций в электрические сигналы"
+    }, {
+        "de": "der Moment",
+        "en": "moment",
+        "ru": "момент",
+        "descriptionEN": "a very brief period of time",
+        "descriptionRU": "очень короткий период времени"
+    }, {
+        "de": "der Rucksack",
+        "en": "backpack",
+        "ru": "рюкзак",
+        "descriptionEN": "a bag with shoulder straps that allow it to be carried on someone's back",
+        "descriptionRU": "сумка с плечевыми ремнями, которые позволяют носить ее на спине"
+    }, {
+        "de": "die Hilfe",
+        "en": "help",
+        "ru": "помощь",
+        "descriptionEN": "the action of helping someone",
+        "descriptionRU": "действие помощи"
+    }, {
+        "de": "verlassen",
+        "en": "leave",
+        "ru": "покидать",
+        "descriptionEN": "to go away from",
+        "descriptionRU": "уходить от"
+    }, {
+        "de": "feiern",
+        "en": "celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "to acknowledge and appreciate an event with festivities",
+        "descriptionRU": "признавать и оценивать событие с празднованием"
+    }, {
+        "de": "umgeben",
+        "en": "surround",
+        "ru": "окружать",
+        "descriptionEN": "to be all around someone or something",
+        "descriptionRU": "быть вокруг кого-то или чего-то"
+    }, {
+        "de": "aufregend",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "causing great enthusiasm and eagerness",
+        "descriptionRU": "вызывающий великое восторг и нетерпение"
+    }, {
+        "de": "fröhlich",
+        "en": "happy",
+        "ru": "счастливый",
+        "descriptionEN": "feeling or showing pleasure or contentment",
+        "descriptionRU": "чувство или проявление удовольствия или удовлетворенности"
+    }
+]
