@@ -255,5 +255,21 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Rock_Symphony.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Rock_Symphony.jpg"
+    }, {
+        "title": {
+            "de": "Magie im Kölner Zoo",
+            "en": "Magic at Cologne Zoo",
+            "ru": "Волшебство в Кёльнском зоопарке"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Magic.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Magic.jpg"
+    }, {
+        "title": {
+            "de": "Köln gegen Düsseldorf",
+            "en": "Cologne vs. Düsseldorf",
+            "ru": "Кёльн против Дюссельдорфа"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/KoelnDus.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/KoelnDus.jpg"
     }
 ]
