@@ -271,5 +271,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/KoelnDus.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/KoelnDus.jpg"
+    }, {
+        "title": {
+            "de": "Adrians Köln",
+            "en": "Adrian's Cologne",
+            "ru": "Кельн Адриана"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/ExploringCologne.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/ExploringCologne.jpg"
     }
 ]

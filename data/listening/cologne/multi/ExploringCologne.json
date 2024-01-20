@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welchen Ort in Köln besucht Adrian zuerst, wenn ihn jemand besucht?",
+        "answers": [
+            {
+                "text": "Die Deutzer Brücke",
+                "correct": true
+            }, {
+                "text": "Das NS-Dokumentationszentrum",
+                "correct": false
+            }, {
+                "text": "Der Blaue König",
+                "correct": false
+            }, {
+                "text": "Die Flora",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Jahreszeit bevorzugt Adrian für einen Besuch in Köln?",
+        "answers": [
+            {
+                "text": "Sommer",
+                "correct": false
+            }, {
+                "text": "Herbst",
+                "correct": false
+            }, {
+                "text": "Frühling",
+                "correct": true
+            }, {
+                "text": "Winter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Museum empfiehlt Adrian als das beste in Köln?",
+        "answers": [
+            {
+                "text": "Das NS-Dokumentationszentrum",
+                "correct": true
+            }, {
+                "text": "Das Museum Ludwig",
+                "correct": false
+            }, {
+                "text": "Das Parfümmuseum",
+                "correct": false
+            }, {
+                "text": "Die Senfmühle",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum verlaufen die Hauptstraßen und Straßenbahnlinien in Köln in einem Halbkreis?",
+        "answers": [
+            {
+                "text": "Weil es schöner aussieht",
+                "correct": false
+            }, {
+                "text": "Um die Orientierung zu erleichtern",
+                "correct": true
+            }, {
+                "text": "Historische Tradition",
+                "correct": false
+            }, {
+                "text": "Um Platz zu sparen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo kann man die beste Aussicht auf die Kölner Skyline genießen?",
+        "answers": [
+            {
+                "text": "Die Hohe Straße",
+                "correct": false
+            }, {
+                "text": "Der Blaue König",
+                "correct": false
+            }, {
+                "text": "Das Köln Triangle in Deutz",
+                "correct": true
+            }, {
+                "text": "Die Flora",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Sprache gilt in Köln als trinkbar?",
+        "answers": [
+            {
+                "text": "Englisch",
+                "correct": false
+            }, {
+                "text": "Deutsch",
+                "correct": false
+            }, {
+                "text": "Kölsch",
+                "correct": true
+            }, {
+                "text": "Französisch",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo geht Adrian für einen ausgefallenen Abend mit kulinarischen Genüssen hin?",
+        "answers": [
+            {
+                "text": "Die Deutzer Brücke",
+                "correct": false
+            }, {
+                "text": "Der Blaue König",
+                "correct": true
+            }, {
+                "text": "Die Flora",
+                "correct": false
+            }, {
+                "text": "Das NS-Dokumentationszentrum",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Aktivitäten kann man im Nationalpark Eifel unternehmen?",
+        "answers": [
+            {
+                "text": "Ski fahren",
+                "correct": false
+            }, {
+                "text": "Wandern und Mountainbike fahren",
+                "correct": true
+            }, {
+                "text": "Nachtflohmärkte besuchen",
+                "correct": false
+            }, {
+                "text": "In Brauhäusern einkehren",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo kann man in Köln authentischen Senf kaufen?",
+        "answers": [
+            {
+                "text": "Das Parfümmuseum",
+                "correct": false
+            }, {
+                "text": "Die Senfmühle",
+                "correct": true
+            }, {
+                "text": "Der Blaue König",
+                "correct": false
+            }, {
+                "text": "Der Dank Augusta Park",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Köln nach Meinung der Kölner in Bezug auf den Karneval?",
+        "answers": [
+            {
+                "text": "Nicht besonders",
+                "correct": false
+            }, {
+                "text": "Die Hauptstadt des Karnevals",
+                "correct": true
+            }, {
+                "text": "Gut für Touristen",
+                "correct": false
+            }, {
+                "text": "Überbewertet",
+                "correct": false
+            }
+        ]
+    }
+]

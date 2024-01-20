@@ -79,5 +79,21 @@
         "file": "Friendship.mp3",
         "words": "Friendship.json",
         "multi": "Friendship.json"
+    }, {
+        "name": {
+            "de": "Adrians Köln",
+            "en": "Adrian's Cologne",
+            "ru": "Кельн Адриана"
+        },
+        "description": {
+            "de": "Entdeckung der Lieblingsorte",
+            "en": "Exploring Favorite Places",
+            "ru": "Исследование любимых мест"
+        },
+        "level": "A2",
+        "image": "ExploringCologne.jpg",
+        "file": "ExploringCologne.mp3",
+        "words": "ExploringCologne.json",
+        "multi": "ExploringCologne.json"
     }
 ]
