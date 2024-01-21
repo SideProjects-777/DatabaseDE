@@ -279,5 +279,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/ExploringCologne.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/ExploringCologne.jpg"
+    }, {
+        "title": {
+            "de": "Der letzte Fall von Frank",
+            "en": "The last case of Frank",
+            "ru": "Последнее дело Фрэнка"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Frank.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Frank.jpg"
     }
 ]

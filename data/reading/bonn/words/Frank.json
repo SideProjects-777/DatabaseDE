@@ -1,0 +1,219 @@
+[
+    {
+        "de": "der Schreibtisch",
+        "en": "desk",
+        "ru": "письменный стол",
+        "descriptionEN": "a piece of furniture with a flat or sloped surface for various uses, often for writing or reading",
+        "descriptionRU": "мебель с плоской или наклонной поверхностью для различных нужд, часто для письма или чтения"
+    }, {
+        "de": "das Fenster",
+        "en": "window",
+        "ru": "окно",
+        "descriptionEN": "an opening in a wall or door through which one can see and, usually, communicate with those outside",
+        "descriptionRU": "отверстие в стене или двери, через которое можно видеть и, обычно, общаться с теми снаружи"
+    }, {
+        "de": "das Auto",
+        "en": "car",
+        "ru": "автомобиль",
+        "descriptionEN": "a road vehicle, typically with four wheels, powered by an internal combustion engine",
+        "descriptionRU": "транспортное средство для движения по дорогам, обычно с четырьмя колесами, приводимое в движение внутренним сгоранием топлива"
+    }, {
+        "de": "der Regen",
+        "en": "rain",
+        "ru": "дождь",
+        "descriptionEN": "water falling in drops condensed from vapor in the atmosphere",
+        "descriptionRU": "вода, падающая в каплях, образованных конденсацией пара в атмосфере"
+    }, {
+        "de": "der Monat",
+        "en": "month",
+        "ru": "месяц",
+        "descriptionEN": "a period of time between the same dates in successive calendar months",
+        "descriptionRU": "период времени между одинаковыми датами в последовательных календарных месяцах"
+    }, {
+        "de": "die Ostküste",
+        "en": "east coast",
+        "ru": "восточное побережье",
+        "descriptionEN": "the eastern part of a country or continent, especially the coastline along an ocean or sea",
+        "descriptionRU": "восточная часть страны или континента, особенно побережье вдоль океана или моря"
+    }, {
+        "de": "der Dienst",
+        "en": "service",
+        "ru": "служба",
+        "descriptionEN": "the action of helping or doing work for someone",
+        "descriptionRU": "действие по помощи или выполнению работы для кого-то"
+    }, {
+        "de": "das Geld",
+        "en": "money",
+        "ru": "деньги",
+        "descriptionEN": "a medium of exchange in the form of coins and banknotes",
+        "descriptionRU": "средство обмена в виде монет и банкнот"
+    }, {
+        "de": "die Rente",
+        "en": "retirement",
+        "ru": "пенсия",
+        "descriptionEN": "the action of leaving one's job and ceasing to work, typically upon reaching a certain age",
+        "descriptionRU": "действие покидания своей работы и прекращения труда, обычно при достижении определенного возраста"
+    }, {
+        "de": "der Urlaub",
+        "en": "vacation",
+        "ru": "отпуск",
+        "descriptionEN": "a period of time devoted to rest, travel, or recreation",
+        "descriptionRU": "период времени, посвященный отдыху, путешествию или отдыху"
+    }, {
+        "de": "der Inspektor",
+        "en": "inspector",
+        "ru": "инспектор",
+        "descriptionEN": "an official employed to ensure that official regulations are obeyed, especially in public services",
+        "descriptionRU": "чиновник, назначенный для обеспечения соблюдения официальных норм, особенно в области общественных служб"
+    }, {
+        "de": "die Hilfe",
+        "en": "help",
+        "ru": "помощь",
+        "descriptionEN": "the action of helping someone to do something; assistance",
+        "descriptionRU": "действие помощи кому-то в чем-то; помощь"
+    }, {
+        "de": "die Frage",
+        "en": "question",
+        "ru": "вопрос",
+        "descriptionEN": "a sentence worded or expressed so as to elicit information",
+        "descriptionRU": "предложение, сформулированное или выраженное таким образом, чтобы извлечь информацию"
+    }, {
+        "de": "der Plan",
+        "en": "plan",
+        "ru": "план",
+        "descriptionEN": "a detailed proposal for doing or achieving something",
+        "descriptionRU": "детальное предложение о том, как что-то делать или достигать"
+    }, {
+        "de": "der Diamant",
+        "en": "diamond",
+        "ru": "алмаз",
+        "descriptionEN": "a precious stone consisting of a clear and typically colorless crystalline form of pure carbon",
+        "descriptionRU": "драгоценный камень, состоящий из прозрачной и обычно бесцветной кристаллической формы чистого углерода"
+    }, {
+        "de": "der Kriminelle",
+        "en": "criminal",
+        "ru": "преступник",
+        "descriptionEN": "a person who has committed a crime",
+        "descriptionRU": "человек, совершивший преступление"
+    }, {
+        "de": "der Alarmsystem",
+        "en": "alarm system",
+        "ru": "система сигнализации",
+        "descriptionEN": "a system designed to detect intrusion, unauthorized entry, or other suspicious activities",
+        "descriptionRU": "система, предназначенная для обнаружения проникновения, несанкционированного входа или других подозрительных действий"
+    }, {
+        "de": "die Vitrine",
+        "en": "display case",
+        "ru": "витрина",
+        "descriptionEN": "a glass case or cabinet for displaying articles in a museum or shop",
+        "descriptionRU": "стеклянный ящик или шкаф для выставки предметов в музее или магазине"
+    }, {
+        "de": "der Beamte",
+        "en": "officer",
+        "ru": "служащий",
+        "descriptionEN": "a person in a position of authority, especially in the armed forces or the government",
+        "descriptionRU": "человек на должности власти, особенно в вооруженных силах или правительстве"
+    }, {
+        "de": "die Strafe",
+        "en": "penalty",
+        "ru": "наказание",
+        "descriptionEN": "a punishment imposed for breaking a law, rule, or contract",
+        "descriptionRU": "наказание, наложенное за нарушение закона, правила или контракта"
+    }, {
+        "de": "der Fall",
+        "en": "case",
+        "ru": "случай",
+        "descriptionEN": "an instance of a particular situation; an example of something occurring",
+        "descriptionRU": "случай определенной ситуации; пример того, что происходит"
+    }, {
+        "de": "das Licht",
+        "en": "light",
+        "ru": "свет",
+        "descriptionEN": "the natural agent that stimulates sight and makes things visible",
+        "descriptionRU": "естественное средство, стимулирующее зрение и делающее вещи видимыми"
+    }, {
+        "de": "der Mond",
+        "en": "moon",
+        "ru": "луна",
+        "descriptionEN": "the natural satellite of the earth, visible by reflection of sunlight and having a slightly elliptical orbit",
+        "descriptionRU": "естественный спутник Земли, видимый отражением солнечного света и имеющий слегка эллиптическую орбиту"
+    }, {
+        "de": "der Champagner",
+        "en": "champagne",
+        "ru": "шампанское",
+        "descriptionEN": "a sparkling wine produced in the Champagne region of France",
+        "descriptionRU": "игристое вино, произведенное в регионе Шампань во Франции"
+    }, {
+        "de": "die Katze",
+        "en": "cat",
+        "ru": "кошка",
+        "descriptionEN": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws",
+        "descriptionRU": "небольшое домашнее плотоядное млекопитающее с мягкой шерстью, коротким мордочкой и убираемыми когтями"
+    }, {
+        "de": "die Zeitung",
+        "en": "newspaper",
+        "ru": "газета",
+        "descriptionEN": "a printed publication consisting of folded unstapled sheets containing news, feature articles, and advertising",
+        "descriptionRU": "печатное издание, состоящее из сложенных листов без скрепок, содержащее новости, статьи и рекламу"
+    }, {
+        "de": "die Zigarette",
+        "en": "cigarette",
+        "ru": "сигарета",
+        "descriptionEN": "a thin cylinder of finely cut tobacco rolled in paper for smoking",
+        "descriptionRU": "тонкий цилиндр из мелко нарезанного табака, завернутый в бумагу для курения"
+    }, {
+        "de": "das Glas",
+        "en": "glass",
+        "ru": "стекло",
+        "descriptionEN": "a hard, brittle substance, typically transparent or translucent, made by fusing sand with soda and lime",
+        "descriptionRU": "твердое, хрупкое вещество, обычно прозрачное или полупрозрачное, изготовленное путем плавления песка с содой и известью"
+    }, {
+        "de": "der Tisch",
+        "en": "table",
+        "ru": "стол",
+        "descriptionEN": "a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed",
+        "descriptionRU": "мебель с плоской верхней частью и одной или несколькими ногами, обеспечивающая равномерную поверхность, на которую можно поместить объекты"
+    }, {
+        "de": "die Tasche",
+        "en": "bag",
+        "ru": "сумка",
+        "descriptionEN": "a flexible container with an opening at the top, used for carrying things",
+        "descriptionRU": "гибкий контейнер с отверстием сверху, используемый для переноски вещей"
+    }, {
+        "de": "die Blume",
+        "en": "flower",
+        "ru": "цветок",
+        "descriptionEN": "the seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly colored corolla",
+        "descriptionRU": "содержащая семена часть растения, состоящая из репродуктивных органов, обычно окруженных ярко окрашенной чашелистиками"
+    }, {
+        "de": "der Himmel",
+        "en": "sky",
+        "ru": "небо",
+        "descriptionEN": "the region of the atmosphere and outer space seen from the earth",
+        "descriptionRU": "область атмосферы и космического пространства, видимая с Земли"
+    }, {
+        "de": "das Buch",
+        "en": "book",
+        "ru": "книга",
+        "descriptionEN": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers",
+        "descriptionRU": "письменное или печатное произведение, состоящее из страниц, склеенных или сшитых вдоль одной стороны и обложенных"
+    }, {
+        "de": "der Kaffee",
+        "en": "coffee",
+        "ru": "кофе",
+        "descriptionEN": "a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub",
+        "descriptionRU": "горячий напиток, приготовленный из обжаренных и измельченных семян (кофейных зерен) тропического кустарника"
+    }, {
+        "de": "das Wasser",
+        "en": "water",
+        "ru": "вода",
+        "descriptionEN": "a colorless, transparent, odorless, and tasteless liquid that forms the seas, lakes, rivers, and rain",
+        "descriptionRU": "бесцветная, прозрачная, без запаха и вкуса жидкость, образующая моря, озера, реки и дождь"
+    }, {
+        "de": "die Musik",
+        "en": "music",
+        "ru": "музыка",
+        "descriptionEN": "vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion",
+        "descriptionRU": "вокальные или инструментальные звуки (или оба) комбинированы таким образом, чтобы создавать красоту формы, гармонии и выражение эмоций"
+    }
+]

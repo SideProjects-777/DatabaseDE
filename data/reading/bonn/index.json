@@ -127,5 +127,37 @@
         "file": "Wandern.txt",
         "words": "Wandern.json",
         "yesNo": "Wandern.json"
+    }, {
+        "name": {
+            "de": "Wandern durch die Geschichte",
+            "en": "Hiking through History",
+            "ru": "Путешествие в прошлое"
+        },
+        "description": {
+            "de": "Maximilians Wochenendabenteuer am Schloss Drachenburg",
+            "en": "Maximilian's Weekend Adventure at Drachenburg Castle",
+            "ru": "Уикенд Максимилиана в замке Драхенбург"
+        },
+        "level": "C1",
+        "image": "Wandern.jpg",
+        "file": "Wandern.txt",
+        "words": "Wandern.json",
+        "yesNo": "Wandern.json"
+    }, {
+        "name": {
+            "de": "Diamanten und Täuschung",
+            "en": "Diamonds and deception",
+            "ru": "Бриллианты и обман"
+        },
+        "description": {
+            "de": "Der letzte Fall von Frank",
+            "en": "The last case of Frank",
+            "ru": "Последнее дело Фрэнка"
+        },
+        "level": "B1",
+        "image": "Frank.jpg",
+        "file": "Frank.txt",
+        "words": "Frank.json",
+        "yesNo": "Frank.json"
     }
 ]
