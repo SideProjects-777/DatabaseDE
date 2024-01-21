@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Beim Osterfest geht es um welches Ereignis?",
+        "answers": [
+            {
+                "text": "Der Weitwurf von Ostereiern.",
+                "correct": false
+            }, {
+                "text": "Der Bau eines Holzkreuzes.",
+                "correct": false
+            }, {
+                "text": "Die Auferstehung von den Toten.",
+                "correct": true
+            }, {
+                "text": "Die Heirat zwischen zwei Osterhasen.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Womit schmückt man sich die Wohnung zur Osterzeit?",
+        "answers": [
+            {
+                "text": " Mit Zweigen und Blumen.",
+                "correct": true
+            }, {
+                "text": "Mit Kreisen und Kreuzen.",
+                "correct": false
+            }, {
+                "text": "Mit Vögeln und Nestern.",
+                "correct": false
+            }, {
+                "text":  "Mit Engeln und Sternen.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Nach welchem Kalender richten sich die Ostertage?",
+        "answers": [
+            {
+                "text": "Nach dem Sternenkalender.",
+                "correct": false
+            }, {
+                "text": "Nach dem Sonnenkalender.",
+                "correct": false
+            }, {
+                "text": "Nach dem Kalender der Mayas.",
+                "correct": false
+            }, {
+                "text": "Nach dem Mondkalender.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "name": "Was bekommen die Kinder beim Osterfest?",
+        "answers": [
+            {
+                "text": "Osternudeln",
+                "correct": false
+            }, {
+                "text": "Ostereier",
+                "correct": true
+            }, {
+                "text": "Osterkekse",
+                "correct": false
+            }, {
+                "text": "Osterhasen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Welches Tier versteckt die Ostereier (angeblich) für die Kinder?",
+        "answers": [
+            {
+                "text": "Der Osterhase",
+                "correct": true
+            }, {
+                "text": "Der Ostermann",
+                "correct": false
+            }, {
+                "text": "Das Osterhuhn",
+                "correct": false
+            }, {
+                "text": "Der Osterhahn",
+                "correct": false
+            }
+        ]
+    }
+]

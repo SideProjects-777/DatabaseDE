@@ -95,5 +95,21 @@
         "file": "ExploringCologne.mp3",
         "words": "ExploringCologne.json",
         "multi": "ExploringCologne.json"
+    }, {
+        "name": {
+            "de": "Osterfest",
+            "en": "Пасха",
+            "ru": "Easter festival"
+        },
+        "description": {
+            "de": "Von Trauer zu Freude",
+            "en": "From sadness to joy",
+            "ru": "От траура к радости"
+        },
+        "level": "B1",
+        "image": "Ostern.jpg",
+        "file": "Ostern.mp3",
+        "words": "Ostern.json",
+        "multi": "Ostern.json"
     }
 ]
