@@ -129,22 +129,6 @@
         "yesNo": "Wandern.json"
     }, {
         "name": {
-            "de": "Wandern durch die Geschichte",
-            "en": "Hiking through History",
-            "ru": "Путешествие в прошлое"
-        },
-        "description": {
-            "de": "Maximilians Wochenendabenteuer am Schloss Drachenburg",
-            "en": "Maximilian's Weekend Adventure at Drachenburg Castle",
-            "ru": "Уикенд Максимилиана в замке Драхенбург"
-        },
-        "level": "C1",
-        "image": "Wandern.jpg",
-        "file": "Wandern.txt",
-        "words": "Wandern.json",
-        "yesNo": "Wandern.json"
-    }, {
-        "name": {
             "de": "Diamanten und Täuschung",
             "en": "Diamonds and deception",
             "ru": "Бриллианты и обман"
