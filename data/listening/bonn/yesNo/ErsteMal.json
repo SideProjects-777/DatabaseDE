@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Bonn ist größer als München.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Architektur in Bonn ist eine Mischung aus Alt und Neu.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Beethoven-Haus ist das Geburtshaus des berühmten Komponisten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Universität Bonn ist die jüngste Universität in Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Menschen in Bonn sind kühl und distanziert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lena fand es schwer, neue Freunde in Bonn zu finden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der wöchentliche Bauernmarkt bietet keine frischen Produkte aus der Region.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lena genoss es, Zeit in den Parks und Gärten von Bonn zu verbringen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die ehemalige Hauptstadt der Bundesrepublik Deutschland ist Berlin.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Bonn wird immer einen besonderen Platz im Herzen von Lena haben.",
+        "tr": true,
+        "fle": false
+    }
+]

@@ -295,5 +295,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Ostern.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Ostern.jpg"
+    }, {
+        "title": {
+            "de": "Das erste Mal in Bonn",
+            "en": "First Time in Bonn",
+            "ru": "Первый раз в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/ErsteMal.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/ErsteMal.jpg"
     }
 ]

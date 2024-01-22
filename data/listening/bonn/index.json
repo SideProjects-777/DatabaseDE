@@ -81,6 +81,22 @@
         "multi": "Am_Flughafen.json"
     }, {
         "name": {
+            "de": "Das erste Mal in Bonn",
+            "en": "First Time in Bonn",
+            "ru": "Первый раз в Бонне"
+        },
+        "description": {
+            "de": "Eine kleine Stadt mit einem großen Herzen",
+            "en": "A Small City with a Big Heart",
+            "ru": "Маленький город с большим сердцем"
+        },
+        "level": "B1",
+        "image": "ErsteMal.jpg",
+        "file": "ErsteMal.mp3",
+        "words": "ErsteMal.json",
+        "multi": "ErsteMal.json"
+    }, {
+        "name": {
             "de": "Fahrradtour",
             "en": "Bike tour",
             "ru": "Велосипедный тур"

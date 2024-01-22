@@ -1,0 +1,147 @@
+[
+    {
+        "de": "die Studentin",
+        "en": "student",
+        "ru": "студентка",
+        "descriptionEN": "a person who is studying at a university or other higher education institution.",
+        "descriptionRU": "человек, который учится в университете или другом учебном заведении высшего образования."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town with a high population density; an urban area.",
+        "descriptionRU": "большой город с высокой плотностью населения; городская территория."
+    }, {
+        "de": "der Morgen",
+        "en": "morning",
+        "ru": "утро",
+        "descriptionEN": "the period of time between midnight and noon, especially from sunrise to noon.",
+        "descriptionRU": "период времени с полуночи до полудня, особенно с рассвета до полудня."
+    }, {
+        "de": "die Vorfreude",
+        "en": "anticipation",
+        "ru": "предвкушение",
+        "descriptionEN": "the feeling of excitement and expectation before a significant event.",
+        "descriptionRU": "чувство волнения и ожидания перед значительным событием."
+    }, {
+        "de": "der Charme",
+        "en": "charm",
+        "ru": "очарование",
+        "descriptionEN": "the power or quality of giving delight or arousing admiration.",
+        "descriptionRU": "сила или качество, придающее восторг или вызывающее восхищение."
+    }, {
+        "de": "die Herzlichkeit",
+        "en": "warmth",
+        "ru": "теплота",
+        "descriptionEN": "the quality or state of being warm; friendliness and cordiality.",
+        "descriptionRU": "качество или состояние теплоты; дружелюбие и сердечность."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings.",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий."
+    }, {
+        "de": "die Kulturgeschichte",
+        "en": "cultural history",
+        "ru": "культурная история",
+        "descriptionEN": "the study of cultural traditions, practices, and societal development over time.",
+        "descriptionRU": "изучение культурных традиций, практик и общественного развития в течение времени."
+    }, {
+        "de": "das Konzert",
+        "en": "concert",
+        "ru": "концерт",
+        "descriptionEN": "a musical performance in which several voices or instruments take part.",
+        "descriptionRU": "музыкальное выступление, в котором принимают участие несколько голосов или инструментов."
+    }, {
+        "de": "die Sehenswürdigkeit",
+        "en": "sightseeing attraction",
+        "ru": "достопримечательность",
+        "descriptionEN": "a place of interest that tourists visit for its cultural, historical, or natural significance.",
+        "descriptionRU": "место интереса, которое туристы посещают из-за его культурного, исторического или природного значения."
+    }, {
+        "de": "der Bauernmarkt",
+        "en": "farmers' market",
+        "ru": "фермерский рынок",
+        "descriptionEN": "a market where farmers sell their produce directly to consumers.",
+        "descriptionRU": "рынок, где фермеры продают свою продукцию напрямую потребителям."
+    }, {
+        "de": "die Sonne",
+        "en": "sun",
+        "ru": "солнце",
+        "descriptionEN": "the star around which the Earth orbits, providing light and heat.",
+        "descriptionRU": "звезда, вокруг которой вращается Земля, обеспечивая свет и тепло."
+    }, {
+        "de": "beschaulich",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or charming way.",
+        "descriptionRU": "визуально привлекательный, особенно в живописном или очаровательном стиле."
+    }, {
+        "de": "prächtig",
+        "en": "splendid",
+        "ru": "великолепный",
+        "descriptionEN": "impressive in appearance; magnificent.",
+        "descriptionRU": "впечатляющий внешне; великолепный."
+    }, {
+        "de": "blühend",
+        "en": "thriving",
+        "ru": "процветающий",
+        "descriptionEN": "growing or developing well; flourishing.",
+        "descriptionRU": "хорошо растущий или развивающийся; процветающий."
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "related to the past, especially the history of a place, person, or event.",
+        "descriptionRU": "связанный с прошлым, особенно историей места, человека или события."
+    }, {
+        "de": "renommiert",
+        "en": "renowned",
+        "ru": "признанный",
+        "descriptionEN": "widely known and respected; famous.",
+        "descriptionRU": "широко известный и уважаемый; известный."
+    }, {
+        "de": "friedlich",
+        "en": "peaceful",
+        "ru": "мирный",
+        "descriptionEN": "characterized by a lack of violence or disturbance.",
+        "descriptionRU": "характеризующийся отсутствием насилия или беспорядка."
+    }, {
+        "de": "entspannt",
+        "en": "relaxed",
+        "ru": "расслабленный",
+        "descriptionEN": "free from tension and anxiety; at ease.",
+        "descriptionRU": "освобожденный от напряжения и беспокойства; спокойный."
+    }, {
+        "de": "lecker",
+        "en": "delicious",
+        "ru": "вкусный",
+        "descriptionEN": "highly pleasant to the taste; very tasty.",
+        "descriptionRU": "очень приятный на вкус; очень вкусный."
+    }, {
+        "de": "gemütlich",
+        "en": "cozy",
+        "ru": "уютный",
+        "descriptionEN": "giving a feeling of comfort, warmth, and relaxation.",
+        "descriptionRU": "создающий ощущение комфорта, тепла и расслабления."
+    }, {
+        "de": "freundlich",
+        "en": "friendly",
+        "ru": "дружелюбный",
+        "descriptionEN": "kind and pleasant; behaving in a pleasant, kind way.",
+        "descriptionRU": "добрый и приятный; ведущий себя приятным и добрым образом."
+    }, {
+        "de": "entscheidend",
+        "en": "decisive",
+        "ru": "решающий",
+        "descriptionEN": "settling an issue; producing a definite result.",
+        "descriptionRU": "решение вопроса; производящий определенный результат."
+    }, {
+        "de": "versteckt",
+        "en": "hidden",
+        "ru": "скрытый",
+        "descriptionEN": "not easily seen or noticed; concealed.",
+        "descriptionRU": "не легко видимый или заметный; скрытый."
+    }
+]
