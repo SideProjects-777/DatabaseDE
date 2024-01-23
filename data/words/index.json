@@ -303,5 +303,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/ErsteMal.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/ErsteMal.jpg"
+    }, {
+        "title": {
+            "de": "Die Geheimnisse der verlorenen Tasche",
+            "en": "The Mysteries of the Lost Purse",
+            "ru": "Тайны потерянной сумки"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Geheimnisse.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Geheimnisse.jpg"
     }
 ]

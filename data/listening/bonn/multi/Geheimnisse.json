@@ -1,0 +1,175 @@
+[
+    {
+        "name": "Wer wurde als Dieb identifiziert?",
+        "answers": [
+            {
+                "text": "Sattar",
+                "correct": true
+            }, {
+                "text": "Michael",
+                "correct": false
+            }, {
+                "text": "Frieda",
+                "correct": false
+            }, {
+                "text": "Niemand, der Dieb wurde nicht gefunden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum funktionierte die Sicherheitskamera in der Oper nicht an diesem Abend?",
+        "answers": [
+
+            {
+                "text": "Wartungsarbeiten",
+                "correct": false
+            }, {
+                "text": "Technisches Versagen",
+                "correct": false
+            }, {
+                "text": "Stromausfall",
+                "correct": true
+            }, {
+                "text": "Es gab keine Sicherheitskamera",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was befand sich in Annas gestohlener Handtasche?",
+        "answers": [
+
+            {
+                "text": "Schlüssel, Lippenstift, Taschentuch",
+                "correct": false
+            }, {
+                "text": "Handy, Portemonnaie, wichtige Dokumente",
+                "correct": true
+            }, {
+                "text": "Laptop, Bücher, Brille",
+                "correct": false
+            }, {
+                "text": "Kleidung, Schuhe, Schmuck",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer war Annas Komplize?",
+        "answers": [
+            {
+                "text": "Sattar",
+                "correct": false
+            }, {
+                "text": "Michael",
+                "correct": true
+            }, {
+                "text": "Markus",
+                "correct": false
+            }, {
+                "text": "Frieda",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo arbeitete Michael in der Oper?",
+        "answers": [
+            {
+                "text": "Als Juwelier",
+                "correct": false
+            }, {
+                "text": "Als Opernsänger",
+                "correct": false
+            }, {
+                "text": "Als Putzfrau",
+                "correct": false
+            }, {
+                "text": "Als Wachmann",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was wurde aus Annas gestohlener Geldbörse?",
+        "answers": [
+            {
+                "text": "Gefunden",
+                "correct": true
+            }, {
+                "text": "Verkauft",
+                "correct": false
+            }, {
+                "text": "Zerstört",
+                "correct": false
+            }, {
+                "text": "Verschwunden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum wurde Markus als Privatdetektiv tätig?",
+        "answers": [
+            {
+                "text": "Er hatte nichts Besseres zu tun",
+                "correct": false
+            }, {
+                "text": "Er wurde aus dem Polizeidienst entlassen",
+                "correct": true
+            }, {
+                "text": "Er liebte Kriminalgeschichten",
+                "correct": false
+            }, {
+                "text": "Er wollte reich werden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machte Markus, als das Telefon klingelte?",
+        "answers": [
+            {
+                "text": "Er ging ins Theater",
+                "correct": false
+            }, {
+                "text": "Er nahm den Hörer ab",
+                "correct": true
+            }, {
+                "text": "Er ignorierte es",
+                "correct": false
+            }, {
+                "text": "Er schloss sein Büro ab",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Eigenschaft wird Anna zugeschrieben?",
+        "answers": [
+            {
+                "text": "Groß und schlank",
+                "correct": false
+            }, {
+                "text": "Zierlich mit lockigem Haar",
+                "correct": true
+            }, {
+                "text": "Älter mit blondem Haar",
+                "correct": false
+            }, {
+                "text": "Sportlich und kurzhaarig",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Markus' Reaktion, als er die Diebe gefunden hatte?",
+        "answers": [
+            {
+                "text": "Er wurde wütend",
+                "correct": false
+            }, {
+                "text": "Er rief die Polizei",
+                "correct": true
+            }, {
+                "text": "Er ignorierte es",
+                "correct": false
+            }, {
+                "text": "Er half ihnen zu entkommen",
+                "correct": false
+            }
+        ]
+    }
+]

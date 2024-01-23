@@ -111,5 +111,21 @@
         "file": "Fahrradtour.mp3",
         "words": "Fahrradtour.json",
         "multi": "Fahrradtour.json"
+    }, {
+        "name": {
+            "de": "Die Geheimnisse der verlorenen Tasche",
+            "en": "The Mysteries of the Lost Purse",
+            "ru": "Тайны потерянной сумки"
+        },
+        "description": {
+            "de": "Markus' Ermittlung in der Oper",
+            "en": "Markus' Investigation at the Opera",
+            "ru": "Расследование Маркуса в оперном театре"
+        },
+        "level": "A2",
+        "image": "Geheimnisse.jpg",
+        "file": "Geheimnisse.mp3",
+        "words": "Geheimnisse.json",
+        "multi": "Geheimnisse.json"
     }
 ]

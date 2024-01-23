@@ -1,0 +1,213 @@
+[
+    {
+        "de": "das Opernhaus",
+        "en": "opera house",
+        "ru": "оперный театр",
+        "descriptionEN": "A venue for opera performances.",
+        "descriptionRU": "Место для проведения оперных представлений."
+    }, {
+        "de": "die Aufführung",
+        "en": "performance",
+        "ru": "представление",
+        "descriptionEN": "A public presentation of a play, concert, or other form of entertainment.",
+        "descriptionRU": "Публичное представление пьесы, концерта или другого вида развлечения."
+    }, {
+        "de": "der Diebstahl",
+        "en": "theft",
+        "ru": "кража",
+        "descriptionEN": "The act of stealing; the wrongful taking and carrying away of someone else's property.",
+        "descriptionRU": "Акт кражи; незаконное похищение и унесение чужого имущества."
+    }, {
+        "de": "der Detektiv",
+        "en": "detective",
+        "ru": "детектив",
+        "descriptionEN": "A person, usually a private investigator, who investigates and solves crimes.",
+        "descriptionRU": "Человек, обычно частный детектив, занимающийся расследованием и разгадыванием преступлений."
+    }, {
+        "de": "die Herausforderung",
+        "en": "challenge",
+        "ru": "вызов",
+        "descriptionEN": "A demanding or stimulating situation that requires effort and skill to overcome.",
+        "descriptionRU": "Требующая усилий и навыков ситуация, стимулирующая к преодолению."
+    }, {
+        "de": "das Büro",
+        "en": "office",
+        "ru": "офис",
+        "descriptionEN": "A room or set of rooms used for administrative, professional, or business activities.",
+        "descriptionRU": "Комната или набор комнат, используемых для административной, профессиональной или деловой деятельности."
+    }, {
+        "de": "die Handtasche",
+        "en": "handbag",
+        "ru": "сумка",
+        "descriptionEN": "A small bag, typically carried by women, used for holding personal items.",
+        "descriptionRU": "Маленькая сумка, обычно носимая женщинами, используемая для хранения личных вещей."
+    }, {
+        "de": "der Stromausfall",
+        "en": "power outage",
+        "ru": "отключение электроэнергии",
+        "descriptionEN": "A period during which the electricity supply to a particular area is interrupted.",
+        "descriptionRU": "Период, в течение которого прерывается подача электроэнергии в конкретном районе."
+    }, {
+        "de": "die Sicherheitskamera",
+        "en": "security camera",
+        "ru": "камера видеонаблюдения",
+        "descriptionEN": "A device that monitors and records activities in a specific area for security purposes.",
+        "descriptionRU": "Устройство, отслеживающее и записывающее деятельность в конкретной зоне в целях обеспечения безопасности."
+    }, {
+        "de": "der Wachmann",
+        "en": "security guard",
+        "ru": "охранник",
+        "descriptionEN": "A person employed to protect property and individuals from theft or harm.",
+        "descriptionRU": "Человек, нанятый для защиты собственности и людей от кражи или ущерба."
+    }, {
+        "de": "die Spur",
+        "en": "trace",
+        "ru": "след",
+        "descriptionEN": "A mark or series of marks left by the passage of someone or something.",
+        "descriptionRU": "Отметина или серия отметин, оставленных проходом кого-то или чего-то."
+    }, {
+        "de": "die Polizei",
+        "en": "police",
+        "ru": "полиция",
+        "descriptionEN": "A civil force responsible for maintaining public order and safety.",
+        "descriptionRU": "Гражданская сила, ответственная за поддержание общественного порядка и безопасности."
+    }, {
+        "de": "die Putzfrau",
+        "en": "cleaning lady",
+        "ru": "уборщица",
+        "descriptionEN": "A woman employed to clean and maintain the cleanliness of a building or residence.",
+        "descriptionRU": "Женщина, нанятая для уборки и поддержания чистоты в здании или жилом помещении."
+    }, {
+        "de": "der Verbrecher",
+        "en": "criminal",
+        "ru": "преступник",
+        "descriptionEN": "A person who commits crimes, especially those involving violence or theft.",
+        "descriptionRU": "Человек, совершающий преступления, особенно с использованием насилия или кражи."
+    }, {
+        "de": "die Überwachungsaufzeichnung",
+        "en": "surveillance recording",
+        "ru": "запись видеонаблюдения",
+        "descriptionEN": "A recording of monitored activities captured by surveillance cameras.",
+        "descriptionRU": "Запись отслеживаемых действий, сделанных камерами видеонаблюдения."
+    }, {
+        "de": "die Zusammenarbeit",
+        "en": "collaboration",
+        "ru": "сотрудничество",
+        "descriptionEN": "The action of working together with others for a common purpose.",
+        "descriptionRU": "Действие совместной работы с другими людьми для достижения общей цели."
+    }, {
+        "de": "die Schuld",
+        "en": "guilt",
+        "ru": "вина",
+        "descriptionEN": "A feeling of responsibility or remorse for some offense, crime, or wrong.",
+        "descriptionRU": "Чувство ответственности или раскаяния за какое-то преступление, проступок или неправильное деяние."
+    }, {
+        "de": "der Alltag",
+        "en": "everyday life",
+        "ru": "повседневная жизнь",
+        "descriptionEN": "The routine or ordinary aspects of daily existence.",
+        "descriptionRU": "Рутина или обыденные аспекты повседневного существования."
+    }, {
+        "de": "die Dankbarkeit",
+        "en": "gratitude",
+        "ru": "благодарность",
+        "descriptionEN": "The quality of being thankful and appreciative.",
+        "descriptionRU": "Качество благодарности и признательности."
+    }, {
+        "de": "ermitteln",
+        "en": "investigate",
+        "ru": "расследовать",
+        "descriptionEN": "To carry out a systematic inquiry or examination into a crime or other matter.",
+        "descriptionRU": "Проводить систематическое расследование или исследование преступления или другого вопроса."
+    }, {
+        "de": "lösen",
+        "en": "solve",
+        "ru": "решать",
+        "descriptionEN": "To find an answer or explanation for a problem or question.",
+        "descriptionRU": "Находить ответ или объяснение проблемы или вопроса."
+    }, {
+        "de": "sprechen",
+        "en": "speak",
+        "ru": "говорить",
+        "descriptionEN": "To communicate using words; to express thoughts, feelings, or information verbally.",
+        "descriptionRU": "Общаться, используя слова; выражать мысли, чувства или информацию вербально."
+    }, {
+        "de": "helfen",
+        "en": "help",
+        "ru": "помогать",
+        "descriptionEN": "To give assistance or support to someone in need.",
+        "descriptionRU": "Предоставлять помощь или поддержку тому, кто нуждается."
+    }, {
+        "de": "beschreiben",
+        "en": "describe",
+        "ru": "описывать",
+        "descriptionEN": "To give an account in words of the characteristics or qualities of someone or something.",
+        "descriptionRU": "Давать описание характеристик или качеств кого-то или чего-то словами."
+    }, {
+        "de": "notieren",
+        "en": "note down",
+        "ru": "записывать",
+        "descriptionEN": "To make a written record or notation of something.",
+        "descriptionRU": "Сделать письменную запись или нотацию чего-то."
+    }, {
+        "de": "erfahren",
+        "en": "experience",
+        "ru": "переживать",
+        "descriptionEN": "To have practical contact with and observation of facts or events.",
+        "descriptionRU": "Иметь практический контакт и наблюдение за фактами или событиями."
+    }, {
+        "de": "verständnisvoll",
+        "en": "understanding",
+        "ru": "понимающий",
+        "descriptionEN": "Having the ability to comprehend or empathize with someone's feelings or situation.",
+        "descriptionRU": "Обладающий способностью понимать или сопереживать чувствам или ситуации кого-то."
+    }, {
+        "de": "enttäuscht",
+        "en": "disappointed",
+        "ru": "разочарованный",
+        "descriptionEN": "Feeling let down or disillusioned when expectations are not met.",
+        "descriptionRU": "Чувство разочарования или разочарования, когда ожидания не оправдались."
+    }, {
+        "de": "bekannt",
+        "en": "known",
+        "ru": "известный",
+        "descriptionEN": "Recognized or familiar to a person.",
+        "descriptionRU": "Признанный или знакомый человеку."
+    }, {
+        "de": "erfolgreich",
+        "en": "successful",
+        "ru": "успешный",
+        "descriptionEN": "Achieving the desired aims or results.",
+        "descriptionRU": "Достижение желаемых целей или результатов."
+    }, {
+        "de": "exquisit",
+        "en": "exquisite",
+        "ru": "изысканный",
+        "descriptionEN": "Extremely beautiful and, typically, delicate.",
+        "descriptionRU": "Чрезвычайно красивый и, как правило, изящный."
+    }, {
+        "de": "besorgt",
+        "en": "concerned",
+        "ru": "обеспокоенный",
+        "descriptionEN": "Worried, troubled, or anxious about something.",
+        "descriptionRU": "Обеспокоенный, встревоженный или тревожный из-за чего-то."
+    }, {
+        "de": "erfreut",
+        "en": "pleased",
+        "ru": "довольный",
+        "descriptionEN": "Feeling happy and satisfied with a situation or outcome.",
+        "descriptionRU": "Чувство счастья и удовлетворения ситуацией или результатом."
+    }, {
+        "de": "bekannt",
+        "en": "familiar",
+        "ru": "знакомый",
+        "descriptionEN": "Well-known or easily recognized because of being seen, met, heard, etc., before.",
+        "descriptionRU": "Хорошо известный или легко узнаваемый из-за предыдущих встреч, встреч, слышанных и т. д."
+    }, {
+        "de": "herzlich",
+        "en": "warm",
+        "ru": "теплый",
+        "descriptionEN": "Having or giving off a moderate degree of heat.",
+        "descriptionRU": "Имеющий или излучающий умеренную степень тепла."
+    }
+]
