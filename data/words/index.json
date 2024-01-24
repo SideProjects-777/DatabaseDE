@@ -311,5 +311,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Geheimnisse.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Geheimnisse.jpg"
+    }, {
+        "title": {
+            "de": "Süße Geheimnisse von Bonn",
+            "en": "Sweet Secrets of Bonn",
+            "ru": "Сладкие тайны Бонна"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg"
     }
 ]

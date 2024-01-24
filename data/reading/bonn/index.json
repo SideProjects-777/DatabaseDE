@@ -81,6 +81,22 @@
         "multi": "Weekend.json"
     }, {
         "name": {
+            "de": "Süße Geheimnisse von Bonn",
+            "en": "Sweet Secrets of Bonn",
+            "ru": "Сладкие тайны Бонна"
+        },
+        "description": {
+            "de": "Die phantasievolle Süßigkeitenkarte von Maria Schmidt",
+            "en": "Maria Schmidt's Whimsical Candy Map",
+            "ru": "Волшебная карта конфет от Марии Шмидт"
+        },
+        "level": "B1",
+        "image": "Geheimnisse.jpg",
+        "file": "Geheimnisse.txt",
+        "words": "Geheimnisse.json",
+        "multi": "Geheimnisse.json"
+    },{
+        "name": {
             "de": "Ein Besuch beim Arzt",
             "en": "A Visit to the Doctor",
             "ru": "Визит к врачу"

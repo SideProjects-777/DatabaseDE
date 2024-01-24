@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wer hat die skurrile Karte von Bonn entworfen?",
+        "answers": [
+            {
+                "text": "Haribo",
+                "correct": false
+            }, {
+                "text": "Beethoven",
+                "correct": false
+            }, {
+                "text": "Maria",
+                "correct": true
+            }, {
+                "text": "Poppelsdorfer",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Maria Schmidt besonders am Haribo Factory Outlet angezogen?",
+        "answers": [
+            {
+                "text": "Die Architektur des Gebäudes",
+                "correct": false
+            }, {
+                "text": "Die bunte Auswahl an Süßigkeiten",
+                "correct": true
+            }, {
+                "text": "Die Lage in der Stadt",
+                "correct": false
+            }, {
+                "text": "Die günstigen Preise",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Maria Schmidt dazu inspiriert, die Karte von Bonn zu erstellen?",
+        "answers": [
+            {
+                "text": "Die historischen Wahrzeichen",
+                "correct": false
+            }, {
+                "text": "Die kulinarische Vielfalt der Stadt",
+                "correct": false
+            }, {
+                "text": "Die Idee, alltägliche Dinge in Kunst zu verwandeln",
+                "correct": true
+            }, {
+                "text": "Die Anzahl der Touristen in Bonn",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Wahrzeichen wurde in der Karte durch ein 'Gummibärchenhaus' ersetzt?",
+        "answers": [
+            {
+                "text": "Beethovenhauses",
+                "correct": false
+            }, {
+                "text": "Beethoven-Statue",
+                "correct": false
+            }, {
+                "text": "Poppelsdorfer Schloss",
+                "correct": false
+            }, {
+                "text": "Das Wahrzeichen der Stadt",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist die Botschaft von Marias Karte?",
+        "answers": [
+            {
+                "text": "Die Bedeutung kleiner Freuden im Leben",
+                "correct": true
+            }, {
+                "text": "Die Wichtigkeit von großen Sehenswürdigkeiten",
+                "correct": false
+            }, {
+                "text": "Die Bedeutung von Kunst in der Stadt",
+                "correct": false
+            },  {
+                "text": "Die Geschichte des Haribo Factory Outlets",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Maria in ihrer Karte als 'Cupcake Corner' und 'Candy Cane Lane' eingebunden?",
+        "answers": [
+            {
+                "text": "Versteckte Kleinode in Bonn",
+                "correct": true
+            }, {
+                "text": "Bekannte Sehenswürdigkeiten",
+                "correct": false
+            }, {
+                "text": "Haribo-Spezialitäten",
+                "correct": false
+            }, {
+                "text": "Kunstgalerien in der Stadt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Reaktion hat Maria auf die Resonanz ihrer Karte?",
+        "answers": [
+            {
+                "text": "Sie ist überrascht von der negativen Rückmeldung",
+                "correct": false
+            }, {
+                "text": "Die Resonanz ist überwältigend",
+                "correct": true
+            }, {
+                "text": "Sie erwartet mehr Anerkennung",
+                "correct": false
+            }, {
+                "text": "Sie hat keine Kommentare dazu abgegeben",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Maria am Haribo Factory Outlet als perfektes Motiv für ihr Projekt empfunden?",
+        "answers": [
+            {
+                "text": "Die Preise der Süßigkeiten",
+                "correct": false
+            }, {
+                "text": "Die Vielfalt der Süßigkeiten",
+                "correct": false
+            }, {
+                "text": "Die Architektur des Gebäudes",
+                "correct": false
+            }, {
+                "text": "Die Inspirationsquelle für ihr nächstes Projekt",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Art von Laden ist das Haribo Factory Outlet?",
+        "answers": [
+            {
+                "text": "Ein Schokoladenladen",
+                "correct": false
+            }, {
+                "text": "Ein Süßwarenladen",
+                "correct": true
+            }, {
+                "text": "Ein Kunsthandwerksladen",
+                "correct": false
+            }, {
+                "text": "Ein Bekleidungsgeschäft",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was zeigt die Karte von Bonn laut Maria außer lustigen und verspielten Orten?",
+        "answers": [
+            {
+                "text": "Historische Denkmäler",
+                "correct": false
+            }, {
+                "text": "Die Vielfalt und Lebendigkeit der Süßigkeitenkultur der Stadt",
+                "correct": true
+            }, {
+                "text": "Moderne Kunstgalerien",
+                "correct": false
+            }, {
+                "text": "Versteckte Naturorte",
+                "correct": false
+            }
+        ]
+    }
+]
