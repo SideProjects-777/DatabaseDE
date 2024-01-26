@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wer ist die Hauptfigur in der Geschichte?",
+        "answers": [
+            {
+                "text": "Luz Long",
+                "correct": true
+            }, {
+                "text": "Jesse Owens",
+                "correct": false
+            }, {
+                "text": "Muhammad Ali",
+                "correct": false
+            }, {
+                "text": "Emil Zátopek",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machte den Wachmann anfangs besorgt?",
+        "answers": [
+            {
+                "text": "Flackernde Lichter",
+                "correct": false
+            }, {
+                "text": "Seltsame Geräusche",
+                "correct": false
+            }, {
+                "text": "Türen, die sich von selbst öffneten und schlossen",
+                "correct": false
+            }, {
+                "text": "Mysteriöse Ereignisse in der Nacht",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wer sprach mit dem Wachmann und enthüllte, ein Geist zu sein?",
+        "answers": [
+            {
+                "text": "Jesse Owens",
+                "correct": false
+            }, {
+                "text": "Luz Long",
+                "correct": true
+            }, {
+                "text": "Muhammad Ali",
+                "correct": false
+            }, {
+                "text": "Emil Zátopek",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum streifen die Geister durch die Hallen des Museums?",
+        "answers": [
+            {
+                "text": "Um Unruhe und Chaos zu stiften",
+                "correct": false
+            }, {
+                "text": "Um die Arbeit des Wachmanns zu behindern",
+                "correct": false
+            }, {
+                "text": "Um die Geschichte des Sports zu erleben",
+                "correct": true
+            }, {
+                "text": "Um Artefakte zu stehlen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Sportler führte den Wachmann durch das Museum?",
+        "answers": [
+            {
+                "text": "Muhammad Ali",
+                "correct": false
+            }, {
+                "text": "Jesse Owens",
+                "correct": false
+            }, {
+                "text": "Luz Long",
+                "correct": true
+            }, {
+                "text": "Emil Zátopek",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fand der Wachmann angenehm in seinen Nachtschichten?",
+        "answers": [
+            {
+                "text": "Seltsame Geräusche",
+                "correct": false
+            }, {
+                "text": "Gefühl der Gefahr",
+                "correct": false
+            }, {
+                "text": "Geschichten der legendären Sportler",
+                "correct": true
+            }, {
+                "text": "Unruhe und Chaos",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer gewann vier Goldmedaillen bei den Olympischen Spielen 1936 in Berlin?",
+        "answers": [
+            {
+                "text": "Luz Long",
+                "correct": false
+            }, {
+                "text": "Muhammad Ali",
+                "correct": false
+            }, {
+                "text": "Emil Zátopek",
+                "correct": false
+            }, {
+                "text": "Jesse Owens",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wovon erzählte Luz Long dem Wachmann?",
+        "answers": [
+            {
+                "text": "Seinen Lieblingsfilm",
+                "correct": false
+            }, {
+                "text": "Seine olympischen Triumphe und Freundschaften",
+                "correct": true
+            }, {
+                "text": "Seine Kochrezepte",
+                "correct": false
+            }, {
+                "text": "Seine Angst vor Geistern",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fühlte der Wachmann, als Luz Long weiter erzählte?",
+        "answers": [
+            {
+                "text": "Langeweile",
+                "correct": false
+            }, {
+                "text": "Ehrfurcht und Staunen",
+                "correct": true
+            }, {
+                "text": "Furcht vor Geistern",
+                "correct": false
+            }, {
+                "text": "Desinteresse",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Rolle spielten die freundlichen Geister?",
+        "answers": [
+            {
+                "text": "Sie sorgten für Unruhe und Chaos",
+                "correct": false
+            }, {
+                "text": "Sie halfen, die bösen Geister in Schach zu halten",
+                "correct": true
+            }, {
+                "text": "Sie stahlen Artefakte",
+                "correct": false
+            }, {
+                "text": "Sie verursachten mysteriöse Ereignisse",
+                "correct": false
+            }
+        ]
+    }
+]

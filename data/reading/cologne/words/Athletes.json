@@ -1,0 +1,183 @@
+[
+    {
+        "de": "der Wachmann",
+        "en": "guard",
+        "ru": "страж",
+        "descriptionEN": "a person responsible for protecting and ensuring the safety of a place or people.",
+        "descriptionRU": "человек, ответственный за защиту и обеспечение безопасности места или людей."
+    }, {
+        "de": "die Aufgabe",
+        "en": "task",
+        "ru": "задача",
+        "descriptionEN": "a piece of work to be done or undertaken.",
+        "descriptionRU": "работа, которую нужно выполнить или предпринять."
+    }, {
+        "de": "das Museum",
+        "en": "museum",
+        "ru": "музей",
+        "descriptionEN": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+    }, {
+        "de": "die Leistung",
+        "en": "achievement",
+        "ru": "достижение",
+        "descriptionEN": "a thing done successfully with effort, skill, or courage.",
+        "descriptionRU": "дело, успешно выполненное усилиями, навыками или смелостью."
+    }, {
+        "de": "die Ehrfurcht",
+        "en": "awe",
+        "ru": "трепет",
+        "descriptionEN": "a feeling of reverential respect mixed with fear or wonder.",
+        "descriptionRU": "чувство благоговения, смешанное с страхом или удивлением."
+    }, {
+        "de": "die Angst",
+        "en": "fear",
+        "ru": "страх",
+        "descriptionEN": "an unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
+        "descriptionRU": "неприятное эмоциональное состояние, вызванное убеждением, что кто-то или что-то опасно, вероятно, причинит боль или угрожает."
+    }, {
+        "de": "die Erscheinung",
+        "en": "apparition",
+        "ru": "явление",
+        "descriptionEN": "a ghost or ghostlike image of a person.",
+        "descriptionRU": "призрак или призрачное изображение человека."
+    }, {
+        "de": "der Athlet",
+        "en": "athlete",
+        "ru": "атлет",
+        "descriptionEN": "a person who is proficient in sports and other forms of physical exercise.",
+        "descriptionRU": "человек, в совершенстве владеющий спортом и другими формами физических упражнений."
+    }, {
+        "de": "der Trainingsanzug",
+        "en": "tracksuit",
+        "ru": "спортивный костюм",
+        "descriptionEN": "a two-piece outfit consisting of trousers and a matching jacket, typically worn for athletic activities.",
+        "descriptionRU": "двухчастный наряд, состоящий из брюк и подходящей куртки, обычно носимый при занятиях спортом."
+    }, {
+        "de": "die Liebe",
+        "en": "love",
+        "ru": "любовь",
+        "descriptionEN": "an intense feeling of deep affection.",
+        "descriptionRU": "интенсивное чувство глубокой привязанности."
+    }, {
+        "de": "die Freundschaft",
+        "en": "friendship",
+        "ru": "дружба",
+        "descriptionEN": "a mutual affection between people.",
+        "descriptionRU": "взаимная привязанность между людьми."
+    }, {
+        "de": "der Triumpf",
+        "en": "triumph",
+        "ru": "триумф",
+        "descriptionEN": "a great victory or achievement.",
+        "descriptionRU": "великая победа или достижение."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events.",
+        "descriptionRU": "изучение прошлых событий."
+    }, {
+        "de": "die Nachtschicht",
+        "en": "night shift",
+        "ru": "ночная смена",
+        "descriptionEN": "a period of work that takes place during the night.",
+        "descriptionRU": "период работы, который происходит в течение ночи."
+    }, {
+        "de": "das Artefakt",
+        "en": "artifact",
+        "ru": "артефакт",
+        "descriptionEN": "an object made by a human being, typically an item of cultural or historical interest.",
+        "descriptionRU": "предмет, созданный человеком, обычно предмет культурного или исторического интереса."
+    }, {
+        "de": "die Erinnerung",
+        "en": "memory",
+        "ru": "память",
+        "descriptionEN": "the faculty by which the mind stores and remembers information.",
+        "descriptionRU": "способность ума хранить и запоминать информацию."
+    }, {
+        "de": "das Exponat",
+        "en": "exhibit",
+        "ru": "экспонат",
+        "descriptionEN": "an object or display shown for public entertainment or education.",
+        "descriptionRU": "предмет или дисплей, предназначенный для общественного развлечения или образования."
+    }, {
+        "de": "seltsam",
+        "en": "strange",
+        "ru": "странный",
+        "descriptionEN": "unusual or surprising in a way that is unsettling or hard to understand.",
+        "descriptionRU": "необычный или удивительный таким образом, что это настораживает или трудно понять."
+    }, {
+        "de": "mysteriös",
+        "en": "mysterious",
+        "ru": "загадочный",
+        "descriptionEN": "difficult or impossible to understand, explain, or identify.",
+        "descriptionRU": "трудно или невозможно понять, объяснить или идентифицировать."
+    }, {
+        "de": "freundlich",
+        "en": "friendly",
+        "ru": "дружелюбный",
+        "descriptionEN": "kind and pleasant.",
+        "descriptionRU": "добрый и приятный."
+    }, {
+        "de": "böse",
+        "en": "evil",
+        "ru": "злой",
+        "descriptionEN": "profoundly immoral and wicked.",
+        "descriptionRU": "глубоко аморальный и зловещий."
+    }, {
+        "de": "besonders",
+        "en": "special",
+        "ru": "особенный",
+        "descriptionEN": "better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "лучше, величественнее или иным образом отличается от обычного."
+    }, {
+        "de": "selbst",
+        "en": "self",
+        "ru": "сам",
+        "descriptionEN": "a person's essential being that distinguishes them from others.",
+        "descriptionRU": "сущность человека, отличающая его от других."
+    }, {
+        "de": "einmalig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind.",
+        "descriptionRU": "будучи единственным в своем роде."
+    }, {
+        "de": "sorgen",
+        "en": "care",
+        "ru": "заботиться",
+        "descriptionEN": "to provide for the needs of something or someone.",
+        "descriptionRU": "обеспечивать потребности чего-то или кого-то."
+    }, {
+        "de": "würdigen",
+        "en": "appreciate",
+        "ru": "ценить",
+        "descriptionEN": "to recognize the value or significance of someone or something.",
+        "descriptionRU": "признавать ценность или значимость кого-то или чего-то."
+    }, {
+        "de": "patrouillieren",
+        "en": "patrol",
+        "ru": "патрулировать",
+        "descriptionEN": "to engage in regular surveillance of an area.",
+        "descriptionRU": "осуществлять регулярное наблюдение за областью."
+    }, {
+        "de": "überprüfen",
+        "en": "check",
+        "ru": "проверять",
+        "descriptionEN": "to inspect or examine something for accuracy or correctness.",
+        "descriptionRU": "осматривать или проверять что-то на точность или правильность."
+    }, {
+        "de": "erfüllen",
+        "en": "fulfill",
+        "ru": "выполнять",
+        "descriptionEN": "to carry out or bring to realization.",
+        "descriptionRU": "осуществлять или воплощать в жизнь."
+    }, {
+        "de": "beginnen",
+        "en": "begin",
+        "ru": "начинать",
+        "descriptionEN": "to start or commence an action or process.",
+        "descriptionRU": "начинать или начинать действие или процесс."
+    }
+]

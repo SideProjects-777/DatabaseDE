@@ -319,5 +319,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg"
+    }, {
+        "title": {
+            "de": "Ein Blick in die Welt legendärer Sportler",
+            "en": "A Glimpse into the World of Legendary Athletes",
+            "ru": "Взгляд в мир легендарных спортсменов"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Athletes.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Athletes.jpg"
     }
 ]

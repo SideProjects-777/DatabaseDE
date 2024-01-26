@@ -129,6 +129,22 @@
         "multi": "Fremde_im_Dom.json"
     }, {
         "name": {
+            "de": "Ein Blick in die Welt legendärer Sportler",
+            "en": "A Glimpse into the World of Legendary Athletes",
+            "ru": "Взгляд в мир легендарных спортсменов"
+        },
+        "description": {
+            "de": "Nächtliche Begegnungen im Deutschen Sport & Olympia Museum",
+            "en": "Nightly Encounters at the German Sports & Olympic Museum",
+            "ru": "Ночные встречи в Немецком музее спорта и олимпийского движения"
+        },
+        "level": "B2",
+        "image": "Athletes.jpg",
+        "file": "Athletes.txt",
+        "words": "Athletes.json",
+        "multi": "Athletes.json"
+    }, {
+        "name": {
             "de": "Magie im Kölner Zoo",
             "en": "Magic at Cologne Zoo",
             "ru": "Волшебство в Кёльнском зоопарке"
