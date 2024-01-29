@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Die Kölner Seilbahn bietet keinen Blick über die Stadt und den Rhein.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Die Erzählerin saß alleine in der Seilbahn, als sie das junge Paar bemerkte.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Das junge Paar unterhielt sich nicht, als die Seilbahn in Bewegung war.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Der Geschäftsmann stieg am höchsten Punkt der Seilbahnfahrt ein.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Das Ehepaar war nicht beeindruckt von den Reisegeschichten des Geschäftsmanns.",
+        "tr": false,
+        "fle": true
+    },
+    {
+        "title": "Der Geschäftsmann entschuldigte sich für seine Verspätung, als er in die Seilbahn einstieg.",
+        "tr": true,
+        "fle": false
+    },
+    {
+        "title": "Das Ehepaar und die Erzählerin versicherten dem Geschäftsmann, dass seine Verspätung kein Problem sei.",
+        "tr": true,
+        "fle": false
+    }
+]

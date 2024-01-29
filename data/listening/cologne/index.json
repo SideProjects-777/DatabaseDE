@@ -98,8 +98,8 @@
     }, {
         "name": {
             "de": "Osterfest",
-            "en": "Пасха",
-            "ru": "Easter festival"
+            "en": "Easter festival",
+            "ru": "Пасха"
         },
         "description": {
             "de": "Von Trauer zu Freude",
@@ -111,5 +111,21 @@
         "file": "Ostern.mp3",
         "words": "Ostern.json",
         "multi": "Ostern.json"
+    }, {
+        "name": {
+            "de": "Unvergessliche Begegnungen",
+            "en": "Memorable Encounters",
+            "ru": "Незабвенные встречи"
+        },
+        "description": {
+            "de": "Eine Reise mit der Kölner Seilbahn",
+            "en": "A Journey on the Cologne Cable Car",
+            "ru": "Путешествие на Кельнской канатной дороге"
+        },
+        "level": "B2",
+        "image": "Seilbahn.jpg",
+        "file": "Seilbahn.mp3",
+        "words": "Seilbahn.json",
+        "yesNo": "Seilbahn.json"
     }
 ]

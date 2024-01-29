@@ -1,0 +1,262 @@
+[
+    {
+        "de": "fahren",
+        "en": "to travel",
+        "ru": "путешествовать",
+        "descriptionEN": "to go or move from one place to another.",
+        "descriptionRU": "двигаться или перемещаться из одного места в другое."
+    }, {
+        "de": "bieten",
+        "en": "to offer",
+        "ru": "предлагать",
+        "descriptionEN": "to present or proffer (something) for (someone) to accept or reject.",
+        "descriptionRU": "представлять или предлагать (что-то) для (кого-то), чтобы принять или отклонить."
+    }, {
+        "de": "vertiefen",
+        "en": "to deepen",
+        "ru": "углублять",
+        "descriptionEN": "to make or become deeper or more intense.",
+        "descriptionRU": "делать или становиться более глубоким или интенсивным."
+    }, {
+        "de": "ahnen",
+        "en": "to sense",
+        "ru": "чувствовать (предчувствие)",
+        "descriptionEN": "to have a feeling or presentiment of (something that will or is about to happen).",
+        "descriptionRU": "иметь чувство или предчувствие (чего-то, что произойдет или собирается произойти)."
+    }, {
+        "de": "tauschen",
+        "en": "to exchange",
+        "ru": "обмениваться",
+        "descriptionEN": "to give something and receive something of the same kind in return.",
+        "descriptionRU": "давать что-то и получать что-то такого же вида взамен."
+    }, {
+        "de": "verabschieden",
+        "en": "to bid farewell",
+        "ru": "прощаться",
+        "descriptionEN": "to say goodbye or take leave of someone.",
+        "descriptionRU": "прощаться или попрощаться с кем-то."
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий дух",
+        "descriptionEN": "impressively beautiful or stunning.",
+        "descriptionRU": "впечатляюще красивый или потрясающий."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабвенный",
+        "descriptionEN": "leaving a deep and lasting impression.",
+        "descriptionRU": "оставляющий глубокое и долговременное впечатление."
+    }, {
+        "de": "herzerwärmend",
+        "en": "heartwarming",
+        "ru": "сердечный",
+        "descriptionEN": "causing feelings of warmth and affection.",
+        "descriptionRU": "вызывающий чувства тепла и любви."
+    }, {
+        "de": "beeindruckt",
+        "en": "impressed",
+        "ru": "впечатленный",
+        "descriptionEN": "feeling admiration for someone or something.",
+        "descriptionRU": "чувствующий восхищение к кому-то или чему-то."
+    }, {
+        "de": "beeindruckend",
+        "en": "impressive",
+        "ru": "впечатляющий",
+        "descriptionEN": "evoking admiration through size, quality, or skill.",
+        "descriptionRU": "вызывающий восхищение размером, качеством или мастерством."
+    }, {
+        "de": "erstaunlich",
+        "en": "amazing",
+        "ru": "удивительный",
+        "descriptionEN": "causing great surprise or wonder; astonishing.",
+        "descriptionRU": "вызывающий большой сюрприз или удивление; поразительный."
+    }, {
+        "de": "unvergesslich",
+        "en": "memorable",
+        "ru": "памятный",
+        "descriptionEN": "worth remembering or easily remembered.",
+        "descriptionRU": "стоящий вспомнить или легко запоминаемый."
+    }, {
+        "de": "einfach",
+        "en": "simple",
+        "ru": "простой",
+        "descriptionEN": "not complicated or difficult; easy.",
+        "descriptionRU": "не сложный или трудный; легкий."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically.",
+        "descriptionRU": "угождающий чувствам или уму эстетически."
+    }, {
+        "de": "gemeinsam",
+        "en": "common",
+        "ru": "общий",
+        "descriptionEN": "belonging to or shared by two or more people or groups.",
+        "descriptionRU": "принадлежащий или разделяемый двумя или более людьми или группами."
+    }, {
+        "de": "schönheit",
+        "en": "beautifully",
+        "ru": "красиво",
+        "descriptionEN": "in a beautiful manner; pleasing to the senses or mind.",
+        "descriptionRU": "красивым образом; приятным для чувств или ума."
+    }, {
+        "de": "oft",
+        "en": "often",
+        "ru": "часто",
+        "descriptionEN": "many times at short intervals.",
+        "descriptionRU": "много раз с короткими интервалами."
+    }, {
+        "de": "einfach",
+        "en": "simply",
+        "ru": "просто",
+        "descriptionEN": "in a straightforward or plain manner.",
+        "descriptionRU": "прямым или простым образом."
+    }, {
+        "de": "die Seilbahn",
+        "en": "cable car",
+        "ru": "канатная дорога",
+        "descriptionEN": "a means of transportation in which cabins are suspended from a continuously moving cable.",
+        "descriptionRU": "средство передвижения, в котором кабины подвешены к непрерывно движущемуся канату."
+    }, {
+        "de": "der Blick",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "the sight or prospect of a landscape, area, or scene.",
+        "descriptionRU": "вид или перспектива ландшафта, области или сцены."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large human settlement with extensive systems for housing, transportation, commerce, and other activities.",
+        "descriptionRU": "большое человеческое поселение с развитой инфраструктурой для жилья, транспорта, коммерции и других видов деятельности."
+    }, {
+        "de": "der Rhein",
+        "en": "Rhine",
+        "ru": "Рейн",
+        "descriptionEN": "one of the major European rivers, flowing through Germany and several other countries.",
+        "descriptionRU": "одна из крупных европейских рек, протекающая через Германию и несколько других стран."
+    }, {
+        "de": "der Moment",
+        "en": "moment",
+        "ru": "момент",
+        "descriptionEN": "a very brief period of time.",
+        "descriptionRU": "очень короткий период времени."
+    }, {
+        "de": "das Gespräch",
+        "en": "conversation",
+        "ru": "беседа",
+        "descriptionEN": "an informal talk involving two or more people; an exchange of ideas or opinions.",
+        "descriptionRU": "неформальный разговор двух или более людей; обмен идеями или мнениями."
+    }, {
+        "de": "die Reise",
+        "en": "journey",
+        "ru": "путешествие",
+        "descriptionEN": "an act of traveling from one place to another, especially when involving a considerable distance.",
+        "descriptionRU": "движение из одного места в другое, особенно на значительное расстояние."
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "a belief or behavior passed down within a group or society with symbolic meaning or special significance.",
+        "descriptionRU": "вера или поведение, передаваемое в группе или обществе с символическим значением или особым значением."
+    }, {
+        "de": "der Fremde",
+        "en": "stranger",
+        "ru": "незнакомец",
+        "descriptionEN": "a person whom one does not know or with whom one is not familiar.",
+        "descriptionRU": "человек, которого кто-то не знает или с кем не знаком."
+    }, {
+        "de": "der Geschäftsmann",
+        "en": "businessman",
+        "ru": "бизнесмен",
+        "descriptionEN": "a man engaged in commercial, industrial, or professional activities.",
+        "descriptionRU": "мужчина, занимающийся коммерческой, промышленной или профессиональной деятельностью."
+    }, {
+        "de": "die Konferenz",
+        "en": "conference",
+        "ru": "конференция",
+        "descriptionEN": "a formal meeting for discussion or debate.",
+        "descriptionRU": "официальная встреча для обсуждения или дебатов."
+    }, {
+        "de": "die Aussicht",
+        "en": "panorama",
+        "ru": "панорама",
+        "descriptionEN": "a wide and unbroken view of a large area.",
+        "descriptionRU": "широкий и необрывный вид на большую территорию."
+    }, {
+        "de": "die Erinnerung",
+        "en": "memory",
+        "ru": "память",
+        "descriptionEN": "the faculty by which the mind stores and remembers information.",
+        "descriptionRU": "способность ума хранить и вспоминать информацию."
+    }, {
+        "de": "die Freundschaft",
+        "en": "friendship",
+        "ru": "дружба",
+        "descriptionEN": "a state of mutual trust and support between individuals.",
+        "descriptionRU": "состояние взаимного доверия и поддержки между людьми."
+    }, {
+        "de": "die Bindung",
+        "en": "bond",
+        "ru": "связь",
+        "descriptionEN": "a close connection joining two or more people or things.",
+        "descriptionRU": "близкое соединение, объединяющее двух или более людей или вещей."
+    }, {
+        "de": "die Schönheit",
+        "en": "beauty",
+        "ru": "красота",
+        "descriptionEN": "the quality of being pleasing, especially to look at.",
+        "descriptionRU": "качество приятного вида, особенно для взгляда."
+    }, {
+        "de": "die Welt",
+        "en": "world",
+        "ru": "мир",
+        "descriptionEN": "the earth, together with all of its countries, peoples, and natural features.",
+        "descriptionRU": "земля вместе со всеми ее странами, народами и природными особенностями."
+    }, {
+        "de": "die Liebe",
+        "en": "love",
+        "ru": "любовь",
+        "descriptionEN": "an intense feeling of deep affection.",
+        "descriptionRU": "интенсивное чувство глубокой привязанности."
+    }, {
+        "de": "der Reisende",
+        "en": "traveler",
+        "ru": "путешественник",
+        "descriptionEN": "a person who is traveling or who often travels.",
+        "descriptionRU": "человек, который путешествует или часто бывает в путешествиях."
+    }, {
+        "de": "der Punkt",
+        "en": "point",
+        "ru": "точка",
+        "descriptionEN": "a particular spot, place, or position.",
+        "descriptionRU": "конкретное место, место или положение."
+    }, {
+        "de": "die Plattform",
+        "en": "platform",
+        "ru": "платформа",
+        "descriptionEN": "a raised level surface on which people or things can stand.",
+        "descriptionRU": "поднятая поверхность, на которой могут стоять люди или вещи."
+    }, {
+        "de": "die Schicht",
+        "en": "layer",
+        "ru": "слои",
+        "descriptionEN": "a sheet, quantity, or thickness of material, typically one of several, covering a surface or body.",
+        "descriptionRU": "лист, количество или толщина материала, обычно одного из нескольких, покрывающих поверхность или тело."
+    }, {
+        "de": "die Verbundenheit",
+        "en": "connection",
+        "ru": "связь",
+        "descriptionEN": "the state of being connected or linked.",
+        "descriptionRU": "состояние связи или связи."
+    }, {
+        "de": "der Moment",
+        "en": "moment",
+        "ru": "момент",
+        "descriptionEN": "a very brief period of time.",
+        "descriptionRU": "очень короткий период времени."
+    }
+
+]

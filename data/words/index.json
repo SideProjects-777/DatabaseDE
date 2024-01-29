@@ -327,5 +327,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Athletes.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Athletes.jpg"
+    }, {
+        "title": {
+            "de": "Unvergessliche Begegnungen",
+            "en": "Memorable Encounters",
+            "ru": "Незабвенные встречи"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Seilbahn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Seilbahn.jpg"
     }
 ]
