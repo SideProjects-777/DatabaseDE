@@ -31,21 +31,6 @@
         "active": true
     }, {
         "name": {
-            "de": "Koblenz",
-            "en": "Koblenz",
-            "ru": "Кобленц"
-        },
-        "folder": "koblenz",
-        "description": {
-            "de": "Der Zusammenfluss von Rhein und Mosel",
-            "en": "The confluence of the Rhine and Moselle",
-            "ru": "Слияние рек Рейн и Мозель"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
-        "amountOfStories": 0,
-        "active": false
-    }, {
-        "name": {
             "de": "Düsseldorf",
             "en": "Düsseldorf",
             "ru": "Дюссельдорф"
@@ -57,6 +42,21 @@
             "ru": "Оживленные ярмарки моды и торговли"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
+        "amountOfStories": 0,
+        "active": false
+    }, {
+        "name": {
+            "de": "Koblenz",
+            "en": "Koblenz",
+            "ru": "Кобленц"
+        },
+        "folder": "koblenz",
+        "description": {
+            "de": "Der Zusammenfluss von Rhein und Mosel",
+            "en": "The confluence of the Rhine and Moselle",
+            "ru": "Слияние рек Рейн и Мозель"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
         "amountOfStories": 0,
         "active": false
     }, {
