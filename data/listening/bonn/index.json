@@ -127,5 +127,21 @@
         "file": "Geheimnisse.mp3",
         "words": "Geheimnisse.json",
         "multi": "Geheimnisse.json"
+    }, {
+        "name": {
+            "de": "Mein erstes Weihnachten",
+            "en": "My First Christmas",
+            "ru": "Моё первое Рождество"
+        },
+        "description": {
+            "de": "Ein Wintermärchen in der Fremde",
+            "en": "A Winter Wonderland Away from Home",
+            "ru": "Зимняя сказка вдали от дома"
+        },
+        "level": "B1",
+        "image": "MeinWeihnachten.jpg",
+        "file": "MeinWeihnachten.mp3",
+        "words": "MeinWeihnachten.json",
+        "yesNo": "MeinWeihnachten.json"
     }
 ]

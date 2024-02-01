@@ -343,5 +343,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Christmas.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Christmas.jpg"
+    }, {
+        "title": {
+            "de": "Mein erstes Weihnachten",
+            "en": "My First Christmas",
+            "ru": "Моё первое Рождество"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/MeinWeihnachten.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/MeinWeihnachten.jpg"
     }
 ]

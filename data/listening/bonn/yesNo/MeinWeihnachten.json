@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Der Weihnachtsmarkt in Bonn befindet sich vor dem Rathaus.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Umzug von der Türkei nach Bonn war leicht für die Person.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Beethoven-Haus in Bonn ist ein Museum, das dem berühmten Bonner Komponisten gewidmet ist.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Weihnachtsmarkt in Bonn hatte keinen Duft von Glühwein.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Adventszeit in Deutschland beinhaltet das Anzünden einer Kerze an jedem Samstag vor Weihnachten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Familie des Autors kommt jedes Jahr zu Weihnachten nach Bonn.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Bonner Opernhaus wurde in ein Winterwunderland mit einer Eislaufbahn und einem Weihnachtsbaum verwandelt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die deutschen Nachbarn haben den Autor zum Osterfest eingeladen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das deutsche Sprichwort 'Weihnachten bringt die Menschen einander näher' bezieht sich auf die Kälte des Winters.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die wahre Bedeutung von Weihnachten besteht darin, Traurigkeit und Einsamkeit zu verbreiten.",
+        "tr": false,
+        "fle": true
+    }
+]
