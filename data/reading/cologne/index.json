@@ -209,7 +209,7 @@
         "yesNo": "Zoo.json"
     }, {
         "name": {
-            "de": "Köln im Dialog: ",
+            "de": "Köln im Dialog",
             "en": "Cologne in Dialogue",
             "ru": "Кёльн в диалоге"
         },
@@ -223,5 +223,21 @@
         "file": "Dialog.txt",
         "words": "Dialog.json",
         "multi": "Dialog.json"
+    } , {
+        "name": {
+            "de": "Weihnachtsbräuche in Deutschland",
+            "en": "Christmas Traditions in Germany",
+            "ru": "Рождественские традиции в Германии"
+        },
+        "description": {
+            "en": "Customs, Celebrations, and Merry Christmas!",
+            "de": "Traditionen, Festlichkeiten und frohe Weihnachten!",
+            "ru": "Обычаи, празднования и веселого Рождества!"
+        },
+        "level": "B2",
+        "image": "Christmas.jpg",
+        "file": "Christmas.txt",
+        "words": "Christmas.json",
+        "multi": "Christmas.json"
     }
 ]

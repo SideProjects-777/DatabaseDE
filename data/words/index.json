@@ -335,5 +335,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Seilbahn.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Seilbahn.jpg"
+    }, {
+        "title": {
+            "de": "Weihnachtsbräuche in Deutschland",
+            "en": "Christmas Traditions in Germany",
+            "ru": "Рождественские традиции в Германии"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Christmas.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Christmas.jpg"
     }
 ]

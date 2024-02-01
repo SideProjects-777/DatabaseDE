@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wann beginnt die Weihnachtszeit offiziell in Deutschland?",
+        "answers": [
+            {
+                "text": "Am ersten Adventssonntag",
+                "correct": true
+            }, {
+                "text": "Am Heiligabend",
+                "correct": false
+            }, {
+                "text": "Am Nikolaustag",
+                "correct": false
+            }, {
+                "text": "Am Zweiten Weihnachtsfeiertag",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein wichtiger Bestandteil des deutschen Weihnachtsfestes?",
+        "answers": [
+            {
+                "text": "Osterfeuer",
+                "correct": false
+            }, {
+                "text": "Weihnachtsmärkte",
+                "correct": true
+            }, {
+                "text": "Oktoberfest",
+                "correct": false
+            }, {
+                "text": "Sommerfest",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was symbolisiert jede Kerze auf dem Adventskranz?",
+        "answers": [
+            {
+                "text": "Die Geschenke",
+                "correct": false
+            }, {
+                "text": "Die Ankunft Jesu am Weihnachtstag",
+                "correct": true
+            }, {
+                "text": "Die Winterzeit",
+                "correct": false
+            }, {
+                "text": "Die vier Jahreszeiten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann wird der Weihnachtsbaum in Deutschland in der Regel aufgestellt?",
+        "answers": [
+            {
+                "text": "Am ersten Adventssonntag",
+                "correct": false
+            }, {
+                "text": "Am Nikolaustag",
+                "correct": false
+            }, {
+                "text": "Am Heiligabend",
+                "correct": true
+            }, {
+                "text": "Am Zweiten Weihnachtsfeiertag",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein traditionelles Weihnachtsessen in Deutschland?",
+        "answers": [
+            {
+                "text": "Pizza und Pasta",
+                "correct": false
+            }, {
+                "text": "Gebratene Gans, Ente oder Pute mit Kartoffelklößen, Rotkohl und weihnachtlichem Gebäck",
+                "correct": true
+            }, {
+                "text": "Sushi und Reis",
+                "correct": false
+            }, {
+                "text": "Hamburger und Pommes",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann feiern die Deutschen ihre wichtigste Weihnachtsfeier?",
+        "answers": [
+            {
+                "text": "Am Nikolaustag",
+                "correct": false
+            }, {
+                "text": "Am Zweiten Weihnachtsfeiertag",
+                "correct": false
+            }, {
+                "text": "Am ersten Adventssonntag",
+                "correct": false
+            }, {
+                "text": "Am Heiligabend",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Figur bringt den Kindern in Deutschland Geschenke am Heiligen Abend?",
+        "answers": [
+            {
+                "text": "Der Osterhase",
+                "correct": false
+            }, {
+                "text": "Das Christkind",
+                "correct": true
+            }, {
+                "text": "Der Weihnachtsmann",
+                "correct": false
+            }, {
+                "text": "Der Nikolaus",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Brauch in Bayern beinhaltet eine gehörnte Gestalt, die unartige Kinder bestraft?",
+        "answers": [
+            {
+                "text": "Osterfeuer",
+                "correct": false
+            }, {
+                "text": "Oktoberfest",
+                "correct": false
+            }, {
+                "text": "Krampus-Tradition",
+                "correct": true
+            }, {
+                "text": "Sommerfest",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Tradition findet in Sachsen statt, bei der Kinder als Hirten verkleidet von Tür zu Tür ziehen und Weihnachtslieder singen?",
+        "answers": [
+            {
+                "text": "Nikolaustag",
+                "correct": false
+            }, {
+                "text": "Osterfeuer",
+                "correct": false
+            }, {
+                "text": "Oktoberfest",
+                "correct": false
+            }, {
+                "text": "Weihnachtslieder-Tradition",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wann endet die Weihnachtszeit in Deutschland?",
+        "answers": [
+            {
+                "text": "Am ersten Weihnachtstag",
+                "correct": false
+            }, {
+                "text": "Am Nikolaustag",
+                "correct": false
+            }, {
+                "text": "Am Zweiten Weihnachtsfeiertag",
+                "correct": true
+            }, {
+                "text": "Am Heiligabend",
+                "correct": false
+            }
+        ]
+    }
+]
