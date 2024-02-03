@@ -33,6 +33,22 @@
         "yesNo": "MorgenerlebnisseI.json"
     }, {
         "name": {
+            "de": "Einkaufsabenteuer",
+            "en": "Shopping Adventure",
+            "ru": "Приключение в магазине"
+        },
+        "description": {
+            "de": "Pauls erstes Einkaufen in Köln",
+            "en": "Paul's First Shopping in Cologne",
+            "ru": "Первые покупки Поля в Кёльне"
+        },
+        "level": "A2",
+        "image": "Einkaufen.jpg",
+        "file": "Einkaufen.mp3",
+        "words": "Einkaufen.json",
+        "yesNo": "Einkaufen.json"
+    }, {
+        "name": {
             "de": "Kölner Begegnung",
             "en": "Meeting in Cologne",
             "ru": "Знакомство в Кельне"

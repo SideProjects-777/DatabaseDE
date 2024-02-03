@@ -359,5 +359,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Anna.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg"
+    },{
+        "title": {
+            "de": "Einkaufsabenteuer",
+            "en": "Shopping Adventure",
+            "ru": "Приключение в магазине"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Einkaufen.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Einkaufen.jpg"
     }
 ]

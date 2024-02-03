@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Paul war schon oft in Köln, bevor er seinen ersten Lebensmitteleinkauf machte.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul hatte keine Erfahrung mit deutschen Lebensmitteln, bevor er nach Köln kam.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die örtlichen Supermärkte in Köln boten nur eine begrenzte Auswahl an Produkten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul war überrascht, wie lebendig die Frischwaren im Supermarkt aussahen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "In der Feinkostabteilung des Supermarkts roch es nach frisch gebackenem Brot.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Paul konnte widerstehen, die traditionellen deutschen Würste zu probieren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul kaufte keine lokalen Käsesorten während seines Einkaufs.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul war neugierig darauf, verschiedene Brotsorten mit den Käsesorten zu kombinieren.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die traditionellen deutschen Lebensmittelabteilung war für Paul keine neue Erfahrung.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul war entschlossen, an diesem Abend ein traditionelles französisches Gericht zu kochen.",
+        "tr": false,
+        "fle": true
+    }
+]
