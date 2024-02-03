@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Anna wacht um 6.30 Uhr jeden Morgen in ihrer gemütlichen Wohnung in Bonn auf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna öffnet die Fenster, um die frische Morgenluft hereinzulassen und die Aussicht auf die Stadt zu genießen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna geht nach dem Aufwachen direkt ins Büro.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Annas Tag ist immer vollgepackt mit Meetings, Brainstorming-Sitzungen und Projekten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna nutzt ihre Mittagspausen oft, um Museen und Kunstgalerien zu erkunden.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna joggt oft am Rhein entlang, um fit zu bleiben.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna experimentiert gerne mit verschiedenen Rezepten und kocht oft für ihre Freunde.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Am Wochenende erkundet Anna gerne die Stadt mit ihren Freunden.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna liest mindestens ein Buch pro Woche.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Anna arbeitet in ihrer Freizeit ehrenamtlich in einem örtlichen Tierheim.",
+        "tr": true,
+        "fle": false
+    }
+]

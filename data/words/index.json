@@ -351,5 +351,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/MeinWeihnachten.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/MeinWeihnachten.jpg"
+    }, {
+        "title": {
+            "de": "Lebensfreude in Bonn",
+            "en": "Joy of Life in Bonn",
+            "ru": "Радость жизни в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Anna.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg"
     }
 ]
