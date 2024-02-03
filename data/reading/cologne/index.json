@@ -1,6 +1,86 @@
 [
     {
         "name": {
+            "de": "Stolpersteine",
+            "en": "Stumbling blocks",
+            "ru": "Камни преткновения"
+        },
+        "description": {
+            "de": "Enthüllung von Erinnerungen auf Kölns Straßen",
+            "en": "Unveiling Memories on Cologne's Streets",
+            "ru": "Воспоминания на улицах Кёльна"
+        },
+        "level": "A2",
+        "image": "Stolpersteine.jpg",
+        "file": "Stolpersteine.txt",
+        "words": "Stolpersteine.json",
+        "multi": "Stolpersteine.json"
+    }, {
+        "name": {
+            "de": "Fremde im Dom",
+            "en": "Strangers in the cathedral",
+            "ru": "Незнакомцы в соборе"
+        },
+        "description": {
+            "de": "Dom-Begegnung: Zufällige Freundschaft in Köln",
+            "en": "Cathedral Encounter: Accidental Friendship in Cologne",
+            "ru": "Встреча в соборе: случайная дружба в Кёльне"
+        },
+        "level": "A2",
+        "image": "Fremde_im_Dom.jpg",
+        "file": "Fremde_im_Dom.txt",
+        "words": "Fremde_im_Dom.json",
+        "multi": "Fremde_im_Dom.json"
+    }, {
+        "name": {
+            "de": "Verlorene Brieftasche",
+            "en": "Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },
+        "description": {
+            "de": "Unerwartete Anleihen auf der Hohenzollernbrücke",
+            "en": "Unexpected Bonds on the Hohenzollern Bridge",
+            "ru": "Неожиданные узы на мосту Гогенцоллернов"
+        },
+        "level": "A2",
+        "image": "Lost_Wallet.jpg",
+        "file": "Lost_Wallet.txt",
+        "words": "Lost_Wallet.json",
+        "yesNo": "Lost_Wallet.json"
+    }, {
+        "name": {
+            "de": "Köln im Dialog",
+            "en": "Cologne in Dialogue",
+            "ru": "Кёльн в диалоге"
+        },
+        "description": {
+            "en": "People and Their Favorite Places",
+            "de": "Menschen und ihre Lieblingsplätze",
+            "ru": "Люди и их любимые места"
+        },
+        "level": "A2",
+        "image": "Dialog.jpg",
+        "file": "Dialog.txt",
+        "words": "Dialog.json",
+        "multi": "Dialog.json"
+    }, {
+        "name": {
+            "de": "Wilde Entdeckungen",
+            "en": "Wild Explorations",
+            "ru": "Дикие исследования"
+        },
+        "description": {
+            "en": "Adventure in Animal Kingdom",
+            "de": "Abenteuer im Tierreich",
+            "ru": "Приключение в мире животных"
+        },
+        "level": "A2",
+        "image": "Zoopark.jpg",
+        "file": "Zoo.txt",
+        "words": "Zoo.json",
+        "yesNo": "Zoo.json"
+    }, {
+        "name": {
             "de": "Köln erkunden (Teil 1)",
             "en": "Exploring Cologne (Part 1)",
             "ru": "Знакомство с Кельном (часть 1)"
@@ -97,54 +177,6 @@
         "multi": "FC_Koeln.json"
     }, {
         "name": {
-            "de": "Stolpersteine",
-            "en": "Stumbling blocks",
-            "ru": "Камни преткновения"
-        },
-        "description": {
-            "de": "Enthüllung von Erinnerungen auf Kölns Straßen",
-            "en": "Unveiling Memories on Cologne's Streets",
-            "ru": "Воспоминания на улицах Кёльна"
-        },
-        "level": "A2",
-        "image": "Stolpersteine.jpg",
-        "file": "Stolpersteine.txt",
-        "words": "Stolpersteine.json",
-        "multi": "Stolpersteine.json"
-    }, {
-        "name": {
-            "de": "Fremde im Dom",
-            "en": "Strangers in the cathedral",
-            "ru": "Незнакомцы в соборе"
-        },
-        "description": {
-            "de": "Dom-Begegnung: Zufällige Freundschaft in Köln",
-            "en": "Cathedral Encounter: Accidental Friendship in Cologne",
-            "ru": "Встреча в соборе: случайная дружба в Кёльне"
-        },
-        "level": "A2",
-        "image": "Fremde_im_Dom.jpg",
-        "file": "Fremde_im_Dom.txt",
-        "words": "Fremde_im_Dom.json",
-        "multi": "Fremde_im_Dom.json"
-    }, {
-        "name": {
-            "de": "Ein Blick in die Welt legendärer Sportler",
-            "en": "A Glimpse into the World of Legendary Athletes",
-            "ru": "Взгляд в мир легендарных спортсменов"
-        },
-        "description": {
-            "de": "Nächtliche Begegnungen im Deutschen Sport & Olympia Museum",
-            "en": "Nightly Encounters at the German Sports & Olympic Museum",
-            "ru": "Ночные встречи в Немецком музее спорта и олимпийского движения"
-        },
-        "level": "B2",
-        "image": "Athletes.jpg",
-        "file": "Athletes.txt",
-        "words": "Athletes.json",
-        "multi": "Athletes.json"
-    }, {
-        "name": {
             "de": "Magie im Kölner Zoo",
             "en": "Magic at Cologne Zoo",
             "ru": "Волшебство в Кёльнском зоопарке"
@@ -159,22 +191,6 @@
         "file": "Magic.txt",
         "words": "Magic.json",
         "yesNo": "Magic.json"
-    }, {
-        "name": {
-            "de": "Verlorene Brieftasche",
-            "en": "Lost Wallet",
-            "ru": "Потерянный кошелек"
-        },
-        "description": {
-            "de": "Unerwartete Anleihen auf der Hohenzollernbrücke",
-            "en": "Unexpected Bonds on the Hohenzollern Bridge",
-            "ru": "Неожиданные узы на мосту Гогенцоллернов"
-        },
-        "level": "A2",
-        "image": "Lost_Wallet.jpg",
-        "file": "Lost_Wallet.txt",
-        "words": "Lost_Wallet.json",
-        "yesNo": "Lost_Wallet.json"
     }, {
         "name": {
             "de": "Kölner Dom",
@@ -193,38 +209,6 @@
         "multi": "Dom.json"
     }, {
         "name": {
-            "de": "Wilde Entdeckungen",
-            "en": "Wild Explorations",
-            "ru": "Дикие исследования"
-        },
-        "description": {
-            "en": "Adventure in Animal Kingdom",
-            "de": "Abenteuer im Tierreich",
-            "ru": "Приключение в мире животных"
-        },
-        "level": "A2",
-        "image": "Zoopark.jpg",
-        "file": "Zoo.txt",
-        "words": "Zoo.json",
-        "yesNo": "Zoo.json"
-    }, {
-        "name": {
-            "de": "Köln im Dialog",
-            "en": "Cologne in Dialogue",
-            "ru": "Кёльн в диалоге"
-        },
-        "description": {
-            "en": "People and Their Favorite Places",
-            "de": "Menschen und ihre Lieblingsplätze",
-            "ru": "Люди и их любимые места"
-        },
-        "level": "A2",
-        "image": "Dialog.jpg",
-        "file": "Dialog.txt",
-        "words": "Dialog.json",
-        "multi": "Dialog.json"
-    } , {
-        "name": {
             "de": "Weihnachtsbräuche in Deutschland",
             "en": "Christmas Traditions in Germany",
             "ru": "Рождественские традиции в Германии"
@@ -239,5 +223,21 @@
         "file": "Christmas.txt",
         "words": "Christmas.json",
         "multi": "Christmas.json"
+    }, {
+        "name": {
+            "de": "Ein Blick in die Welt legendärer Sportler",
+            "en": "A Glimpse into the World of Legendary Athletes",
+            "ru": "Взгляд в мир легендарных спортсменов"
+        },
+        "description": {
+            "de": "Nächtliche Begegnungen im Deutschen Sport & Olympia Museum",
+            "en": "Nightly Encounters at the German Sports & Olympic Museum",
+            "ru": "Ночные встречи в Немецком музее спорта и олимпийского движения"
+        },
+        "level": "B2",
+        "image": "Athletes.jpg",
+        "file": "Athletes.txt",
+        "words": "Athletes.json",
+        "multi": "Athletes.json"
     }
 ]
