@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Der Rosenmontag ist der Beginn der Fastenzeit.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Rosenmontag wird in Deutschland mit bunten Umzügen gefeiert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Menschen in Deutschland feiern den Rosenmontag ohne Kostüme.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In Deutschland wird die Karnevalszeit als 'dritte Jahreszeit' bezeichnet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Straßen waren am Rosenmontag mit grauen Luftschlangen geschmückt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Parade am Rosenmontag beinhaltete das Werfen von Kamelle in die Menge.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Rosenmontag ist ein Fest der Gemeinschaft, der Tradition und des Karnevalsgeistes.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "In Deutschland wird angenommen, dass die Menschen in der Karnevalszeit fasten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Karnevalszeit in Deutschland wird als 'fünfte Jahreszeit' bezeichnet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Rosenmontagsparade schließt mit dem Abschuss von Feuerwerk.",
+        "tr": false,
+        "fle": true
+    }
+]

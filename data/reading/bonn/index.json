@@ -111,7 +111,7 @@
         "file": "Geheimnisse.txt",
         "words": "Geheimnisse.json",
         "multi": "Geheimnisse.json"
-    },{
+    }, {
         "name": {
             "de": "Ein Besuch beim Arzt",
             "en": "A Visit to the Doctor",
@@ -175,5 +175,21 @@
         "file": "Frank.txt",
         "words": "Frank.json",
         "yesNo": "Frank.json"
+    }, {
+        "name": {
+            "de": "Mein erster Rosenmontag",
+            "en": "My first Rosenmontag",
+            "ru": "Мой первый Розенмонтаг"
+        },
+        "description": {
+            "de": "Празднование карнавала",
+            "en": "Carnival Celebration",
+            "ru": "Karnevalsfeier"
+        },
+        "level": "B2",
+        "image": "RosenmontagBonn.jpg",
+        "file": "RosenmontagBonn.txt",
+        "words": "RosenmontagBonn.json",
+        "yesNo": "RosenmontagBonn.json"
     }
 ]

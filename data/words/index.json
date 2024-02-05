@@ -359,5 +359,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Einkaufen.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Einkaufen.jpg"
+    }, {
+        "title": {
+            "de": "Mein erster Rosenmontag",
+            "en": "My first Rosenmontag",
+            "ru": "Мой первый Розенмонтаг"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/RosenmontagBonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/RosenmontagBonn.jpg"
     }
 ]

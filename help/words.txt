@@ -25,7 +25,7 @@
 		ru: "Опыт"
 		descriptionEN: "practical contact with and observation of facts or events."
 		descriptionRU: "Совокупность практически усвоенных знаний, навыков, умения."
-
+		descriptionDE: "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
 	}
 
 	Answer should be in json.

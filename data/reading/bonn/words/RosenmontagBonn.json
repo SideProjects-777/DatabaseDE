@@ -1,0 +1,241 @@
+[
+    {
+        "de": "der Rosenmontag",
+        "en": "Rose Monday",
+        "ru": "Розовый понедельник",
+        "descriptionEN": "The highlight of Carnival in Germany, falling on the Monday before Ash Wednesday, marking the beginning of Lent.",
+        "descriptionRU": "Важное событие карнавала в Германии, приходящееся на понедельник перед Пепельной средой, начало поста.",
+        "descriptionDE": "Der Höhepunkt des Karnevals in Deutschland, fällt auf den Montag vor Aschermittwoch und markiert den Beginn der Fastenzeit."
+    }, {
+        "de": "die Fastenzeit",
+        "en": "Lent",
+        "ru": "Великий пост",
+        "descriptionEN": "The period of 40 days leading up to Easter, traditionally observed by fasting, repentance, and penance.",
+        "descriptionRU": "Период из 40 дней, предшествующий Пасхе, традиционно отмечаемый постом, покаянием и самоистязанием.",
+        "descriptionDE": "Die Zeit von 40 Tagen vor Ostern, traditionell beobachtet durch Fasten, Reue und Buße."
+    }, {
+        "de": "der Umzug",
+        "en": "Parade",
+        "ru": "Парад",
+        "descriptionEN": "A procession of people, often with decorative floats, moving along a predetermined route for public celebration.",
+        "descriptionRU": "Процессия людей, часто с декоративными платформами, двигающаяся по заранее определенному маршруту для общественного празднования.",
+        "descriptionDE": "Eine Prozession von Menschen, oft mit dekorativen Wagen, die entlang einer festgelegten Route für öffentliche Feierlichkeiten ziehen."
+    }, {
+        "de": "der Narr",
+        "en": "Jester",
+        "ru": "Шут",
+        "descriptionEN": "A professional joker or fool, historically employed to entertain a ruler or noble.",
+        "descriptionRU": "Профессиональный шут или дурак, исторически на службе развлечения правителя или знатного человека.",
+        "descriptionDE": "Ein professioneller Spaßmacher, historisch angestellt, um einen Herrscher oder Adligen zu unterhalten."
+    }, {
+        "de": "der Imbissstand",
+        "en": "Snack stand",
+        "ru": "Палатка с закусками",
+        "descriptionEN": "A small food stall or kiosk, typically selling snacks or quick meals.",
+        "descriptionRU": "Небольшая закусочная или киоск, обычно продающий закуски или быстрые блюда.",
+        "descriptionDE": "Ein kleiner Imbissstand oder Kiosk, der in der Regel Snacks oder schnelle Mahlzeiten verkauft."
+    }, {
+        "de": "die Brezel",
+        "en": "Pretzel",
+        "ru": "Крендель",
+        "descriptionEN": "A type of baked bread product made from dough most commonly shaped into a twisted knot.",
+        "descriptionRU": "Вид выпечки из теста, обычно формируемого в завиток.",
+        "descriptionDE": "Eine Art gebackenes Brotprodukt aus Teig, das am häufigsten zu einem verdrehten Knoten geformt wird."
+    }, {
+        "de": "die Currywurst",
+        "en": "Currywurst",
+        "ru": "Карривурст",
+        "descriptionEN": "A German fast food dish consisting of pork sausage seasoned with curry ketchup.",
+        "descriptionRU": "Немецкое фастфуд-блюдо из свиного сосиска с приправленным кетчупом с карри.",
+        "descriptionDE": "Ein deutsches Fast-Food-Gericht, bestehend aus Schweinswurst, gewürzt mit Curryketchup."
+    }, {
+        "de": "die Luftschlange",
+        "en": "Confetti streamer",
+        "ru": "Конфетти-змейка",
+        "descriptionEN": "A long, narrow strip of paper or foil used for festive decoration, typically thrown in celebration.",
+        "descriptionRU": "Длинная узкая полоса бумаги или фольги, используемая для праздничного украшения, обычно бросаемая в знак празднования.",
+        "descriptionDE": "Ein langer, schmaler Streifen aus Papier oder Folie, der für festliche Dekoration verwendet wird und normalerweise zum Feiern geworfen wird."
+    }, {
+        "de": "die Waffel",
+        "en": "Waffle",
+        "ru": "Вафля",
+        "descriptionEN": "A batter-based mixture cooked between two patterned plates, creating a grid-like pattern.",
+        "descriptionRU": "Тесто на основе теста, приготовленное между двумя узорными пластинами, создающее сетчатый узор.",
+        "descriptionDE": "Eine Teigmischung, die zwischen zwei gemusterten Platten gekocht wird und ein gitterartiges Muster erzeugt."
+    }, {
+        "de": "die Kamelle",
+        "en": "Candy",
+        "ru": "Конфеты",
+        "descriptionEN": "Small sweets or candies, often thrown into the crowd during parades or celebrations.",
+        "descriptionRU": "Маленькие сладости или конфеты, часто бросаемые в толпу во время парадов или праздников.",
+        "descriptionDE": "Kleine Süßigkeiten oder Bonbons, oft in die Menge geworfen während Paraden oder Feierlichkeiten."
+    }, {
+        "de": "das Lächeln",
+        "en": "Smile",
+        "ru": "Улыбка",
+        "descriptionEN": "A facial expression that indicates happiness, pleasure, or amusement.",
+        "descriptionRU": "Мимическое выражение, указывающее на счастье, удовольствие или развлечение.",
+        "descriptionDE": "Ein Gesichtsausdruck, der Glück, Vergnügen oder Amüsement zeigt."
+    }, {
+        "de": "der Hype",
+        "en": "Hype",
+        "ru": "Хайп",
+        "descriptionEN": "A widespread excitement or enthusiasm for a person, event, or trend.",
+        "descriptionRU": "Общее возбуждение или энтузиазм по поводу человека, события или тренда.",
+        "descriptionDE": "Eine weit verbreitete Aufregung oder Begeisterung für eine Person, ein Ereignis oder einen Trend."
+    }, {
+        "de": "die Freude",
+        "en": "Joy",
+        "ru": "Радость",
+        "descriptionEN": "A feeling of great pleasure and happiness.",
+        "descriptionRU": "Чувство большого удовольствия и счастья.",
+        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück."
+    }, {
+        "de": "die Gemeinschaft",
+        "en": "Community",
+        "ru": "Сообщество",
+        "descriptionEN": "A group of people living in the same place or having a particular characteristic in common.",
+        "descriptionRU": "Группа людей, живущих в одном месте или имеющих общую характеристику.",
+        "descriptionDE": "Eine Gruppe von Menschen, die an einem Ort leben oder eine gemeinsame Eigenschaft haben."
+    }, {
+        "de": "die Tradition",
+        "en": "Tradition",
+        "ru": "Традиция",
+        "descriptionEN": "The transmission of customs or beliefs from generation to generation.",
+        "descriptionRU": "Передача обычаев или убеждений от поколения к поколению.",
+        "descriptionDE": "Die Übertragung von Bräuchen oder Überzeugungen von Generation zu Generation."
+    }, {
+        "de": "der Karnevalsgeist",
+        "en": "Carnival spirit",
+        "ru": "Дух карнавала",
+        "descriptionEN": "The lively and festive atmosphere associated with carnival celebrations.",
+        "descriptionRU": "Живая и праздничная атмосфера, связанная с карнавальными празднованиями.",
+        "descriptionDE": "Die lebhafte und festliche Atmosphäre, die mit Karnevalsfeiern verbunden ist."
+    }, {
+        "de": "die Jahreszeit",
+        "en": "Season",
+        "ru": "Сезон",
+        "descriptionEN": "A division of the year marked by changes in weather, ecology, and amount of daylight.",
+        "descriptionRU": "Период года, отмеченный изменениями в погоде, экологии и продолжительности светового дня.",
+        "descriptionDE": "Eine Unterteilung des Jahres, gekennzeichnet durch Veränderungen in Wetter, Ökologie und Tageslicht."
+    }, {
+        "de": "die Aufregung",
+        "en": "Excitement",
+        "ru": "Возбуждение",
+        "descriptionEN": "A state of being emotionally aroused, stirred up, or agitated.",
+        "descriptionRU": "Состояние эмоционального волнения, взволнованности или возбуждения.",
+        "descriptionDE": "Ein Zustand der emotionalen Erregung, Aufregung oder Unruhe."
+    }, {
+        "de": "das Verständnis",
+        "en": "Understanding",
+        "ru": "Понимание",
+        "descriptionEN": "The ability to comprehend, grasp, or make sense of something.",
+        "descriptionRU": "Способность постигать, понимать или воспринимать что-то.",
+        "descriptionDE": "Die Fähigkeit, etwas zu begreifen, zu verstehen oder Sinn zu machen."
+    }, {
+        "de": "die Kultur",
+        "en": "Culture",
+        "ru": "Культура",
+        "descriptionEN": "The ideas, customs, and social behavior of a particular people or society.",
+        "descriptionRU": "Идеи, обычаи и социальное поведение определенного народа или общества.",
+        "descriptionDE": "Die Ideen, Bräuche und soziales Verhalten einer bestimmten Bevölkerung oder Gesellschaft."
+    }, {
+        "de": "der Duft",
+        "en": "Scent",
+        "ru": "Аромат",
+        "descriptionEN": "A distinctive, often pleasant, smell or fragrance.",
+        "descriptionRU": "Характерный, часто приятный, запах или аромат.",
+        "descriptionDE": "Ein charakteristischer, oft angenehmer Geruch oder Duft."
+    }, {
+        "de": "aufwachen",
+        "en": "to wake up",
+        "ru": "пробуждаться",
+        "descriptionEN": "To rouse from sleep, become awake.",
+        "descriptionRU": "Пробудиться от сна, прийти в сознание.",
+        "descriptionDE": "Aus dem Schlaf aufwachen, erwachen."
+    }, {
+        "de": "hinausschauen",
+        "en": "to look out",
+        "ru": "выглядывать",
+        "descriptionEN": "To gaze or peer outside, typically through a window or opening.",
+        "descriptionRU": "Смотреть или выглядывать наружу, обычно через окно или отверстие.",
+        "descriptionDE": "Nach draußen schauen, normalerweise durch ein Fenster oder eine Öffnung."
+    }, {
+        "de": "anziehen",
+        "en": "to put on (clothes)",
+        "ru": "надевать (одежду)",
+        "descriptionEN": "To dress oneself by putting on clothes.",
+        "descriptionRU": "Одеться, надевая одежду.",
+        "descriptionDE": "Sich anziehen, indem man Kleidung anlegt."
+    }, {
+        "de": "machen",
+        "en": "to do",
+        "ru": "делать",
+        "descriptionEN": "To perform an action or activity.",
+        "descriptionRU": "Выполнять действие или деятельность.",
+        "descriptionDE": "Eine Handlung oder Tätigkeit ausführen."
+    }, {
+        "de": "gehen",
+        "en": "to go",
+        "ru": "идти",
+        "descriptionEN": "To move or travel from one place to another.",
+        "descriptionRU": "Двигаться или путешествовать из одного места в другое.",
+        "descriptionDE": "Sich von einem Ort zum anderen bewegen oder reisen."
+    }, {
+        "de": "feiern",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "To observe or engage in festivities to mark a special occasion.",
+        "descriptionRU": "Отмечать или участвовать в празднествах по случаю особого события.",
+        "descriptionDE": "Festlichkeiten beobachten oder sich daran beteiligen, um einen besonderen Anlass zu feiern."
+    }, {
+        "de": "schnell",
+        "en": "quick",
+        "ru": "быстро",
+        "descriptionEN": "Moving or happening with great speed; rapid.",
+        "descriptionRU": "Двигающийся или происходящий с большой скоростью; быстрый.",
+        "descriptionDE": "Sich mit großer Geschwindigkeit bewegend oder ereignend; schnell."
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "взволнованный",
+        "descriptionEN": "Having strong, enthusiastic emotions or anticipation.",
+        "descriptionRU": "Имеющий сильные, восторженные эмоции или предвкушение.",
+        "descriptionDE": "Starke, enthusiastische Emotionen oder Vorfreude haben."
+    }, {
+        "de": "schnell",
+        "en": "quick",
+        "ru": "быстро",
+        "descriptionEN": "Moving or happening with great speed; rapid.",
+        "descriptionRU": "Двигающийся или происходящий с большой скоростью; быстрый.",
+        "descriptionDE": "Sich mit großer Geschwindigkeit bewegend oder ereignend; schnell."
+    }, {
+        "de": "elektrisierend",
+        "en": "electrifying",
+        "ru": "захватывающий",
+        "descriptionEN": "Causing excitement or thrill; stimulating.",
+        "descriptionRU": "Вызывающий волнение или восторг; стимулирующий.",
+        "descriptionDE": "Aufregend oder aufregend; anregend."
+    }, {
+        "de": "erstaunlich",
+        "en": "amazing",
+        "ru": "удивительный",
+        "descriptionEN": "Causing wonder, surprise, or astonishment.",
+        "descriptionRU": "Вызывающий удивление, удивление или изумление.",
+        "descriptionDE": "Erstaunen, Überraschung oder Erstaunen hervorrufend."
+    }, {
+        "de": "herzerwärmend",
+        "en": "heartwarming",
+        "ru": "сердечный",
+        "descriptionEN": "Eliciting warmth and positive emotions, especially love and compassion.",
+        "descriptionRU": "Вызывающий теплоту и положительные эмоции, особенно любовь и сострадание.",
+        "descriptionDE": "Wärme und positive Emotionen hervorrufend, insbesondere Liebe und Mitgefühl."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабвенный",
+        "descriptionEN": "Leaving a deep and lasting impression; not easily forgotten.",
+        "descriptionRU": "Оставляющий глубокое и долговременное впечатление; не легко забываемый.",
+        "descriptionDE": "Ein tiefes und bleibendes Eindruck hinterlassend; nicht leicht zu vergessen."
+    }
+]
