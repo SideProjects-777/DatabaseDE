@@ -1,0 +1,201 @@
+[
+    {
+        "de": "der Charme",
+        "en": "charm",
+        "ru": "очарование",
+        "descriptionEN": "the power or quality of giving delight or arousing admiration",
+        "descriptionRU": "сила или качество, придающее восторг или вызывающее восхищение",
+        "descriptionDE": "die Kraft oder Qualität, Freude zu bereiten oder Bewunderung zu wecken"
+    }, {
+        "de": "die Ecke",
+        "en": "corner",
+        "ru": "угол",
+        "descriptionEN": "the point at which converging lines or surfaces meet",
+        "descriptionRU": "точка, в которой сходятся сходящиеся линии или поверхности",
+        "descriptionDE": "der Punkt, an dem konvergierende Linien oder Flächen zusammentreffen"
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "a long-established custom or belief passed on from generation to generation",
+        "descriptionRU": "долго установившийся обычай или вера, передаваемые из поколения в поколение",
+        "descriptionDE": "eine lange bestehende Sitte oder Überzeugung, die von Generation zu Generation weitergegeben wird"
+    }, {
+        "de": "der Besuch",
+        "en": "visit",
+        "ru": "посещение",
+        "descriptionEN": "the act of going to see someone or something",
+        "descriptionRU": "действие посещения кого-то или чего-то",
+        "descriptionDE": "das Handeln des Aufsuchens von jemandem oder etwas"
+    }, {
+        "de": "das Fest",
+        "en": "celebration",
+        "ru": "празднование",
+        "descriptionEN": "the action of marking one's pleasure at an important event or occasion",
+        "descriptionRU": "действие выражения своего удовлетворения важным событием или случаем",
+        "descriptionDE": "die Handlung, seine Freude über ein wichtiges Ereignis oder einen Anlass auszudrücken"
+    }, {
+        "de": "der Karneval",
+        "en": "carnival",
+        "ru": "карнавал",
+        "descriptionEN": "a festive season occurring before Lent",
+        "descriptionRU": "праздничный сезон, предшествующий Великому посту",
+        "descriptionDE": "eine festliche Jahreszeit vor der Fastenzeit"
+    }, {
+        "de": "der Zoo",
+        "en": "zoo",
+        "ru": "зоопарк",
+        "descriptionEN": "an establishment that maintains a collection of wild animals",
+        "descriptionRU": "учреждение, содержащее коллекцию диких животных",
+        "descriptionDE": "eine Einrichtung, die eine Sammlung von wilden Tieren pflegt"
+    }, {
+        "de": "der Wald",
+        "en": "forest",
+        "ru": "лес",
+        "descriptionEN": "a large area covered chiefly with trees and undergrowth",
+        "descriptionRU": "большая территория, в основном покрытая деревьями и подлеском",
+        "descriptionDE": "eine große Fläche, die hauptsächlich mit Bäumen und Unterholz bedeckt ist"
+    }, {
+        "de": "der Sinn",
+        "en": "sense",
+        "ru": "смысл",
+        "descriptionEN": "a faculty by which the body perceives an external stimulus",
+        "descriptionRU": "способность, с помощью которой тело воспринимает внешний стимул",
+        "descriptionDE": "eine Fähigkeit, durch die der Körper einen äußeren Reiz wahrnimmt"
+    }, {
+        "de": "die Nachhaltigkeit",
+        "en": "sustainability",
+        "ru": "устойчивость",
+        "descriptionEN": "the ability to be maintained at a certain rate or level",
+        "descriptionRU": "способность поддерживаться на определенном уровне или уровне",
+        "descriptionDE": "die Fähigkeit, auf einem bestimmten Niveau oder einer bestimmten Rate aufrechterhalten zu werden"
+    }, {
+        "de": "der Verkehr",
+        "en": "traffic",
+        "ru": "движение",
+        "descriptionEN": "vehicles moving on a road or public highway",
+        "descriptionRU": "транспортные средства, движущиеся по дороге или общественной автомагистрали",
+        "descriptionDE": "Fahrzeuge, die auf einer Straße oder öffentlichen Autobahn fahren"
+    }, {
+        "de": "die Umweltverschmutzung",
+        "en": "environmental pollution",
+        "ru": "загрязнение окружающей среды",
+        "descriptionEN": "the presence in or introduction into the environment of contaminants",
+        "descriptionRU": "присутствие в окружающей среде или введение в нее загрязнителей",
+        "descriptionDE": "das Vorhandensein von Schadstoffen in der Umwelt oder deren Einbringung"
+    }, {
+        "de": "der Fußabdruck",
+        "en": "footprint",
+        "ru": "след",
+        "descriptionEN": "a mark of a foot or shoe on a surface",
+        "descriptionRU": "след ноги или обуви на поверхности",
+        "descriptionDE": "eine Markierung eines Fußes oder Schuhs auf einer Oberfläche"
+    }, {
+        "de": "der Sinn",
+        "en": "meaning",
+        "ru": "значение",
+        "descriptionEN": "what is meant by a word, text, concept, or action",
+        "descriptionRU": "то, что означается словом, текстом, концепцией или действием",
+        "descriptionDE": "was durch ein Wort, einen Text, ein Konzept oder eine Handlung gemeint ist"
+    }, {
+        "de": "die Gemeinschaft",
+        "en": "community",
+        "ru": "сообщество",
+        "descriptionEN": "a group of people living in the same place or having a particular characteristic in common",
+        "descriptionRU": "группа людей, живущих в одном месте или имеющих общую характеристику",
+        "descriptionDE": "eine Gruppe von Menschen, die am selben Ort lebt oder eine bestimmte Eigenschaft gemeinsam hat"
+    }, {
+        "de": "die Möglichkeit",
+        "en": "possibility",
+        "ru": "возможность",
+        "descriptionEN": "a thing that may happen or be the case",
+        "descriptionRU": "то, что может произойти или быть случаем",
+        "descriptionDE": "eine Sache, die passieren oder der Fall sein kann"
+    }, {
+        "de": "die Kultur",
+        "en": "culture",
+        "ru": "культура",
+        "descriptionEN": "the ideas, customs, and social behavior of a particular people or society",
+        "descriptionRU": "идеи, обычаи и социальное поведение определенного народа или общества",
+        "descriptionDE": "die Ideen, Bräuche und soziales Verhalten eines bestimmten Volkes oder einer Gesellschaft"
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "the transmission of customs or beliefs from generation to generation",
+        "descriptionRU": "передача обычаев или верований из поколения в поколение",
+        "descriptionDE": "die Übertragung von Bräuchen oder Überzeugungen von Generation zu Generation"
+    }, {
+        "de": "schnell",
+        "en": "quickly",
+        "ru": "быстро",
+        "descriptionEN": "at a fast speed",
+        "descriptionRU": "на высокой скорости"
+    }, {
+        "de": "ruhig",
+        "en": "calmly",
+        "ru": "спокойно",
+        "descriptionEN": "in a peaceful and relaxed manner",
+        "descriptionRU": "спокойным и расслабленным образом"
+    }, {
+        "de": "oft",
+        "en": "often",
+        "ru": "часто",
+        "descriptionEN": "many times or frequently",
+        "descriptionRU": "много раз или часто"
+    }, {
+        "de": "gut",
+        "en": "well",
+        "ru": "хорошо",
+        "descriptionEN": "in a satisfactory or skillful manner",
+        "descriptionRU": "удовлетворительно или мастерски"
+    }, {
+        "de": "laut",
+        "en": "loudly",
+        "ru": "громко",
+        "descriptionEN": "with a great deal of volume or intensity",
+        "descriptionRU": "с большим объемом или интенсивностью"
+    }, {
+        "de": "vollständig",
+        "en": "completely",
+        "ru": "полностью",
+        "descriptionEN": "in every way or as much as possible",
+        "descriptionRU": "во всех отношениях или насколько это возможно"
+    }, {
+        "de": "tanzen",
+        "en": "to dance",
+        "ru": "танцевать",
+        "descriptionEN": "to move the body rhythmically to music",
+        "descriptionRU": "двигаться телом ритмично под музыку"
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "открывать",
+        "descriptionEN": "to find something for the first time",
+        "descriptionRU": "находить что-то впервые"
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure in something",
+        "descriptionRU": "получать удовольствие от чего-то"
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "to travel in or through an unfamiliar area in order to learn about it",
+        "descriptionRU": "путешествовать в незнакомой области с целью узнать о ней"
+    }, {
+        "de": "teilen",
+        "en": "to share",
+        "ru": "делить",
+        "descriptionEN": "to give a portion of something to another or others",
+        "descriptionRU": "отдавать часть чего-то другому или другим"
+    }, {
+        "de": "bewundern",
+        "en": "to admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard with respect or warm approval",
+        "descriptionRU": "смотреть с уважением или теплым одобрением"
+    }
+]

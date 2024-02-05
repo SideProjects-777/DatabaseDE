@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was ist eine unserer Traditionen?",
+        "answers": [
+            {
+                "text": "Der Besuch des jährlichen Kölner Karnevals",
+                "correct": true
+            }, {
+                "text": "Die Erkundung der Museen, Parks und Gärten",
+                "correct": false
+            }, {
+                "text": "Die Teilnahme an Straßenfesten",
+                "correct": false
+            }, {
+                "text": "Die Fahrradfahrten zur Arbeit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum sind die Menschen in Köln besonders?",
+        "answers": [
+            {
+                "text": "Weil sie gerne Fahrrad fahren",
+                "correct": false
+            }, {
+                "text": "Weil sie warmherzig, gastfreundlich und hilfsbereit sind",
+                "correct": true
+            }, {
+                "text": "Weil sie viele Sehenswürdigkeiten haben",
+                "correct": false
+            }, {
+                "text": "Weil sie gerne Zeit im Aachener Wald verbringen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welchen Aspekt von Köln schätzt die Person besonders?",
+        "answers": [
+            {
+                "text": "Den Kölner Zoo",
+                "correct": false
+            }, {
+                "text": "Die Herausforderungen in der Stadt",
+                "correct": false
+            }, {
+                "text": "Den ausgeprägten Sinn für Nachhaltigkeit",
+                "correct": true
+            }, {
+                "text": "Die bunten Häuser entlang des Rheins",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Herausforderungen hat Köln?",
+        "answers": [
+            {
+                "text": "Verkehrsstaus",
+                "correct": true
+            }, {
+                "text": "Umweltfreundliche Initiativen",
+                "correct": false
+            }, {
+                "text": "Integration in die Gemeinschaft",
+                "correct": false
+            }, {
+                "text": "Besuche des Kölner Karnevals",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Ergebnis des bewussten Handelns der Familie in Bezug auf die Umwelt?",
+        "answers": [
+            {
+                "text": "Verkehrsstaus reduzieren",
+                "correct": false
+            }, {
+                "text": "Teilnahme am Kölner Karneval",
+                "correct": false
+            }, {
+                "text": "Unterstützung lokaler Initiativen für eine grünere Stadt",
+                "correct": true
+            }, {
+                "text": "Häufige Besuche im Kölner Zoo",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Ort ist perfekt für Picknicks und Aktivitäten im Freien?",
+        "answers": [
+            {
+                "text": "Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Märkte in der Weihnachtszeit",
+                "correct": false
+            }, {
+                "text": "Aachener Wald",
+                "correct": true
+            }, {
+                "text": "Rheinufer",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat die Stadt Köln als eine der fahrradfreundlichsten Städte Europas ausgezeichnet?",
+        "answers": [
+            {
+                "text": "Museen und Gärten",
+                "correct": false
+            }, {
+                "text": "Verkehrsstaus",
+                "correct": false
+            }, {
+                "text": "Kölner Zoo",
+                "correct": false
+            }, {
+                "text": "Nachhaltigkeit",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was wird während des jährlichen Kölner Karnevals gefeiert?",
+        "answers": [
+            {
+                "text": "Weihnachten",
+                "correct": false
+            }, {
+                "text": "Traditionen",
+                "correct": false
+            }, {
+                "text": "Lebendige Gemeinschaft",
+                "correct": false
+            }, {
+                "text": "Straßenfeste mit bunten Kostümen und Umzügen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welcher Ort hat eine Vielzahl von Tieren, darunter den Riesenpanda Bao Bao?",
+        "answers": [
+            {
+                "text": "Aachener Wald",
+                "correct": false
+            }, {
+                "text": "Märkte in der Weihnachtszeit",
+                "correct": false
+            }, {
+                "text": "Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Kölner Zoo",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was gibt der Person ein Gefühl von Zugehörigkeit und Identität?",
+        "answers": [
+            {
+                "text": "Besondere Anlässe und Feste",
+                "correct": false
+            }, {
+                "text": "Kölner Dom",
+                "correct": false
+            }, {
+                "text": "Aufwachsen in Köln",
+                "correct": true
+            }, {
+                "text": "Teilnahme am Kölner Karneval",
+                "correct": false
+            }
+        ]
+    }
+]

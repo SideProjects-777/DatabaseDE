@@ -367,5 +367,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/RosenmontagBonn.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/RosenmontagBonn.jpg"
+    }, {
+        "title": {
+            "de": "Meine Familie",
+            "en": "My family",
+            "ru": "Моя семья"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Sarah.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Sarah.jpg"
     }
 ]

@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "de": "Meine Familie",
+            "en": "My family",
+            "ru": "Моя семья"
+        },
+        "description": {
+            "de": "Grüße aus Köln",
+            "en": "Greetings from Cologne",
+            "ru": "Привет из Кёльна"
+        },
+        "level": "B2",
+        "image": "Sarah.jpg",
+        "file": "Sarah.mp3",
+        "words": "Sarah.json",
+        "yesNo": "Sarah.json"
+    }, {
+        "name": {
             "de": "Flughafen Bonn/Köln",
             "en": "Bonn/Cologne Airport",
             "ru": "Аэропорт Бонн/Кельн"
