@@ -1,73 +1,73 @@
 [
     {
-      "de": "Der Tisch",
-      "en": "table",
-      "ru": "стол",
-      "descriptionEN": "This is a table, an essential piece of furniture for family gatherings, meals, and work. It provides a flat and stable surface for various activities.",
-      "descriptionRU": "Это стол, важная часть мебели для семейных посиделок, приема пищи и работы. Он предоставляет ровную и устойчивую поверхность для различных деятельностей."
-    },
-    {
-      "de": "Der Stuhl",
-      "en": "chair",
-      "ru": "стул",
-      "descriptionEN": "This is a chair, designed for comfortable seating. Chairs come in various styles and materials, offering support and relaxation for sitting purposes.",
-      "descriptionRU": "Это стул, созданный для комфортного сидения. Стулья имеют разные стили и материалы, предлагая поддержку и расслабление при сидении."
-    },
-    {
-      "de": "Das Sofa",
-      "en": "sofa",
-      "ru": "диван",
-      "descriptionEN": "This is a sofa, a comfortable and upholstered piece of furniture for seating multiple people. It's perfect for relaxation and socializing in the living room.",
-      "descriptionRU": "Это диван, комфортное мягкое сиденье для нескольких человек. Он отлично подходит для отдыха и общения в гостиной."
-    },
-    {
-      "de": "Die Lampe",
-      "en": "lamp",
-      "ru": "лампа",
-      "descriptionEN": "This is a lamp, a lighting fixture that provides illumination and ambiance in a room. Lamps come in various designs, from floor lamps to table lamps.",
-      "descriptionRU": "Это лампа, светильник, который обеспечивает освещение и атмосферу в помещении. Лампы имеют разные дизайны, от напольных до настольных."
-    },
-    {
-      "de": "Das Bett",
-      "en": "bed",
-      "ru": "кровать",
-      "descriptionEN": "This is a bed, a piece of furniture for sleeping and resting. Beds come in various sizes and styles, offering comfort and relaxation.",
-      "descriptionRU": "Это кровать, мебель для сна и отдыха. Кровати представлены в разных размерах и стилях, обеспечивая комфорт и релаксацию."
-    },
-    {
-      "de": "Der Kühlschrank",
-      "en": "fridge",
-      "ru": "холодильник",
-      "descriptionEN": "This is a fridge, a household appliance that keeps your food and beverages cold and fresh. It's an essential part of the kitchen for storage.",
-      "descriptionRU": "Это холодильник, бытовое устройство, которое сохраняет ваши продукты и напитки холодными и свежими. Это неотъемлемая часть кухни для хранения."
-    },
-    {
-      "de": "Der Schrank",
-      "en": "cupboard",
-      "ru": "шкаф",
-      "descriptionEN": "This is a cupboard, a piece of furniture used for storing items, such as dishes, clothing, or household supplies. Cupboards help keep your space organized.",
-      "descriptionRU": "Это шкаф, мебель, используемая для хранения различных предметов, таких как посуда, одежда или товары для дома. Шкафы помогают поддерживать порядок в пространстве."
-    },
-    {
-      "de": "Der Spiegel",
-      "en": "mirror",
-      "ru": "зеркало",
-      "descriptionEN": "This is a mirror, a reflective surface that allows you to see your reflection. Mirrors are used for personal grooming, checking appearance, and decoration.",
-      "descriptionRU": "Это зеркало, отражающая поверхность, которая позволяет видеть свое отражение. Зеркала используются для личного ухода, проверки внешности и украшения."
-    },
-    {
-      "de": "Der Herd",
-      "en": "stove",
-      "ru": "плита",
-      "descriptionEN": "This is a stove, a kitchen appliance used for cooking and heating food. Stoves come in different types, including electric, gas, and induction.",
-      "descriptionRU": "Это плита, кухонное устройство, используемое для приготовления и подогрева пищи. Плиты бывают разных типов, включая электрические, газовые и индукционные."
-    },
-    {
-      "de": "Das Waschbecken",
-      "en": "sink",
-      "ru": "раковина",
-      "descriptionEN": "This is a sink, a fixture in the kitchen or bathroom used for washing dishes, hands, and personal hygiene. Sinks come in various materials and styles.",
-      "descriptionRU": "Это раковина, элемент в кухне или ванной, используемый для мытья посуды, рук и личной гигиени. Раковины представлены в различных материалах и стилях."
+        "de": "Der Tisch",
+        "en": "table",
+        "ru": "стол",
+        "descriptionDE": "Ein wesentliches Möbelstück für Familiengespräche, Mahlzeiten und Arbeit. Er bietet eine flache und stabile Oberfläche für verschiedene Aktivitäten.",
+        "descriptionEN": "An essential piece of furniture for family gatherings, meals, and work. It provides a flat and stable surface for various activities.",
+        "descriptionRU": "Важная часть мебели для семейных посиделок, приема пищи и работы. Он предоставляет ровную и устойчивую поверхность для различных деятельностей."
+    }, {
+        "de": "Der Stuhl",
+        "en": "chair",
+        "ru": "стул",
+        "descriptionDE": "Entworfen für bequemes Sitzen. Stühle gibt es in verschiedenen Stilen und Materialien, die Unterstützung und Entspannung beim Sitzen bieten.",
+        "descriptionEN": "Designed for comfortable seating. Chairs come in various styles and materials, offering support and relaxation for sitting purposes.",
+        "descriptionRU": "Созданный для комфортного сидения. Стулья имеют разные стили и материалы, предлагая поддержку и расслабление при сидении."
+    }, {
+        "de": "Das Sofa",
+        "en": "sofa",
+        "ru": "диван",
+        "descriptionDE": "Ein bequemes und gepolstertes Möbelstück für das Sitzen mehrerer Personen. Es eignet sich perfekt zum Entspannen und Geselligsein im Wohnzimmer.",
+        "descriptionEN": "A comfortable and upholstered piece of furniture for seating multiple people. It's perfect for relaxation and socializing in the living room.",
+        "descriptionRU": "Комфортное мягкое сиденье для нескольких человек. Он отлично подходит для отдыха и общения в гостиной."
+    }, {
+        "de": "Die Lampe",
+        "en": "lamp",
+        "ru": "лампа",
+        "descriptionDE": "Eine Beleuchtungsvorrichtung, die Beleuchtung und Atmosphäre in einem Raum bietet. Lampen gibt es in verschiedenen Designs, von Stehlampen bis Tischlampen.",
+        "descriptionEN": "A lighting fixture that provides illumination and ambiance in a room. Lamps come in various designs, from floor lamps to table lamps.",
+        "descriptionRU": "Светильник, который обеспечивает освещение и атмосферу в помещении. Лампы имеют разные дизайны, от напольных до настольных."
+    }, {
+        "de": "Das Bett",
+        "en": "bed",
+        "ru": "кровать",
+        "descriptionDE": " Bett, ein Möbelstück zum Schlafen und Ausruhen. Betten gibt es in verschiedenen Größen und Stilen und bieten Komfort und Entspannung.",
+        "descriptionEN": "A piece of furniture for sleeping and resting. Beds come in various sizes and styles, offering comfort and relaxation.",
+        "descriptionRU": "Мебель для сна и отдыха. Кровати представлены в разных размерах и стилях, обеспечивая комфорт и релаксацию."
+    }, {
+        "de": "Der Kühlschrank",
+        "en": "fridge",
+        "ru": "холодильник",
+        "descriptionDE": "Ein Haushaltsgerät, das Ihre Lebensmittel und Getränke kalt und frisch hält. Es ist ein wesentlicher Bestandteil der Küche zur Aufbewahrung.",
+        "descriptionEN": "A household appliance that keeps your food and beverages cold and fresh. It's an essential part of the kitchen for storage.",
+        "descriptionRU": "Бытовое устройство, которое сохраняет ваши продукты и напитки холодными и свежими. неотъемлемая часть кухни для хранения."
+    }, {
+        "de": "Der Schrank",
+        "en": "cupboard",
+        "ru": "шкаф",
+        "descriptionDE": "Ein Möbelstück zur Aufbewahrung von Gegenständen wie Geschirr, Kleidung oder Haushaltsbedarf. Schränke helfen, Ihren Raum organisiert zu halten.",
+        "descriptionEN": "A piece of furniture used for storing items, such as dishes, clothing, or household supplies. Cupboards help keep your space organized.",
+        "descriptionRU": "Используемая для хранения различных предметов, таких как посуда, одежда или товары для дома. Шкафы помогают поддерживать порядок в пространстве."
+    }, {
+        "de": "Der Spiegel",
+        "en": "mirror",
+        "ru": "зеркало",
+        "descriptionDE": "Eine reflektierende Oberfläche, die es Ihnen ermöglicht, Ihr Spiegelbild zu sehen. Spiegel werden für die persönliche Pflege, Überprüfung des Aussehens und Dekoration verwendet.",
+        "descriptionEN": "A reflective surface that allows you to see your reflection. Mirrors are used for personal grooming, checking appearance, and decoration.",
+        "descriptionRU": "Отражающая поверхность, которая позволяет видеть свое отражение. Зеркала используются для личного ухода, проверки внешности и украшения."
+    }, {
+        "de": "Der Herd",
+        "en": "stove",
+        "ru": "плита",
+        "descriptionDE": "Ein Küchengerät zum Kochen und Erhitzen von Lebensmitteln. Herde gibt es in verschiedenen Typen, darunter elektrische, gasbetriebene und Induktionsherde.",
+        "descriptionEN": "A kitchen appliance used for cooking and heating food. Stoves come in different types, including electric, gas, and induction.",
+        "descriptionRU": "Кухонное устройство, используемое для приготовления и подогрева пищи. Плиты бывают разных типов, включая электрические, газовые и индукционные."
+    }, {
+        "de": "Das Waschbecken",
+        "en": "sink",
+        "ru": "раковина",
+        "descriptionDE": "Eine Vorrichtung in der Küche oder im Badezimmer zum Waschen von Geschirr, Händen und persönlicher Hygiene. Waschbecken gibt es in verschiedenen Materialien und Stilen.",
+        "descriptionEN": "A fixture in the kitchen or bathroom used for washing dishes, hands, and personal hygiene. Sinks come in various materials and styles.",
+        "descriptionRU": "Используемый для мытья посуды, рук и личной гигиени. Раковины представлены в различных материалах и стилях."
     }
-  ]
-  
+]
