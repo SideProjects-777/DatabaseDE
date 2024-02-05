@@ -3,90 +3,105 @@
         "de": "das Wochenende",
         "en": "weekend",
         "ru": "выходные",
+        "descriptionDE": "die Zeitperiode nach der Arbeitswoche, die in der Regel Freizeitaktivitäten gewidmet ist.",
         "descriptionEN": "the period of time following the workweek, typically devoted to leisure activities.",
         "descriptionRU": "период времени, следующий за рабочей неделей, обычно посвященный отдыху."
     }, {
         "de": "das Wetter",
         "en": "weather",
         "ru": "погода",
+        "descriptionDE": "der Zustand der Atmosphäre an einem bestimmten Ort und zu einer bestimmten Zeit in Bezug auf Wärme, Bewölkung, Trockenheit, Sonnenschein, Wind, Regen usw.",
         "descriptionEN": "the state of the atmosphere at a particular place and time, as regards heat, cloudiness, dryness, sunshine, wind, rain, etc.",
         "descriptionRU": "состояние атмосферы в конкретном месте и время, касающееся температуры, облачности, сухости, солнечного света, ветра, дождя и т.д."
     }, {
         "de": "der Himmel",
         "en": "sky",
         "ru": "небо",
+        "descriptionDE": "die Region der Atmosphäre und des Weltraums, die von der Erde aus zu sehen ist.",
         "descriptionEN": "the region of the atmosphere and outer space seen from the earth.",
         "descriptionRU": "область атмосферы и космоса, видимая с Земли."
     }, {
         "de": "die Freundin",
         "en": "friend (female)",
         "ru": "подруга",
+        "descriptionDE": "eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat, normalerweise ausschließlich ohne sexuelle oder familiäre Beziehungen.",
         "descriptionEN": "a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
         "descriptionRU": "человек, с которым у кого-то есть взаимная привязанность, обычно исключительно вне сексуальных или семейных отношений."
     }, {
         "de": "die Fahrradtour",
         "en": "bike tour",
         "ru": "велопрогулка",
+        "descriptionDE": "eine Reise oder Exkursion auf einem Fahrrad.",
         "descriptionEN": "a journey or excursion on a bicycle.",
         "descriptionRU": "путешествие или экскурсия на велосипеде."
     }, {
         "de": "machen",
         "en": "to make",
         "ru": "делать",
+        "descriptionDE": "in Existenz bringen, indem man Material formt oder ändert, Teile kombiniert usw.",
         "descriptionEN": "to bring into existence by shaping or changing material, combining parts, etc.",
         "descriptionRU": "создавать, формировать или изменять материал, соединять части и т.д."
     }, {
         "de": "fahren",
         "en": "to ride/drive",
         "ru": "ехать",
+        "descriptionDE": "sich in einem Fahrzeug oder auf etwas bewegen oder reisen, normalerweise über eine relativ lange Strecke.",
         "descriptionEN": "to move or travel in a vehicle or on something, typically for a relatively long distance.",
         "descriptionRU": "двигаться или путешествовать на транспортном средстве или на чем-то, обычно на относительно длинное расстояние."
     }, {
         "de": "sonnig",
         "en": "sunny",
         "ru": "солнечный",
+        "descriptionDE": "mit hellem Sonnenlicht; voller Sonnenschein.",
         "descriptionEN": "having bright sunlight; full of sunshine.",
         "descriptionRU": "имеющий яркое солнце; полный солнечного света."
     }, {
         "de": "picknicken",
         "en": "to picnic",
         "ru": "пикниковать",
+        "descriptionDE": "eine Mahlzeit im Freien essen, besonders mit einem mitgebrachten Mittagessen.",
         "descriptionEN": "to eat a meal outdoors, especially with a packed lunch.",
         "descriptionRU": "поедать еду на открытом воздухе, особенно с собой в упаковке."
     }, {
         "de": "schwer",
         "en": "heavy",
         "ru": "тяжелый",
+        "descriptionDE": "mit großem Gewicht; schwer zu heben oder zu bewegen.",
         "descriptionEN": "having a great weight; difficult to lift or move.",
         "descriptionRU": "имеющий большой вес; трудный для поднятия или перемещения."
     }, {
         "de": "schwarz",
         "en": "black",
         "ru": "черный",
+        "descriptionDE": "von sehr dunkler Farbe aufgrund des Fehlens oder vollständigen Absorptions von Licht.",
         "descriptionEN": "of the very darkest color owing to the absence of or complete absorption of light.",
         "descriptionRU": "очень темного цвета из-за отсутствия или полного поглощения света."
     }, {
         "de": "langsam",
         "en": "slow",
         "ru": "медленный",
+        "descriptionDE": "sich mit geringer Geschwindigkeit bewegend oder operierend.",
         "descriptionEN": "moving or operating at a slow speed.",
         "descriptionRU": "движущийся или работающий с медленной скоростью."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
+        "descriptionDE": "viele Male in kurzen Abständen.",
         "descriptionEN": "many times at short intervals.",
         "descriptionRU": "много раз в короткие интервалы."
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "descriptionDE": "in größerem Maße als üblich oder typisch.",
         "descriptionEN": "to a greater degree than is usual or typical.",
         "descriptionRU": "в большей степени, чем обычно или типично."
     }, {
         "de": "gut",
         "en": "good",
         "ru": "хороший",
+        "descriptionDE": "gewünscht oder gebilligt zu sein.",
         "descriptionEN": "to be desired or approved of.",
         "descriptionRU": "желательный или одобряемый."
     }

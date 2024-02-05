@@ -3,126 +3,147 @@
         "de": "die Reise",
         "en": "Journey",
         "ru": "Путешествие",
+        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen.",
         "descriptionEN": "An act of traveling from one place to another.",
         "descriptionRU": "Действие перемещения из одного места в другое."
     }, {
         "de": "das Wahrzeichen",
         "en": "Landmark",
         "ru": "Ориентир",
+        "descriptionDE": "ein erkennbares Objekt oder Merkmal, das zur Navigation oder als Symbol verwendet wird.",
         "descriptionEN": "A recognizable object or feature used for navigation or as a symbol.",
         "descriptionRU": "Узнаваемый объект или элемент, используемый для навигации или как символ."
     }, {
         "de": "die Architektur",
         "en": "Architecture",
         "ru": "Архитектура",
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
         "descriptionRU": "Искусство или практика проектирования и строительства зданий."
     }, {
         "de": "die Skyline",
         "en": "Skyline",
         "ru": "Силуэт города",
+        "descriptionDE": "eine Umrisse von Land und Gebäuden, die sich gegen den Himmel abzeichnen.",
         "descriptionEN": "An outline of land and buildings defined against the sky.",
         "descriptionRU": "Контур земли и зданий, выделяющихся на фоне неба."
     }, {
         "de": "die Fülle",
         "en": "Abundance",
         "ru": "Изобилие",
+        "descriptionDE": "eine sehr große Menge von etwas.",
         "descriptionEN": "A very large quantity of something.",
         "descriptionRU": "Очень большое количество чего-то."
     }, {
         "de": "der Blick",
         "en": "View",
         "ru": "Вид",
+        "descriptionDE": "die Fähigkeit zu sehen oder der Sichtbereich.",
         "descriptionEN": "The ability to see or the range of sight.",
         "descriptionRU": "Способность видеть или область видимости."
     }, {
         "de": "die Stadt",
         "en": "City",
         "ru": "Город",
+        "descriptionDE": "eine große und dauerhafte menschliche Siedlung.",
         "descriptionEN": "A large and permanent human settlement.",
         "descriptionRU": "Большое и постоянное человеческое поселение."
     }, {
         "de": "erklimmen",
         "en": "Climb",
         "ru": "Взбираться",
+        "descriptionDE": "nach oben gehen mit allmählichem oder kontinuierlichem Fortschritt.",
         "descriptionEN": "To go upward with gradual or continuous progress.",
         "descriptionRU": "Двигаться вверх с постепенным или непрерывным прогрессом."
     }, {
         "de": "besuchen",
         "en": "Visit",
         "ru": "Посетить",
+        "descriptionDE": "zu jemandem gehen und sozial bei ihm verweilen oder sein Zuhause aufsuchen.",
         "descriptionEN": "To go to and stay with someone socially or at their home.",
         "descriptionRU": "Пойти и быть с кем-то социально или у них дома."
     }, {
         "de": "prächtig",
         "en": "Magnificent",
         "ru": "Великолепный",
+        "descriptionDE": "außergewöhnlich schön, aufwendig oder beeindruckend.",
         "descriptionEN": "Exceptionally beautiful, elaborate, or impressive.",
         "descriptionRU": "Исключительно красивый, хитрый или впечатляющий."
     }, {
         "de": "zeitgenössisch",
         "en": "Contemporary",
         "ru": "Современный",
+        "descriptionDE": "gehörend oder vorkommend in der Gegenwart.",
         "descriptionEN": "Belonging to or occurring in the present.",
         "descriptionRU": "Принадлежащий или происходящий в настоящем."
     }, {
         "de": "der Gast",
         "en": "Guest",
         "ru": "Гость",
+        "descriptionDE": "eine Person, die eingeladen ist, jemandes Zuhause zu besuchen oder an einer sozialen Veranstaltung teilzunehmen.",
         "descriptionEN": "A person who is invited to visit someone's home or attend a social event.",
         "descriptionRU": "Человек, который приглашен посетить дом кого-то или принять участие в общественном мероприятии."
     }, {
         "de": "die Entdeckung",
         "en": "Discovery",
         "ru": "Открытие",
+        "descriptionDE": "die Handlung oder der Prozess des unerwarteten Findens von etwas oder jemandem.",
         "descriptionEN": "The action or process of finding something or someone unexpectedly.",
         "descriptionRU": "Действие или процесс нахождения чего-то или кого-то неожиданно."
     }, {
         "de": "die Idee",
         "en": "Idea",
         "ru": "Идея",
+        "descriptionDE": "eine Gedanke oder Anregung für einen möglichen Handlungsverlauf.",
         "descriptionEN": "A thought or suggestion as to a possible course of action.",
         "descriptionRU": "Мысль или предложение относительно возможного пути действия."
     }, {
         "de": "der Einheimische",
         "en": "Local",
         "ru": "Местный житель",
+        "descriptionDE": "eine Person aus einem bestimmten Ort oder Gebiet.",
         "descriptionEN": "A person from a particular place or area.",
         "descriptionRU": "Человек из определенного места или района."
     }, {
         "de": "der Tourist",
         "en": "Tourist",
         "ru": "Турист",
+        "descriptionDE": "eine Person, die zu Vergnügen reist oder einen Ort besucht.",
         "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
         "descriptionRU": "Человек, который путешествует или посещает место для удовольствия."
     }, {
         "de": "das Herz",
         "en": "Heart",
         "ru": "Сердце",
+        "descriptionDE": "der zentrale oder wichtigste Teil.",
         "descriptionEN": "The central or most important part.",
         "descriptionRU": "Центральная или наиболее важная часть."
     }, {
         "de": "die Stufe",
         "en": "Step",
         "ru": "Шаг",
+        "descriptionDE": "eine flache Oberfläche, auf der man geht, besonders eine von mehreren übereinander platzierten.",
         "descriptionEN": "A flat surface that you walk on, especially one of a series placed one above the other.",
         "descriptionRU": "Плоская поверхность, по которой вы ходите, особенно одна из серии, расположенной одна над другой."
     }, {
         "de": "imposant",
         "en": "Impressive",
         "ru": "Впечатляющий",
+        "descriptionDE": "Bewunderung hervorrufend durch Größe, Qualität oder Geschicklichkeit.",
         "descriptionEN": "Evoking admiration through size, quality, or skill.",
         "descriptionRU": "Вызывающий восхищение своим размером, качеством или мастерством."
     }, {
         "de": "atemberaubend",
         "en": "Breathtaking",
         "ru": "Захватывающий дух",
+        "descriptionDE": "starke Emotionen hervorrufend, besonders Bewunderung oder Ehrfurcht.",
         "descriptionEN": "Causing one to feel strong emotion, especially of admiration or awe.",
         "descriptionRU": "Вызывающий сильные эмоции, особенно восхищение или благоговение."
     }, {
         "de": "zahlreich",
         "en": "Numerous",
         "ru": "Многочисленный",
+        "descriptionDE": "große Anzahl; viele.",
         "descriptionEN": "Great in number; many.",
         "descriptionRU": "Большое количество; много."
     }

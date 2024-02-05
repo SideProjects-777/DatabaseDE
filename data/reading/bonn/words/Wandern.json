@@ -3,72 +3,84 @@
         "de": "die Schönheit",
         "en": "Beauty",
         "ru": "Красота",
+        "descriptionDE": "Die Qualität, besonders für die Sinne oder den Geist, angenehm zu sein.",
         "descriptionEN": "The quality of being pleasing, especially to the senses or the mind.",
         "descriptionRU": "Качество, приносящее удовольствие, особенно чувствам или разуму."
     }, {
         "de": "der Ausflug",
         "en": "Excursion",
         "ru": "Экскурсия",
+        "descriptionDE": "Eine kurze Reise oder Ausflug, besonders als Freizeitaktivität unternommen.",
         "descriptionEN": "A short journey or trip, especially one engaged in as a leisure activity.",
         "descriptionRU": "Короткое путешествие или поездка, особенно в качестве досуговой активности."
     }, {
         "de": "das Schloss",
         "en": "Castle",
         "ru": "Замок",
+        "descriptionDE": "Ein großes Gebäude, typischerweise aus der mittelalterlichen Zeit, gegen Angriffe mit dicken Mauern befestigt.",
         "descriptionEN": "A large building, typically of the medieval period, fortified against attack with thick walls.",
         "descriptionRU": "Большое строение, обычно средневекового периода, укрепленное толстыми стенами от нападения."
     }, {
         "de": "die Natur",
         "en": "Nature",
         "ru": "Природа",
+        "descriptionDE": "Die Erscheinungen der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, Landschaft und anderer Merkmale.",
         "descriptionEN": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features.",
         "descriptionRU": "Явления физического мира в целом, включая растения, животных, ландшафт и другие особенности."
     }, {
         "de": "die Verbindung",
         "en": "Connection",
         "ru": "Связь",
+        "descriptionDE": "Eine Beziehung, in der eine Person oder Sache mit etwas anderem verbunden oder assoziiert ist.",
         "descriptionEN": "A relationship in which a person or thing is linked or associated with something else.",
         "descriptionRU": "Отношение, в котором человек или вещь связаны или ассоциируются с чем-то еще."
     }, {
         "de": "die Geschichte",
         "en": "History",
         "ru": "История",
+        "descriptionDE": "Die Erforschung vergangener Ereignisse, besonders in menschlichen Angelegenheiten.",
         "descriptionEN": "The study of past events, particularly in human affairs.",
         "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах."
     }, {
         "de": "die Architektur",
         "en": "Architecture",
         "ru": "Архитектура",
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
         "descriptionRU": "Искусство или практика проектирования и строительства зданий."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "descriptionDE": "Ein europäischer Fluss, der von den Schweizer Alpen durch Deutschland bis zur Nordsee fließt.",
         "descriptionEN": "A European river flowing from the Swiss Alps through Germany to the North Sea.",
         "descriptionRU": "Европейская река, текущая из Швейцарских Альп через Германию в Северное море."
     }, {
         "de": "planen",
         "en": "Plan",
         "ru": "Планировать",
+        "descriptionDE": "Entscheiden und im Voraus arrangieren.",
         "descriptionEN": "To decide on and arrange in advance.",
         "descriptionRU": "Принимать решение и устраивать заранее."
     }, {
         "de": "spazieren",
         "en": "Stroll",
         "ru": "Гулять",
+        "descriptionDE": "Auf eine gemächliche Weise gehen.",
         "descriptionEN": "To walk in a leisurely way.",
         "descriptionRU": "Прогуливаться спокойным шагом."
     }, {
         "de": "lieben",
         "en": "Love",
         "ru": "Любить",
+        "descriptionDE": "Eine große Zuneigung oder Vorliebe für etwas haben.",
         "descriptionEN": "To have a great affection or liking for.",
         "descriptionRU": "Иметь большую привязанность или любовь к чему-то."
     }, {
         "de": "hoch",
         "en": "High",
         "ru": "Высокий",
+        "descriptionDE": "Mit großer vertikaler Ausdehnung.",
         "descriptionEN": "Of great vertical extent.",
         "descriptionRU": "С большой вертикальной протяженностью."
     }

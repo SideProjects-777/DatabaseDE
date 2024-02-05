@@ -3,90 +3,105 @@
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "descriptionDE": "Ein großer Ort.",
         "descriptionEN": "a large town",
         "descriptionRU": "крупный город"
     }, {
         "de": "das Lachen",
         "en": "laughter",
         "ru": "смех",
+        "descriptionDE": "Die Handlung oder der Klang des Lachens.",
         "descriptionEN": "the action or sound of laughing",
         "descriptionRU": "действие или звук смеха"
     }, {
         "de": "das Mädchen",
         "en": "girl",
         "ru": "девочка",
+        "descriptionDE": "Ein weibliches Kind.",
         "descriptionEN": "a female child",
         "descriptionRU": "женский ребенок"
     }, {
         "de": "der Zoo",
         "en": "zoo",
         "ru": "зоопарк",
+        "descriptionDE": "Ein Park, in dem lebende Tiere ausgestellt sind.",
         "descriptionEN": "a park where live animals are exhibited",
         "descriptionRU": "парк, где выставляются животные"
     }, {
         "de": "die Mutter",
         "en": "mother",
         "ru": "мать",
+        "descriptionDE": "Eine Frau in Beziehung zu ihrem Kind oder ihren Kindern.",
         "descriptionEN": "a woman in relation to her child or children",
         "descriptionRU": "женщина в отношении к ее ребенку или детям"
     }, {
         "de": "die Freude",
         "en": "joy",
         "ru": "радость",
+        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück.",
         "descriptionEN": "a feeling of great pleasure and happiness",
         "descriptionRU": "чувство большого удовольствия и счастья"
     }, {
         "de": "das Telefon",
         "en": "phone",
         "ru": "телефон",
+        "descriptionDE": "Ein System zur Umwandlung von Schallvibrationen in elektrische Signale.",
         "descriptionEN": "a system for converting sound vibrations into electrical signals",
         "descriptionRU": "система преобразования звуковых вибраций в электрические сигналы"
     }, {
         "de": "der Moment",
         "en": "moment",
         "ru": "момент",
+        "descriptionDE": "Ein sehr kurzer Zeitraum.",
         "descriptionEN": "a very brief period of time",
         "descriptionRU": "очень короткий период времени"
     }, {
         "de": "der Rucksack",
         "en": "backpack",
         "ru": "рюкзак",
+        "descriptionDE": "Eine Tasche mit Schulterriemen, die es ermöglichen, sie auf dem Rücken zu tragen.",
         "descriptionEN": "a bag with shoulder straps that allow it to be carried on someone's back",
         "descriptionRU": "сумка с плечевыми ремнями, которые позволяют носить ее на спине"
     }, {
         "de": "die Hilfe",
         "en": "help",
         "ru": "помощь",
+        "descriptionDE": "Die Handlung, jemandem zu helfen.",
         "descriptionEN": "the action of helping someone",
         "descriptionRU": "действие помощи"
     }, {
         "de": "verlassen",
         "en": "leave",
         "ru": "покидать",
+        "descriptionDE": "Sich von etwas entfernen.",
         "descriptionEN": "to go away from",
         "descriptionRU": "уходить от"
     }, {
         "de": "feiern",
         "en": "celebrate",
         "ru": "праздновать",
+        "descriptionDE": "Ein Ereignis mit Festlichkeiten anerkennen und schätzen.",
         "descriptionEN": "to acknowledge and appreciate an event with festivities",
         "descriptionRU": "признавать и оценивать событие с празднованием"
     }, {
         "de": "umgeben",
         "en": "surround",
         "ru": "окружать",
+        "descriptionDE": "Rund um jemanden oder etwas sein.",
         "descriptionEN": "to be all around someone or something",
         "descriptionRU": "быть вокруг кого-то или чего-то"
     }, {
         "de": "aufregend",
         "en": "exciting",
         "ru": "захватывающий",
+        "descriptionDE": "Große Begeisterung und Ungeduld verursachend.",
         "descriptionEN": "causing great enthusiasm and eagerness",
         "descriptionRU": "вызывающий великое восторг и нетерпение"
     }, {
         "de": "fröhlich",
         "en": "happy",
         "ru": "счастливый",
+        "descriptionDE": "Das Gefühl oder Zeigen von Freude oder Zufriedenheit.",
         "descriptionEN": "feeling or showing pleasure or contentment",
         "descriptionRU": "чувство или проявление удовольствия или удовлетворенности"
     }

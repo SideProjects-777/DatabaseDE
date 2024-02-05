@@ -3,72 +3,84 @@
         "de": "die Umfrage",
         "en": "Survey",
         "ru": "Опрос",
+        "descriptionDE": "eine detaillierte Studie oder Analyse, die in der Regel durch das Stellen von Fragen an Menschen durchgeführt wird.",
         "descriptionEN": "A detailed study or analysis, typically conducted by asking people questions.",
         "descriptionRU": "Детальное изучение или анализ, обычно проводимый путем задания вопросов людям."
     }, {
         "de": "der Ort",
         "en": "Place",
         "ru": "Место",
+        "descriptionDE": "eine bestimmte Position oder ein Punkt im Raum.",
         "descriptionEN": "A particular position or point in space.",
         "descriptionRU": "Конкретное положение или точка в пространстве."
     }, {
         "de": "die Natur",
         "en": "Nature",
         "ru": "Природа",
+        "descriptionDE": "die Phänomene der physischen Welt insgesamt, einschließlich Pflanzen, Tiere und Landschaft.",
         "descriptionEN": "The phenomena of the physical world collectively, including plants, animals, and the landscape.",
         "descriptionRU": "Феномены физического мира в совокупности, включая растения, животных и ландшафт."
     }, {
         "de": "der Trubel",
         "en": "Hustle",
         "ru": "Суета",
+        "descriptionDE": "eine geschäftige und laute Aktivität, oft mit einem Gefühl von Dringlichkeit oder Aufregung.",
         "descriptionEN": "A busy and noisy activity, often with a sense of urgency or commotion.",
         "descriptionRU": "Активность, часто с шумом и суетой, часто с чувством срочности или смятения."
     }, {
         "de": "die Herausforderung",
         "en": "Challenge",
         "ru": "Испытание",
+        "descriptionDE": "eine Aufgabe oder Situation, die die Fähigkeiten einer Person testet.",
         "descriptionEN": "A task or situation that tests someone's abilities.",
         "descriptionRU": "Задача или ситуация, проверяющая способности человека."
     }, {
         "de": "die Umgebung",
         "en": "Environment",
         "ru": "Окружающая среда",
+        "descriptionDE": "die Umgebung oder Bedingungen, in denen eine Person, ein Tier oder eine Pflanze lebt oder agiert.",
         "descriptionEN": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
         "descriptionRU": "Окружение или условия, в которых живет или действует человек, животное или растение."
     }, {
         "de": "die Vielfalt",
         "en": "Diversity",
         "ru": "Разнообразие",
+        "descriptionDE": "der Zustand oder die Qualität, verschiedene Formen oder Typen zu haben.",
         "descriptionEN": "The state or quality of having different forms or types.",
         "descriptionRU": "Состояние или качество наличия различных форм или типов."
     }, {
         "de": "der Genuss",
         "en": "Enjoyment",
         "ru": "Удовольствие",
+        "descriptionDE": "der Zustand oder Prozess, Freude an etwas zu haben.",
         "descriptionEN": "The state or process of taking pleasure in something.",
         "descriptionRU": "Состояние или процесс получения удовольствия от чего-то."
     }, {
         "de": "frisch",
         "en": "Fresh",
         "ru": "Свежий",
+        "descriptionDE": "neu hergestellt oder erhalten; nicht konserviert, gefroren oder anderweitig konserviert.",
         "descriptionEN": "Newly made or obtained; not canned, frozen, or otherwise preserved.",
         "descriptionRU": "Недавно сделанный или полученный; не консервированный, замороженный или иным образом сохраненный."
     }, {
         "de": "endlos",
         "en": "Endless",
         "ru": "Бесконечный",
+        "descriptionDE": "haben oder scheinen zu haben, kein Ende oder Limit zu haben.",
         "descriptionEN": "Having or seeming to have no end or limit.",
         "descriptionRU": "Имеющий или кажущийся не имеющим конца или предела."
     }, {
         "de": "prächtig",
         "en": "Splendid",
         "ru": "Великолепный",
+        "descriptionDE": "großartig und prächtig im Aussehen, in der Farbe oder im Stil.",
         "descriptionEN": "Magnificent and sumptuous in appearance, color, or style.",
         "descriptionRU": "Великолепный и роскошный по внешнему виду, цвету или стилю."
     }, {
         "de": "faszinierend",
         "en": "Fascinating",
         "ru": "Захватывающий",
+        "descriptionDE": "äußerst interessant oder charmant; fesselnd.",
         "descriptionEN": "Extremely interesting or charming; captivating.",
         "descriptionRU": "Чрезвычайно интересный или очаровательный; завораживающий."
     }

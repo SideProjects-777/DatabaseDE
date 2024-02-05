@@ -3,379 +3,428 @@
         "de": "die Wohnung",
         "en": "apartment",
         "ru": "квартира",
+        "descriptionDE": "eine Reihe von Räumen zum Wohnen, normalerweise auf einer Etage eines Gebäudes.",
         "descriptionEN": "a set of rooms for living in, typically on one floor of a building.",
         "descriptionRU": "набор комнат для проживания, обычно на одном этаже здания."
     }, {
         "de": "der Morgen",
         "en": "morning",
         "ru": "утро",
+        "descriptionDE": "die Zeitspanne zwischen Mitternacht und Mittag, besonders vom Sonnenaufgang bis zum Mittag.",
         "descriptionEN": "the period of time between midnight and noon, especially from sunrise to noon.",
         "descriptionRU": "период времени между полуночью и полуднем, особенно от восхода солнца до полудня."
     }, {
         "de": "die Fenster",
         "en": "windows",
         "ru": "окна",
+        "descriptionDE": "eine Öffnung in einer Wand oder Tür, durch die man sehen und in der Regel ein Gebäude oder Fahrzeug betreten oder verlassen kann.",
         "descriptionEN": "an opening in a wall or door through which one can see and, usually, enter or leave a building or vehicle.",
         "descriptionRU": "отверстие в стене или двери, через которое можно видеть и, обычно, входить или выходить из здания или транспортного средства."
     }, {
         "de": "die Luft",
         "en": "air",
         "ru": "воздух",
+        "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, hauptsächlich eine Mischung aus Sauerstoff und Stickstoff.",
         "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
         "descriptionRU": "невидимое газообразное вещество, окружающее Землю, в основном смесь кислорода и азота."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "descriptionDE": "eine große Stadt.",
         "descriptionEN": "a large town.",
         "descriptionRU": "большой город."
-    }, {
-        "de": "die Tasse Kaffee",
-        "en": "cup of coffee",
-        "ru": "чашка кофе",
-        "descriptionEN": "a container for drinking coffee, typically cylindrical and with a handle.",
-        "descriptionRU": "контейнер для питья кофе, обычно цилиндрический и с ручкой."
     }, {
         "de": "das Fahrrad",
         "en": "bicycle",
         "ru": "велосипед",
+        "descriptionDE": "ein Fahrzeug, bestehend aus zwei Rädern in einem Rahmen, eines hinter dem anderen, angetrieben von Pedalen und gelenkt mit Lenkstangen am Vorderrad.",
         "descriptionEN": "a vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.",
         "descriptionRU": "транспортное средство, состоящее из двух колес, удерживаемых в раме одно за другим, приводимое в движение педалями и управляемое рулем, прикрепленным к переднему колесу."
     }, {
         "de": "das Büro",
         "en": "office",
         "ru": "офис",
+        "descriptionDE": "ein Raum, eine Reihe von Räumen oder ein Gebäude, das als Ort für kommerzielle, berufliche oder bürokratische Arbeit genutzt wird.",
         "descriptionEN": "a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
         "descriptionRU": "комната, набор комнат или здание, используемое в качестве места для коммерческой, профессиональной или бюрократической работы."
     }, {
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang.",
         "descriptionEN": "the time between sunrise and sunset.",
         "descriptionRU": "время между восходом и закатом солнца."
     }, {
         "de": "die Pause",
         "en": "break",
         "ru": "перерыв",
+        "descriptionDE": "eine vorübergehende Ruhe oder Unterbrechung einer Aktivität.",
         "descriptionEN": "a temporary rest or cessation of an activity.",
         "descriptionRU": "временный отдых или прекращение деятельности."
     }, {
         "de": "das Café",
         "en": "café",
         "ru": "кафе",
+        "descriptionDE": "ein kleines Restaurant, das leichte Mahlzeiten und Getränke verkauft.",
         "descriptionEN": "a small restaurant selling light meals and drinks.",
         "descriptionRU": "небольшой ресторан, предлагающий легкие закуски и напитки."
     }, {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
+        "descriptionDE": "eine nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum aufrechtzuerhalten.",
         "descriptionEN": "any nutritious substance that people or animals eat or drink or that plants absorb to maintain life and growth.",
         "descriptionRU": "любое питательное вещество, которое люди, животные или растения потребляют или пьют для поддержания жизни и роста."
     }, {
         "de": "die Kollegen",
         "en": "colleagues",
         "ru": "коллеги",
+        "descriptionDE": "Menschen, mit denen man arbeitet, besonders in einem Beruf oder Geschäft.",
         "descriptionEN": "people with whom one works, especially in a profession or business.",
         "descriptionRU": "люди, с которыми кто-то работает, особенно в профессии или бизнесе."
     }, {
         "de": "der Alltag",
         "en": "everyday life",
         "ru": "повседневная жизнь",
+        "descriptionDE": "die Routine des normalen, gewöhnlichen Lebens.",
         "descriptionEN": "the routine of normal, ordinary life.",
         "descriptionRU": "режим нормальной, обыденной жизни."
     }, {
         "de": "die Bewegung",
         "en": "movement",
         "ru": "движение",
+        "descriptionDE": "eine Handlung des Änderns der physischen Position oder Lage oder des Habens dieser Änderung.",
         "descriptionEN": "an act of changing physical location or position or of having this changed.",
         "descriptionRU": "действие изменения физического местоположения или положения или происходящего этого."
     }, {
         "de": "der Kopf",
         "en": "head",
         "ru": "голова",
+        "descriptionDE": "der obere Teil des menschlichen Körpers oder der vordere oder obere Teil des Körpers eines Tieres, normalerweise vom Rest des Körpers durch einen Hals getrennt und enthält das Gehirn, den Mund und die Sinnesorgane.",
         "descriptionEN": "the upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.",
         "descriptionRU": "верхняя часть человеческого тела или передняя или верхняя часть тела животного, обычно отделенная от остальной части тела шеей и содержащая мозг, рот и органы чувств."
     }, {
         "de": "das Abendessen",
         "en": "dinner",
         "ru": "ужин",
+        "descriptionDE": "die Hauptmahlzeit des Tages, entweder gegen Mittag oder abends eingenommen.",
         "descriptionEN": "the main meal of the day, taken either around midday or in the evening.",
         "descriptionRU": "основное блюдо дня, принимаемое либо около полудня, либо вечером."
     }, {
         "de": "die Musik",
         "en": "music",
         "ru": "музыка",
+        "descriptionDE": "vokale oder instrumentale Klänge (oder beides), die auf eine Weise kombiniert sind, um Schönheit der Form, Harmonie und Ausdruck von Emotionen zu erzeugen.",
         "descriptionEN": "vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
         "descriptionRU": "вокальные или инструментальные звуки (или оба вместе), сочетающиеся таким образом, чтобы создавать красоту формы, гармонии и выражения эмоций."
     }, {
         "de": "die Freunde",
         "en": "friends",
         "ru": "друзья",
+        "descriptionDE": "Menschen, die man kennt und mit denen man eine Bindung gegenseitiger Zuneigung hat.",
         "descriptionEN": "people whom one knows and has a bond of mutual affection with.",
         "descriptionRU": "люди, которых кто-то знает и с которыми у него есть взаимная привязанность."
     }, {
         "de": "die Berge",
         "en": "mountains",
         "ru": "горы",
+        "descriptionDE": "eine große Landform, die prominent über ihre Umgebung aufragt und höher ist als ein Hügel.",
         "descriptionEN": "a large landform that rises prominently above its surroundings and is higher than a hill.",
         "descriptionRU": "большая природная форма, выступающая выдающимся образом над окружающей средой и более высокая, чем холм."
     }, {
         "de": "das Wochenende",
         "en": "weekend",
         "ru": "выходные",
+        "descriptionDE": "die Zeit von Freitagabend bis Sonntagnacht, besonders als Zeit für Freizeit betrachtet.",
         "descriptionEN": "the period from Friday evening through Sunday night, especially regarded as a time for leisure.",
         "descriptionRU": "период с пятницы вечером до воскресенья ночью, особенно рассматриваемый как время досуга."
     }, {
         "de": "die Hobbys",
         "en": "hobbies",
         "ru": "хобби",
+        "descriptionDE": "eine regelmäßig in der Freizeit durchgeführte Aktivität zum Vergnügen.",
         "descriptionEN": "an activity done regularly in one's leisure time for pleasure.",
         "descriptionRU": "деятельность, выполняемая регулярно в свободное время для удовольствия."
     }, {
         "de": "die Leserin",
         "en": "reader",
         "ru": "читательница",
+        "descriptionDE": "eine Person, die liest oder die gerne liest.",
         "descriptionEN": "a person who reads or who is fond of reading.",
         "descriptionRU": "человек, который читает или увлекается чтением."
     }, {
         "de": "das Buch",
         "en": "book",
         "ru": "книга",
+        "descriptionDE": "ein schriftliches oder gedrucktes Werk, bestehend aus Seiten, die entlang einer Seite zusammengeklebt oder zusammengenäht und in Umschläge gebunden sind.",
         "descriptionEN": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
         "descriptionRU": "письменное или напечатанное произведение, состоящее из страниц, склеенных или сшитых вместе с одной стороны и обложенных."
     }, {
         "de": "die Malerin",
         "en": "painter",
         "ru": "художница",
+        "descriptionDE": "eine Künstlerin, die Bilder malt.",
         "descriptionEN": "an artist who paints pictures.",
         "descriptionRU": "художник, рисующий картины."
     }, {
         "de": "das Atelier",
         "en": "studio",
         "ru": "ателье",
+        "descriptionDE": "ein Raum, in dem ein Künstler, Fotograf, Bildhauer usw. arbeitet.",
         "descriptionEN": "a room where an artist, photographer, sculptor, etc., works.",
         "descriptionRU": "комната, в которой работает художник, фотограф, скульптор и т. д."
     }, {
         "de": "die Freizeit",
         "en": "free time",
         "ru": "свободное время",
+        "descriptionDE": "Zeit, die für Entspannung und Erholung zur Verfügung steht.",
         "descriptionEN": "time available for ease and relaxation.",
         "descriptionRU": "время, доступное для отдыха и расслабления."
     }, {
         "de": "das Tierheim",
         "en": "animal shelter",
         "ru": "приют для животных",
+        "descriptionDE": "eine Einrichtung, die obdachlose, verlorene oder ausgesetzte Tiere beherbergt.",
         "descriptionEN": "a facility that houses homeless, lost, or abandoned animals.",
         "descriptionRU": "учреждение, в котором содержатся бездомные, потерянные или брошенные животные."
     }, {
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang.",
         "descriptionEN": "the time between sunrise and sunset.",
         "descriptionRU": "время между восходом и закатом солнца."
     }, {
         "de": "die Sendung",
         "en": "TV show",
         "ru": "телепередача",
+        "descriptionDE": "eine Fernseh- oder Radiosendung.",
         "descriptionEN": "a television or radio program.",
         "descriptionRU": "телевизионная или радиопрограмма."
     }, {
         "de": "das Bett",
         "en": "bed",
         "ru": "кровать",
+        "descriptionDE": "ein Möbelstück zum Schlafen oder Ausruhen, normalerweise ein Gestell mit Matratze und Bezügen.",
         "descriptionEN": "a piece of furniture for sleep or rest, typically a framework with a mattress and coverings.",
         "descriptionRU": "мебель для сна или отдыха, обычно каркас с матрасом и обивкой."
     }, {
         "de": "öffnen",
         "en": "open",
         "ru": "открывать",
+        "descriptionDE": "eine Tür oder ein Fenster von sich wegbewegen, um einen Raum offen zu lassen.",
         "descriptionEN": "to move (a door or window) away from, so as to leave a space open.",
         "descriptionRU": "отодвинуть (дверь или окно) от себя, чтобы оставить открытым пространство."
     }, {
         "de": "genießen",
         "en": "enjoy",
         "ru": "наслаждаться",
+        "descriptionDE": "Vergnügen an (einer Aktivität oder Gelegenheit) haben.",
         "descriptionEN": "to take pleasure in (an activity or occasion).",
         "descriptionRU": "получать удовольствие от (деятельности или события)."
     }, {
         "de": "starten",
         "en": "start",
         "ru": "начинать",
+        "descriptionDE": "eine Reise beginnen oder sich auf den Weg machen.",
         "descriptionEN": "to begin or set out on a journey.",
         "descriptionRU": "начать или отправиться в путешествие."
     }, {
         "de": "machen",
         "en": "make",
         "ru": "делать",
+        "descriptionDE": "etwas ins Dasein bringen oder produzieren.",
         "descriptionEN": "to bring into existence or produce.",
         "descriptionRU": "вызвать существование или произвести."
     }, {
         "de": "fertig machen",
         "en": "get ready",
         "ru": "приготовиться",
+        "descriptionDE": "sich auf eine Aufgabe oder Aktivität vorbereiten.",
         "descriptionEN": "to prepare oneself for a task or activity.",
         "descriptionRU": "подготовиться к выполнению задачи или деятельности."
     }, {
         "de": "schwingen",
         "en": "swing",
         "ru": "качаться",
+        "descriptionDE": "sich rhythmisch hin und her oder auf und ab bewegen.",
         "descriptionEN": "to move rhythmically to and fro or up and down.",
         "descriptionRU": "двигаться ритмично туда-сюда или вверх-вниз."
     }, {
         "de": "fahren",
         "en": "ride",
         "ru": "ездить",
+        "descriptionDE": "sich auf ein Tier setzen und seine Bewegung kontrollieren, besonders ein Pferd.",
         "descriptionEN": "to sit on and control the movement of (an animal, especially a horse).",
         "descriptionRU": "сидеть на и управлять движением (животного, особенно лошади)."
     }, {
         "de": "nutzen",
         "en": "use",
         "ru": "использовать",
+        "descriptionDE": "etwas als Mittel zur Erreichung eines Zwecks oder zur Erzielung eines Ergebnisses nehmen, halten oder einsetzen.",
         "descriptionEN": "to take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.",
         "descriptionRU": "воспользоваться, удержать или применить (что-то) в качестве средства достижения цели или достижения результата."
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
+        "descriptionDE": "durch ein unbekanntes Gebiet reisen, um es kennenzulernen.",
         "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней."
     }, {
         "de": "kommen",
         "en": "come",
         "ru": "приходить",
+        "descriptionDE": "sich in Richtung oder in einen als nahe oder vertraut betrachteten Ort bewegen oder reisen.",
         "descriptionEN": "to move or travel toward or into a place thought of as near or familiar.",
         "descriptionRU": "двигаться или путешествовать в сторону или внутрь места, рассматриваемого как близкое или знакомое."
     }, {
         "de": "zurückkommen",
         "en": "return",
         "ru": "возвращаться",
+        "descriptionDE": "zu einem Ort oder einer Person zurückkehren.",
         "descriptionEN": "to come or go back to a place or person.",
         "descriptionRU": "вернуться или вернуться к месту или человеку."
     }, {
         "de": "entspannen",
         "en": "relax",
         "ru": "расслабляться",
+        "descriptionDE": "sich weniger angespannt oder besorgt machen oder werden.",
         "descriptionEN": "to make or become less tense or anxious.",
         "descriptionRU": "сделать или стать менее напряженным или тревожным."
     }, {
         "de": "schauen",
         "en": "watch",
         "ru": "смотреть",
+        "descriptionDE": "aufmerksam betrachten oder beobachten, normalerweise über einen bestimmten Zeitraum.",
         "descriptionEN": "to look at or observe attentively, typically over a period of time.",
         "descriptionRU": "смотреть или наблюдать внимательно, обычно в течение определенного времени."
     }, {
         "de": "lesen",
         "en": "read",
         "ru": "читать",
+        "descriptionDE": "den Sinn von (geschriebenem oder gedrucktem Material) erfassen, indem man die Buchstaben oder Symbole interpretiert, aus denen es besteht.",
         "descriptionEN": "to look at and comprehend the meaning of (written or printed matter) by interpreting the characters or symbols of which it is composed.",
         "descriptionRU": "посмотреть и понять смысл (письменного или напечатанного материала), интерпретируя символы или символы, из которых он состоит."
     }, {
         "de": "malen",
         "en": "paint",
         "ru": "рисовать",
+        "descriptionDE": "ein Bild oder Design durch Malen produzieren.",
         "descriptionEN": "to produce (a picture or design) by painting.",
         "descriptionRU": "создать (картину или дизайн) рисованием."
     }, {
         "de": "kochen",
         "en": "cook",
         "ru": "готовить",
+        "descriptionDE": "Lebensmittel durch Kombinieren und Erhitzen der Zutaten auf verschiedene Weisen zubereiten.",
         "descriptionEN": "to prepare (food) by combining and heating the ingredients in various ways.",
         "descriptionRU": "приготовить (пищу), сочетая и нагревая ингредиенты разными способами."
     }, {
         "de": "täglich",
         "en": "daily",
         "ru": "ежедневно",
+        "descriptionDE": "täglich oder alle 24 Stunden auftretend, erledigt oder produziert.",
         "descriptionEN": "occurring, done, or produced every day or every 24 hours.",
         "descriptionRU": "происходящий, выполняемый или производимый каждый день или каждые 24 часа."
     }, {
         "de": "immer",
         "en": "always",
         "ru": "всегда",
+        "descriptionDE": "zu jeder Zeit; zu jeder Gelegenheit.",
         "descriptionEN": "at all times; on all occasions.",
         "descriptionRU": "всегда; при любом случае."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
+        "descriptionDE": "viele Male in kurzen Abständen.",
         "descriptionEN": "many times at short intervals.",
         "descriptionRU": "много раз в короткие интервалы."
     }, {
         "de": "manchmal",
         "en": "sometimes",
         "ru": "иногда",
+        "descriptionDE": "zu bestimmten Anlässen oder in bestimmten Fällen, aber nicht immer.",
         "descriptionEN": "on certain occasions or in certain cases but not always.",
         "descriptionRU": "в некоторых случаях или в определенных случаях, но не всегда."
     }, {
         "de": "gerne",
         "en": "gladly",
         "ru": "с удовольствием",
+        "descriptionDE": "mit Vergnügen; bereitwillig.",
         "descriptionEN": "with pleasure; willingly.",
         "descriptionRU": "с удовольствием; охотно."
     }, {
         "de": "oftmals",
         "en": "frequently",
         "ru": "часто",
+        "descriptionDE": "oft; viele Male.",
         "descriptionEN": "often; many times.",
         "descriptionRU": "часто; много раз."
     }, {
         "de": "danach",
         "en": "afterwards",
         "ru": "после этого",
+        "descriptionDE": "zu einem späteren oder nachfolgenden Zeitpunkt.",
         "descriptionEN": "at a later or succeeding time.",
         "descriptionRU": "в более позднее или последующее время."
     }, {
         "de": "vorher",
         "en": "beforehand",
         "ru": "заранее",
+        "descriptionDE": "im Voraus; vorzeitig.",
         "descriptionEN": "in advance; ahead of time.",
         "descriptionRU": "заранее; заранее."
     }, {
         "de": "oftentimes",
         "en": "often",
         "ru": "часто",
+        "descriptionDE": "bei vielen Gelegenheiten oder in vielen Fällen.",
         "descriptionEN": "on many occasions or in many cases.",
         "descriptionRU": "во многих случаях или во многих случаях."
     }, {
         "de": "wirklich",
         "en": "truly",
         "ru": "действительно",
+        "descriptionDE": "auf eine wahrheitsgemäße Weise.",
         "descriptionEN": "in a truthful way.",
         "descriptionRU": "правдиво."
     }, {
         "de": "zusammen",
         "en": "together",
         "ru": "вместе",
+        "descriptionDE": "mit oder in der Nähe einer anderen Person oder Personen.",
         "descriptionEN": "with or in proximity to another person or people.",
         "descriptionRU": "с другим человеком или людьми или рядом с ними."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
+        "descriptionDE": "viele Male in kurzen Abständen.",
         "descriptionEN": "many times at short intervals.",
         "descriptionRU": "много раз в короткие интервалы."
     }, {
         "de": "schnell",
         "en": "quickly",
         "ru": "быстро",
+        "descriptionDE": "mit hoher Geschwindigkeit; schnell.",
         "descriptionEN": "at a fast speed; rapidly.",
         "descriptionRU": "с большой скоростью; быстро."
     }, {
         "de": "langsam",
         "en": "slowly",
         "ru": "медленно",
+        "descriptionDE": "mit geringer Geschwindigkeit.",
         "descriptionEN": "at a slow speed.",
         "descriptionRU": "с медленной скоростью."
     }, {
         "de": "immer noch",
         "en": "still",
         "ru": "все еще",
+        "descriptionDE": "bis zum aktuellen Zeitpunkt oder zum genannten Zeitpunkt.",
         "descriptionEN": "up to and including the present or the time mentioned.",
         "descriptionRU": "до настоящего времени или указанного времени."
-    }, {
-        "de": "gern",
-        "en": "gladly",
-        "ru": "с удовольствием",
-        "descriptionEN": "with pleasure; willingly.",
-        "descriptionRU": "с удовольствием; охотно."
     }
 ]

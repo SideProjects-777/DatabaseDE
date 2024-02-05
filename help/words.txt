@@ -10,6 +10,7 @@
 		ru: string, -> russian translation
 		descriptionEN: string, -> explanation in english
 		descriptionRU: string, -> explanation in russian
+		descriptionDE: string, -> explanation in german
 	}
 
 	Selected words are not allowed to be phrases only single words.

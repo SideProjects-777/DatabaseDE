@@ -3,66 +3,77 @@
         "de": "die Zählhilfe",
         "en": "counting aid",
         "ru": "счетное устройство",
+        "descriptionDE": "Ein Instrument oder Werkzeug, das zum Zählen verwendet wird.",
         "descriptionEN": "An instrument or tool used for counting.",
         "descriptionRU": "Инструмент или устройство, используемое для подсчета."
     }, {
         "de": "der Rechentisch",
         "en": "calculating table",
         "ru": "вычислительный стол",
+        "descriptionDE": "Ein Tisch, der für mathematische Berechnungen konzipiert ist.",
         "descriptionEN": "A table designed for performing mathematical calculations.",
         "descriptionRU": "Стол, предназначенный для выполнения математических расчетов."
     }, {
         "de": "die Feinmechanik",
         "en": "precision mechanics",
         "ru": "точная механика",
+        "descriptionDE": "Die Disziplin der Mechanik, die sich mit kleinen Bewegungen und Kräften befasst.",
         "descriptionEN": "The branch of mechanics dealing with small movements and forces.",
         "descriptionRU": "Отрасль механики, занимающаяся малыми движениями и силами."
     }, {
         "de": "die Rechenmaschine",
         "en": "calculating machine",
         "ru": "вычислительная машина",
+        "descriptionDE": "Ein mechanisches oder elektronisches Gerät, das zum Durchführen mathematischer Berechnungen konzipiert ist.",
         "descriptionEN": "A mechanical or electronic device designed to perform mathematical calculations.",
         "descriptionRU": "Механическое или электронное устройство, предназначенное для выполнения математических расчетов."
     }, {
         "de": "die Verschlüsselungsmaschine",
         "en": "encryption machine",
         "ru": "шифровальная машина",
+        "descriptionDE": "Eine Maschine, die zur Verschlüsselung von Informationen verwendet wird, um sie vor unbefugtem Zugriff zu schützen.",
         "descriptionEN": "A machine used for encoding information to secure it from unauthorized access.",
         "descriptionRU": "Устройство для кодирования информации для защиты от несанкционированного доступа."
     }, {
         "de": "der Rundgang",
         "en": "tour",
         "ru": "тур",
+        "descriptionDE": "Eine geführte oder ungeführte Tour durch einen Ort oder eine Einrichtung.",
         "descriptionEN": "A guided or unguided tour through a place or facility.",
         "descriptionRU": "Экскурсия или самостоятельное путешествие по месту или объекту."
     }, {
         "de": "die Entwicklung",
         "en": "development",
         "ru": "развитие",
+        "descriptionDE": "Der Prozess des Wachstums, Fortschritts oder Fortschritts.",
         "descriptionEN": "The process of growth, progress, or advancement.",
         "descriptionRU": "Процесс роста, прогресса или развития."
     }, {
         "de": "erleichtern",
         "en": "facilitate",
         "ru": "облегчать",
+        "descriptionDE": "Etwas einfacher oder weniger schwierig machen.",
         "descriptionEN": "To make easier or less difficult.",
         "descriptionRU": "Делать что-то более легким или менее сложным."
     }, {
         "de": "übersteigen",
         "en": "surpass",
         "ru": "превосходить",
+        "descriptionDE": "In Grad, Menge, Umfang oder Übertreffen hinausgehen.",
         "descriptionEN": "To go beyond in degree, amount, extent, or surpassing.",
         "descriptionRU": "Превосходить по степени, количеству, объему или степени."
     }, {
         "de": "raffiniert",
         "en": "sophisticated",
         "ru": "утонченный",
+        "descriptionDE": "Mit einer raffinierten oder kultivierten Qualität.",
         "descriptionEN": "Having a refined or cultured quality.",
         "descriptionRU": "Имеющий изысканный или культурный характер."
     }, {
         "de": "umfassend",
         "en": "comprehensive",
         "ru": "всесторонний",
+        "descriptionDE": "Vieles abdeckend oder umfassend; inklusiv.",
         "descriptionEN": "Covering or involving much; inclusive.",
         "descriptionRU": "Охватывающий или включающий многое; всесторонний."
     }

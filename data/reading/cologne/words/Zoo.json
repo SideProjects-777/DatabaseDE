@@ -4,90 +4,105 @@
         "en": "day",
         "ru": "день",
         "descriptionEN": "the time between sunrise and sunset.",
-        "descriptionRU": "период между восходом и закатом солнца."
+        "descriptionRU": "период между восходом и закатом солнца.",
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang."
     }, {
         "de": "der Zoo",
         "en": "zoo",
         "ru": "зоопарк",
         "descriptionEN": "a facility where animals are kept and exhibited to the public.",
-        "descriptionRU": "учреждение, где содержатся и выставляются животные для публичного просмотра."
+        "descriptionRU": "учреждение, где содержатся и выставляются животные для публичного просмотра.",
+        "descriptionDE": "eine Einrichtung, in der Tiere gehalten und der Öffentlichkeit präsentiert werden."
     }, {
         "de": "die Giraffe",
-        "en": "giraff",
+        "en": "giraffe",
         "ru": "жираф",
         "descriptionEN": "tall, long-necked mammals native to Africa, the tallest living terrestrial animals.",
-        "descriptionRU": "высокие, длинношеие млекопитающие, обитающие в Африке, самые высокие сухопутные животные."
+        "descriptionRU": "высокие, длинношеие млекопитающие, обитающие в Африке, самые высокие сухопутные животные.",
+        "descriptionDE": "hohe, langhalsige Säugetiere, die in Afrika beheimatet sind, die größten lebenden landlebenden Tiere."
     }, {
         "de": "der Hals",
         "en": "neck",
         "ru": "шея",
         "descriptionEN": "the part of the body connecting the head to the shoulders or trunk.",
-        "descriptionRU": "часть тела, соединяющая голову с плечами или туловищем."
+        "descriptionRU": "часть тела, соединяющая голову с плечами или туловищем.",
+        "descriptionDE": "der Teil des Körpers, der den Kopf mit den Schultern oder dem Rumpf verbindet."
     }, {
         "de": "schwarz",
         "en": "black",
         "ru": "черный",
         "descriptionEN": "the darkest color.",
-        "descriptionRU": "самый темный цвет."
+        "descriptionRU": "самый темный цвет.",
+        "descriptionDE": "die dunkelste Farbe."
     }, {
         "de": "weiß",
         "en": "white",
         "ru": "белый",
         "descriptionEN": "the color of milk or fresh snow.",
-        "descriptionRU": "цвет молока или свежего снега."
+        "descriptionRU": "цвет молока или свежего снега.",
+        "descriptionDE": "die Farbe von Milch oder frischem Schnee."
     }, {
         "de": "gestreift",
         "en": "striped",
         "ru": "полосатый",
         "descriptionEN": "having a pattern of stripes or bands.",
-        "descriptionRU": "имеющий узор полос или полос."
+        "descriptionRU": "имеющий узор полос или полос.",
+        "descriptionDE": "mit einem Muster von Streifen oder Bändern."
     }, {
         "de": "große",
         "en": "large",
         "ru": "большой",
         "descriptionEN": "of considerable or relatively great size, extent, or capacity.",
-        "descriptionRU": "значительного или относительно большого размера, объема или емкости."
+        "descriptionRU": "значительного или относительно большого размера, объема или емкости.",
+        "descriptionDE": "von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität."
     }, {
         "de": "das Ohr",
         "en": "ear",
         "ru": "ухо",
         "descriptionEN": "the organ of hearing.",
-        "descriptionRU": "орган слуха и равновесия."
+        "descriptionRU": "орган слуха и равновесия.",
+        "descriptionDE": "das Organ des Hörens."
     }, {
         "de": "kühlen",
         "en": "cool",
         "ru": "охлаждать",
         "descriptionEN": "reduce the temperature of something.",
-        "descriptionRU": "снижать температуру чего-либо."
+        "descriptionRU": "снижать температуру чего-либо.",
+        "descriptionDE": "die Temperatur von etwas senken."
     }, {
         "de": "der Ventilator",
         "en": "fan",
         "ru": "вентилятор",
         "descriptionEN": "a machine with blades that turn around to create a current of air.",
-        "descriptionRU": "механизм с вращающимися лопастями, создающий поток воздуха."
+        "descriptionRU": "механизм с вращающимися лопастями, создающий поток воздуха.",
+        "descriptionDE": "eine Maschine mit Klingen, die sich drehen, um einen Luftstrom zu erzeugen."
     }, {
         "de": "freude",
         "en": "joy",
         "ru": "радость",
         "descriptionEN": "a feeling of great pleasure and happiness.",
-        "descriptionRU": "чувство большого удовольствия и счастья."
+        "descriptionRU": "чувство большого удовольствия и счастья.",
+        "descriptionDE": "ein Gefühl von großem Vergnügen und Glück."
     }, {
         "de": "wunderbare",
         "en": "wonderful",
         "ru": "замечательный",
         "descriptionEN": "inspiring delight, pleasure, or admiration; extremely good.",
-        "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; чрезвычайно хороший."
+        "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; чрезвычайно хороший.",
+        "descriptionDE": "erweckt Freude, Vergnügen oder Bewunderung; außerordentlich gut."
     }, {
         "de": "die Erkenntnis",
         "en": "discovery",
         "ru": "открытие",
         "descriptionEN": "the action or process of making a new or important realization.",
-        "descriptionRU": "действие или процесс совершения нового или важного открытия."
+        "descriptionRU": "действие или процесс совершения нового или важного открытия.",
+        "descriptionDE": "die Handlung oder der Prozess, eine neue oder wichtige Erkenntnis zu gewinnen."
     }, {
         "de": "gemeinsamen",
         "en": "shared",
         "ru": "общий",
         "descriptionEN": "held or experienced in common with others.",
-        "descriptionRU": "проходит или переживается вместе с другими."
+        "descriptionRU": "проходит или переживается вместе с другими.",
+        "descriptionDE": "gemeinsam mit anderen gehalten oder erlebt."
     }
 ]

@@ -4,72 +4,84 @@
         "en": "morning coffee",
         "ru": "утренний кофе",
         "descriptionEN": "A cup of coffee consumed in the morning for a refreshing start to the day.",
-        "descriptionRU": "Кофе, выпитый утром для освежающего начала дня."
+        "descriptionRU": "Кофе, выпитый утром для освежающего начала дня.",
+        "descriptionDE": "Eine Tasse Kaffee, die morgens getrunken wird, um den Tag erfrischend zu beginnen."
     }, {
         "de": "die Arbeit",
         "en": "work",
         "ru": "работа",
         "descriptionEN": "An activity involving mental or physical effort done to achieve a purpose or result.",
-        "descriptionRU": "Деятельность, требующая умственного или физического усилия, выполняемая с целью достижения результата."
+        "descriptionRU": "Деятельность, требующая умственного или физического усилия, выполняемая с целью достижения результата.",
+        "descriptionDE": "Eine Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um einen Zweck oder ein Ergebnis zu erreichen."
     }, {
         "de": "die Führung",
         "en": "tour",
         "ru": "экскурсия",
         "descriptionEN": "A journey or excursion, typically for sightseeing and guided by someone knowledgeable.",
-        "descriptionRU": "Путешествие или экскурсия, обычно с целью осмотра достопримечательностей и сопровождаемая опытным гидом."
+        "descriptionRU": "Путешествие или экскурсия, обычно с целью осмотра достопримечательностей и сопровождаемая опытным гидом.",
+        "descriptionDE": "Eine Reise oder Exkursion, in der Regel zum Besichtigen, geführt von einer sachkundigen Person."
     }, {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
         "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
-        "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+        "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
     }, {
         "de": "die Insel",
         "en": "island",
         "ru": "остров",
         "descriptionEN": "A piece of land surrounded by water, smaller than a continent.",
-        "descriptionRU": "Участок суши, окруженный водой и меньший по размеру, чем континент."
+        "descriptionRU": "Участок суши, окруженный водой и меньший по размеру, чем континент.",
+        "descriptionDE": "Ein Stück Land, das von Wasser umgeben ist und kleiner als ein Kontinent ist."
     }, {
         "de": "die Technologie",
         "en": "technology",
         "ru": "технология",
         "descriptionEN": "The application of scientific knowledge for practical purposes, especially in industry.",
-        "descriptionRU": "Применение научных знаний в практических целях, особенно в промышленности."
+        "descriptionRU": "Применение научных знаний в практических целях, особенно в промышленности.",
+        "descriptionDE": "Die Anwendung wissenschaftlicher Kenntnisse für praktische Zwecke, insbesondere in der Industrie."
     }, {
         "de": "die Schokolade",
         "en": "chocolate",
         "ru": "шоколад",
         "descriptionEN": "A sweet food preparation made from roasted and ground cacao seeds.",
-        "descriptionRU": "Сладкое блюдо, приготовленное из обжаренных и измельченных семян какао."
+        "descriptionRU": "Сладкое блюдо, приготовленное из обжаренных и измельченных семян какао.",
+        "descriptionDE": "Eine süße Lebensmittelzubereitung aus gerösteten und gemahlenen Kakaosamen."
     }, {
         "de": "die Augen",
         "en": "eyes",
         "ru": "глаза",
         "descriptionEN": "The organs of sight in humans and animals.",
-        "descriptionRU": "Органы зрения у людей и животных."
+        "descriptionRU": "Органы зрения у людей и животных.",
+        "descriptionDE": "Die Organe des Sehens bei Menschen und Tieren."
     }, {
         "de": "erleben",
         "en": "experience",
         "ru": "переживать",
         "descriptionEN": "To encounter or undergo events, emotions, or situations.",
-        "descriptionRU": "Сталкиваться или переживать события, эмоции или ситуации."
+        "descriptionRU": "Сталкиваться или переживать события, эмоции или ситуации.",
+        "descriptionDE": "Ereignisse, Emotionen oder Situationen erleben oder durchmachen."
     }, {
         "de": "entdecken",
         "en": "discover",
         "ru": "открывать",
         "descriptionEN": "To find or learn something for the first time.",
-        "descriptionRU": "Находить или узнавать что-то впервые."
+        "descriptionRU": "Находить или узнавать что-то впервые.",
+        "descriptionDE": "Etwas zum ersten Mal finden oder lernen."
     }, {
         "de": "faszinierend",
         "en": "fascinating",
         "ru": "очаровательный",
         "descriptionEN": "Extremely interesting or charming.",
-        "descriptionRU": "Исключительно интересный или очаровательный."
+        "descriptionRU": "Исключительно интересный или очаровательный.",
+        "descriptionDE": "Äußerst interessant oder faszinierend."
     }, {
         "de": "unterhaltsam",
         "en": "entertaining",
         "ru": "развлекательный",
         "descriptionEN": "Providing amusement or enjoyment.",
-        "descriptionRU": "Обеспечивающий развлечение и удовольствие."
+        "descriptionRU": "Обеспечивающий развлечение и удовольствие.",
+        "descriptionDE": "Bietet Unterhaltung oder Vergnügen."
     }
 ]

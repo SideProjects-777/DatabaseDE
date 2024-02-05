@@ -3,102 +3,119 @@
         "de": "die Weihnachtszeit",
         "en": "Christmas time",
         "ru": "рождественское время",
+        "descriptionDE": "Die Zeit um Weihnachten herum, gekennzeichnet durch festliche Dekorationen und Feierlichkeiten.",
         "descriptionEN": "The period of time around Christmas, characterized by festive decorations and celebrations.",
         "descriptionRU": "Период времени вокруг Рождества, отмеченный праздничными украшениями и торжествами."
     }, {
         "de": "der Umzug",
         "en": "Move",
         "ru": "переезд",
+        "descriptionDE": "Der Prozess des Wechsels des Wohnsitzes von einem Ort zum anderen.",
         "descriptionEN": "The process of changing one's residence from one place to another.",
         "descriptionRU": "Процесс изменения места жительства с одного места на другое."
     }, {
         "de": "der Markt",
         "en": "Market",
         "ru": "рынок",
+        "descriptionDE": "Ein öffentlicher Ort, an dem Waren gekauft und verkauft werden.",
         "descriptionEN": "A public space where goods are bought and sold.",
         "descriptionRU": "Общественное место, где покупают и продают товары."
     }, {
         "de": "der Duft",
         "en": "Scent",
         "ru": "запах",
+        "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer.",
         "descriptionEN": "A distinctive smell, especially a pleasant one.",
         "descriptionRU": "Отличительный запах, особенно приятный."
     }, {
         "de": "das Konzert",
         "en": "Concert",
         "ru": "концерт",
+        "descriptionDE": "Eine musikalische Darbietung, bei der Musiker vor einem Publikum spielen.",
         "descriptionEN": "A musical performance where musicians play in front of an audience.",
         "descriptionRU": "Музыкальное выступление, где музыканты играют перед публикой."
     }, {
         "de": "die Veranstaltung",
         "en": "Event",
         "ru": "мероприятие",
+        "descriptionDE": "Eine geplante öffentliche oder gesellschaftliche Veranstaltung.",
         "descriptionEN": "A planned public or social occasion.",
         "descriptionRU": "Запланированное общественное или социальное событие."
     }, {
         "de": "die Gastfreundschaft",
         "en": "Hospitality",
         "ru": "гостеприимство",
+        "descriptionDE": "Der freundliche und großzügige Empfang und die Unterhaltung von Gästen.",
         "descriptionEN": "The friendly and generous reception and entertainment of guests.",
         "descriptionRU": "Дружелюбный и щедрый прием и развлечение гостей."
     }, {
         "de": "die Freundlichkeit",
         "en": "Friendliness",
         "ru": "дружелюбие",
+        "descriptionDE": "Die Qualität, freundlich, angenehm und nett zu sein.",
         "descriptionEN": "The quality of being friendly, pleasant, and kind.",
         "descriptionRU": "Качество быть дружелюбным, приятным и добрым."
     }, {
         "de": "die Tradition",
         "en": "Tradition",
         "ru": "традиция",
+        "descriptionDE": "Ein Brauch oder Glaube, der von Generation zu Generation weitergegeben wird.",
         "descriptionEN": "A custom or belief that is passed down from generation to generation.",
         "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение."
     }, {
         "de": "die Bedeutung",
         "en": "Meaning",
         "ru": "значение",
+        "descriptionDE": "Die Bedeutung oder Wichtigkeit von etwas.",
         "descriptionEN": "The significance or importance of something.",
         "descriptionRU": "Значимость или важность чего-то."
     }, {
         "de": "freuen",
         "en": "to rejoice",
         "ru": "радоваться",
+        "descriptionDE": "Freude und Begeisterung empfinden oder ausdrücken.",
         "descriptionEN": "To feel or express joy and delight.",
         "descriptionRU": "Чувствовать или выражать радость и восторг."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "descriptionDE": "Durchreisen (eines unbekannten Gebiets), um mehr darüber zu erfahren.",
         "descriptionEN": "To travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "Проходить через (незнакомую территорию) с целью узнать о ней."
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
+        "descriptionDE": "Freude oder Zufriedenheit an einer Aktivität oder Erfahrung haben.",
         "descriptionEN": "To take pleasure or satisfaction in an activity or experience.",
         "descriptionRU": "Получать удовольствие или удовлетворение от активности или опыта."
     }, {
         "de": "beeindrucken",
         "en": "to impress",
         "ru": "производить впечатление",
+        "descriptionDE": "Bewunderung und Respekt hervorrufen; einen bleibenden positiven Eindruck hinterlassen.",
         "descriptionEN": "To evoke admiration and respect; to leave a lasting positive impression.",
         "descriptionRU": "Вызывать восхищение и уважение; оставлять долговременное положительное впечатление."
     }, {
         "de": "verlieben",
         "en": "to fall in love",
         "ru": "влюбиться",
+        "descriptionDE": "Eine starke romantische oder zärtliche Bindung zu jemandem oder etwas entwickeln.",
         "descriptionEN": "To develop a strong romantic or affectionate attachment towards someone or something.",
         "descriptionRU": "Развивать сильное романтическое или нежное привязанность к кому-то или чему-то."
     }, {
         "de": "erinnern",
         "en": "to remember",
         "ru": "вспоминать",
+        "descriptionDE": "Vergangene Ereignisse, Erfahrungen oder Informationen wieder aufrufen.",
         "descriptionEN": "To recall past events, experiences, or information.",
         "descriptionRU": "Вспоминать прошлые события, переживания или информацию."
     }, {
         "de": "vorfreude",
         "en": "anticipation",
         "ru": "предвкушение",
+        "descriptionDE": "Die freudige, intensive Erwartung eines zukünftigen Ereignisses.",
         "descriptionEN": "The joyful, intense anticipation of a future event.",
         "descriptionRU": "Радостное, интенсивное предвкушение предстоящего события."
     }

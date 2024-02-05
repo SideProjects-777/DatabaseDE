@@ -3,144 +3,168 @@
         "de": "die Studentin",
         "en": "student",
         "ru": "студентка",
+        "descriptionDE": "Eine Person, die an einer Universität oder einer anderen Hochschule studiert.",
         "descriptionEN": "a person who is studying at a university or other higher education institution.",
         "descriptionRU": "человек, который учится в университете или другом учебном заведении высшего образования."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "descriptionDE": "Eine große Stadt mit hoher Bevölkerungsdichte; ein städtisches Gebiet.",
         "descriptionEN": "a large town with a high population density; an urban area.",
         "descriptionRU": "большой город с высокой плотностью населения; городская территория."
     }, {
         "de": "der Morgen",
         "en": "morning",
         "ru": "утро",
+        "descriptionDE": "Die Zeitspanne zwischen Mitternacht und Mittag, insbesondere vom Sonnenaufgang bis zum Mittag.",
         "descriptionEN": "the period of time between midnight and noon, especially from sunrise to noon.",
         "descriptionRU": "период времени с полуночи до полудня, особенно с рассвета до полудня."
     }, {
         "de": "die Vorfreude",
         "en": "anticipation",
         "ru": "предвкушение",
+        "descriptionDE": "Das Gefühl von Aufregung und Erwartung vor einem bedeutenden Ereignis.",
         "descriptionEN": "the feeling of excitement and expectation before a significant event.",
         "descriptionRU": "чувство волнения и ожидания перед значительным событием."
     }, {
         "de": "der Charme",
         "en": "charm",
         "ru": "очарование",
+        "descriptionDE": "Die Kraft oder Qualität, Freude zu bereiten oder Bewunderung zu wecken.",
         "descriptionEN": "the power or quality of giving delight or arousing admiration.",
         "descriptionRU": "сила или качество, придающее восторг или вызывающее восхищение."
     }, {
         "de": "die Herzlichkeit",
         "en": "warmth",
         "ru": "теплота",
+        "descriptionDE": "Die Qualität oder der Zustand des Warmseins; Freundlichkeit und Herzlichkeit.",
         "descriptionEN": "the quality or state of being warm; friendliness and cordiality.",
         "descriptionRU": "качество или состояние теплоты; дружелюбие и сердечность."
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "the art or practice of designing and constructing buildings.",
         "descriptionRU": "искусство или практика проектирования и строительства зданий."
     }, {
         "de": "die Kulturgeschichte",
         "en": "cultural history",
         "ru": "культурная история",
+        "descriptionDE": "Die Untersuchung kultureller Traditionen, Praktiken und gesellschaftlicher Entwicklung im Laufe der Zeit.",
         "descriptionEN": "the study of cultural traditions, practices, and societal development over time.",
         "descriptionRU": "изучение культурных традиций, практик и общественного развития в течение времени."
     }, {
         "de": "das Konzert",
         "en": "concert",
         "ru": "концерт",
+        "descriptionDE": "Eine musikalische Darbietung, an der mehrere Stimmen oder Instrumente teilnehmen.",
         "descriptionEN": "a musical performance in which several voices or instruments take part.",
         "descriptionRU": "музыкальное выступление, в котором принимают участие несколько голосов или инструментов."
     }, {
         "de": "die Sehenswürdigkeit",
         "en": "sightseeing attraction",
         "ru": "достопримечательность",
+        "descriptionDE": "Ein interessanter Ort, den Touristen aufgrund seiner kulturellen, historischen oder natürlichen Bedeutung besuchen.",
         "descriptionEN": "a place of interest that tourists visit for its cultural, historical, or natural significance.",
         "descriptionRU": "место интереса, которое туристы посещают из-за его культурного, исторического или природного значения."
     }, {
         "de": "der Bauernmarkt",
         "en": "farmers' market",
         "ru": "фермерский рынок",
+        "descriptionDE": "Ein Markt, auf dem Bauern ihre Produkte direkt an Verbraucher verkaufen.",
         "descriptionEN": "a market where farmers sell their produce directly to consumers.",
         "descriptionRU": "рынок, где фермеры продают свою продукцию напрямую потребителям."
     }, {
         "de": "die Sonne",
         "en": "sun",
         "ru": "солнце",
+        "descriptionDE": "Der Stern, um den die Erde kreist, der Licht und Wärme liefert.",
         "descriptionEN": "the star around which the Earth orbits, providing light and heat.",
         "descriptionRU": "звезда, вокруг которой вращается Земля, обеспечивая свет и тепло."
     }, {
         "de": "beschaulich",
         "en": "picturesque",
         "ru": "живописный",
+        "descriptionDE": "Visuell ansprechend, besonders auf malerische oder charmante Weise.",
         "descriptionEN": "visually attractive, especially in a quaint or charming way.",
         "descriptionRU": "визуально привлекательный, особенно в живописном или очаровательном стиле."
     }, {
         "de": "prächtig",
         "en": "splendid",
         "ru": "великолепный",
+        "descriptionDE": "Impressiv im Aussehen; großartig.",
         "descriptionEN": "impressive in appearance; magnificent.",
         "descriptionRU": "впечатляющий внешне; великолепный."
     }, {
         "de": "blühend",
         "en": "thriving",
         "ru": "процветающий",
+        "descriptionDE": "Wächst oder entwickelt sich gut; blühend.",
         "descriptionEN": "growing or developing well; flourishing.",
         "descriptionRU": "хорошо растущий или развивающийся; процветающий."
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "descriptionDE": "Bezogen auf die Vergangenheit, insbesondere die Geschichte eines Ortes, einer Person oder eines Ereignisses.",
         "descriptionEN": "related to the past, especially the history of a place, person, or event.",
         "descriptionRU": "связанный с прошлым, особенно историей места, человека или события."
     }, {
         "de": "renommiert",
         "en": "renowned",
         "ru": "признанный",
+        "descriptionDE": "Weit bekannt und respektiert; berühmt.",
         "descriptionEN": "widely known and respected; famous.",
         "descriptionRU": "широко известный и уважаемый; известный."
     }, {
         "de": "friedlich",
         "en": "peaceful",
         "ru": "мирный",
+        "descriptionDE": "Gekennzeichnet durch das Fehlen von Gewalt oder Störungen.",
         "descriptionEN": "characterized by a lack of violence or disturbance.",
         "descriptionRU": "характеризующийся отсутствием насилия или беспорядка."
     }, {
         "de": "entspannt",
         "en": "relaxed",
         "ru": "расслабленный",
+        "descriptionDE": "Frei von Spannung und Angst; entspannt.",
         "descriptionEN": "free from tension and anxiety; at ease.",
         "descriptionRU": "освобожденный от напряжения и беспокойства; спокойный."
     }, {
         "de": "lecker",
         "en": "delicious",
         "ru": "вкусный",
+        "descriptionDE": "Hoch angenehm im Geschmack; sehr lecker.",
         "descriptionEN": "highly pleasant to the taste; very tasty.",
         "descriptionRU": "очень приятный на вкус; очень вкусный."
     }, {
         "de": "gemütlich",
         "en": "cozy",
         "ru": "уютный",
+        "descriptionDE": "Verleiht ein Gefühl von Komfort, Wärme und Entspannung.",
         "descriptionEN": "giving a feeling of comfort, warmth, and relaxation.",
         "descriptionRU": "создающий ощущение комфорта, тепла и расслабления."
     }, {
         "de": "freundlich",
         "en": "friendly",
         "ru": "дружелюбный",
+        "descriptionDE": "Freundlich und angenehm; verhält sich auf angenehme, freundliche Weise.",
         "descriptionEN": "kind and pleasant; behaving in a pleasant, kind way.",
         "descriptionRU": "добрый и приятный; ведущий себя приятным и добрым образом."
     }, {
         "de": "entscheidend",
         "en": "decisive",
         "ru": "решающий",
+        "descriptionDE": "Löst eine Frage; bringt ein definitives Ergebnis hervor.",
         "descriptionEN": "settling an issue; producing a definite result.",
         "descriptionRU": "решение вопроса; производящий определенный результат."
     }, {
         "de": "versteckt",
         "en": "hidden",
         "ru": "скрытый",
+        "descriptionDE": "Nicht leicht zu sehen oder zu bemerken; verborgen.",
         "descriptionEN": "not easily seen or noticed; concealed.",
         "descriptionRU": "не легко видимый или заметный; скрытый."
     }

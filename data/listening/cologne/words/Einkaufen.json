@@ -4,138 +4,161 @@
         "en": "Shopping",
         "ru": "Покупка",
         "descriptionEN": "the activity of buying goods from shops.",
-        "descriptionRU": "деятельность по покупке товаров в магазинах."
+        "descriptionRU": "деятельность по покупке товаров в магазинах.",
+        "descriptionDE": "die Aktivität des Kaufens von Waren aus Geschäften."
     }, {
         "de": "die Stadt",
         "en": "City",
         "ru": "Город",
         "descriptionEN": "a large town.",
-        "descriptionRU": "большой город."
+        "descriptionRU": "большой город.",
+        "descriptionDE": "eine große Stadt."
     }, {
         "de": "die Vielfalt",
         "en": "Diversity",
         "ru": "Разнообразие",
         "descriptionEN": "the state of being diverse.",
-        "descriptionRU": "состояние разнообразия."
+        "descriptionRU": "состояние разнообразия.",
+        "descriptionDE": "der Zustand, vielfältig zu sein."
     }, {
         "de": "die Auswahl",
         "en": "Selection",
         "ru": "Выбор",
         "descriptionEN": "the action or fact of carefully choosing someone or something.",
-        "descriptionRU": "действие или факт тщательного выбора кого-то или чего-то."
+        "descriptionRU": "действие или факт тщательного выбора кого-то или чего-то.",
+        "descriptionDE": "die Handlung oder Tatsache, jemanden oder etwas sorgfältig auszuwählen."
     }, {
         "de": "das Gemüse",
         "en": "Vegetables",
         "ru": "Овощи",
         "descriptionEN": "plants grown for their edible parts.",
-        "descriptionRU": "растения, выращенные за счет съедобных частей."
+        "descriptionRU": "растения, выращенные за счет съедобных частей.",
+        "descriptionDE": "Pflanzen, die für ihre essbaren Teile angebaut werden."
     }, {
         "de": "die Frischware",
         "en": "Fresh Produce",
         "ru": "Свежие продукты",
         "descriptionEN": "food that is fresh and has not been processed or frozen.",
-        "descriptionRU": "продукты, которые свежи и не были обработаны или заморожены."
+        "descriptionRU": "продукты, которые свежи и не были обработаны или заморожены.",
+        "descriptionDE": "Lebensmittel, die frisch sind und nicht verarbeitet oder eingefroren wurden."
     }, {
         "de": "die Wurst",
         "en": "Sausage",
         "ru": "Колбаса",
         "descriptionEN": "a cylindrical meat product.",
-        "descriptionRU": "цилиндрический мясной продукт."
+        "descriptionRU": "цилиндрический мясной продукт.",
+        "descriptionDE": "ein zylindrisches Fleischprodukt."
     }, {
         "de": "das Brot",
         "en": "Bread",
         "ru": "Хлеб",
         "descriptionEN": "a staple food prepared from a dough of flour and water.",
-        "descriptionRU": "основной продукт, приготовленный из теста из муки и воды."
+        "descriptionRU": "основной продукт, приготовленный из теста из муки и воды.",
+        "descriptionDE": "ein Grundnahrungsmittel, hergestellt aus einem Teig aus Mehl und Wasser."
     }, {
         "de": "die Spezialität",
         "en": "Specialty",
         "ru": "Специальность",
         "descriptionEN": "a product of a special kind.",
-        "descriptionRU": "продукт особого вида."
+        "descriptionRU": "продукт особого вида.",
+        "descriptionDE": "ein Produkt besonderer Art."
     }, {
         "de": "das Sauerkraut",
         "en": "Sauerkraut",
         "ru": "Кислая капуста",
         "descriptionEN": "fermented cabbage.",
-        "descriptionRU": "квашеная капуста."
+        "descriptionRU": "квашеная капуста.",
+        "descriptionDE": "fermentierter Kohl."
     }, {
         "de": "die Qualität",
         "en": "Quality",
         "ru": "Качество",
         "descriptionEN": "the standard of something as measured against other things of a similar kind.",
-        "descriptionRU": "стандарт чего-то, измеренный по сравнению с другими вещами схожего рода."
+        "descriptionRU": "стандарт чего-то, измеренный по сравнению с другими вещами схожего рода.",
+        "descriptionDE": "der Standard von etwas im Vergleich zu anderen Dingen ähnlicher Art."
     }, {
         "de": "der Duft",
         "en": "Scent",
         "ru": "Аромат",
         "descriptionEN": "a distinctive smell.",
-        "descriptionRU": "отличительный запах."
+        "descriptionRU": "отличительный запах.",
+        "descriptionDE": "ein charakteristischer Geruch."
     }, {
         "de": "probieren",
         "en": "To Try",
         "ru": "Пробовать",
         "descriptionEN": "to taste or sample something.",
-        "descriptionRU": "попробовать или отведать что-то."
+        "descriptionRU": "попробовать или отведать что-то.",
+        "descriptionDE": "etwas kosten oder probieren."
     }, {
         "de": "erkunden",
         "en": "To Explore",
         "ru": "Исследовать",
         "descriptionEN": "to travel in or through an unfamiliar country or area in order to learn about or familiarize oneself with it.",
-        "descriptionRU": "путешествовать в незнакомой стране или районе с целью узнать или ознакомиться с ним."
+        "descriptionRU": "путешествовать в незнакомой стране или районе с целью узнать или ознакомиться с ним.",
+        "descriptionDE": "in einem unbekannten Land oder Gebiet reisen, um es kennenzulernen oder sich damit vertraut zu machen."
     }, {
         "de": "freuen",
         "en": "To Delight",
         "ru": "Радоваться",
         "descriptionEN": "to feel or express joy or pleasure.",
-        "descriptionRU": "чувствовать или выражать радость или удовольствие."
+        "descriptionRU": "чувствовать или выражать радость или удовольствие.",
+        "descriptionDE": "Freude oder Vergnügen empfinden oder ausdrücken."
     }, {
         "de": "überwältigen",
         "en": "To Overwhelm",
         "ru": "Потрясать",
         "descriptionEN": "to defeat completely.",
-        "descriptionRU": "полностью победить."
+        "descriptionRU": "полностью победить.",
+        "descriptionDE": "vollständig besiegen."
     }, {
         "de": "überraschen",
         "en": "To Surprise",
         "ru": "Удивлять",
         "descriptionEN": "to cause someone to feel mild astonishment.",
-        "descriptionRU": "вызвать у кого-то легкое удивление."
+        "descriptionRU": "вызвать у кого-то легкое удивление.",
+        "descriptionDE": "jemanden dazu bringen, leichte Verwunderung zu empfinden."
     }, {
         "de": "begrenzt",
         "en": "Limited",
         "ru": "Ограниченный",
         "descriptionEN": "restricted in size, amount, or extent.",
-        "descriptionRU": "ограничен в размере, количестве или масштабе."
+        "descriptionRU": "ограничен в размере, количестве или масштабе.",
+        "descriptionDE": "in Größe, Menge oder Umfang beschränkt."
     }, {
         "de": "frisch",
         "en": "Fresh",
         "ru": "Свежий",
         "descriptionEN": "recently made or obtained; not canned, frozen, or otherwise preserved.",
-        "descriptionRU": "недавно изготовленный или полученный; не консервированный, замороженный или иным образом сохраненный."
+        "descriptionRU": "недавно изготовленный или полученный; не консервированный, замороженный или иным образом сохраненный.",
+        "descriptionDE": "vor kurzem hergestellt oder erhalten; nicht konserviert, eingefroren oder anderweitig konserviert."
     }, {
         "de": "traditionell",
         "en": "Traditional",
         "ru": "Традиционный",
         "descriptionEN": "existing in or as part of a tradition; long-established.",
-        "descriptionRU": "существующий в рамках традиции; давно установленный."
+        "descriptionRU": "существующий в рамках традиции; давно установленный.",
+        "descriptionDE": "existierend in oder als Teil einer Tradition; lange etabliert."
     }, {
         "de": "lecker",
         "en": "Delicious",
         "ru": "Вкусный",
         "descriptionEN": "highly pleasant to the taste.",
-        "descriptionRU": "высоко приятный на вкус."
+        "descriptionRU": "высоко приятный на вкус.",
+        "descriptionDE": "hoch angenehm im Geschmack."
     }, {
         "de": "lokale",
         "en": "Local",
         "ru": "Местный",
         "descriptionEN": "relating to or occurring in a particular area, city, or town.",
-        "descriptionRU": "относящийся или происходящий в конкретном районе, городе или поселке."
+        "descriptionRU": "относящийся или происходящий в конкретном районе, городе или поселке.",
+        "descriptionDE": "bezogen auf oder auftretend in einem bestimmten Gebiet, einer Stadt oder einer Stadt."
     }, {
         "de": "vibrant",
         "en": "Vibrant",
         "ru": "Яркий",
         "descriptionEN": "full of energy and enthusiasm.",
-        "descriptionRU": "полный энергии и энтузиазма."
+        "descriptionRU": "полный энергии и энтузиазма.",
+        "descriptionDE": "voll Energie und Enthusiasmus."
     }
 ]

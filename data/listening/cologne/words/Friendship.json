@@ -4,72 +4,84 @@
         "en": "front door",
         "ru": "входная дверь",
         "descriptionEN": "the main entrance door to a house or building.",
-        "descriptionRU": "основная входная дверь в дом или здание."
+        "descriptionRU": "основная входная дверь в дом или здание.",
+        "descriptionDE": "die Haupteingangstür zu einem Haus oder Gebäude."
     }, {
         "de": "die Schüssel",
         "en": "bowl",
         "ru": "миска",
         "descriptionEN": "a round, deep dish for serving food.",
-        "descriptionRU": "круглая глубокая посуда для подачи еды."
+        "descriptionRU": "круглая глубокая посуда для подачи еды.",
+        "descriptionDE": "eine runde, tiefe Schale zum Servieren von Speisen."
     }, {
         "de": "der Freund",
         "en": "friend",
         "ru": "друг",
         "descriptionEN": "a person with whom one has a bond of mutual affection.",
-        "descriptionRU": "человек, с которым у тебя взаимная дружба."
+        "descriptionRU": "человек, с которым у тебя взаимная дружба.",
+        "descriptionDE": "eine Person, mit der man eine Verbindung gegenseitiger Zuneigung hat."
     }, {
         "de": "die Nachspeise",
         "en": "dessert",
         "ru": "десерт",
         "descriptionEN": "a sweet course typically eaten at the end of a meal.",
-        "descriptionRU": "сладкое блюдо, обычно употребляемое в конце приема пищи."
+        "descriptionRU": "сладкое блюдо, обычно употребляемое в конце приема пищи.",
+        "descriptionDE": "ein süßer Gang, der normalerweise am Ende einer Mahlzeit gegessen wird."
     }, {
         "de": "der Honig",
         "en": "honey",
         "ru": "мед",
         "descriptionEN": "a sweet, sticky, yellowish-brown fluid made by bees.",
-        "descriptionRU": "сладкая, клейкая, желто-коричневая жидкость, производимая пчелами."
+        "descriptionRU": "сладкая, клейкая, желто-коричневая жидкость, производимая пчелами.",
+        "descriptionDE": "eine süße, klebrige, gelbbraune Flüssigkeit, die von Bienen hergestellt wird."
     }, {
         "de": "der Geschmack",
         "en": "taste",
         "ru": "вкус",
         "descriptionEN": "the sensation of flavor perceived in the mouth.",
-        "descriptionRU": "ощущение вкуса, воспринимаемое во рту."
+        "descriptionRU": "ощущение вкуса, воспринимаемое во рту.",
+        "descriptionDE": "die Empfindung von Geschmack, die im Mund wahrgenommen wird."
     }, {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
         "descriptionEN": "any nutritious substance that people or animals eat or drink.",
-        "descriptionRU": "любое питательное вещество, которое люди или животные употребляют в пищу."
+        "descriptionRU": "любое питательное вещество, которое люди или животные употребляют в пищу.",
+        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken."
     }, {
         "de": "die Flasche",
         "en": "bottle",
         "ru": "бутылка",
         "descriptionEN": "a container, typically made of glass or plastic, with a narrow neck.",
-        "descriptionRU": "контейнер, обычно из стекла или пластика, с узким горлышком."
+        "descriptionRU": "контейнер, обычно из стекла или пластика, с узким горлышком.",
+        "descriptionDE": "ein Behälter, in der Regel aus Glas oder Kunststoff, mit einem schmalen Hals."
     }, {
         "de": "machen",
         "en": "make",
         "ru": "делать",
         "descriptionEN": "to create or produce something.",
-        "descriptionRU": "создавать или производить что-то."
+        "descriptionRU": "создавать или производить что-то.",
+        "descriptionDE": "etwas schaffen oder produzieren."
     }, {
         "de": "kommen",
         "en": "come",
         "ru": "приходить",
         "descriptionEN": "to arrive at or reach a particular place.",
-        "descriptionRU": "приходить в определенное место."
+        "descriptionRU": "приходить в определенное место.",
+        "descriptionDE": "an einem bestimmten Ort ankommen oder erreichen."
     }, {
         "de": "froh",
         "en": "happy",
         "ru": "счастливый",
         "descriptionEN": "feeling or showing pleasure or contentment.",
-        "descriptionRU": "чувство или выражение радости или удовлетворения."
+        "descriptionRU": "чувство или выражение радости или удовлетворения.",
+        "descriptionDE": "das Gefühl oder das Zeigen von Freude oder Zufriedenheit."
     }, {
         "de": "neugierig",
         "en": "curious",
         "ru": "любопытный",
         "descriptionEN": "eager to know or learn something.",
-        "descriptionRU": "стремящийся узнать или учить что-то."
+        "descriptionRU": "стремящийся узнать или учить что-то.",
+        "descriptionDE": "begierig zu wissen oder etwas zu lernen."
     }
 ]

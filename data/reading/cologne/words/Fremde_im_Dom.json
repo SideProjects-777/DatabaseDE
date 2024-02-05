@@ -4,90 +4,105 @@
         "en": "Amidst",
         "ru": "Среди",
         "descriptionEN": "Surrounded by or in the middle of",
-        "descriptionRU": "Окруженный или посреди"
+        "descriptionRU": "Окруженный или посреди",
+        "descriptionDE": "von etwas umgeben oder in der Mitte von etwas"
     }, {
         "de": "imposante",
         "en": "imposing",
         "ru": "внушительный",
         "descriptionEN": "Impressive in size or appearance",
-        "descriptionRU": "Внушающий впечатление размером или внешним видом"
+        "descriptionRU": "Внушающий впечатление размером или внешним видом",
+        "descriptionDE": "beeindruckend in Größe oder Erscheinung"
     }, {
         "de": "der Kölner",
         "en": "Cologne",
         "ru": "Кёльнский",
         "descriptionEN": "Related to or from Cologne",
-        "descriptionRU": "Связанный с Кёльном или из Кёльна"
+        "descriptionRU": "Связанный с Кёльном или из Кёльна",
+        "descriptionDE": "bezogen auf oder aus Köln stammend"
     }, {
         "de": "der Dom",
         "en": "Cathedral",
         "ru": "Собор",
         "descriptionEN": "Referring to the cathedral",
-        "descriptionRU": "Относящийся к собору"
+        "descriptionRU": "Относящийся к собору",
+        "descriptionDE": "bezieht sich auf den Dom"
     }, {
         "de": "treffen",
         "en": "meet",
         "ru": "встречаться",
         "descriptionEN": "Encounter or come across",
-        "descriptionRU": "Встретиться с кем-то"
+        "descriptionRU": "Встретиться с кем-то",
+        "descriptionDE": "auf jemanden stoßen oder begegnen"
     }, {
         "de": "der Zufall",
         "en": "coincidence",
         "ru": "случайность",
         "descriptionEN": "A happening by chance",
-        "descriptionRU": "Событие, произошедшее случайно"
+        "descriptionRU": "Событие, произошедшее случайно",
+        "descriptionDE": "ein Ereignis, das zufällig geschieht"
     }, {
         "de": "aufeinander",
         "en": "each other",
         "ru": "друг на друга",
         "descriptionEN": "Towards one another",
-        "descriptionRU": "Друг к другу"
+        "descriptionRU": "Друг к другу",
+        "descriptionDE": "zueinander hin"
     }, {
         "de": "der Transferstudent",
         "en": "transfer student",
         "ru": "студент-трансферник",
         "descriptionEN": "A student who transfers from one university to another",
-        "descriptionRU": "Студент, переводящийся из одного университета в другой"
+        "descriptionRU": "Студент, переводящийся из одного университета в другой",
+        "descriptionDE": "ein Student, der von einer Universität zur anderen wechselt"
     }, {
         "de": "die Universität",
         "en": "university",
         "ru": "университет",
         "descriptionEN": "An institution of higher learning",
-        "descriptionRU": "Учебное заведение высшего образования"
+        "descriptionRU": "Учебное заведение высшего образования",
+        "descriptionDE": "eine Einrichtung höherer Bildung"
     }, {
         "de": "die Fremde",
         "en": "stranger",
         "ru": "незнакомец",
         "descriptionEN": "Someone not known or familiar",
-        "descriptionRU": "Кто-то неизвестный или незнакомый"
+        "descriptionRU": "Кто-то неизвестный или незнакомый",
+        "descriptionDE": "jemand, den man nicht kennt oder der einem nicht vertraut ist"
     }, {
         "de": "der Zwischenstopp",
         "en": "layover",
         "ru": "пересадка",
         "descriptionEN": "A temporary stop during a journey",
-        "descriptionRU": "Временная остановка во время путешествия"
+        "descriptionRU": "Временная остановка во время путешествия",
+        "descriptionDE": "eine vorübergehende Pause während einer Reise"
     }, {
         "de": "die Bank",
         "en": "bench",
         "ru": "скамейка",
         "descriptionEN": "A long seat for multiple people",
-        "descriptionRU": "Длинное сиденье для нескольких человек"
+        "descriptionRU": "Длинное сиденье для нескольких человек",
+        "descriptionDE": "eine lange Sitzgelegenheit für mehrere Personen"
     }, {
         "de": "die Anekdoten",
         "en": "anecdotes",
         "ru": "анекдоты",
         "descriptionEN": "Short and amusing or interesting stories",
-        "descriptionRU": "Короткие и забавные или интересные рассказы"
+        "descriptionRU": "Короткие и забавные или интересные рассказы",
+        "descriptionDE": "kurze und amüsante oder interessante Geschichten"
     }, {
         "de": "das Fenster",
         "en": "window",
         "ru": "окно",
         "descriptionEN": "An opening in a wall for light and air",
-        "descriptionRU": "Отверстие в стене для света и воздуха"
+        "descriptionRU": "Отверстие в стене для света и воздуха",
+        "descriptionDE": "eine Öffnung in einer Wand für Licht und Luft"
     }, {
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
         "descriptionEN": "A connected series of railway carriages",
-        "descriptionRU": "Связанная серия железнодорожных вагонов"
+        "descriptionRU": "Связанная серия железнодорожных вагонов",
+        "descriptionDE": "eine verbundene Serie von Eisenbahnwagen"
     }
 ]

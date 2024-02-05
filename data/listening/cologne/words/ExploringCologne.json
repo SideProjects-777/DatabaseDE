@@ -3,181 +3,211 @@
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
-        "descriptionEN": "all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.",
+        "descriptionDE": "alle sichtbaren Merkmale eines Landgebiets, oft im Hinblick auf ihre ästhetische Anziehungskraft betrachtet.",
+        "descriptionEN": "All the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.",
         "descriptionRU": "все видимые особенности какой-то местности или земли, часто рассматриваемые с точки зрения их эстетической привлекательности."
     }, {
         "de": "der Frühling",
         "en": "spring",
         "ru": "весна",
-        "descriptionEN": "the season after winter and before summer when the weather becomes warmer, and plants revive, extending from the vernal equinox to the summer solstice.",
+        "descriptionDE": "die Jahreszeit nach dem Winter und vor dem Sommer, wenn das Wetter wärmer wird und Pflanzen wieder zum Leben erweckt werden, von der Frühjahrstagundnachtgleiche bis zur Sommersonnenwende.",
+        "descriptionEN": "The season after winter and before summer when the weather becomes warmer, and plants revive, extending from the vernal equinox to the summer solstice.",
         "descriptionRU": "сезон после зимы и перед летом, когда погода становится теплее, и растения оживают, продолжается от весеннего равноденствия до летнего солнцестояния."
     }, {
         "de": "der Karneval",
         "en": "carnival",
         "ru": "карнавал",
-        "descriptionEN": "a festive season that occurs before Lent, typically involving public celebrations, parades, and the wearing of masks and costumes.",
+        "descriptionDE": "eine festliche Jahreszeit, die vor der Fastenzeit stattfindet und typischerweise öffentliche Feierlichkeiten, Paraden sowie das Tragen von Masken und Kostümen umfasst.",
+        "descriptionEN": "A festive season that occurs before Lent, typically involving public celebrations, parades, and the wearing of masks and costumes.",
         "descriptionRU": "праздничный сезон, который происходит перед Великим постом, обычно включающий публичные празднования, парады, а также ношение масок и костюмов."
     }, {
         "de": "die Umzüge",
         "en": "parades",
         "ru": "парады",
-        "descriptionEN": "a public procession, especially one celebrating a special day or event.",
+        "descriptionDE": "eine öffentliche Prozession, besonders eine, die einen besonderen Tag oder ein besonderes Ereignis feiert.",
+        "descriptionEN": "A public procession, especially one celebrating a special day or event.",
         "descriptionRU": "публичное шествие, особенно в честь особого дня или события."
     }, {
         "de": "das Brauhaus",
         "en": "beer hall",
         "ru": "пивной зал",
-        "descriptionEN": "a large pub or bar where beer is served along with traditional food in a convivial atmosphere.",
+        "descriptionDE": "eine große Kneipe oder Bar, in der Bier zusammen mit traditionellem Essen in geselliger Atmosphäre serviert wird.",
+        "descriptionEN": "A large pub or bar where beer is served along with traditional food in a convivial atmosphere.",
         "descriptionRU": "большой паб или бар, где подают пиво вместе с традиционной едой в дружелюбной атмосфере."
     }, {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
-        "descriptionEN": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "descriptionDE": "ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
+        "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
         "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
     }, {
         "de": "der Nationalsozialismus",
         "en": "National Socialism",
         "ru": "национал-социализм",
-        "descriptionEN": "the ideology and policies associated with Adolf Hitler's Nazi Party in Nazi Germany, characterized by extreme authoritarian and nationalistic views.",
+        "descriptionDE": "die Ideologie und Politik, die mit der nationalsozialistischen Partei Adolf Hitlers im nationalsozialistischen Deutschland verbunden ist und durch extreme autoritäre und nationalistische Ansichten gekennzeichnet ist.",
+        "descriptionEN": "The ideology and policies associated with Adolf Hitler's Nazi Party in Nazi Germany, characterized by extreme authoritarian and nationalistic views.",
         "descriptionRU": "идеология и политика, связанные с нацистской партией Адольфа Гитлера в нацистской Германии, характеризующиеся крайне авторитарными и националистическими взглядами."
     }, {
         "de": "der Flohmarkt",
         "en": "flea market",
         "ru": "блошиный рынок",
-        "descriptionEN": "a market, typically held outdoors, where secondhand goods are sold.",
+        "descriptionDE": "ein Markt, der in der Regel im Freien stattfindet, auf dem Gebrauchtwaren verkauft werden.",
+        "descriptionEN": "A market, typically held outdoors, where secondhand goods are sold.",
         "descriptionRU": "рынок, обычно проводимый на открытом воздухе, где продаются поддержанные товары."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
-        "descriptionEN": "regard (an object, quality, or person) with respect or warm approval.",
+        "descriptionDE": "etwas mit Respekt oder warmer Zustimmung betrachten (Objekt, Qualität oder Person).",
+        "descriptionEN": "Regard (an object, quality, or person) with respect or warm approval.",
         "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением."
     }, {
         "de": "meiden",
         "en": "avoid",
         "ru": "избегать",
-        "descriptionEN": "deliberately stay away from or stop using; keep away from.",
+        "descriptionDE": "sich absichtlich von etwas fernhalten oder aufhören zu benutzen; sich fernhalten.",
+        "descriptionEN": "Deliberately stay away from or stop using; keep away from.",
         "descriptionRU": "сознательно держаться в стороне от чего-либо или прекратить использование; держаться в стороне."
     }, {
         "de": "kitschig",
         "en": "kitschy",
         "ru": "кичливый",
-        "descriptionEN": "considered to be in poor taste because of excessive garishness or sentimentality.",
+        "descriptionDE": "als geschmacklos angesehen wegen übermäßiger Schrillheit oder Sentimentalität.",
+        "descriptionEN": "Considered to be in poor taste because of excessive garishness or sentimentality.",
         "descriptionRU": "считающийся плохим вкусом из-за избыточной яркости или сентиментальности."
     }, {
         "de": "ausgefallen",
         "en": "fancy",
         "ru": "изысканный",
-        "descriptionEN": "elaborate in structure or decoration; luxurious.",
+        "descriptionDE": "ausführlich in Struktur oder Dekoration; luxuriös.",
+        "descriptionEN": "Elaborate in structure or decoration; luxurious.",
         "descriptionRU": "сложный по структуре или украшению; роскошный."
     }, {
         "de": "spät",
         "en": "late",
         "ru": "поздно",
-        "descriptionEN": "occurring or done after the usual or expected time.",
+        "descriptionDE": "nach der üblichen oder erwarteten Zeit auftretend oder getan.",
+        "descriptionEN": "Occurring or done after the usual or expected time.",
         "descriptionRU": "происходящий или сделанный после обычного или ожидаемого времени."
     }, {
         "de": "die Höhe",
         "en": "height",
         "ru": "высота",
-        "descriptionEN": "the measurement from base to top or the upper surface of something.",
+        "descriptionDE": "die Messung von der Basis bis zur Spitze oder der oberen Oberfläche von etwas.",
+        "descriptionEN": "The measurement from base to top or the upper surface of something.",
         "descriptionRU": "измерение от основания до вершины или верхней поверхности чего-либо."
     }, {
         "de": "die Souvenirs",
         "en": "souvenirs",
         "ru": "сувениры",
-        "descriptionEN": "items kept as a reminder of a person, place, or event; a memento.",
+        "descriptionDE": "Gegenstände, die als Erinnerung an eine Person, einen Ort oder ein Ereignis aufbewahrt werden; ein Andenken.",
+        "descriptionEN": "Items kept as a reminder of a person, place, or event; a memento.",
         "descriptionRU": "предметы, хранящиеся в качестве напоминания о человеке, месте или событии; сувенир."
     }, {
         "de": "der Kiosk",
         "en": "kiosk",
         "ru": "киоск",
-        "descriptionEN": "a small open-fronted hut or cubicle from which newspapers, refreshments, tickets, etc., are sold.",
+        "descriptionDE": "eine kleine offene Hütte oder Kabine, aus der Zeitungen, Erfrischungen, Tickets usw. verkauft werden.",
+        "descriptionEN": "A small open-fronted hut or cubicle from which newspapers, refreshments, tickets, etc., are sold.",
         "descriptionRU": "небольшая открытая будка или кабина, из которой продают газеты, закуски, билеты и т.д."
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
-        "descriptionEN": "a large, flowing body of water usually formed by two or more streams, emptying into a sea or other large body of water.",
+        "descriptionDE": "ein großer, fließender Wasserlauf, der in der Regel durch zwei oder mehr Ströme gebildet wird und in ein Meer oder einen anderen großen Wasserlauf mündet.",
+        "descriptionEN": "A large, flowing body of water usually formed by two or more streams, emptying into a sea or other large body of water.",
         "descriptionRU": "большое, течущее водоем, обычно образованное двумя или более ручьями, впадающими в море или другое большое водоем."
     }, {
         "de": "die Zellen",
         "en": "cells",
         "ru": "клетки",
-        "descriptionEN": "the smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane.",
+        "descriptionDE": "die kleinste strukturelle und funktionelle Einheit eines Organismus, typischerweise mikroskopisch und bestehend aus Zytoplasma und einem Kern, der von einer Membran umgeben ist.",
+        "descriptionEN": "The smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane.",
         "descriptionRU": "наименьшая структурная и функциональная единица организма, обычно микроскопическая и состоящая из цитоплазмы и ядра, заключенных в мембрану."
     }, {
         "de": "der Nachtflohmarkt",
         "en": "night flea market",
         "ru": "ночной блошиный рынок",
-        "descriptionEN": "a flea market that takes place during the night, typically featuring secondhand goods and a lively atmosphere.",
+        "descriptionDE": "ein Flohmarkt, der nachts stattfindet und in der Regel gebrauchte Waren und eine lebendige Atmosphäre bietet.",
+        "descriptionEN": "A flea market that takes place during the night, typically featuring secondhand goods and a lively atmosphere.",
         "descriptionRU": "блошиный рынок, который проводится ночью, обычно с поддержанными товарами и живой атмосферой."
     }, {
         "de": "die Eifel",
         "en": "Eifel",
         "ru": "Эйфель",
-        "descriptionEN": "a low mountain range in western Germany and eastern Belgium, known for its scenic landscapes and outdoor activities.",
+        "descriptionDE": "eine niedrige Bergkette in Westdeutschland und Ostbelgien, bekannt für ihre malerischen Landschaften und Outdoor-Aktivitäten.",
+        "descriptionEN": "A low mountain range in western Germany and eastern Belgium, known for its scenic landscapes and outdoor activities.",
         "descriptionRU": "низкая горная цепь на западе Германии и востоке Бельгии, известная своими живописными пейзажами и активными видами отдыха."
     }, {
         "de": "der Sauerland",
         "en": "Sauerland",
         "ru": "Зауэрланд",
-        "descriptionEN": "a region in western Germany known for its forests, hills, and winter sports activities.",
+        "descriptionDE": "eine Region in Westdeutschland, bekannt für ihre Wälder, Hügel und Wintersportaktivitäten.",
+        "descriptionEN": "A region in western Germany known for its forests, hills, and winter sports activities.",
         "descriptionRU": "регион в западной Германии, известный своими лесами, холмами и зимними видами спорта."
     }, {
         "de": "die Winter",
         "en": "winter",
         "ru": "зима",
-        "descriptionEN": "the coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
+        "descriptionDE": "die kälteste Jahreszeit des Jahres, auf der Nordhalbkugel von Dezember bis Februar und auf der Südhalbkugel von Juni bis August.",
+        "descriptionEN": "The coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
         "descriptionRU": "самый холодный сезон года, на северном полушарии с декабря по февраль, а на южном полушарии с июня по август."
     }, {
         "de": "die Gärten",
         "en": "gardens",
         "ru": "сады",
-        "descriptionEN": "areas of ground where flowers and plants are grown for decorative purposes.",
+        "descriptionDE": "Flächen, auf denen Blumen und Pflanzen aus dekorativen Gründen angebaut werden.",
+        "descriptionEN": "Areas of ground where flowers and plants are grown for decorative purposes.",
         "descriptionRU": "участки земли, где выращивают цветы и растения в декоративных целях."
     }, {
         "de": "das Stadtzentrum",
         "en": "city center",
         "ru": "центр города",
-        "descriptionEN": "the central part or main business and commercial area of a city.",
+        "descriptionDE": "der zentrale Teil oder die Hauptgeschäfts- und Handelszone einer Stadt.",
+        "descriptionEN": "The central part or main business and commercial area of a city.",
         "descriptionRU": "центральная часть или основная бизнес- и коммерческая зона города."
     }, {
         "de": "die Altstadt",
         "en": "old town",
         "ru": "старый город",
-        "descriptionEN": "the historic, original core of a city or town.",
+        "descriptionDE": "der historische, originale Kern einer Stadt oder eines Dorfes.",
+        "descriptionEN": "The historic, original core of a city or town.",
         "descriptionRU": "историческое, первоначальное ядро города или города."
     }, {
         "de": "die Höhe Straße",
         "en": "Hohe Straße",
         "ru": "Хоэ Штрассе",
-        "descriptionEN": "a well-known shopping street in the old town of Cologne, Germany.",
+        "descriptionDE": "eine bekannte Einkaufsstraße in der Altstadt von Köln, Deutschland.",
+        "descriptionEN": "A well-known shopping street in the old town of Cologne, Germany.",
         "descriptionRU": "известная торговая улица в старом городе Кёльна, Германия."
     }, {
         "de": "der König",
         "en": "king",
         "ru": "король",
-        "descriptionEN": "a male ruler of an independent state, especially one who inherits the position by right of birth.",
+        "descriptionDE": "ein männlicher Herrscher eines unabhängigen Staates, besonders einer, der die Position durch Geburtsrecht erbt.",
+        "descriptionEN": "A male ruler of an independent state, especially one who inherits the position by right of birth.",
         "descriptionRU": "мужской правитель независимого государства, особенно тот, кто унаследовал должность по праву рождения."
     }, {
         "de": "der Stadtteil",
         "en": "neighborhood",
         "ru": "район города",
-        "descriptionEN": "a district or community within a town or city.",
+        "descriptionDE": "ein Bezirk oder eine Gemeinschaft innerhalb einer Stadt oder eines Dorfes.",
+        "descriptionEN": "A district or community within a town or city.",
         "descriptionRU": "район или сообщество внутри города."
     }, {
         "de": "das Geschenk",
         "en": "gift",
         "ru": "подарок",
-        "descriptionEN": "a thing given willingly to someone without payment; a present.",
+        "descriptionDE": "eine Sache, die jemandem freiwillig ohne Bezahlung gegeben wird; ein Geschenk.",
+        "descriptionEN": "A thing given willingly to someone without payment; a present.",
         "descriptionRU": "вещь, даримая кому-то добровольно без оплаты; подарок."
     }, {
         "de": "der Genuss",
         "en": "enjoyment",
         "ru": "наслаждение",
-        "descriptionEN": "the state or process of taking pleasure in something.",
+        "descriptionDE": "der Zustand oder Prozess, Freude an etwas zu haben.",
+        "descriptionEN": "The state or process of taking pleasure in something.",
         "descriptionRU": "состояние или процесс получения удовольствия от чего-то."
     }
 ]

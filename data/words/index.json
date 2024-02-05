@@ -1,14 +1,6 @@
 [
     {
         "title": {
-            "de": "Berlin",
-            "en": "Berlin",
-            "ru": "Берлин"
-        },
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/berlin/index.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/berlin/image.jpg"
-    }, {
-        "title": {
             "de": "Haushalt",
             "en": "Household",
             "ru": "Быт"
@@ -359,7 +351,7 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Anna.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg"
-    },{
+    }, {
         "title": {
             "de": "Einkaufsabenteuer",
             "en": "Shopping Adventure",

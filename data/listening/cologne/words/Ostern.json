@@ -3,78 +3,91 @@
         "de": "der Feiertag",
         "en": "holiday",
         "ru": "праздник",
+        "descriptionDE": "ein Tag des Feierns oder Gedenkens, in der Regel als arbeits- oder schulfreier Tag beobachtet.",
         "descriptionEN": "a day of celebration or commemoration, typically observed as a day off from work or school.",
         "descriptionRU": "день празднования или воспоминания, обычно отмечаемый как выходной день с работы или учебы."
     }, {
         "de": "der Karfreitag",
         "en": "Good Friday",
         "ru": "Страстная Пятница",
+        "descriptionDE": "der Freitag vor dem Ostersonntag, an dem in der christlichen Kirche die Kreuzigung Jesu Christi gedacht wird.",
         "descriptionEN": "the Friday before Easter Sunday, on which the Crucifixion of Jesus Christ is commemorated in the Christian Church.",
         "descriptionRU": "пятница перед воскресением, в христианской церкви посвященная памяти распятия Иисуса Христа."
     }, {
         "de": "der Tod",
         "en": "death",
         "ru": "смерть",
+        "descriptionDE": "die dauerhafte Beendigung aller biologischen Funktionen, die einen lebenden Organismus aufrechterhalten.",
         "descriptionEN": "the permanent cessation of all biological functions that sustain a living organism.",
         "descriptionRU": "постоянное прекращение всех биологических функций, поддерживающих живой организм."
     }, {
         "de": "die Auferstehung",
         "en": "resurrection",
         "ru": "воскрешение",
+        "descriptionDE": "die Handlung oder der Prozess des Auferstehens aus den Toten oder der Rückkehr ins Leben.",
         "descriptionEN": "the act or process of rising from the dead or returning to life.",
         "descriptionRU": "действие или процесс восстания из мертвых или возвращения к жизни."
     }, {
         "de": "die Kirche",
         "en": "church",
         "ru": "церковь",
+        "descriptionDE": "ein Gebäude, das für öffentlichen christlichen Gottesdienst genutzt wird.",
         "descriptionEN": "a building used for public Christian worship.",
         "descriptionRU": "здание, используемое для общественного христианского богослужения."
     }, {
         "de": "das Grab",
         "en": "grave",
         "ru": "могила",
+        "descriptionDE": "ein Ort der Bestattung für einen toten Körper, in der Regel eine in die Erde gegrabene Grube und durch einen Grabstein markiert.",
         "descriptionEN": "a place of burial for a dead body, typically a hole dug in the ground and marked by a headstone.",
         "descriptionRU": "место захоронения тела умершего, обычно яма, вырытая в земле и отмеченная могильным камнем."
     }, {
         "de": "das Osterei",
         "en": "Easter egg",
         "ru": "пасхальное яйцо",
+        "descriptionDE": "ein dekoriertes Ei, oft aus Schokolade, als Geschenk während der Osterzeit gegeben.",
         "descriptionEN": "a decorated egg, often made of chocolate, given as a gift during the Easter season.",
         "descriptionRU": "украшенное яйцо, часто из шоколада, даримое в подарок в период Пасхи."
     }, {
         "de": "die Blume",
         "en": "flower",
         "ru": "цветок",
+        "descriptionDE": "der samenbildende Teil einer Pflanze, bestehend aus reproduktiven Organen und ihren Hüllen.",
         "descriptionEN": "the seed-bearing part of a plant, consisting of reproductive organs and their envelopes.",
         "descriptionRU": "плодородная часть растения, состоящая из репродуктивных органов и их оболочек."
     }, {
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "descriptionDE": "eine Gruppe von einem oder mehreren Eltern und ihren Kindern, die zusammen als Einheit leben.",
         "descriptionEN": "a group of one or more parents and their children living together as a unit.",
         "descriptionRU": "группа одного или более родителей и их детей, живущих вместе как единое целое."
     }, {
         "de": "verreisen",
         "en": "to travel",
         "ru": "путешествовать",
+        "descriptionDE": "eine Reise antreten, in der Regel zum Vergnügen oder im Urlaub.",
         "descriptionEN": "to go on a journey, typically for pleasure or vacation.",
         "descriptionRU": "отправиться в путешествие, обычно ради удовольствия или отпуска."
     }, {
         "de": "feierlich",
         "en": "festive",
         "ru": "торжественный",
+        "descriptionDE": "eine fröhliche und festliche Atmosphäre haben; geeignet für eine Feier.",
         "descriptionEN": "having a joyous and celebratory atmosphere; suitable for a celebration.",
         "descriptionRU": "имеющий радостную и торжественную атмосферу; подходящий для праздника."
     }, {
         "de": "heimlich",
         "en": "secretly",
         "ru": "тайно",
+        "descriptionDE": "auf eine Weise, die von anderen nicht gesehen oder bekannt ist; privat oder diskret.",
         "descriptionEN": "in a way that is not seen or known by others; privately or discreetly.",
         "descriptionRU": "так, чтобы это не было видно или известно другим; частно или ненавязчиво."
     }, {
         "de": "fröhlich",
         "en": "joyful",
         "ru": "радостный",
+        "descriptionDE": "voll Freude; verursacht oder drückt Glück und Vergnügen aus.",
         "descriptionEN": "full of joy; causing or expressing happiness and pleasure.",
         "descriptionRU": "полный радости; вызывающий или выражающий счастье и удовольствие."
     }

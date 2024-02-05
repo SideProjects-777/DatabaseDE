@@ -3,126 +3,147 @@
         "de": "die Gedenkstätte",
         "en": "Memorial",
         "ru": "Мемориал",
+        "descriptionDE": "Ein Ort, der dem Gedächtnis einer Person oder eines Ereignisses gewidmet ist.",
         "descriptionEN": "A place dedicated to the memory of a person or event.",
         "descriptionRU": "Место, посвященное памяти человека или события."
     }, {
         "de": "das Museum",
         "en": "Museum",
         "ru": "Музей",
+        "descriptionDE": "Eine Institution, die Objekte von künstlerischer, kultureller oder historischer Bedeutung bewahrt und ausstellt.",
         "descriptionEN": "An institution preserving and exhibiting objects of artistic, cultural, or historical significance.",
         "descriptionRU": "Учреждение, сохраняющее и выставляющее объекты художественной, культурной или исторической значимости."
     }, {
         "de": "der Verein",
         "en": "Association",
         "ru": "Объединение",
+        "descriptionDE": "Eine Gruppe von Menschen, die sich für einen gemeinsamen Zweck zusammengeschlossen haben.",
         "descriptionEN": "A group of people joined together for a common purpose.",
         "descriptionRU": "Группа людей, объединенных общей целью."
     }, {
         "de": "das Leben",
         "en": "Life",
         "ru": "Жизнь",
+        "descriptionDE": "Der Zustand, der lebende Organismen von unbelebter Materie unterscheidet.",
         "descriptionEN": "The condition that distinguishes living organisms from inanimate matter.",
         "descriptionRU": "Состояние, отличающее живые организмы от неживой материи."
     }, {
         "de": "das Werk",
         "en": "Work",
         "ru": "Творение",
+        "descriptionDE": "Ein Stück künstlerischer oder intellektueller Schöpfung.",
         "descriptionEN": "A piece of artistic or intellectual creation.",
         "descriptionRU": "Произведение искусства или интеллектуального творчества."
     }, {
         "de": "der Komponist",
         "en": "Composer",
         "ru": "Композитор",
+        "descriptionDE": "Eine Person, die Musik schreibt, insbesondere beruflich.",
         "descriptionEN": "A person who writes music, especially as a profession.",
         "descriptionRU": "Человек, пишущий музыку, особенно профессионально."
     }, {
         "de": "das Geburtshaus",
         "en": "Birthplace",
         "ru": "Место рождения",
+        "descriptionDE": "Der Ort, an dem jemand geboren wird.",
         "descriptionEN": "The place where someone is born.",
         "descriptionRU": "Место, где кто-то родился."
     }, {
         "de": "untergebracht",
         "en": "Housed",
         "ru": "Размещенный",
+        "descriptionDE": "Mit einem Ort zum Leben oder Übernachten versehen.",
         "descriptionEN": "Provided with a place to live or stay.",
         "descriptionRU": "Обеспеченный местом для жизни или проживания."
     }, {
         "de": "die Forschungsstätte",
         "en": "Research Facility",
         "ru": "Исследовательское учреждение",
+        "descriptionDE": "Ein Ort, der der systematischen Untersuchung und Studie gewidmet ist.",
         "descriptionEN": "A place dedicated to systematic investigation and study.",
         "descriptionRU": "Место, посвященное систематическому исследованию и изучению."
     }, {
         "de": "die Sammlung",
         "en": "Collection",
         "ru": "Коллекция",
+        "descriptionDE": "Eine Gruppe von Objekten, die zum Studium, Vergleich oder zur Ausstellung gesammelt wurden.",
         "descriptionEN": "A group of objects gathered for study, comparison, or exhibition.",
         "descriptionRU": "Группа объектов, собранных для изучения, сравнения или выставки."
     }, {
         "de": "die Bibliothek",
         "en": "Library",
         "ru": "Библиотека",
+        "descriptionDE": "Eine Sammlung von Büchern und anderen Informationsquellen.",
         "descriptionEN": "A collection of books and other sources of information.",
         "descriptionRU": "Сборник книг и других источников информации."
     }, {
         "de": "der Verlag",
         "en": "Publisher",
         "ru": "Издательство",
+        "descriptionDE": "Ein Unternehmen oder eine Person, die sich mit dem Verlagsgeschäft befasst.",
         "descriptionEN": "A company or person engaged in the business of publishing.",
         "descriptionRU": "Компания или человек, занимающийся издательским бизнесом."
     }, {
         "de": "der Kammermusiksaal",
         "en": "Chamber Music Hall",
         "ru": "Зал камерной музыки",
+        "descriptionDE": "Ein Veranstaltungsort für Aufführungen von Kammermusik.",
         "descriptionEN": "A venue for performances of chamber music.",
         "descriptionRU": "Место для выступлений камерной музыки."
     }, {
         "de": "treffen",
         "en": "Meet",
         "ru": "Встречаться",
+        "descriptionDE": "Sich mit jemandem treffen.",
         "descriptionEN": "Come together with someone.",
         "descriptionRU": "Собираться вместе с кем-то."
     }, {
         "de": "austauschen",
         "en": "Exchange",
         "ru": "Обменять",
+        "descriptionDE": "Etwas geben und etwas desselben Typs im Austausch erhalten.",
         "descriptionEN": "Give something and receive something of the same kind in return.",
         "descriptionRU": "Отдать что-то и получить что-то такого же рода взамен."
     }, {
         "de": "die Finanzierung",
         "en": "Financing",
         "ru": "Финансирование",
+        "descriptionDE": "Die Bereitstellung von Mitteln für einen bestimmten Zweck.",
         "descriptionEN": "The provision of funds for a particular purpose.",
         "descriptionRU": "Предоставление средств для определенной цели."
     }, {
         "de": "öffentliche Mittel",
         "en": "Public Funds",
         "ru": "Государственные средства",
+        "descriptionDE": "Geld, das von der Regierung für die öffentliche Nutzung bereitgestellt wird.",
         "descriptionEN": "Money provided by the government for public use.",
         "descriptionRU": "Средства, предоставленные правительством для общественного использования."
     }, {
         "de": "barocker",
         "en": "Baroque",
         "ru": "Барочный",
+        "descriptionDE": "Im Zusammenhang mit einem Stil der europäischen Architektur, Musik und Kunst des 17. und 18. Jahrhunderts.",
         "descriptionEN": "Relating to or denoting a style of European architecture, music, and art of the 17th and 18th centuries.",
         "descriptionRU": "Относящийся к стилю европейской архитектуры, музыки и искусства XVII-XVIII веков."
     }, {
         "de": "älteren",
         "en": "Older",
         "ru": "Старший",
+        "descriptionDE": "Hat für eine längere Zeit gelebt oder existiert.",
         "descriptionEN": "Having lived or existed for a longer time.",
         "descriptionRU": "Проживший или существующий в течение более длительного времени."
     }, {
         "de": "bevorzugten",
         "en": "Preferred",
         "ru": "Предпочтительный",
+        "descriptionDE": "Wird mit besonderer Gunst oder Vorliebe betrachtet.",
         "descriptionEN": "Regarded with special favor or preference.",
         "descriptionRU": "Рассматриваемый с особым расположением или предпочтением."
     }, {
         "de": "Hofbediensteten",
         "en": "Court Servants",
         "ru": "Дворовые слуги",
+        "descriptionDE": "Angestellte im Haushalt eines königlichen oder adligen Hofes.",
         "descriptionEN": "Servants employed in the household of a royal or noble court.",
         "descriptionRU": "Слуги, работающие в доме королевского или дворянского двора."
     }

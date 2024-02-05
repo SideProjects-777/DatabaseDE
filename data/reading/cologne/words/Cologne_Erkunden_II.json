@@ -4,60 +4,70 @@
         "en": "Memorial site",
         "ru": "Мемориальное место",
         "descriptionEN": "A location dedicated to preserving the memory of a person or event.",
-        "descriptionRU": "Место, посвященное сохранению памяти о человеке или событии."
+        "descriptionRU": "Место, посвященное сохранению памяти о человеке или событии.",
+        "descriptionDE": "ein Ort, der der Bewahrung der Erinnerung an eine Person oder ein Ereignis gewidmet ist."
     }, {
         "de": "das Museum",
         "en": "Museum",
         "ru": "Музей",
         "descriptionEN": "An institution dedicated to the acquisition, preservation, and exhibition of objects of artistic, cultural, or scientific significance.",
-        "descriptionRU": "Учреждение, посвященное приобретению, сохранению и выставке объектов художественного, культурного или научного значения."
+        "descriptionRU": "Учреждение, посвященное приобретению, сохранению и выставке объектов художественного, культурного или научного значения.",
+        "descriptionDE": "eine Institution, die sich der Beschaffung, Erhaltung und Ausstellung von Objekten künstlerischer, kultureller oder wissenschaftlicher Bedeutung widmet."
     }, {
         "de": "der Schwerpunkt",
         "en": "Focus",
         "ru": "Акцент",
         "descriptionEN": "The central or main point of emphasis.",
-        "descriptionRU": "Центральная или основная точка акцента."
+        "descriptionRU": "Центральная или основная точка акцента.",
+        "descriptionDE": "der zentrale oder Hauptpunkt der Betonung."
     }, {
         "de": "die Rundfahrt",
         "en": "Round trip",
         "ru": "Круговой тур",
         "descriptionEN": "A journey that starts and finishes at the same place, often with stops along the way.",
-        "descriptionRU": "Путешествие, которое начинается и заканчивается в одном и том же месте, часто с остановками по пути."
+        "descriptionRU": "Путешествие, которое начинается и заканчивается в одном и том же месте, часто с остановками по пути.",
+        "descriptionDE": "eine Reise, die an einem Ort beginnt und endet, oft mit Stopps entlang des Weges."
     }, {
         "de": "die Aussicht",
         "en": "View",
         "ru": "Вид",
         "descriptionEN": "A sight or prospect, typically of attractive natural scenery.",
-        "descriptionRU": "Зрелище или перспектива, обычно привлекательного природного пейзажа."
+        "descriptionRU": "Зрелище или перспектива, обычно привлекательного природного пейзажа.",
+        "descriptionDE": "eine Aussicht oder Perspektive, in der Regel von attraktiver natürlicher Landschaft."
     }, {
         "de": "gemütlich",
         "en": "Cozy",
         "ru": "Уютный",
         "descriptionEN": "Giving a feeling of comfort, warmth, and relaxation.",
-        "descriptionRU": "Создающий ощущение уюта, тепла и расслабления."
+        "descriptionRU": "Создающий ощущение уюта, тепла и расслабления.",
+        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung."
     }, {
         "de": "regionale",
         "en": "Regional",
         "ru": "Региональный",
         "descriptionEN": "Relating to or characteristic of a particular region.",
-        "descriptionRU": "Относящийся к или характерный для определенного региона."
+        "descriptionRU": "Относящийся к или характерный для определенного региона.",
+        "descriptionDE": "bezogen auf oder charakteristisch für eine bestimmte Region."
     }, {
         "de": "dreistündigen",
         "en": "Three-hour",
         "ru": "Трехчасовой",
         "descriptionEN": "Lasting for a period of three hours.",
-        "descriptionRU": "Длительностью три часа."
+        "descriptionRU": "Длительностью три часа.",
+        "descriptionDE": "eine Dauer von drei Stunden."
     }, {
         "de": "unvergleichlichen",
         "en": "Unparalleled",
         "ru": "Безпрецедентный",
         "descriptionEN": "Having no equal; better or greater than others.",
-        "descriptionRU": "Не имеющий равных; лучший или больший чем другие."
+        "descriptionRU": "Не имеющий равных; лучший или больший чем другие.",
+        "descriptionDE": "hat keinen Vergleich; besser oder größer als andere."
     }, {
         "de": "charmanten",
         "en": "Charming",
         "ru": "Очаровательный",
         "descriptionEN": "Delightfully pleasing or attractive.",
-        "descriptionRU": "Восхитительно приятный или привлекательный."
+        "descriptionRU": "Восхитительно приятный или привлекательный.",
+        "descriptionDE": "auf entzückende Weise angenehm oder attraktiv."
     }
 ]

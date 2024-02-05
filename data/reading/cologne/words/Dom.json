@@ -3,84 +3,98 @@
         "de": "der Dom",
         "en": "Cathedral",
         "ru": "Собор",
+        "descriptionDE": "eine große und wichtige Kirche, in der Regel die Hauptkirche einer Diözese.",
         "descriptionEN": "a large and important church, typically one that is the main church of a diocese.",
         "descriptionRU": "большая и важная церковь, обычно являющаяся главной церковью епархии."
     }, {
         "de": "gotisch",
         "en": "Gothic",
         "ru": "Готический",
+        "descriptionDE": "bezogen auf einen Baustil, der in Europa vom 12. bis zum 16. Jahrhundert blühte.",
         "descriptionEN": "relating to a style of architecture that flourished in Europe from the 12th to the 16th century.",
         "descriptionRU": "относящийся к стилю архитектуры, процветавшему в Европе с XII по XVI век."
     }, {
         "de": "der Turm",
         "en": "Tower",
         "ru": "Башня",
+        "descriptionDE": "eine hohe Struktur, in der Regel höher als breit, oft als Aussichtspunkt oder Wahrzeichen verwendet.",
         "descriptionEN": "a tall structure, typically taller than it is wide, often used as a lookout or landmark.",
         "descriptionRU": "высокая конструкция, обычно более высокая, чем широкая, часто используемая как вышка или ориентир."
     }, {
         "de": "die Verzierung",
         "en": "Decoration",
         "ru": "Украшение",
+        "descriptionDE": "der Prozess des Verschönerns oder Dekorierens; Ornamentierung.",
         "descriptionEN": "the process of adorning or decorating; ornamentation.",
         "descriptionRU": "процесс украшения или декорирования; орнаментация."
     }, {
         "de": "die Geschichte",
         "en": "History",
         "ru": "История",
+        "descriptionDE": "die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
         "descriptionEN": "the study of past events, particularly in human affairs.",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах."
     }, {
         "de": "die Reliquie",
         "en": "Relic",
         "ru": "Реликвия",
+        "descriptionDE": "Gegenstände, die wegen ihrer Verbindung mit einem Heiligen oder Märtyrer geachtet und verehrt werden.",
         "descriptionEN": "objects esteemed and venerated because of association with a saint or martyr.",
         "descriptionRU": "предметы, уважаемые и почитаемые из-за связи с святым или мучеником."
     }, {
         "de": "das Artefakt",
         "en": "Artifact",
         "ru": "Артефакт",
+        "descriptionDE": "ein von einem Menschen geschaffenes Objekt, in der Regel von kulturellem oder historischem Interesse.",
         "descriptionEN": "an object made by a human being, typically one of cultural or historical interest.",
         "descriptionRU": "предмет, созданный человеком, обычно представляющий культурный или исторический интерес."
     }, {
         "de": "die Architektur",
         "en": "Architecture",
         "ru": "Архитектура",
+        "descriptionDE": "die Kunst oder Praxis des Entwurfs und Baus von Gebäuden.",
         "descriptionEN": "the art or practice of designing and constructing buildings.",
         "descriptionRU": "искусство или практика проектирования и строительства зданий."
     }, {
         "de": "der Blick",
         "en": "View",
         "ru": "Вид",
+        "descriptionDE": "die Fähigkeit zu sehen oder der Bereich der Sicht.",
         "descriptionEN": "the ability to see or the range of vision.",
         "descriptionRU": "способность видеть или диапазон зрения."
     }, {
         "de": "die Bedeutung",
         "en": "Significance",
         "ru": "Значение",
+        "descriptionDE": "die Qualität, Aufmerksamkeit zu verdienen; Wichtigkeit.",
         "descriptionEN": "the quality of being worthy of attention; importance.",
         "descriptionRU": "качество, достойное внимания; важность."
     }, {
         "de": "religiöse",
         "en": "religious",
         "ru": "религиозный",
+        "descriptionDE": "bezogen auf oder glaubend an eine Religion; starken Glauben an eine Gottheit oder Gottheiten habend.",
         "descriptionEN": "relating to or believing in a religion; having a strong belief in a deity or deities.",
         "descriptionRU": "относящийся к религии или верящий в религию; сильно верящий в божество или богов."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "descriptionDE": "die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden.",
         "descriptionEN": "the arts and other manifestations of human intellectual achievement regarded collectively.",
         "descriptionRU": "искусство и другие проявления интеллектуальных достижений человека, рассматриваемые в совокупности."
     }, {
         "de": "der Besucher",
         "en": "Visitor",
         "ru": "Посетитель",
+        "descriptionDE": "eine Person, die einen Ort aus Vergnügen oder Neugier besucht.",
         "descriptionEN": "a person visiting a place for pleasure or out of curiosity.",
         "descriptionRU": "человек, посещающий место для удовольствия или из любопытства."
     }, {
         "de": "der Jahrestag",
         "en": "Anniversary",
         "ru": "Годовщина",
+        "descriptionDE": "die jährliche Wiederkehr eines Datums, das ein bemerkenswertes Ereignis kennzeichnet.",
         "descriptionEN": "the annual recurrence of a date marking a notable event.",
         "descriptionRU": "годовая повторяемость даты, отмечающей заметное событие."
     }

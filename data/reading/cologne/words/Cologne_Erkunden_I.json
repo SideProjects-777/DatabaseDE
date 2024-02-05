@@ -3,72 +3,84 @@
         "de": "die Geschichte",
         "en": "History",
         "ru": "История",
+        "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
         "descriptionEN": "the study of past events, particularly in human affairs.",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen.",
         "descriptionEN": "the arts and other manifestations of human intellectual achievement.",
         "descriptionRU": "искусство и другие проявления человеческих интеллектуальных достижений."
     }, {
         "de": "der Dom",
         "en": "Cathedral",
         "ru": "Собор",
+        "descriptionDE": "Eine große und wichtige Kirche.",
         "descriptionEN": "a large and important church.",
         "descriptionRU": "большая и важная церковь."
     }, {
         "de": "die Altstadt",
         "en": "Old Town",
         "ru": "Старый город",
+        "descriptionDE": "Der historische, ältere Teil einer Stadt.",
         "descriptionEN": "the historic, older part of a city.",
         "descriptionRU": "историческая, старая часть города."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "descriptionDE": "Ein bedeutender europäischer Fluss, der durch Westdeutschland fließt.",
         "descriptionEN": "a major European river flowing through Western Germany.",
         "descriptionRU": "крупная европейская река, протекающая через западную часть Германии."
     }, {
         "de": "der Blick",
         "en": "View",
         "ru": "Вид",
+        "descriptionDE": "Ein Anblick oder Aussicht, normalerweise von attraktiver natürlicher Landschaft.",
         "descriptionEN": "a sight or prospect, typically of attractive natural scenery.",
         "descriptionRU": "зрелище или перспектива, обычно привлекательного природного пейзажа."
     }, {
         "de": "die Blume",
         "en": "Flower",
         "ru": "Цветок",
+        "descriptionDE": "Der samenbildende Teil einer Pflanze, oft in lebhaften Farben.",
         "descriptionEN": "the seed-bearing part of a plant, often brightly colored.",
         "descriptionRU": "плодородная часть растения, часто ярко окрашенная."
     }, {
         "de": "die Pflanze",
         "en": "Plant",
         "ru": "Растение",
+        "descriptionDE": "Ein lebendes Organismus, wie durch Bäume, Sträucher, Kräuter, Farne usw. verkörpert.",
         "descriptionEN": "a living organism of the kind exemplified by trees, shrubs, herbs, ferns, etc.",
         "descriptionRU": "живой организм, подобный деревьям, кустам, травам, папоротникам и т. д."
     }, {
         "de": "erfreuen",
         "en": "enjoy",
         "ru": "наслаждаться",
+        "descriptionDE": "Sich an einer Aktivität oder Gelegenheit erfreuen.",
         "descriptionEN": "take delight or pleasure in an activity or occasion.",
         "descriptionRU": "наслаждаться удовольствием или удовольствием от занятия или случая."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
+        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten.",
         "descriptionEN": "regard with respect or warm approval.",
         "descriptionRU": "рассматривать с уважением или теплым одобрением."
     }, {
         "de": "kostenlos",
         "en": "free",
         "ru": "бесплатно",
+        "descriptionDE": "Nichts kosten oder berechnen.",
         "descriptionEN": "not costing or charging anything.",
         "descriptionRU": "не стоит ничего или не берет ничего."
     }, {
         "de": "fantastisch",
         "en": "fantastic",
         "ru": "фантастический",
+        "descriptionDE": "Außergewöhnlich gut oder attraktiv.",
         "descriptionEN": "extraordinarily good or attractive.",
         "descriptionRU": "чрезвычайно хороший или привлекательный."
     }

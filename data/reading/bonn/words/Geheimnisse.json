@@ -3,205 +3,239 @@
         "de": "das Juwel",
         "en": "jewel",
         "ru": "драгоценность",
-        "descriptionEN": "a precious stone, typically a single crystal or gemstone.",
-        "descriptionRU": "драгоценный камень, обычно единичный кристалл или драгоценный камень."
+        "descriptionDE": "Ein kostbarer Stein, in der Regel ein einzelner Kristall oder Edelstein.",
+        "descriptionEN": "A precious stone, typically a single crystal or gemstone.",
+        "descriptionRU": "Драгоценный камень, обычно единичный кристалл или драгоценный камень."
     }, {
         "de": "der Laden",
         "en": "store",
         "ru": "магазин",
-        "descriptionEN": "a retail establishment selling items to the public.",
-        "descriptionRU": "розничное предприятие, продающее товары общественности."
+        "descriptionDE": "Ein Einzelhandelsunternehmen, das Artikel an die Öffentlichkeit verkauft.",
+        "descriptionEN": "A retail establishment selling items to the public.",
+        "descriptionRU": "Розничное предприятие, продающее товары общественности."
     }, {
         "de": "die Naschkatze",
         "en": "sweet tooth",
         "ru": "сладкоежка",
-        "descriptionEN": "a person who loves to eat sweet and sugary foods.",
-        "descriptionRU": "человек, который любит употреблять сладкие и сахаристые продукты."
+        "descriptionDE": "Eine Person, die gerne süße und zuckerhaltige Lebensmittel isst.",
+        "descriptionEN": "A person who loves to eat sweet and sugary foods.",
+        "descriptionRU": "Человек, который любит употреблять сладкие и сахаристые продукты."
     }, {
         "de": "der Künstler",
         "en": "artist",
         "ru": "художник",
-        "descriptionEN": "a person who produces paintings or drawings as a profession or hobby.",
-        "descriptionRU": "человек, создающий картины или рисунки как профессию или хобби."
+        "descriptionDE": "Eine Person, die Gemälde oder Zeichnungen als Beruf oder Hobby herstellt.",
+        "descriptionEN": "A person who produces paintings or drawings as a profession or hobby.",
+        "descriptionRU": "Человек, создающий картины или рисунки как профессию или хобби."
     }, {
         "de": "die Inspirationsquelle",
         "en": "source of inspiration",
         "ru": "источник вдохновения",
-        "descriptionEN": "something or someone that stimulates creative ideas or actions.",
-        "descriptionRU": "то, что или тот, кто стимулирует творческие идеи или действия."
+        "descriptionDE": "Etwas oder jemand, der kreative Ideen oder Handlungen anregt.",
+        "descriptionEN": "Something or someone that stimulates creative ideas or actions.",
+        "descriptionRU": "То, что или тот, кто стимулирует творческие идеи или действия."
     }, {
         "de": "der Stadtplan",
         "en": "city map",
         "ru": "городская карта",
-        "descriptionEN": "a detailed representation of the streets, landmarks, and other features of a city.",
-        "descriptionRU": "подробное изображение улиц, достопримечательностей и других особенностей города."
+        "descriptionDE": "Eine detaillierte Darstellung der Straßen, Sehenswürdigkeiten und anderer Merkmale einer Stadt.",
+        "descriptionEN": "A detailed representation of the streets, landmarks, and other features of a city.",
+        "descriptionRU": "Подробное изображение улиц, достопримечательностей и других особенностей города."
     }, {
         "de": "der Ort",
         "en": "place",
         "ru": "место",
-        "descriptionEN": "a particular position, point, or area in space.",
-        "descriptionRU": "конкретное положение, точка или область в пространстве."
+        "descriptionDE": "Eine bestimmte Position, Punkt oder Fläche im Raum.",
+        "descriptionEN": "A particular position, point, or area in space.",
+        "descriptionRU": "Конкретное положение, точка или область в пространстве."
     }, {
         "de": "der Geschmack",
         "en": "flavor",
         "ru": "вкус",
-        "descriptionEN": "the distinctive taste of a food or drink.",
-        "descriptionRU": "особенный вкус пищи или напитка."
+        "descriptionDE": "Der charakteristische Geschmack von Essen oder Trinken.",
+        "descriptionEN": "The distinctive taste of a food or drink.",
+        "descriptionRU": "Особенный вкус пищи или напитка."
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
-        "descriptionEN": "a range of different things or the quality of being diverse.",
-        "descriptionRU": "разнообразие различных вещей или качество быть разнообразным."
+        "descriptionDE": "Eine Vielzahl verschiedener Dinge oder die Qualität, vielfältig zu sein.",
+        "descriptionEN": "A range of different things or the quality of being diverse.",
+        "descriptionRU": "Разнообразие различных вещей или качество быть разнообразным."
     }, {
         "de": "der Spaß",
         "en": "fun",
         "ru": "веселье",
-        "descriptionEN": "enjoyment, amusement, or lighthearted pleasure.",
-        "descriptionRU": "удовольствие, развлечение или легкое удовольствие."
+        "descriptionDE": "Vergnügen, Unterhaltung oder fröhliche Freude.",
+        "descriptionEN": "Enjoyment, amusement, or lighthearted pleasure.",
+        "descriptionRU": "Удовольствие, развлечение или легкое удовольствие."
     }, {
         "de": "die Freude",
         "en": "joy",
         "ru": "радость",
-        "descriptionEN": "a feeling of great pleasure and happiness.",
-        "descriptionRU": "чувство большого удовольствия и счастья."
+        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück.",
+        "descriptionEN": "A feeling of great pleasure and happiness.",
+        "descriptionRU": "Чувство большого удовольствия и счастья."
     }, {
         "de": "die Botschaft",
         "en": "message",
         "ru": "сообщение",
-        "descriptionEN": "a verbal, written, or recorded communication sent to or left for a recipient.",
-        "descriptionRU": "устное, письменное или записанное сообщение, отправленное или оставленное для получателя."
+        "descriptionDE": "Eine verbale, schriftliche oder aufgezeichnete Mitteilung, die an einen Empfänger gesendet oder für ihn hinterlassen wurde.",
+        "descriptionEN": "A verbal, written, or recorded communication sent to or left for a recipient.",
+        "descriptionRU": "Устное, письменное или записанное сообщение, отправленное или оставленное для получателя."
     }, {
         "de": "die Bedeutung",
         "en": "meaning",
         "ru": "значение",
-        "descriptionEN": "what is meant by a word, text, concept, or action.",
-        "descriptionRU": "то, что означает слово, текст, концепция или действие."
+        "descriptionDE": "Was mit einem Wort, Text, Konzept oder einer Handlung gemeint ist.",
+        "descriptionEN": "What is meant by a word, text, concept, or action.",
+        "descriptionRU": "То, что означает слово, текст, концепция или действие."
     }, {
         "de": "die Gemeinschaft",
         "en": "community",
         "ru": "община",
-        "descriptionEN": "a group of people living in the same place or having a particular characteristic in common.",
-        "descriptionRU": "группа людей, живущих в одном месте или имеющих общую характеристику."
+        "descriptionDE": "Eine Gruppe von Menschen, die an einem bestimmten Ort leben oder eine bestimmte Eigenschaft gemeinsam haben.",
+        "descriptionEN": "A group of people living in the same place or having a particular characteristic in common.",
+        "descriptionRU": "Группа людей, живущих в одном месте или имеющих общую характеристику."
     }, {
         "de": "die Entdeckungsreise",
         "en": "discovery journey",
         "ru": "путешествие открытий",
-        "descriptionEN": "a trip or excursion where new and interesting things are found or learned.",
-        "descriptionRU": "поездка или экскурсия, в ходе которой находятся или изучаются новые и интересные вещи."
+        "descriptionDE": "Eine Reise oder Exkursion, bei der neue und interessante Dinge gefunden oder gelernt werden.",
+        "descriptionEN": "A trip or excursion where new and interesting things are found or learned.",
+        "descriptionRU": "Поездка или экскурсия, в ходе которой находятся или изучаются новые и интересные вещи."
     }, {
         "de": "die Phantasie",
         "en": "imagination",
         "ru": "воображение",
-        "descriptionEN": "the ability of the mind to be creative or resourceful.",
-        "descriptionRU": "способность ума быть творческим или изобретательным."
+        "descriptionDE": "Die Fähigkeit des Geistes, kreativ oder einfallsreich zu sein.",
+        "descriptionEN": "The ability of the mind to be creative or resourceful.",
+        "descriptionRU": "Способность ума быть творческим или изобретательным."
     }, {
         "de": "süß",
         "en": "sweet",
         "ru": "сладкий",
-        "descriptionEN": "having the taste or flavor characteristic of sugar or honey.",
-        "descriptionRU": "имеющий вкус или аромат, характерный для сахара или меда."
+        "descriptionDE": "Den Geschmack oder das Aroma von Zucker oder Honig haben.",
+        "descriptionEN": "Having the taste or flavor characteristic of sugar or honey.",
+        "descriptionRU": "Имеющий вкус или аромат, характерный для сахара или меда."
     }, {
         "de": "bunt",
         "en": "colorful",
         "ru": "разноцветный",
-        "descriptionEN": "having bright colors or a lot of different colors.",
-        "descriptionRU": "имеющий яркие цвета или много различных цветов."
+        "descriptionDE": "Mit lebhaften Farben oder vielen verschiedenen Farben.",
+        "descriptionEN": "Having bright colors or a lot of different colors.",
+        "descriptionRU": "Имеющий яркие цвета или много различных цветов."
     }, {
         "de": "versteckt",
         "en": "hidden",
         "ru": "скрытый",
-        "descriptionEN": "not easily seen or noticed.",
-        "descriptionRU": "не легко видимый или заметный."
+        "descriptionDE": "Nicht leicht zu sehen oder zu bemerken.",
+        "descriptionEN": "Not easily seen or noticed.",
+        "descriptionRU": "Не легко видимый или заметный."
     }, {
         "de": "bunt gemischt",
         "en": "mixed",
         "ru": "смешанный",
-        "descriptionEN": "consisting of a variety of different types or elements.",
-        "descriptionRU": "состоящий из различных типов или элементов."
+        "descriptionDE": "Bestehend aus verschiedenen Arten oder Elementen.",
+        "descriptionEN": "Consisting of a variety of different types or elements.",
+        "descriptionRU": "Состоящий из различных типов или элементов."
     }, {
         "de": "schnell",
         "en": "quick",
         "ru": "быстрый",
-        "descriptionEN": "moving fast or doing something in a short amount of time.",
-        "descriptionRU": "двигающийся быстро или выполняющий что-то за короткое время."
+        "descriptionDE": "Schnell bewegend oder etwas in kurzer Zeit erledigend.",
+        "descriptionEN": "Moving fast or doing something in a short amount of time.",
+        "descriptionRU": "Двигающийся быстро или выполняющий что-то за короткое время."
     }, {
         "de": "überwältigend",
         "en": "overwhelming",
         "ru": "подавляющий",
-        "descriptionEN": "very intense or strong; overpowering.",
-        "descriptionRU": "очень интенсивный или сильный; подавляющий."
+        "descriptionDE": "Sehr intensiv oder stark; überwältigend.",
+        "descriptionEN": "Very intense or strong; overpowering.",
+        "descriptionRU": "Очень интенсивный или сильный; подавляющий."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
-        "descriptionEN": "being the only one of its kind; unlike anything else.",
-        "descriptionRU": "будучи единственным в своем роде; непохожим на что-то еще."
+        "descriptionDE": "Der einzige seiner Art; anders als alles andere.",
+        "descriptionEN": "Being the only one of its kind; unlike anything else.",
+        "descriptionRU": "Будучи единственным в своем роде; ни на что не похожим."
     }, {
         "de": "phantasievoll",
         "en": "whimsical",
         "ru": "капризный",
-        "descriptionEN": "playfully quaint or fanciful, especially in an appealing and amusing way.",
-        "descriptionRU": "игриво странный или фантазийный, особенно в привлекательном и забавном смысле."
+        "descriptionDE": "Spielhaft skurril oder phantasievoll, besonders auf eine ansprechende und amüsante Weise.",
+        "descriptionEN": "Playfully quaint or fanciful, especially in an appealing and amusing way.",
+        "descriptionRU": "Игриво странный или фантазийный, особенно в привлекательном и забавном смысле."
     }, {
         "de": "tief",
         "en": "deep",
         "ru": "глубокий",
-        "descriptionEN": "extending far down from the top or surface.",
-        "descriptionRU": "простирающийся далеко вниз от вершины или поверхности."
+        "descriptionDE": "Sich weit von oben oder der Oberfläche erstreckend.",
+        "descriptionEN": "Extending far down from the top or surface.",
+        "descriptionRU": "Простирающийся далеко вниз от вершины или поверхности."
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
-        "descriptionEN": "of a size that is less than normal or usual.",
-        "descriptionRU": "размером меньше обычного или привычного."
+        "descriptionDE": "Von einer Größe, die kleiner ist als normal oder üblich.",
+        "descriptionEN": "Of a size that is less than normal or usual.",
+        "descriptionRU": "Размером меньше обычного или привычного."
     }, {
         "de": "ganz",
         "en": "whole",
         "ru": "целый",
-        "descriptionEN": "complete or full; not lacking or broken.",
-        "descriptionRU": "полный или целый; не лишенный или сломанный."
+        "descriptionDE": "Vollständig oder ganz; nicht fehlend oder gebrochen.",
+        "descriptionEN": "Complete or full; not lacking or broken.",
+        "descriptionRU": "Полный или целый; не лишенный или сломанный."
     }, {
         "de": "kleinste",
         "en": "smallest",
         "ru": "самый маленький",
-        "descriptionEN": "of a size that is less than others of the same kind.",
-        "descriptionRU": "размером меньше, чем у других того же рода."
+        "descriptionDE": "Von einer Größe, die kleiner ist als andere derselben Art.",
+        "descriptionEN": "Of a size that is less than others of the same kind.",
+        "descriptionRU": "Размером меньше, чем у других того же рода."
     }, {
         "de": "eindeutig",
         "en": "clear",
         "ru": "ясный",
-        "descriptionEN": "easy to perceive, understand, or interpret.",
-        "descriptionRU": "легкий для восприятия, понимания или интерпретации."
+        "descriptionDE": "Leicht wahrnehmbar, verständlich oder interpretierbar.",
+        "descriptionEN": "Easy to perceive, understand, or interpret.",
+        "descriptionRU": "Легкий для восприятия, понимания или интерпретации."
     }, {
         "de": "lecker",
         "en": "delicious",
         "ru": "вкусный",
-        "descriptionEN": "highly pleasant to the taste.",
-        "descriptionRU": "очень приятный на вкус."
+        "descriptionDE": "Hoch angenehm im Geschmack.",
+        "descriptionEN": "Highly pleasant to the taste.",
+        "descriptionRU": "Очень приятный на вкус."
     }, {
         "de": "neu",
         "en": "new",
         "ru": "новый",
-        "descriptionEN": "not existing before; made, introduced, or discovered recently or now for the first time.",
-        "descriptionRU": "не существующий ранее; сделанный, введенный или открытый недавно или впервые."
+        "descriptionDE": "Vorher nicht existierend; kürzlich oder jetzt zum ersten Mal gemacht, eingeführt oder entdeckt.",
+        "descriptionEN": "Not existing before; made, introduced, or discovered recently or now for the first time.",
+        "descriptionRU": "Не существующий ранее; сделанный, введенный или открытый недавно или впервые."
     }, {
         "de": "einzig",
         "en": "only",
         "ru": "только",
-        "descriptionEN": "solely or exclusively.",
-        "descriptionRU": "исключительно или исключительно."
+        "descriptionDE": "Nur oder ausschließlich.",
+        "descriptionEN": "Solely or exclusively.",
+        "descriptionRU": "Исключительно или исключительно."
     }, {
         "de": "lebendig",
         "en": "vibrant",
         "ru": "живой",
-        "descriptionEN": "full of energy and life.",
-        "descriptionRU": "полный энергии и жизни."
+        "descriptionDE": "Voller Energie und Leben.",
+        "descriptionEN": "Full of energy and life.",
+        "descriptionRU": "Полный энергии и жизни."
     }, {
         "de": "kleinste",
         "en": "smallest",
         "ru": "самый маленький",
-        "descriptionEN": "of a size that is less than others of the same kind.",
-        "descriptionRU": "размером меньше, чем у других того же рода."
+        "descriptionDE": "Von einer Größe, die kleiner ist als andere derselben Art.",
+        "descriptionEN": "Of a size that is less than others of the same kind.",
+        "descriptionRU": "Размером меньше, чем у других того же рода."
     }
 ]

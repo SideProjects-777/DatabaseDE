@@ -3,72 +3,84 @@
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
         "descriptionEN": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
         "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
     }, {
         "de": "das Geburtshaus",
         "en": "birthplace",
         "ru": "родильный дом",
+        "descriptionDE": "Der Ort, an dem jemand geboren wurde oder wo etwas entstanden ist.",
         "descriptionEN": "the place where someone was born or where something originated.",
         "descriptionRU": "место, где кто-то родился или где что-то возникло."
     }, {
         "de": "die Ausstellung",
         "en": "exhibition",
         "ru": "выставка",
+        "descriptionDE": "Eine öffentliche Präsentation von Kunstwerken oder interessanten Gegenständen, die in einer Kunstgalerie oder einem Museum stattfindet.",
         "descriptionEN": "a public display of works of art or items of interest, held in an art gallery or museum.",
         "descriptionRU": "публичное представление произведений искусства или предметов интереса, проводимое в художественной галерее или музее."
     }, {
         "de": "der Rundgang",
         "en": "tour",
         "ru": "экскурсия",
+        "descriptionDE": "Eine Reise zum Vergnügen, bei der mehrere verschiedene Orte besucht werden.",
         "descriptionEN": "a journey for pleasure in which several different places are visited.",
         "descriptionRU": "путешествие для удовольствия, в ходе которого посещаются различные места."
     }, {
         "de": "die Alarmanlage",
         "en": "alarm system",
         "ru": "сигнализация",
+        "descriptionDE": "Ein System, das entwickelt wurde, um das Eindringen oder den unbefugten Zutritt zu einem Gebäude oder Bereich zu erkennen.",
         "descriptionEN": "a system designed to detect intrusion or unauthorized entry into a building or area.",
         "descriptionRU": "система, предназначенная для обнаружения вторжения или несанкционированного входа в здание или район."
     }, {
         "de": "bedienen",
         "en": "operate",
         "ru": "управлять",
+        "descriptionDE": "Eine Maschine oder ein System steuern oder verwalten.",
         "descriptionEN": "to control or manage a machine or system.",
         "descriptionRU": "управлять или управлять машиной или системой."
     }, {
         "de": "das Herzstück",
         "en": "centerpiece",
         "ru": "центральная часть",
+        "descriptionDE": "Der zentrale oder wichtigste Teil.",
         "descriptionEN": "the central or most important part.",
         "descriptionRU": "центральная или самая важная часть."
     }, {
         "de": "coronabedingt",
         "en": "due to COVID",
         "ru": "в связи с COVID",
+        "descriptionDE": "Verursacht oder beeinflusst durch die COVID-19-Pandemie.",
         "descriptionEN": "caused or influenced by the COVID-19 pandemic.",
         "descriptionRU": "вызванный или оказанный влияние пандемией COVID-19."
     }, {
         "de": "interaktiv",
         "en": "interactive",
         "ru": "интерактивный",
+        "descriptionDE": "Involviert Kommunikation oder Zusammenarbeit zwischen mehreren Teilnehmern.",
         "descriptionEN": "involving communication or cooperation between multiple participants.",
         "descriptionRU": "включающий коммуникацию или сотрудничество между несколькими участниками."
     }, {
         "de": "der Direktor",
         "en": "director",
         "ru": "директор",
+        "descriptionDE": "Eine Person, die für eine Organisation, Abteilung oder ein Projekt verantwortlich ist.",
         "descriptionEN": "a person who is in charge of an organization, department, or project.",
         "descriptionRU": "человек, который отвечает за организацию, отдел или проект."
     }, {
         "de": "auswählen",
         "en": "select",
         "ru": "выбирать",
+        "descriptionDE": "Etwas aus einer Gruppe von Dingen auswählen.",
         "descriptionEN": "to choose something from a group of things.",
         "descriptionRU": "выбирать что-то из группы вещей."
     }, {
         "de": "präsentieren",
         "en": "present",
         "ru": "представлять",
+        "descriptionDE": "Etwas anderen zeigen oder vorstellen.",
         "descriptionEN": "to show or introduce something to others.",
         "descriptionRU": "показывать или представлять что-то другим."
     }

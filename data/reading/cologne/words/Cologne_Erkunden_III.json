@@ -4,72 +4,84 @@
         "en": "Building",
         "ru": "Здание",
         "descriptionEN": "A structure with a roof and walls, such as a house or factory.",
-        "descriptionRU": "Строение с крышей и стенами, такое как дом или завод."
+        "descriptionRU": "Строение с крышей и стенами, такое как дом или завод.",
+        "descriptionDE": "eine Struktur mit einem Dach und Wänden, wie ein Haus oder eine Fabrik."
     }, {
         "de": "die Gasse",
         "en": "Alley",
         "ru": "Переулок",
         "descriptionEN": "A narrow passageway between or behind buildings, often pedestrian-only.",
-        "descriptionRU": "Узкий проход между или за зданиями, часто только для пешеходов."
+        "descriptionRU": "Узкий проход между или за зданиями, часто только для пешеходов.",
+        "descriptionDE": "ein schmaler Durchgang zwischen oder hinter Gebäuden, oft nur für Fußgänger."
     }, {
         "de": "die Kathedrale",
         "en": "Cathedral",
         "ru": "Собор",
         "descriptionEN": "A large and important Christian church, typically with Gothic architecture.",
-        "descriptionRU": "Большая и важная христианская церковь, обычно с готической архитектурой."
+        "descriptionRU": "Большая и важная христианская церковь, обычно с готической архитектурой.",
+        "descriptionDE": "eine große und bedeutende christliche Kirche, normalerweise mit gotischer Architektur."
     }, {
         "de": "der Turm",
         "en": "Tower",
         "ru": "Башня",
         "descriptionEN": "A tall structure, often freestanding, used for various purposes.",
-        "descriptionRU": "Высокая конструкция, часто самостоятельно стоящая, используемая для различных целей."
+        "descriptionRU": "Высокая конструкция, часто самостоятельно стоящая, используемая для различных целей.",
+        "descriptionDE": "eine hohe Struktur, oft freistehend, für verschiedene Zwecke verwendet."
     }, {
         "de": "die Loggia",
         "en": "Loggia",
         "ru": "Лоджия",
         "descriptionEN": "An architectural feature, a gallery or room with one or more open sides.",
-        "descriptionRU": "Архитектурный элемент, галерея или комната с одним или несколькими открытыми сторонами."
+        "descriptionRU": "Архитектурный элемент, галерея или комната с одним или несколькими открытыми сторонами.",
+        "descriptionDE": "ein architektonisches Merkmal, eine Galerie oder ein Raum mit einer oder mehreren offenen Seiten."
     }, {
         "de": "erkunden",
         "en": "Explore",
         "ru": "Исследовать",
         "descriptionEN": "To travel through an unfamiliar area in order to learn about it.",
-        "descriptionRU": "Проходить через незнакомую территорию с целью изучения."
+        "descriptionRU": "Проходить через незнакомую территорию с целью изучения.",
+        "descriptionDE": "durch ein unbekanntes Gebiet reisen, um es kennenzulernen."
     }, {
         "de": "genießen",
         "en": "Enjoy",
         "ru": "Наслаждаться",
         "descriptionEN": "To take pleasure or satisfaction in an activity or experience.",
-        "descriptionRU": "Испытывать удовольствие или удовлетворение от деятельности или опыта."
+        "descriptionRU": "Испытывать удовольствие или удовлетворение от деятельности или опыта.",
+        "descriptionDE": "Freude oder Befriedigung an einer Aktivität oder Erfahrung empfinden."
     }, {
         "de": "bewundern",
         "en": "Admire",
         "ru": "Восхищаться",
         "descriptionEN": "To regard with respect, approval, or pleasure.",
-        "descriptionRU": "Рассматривать с уважением, одобрением или удовольствием."
+        "descriptionRU": "Рассматривать с уважением, одобрением или удовольствием.",
+        "descriptionDE": "mit Respekt, Zustimmung oder Freude betrachten."
     }, {
         "de": "historisch",
         "en": "Historic",
         "ru": "Исторический",
         "descriptionEN": "Relating to the past, especially the history of a place or thing.",
-        "descriptionRU": "Относящийся к прошлому, особенно к истории места или вещи."
+        "descriptionRU": "Относящийся к прошлому, особенно к истории места или вещи.",
+        "descriptionDE": "sich auf die Vergangenheit beziehen, insbesondere auf die Geschichte eines Ortes oder Dinges."
     }, {
         "de": "zahlreich",
         "en": "Numerous",
         "ru": "Многочисленный",
         "descriptionEN": "A large number or quantity of something.",
-        "descriptionRU": "Большое количество чего-то."
+        "descriptionRU": "Большое количество чего-то.",
+        "descriptionDE": "eine große Anzahl oder Menge von etwas."
     }, {
         "de": "beeindruckend",
         "en": "Impressive",
         "ru": "Впечатляющий",
         "descriptionEN": "Evoking admiration through size, quality, or skill.",
-        "descriptionRU": "Вызывающий восхищение размером, качеством или мастерством."
+        "descriptionRU": "Вызывающий восхищение размером, качеством или мастерством.",
+        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschick hervorrufen."
     }, {
         "de": "abwechslungsreich",
         "en": "Varied",
         "ru": "Разнообразный",
         "descriptionEN": "Diverse and having a range of different elements.",
-        "descriptionRU": "Разнообразный и имеющий различные элементы."
+        "descriptionRU": "Разнообразный и имеющий различные элементы.",
+        "descriptionDE": "vielfältig und mit einer Vielzahl von verschiedenen Elementen."
     }
 ]

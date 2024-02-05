@@ -3,180 +3,210 @@
         "de": "der Ufer",
         "en": "shore",
         "ru": "берег",
+        "descriptionDE": "Das Land entlang des Randes eines Gewässers, wie zum Beispiel eines Sees oder Flusses.",
         "descriptionEN": "The land along the edge of a body of water, such as a lake or river.",
         "descriptionRU": "Земля вдоль края водоема, такого как озеро или река."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "descriptionDE": "Eine große und dauerhafte menschliche Siedlung mit einer komplexen sozialen, wirtschaftlichen und politischen Struktur.",
         "descriptionEN": "A large and permanent human settlement with a complex social, economic, and political structure.",
         "descriptionRU": "Большое и постоянное человеческое поселение с сложной социальной, экономической и политической структурой."
     }, {
         "de": "das Bier",
         "en": "beer",
         "ru": "пиво",
+        "descriptionDE": "Ein alkoholisches Getränk aus vergorenem Gerstenmalz, aromatisiert mit Hopfen.",
         "descriptionEN": "An alcoholic drink made from fermented malted barley, flavored with hops.",
         "descriptionRU": "Алкогольный напиток, изготовленный из сбраживаемого ячменного солода, приправленного хмелем."
     }, {
         "de": "die Rivalität",
         "en": "rivalry",
         "ru": "соперничество",
+        "descriptionDE": "Wettbewerb um das gleiche Ziel oder um Überlegenheit auf dem gleichen Gebiet.",
         "descriptionEN": "Competition for the same objective or for superiority in the same field.",
         "descriptionRU": "Конкуренция за одну и ту же цель или за превосходство в одной и той же области."
     }, {
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
+        "descriptionDE": "Eine Reihe von verbundenen Eisenbahnwagen, gezogen oder geschoben von einer oder mehreren Lokomotiven.",
         "descriptionEN": "A series of connected railroad cars pulled or pushed by one or more locomotives.",
         "descriptionRU": "Серия соединенных вагонов, тянутых или толкаемых одним или несколькими локомотивами."
     }, {
         "de": "der Dom",
         "en": "cathedral",
         "ru": "собор",
+        "descriptionDE": "Eine große und wichtige Kirche, insbesondere eine, die von einem Bischof geleitet wird.",
         "descriptionEN": "A large and important church, especially the one presided over by a bishop.",
         "descriptionRU": "Большая и важная церковь, особенно та, над которой присутствует епископ."
     }, {
         "de": "das Angebot",
         "en": "offer",
         "ru": "предложение",
+        "descriptionDE": "Ein Vorschlag zum Abschluss eines Vertrags oder anderer rechtlicher Vereinbarungen.",
         "descriptionEN": "A proposal to enter into a contract or other legal agreement.",
         "descriptionRU": "Предложение заключить контракт или другое юридическое соглашение."
     }, {
         "de": "der Konflikt",
         "en": "conflict",
         "ru": "конфликт",
+        "descriptionDE": "Eine ernsthafte Meinungsverschiedenheit oder Auseinandersetzung, in der Regel eine langwierige.",
         "descriptionEN": "A serious disagreement or argument, typically a protracted one.",
         "descriptionRU": "Серьезное разногласие или аргумент, обычно затянутый."
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
+        "descriptionDE": "Der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft.",
         "descriptionEN": "The expression or application of human creative skill and imagination.",
         "descriptionRU": "Выражение или применение творческого мастерства и воображения человека."
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
         "descriptionRU": "Искусство или практика проектирования и строительства зданий."
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
+        "descriptionDE": "Der Zustand oder die Bedingung des Vorhandenseins verschiedener Elemente.",
         "descriptionEN": "The state or condition of having various differing elements.",
         "descriptionRU": "Состояние или условие наличия различных элементов."
     }, {
         "de": "der Charme",
         "en": "charm",
         "ru": "очарование",
+        "descriptionDE": "Die Kraft oder Qualität, Freude zu bereiten oder Bewunderung zu erregen.",
         "descriptionEN": "The power or quality of giving delight or arousing admiration.",
         "descriptionRU": "Сила или качество приносить удовольствие или вызывать восхищение."
     }, {
         "de": "die Eskalation",
         "en": "escalation",
         "ru": "эскалация",
+        "descriptionDE": "Ein schneller Anstieg oder eine Intensivierung.",
         "descriptionEN": "A rapid increase or intensification.",
         "descriptionRU": "Быстрое увеличение или усиление."
     }, {
         "de": "die Gesellschaft",
         "en": "society",
         "ru": "общество",
+        "descriptionDE": "Die Gesamtheit der Menschen, die in einer mehr oder weniger geordneten Gemeinschaft zusammenleben.",
         "descriptionEN": "The aggregate of people living together in a more or less ordered community.",
         "descriptionRU": "Совокупность людей, живущих в более или менее упорядоченном сообществе."
     }, {
         "de": "die Elite",
         "en": "elite",
         "ru": "элита",
+        "descriptionDE": "Eine ausgewählte Gruppe, die in Bezug auf Fähigkeiten oder Qualitäten überlegen ist.",
         "descriptionEN": "A select group that is superior in terms of ability or qualities.",
         "descriptionRU": "Отборная группа, превосходящая по способностям или качествам."
     }, {
         "de": "die Kultur",
         "en": "culture",
         "ru": "культура",
+        "descriptionDE": "Die Bräuche, Künste, sozialen Institutionen und Errungenschaften einer bestimmten Nation, eines Volkes oder einer anderen sozialen Gruppe.",
         "descriptionEN": "The customs, arts, social institutions, and achievements of a particular nation, people, or other social group.",
         "descriptionRU": "Обычаи, искусства, социальные институты и достижения определенной нации, народа или другой социальной группы."
     }, {
         "de": "die Grenze",
         "en": "border",
         "ru": "граница",
+        "descriptionDE": "Eine Linie, die zwei politische oder geografische Gebiete voneinander trennt.",
         "descriptionEN": "A line separating two political or geographical areas.",
         "descriptionRU": "Линия, разделяющая две политические или географические области."
     }, {
         "de": "die Mode",
         "en": "fashion",
         "ru": "мода",
+        "descriptionDE": "Ein beliebter Trend, besonders in Bezug auf Kleidungs- und Schmuckstile.",
         "descriptionEN": "A popular trend, especially in styles of dress and ornament.",
         "descriptionRU": "Популярный тренд, особенно в стилях одежды и украшений."
     }, {
         "de": "die Wirtschaft",
         "en": "economy",
         "ru": "экономика",
+        "descriptionDE": "Der Reichtum und die Ressourcen eines Landes oder einer Region, insbesondere in Bezug auf die Produktion und den Verbrauch von Waren und Dienstleistungen.",
         "descriptionEN": "The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
         "descriptionRU": "Богатство и ресурсы страны или региона, особенно с точки зрения производства и потребления товаров и услуг."
     }, {
         "de": "das Hochhaus",
         "en": "skyscraper",
         "ru": "небоскреб",
+        "descriptionDE": "Ein sehr hohes Gebäude mit vielen Etagen.",
         "descriptionEN": "A very tall building with many stories.",
         "descriptionRU": "Очень высокое здание с множеством этажей."
     }, {
         "de": "der Konsum",
         "en": "consumption",
         "ru": "потребление",
+        "descriptionDE": "Die Verwendung einer Ressource.",
         "descriptionEN": "The using up of a resource.",
         "descriptionRU": "Использование ресурса."
     }, {
         "de": "das Angebot",
         "en": "offering",
         "ru": "предложение",
+        "descriptionDE": "Eine angebotene Sache, besonders als Geschenk oder Beitrag.",
         "descriptionEN": "A thing offered, especially as a gift or contribution.",
         "descriptionRU": "Предмет, предложенный, особенно в качестве подарка или вклада."
     }, {
         "de": "die Gastronomie",
         "en": "gastronomy",
         "ru": "гастрономия",
+        "descriptionDE": "Die Praxis der Auswahl, Zubereitung und des Genusses guter Lebensmittel.",
         "descriptionEN": "The practice of choosing, cooking, and eating good food.",
         "descriptionRU": "Практика выбора, приготовления и употребления в пищу хорошей еды."
     }, {
         "de": "die Skulptur",
         "en": "sculpture",
         "ru": "скульптура",
+        "descriptionDE": "Die Kunst, zweidimensionale oder dreidimensionale repräsentative oder abstrakte Formen herzustellen.",
         "descriptionEN": "The art of making two- or three-dimensional representative or abstract forms.",
         "descriptionRU": "Искусство создания двух- или трехмерных представительных или абстрактных форм."
     }, {
         "de": "das Erbe",
         "en": "heritage",
         "ru": "наследие",
+        "descriptionDE": "Eigentum, das geerbt werden kann oder geerbt wurde.",
         "descriptionEN": "Property that is or may be inherited.",
         "descriptionRU": "Собственность, которая может быть унаследована."
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "descriptionDE": "Die Hülle aus Gasen, die die Erde oder einen anderen Planeten umgibt.",
         "descriptionEN": "The envelope of gases surrounding the earth or another planet.",
         "descriptionRU": "Оболочка газов, окружающих землю или другую планету."
     }, {
         "de": "das Erlebnis",
         "en": "experience",
         "ru": "переживание",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
         "descriptionEN": "Practical contact with and observation of facts or events.",
         "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения."
     }, {
         "de": "die Eskapade",
         "en": "escapade",
         "ru": "эскапада",
+        "descriptionDE": "Eine Handlung oder ein Vorfall mit Aufregung, Wagemut oder Abenteuer.",
         "descriptionEN": "An act or incident involving excitement, daring, or adventure.",
         "descriptionRU": "Действие или инцидент, связанный с волнением, смелостью или приключением."
     }, {
         "de": "der Genuss",
         "en": "enjoyment",
         "ru": "удовольствие",
+        "descriptionDE": "Der Zustand oder Prozess des Freudehabens an etwas.",
         "descriptionEN": "The state or process of taking pleasure in something.",
         "descriptionRU": "Состояние или процесс получения удовольствия от чего-то."
     }, {
         "de": "der Wandel",
         "en": "change",
         "ru": "изменение",
+        "descriptionDE": "Die Handlung oder Instanz des Veränderns oder Anderswerdens.",
         "descriptionEN": "The act or instance of making or becoming different.",
         "descriptionRU": "Действие или пример того, как что-то становится или делается иным."
     }

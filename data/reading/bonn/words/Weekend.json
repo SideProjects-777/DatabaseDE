@@ -3,186 +3,217 @@
         "de": "die Stadt",
         "en": "City",
         "ru": "Город",
+        "descriptionDE": "Ein Ort, an dem Menschen leben, normalerweise größer als eine Stadt.",
         "descriptionEN": "A place where people live, usually larger than a town.",
         "descriptionRU": "Место, где люди живут, обычно крупнее по размеру, чем городок."
     }, {
         "de": "die Akademie",
         "en": "Academy",
         "ru": "Академия",
+        "descriptionDE": "Eine Institution höherer Bildung, die sich in der Regel auf ein bestimmtes Studiengebiet spezialisiert.",
         "descriptionEN": "An institution of higher learning, typically specializing in a certain field of study.",
         "descriptionRU": "Учебное заведение, обычно специализирующееся в определенной области знаний."
     }, {
         "de": "das Heimweh",
         "en": "Homesickness",
         "ru": "Тоска по дому",
+        "descriptionDE": "Ein Gefühl des Verlangens nach dem eigenen Zuhause oder einer vertrauten Umgebung.",
         "descriptionEN": "A feeling of longing for one's home or a familiar environment.",
         "descriptionRU": "Чувство тоски по дому или знакомой обстановке."
     }, {
         "de": "die Eltern",
         "en": "Parents",
         "ru": "Родители",
+        "descriptionDE": "Die Mutter und der Vater einer Person.",
         "descriptionEN": "One's mother and father.",
         "descriptionRU": "Мать и отец человека."
     }, {
         "de": "der Stau",
         "en": "Traffic jam",
         "ru": "Пробка",
+        "descriptionDE": "Eine Situation, in der Fahrzeuge aufgrund von Stauungen langsam oder gestoppt sind.",
         "descriptionEN": "A situation where vehicles are slow or stopped due to congestion.",
         "descriptionRU": "Ситуация, при которой транспорт двигается медленно или стоит из-за затора."
     }, {
         "de": "das Wochenende",
         "en": "Weekend",
         "ru": "Уикенд",
+        "descriptionDE": "Der Zeitraum von Freitagabend bis Sonntag, oft eine Zeit der Freizeit.",
         "descriptionEN": "The period from Friday evening through Sunday, often a time of leisure.",
         "descriptionRU": "Период с пятницы вечером по воскресенье, часто время досуга."
     }, {
         "de": "die Herbstfarben",
         "en": "Autumn colors",
         "ru": "Осенние краски",
+        "descriptionDE": "Die verschiedenen Farbtöne, die mit der Herbstsaison verbunden sind.",
         "descriptionEN": "The various shades of color associated with the autumn season.",
         "descriptionRU": "Различные оттенки цвета, характерные для осеннего сезона."
     }, {
         "de": "die Zugehörigkeit",
         "en": "Belonging",
         "ru": "Принадлежность",
+        "descriptionDE": "Der Zustand, ein Mitglied oder Teil einer Gruppe oder Gemeinschaft zu sein.",
         "descriptionEN": "The state of being a member or part of a group or community.",
         "descriptionRU": "Состояние являться членом или частью группы или общности."
     }, {
         "de": "die Einsamkeit",
         "en": "Loneliness",
         "ru": "Одиночество",
+        "descriptionDE": "Der Zustand, sich allein oder isoliert zu fühlen.",
         "descriptionEN": "The state of feeling alone or isolated.",
         "descriptionRU": "Состояние чувства одиночества или изоляции."
     }, {
         "de": "das Charm",
         "en": "Charm",
         "ru": "Шарм",
+        "descriptionDE": "Eine zwingende Anziehungskraft oder angenehme Qualität.",
         "descriptionEN": "A compelling attractiveness or pleasant quality.",
         "descriptionRU": "Привлекательность или приятное качество."
     }, {
         "de": "die Seele",
         "en": "Soul",
         "ru": "Душа",
+        "descriptionDE": "Der spirituelle oder immaterielle Teil eines Menschen.",
         "descriptionEN": "The spiritual or immaterial part of a human being.",
         "descriptionRU": "Духовная или нематериальная часть человека."
     }, {
         "de": "das Umfeld",
         "en": "Environment",
         "ru": "Окружение",
+        "descriptionDE": "Die Umgebung oder Bedingungen, in denen eine Person, ein Tier oder eine Pflanze lebt.",
         "descriptionEN": "The surroundings or conditions in which a person, animal, or plant lives.",
         "descriptionRU": "Окружающая среда или условия, в которых живет человек, животное или растение."
     }, {
         "de": "die Veränderung",
         "en": "Change",
         "ru": "Изменение",
+        "descriptionDE": "Der Prozess oder das Ergebnis, etwas zu verändern.",
         "descriptionEN": "The process or result of making something different.",
         "descriptionRU": "Процесс или результат изменения чего-то."
     }, {
         "de": "entschlossen",
         "en": "determined",
         "ru": "Решительный",
+        "descriptionDE": "Mit einer festen Entscheidung und dem Engagement, ein bestimmtes Ziel zu erreichen.",
         "descriptionEN": "Having a firm decision and commitment to achieve a specific goal.",
         "descriptionRU": "Имеющий твердое решение и обязательство достичь определенной цели."
     }, {
         "de": "das Herz",
         "en": "Heart",
         "ru": "Сердце",
+        "descriptionDE": "Das Organ in Ihrer Brust, das das Blut durch Ihren Körper pumpt.",
         "descriptionEN": "The organ in your chest that sends the blood around your body.",
         "descriptionRU": "Орган в груди, который направляет кровь по всему телу."
     }, {
         "de": "der Vorschlag",
         "en": "Proposal",
         "ru": "Предложение",
+        "descriptionDE": "Ein Vorschlag oder Plan, der von anderen zur Überlegung oder Diskussion vorgelegt wird.",
         "descriptionEN": "A suggestion or plan put forward for consideration or discussion by others.",
         "descriptionRU": "Предложение или план, выдвигаемый для рассмотрения или обсуждения другими."
     }, {
         "de": "die Einladung",
         "en": "Invitation",
         "ru": "Приглашение",
+        "descriptionDE": "Eine schriftliche oder mündliche Aufforderung, jemanden einzuladen, irgendwohin zu gehen oder etwas zu tun.",
         "descriptionEN": "A written or verbal request inviting someone to go somewhere or do something.",
         "descriptionRU": "Письменное или устное приглашение пригласить кого-то куда-то или сделать что-то."
     }, {
         "de": "die Aussicht",
         "en": "Prospect",
         "ru": "Перспектива",
+        "descriptionDE": "Die Möglichkeit oder Wahrscheinlichkeit, dass sich in der Zukunft ein Ereignis ereignet.",
         "descriptionEN": "The possibility or likelihood of some future event occurring.",
         "descriptionRU": "Возможность или вероятность наступления какого-то будущего события."
     }, {
         "de": "Idyllisches",
         "en": "Idyllic",
         "ru": "Идиллический",
+        "descriptionDE": "Äußerst glücklich, friedlich oder malerisch.",
         "descriptionEN": "Extremely happy, peaceful, or picturesque.",
         "descriptionRU": "Чрезвычайно счастливый, мирный или живописный."
     }, {
         "de": "teilen",
         "en": "to share",
         "ru": "делить",
+        "descriptionDE": "Etwas zwischen zwei oder mehreren Personen aufteilen oder verteilen.",
         "descriptionEN": "To divide or distribute something among two or more people.",
         "descriptionRU": "Разделить или распределить что-то между двумя или более людьми."
     }, {
         "de": "faszinieren",
         "en": "to fascinate",
         "ru": "очаровывать",
+        "descriptionDE": "Die Aufmerksamkeit von jemandem intensiv auf sich ziehen und halten.",
         "descriptionEN": "To attract and hold the interest of someone intensely.",
         "descriptionRU": "Привлекать и удерживать интерес кого-то интенсивно."
     }, {
         "de": "kämpfen",
         "en": "to struggle",
         "ru": "бороться",
+        "descriptionDE": "Kräftige Anstrengungen unternehmen, um eine Schwierigkeit oder Herausforderung zu überwinden.",
         "descriptionEN": "To make forceful efforts to overcome a difficulty or challenge.",
         "descriptionRU": "Приложить усилия для преодоления трудности или вызова."
     }, {
         "de": "bemerken",
         "en": "to notice",
         "ru": "замечать",
+        "descriptionDE": "Etwas durch Wahrnehmung beobachten oder bemerken.",
         "descriptionEN": "To observe or become aware of something through perception.",
         "descriptionRU": "Замечать или осознавать что-то через восприятие."
     }, {
         "de": "machen",
         "en": "to make",
         "ru": "создавать",
+        "descriptionDE": "Etwas schaffen oder produzieren.",
         "descriptionEN": "To create or produce something.",
         "descriptionRU": "Создать или произвести что-то."
     }, {
         "de": "fahren",
         "en": "to travel",
         "ru": "путешествовать",
+        "descriptionDE": "Eine Reise oder Fahrt unternehmen, normalerweise an einen anderen Ort.",
         "descriptionEN": "To go on a journey or trip, typically to another place.",
         "descriptionRU": "Совершить путешествие, обычно в другое место."
     }, {
         "de": "erreichen",
         "en": "to reach",
         "ru": "достигать",
+        "descriptionDE": "An einem Ziel oder einem bestimmten Punkt ankommen.",
         "descriptionEN": "To arrive at a destination or a certain point.",
         "descriptionRU": "Достигнуть места назначения или определенной точки."
     }, {
         "de": "scheinen",
         "en": "to seem",
         "ru": "казаться",
+        "descriptionDE": "Den Eindruck erwecken oder auf eine bestimmte Weise erscheinen.",
         "descriptionEN": "To give the impression or appear in a certain way.",
         "descriptionRU": "Производить впечатление или появляться определенным образом."
     }, {
         "de": "nehmen",
         "en": "to accept",
         "ru": "принимать",
+        "descriptionDE": "Zustimmen, etwas angebotenes zu erhalten oder zu übernehmen.",
         "descriptionEN": "To agree to receive or undertake something offered.",
         "descriptionRU": "Согласиться получить или взять на себя предложенное."
     }, {
         "de": "empfangen",
         "en": "to receive",
         "ru": "получать",
+        "descriptionDE": "Etwas erhalten oder präsentiert bekommen.",
         "descriptionEN": "To be given or presented with something.",
         "descriptionRU": "Быть дано или предоставлено что-то."
     }, {
         "de": "bleiben",
         "en": "to remain",
         "ru": "оставаться",
+        "descriptionDE": "An demselben Ort oder in demselben Zustand bleiben.",
         "descriptionEN": "To stay in the same place or condition.",
         "descriptionRU": "Остаться в том же месте или состоянии."
     }, {
         "de": "verwandeln",
         "en": "to transform",
         "ru": "преобразовывать",
+        "descriptionDE": "Verändern oder in eine andere Form oder einen anderen Zustand umwandeln.",
         "descriptionEN": "To change or convert into a different form or state.",
         "descriptionRU": "Измениться или превратиться в другую форму или состояние."
     }

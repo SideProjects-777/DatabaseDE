@@ -3,72 +3,84 @@
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
         "descriptionEN": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
         "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
     }, {
         "de": "die Sammlung",
         "en": "collection",
         "ru": "коллекция",
+        "descriptionDE": "Eine Gruppe von Dingen oder Menschen.",
         "descriptionEN": "a group of things or people.",
         "descriptionRU": "группа вещей или людей."
     }, {
         "de": "der Komponist",
         "en": "composer",
         "ru": "композитор",
+        "descriptionDE": "Eine Person, die Musik schreibt, besonders als professionelle Tätigkeit.",
         "descriptionEN": "a person who writes music, especially as a professional occupation.",
         "descriptionRU": "человек, пишущий музыку, особенно как профессиональное занятие."
     }, {
         "de": "das Gebäude",
         "en": "building",
         "ru": "здание",
+        "descriptionDE": "Eine Struktur mit Dach und Wänden, wie ein Haus, eine Schule, ein Geschäft oder eine Fabrik.",
         "descriptionEN": "a structure with a roof and walls, such as a house, school, store, or factory.",
         "descriptionRU": "конструкция с крышей и стенами, такая как дом, школа, магазин или фабрика."
     }, {
         "de": "die Dauerausstellung",
         "en": "permanent exhibition",
         "ru": "постоянная выставка",
+        "descriptionDE": "Eine Ausstellung von Kunstwerken, Artefakten usw., die regelmäßig am selben Ort, aber für einen unbestimmten Zeitraum stattfindet.",
         "descriptionEN": "an exhibition of works of art, artifacts, etc., regularly held in the same place but for an indefinite period.",
         "descriptionRU": "выставка произведений искусства, артефактов и т. д., регулярно проводимая в одном и том же месте, но на неопределенный срок."
     }, {
         "de": "die Handschrift",
         "en": "manuscript",
         "ru": "рукопись",
+        "descriptionDE": "Ein handschriftlicher Text.",
         "descriptionEN": "a handwritten text.",
         "descriptionRU": "текст, написанный от руки."
     }, {
         "de": "die Rekonstruktion",
         "en": "reconstruction",
         "ru": "реконструкция",
+        "descriptionDE": "Die Handlung oder der Prozess des Rekonstruierens oder des Wiederaufbaus.",
         "descriptionEN": "the action or process of reconstructing or being reconstructed.",
         "descriptionRU": "действие или процесс воссоздания или восстановления."
     }, {
         "de": "die Musikvisualisierungsbühne",
         "en": "music visualization stage",
         "ru": "сцена визуализации музыки",
+        "descriptionDE": "Eine Plattform zur Visualisierung von Musik, oft unter Verwendung digitaler oder multimedialer Elemente.",
         "descriptionEN": "a platform for visualizing music, often using digital or multimedia elements.",
         "descriptionRU": "платформа для визуализации музыки, часто с использованием цифровых или мультимедийных элементов."
     }, {
         "de": "eröffnen",
         "en": "open",
         "ru": "открывать",
+        "descriptionDE": "Beginnen oder starten (eine Veranstaltung oder Aktivität).",
         "descriptionEN": "to start or commence (an event or activity).",
         "descriptionRU": "начинать или запускать (событие или деятельность)."
     }, {
         "de": "verbinden",
         "en": "connect",
         "ru": "соединять",
+        "descriptionDE": "Zusammenbringen oder in Kontakt bringen, um eine reale oder angenommene Verbindung herzustellen.",
         "descriptionEN": "to bring together or into contact so that a real or notional link is established.",
         "descriptionRU": "сближать или соединять так, чтобы установлялась реальная или воображаемая связь."
     }, {
         "de": "renovieren",
         "en": "renovate",
         "ru": "ремонтировать",
+        "descriptionDE": "Etwas Altes, insbesondere ein Gebäude, in einen guten Zustand versetzen.",
         "descriptionEN": "to restore (something old, especially a building) to a good state of repair.",
         "descriptionRU": "восстанавливать (что-то старое, особенно здание) в хорошее состояние."
     }, {
         "de": "digitalisiert",
         "en": "digitized",
         "ru": "цифровой",
+        "descriptionDE": "In eine digitale Form umgewandelt, die von einem Computer verarbeitet werden kann.",
         "descriptionEN": "converted into a digital form that can be processed by a computer.",
         "descriptionRU": "преобразованный в цифровую форму, которую можно обрабатывать компьютером."
     }

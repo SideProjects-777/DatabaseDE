@@ -3,72 +3,84 @@
         "de": "der Spaziergang",
         "en": "walk",
         "ru": "прогулка",
+        "descriptionDE": "Die Aktivität, spazieren zu gehen, insbesondere zur Freizeitgestaltung oder zum Sport.",
         "descriptionEN": "the activity of going for a walk, especially for leisure or exercise.",
         "descriptionRU": "деятельность прогулки, особенно в свободное время или для занятия физической активностью."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "descriptionDE": "Eine große Stadt mit hoher Bevölkerungsdichte und verschiedenen Annehmlichkeiten.",
         "descriptionEN": "a large town with a high population density and various amenities.",
         "descriptionRU": "большой город с высокой плотностью населения и разнообразными удобствами."
     }, {
         "de": "die Pflastersteine",
         "en": "pavement stones",
         "ru": "брусчатка",
+        "descriptionDE": "Steine, die zum Pflastern von Straßen oder Gehwegen verwendet werden.",
         "descriptionEN": "stones used for paving streets or walkways.",
         "descriptionRU": "камни, используемые для мощения улиц или дорожек."
     }, {
         "de": "der Hauseingang",
         "en": "house entrance",
         "ru": "вход в дом",
+        "descriptionDE": "Die Tür oder der Eingang eines Hauses.",
         "descriptionEN": "the door or entrance of a house.",
         "descriptionRU": "дверь или вход в дом."
     }, {
         "de": "der Künstler",
         "en": "artist",
         "ru": "художник",
+        "descriptionDE": "Eine Person, die Kunstwerke produziert.",
         "descriptionEN": "a person who produces works of art.",
         "descriptionRU": "человек, создающий произведения искусства."
     }, {
         "de": "die Verfolgten",
         "en": "persecuted",
         "ru": "преследуемые",
+        "descriptionDE": "Menschen, die Feindseligkeit und Misshandlung ausgesetzt sind, insbesondere wegen ihrer Rasse oder Überzeugungen.",
         "descriptionEN": "people who are subjected to hostility and ill-treatment, especially because of their race or beliefs.",
         "descriptionRU": "люди, подвергающиеся враждебности и плохому обращению, особенно из-за своей расы или убеждений."
     }, {
         "de": "die Deportation",
         "en": "deportation",
         "ru": "депортация",
+        "descriptionDE": "Die Handlung, einen Ausländer aus einem Land zu deportieren.",
         "descriptionEN": "the action of deporting a foreigner from a country.",
         "descriptionRU": "действие высылки иностранца из страны."
     }, {
         "de": "das Mahnmal",
         "en": "memorial",
         "ru": "памятник",
+        "descriptionDE": "Eine Struktur, die geschaffen wurde, um die Menschen an eine Person oder ein Ereignis zu erinnern.",
         "descriptionEN": "a structure established to remind people of a person or event.",
         "descriptionRU": "структура, созданная для напоминания людям о человеке или событии."
     }, {
         "de": "verlegen",
         "en": "to lay",
         "ru": "укладывать",
+        "descriptionDE": "Etwas an eine bestimmte Position oder Stelle legen.",
         "descriptionEN": "to put something in a particular position or place.",
         "descriptionRU": "поместить что-то в определенное положение или место."
     }, {
         "de": "erinnern",
         "en": "to remind",
         "ru": "напоминать",
+        "descriptionDE": "Jemanden dazu bringen, sich an jemanden oder etwas zu erinnern.",
         "descriptionEN": "to cause someone to remember someone or something.",
         "descriptionRU": "вызвать у кого-то воспоминания о ком-то или о чем-то."
     }, {
         "de": "sichtbar",
         "en": "visible",
         "ru": "видимый",
+        "descriptionDE": "Kann gesehen werden.",
         "descriptionEN": "able to be seen.",
         "descriptionRU": "способный быть видимым."
     }, {
         "de": "kontrovers",
         "en": "controversial",
         "ru": "контроверсиальный",
+        "descriptionDE": "Verursacht Uneinigkeit oder Streit.",
         "descriptionEN": "causing disagreement or argument.",
         "descriptionRU": "вызывающий разногласия или споры."
     }

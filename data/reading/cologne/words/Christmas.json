@@ -3,144 +3,154 @@
         "de": "die Weihnachtszeit",
         "en": "Christmas time",
         "ru": "рождественское время",
+        "descriptionDE": "Die Zeit um Weihnachten herum, wenn festliche Aktivitäten stattfinden.",
         "descriptionEN": "The period around Christmas when festive activities take place.",
         "descriptionRU": "Период вокруг Рождества, когда проводятся праздничные мероприятия."
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
+        "descriptionDE": "Ein Brauch oder Glaube, der von Generation zu Generation weitergegeben wird.",
         "descriptionEN": "A custom or belief that is passed down from generation to generation.",
         "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение."
     }, {
         "de": "der Brauch",
         "en": "custom",
         "ru": "обычай",
+        "descriptionDE": "Eine traditionelle Art zu handeln oder etwas zu tun.",
         "descriptionEN": "A traditional way of behaving or doing something.",
         "descriptionRU": "Традиционный способ поведения или совершения чего-то."
     }, {
         "de": "die Feier",
         "en": "celebration",
         "ru": "празднование",
+        "descriptionDE": "Die Handlung des Feierns eines Ereignisses oder Festivals.",
         "descriptionEN": "The act of celebrating an event or festival.",
         "descriptionRU": "Акт празднования события или фестиваля."
     }, {
         "de": "der Markt",
         "en": "market",
         "ru": "рынок",
+        "descriptionDE": "Ein öffentlicher Ort, an dem Waren gekauft und verkauft werden.",
         "descriptionEN": "A public place where goods are bought and sold.",
         "descriptionRU": "Общественное место, где продают и покупают товары."
     }, {
         "de": "die Kerze",
         "en": "candle",
         "ru": "свеча",
+        "descriptionDE": "Ein Zylinder aus Wachs mit einem zentralen Docht, der angezündet wird, um Licht zu erzeugen.",
         "descriptionEN": "A cylinder of wax with a central wick that is lit to produce light.",
         "descriptionRU": "Цилиндр из воска с центральным фитилем, который зажигается для создания света."
     }, {
         "de": "der Adventssonntag",
         "en": "Advent Sunday",
         "ru": "Адвент-воскресенье",
+        "descriptionDE": "Der Sonntag, der den Beginn des Advents markiert, vier Wochen vor Weihnachten.",
         "descriptionEN": "The Sunday marking the beginning of Advent, four weeks before Christmas.",
         "descriptionRU": "Воскресенье, отмечающее начало Адвента, за четыре недели до Рождества."
     }, {
         "de": "die Tanne",
         "en": "fir tree",
         "ru": "ель",
+        "descriptionDE": "Eine Art immergrüner Baum, der oft als Weihnachtsbaum verwendet wird.",
         "descriptionEN": "A type of evergreen tree often used as a Christmas tree.",
         "descriptionRU": "Вид вечнозеленого дерева, часто используемого в качестве рождественской ели."
     }, {
         "de": "das Schmuck",
         "en": "ornament",
         "ru": "украшение",
+        "descriptionDE": "Eine Dekoration, die verwendet wird, um etwas zu verschönern.",
         "descriptionEN": "A decoration used to beautify something.",
         "descriptionRU": "Украшение, используемое для украшения чего-то."
     }, {
         "de": "das Geschenk",
         "en": "gift",
         "ru": "подарок",
+        "descriptionDE": "Etwas, das freiwillig ohne Bezahlung als Geschenk gegeben wird.",
         "descriptionEN": "Something given voluntarily without payment in return, as a present.",
         "descriptionRU": "Что-то, даримое добровольно без ожидания оплаты в ответ, как подарок."
     }, {
         "de": "die Mette",
         "en": "Midnight Mass",
         "ru": "полуночная месса",
+        "descriptionDE": "Eine Messe, die in der Nacht vor Weihnachten oder kurz nach Mitternacht gefeiert wird.",
         "descriptionEN": "A Mass celebrated on Christmas Eve at or shortly after midnight.",
         "descriptionRU": "Месса, отмечаемая в канун Рождества в полночь или непосредственно после полуночи."
     }, {
         "de": "die Gans",
         "en": "goose",
         "ru": "гусь",
+        "descriptionDE": "Ein großer Vogel mit einem langen Hals, der für sein Fleisch und seine Federn gezüchtet wird.",
         "descriptionEN": "A large bird with a long neck, raised for its meat and feathers.",
         "descriptionRU": "Большая птица с длинной шеей, разводимая ради мяса и перьев."
     }, {
         "de": "der Nikolaustag",
         "en": "St. Nicholas Day",
         "ru": "День Святого Николая",
+        "descriptionDE": "Ein Tag, der am 6. Dezember zu Ehren des Heiligen Nikolaus gefeiert wird, bekannt für das Schenken von Geschenken.",
         "descriptionEN": "A day celebrated on December 6th in honor of St. Nicholas, known for gift-giving.",
         "descriptionRU": "День, отмечаемый 6 декабря в честь Святого Николая, известного своим дарением подарков."
-    }, {
-        "de": "das Christkind",
-        "en": "Christ child",
-        "ru": "божественное дитя",
-        "descriptionEN": "A symbolic representation of the baby Jesus as the bringer of gifts at Christmas.",
-        "descriptionRU": "Символическое изображение младенца Иисуса как приносящего подарки на Рождество."
     }, {
         "de": "der Krampus",
         "en": "Krampus",
         "ru": "Крампус",
+        "descriptionDE": "Eine gehörnte Figur, die den Heiligen Nikolaus begleitet und ungezogene Kinder bestraft.",
         "descriptionEN": "A horned figure accompanying St. Nicholas, punishing naughty children.",
         "descriptionRU": "Рогатая фигура, сопровождающая Святого Николая и наказывающая непослушных детей."
     }, {
         "de": "der Hirte",
         "en": "shepherd",
         "ru": "пастух",
+        "descriptionDE": "Eine Person, die Schafe hütet, treibt oder bewacht.",
         "descriptionEN": "A person who tends, herds, or guards sheep.",
         "descriptionRU": "Человек, заботящийся, пасущий или охраняющий овец."
-    }, {
-        "de": "der Zweite Weihnachtsfeiertag",
-        "en": "Second Christmas Day",
-        "ru": "Второй рождественский день",
-        "descriptionEN": "The day following Christmas Day, celebrated as a public holiday in Germany.",
-        "descriptionRU": "День, следующий за Рождеством, отмечаемый как государственный праздник в Германии."
     }, {
         "de": "fröhlich",
         "en": "joyful",
         "ru": "радостный",
+        "descriptionDE": "Voll von Glück und Freude.",
         "descriptionEN": "Full of happiness and delight.",
         "descriptionRU": "Полный счастья и восторга."
     }, {
         "de": "magisch",
         "en": "magical",
         "ru": "волшебный",
+        "descriptionDE": "Die Kraft haben, zu verzaubern oder zu erfreuen.",
         "descriptionEN": "Having the power to enchant or delight.",
         "descriptionRU": "Обладающий силой очаровывать или радовать."
     }, {
         "de": "ausgeprägt",
         "en": "pronounced",
         "ru": "выраженный",
+        "descriptionDE": "Klar erkennbar oder offensichtlich.",
         "descriptionEN": "Clearly noticeable or evident.",
         "descriptionRU": "Явно заметный или очевидный."
     }, {
         "de": "festlich",
         "en": "festive",
         "ru": "праздничный",
+        "descriptionDE": "Mit einem Fest verbunden oder für ein Fest geeignet.",
         "descriptionEN": "Related to or suitable for a celebration.",
         "descriptionRU": "Связанный или подходящий для праздника."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
+        "descriptionDE": "Als einzige Art seiner Art sein; anders als alles andere.",
         "descriptionEN": "Being the only one of its kind; unlike anything else.",
         "descriptionRU": "Будучи единственным в своем роде; не похожим на что-то другое."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "descriptionDE": "Den Bräuchen oder Verhaltensweisen folgend oder zugehörig, die in einer Gruppe von Menschen lange Zeit fortbestanden haben.",
         "descriptionEN": "Following or belonging to the customs or ways of behaving that have continued in a group of people for a long time.",
         "descriptionRU": "Следуя или принадлежа к обычаям или способам поведения, которые сохранялись в группе людей долгое время."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "descriptionDE": "Einen tiefen Eindruck hinterlassen; unvergesslich.",
         "descriptionEN": "Leaving a deep impression; memorable.",
         "descriptionRU": "Оставляющий глубокое впечатление; незабвенный."
     }
