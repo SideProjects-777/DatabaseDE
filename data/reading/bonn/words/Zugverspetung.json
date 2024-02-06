@@ -1,0 +1,157 @@
+[
+    {
+        "de": "die Reise",
+        "en": "journey",
+        "ru": "путешествие",
+        "descriptionEN": "A journey, especially a long one.",
+        "descriptionRU": "Путешествие, особенно длительное.",
+        "descriptionDE": "Eine Reise, insbesondere eine lange."
+    }, {
+        "de": "der Zug",
+        "en": "train",
+        "ru": "поезд",
+        "descriptionEN": "A connected series of railroad cars moved by a locomotive.",
+        "descriptionRU": "Связанная серия железнодорожных вагонов, передвигаемых локомотивом.",
+        "descriptionDE": "Eine verbundene Reihe von Eisenbahnwagen, die von einer Lokomotive bewegt wird."
+    }, {
+        "de": "die Erfahrung",
+        "en": "experience",
+        "ru": "опыт",
+        "descriptionEN": "Practical contact with and observation of facts or events.",
+        "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+    }, {
+        "de": "der Grund",
+        "en": "reason",
+        "ru": "причина",
+        "descriptionEN": "A basis or cause, as for some belief, action, fact, event, etc.",
+        "descriptionRU": "Основание или причина, как для какого-то убеждения, действия, факта, события и т. д.",
+        "descriptionDE": "Eine Grundlage oder Ursache, wie für einen Glauben, eine Handlung, eine Tatsache, ein Ereignis usw."
+    }, {
+        "de": "die Störung",
+        "en": "disruption",
+        "ru": "нарушение",
+        "descriptionEN": "Disturbance or problems which interrupt an event, activity, or process.",
+        "descriptionRU": "Нарушение или проблемы, прерывающие событие, деятельность или процесс.",
+        "descriptionDE": "Störung oder Probleme, die ein Ereignis, eine Aktivität oder einen Prozess unterbrechen."
+    }, {
+        "de": "die Präzision",
+        "en": "precision",
+        "ru": "точность",
+        "descriptionEN": "The quality, condition, or fact of being exact and accurate.",
+        "descriptionRU": "Качество, состояние или факт быть точным и аккуратным.",
+        "descriptionDE": "Die Qualität, der Zustand oder die Tatsache, genau und präzise zu sein."
+    }, {
+        "de": "die Effizienz",
+        "en": "efficiency",
+        "ru": "эффективность",
+        "descriptionEN": "The ability to accomplish a job with a minimum expenditure of time and effort.",
+        "descriptionRU": "Способность выполнять работу с минимальными затратами времени и усилий.",
+        "descriptionDE": "Die Fähigkeit, eine Aufgabe mit einem minimalen Zeitaufwand und Aufwand zu erledigen."
+    }, {
+        "de": "die Verspätung",
+        "en": "delay",
+        "ru": "задержка",
+        "descriptionEN": "The action of delaying or being delayed.",
+        "descriptionRU": "Действие задержки или состояние задержки.",
+        "descriptionDE": "Die Handlung des Verzögerns oder die Verzögerung selbst."
+    }, {
+        "de": "der Anschlusszug",
+        "en": "connecting train",
+        "ru": "поезд-соединение",
+        "descriptionEN": "A train that is caught in order to continue a journey after changing from another train.",
+        "descriptionRU": "Поезд, который берется, чтобы продолжить путешествие после пересадки с другого поезда.",
+        "descriptionDE": "Ein Zug, der bestiegen wird, um eine Reise nach dem Wechsel von einem anderen Zug fortzusetzen."
+    }, {
+        "de": "die Wartungsarbeit",
+        "en": "maintenance work",
+        "ru": "работы по обслуживанию",
+        "descriptionEN": "Tasks performed to keep machinery, equipment, or infrastructure in proper working condition.",
+        "descriptionRU": "Работы, выполняемые для поддержания машин, оборудования или инфраструктуры в должном рабочем состоянии.",
+        "descriptionDE": "Aufgaben, die ausgeführt werden, um Maschinen, Ausrüstung oder Infrastruktur in einem ordnungsgemäßen Arbeitszustand zu halten."
+    }, {
+        "de": "der Fahrgast",
+        "en": "passenger",
+        "ru": "пассажир",
+        "descriptionEN": "A person who is traveling in a vehicle, especially one who is not driving, flying, or walking.",
+        "descriptionRU": "Человек, путешествующий на транспортном средстве, особенно тот, кто не ведет, не летит и не ходит.",
+        "descriptionDE": "Eine Person, die in einem Fahrzeug reist, insbesondere jemand, der nicht fährt, fliegt oder läuft."
+    }, {
+        "de": "reisen",
+        "en": "to travel",
+        "ru": "путешествовать",
+        "descriptionEN": "To make a journey, typically of some length or abroad.",
+        "descriptionRU": "Совершать путешествие, обычно какого-то продолжительного или за границу.",
+        "descriptionDE": "Eine Reise machen, normalerweise von einiger Länge oder ins Ausland."
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "To travel through (an unfamiliar area) in order to learn about it.",
+        "descriptionRU": "Проезжать (незнакомую территорию), чтобы узнать о ней.",
+        "descriptionDE": "Durchreisen (ein unbekanntes Gebiet), um es kennenzulernen."
+    }, {
+        "de": "freuen",
+        "en": "to be glad",
+        "ru": "радоваться",
+        "descriptionEN": "To feel pleased or satisfied about something.",
+        "descriptionRU": "Чувствовать удовлетворение или удовлетворенность чем-то.",
+        "descriptionDE": "Sich über etwas freuen oder zufrieden sein."
+    }, {
+        "de": "häufig",
+        "en": "frequent",
+        "ru": "частый",
+        "descriptionEN": "Occurring or done often; prevalent.",
+        "descriptionRU": "Часто происходящий или совершаемый; распространенный.",
+        "descriptionDE": "Häufig auftretend oder häufig ausgeführt; verbreitet."
+    }, {
+        "de": "frustrierend",
+        "en": "frustrating",
+        "ru": "разочаровывающий",
+        "descriptionEN": "Causing feelings of anger and annoyance.",
+        "descriptionRU": "Вызывающий чувства гнева и раздражения.",
+        "descriptionDE": "Gefühle von Wut und Ärger verursachend."
+    }, {
+        "de": "technisch",
+        "en": "technical",
+        "ru": "технический",
+        "descriptionEN": "Relating to a particular subject, art, or craft, or its techniques.",
+        "descriptionRU": "Относящийся к определенной теме, искусству или ремеслу, или его методике.",
+        "descriptionDE": "Bezogen auf ein bestimmtes Thema, eine Kunst oder ein Handwerk oder deren Techniken."
+    }, {
+        "de": "regelmäßig",
+        "en": "regular",
+        "ru": "регулярный",
+        "descriptionEN": "Customary, usual, or normal.",
+        "descriptionRU": "Привычный, обычный или нормальный.",
+        "descriptionDE": "Üblich, normal oder normal."
+    }, {
+        "de": "bitter",
+        "en": "bitter",
+        "ru": "горький",
+        "descriptionEN": "Causing pain or unhappiness.",
+        "descriptionRU": "Вызывающий боль или несчастье.",
+        "descriptionDE": "Schmerz oder Unglück verursachend."
+    }, {
+        "de": "positiv",
+        "en": "positive",
+        "ru": "положительный",
+        "descriptionEN": "Consisting in or characterized by the presence or possession of features or qualities rather than their absence.",
+        "descriptionRU": "Состоящий или характеризующийся наличием или обладанием характеристик или качеств, а не их отсутствием.",
+        "descriptionDE": "Bestehend aus oder gekennzeichnet durch das Vorhandensein oder den Besitz von Merkmalen oder Qualitäten anstelle ihres Fehlens."
+    }, {
+        "de": "interessant",
+        "en": "interesting",
+        "ru": "интересный",
+        "descriptionEN": "Arousing curiosity or interest; holding or catching the attention.",
+        "descriptionRU": "Будоражащий любопытство или интерес; привлекающий или захватывающий внимание.",
+        "descriptionDE": "Neugier oder Interesse weckend; Aufmerksamkeit erregend oder einfangend."
+    }, {
+        "de": "lang",
+        "en": "long",
+        "ru": "длинный",
+        "descriptionEN": "Measuring a great distance from end to end.",
+        "descriptionRU": "Измерение большого расстояния от края до края.",
+        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende."
+    }
+]

@@ -17,6 +17,22 @@
         "multi": "Wohnung.json"
     }, {
         "name": {
+            "de": "Zugverspätungen",
+            "en": "Train Delays",
+            "ru": "Задержки поездов"
+        },
+        "description": {
+            "de": "Matej Nováks Erfahrungen",
+            "en": "Matej Novák's Experience",
+            "ru": "Опыт Матея Новака"
+        },
+        "level": "B2",
+        "image": "Zugverspetung.jpg",
+        "file": "Zugverspetung.txt",
+        "words": "Zugverspetung.json",
+        "multi": "Zugverspetung.json"
+    }, {
+        "name": {
             "de": "COVID mit Beethoven",
             "en": "COVID with Beethoven",
             "ru": "КОВИД с Бетховеном"
@@ -58,7 +74,7 @@
             "en": "Charm in Bonn",
             "ru": "Очарование Бонна"
         },
-        "level": "B1",
+        "level": "A2",
         "image": "Bonn.jpg",
         "file": "Warum_Bonn.txt",
         "words": "Warum_Bonn.json",
@@ -90,7 +106,7 @@
             "en": "Bonn Retreat: Heartwarming Weekend",
             "ru": "Отдых в Бонне: Теплый Уикенд"
         },
-        "level": "B1",
+        "level": "A2",
         "image": "Weekend.jpg",
         "file": "Weekend.txt",
         "words": "Weekend.json",
@@ -106,7 +122,7 @@
             "en": "Maria Schmidt's Whimsical Candy Map",
             "ru": "Волшебная карта конфет от Марии Шмидт"
         },
-        "level": "B1",
+        "level": "A2",
         "image": "Geheimnisse.jpg",
         "file": "Geheimnisse.txt",
         "words": "Geheimnisse.json",
