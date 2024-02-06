@@ -129,6 +129,38 @@
         "yesNo": "Cologne_Erkunden_III.json"
     }, {
         "name": {
+            "de": "Magie im Kölner Zoo",
+            "en": "Magic at Cologne Zoo",
+            "ru": "Волшебство в Кёльнском зоопарке"
+        },
+        "description": {
+            "de": "Unerwartete Bindungen im Zoo",
+            "en": "Unexpected Bonds at the Zoo",
+            "ru": "Неожиданные знакомства в зоопарке"
+        },
+        "level": "B1",
+        "image": "Magic.jpg",
+        "file": "Magic.txt",
+        "words": "Magic.json",
+        "yesNo": "Magic.json"
+    }, {
+        "name": {
+            "de": "Kölner Dom",
+            "en": "Cologne cathedral",
+            "ru": "Кельнский собор"
+        },
+        "description": {
+            "de": "Historische und majestätische Kathedrale",
+            "en": "Historical and majestic cathedral",
+            "ru": "Исторический и величественный собор"
+        },
+        "level": "B1",
+        "image": "Dom.jpg",
+        "file": "Dom.txt",
+        "words": "Dom.json",
+        "multi": "Dom.json"
+    }, {
+        "name": {
             "de": "Köln gegen Düsseldorf",
             "en": "Cologne vs. Düsseldorf",
             "ru": "Кёльн против Дюссельдорфа"
@@ -175,38 +207,6 @@
         "file": "FC_Koeln.txt",
         "words": "FC_Koeln.json",
         "multi": "FC_Koeln.json"
-    }, {
-        "name": {
-            "de": "Magie im Kölner Zoo",
-            "en": "Magic at Cologne Zoo",
-            "ru": "Волшебство в Кёльнском зоопарке"
-        },
-        "description": {
-            "de": "Unerwartete Bindungen im Zoo",
-            "en": "Unexpected Bonds at the Zoo",
-            "ru": "Неожиданные знакомства в зоопарке"
-        },
-        "level": "B1",
-        "image": "Magic.jpg",
-        "file": "Magic.txt",
-        "words": "Magic.json",
-        "yesNo": "Magic.json"
-    }, {
-        "name": {
-            "de": "Kölner Dom",
-            "en": "Cologne cathedral",
-            "ru": "Кельнский собор"
-        },
-        "description": {
-            "de": "Historische und majestätische Kathedrale",
-            "en": "Historical and majestic cathedral",
-            "ru": "Исторический и величественный собор"
-        },
-        "level": "B1",
-        "image": "Dom.jpg",
-        "file": "Dom.txt",
-        "words": "Dom.json",
-        "multi": "Dom.json"
     }, {
         "name": {
             "de": "Weihnachtsbräuche in Deutschland",
