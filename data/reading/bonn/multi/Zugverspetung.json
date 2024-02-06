@@ -3,14 +3,14 @@
         "name": "Welches Problem hatte Matej auf seiner Fahrt von Berlin nach Hamburg?",
         "answers": [
             {
-                "text": "Technisches Problem mit dem ICE",
-                "correct": true
-            }, {
                 "text": "Verspätung wegen Streiks",
                 "correct": false
             }, {
                 "text": "Signalstörungen",
                 "correct": false
+            }, {
+                "text": "Technisches Problem mit dem ICE",
+                "correct": true
             }, {
                 "text": "Wartungsarbeiten am Zug",
                 "correct": false
@@ -37,9 +37,6 @@
         "name": "Was war eine der Folgen der Verspätungen für Matej?",
         "answers": [
             {
-                "text": "Zusätzliche Kosten für Fahrkarten",
-                "correct": true
-            }, {
                 "text": "Pünktliche Ankunft am Zielort",
                 "correct": false
             }, {
@@ -48,19 +45,22 @@
             }, {
                 "text": "Keine Auswirkungen auf sein Budget",
                 "correct": false
+            }, {
+                "text": "Zusätzliche Kosten für Fahrkarten",
+                "correct": true
             }
         ]
     }, {
         "name": "Was für einen Eindruck hatte Matej vom deutschen Bahnsystem, bevor er seine Reise antrat?",
         "answers": [
             {
+                "text": "Teuer und unkomfortabel",
+                "correct": false
+            }, {
                 "text": "Effizient und pünktlich",
                 "correct": true
             }, {
                 "text": "Unzuverlässig und langsam",
-                "correct": false
-            }, {
-                "text": "Teuer und unkomfortabel",
                 "correct": false
             }, {
                 "text": "Modern und sicher",
@@ -71,9 +71,6 @@
         "name": "Was machte Matej während seiner Wartezeit in Bonn?",
         "answers": [
             {
-                "text": "Genoss die Schönheit der Stadt",
-                "correct": true
-            }, {
                 "text": "Besuchte das Deutsche Museum",
                 "correct": false
             }, {
@@ -82,17 +79,20 @@
             }, {
                 "text": "Reparierte sein Gepäck",
                 "correct": false
+            }, {
+                "text": "Genoss die Schönheit der Stadt",
+                "correct": true
             }
         ]
     }, {
         "name": "Welche Hoffnung äußerte Matej bezüglich der Deutschen Bahn am Ende seines Aufenthalts?",
         "answers": [
             {
-                "text": "Verbesserung der Pünktlichkeit",
-                "correct": true
-            }, {
                 "text": "Steigerung der Ticketpreise",
                 "correct": false
+            }, {
+                "text": "Verbesserung der Pünktlichkeit",
+                "correct": true
             }, {
                 "text": "Reduzierung der Zugfrequenz",
                 "correct": false
@@ -105,14 +105,14 @@
         "name": "Was beeinträchtigten die Verspätungen zusätzlich zu Matejs Reiseplänen?",
         "answers": [
             {
-                "text": "Sein Budget",
-                "correct": true
-            }, {
                 "text": "Seine Reisetasche",
                 "correct": false
             }, {
                 "text": "Seine Reisebegleitung",
                 "correct": false
+            }, {
+                "text": "Sein Budget",
+                "correct": true
             }, {
                 "text": "Seine Gesundheit",
                 "correct": false
@@ -122,14 +122,14 @@
         "name": "Was erfuhrt Matej über Bonn während seiner Wartezeit auf verspätete Züge?",
         "answers": [
             {
-                "text": "Informationen über die Sakura-Blüte",
-                "correct": true
-            }, {
                 "text": "Die politische Geschichte der Stadt",
                 "correct": false
             }, {
                 "text": "Die berühmten Sehenswürdigkeiten",
                 "correct": false
+            }, {
+                "text": "Informationen über die Sakura-Blüte",
+                "correct": true
             }, {
                 "text": "Die besten Restaurants der Stadt",
                 "correct": false
@@ -156,9 +156,6 @@
         "name": "Welche Stadt besuchte Matej vor seinem Aufenthalt in München?",
         "answers": [
             {
-                "text": "Dresden",
-                "correct": true
-            }, {
                 "text": "Stuttgart",
                 "correct": false
             }, {
@@ -167,15 +164,15 @@
             }, {
                 "text": "Hamburg",
                 "correct": false
+            }, {
+                "text": "Dresden",
+                "correct": true
             }
         ]
     }, {
         "name": "Was war eine häufige Klage der Fahrgäste über das deutsche Bahnsystem?",
         "answers": [
             {
-                "text": "Regelmäßige Verspätungen",
-                "correct": true
-            }, {
                 "text": "Hohe Ticketpreise",
                 "correct": false
             }, {
@@ -184,196 +181,9 @@
             }, {
                 "text": "Langsame Züge",
                 "correct": false
-            }
-        ]
-    }
-]
-[
-    {
-        "name": "Welches Problem hatte Matej auf seiner Fahrt von Berlin nach Hamburg?",
-        "answers": [
-            {
-                "text": "Technisches Problem mit dem ICE",
-                "correct": true
             }, {
-                "text": "Verspätung wegen Streiks",
-                "correct": false
-            }, {
-                "text": "Signalstörungen",
-                "correct": false
-            }, {
-                "text": "Wartungsarbeiten am Zug",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Wo musste Matej umsteigen, um von Stuttgart nach Hannover zu gelangen?",
-        "answers": [
-            {
-                "text": "Bonn",
-                "correct": true
-            }, {
-                "text": "Dresden",
-                "correct": false
-            }, {
-                "text": "München",
-                "correct": false
-            }, {
-                "text": "Hamburg",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Was war eine der Folgen der Verspätungen für Matej?",
-        "answers": [
-            {
-                "text": "Zusätzliche Kosten für Fahrkarten",
-                "correct": true
-            }, {
-                "text": "Pünktliche Ankunft am Zielort",
-                "correct": false
-            }, {
-                "text": "Kürzere Reisezeit",
-                "correct": false
-            }, {
-                "text": "Keine Auswirkungen auf sein Budget",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Was für einen Eindruck hatte Matej vom deutschen Bahnsystem, bevor er seine Reise antrat?",
-        "answers": [
-            {
-                "text": "Effizient und pünktlich",
-                "correct": true
-            }, {
-                "text": "Unzuverlässig und langsam",
-                "correct": false
-            }, {
-                "text": "Teuer und unkomfortabel",
-                "correct": false
-            }, {
-                "text": "Modern und sicher",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Was machte Matej während seiner Wartezeit in Bonn?",
-        "answers": [
-            {
-                "text": "Genoss die Schönheit der Stadt",
-                "correct": true
-            }, {
-                "text": "Besuchte das Deutsche Museum",
-                "correct": false
-            }, {
-                "text": "Erledigte geschäftliche Angelegenheiten",
-                "correct": false
-            }, {
-                "text": "Reparierte sein Gepäck",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Welche Hoffnung äußerte Matej bezüglich der Deutschen Bahn am Ende seines Aufenthalts?",
-        "answers": [
-            {
-                "text": "Verbesserung der Pünktlichkeit",
-                "correct": true
-            }, {
-                "text": "Steigerung der Ticketpreise",
-                "correct": false
-            }, {
-                "text": "Reduzierung der Zugfrequenz",
-                "correct": false
-            }, {
-                "text": "Erhöhung der Zugkapazität",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Was beeinträchtigten die Verspätungen zusätzlich zu Matejs Reiseplänen?",
-        "answers": [
-            {
-                "text": "Sein Budget",
-                "correct": true
-            }, {
-                "text": "Seine Reisetasche",
-                "correct": false
-            }, {
-                "text": "Seine Reisebegleitung",
-                "correct": false
-            }, {
-                "text": "Seine Gesundheit",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Was erfuhrt Matej über Bonn während seiner Wartezeit auf verspätete Züge?",
-        "answers": [
-            {
-                "text": "Informationen über die Sakura-Blüte",
-                "correct": true
-            }, {
-                "text": "Die politische Geschichte der Stadt",
-                "correct": false
-            }, {
-                "text": "Die berühmten Sehenswürdigkeiten",
-                "correct": false
-            }, {
-                "text": "Die besten Restaurants der Stadt",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Was hoffte Matej, dass die Deutsche Bahn verbessern würde?",
-        "answers": [
-            {
-                "text": "Pünktlichkeit",
-                "correct": true
-            }, {
-                "text": "Reisekomfort",
-                "correct": false
-            }, {
-                "text": "Ticketpreise",
-                "correct": false
-            }, {
-                "text": "Zugfrequenz",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Welche Stadt besuchte Matej vor seinem Aufenthalt in München?",
-        "answers": [
-            {
-                "text": "Dresden",
-                "correct": true
-            }, {
-                "text": "Stuttgart",
-                "correct": false
-            }, {
-                "text": "Berlin",
-                "correct": false
-            }, {
-                "text": "Hamburg",
-                "correct": false
-            }
-        ]
-    }, {
-        "name": "Was war eine häufige Klage der Fahrgäste über das deutsche Bahnsystem?",
-        "answers": [
-            {
                 "text": "Regelmäßige Verspätungen",
                 "correct": true
-            }, {
-                "text": "Hohe Ticketpreise",
-                "correct": false
-            }, {
-                "text": "Unbequeme Sitze",
-                "correct": false
-            }, {
-                "text": "Langsame Züge",
-                "correct": false
             }
         ]
     }

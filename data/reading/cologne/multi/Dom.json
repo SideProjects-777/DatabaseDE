@@ -3,16 +3,16 @@
         "name": "Wann wurde der Kölner Dom fertiggestellt?",
         "answers": [
             {
-                "text": "Im 19. Jahrhundert",
-                "correct": false
-            }, {
-                "text": "Im 20. Jahrhundert",
+                "text": "Im 16. Jahrhundert",
                 "correct": false
             }, {
                 "text": "Im 18. Jahrhundert",
                 "correct": true
             }, {
-                "text": "Im 16. Jahrhundert",
+                "text": "Im 19. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "Im 20. Jahrhundert",
                 "correct": false
             }
         ]
@@ -23,30 +23,30 @@
                 "text": "Barock",
                 "correct": false
             }, {
+                "text": "Renaissance",
+                "correct": false
+            }, {
                 "text": "Romanisch",
                 "correct": false
             }, {
                 "text": "Gotik",
                 "correct": true
-            }, {
-                "text": "Renaissance",
-                "correct": false
             }
         ]
     }, {
         "name": "Welcher Fluss fließ durch Köln?",
         "answers": [
             {
-                "text": "Donau",
-                "correct": false
-            }, {
-                "text": "Main",
-                "correct": false
-            }, {
                 "text": "Rhein",
                 "correct": true
             }, {
+                "text": "Donau",
+                "correct": false
+            }, {
                 "text": "Mosel",
+                "correct": false
+            }, {
+                "text": "Main",
                 "correct": false
             }
         ]
@@ -105,6 +105,9 @@
         "name": "Welche Veranstaltungen finden regelmäßig im Kölner Dom statt?",
         "answers": [
             {
+                "text": "Theateraufführungen",
+                "correct": false
+            }, {
                 "text": "Konzerte",
                 "correct": false
             }, {
@@ -113,9 +116,6 @@
             }, {
                 "text": "Gottesdienste und Events",
                 "correct": true
-            }, {
-                "text": "Theateraufführungen",
-                "correct": false
             }
         ]
     }, {
@@ -125,11 +125,11 @@
                 "text": "Ewige Freundschaft",
                 "correct": false
             }, {
-                "text": "Ewige Liebe",
-                "correct": true
-            }, {
                 "text": "Ewiger Wohlstand",
                 "correct": false
+            }, {
+                "text": "Ewige Liebe",
+                "correct": true
             }, {
                 "text": "Ewige Treue",
                 "correct": false
@@ -156,6 +156,9 @@
         "name": "Welche Jahreszeit bietet den besten Blick vom Kölner Dom?",
         "answers": [
             {
+                "text": "Winter",
+                "correct": false
+            }, {
                 "text": "Frühling",
                 "correct": false
             }, {
@@ -164,9 +167,6 @@
             }, {
                 "text": "Herbst",
                 "correct": true
-            }, {
-                "text": "Winter",
-                "correct": false
             }
         ]
     }

@@ -34,23 +34,6 @@
             }
         ]
     }, {
-        "name": "Wer sprach mit dem Wachmann und enthüllte, ein Geist zu sein?",
-        "answers": [
-            {
-                "text": "Jesse Owens",
-                "correct": false
-            }, {
-                "text": "Luz Long",
-                "correct": true
-            }, {
-                "text": "Muhammad Ali",
-                "correct": false
-            }, {
-                "text": "Emil Zátopek",
-                "correct": false
-            }
-        ]
-    }, {
         "name": "Warum streifen die Geister durch die Hallen des Museums?",
         "answers": [
             {
