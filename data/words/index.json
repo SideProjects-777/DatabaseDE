@@ -375,5 +375,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Sarah.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Sarah.jpg"
+    }, {
+        "title": {
+            "de": "Suche nach einem Wohnsitz",
+            "en": "Searching for accommodation",
+            "ru": "Поиск жилья"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wohnung.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wohnung.jpg"
     }
 ]

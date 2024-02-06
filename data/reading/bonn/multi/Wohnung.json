@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Welche Stadt hat Anna wegen eines Jobwechsels verlassen?",
+        "answers": [
+            {
+                "text": "Bonn",
+                "correct": true
+            }, {
+                "text": "Berlin",
+                "correct": false
+            }, {
+                "text": "München",
+                "correct": false
+            }, {
+                "text": "Hamburg",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Websites hat Anna genutzt, um nach Wohnungen zu suchen?",
+        "answers": [
+
+            {
+                "text": "Soziale Medien wie Facebook und Instagram",
+                "correct": false
+            }, {
+                "text": "Nachbarschaftszeitungen und Anzeigen",
+                "correct": false
+            }, {
+                "text": "Online-Plattformen wie Immobilienscout24, Immonet und Immowelt",
+                "correct": true
+            }, {
+                "text": "Reise- und Tourismuswebsites",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Stadtviertel in Bonn hatte die erste Wohnung, die Anna besichtigte?",
+        "answers": [
+
+            {
+                "text": "Altstadt",
+                "correct": false
+            }, {
+                "text": "Südstadt",
+                "correct": false
+            }, {
+                "text": "Innenstadt",
+                "correct": false
+            }, {
+                "text": "Poppelsdorf",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was war das Problem mit der Wohnung in Poppelsdorf?",
+        "answers": [
+            {
+                "text": "Die Miete war etwas über Annas Budget.",
+                "correct": true
+            }, {
+                "text": "Die Wohnung war zu klein.",
+                "correct": false
+            }, {
+                "text": "Es gab keine Cafés oder Restaurants in der Nähe.",
+                "correct": false
+            }, {
+                "text": "Die Wohnung hatte wenig Tageslicht.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Stadtviertel lag die Wohnung, die im Rahmen von Annas Budget war, aber klein und dunkel?",
+        "answers": [
+
+            {
+                "text": "Poppelsdorf",
+                "correct": false
+            }, {
+                "text": "Altstadt",
+                "correct": true
+            }, {
+                "text": "Südstadt",
+                "correct": false
+            }, {
+                "text": "Innenstadt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Stadtviertel fand Anna schließlich die perfekte Wohnung?",
+        "answers": [
+
+            {
+                "text": "Poppelsdorf",
+                "correct": false
+            }, {
+                "text": "Altstadt",
+                "correct": false
+            }, {
+                "text": "Südstadt",
+                "correct": true
+            }, {
+                "text": "Innenstadt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Dokumente musste Anna als Ausländerin einreichen?",
+        "answers": [
+
+            {
+                "text": "Führungszeugnis und Lebenslauf",
+                "correct": false
+            }, {
+                "text": "Reisepass und Aufenthaltsgenehmigung",
+                "correct": false
+            }, {
+                "text": "Steuernummer und Polizeiliches Führungszeugnis",
+                "correct": false
+            }, {
+                "text": "Einkommensnachweis und Schreiben des Arbeitgebers",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Nachbarschaftsqualität hat Anna nach ihrem Einzug am meisten überrascht?",
+        "answers": [
+            {
+                "text": "Die Freundlichkeit und Bereitschaft der Nachbarn, ihr bei der Eingewöhnung zu helfen.",
+                "correct": true
+            }, {
+                "text": "Die Vielfalt der Geschäfte und Restaurants in der Nähe.",
+                "correct": false
+            }, {
+                "text": "Die Sicherheit und Ruhe des Viertels.",
+                "correct": false
+            }, {
+                "text": "Die Schönheit der umliegenden Parks und Grünflächen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Anna besonders an der Wohnung in der Südstadt gefallen?",
+        "answers": [
+
+            {
+                "text": "Die Wohnung hatte einen Swimmingpool und Fitnessstudio im Gebäude.",
+                "correct": false
+            }, {
+                "text": "Die Wohnung war komplett möbliert und hatte einen großen Balkon.",
+                "correct": false
+            }, {
+                "text": "Die Wohnung hatte viel Platz, natürliches Licht und entsprach ihrem Budget.",
+                "correct": true
+            }, {
+                "text": "Die Wohnung war nahe an einem großen Einkaufszentrum gelegen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat die Erfahrung von Annas Wohnungssuche gezeigt?",
+        "answers": [
+            {
+                "text": "Mit der richtigen Recherche und Geduld ist die Wohnungssuche in einer neuen Stadt nicht unmöglich.",
+                "correct": true
+            }, {
+                "text": "Die Wohnungssuche in einer neuen Stadt ist immer einfach und stressfrei.",
+                "correct": false
+            }, {
+                "text": "Es ist besser, eine Wohnung aufgrund von Bildern und Beschreibungen im Internet zu mieten.",
+                "correct": false
+            }, {
+                "text": "Die Suche nach einer Wohnung in einer neuen Stadt erfordert keinen Background-Check.",
+                "correct": false
+            }
+        ]
+    }
+]

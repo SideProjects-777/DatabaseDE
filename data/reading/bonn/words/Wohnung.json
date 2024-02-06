@@ -1,0 +1,87 @@
+[
+    {
+        "de": "die Suche",
+        "en": "search",
+        "ru": "поиск",
+        "descriptionEN": "the act or process of looking for something",
+        "descriptionRU": "действие или процесс поиска чего-либо",
+        "descriptionDE": "Das Handeln oder der Prozess des Suchens nach etwas"
+    }, {
+        "de": "die Wohnung",
+        "en": "apartment",
+        "ru": "квартира",
+        "descriptionEN": "a set of rooms for living in, usually on one floor of a building",
+        "descriptionRU": "набор комнат для жизни, обычно на одном этаже здания",
+        "descriptionDE": "Eine Reihe von Zimmern zum Wohnen, normalerweise auf einer Etage eines Gebäudes"
+    }, {
+        "de": "der Stadtteil",
+        "en": "neighborhood",
+        "ru": "район",
+        "descriptionEN": "a district or community within a town or city",
+        "descriptionRU": "район или община внутри города",
+        "descriptionDE": "Ein Stadtbezirk oder eine Gemeinde innerhalb einer Stadt"
+    }, {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "a large public green area in a town, used for recreation",
+        "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха",
+        "descriptionDE": "Eine große öffentliche Grünfläche in einer Stadt, die zur Erholung genutzt wird"
+    }, {
+        "de": "der Vermieter",
+        "en": "landlord",
+        "ru": "арендодатель",
+        "descriptionEN": "a person who owns property and rents it to others",
+        "descriptionRU": "человек, владеющий недвижимостью и сдает ее в аренду другим",
+        "descriptionDE": "Eine Person, die Eigentum besitzt und es an andere vermietet"
+    }, {
+        "de": "die Arbeit",
+        "en": "work",
+        "ru": "работа",
+        "descriptionEN": "activity involving mental or physical effort done in order to achieve a purpose or result",
+        "descriptionRU": "деятельность, требующая умственного или физического усилия, совершаемая с целью достижения результата",
+        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein bestimmtes Ziel oder Ergebnis zu erreichen"
+    }, {
+        "de": "die Lage",
+        "en": "location",
+        "ru": "местоположение",
+        "descriptionEN": "a particular place or position",
+        "descriptionRU": "определенное место или позиция",
+        "descriptionDE": "Ein bestimmter Ort oder eine bestimmte Position"
+    }, {
+        "de": "die Budget",
+        "en": "budget",
+        "ru": "бюджет",
+        "descriptionEN": "an estimate of income and expenditure for a set period of time",
+        "descriptionRU": "прогноз доходов и расходов на определенный период времени",
+        "descriptionDE": "Eine Schätzung von Einnahmen und Ausgaben für einen festgelegten Zeitraum"
+    }, {
+        "de": "beschlossen",
+        "en": "decided",
+        "ru": "решился",
+        "descriptionEN": "made a firm decision about something",
+        "descriptionRU": "принял твердое решение о чем-то",
+        "descriptionDE": "Eine feste Entscheidung über etwas getroffen"
+    }, {
+        "de": "gewühlt",
+        "en": "sifted",
+        "ru": "просеивал",
+        "descriptionEN": "examined or searched through (something) systematically",
+        "descriptionRU": "систематически осматривал или искал (что-то)",
+        "descriptionDE": "Systematisch untersucht oder durchsucht (etwas)"
+    }, {
+        "de": "persönlich",
+        "en": "personally",
+        "ru": "лично",
+        "descriptionEN": "in a way that is personally and directly related to oneself",
+        "descriptionRU": "таким образом, что лично и прямо относится к себе",
+        "descriptionDE": "Auf eine Weise, die persönlich und direkt mit einem selbst verbunden ist"
+    }, {
+        "de": "perfekt",
+        "en": "perfect",
+        "ru": "идеальный",
+        "descriptionEN": "having all the required or desirable elements, qualities, or characteristics",
+        "descriptionRU": "имеющий все необходимые или желательные элементы, качества или характеристики",
+        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Eigenschaften oder Merkmale aufweisend"
+    }
+]

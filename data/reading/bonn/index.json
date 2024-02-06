@@ -1,20 +1,20 @@
 [
     {
         "name": {
-            "de": "Lebensfreude in Bonn",
-            "en": "Joy of Life in Bonn",
-            "ru": "Радость жизни в Бонне"
+            "de": "Suche nach einem Wohnsitz",
+            "en": "Searching for accommodation",
+            "ru": "Поиск жилья"
         },
         "description": {
-            "de": "Ein Tag im Leben von Anna",
-            "en": "A Day in Anna's Life",
-            "ru": "День в жизни Анны"
+            "de": "Annas neue Wohnung in Bonn",
+            "en": "Anna's New Home in Bonn",
+            "ru": "История Анны в Бонне"
         },
         "level": "A2",
-        "image": "Anna.jpg",
-        "file": "Anna.txt",
-        "words": "Anna.json",
-        "yesNo": "Anna.json"
+        "image": "Wohnung.jpg",
+        "file": "Wohnung.txt",
+        "words": "Wohnung.json",
+        "multi": "Wohnung.json"
     }, {
         "name": {
             "de": "COVID mit Beethoven",
@@ -175,6 +175,22 @@
         "file": "Frank.txt",
         "words": "Frank.json",
         "yesNo": "Frank.json"
+    }, {
+        "name": {
+            "de": "Mein erster Rosenmontag",
+            "en": "My first Rosenmontag",
+            "ru": "Мой первый Розенмонтаг"
+        },
+        "description": {
+            "de": "Празднование карнавала",
+            "en": "Carnival Celebration",
+            "ru": "Karnevalsfeier"
+        },
+        "level": "B2",
+        "image": "RosenmontagBonn.jpg",
+        "file": "RosenmontagBonn.txt",
+        "words": "RosenmontagBonn.json",
+        "yesNo": "RosenmontagBonn.json"
     }, {
         "name": {
             "de": "Mein erster Rosenmontag",
