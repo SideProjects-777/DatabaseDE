@@ -7,13 +7,5 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
-    }, {
-        "title": {
-            "de": "Mehr von Bonn",
-            "en": "More from Bonn",
-            "ru": "Еще из Бонна"
-        },
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/index.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/image.jpg"
     }
 ]

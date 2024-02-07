@@ -14,7 +14,7 @@
         "image": "Sarah.jpg",
         "file": "Sarah.mp3",
         "words": "Sarah.json",
-        "yesNo": "Sarah.json"
+        "multi": "Sarah.json"
     }, {
         "name": {
             "de": "Flughafen Bonn/Köln",
