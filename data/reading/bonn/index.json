@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "de": "Lebensfreude in Bonn",
+            "en": "Joy of Life in Bonn",
+            "ru": "Радость жизни в Бонне"
+        },
+        "description": {
+            "de": "Ein Tag im Leben von Anna",
+            "en": "A Day in Anna's Life",
+            "ru": "День в жизни Анны"
+        },
+        "level": "A2",
+        "image": "Anna.jpg",
+        "file": "Anna.txt",
+        "words": "Anna.json",
+        "yesNo": "Anna.json"
+    }, {
+        "name": {
             "de": "Suche nach einem Wohnsitz",
             "en": "Searching for accommodation",
             "ru": "Поиск жилья"
