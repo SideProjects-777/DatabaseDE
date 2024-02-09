@@ -1,0 +1,143 @@
+[
+    {
+        "de": "die Katze",
+        "en": "cat",
+        "ru": "кот / кошка",
+        "descriptionEN": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+        "descriptionRU": "Маленькое домашнее хищное млекопитающее с мягкой шерстью, коротким рылом и убирающимися когтями.",
+        "descriptionDE": "Ein kleines domestiziertes fleischfressendes Säugetier mit weichem Fell, kurzer Schnauze und einziehbaren Krallen."
+    }, {
+        "de": "der Hund",
+        "en": "dog",
+        "ru": "собака",
+        "descriptionEN": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.",
+        "descriptionRU": "Домашнее хищное млекопитающее, обычно с длинным рылом, остро развитым обонянием и лающим, воющим или скулящим голосом.",
+        "descriptionDE": "Ein domestiziertes fleischfressendes Säugetier, das normalerweise eine lange Schnauze, einen ausgeprägten Geruchssinn und eine bellende, heulende oder winselnde Stimme hat."
+    }, {
+        "de": "das Schwein",
+        "en": "pig",
+        "ru": "свинья",
+        "descriptionEN": "An omnivorous domesticated hoofed mammal with sparse bristly hair and a flat snout for rooting in the soil.",
+        "descriptionRU": "Всеядное домашнее копытное млекопитающее с редкой щетинистой шерстью и плоским рылом для копания в почве.",
+        "descriptionDE": "Ein allesfressendes domestiziertes Huftier mit spärlich borstigem Haar und einer flachen Schnauze zum Wühlen im Boden."
+    }, {
+        "de": "die Kuh",
+        "en": "cow",
+        "ru": "корова",
+        "descriptionEN": "A fully grown female animal of a domesticated breed of ox, used as a source of milk or beef.",
+        "descriptionRU": "Полностью выросшее самка домашнего породы быка, используемое как источник молока или говядины.",
+        "descriptionDE": "Ein ausgewachsenes weibliches Tier einer domestizierten Rinderart, das als Milch- oder Rindfleischquelle verwendet wird."
+    }, {
+        "de": "der Hahn",
+        "en": "rooster",
+        "ru": "петух",
+        "descriptionEN": "An adult male chicken, typically with colored plumage and a red crest.",
+        "descriptionRU": "Взрослый самец курицы, обычно с разноцветным оперением и красным гребнем.",
+        "descriptionDE": "Ein ausgewachsener männlicher Hahn, normalerweise mit gefärbtem Gefieder und einem roten Kamm."
+    }, {
+        "de": "die Ziege",
+        "en": "goat",
+        "ru": "коза",
+        "descriptionEN": "A hardy domesticated ruminant animal that has backward curving horns and (in the male) a beard.",
+        "descriptionRU": "Крепкое домашнее жвачное животное с загнутыми назад рогами и (у самца) бородой.",
+        "descriptionDE": "Ein robuster domestizierter Wiederkäuer mit nach hinten gebogenen Hörnern und (beim männlichen Tier) einem Bart."
+    }, {
+        "de": "der Hamster",
+        "en": "hamster",
+        "ru": "хомяк",
+        "descriptionEN": "A small Eurasian rodent, typically having a stout body and short legs.",
+        "descriptionRU": "Маленький евразийский грызун, обычно с коренастым телом и короткими ногами.",
+        "descriptionDE": "Ein kleines eurasisches Nagetier, das typischerweise einen kräftigen Körper und kurze Beine hat."
+    }, {
+        "de": "das Schaf",
+        "en": "sheep",
+        "ru": "овца",
+        "descriptionEN": "A domesticated ruminant mammal with a thick woolly coat and (typically only in the male) curving horns.",
+        "descriptionRU": "Домашнее жвачное млекопитающее с плотным шерстяным покровом и (обычно только у самца) изогнутыми рогами.",
+        "descriptionDE": "Ein domestiziertes Wiederkäuer-Säugetier mit dickem, wolligem Fell und (typischerweise nur beim männlichen Tier) gekrümmten Hörnern."
+    }, {
+        "de": "das Kaninchen",
+        "en": "rabbit",
+        "ru": "кролик",
+        "descriptionEN": "A burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.",
+        "descriptionRU": "Копающее норы, общественное, травоядное млекопитающее с длинными ушами, длинными задними ногами и коротким хвостом.",
+        "descriptionDE": "Ein grabendes, geselliges, pflanzenfressendes Säugetier mit langen Ohren, langen Hinterbeinen und einem kurzen Schwanz."
+    }, {
+        "de": "die Maus",
+        "en": "mouse",
+        "ru": "мышь",
+        "descriptionEN": "A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.",
+        "descriptionRU": "Маленький грызун, обычно с заостренным рылом, относительно большими ушами и глазами и длинным хвостом.",
+        "descriptionDE": "Ein kleiner Nager, der typischerweise eine spitze Schnauze, relativ große Ohren und Augen und einen langen Schwanz hat."
+    }, {
+        "de": "die Ente",
+        "en": "duck",
+        "ru": "утка",
+        "descriptionEN": "A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.",
+        "descriptionRU": "Водоплавающая птица с широким тупым клювом, короткими ногами, плавниками и ходьбой в стиле расшатывания.",
+        "descriptionDE": "Ein Wasservogel mit breitem stumpfem Schnabel, kurzen Beinen, Schwimmfüßen und einem watschelnden Gang."
+    }, {
+        "de": "jagen",
+        "en": "hunt",
+        "ru": "охотиться",
+        "descriptionEN": "Pursue and kill (a wild animal) for sport or food.",
+        "descriptionRU": "Преследовать и убивать (дикое животное) ради спорта или пищи.",
+        "descriptionDE": "Verfolgen und töten (ein wildes Tier) zum Spaß oder als Nahrung."
+    }, {
+        "de": "fressen",
+        "en": "eat (animals)",
+        "ru": "питаться",
+        "descriptionEN": "Take food into the mouth and swallow it.",
+        "descriptionRU": "Брать пищу в рот и глотать.",
+        "descriptionDE": "Nahrung in den Mund nehmen und schlucken."
+    }, {
+        "de": "melken",
+        "en": "milk",
+        "ru": "доить",
+        "descriptionEN": "Extract milk from (a cow or other animal), typically by hand.",
+        "descriptionRU": "Извлекать молоко из (коровы или другого животного), обычно вручную.",
+        "descriptionDE": "Milch aus (einer Kuh oder einem anderen Tier) gewinnen, normalerweise von Hand."
+    }, {
+        "de": "kraulen",
+        "en": "stroke",
+        "ru": "гладить",
+        "descriptionEN": "Move one's hand with gentle pressure over (a surface, especially hair, fur, or skin), typically repeatedly.",
+        "descriptionRU": "Двигать рукой с небольшим давлением по (поверхности, особенно волосам, шерсти или коже), обычно повторяя это несколько раз.",
+        "descriptionDE": "Die Hand mit sanftem Druck über eine Oberfläche bewegen, insbesondere über Haare, Fell oder Haut, typischerweise wiederholt."
+    }, {
+        "de": "schnurren",
+        "en": "purr",
+        "ru": "мурлыкать",
+        "descriptionEN": " (of a cat) Make a low continuous vibratory sound expressing contentment.",
+        "descriptionRU": "(о коте) Издавать низкий непрерывный вибрационный звук, выражающий удовлетворение.",
+        "descriptionDE": "(von einer Katze) Ein leises kontinuierliches Vibrationsgeräusch erzeugen, das Zufriedenheit ausdrückt."
+    }, {
+        "de": "treu",
+        "en": "loyal",
+        "ru": "верный",
+        "descriptionEN": "Giving or showing firm and constant support or allegiance to a person or institution.",
+        "descriptionRU": "Давая или проявляя твердую и постоянную поддержку или верность человеку или институту.",
+        "descriptionDE": "Geben oder zeigen von fester und konstanter Unterstützung oder Treue zu einer Person oder Institution."
+    }, {
+        "de": "flink",
+        "en": "nimble",
+        "ru": "проворный",
+        "descriptionEN": "Quick and light in movement or action; agile.",
+        "descriptionRU": "Быстрый и легкий в движении или действии; ловкий.",
+        "descriptionDE": "Schnell und leicht in Bewegung oder Handlung; agil."
+    }, {
+        "de": "sanft",
+        "en": "gentle",
+        "ru": "нежный",
+        "descriptionEN": "Having or showing a mild, kind, or tender temperament or character.",
+        "descriptionRU": "Имея или показывая мягкий, добрый или нежный нрав или характер.",
+        "descriptionDE": "Mit mildem, freundlichem oder zartem Temperament oder Charakter."
+    }, {
+        "de": "spielerisch",
+        "en": "playful",
+        "ru": "игривый",
+        "descriptionEN": "Full of fun and high spirits; lively and cheerful.",
+        "descriptionRU": "Полный веселья и поднятого настроения; живой и веселый.",
+        "descriptionDE": "Voller Spaß und guter Laune; lebhaft und fröhlich."
+    }
+]

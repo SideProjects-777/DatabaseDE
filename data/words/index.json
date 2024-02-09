@@ -65,14 +65,6 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Flughafen_Cologne_Bonn.jpg"
     }, {
         "title": {
-            "de": "Mehr von Bonn",
-            "en": "More from Bonn",
-            "ru": "Еще из Бонна"
-        },
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/index.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/more_bonn/image.jpg"
-    }, {
-        "title": {
             "de": "Warum Bonn?",
             "en": "Why Bonn?",
             "ru": "Почему Бонн?"
@@ -399,5 +391,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/PinkIncident.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/PinkIncident.jpg"
+    }, {
+        "title": {
+            "de": "Haustiere",
+            "en": "Domestic animals",
+            "ru": "Домашние животные"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/image.jpg"
     }
 ]
