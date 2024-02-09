@@ -15,5 +15,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/image.jpg"
+    }, {
+        "title": {
+            "de": "Reisen",
+            "en": "Travel",
+            "ru": "Путешествие"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/image.jpg"
     }
 ]

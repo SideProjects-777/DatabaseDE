@@ -1,0 +1,122 @@
+[
+    {
+        "de": "der Flug",
+        "en": "flight",
+        "ru": "полет",
+        "descriptionEN": "The action or process of flying through the air.",
+        "descriptionRU": "Действие или процесс полета в воздухе.",
+        "descriptionDE": "Die Handlung oder der Prozess des Fliegens durch die Luft."
+    }, {
+        "de": "das Zugticket",
+        "en": "train ticket",
+        "ru": "билет на поезд",
+        "descriptionEN": "A ticket for traveling on a train.",
+        "descriptionRU": "Билет на поезд.",
+        "descriptionDE": "Ein Ticket für die Fahrt mit dem Zug."
+    }, {
+        "de": "das Hotel",
+        "en": "hotel",
+        "ru": "гостиница",
+        "descriptionEN": "An establishment providing accommodations, meals, and other services for travelers and tourists.",
+        "descriptionRU": "Заведение, предоставляющее проживание, питание и другие услуги для путешественников и туристов.",
+        "descriptionDE": "Ein Betrieb, der Unterkünfte, Mahlzeiten und andere Dienstleistungen für Reisende und Touristen anbietet."
+    }, {
+        "de": "die Reise",
+        "en": "journey",
+        "ru": "путешествие",
+        "descriptionEN": "An act of traveling from one place to another.",
+        "descriptionRU": "Действие перемещения из одного места в другое.",
+        "descriptionDE": "Ein Akt des Reisens von einem Ort zum anderen."
+    }, {
+        "de": "der Reiseführer",
+        "en": "travel guide",
+        "ru": "путеводитель",
+        "descriptionEN": "A book or digital resource that provides information for travelers.",
+        "descriptionRU": "Книга или цифровой ресурс, предоставляющий информацию для путешественников.",
+        "descriptionDE": "Ein Buch oder digitales Hilfsmittel, das Informationen für Reisende bereitstellt."
+    }, {
+        "de": "der Reisebus",
+        "en": "coach",
+        "ru": "автобус",
+        "descriptionEN": "A large motor vehicle for carrying passengers by road, typically seating between 30 and 50 people.",
+        "descriptionRU": "Большое моторное транспортное средство для перевозки пассажиров по дороге, обычно на 30-50 человек.",
+        "descriptionDE": "Ein großes Kraftfahrzeug zur Beförderung von Passagieren auf der Straße, das in der Regel Platz für 30 bis 50 Personen bietet."
+    }, {
+        "de": "die Unterkunft",
+        "en": "accommodation",
+        "ru": "проживание",
+        "descriptionEN": "A room, group of rooms, or building in which someone may live or stay.",
+        "descriptionRU": "Комната, группа комнат или здание, в котором кто-то может жить или останавливаться.",
+        "descriptionDE": "Ein Zimmer, eine Gruppe von Zimmern oder ein Gebäude, in dem jemand wohnen oder übernachten kann."
+    }, {
+        "de": "die Einreise",
+        "en": "entry",
+        "ru": "въезд",
+        "descriptionEN": "The action of coming or going into a place.",
+        "descriptionRU": "Действие входа или выхода из места.",
+        "descriptionDE": "Die Handlung des Hinein- oder Hinausgehens an einem Ort."
+    }, {
+        "de": "die Abreise",
+        "en": "departure",
+        "ru": "отправление",
+        "descriptionEN": "The action of leaving, typically to start a journey.",
+        "descriptionRU": "Действие ухода, обычно для начала путешествия.",
+        "descriptionDE": "Die Handlung des Verlassens, normalerweise um eine Reise zu beginnen."
+    }, {
+        "de": "das Reiseziel",
+        "en": "destination",
+        "ru": "направление",
+        "descriptionEN": "The place to which someone or something is going or being sent.",
+        "descriptionRU": "Место, куда кто-то или что-то идет или посылается.",
+        "descriptionDE": "Der Ort, zu dem jemand oder etwas geht oder geschickt wird."
+    }, {
+        "de": "die Landkarte",
+        "en": "map",
+        "ru": "карта",
+        "descriptionEN": "A diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",
+        "descriptionRU": "Диаграмматическое представление области суши или моря, показывающее физические особенности, города, дороги и т. д.",
+        "descriptionDE": "Eine diagrammatische Darstellung eines Land- oder Meeresgebiets, die physische Merkmale, Städte, Straßen usw. zeigt."
+    }, {
+        "de": "die Gepäckausgabe",
+        "en": "baggage claim",
+        "ru": "выдача багажа",
+        "descriptionEN": "The place in an airport where arriving passengers collect their luggage.",
+        "descriptionRU": "Место в аэропорту, где прибывающие пассажиры забирают свой багаж.",
+        "descriptionDE": "Der Ort in einem Flughafen, an dem ankommende Passagiere ihr Gepäck abholen."
+    }, {
+        "de": "das Visum",
+        "en": "visa",
+        "ru": "виза",
+        "descriptionEN": "An endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period of time in a country.",
+        "descriptionRU": "Печать в паспорте, указывающая, что ее держатель имеет право въехать, выехать или пребывать в стране на определенный период времени.",
+        "descriptionDE": "Eine Bescheinigung im Reisepass, die besagt, dass der Inhaber berechtigt ist, für eine bestimmte Zeit in ein Land einzureisen, auszureisen oder dort zu bleiben."
+    }, {
+        "de": "der Reiseleiter",
+        "en": "tour guide",
+        "ru": "гид",
+        "descriptionEN": "A person who accompanies tourists and provides them with information about the place they are visiting.",
+        "descriptionRU": "Человек, который сопровождает туристов и предоставляет им информацию о месте, которое они посещают.",
+        "descriptionDE": "Eine Person, die Touristen begleitet und ihnen Informationen über den Ort gibt, den sie besuchen."
+    }, {
+        "de": "das Mietfahrzeug",
+        "en": "rental car",
+        "ru": "арендованная машина",
+        "descriptionEN": "A car that is available for hire.",
+        "descriptionRU": "Машина, доступная для аренды.",
+        "descriptionDE": "Ein Auto, das zur Miete zur Verfügung steht."
+    }, {
+        "de": "das Reisebudget",
+        "en": "travel budget",
+        "ru": "бюджет на путешествие",
+        "descriptionEN": "The amount of money that a person or organization has available to spend on travel.",
+        "descriptionRU": "Сумма денег, которую человек или организация имеет для траты на путешествия.",
+        "descriptionDE": "Die Menge an Geld, die einer Person oder Organisation zur Verfügung steht, um für Reisen auszugeben."
+    }, {
+        "de": "die Übernachtung",
+        "en": "overnight stay",
+        "ru": "ночёвка",
+        "descriptionEN": "A stay overnight, especially in a hotel or other accommodation.",
+        "descriptionRU": "Пребывание на ночь, особенно в отеле или другом жилье.",
+        "descriptionDE": "Ein Übernachten, besonders in einem Hotel oder einer anderen Unterkunft."
+    }
+]
