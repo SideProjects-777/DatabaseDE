@@ -391,5 +391,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Zugverspetung.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Zugverspetung.jpg"
+    }, {
+        "title": {
+            "de": "Der rosa Zwischenfall",
+            "en": "The Pink Incident",
+            "ru": "Розовый инцидент"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/PinkIncident.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/PinkIncident.jpg"
     }
 ]

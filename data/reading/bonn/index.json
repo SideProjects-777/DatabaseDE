@@ -17,68 +17,20 @@
         "yesNo": "Anna.json"
     }, {
         "name": {
-            "de": "Suche nach einem Wohnsitz",
-            "en": "Searching for accommodation",
-            "ru": "Поиск жилья"
+            "de": "Süße Geheimnisse von Bonn",
+            "en": "Sweet Secrets of Bonn",
+            "ru": "Сладкие тайны Бонна"
         },
         "description": {
-            "de": "Annas neue Wohnung in Bonn",
-            "en": "Anna's New Home in Bonn",
-            "ru": "История Анны в Бонне"
+            "de": "Die phantasievolle Süßigkeitenkarte von Maria Schmidt",
+            "en": "Maria Schmidt's Whimsical Candy Map",
+            "ru": "Волшебная карта конфет от Марии Шмидт"
         },
         "level": "A2",
-        "image": "Wohnung.jpg",
-        "file": "Wohnung.txt",
-        "words": "Wohnung.json",
-        "multi": "Wohnung.json"
-    }, {
-        "name": {
-            "de": "Zugverspätungen",
-            "en": "Train Delays",
-            "ru": "Задержки поездов"
-        },
-        "description": {
-            "de": "Matej Nováks Erfahrungen",
-            "en": "Matej Novák's Experience",
-            "ru": "Опыт Матея Новака"
-        },
-        "level": "B2",
-        "image": "Zugverspetung.jpg",
-        "file": "Zugverspetung.txt",
-        "words": "Zugverspetung.json",
-        "multi": "Zugverspetung.json"
-    }, {
-        "name": {
-            "de": "COVID mit Beethoven",
-            "en": "COVID with Beethoven",
-            "ru": "КОВИД с Бетховеном"
-        },
-        "description": {
-            "de": "Beethovens Museum im Zeitalter des COVID-19",
-            "en": "Beethoven's Museum in the Age of COVID-19",
-            "ru": "Музей Бетховена в эпоху COVID-19"
-        },
-        "level": "B2",
-        "image": "COVID_Beethoven.jpg",
-        "file": "COVID_Beethoven.txt",
-        "words": "COVID_Beethoven.json",
-        "multi": "COVID_Beethoven.json"
-    }, {
-        "name": {
-            "de": "Das Arithmeum in Bonn",
-            "en": "The Arithmeum in Bonn",
-            "ru": "Аритмеум в Бонне"
-        },
-        "description": {
-            "de": "Eine Reise durch die Geschichte der Rechenmaschinen",
-            "en": "A Journey through the History of Calculating Machines",
-            "ru": "Путешествие по истории вычислительных машин"
-        },
-        "level": "B2",
-        "image": "Arithmeum.jpg",
-        "file": "Arithmeum.txt",
-        "words": "Arithmeum.json",
-        "multi": "Arithmeum.json"
+        "image": "Geheimnisse.jpg",
+        "file": "Geheimnisse.txt",
+        "words": "Geheimnisse.json",
+        "multi": "Geheimnisse.json"
     }, {
         "name": {
             "de": "Warum Bonn?",
@@ -97,22 +49,6 @@
         "yesNo": "Warum_Bonn.json"
     }, {
         "name": {
-            "de": "Bonner Farben",
-            "en": "Colors of Bonn",
-            "ru": "Краски Бонна"
-        },
-        "description": {
-            "de": "Karnevalsfreude",
-            "en": "Carnival joy",
-            "ru": "Радость карнавала"
-        },
-        "level": "B1",
-        "image": "Karnevalsfreude.jpg",
-        "file": "Karnevalsfreude.txt",
-        "words": "Karnevalsfreude.json",
-        "yesNo": "Karnevalsfreude.json"
-    }, {
-        "name": {
             "de": "Schönes Wochenende",
             "en": "Warm Weekend",
             "ru": "Теплый выходной"
@@ -129,20 +65,52 @@
         "multi": "Weekend.json"
     }, {
         "name": {
-            "de": "Süße Geheimnisse von Bonn",
-            "en": "Sweet Secrets of Bonn",
-            "ru": "Сладкие тайны Бонна"
+            "de": "Suche nach einem Wohnsitz",
+            "en": "Searching for accommodation",
+            "ru": "Поиск жилья"
         },
         "description": {
-            "de": "Die phantasievolle Süßigkeitenkarte von Maria Schmidt",
-            "en": "Maria Schmidt's Whimsical Candy Map",
-            "ru": "Волшебная карта конфет от Марии Шмидт"
+            "de": "Annas neue Wohnung in Bonn",
+            "en": "Anna's New Home in Bonn",
+            "ru": "История Анны в Бонне"
         },
         "level": "A2",
-        "image": "Geheimnisse.jpg",
-        "file": "Geheimnisse.txt",
-        "words": "Geheimnisse.json",
-        "multi": "Geheimnisse.json"
+        "image": "Wohnung.jpg",
+        "file": "Wohnung.txt",
+        "words": "Wohnung.json",
+        "multi": "Wohnung.json"
+    }, {
+        "name": {
+            "de": "Der rosa Zwischenfall",
+            "en": "The Pink Incident",
+            "ru": "Розовый инцидент"
+        },
+        "description": {
+            "de": "Die verlorene Geldbörse",
+            "en": "The Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },
+        "level": "A2",
+        "image": "PinkIncident.jpg",
+        "file": "PinkIncident.txt",
+        "words": "PinkIncident.json",
+        "yesNo": "PinkIncident.json"
+    }, {
+        "name": {
+            "de": "Bonner Farben",
+            "en": "Colors of Bonn",
+            "ru": "Краски Бонна"
+        },
+        "description": {
+            "de": "Karnevalsfreude",
+            "en": "Carnival joy",
+            "ru": "Радость карнавала"
+        },
+        "level": "B1",
+        "image": "Karnevalsfreude.jpg",
+        "file": "Karnevalsfreude.txt",
+        "words": "Karnevalsfreude.json",
+        "yesNo": "Karnevalsfreude.json"
     }, {
         "name": {
             "de": "Ein Besuch beim Arzt",
@@ -223,5 +191,53 @@
         "file": "RosenmontagBonn.txt",
         "words": "RosenmontagBonn.json",
         "yesNo": "RosenmontagBonn.json"
+    }, {
+        "name": {
+            "de": "Zugverspätungen",
+            "en": "Train Delays",
+            "ru": "Задержки поездов"
+        },
+        "description": {
+            "de": "Matej Nováks Erfahrungen",
+            "en": "Matej Novák's Experience",
+            "ru": "Опыт Матея Новака"
+        },
+        "level": "B2",
+        "image": "Zugverspetung.jpg",
+        "file": "Zugverspetung.txt",
+        "words": "Zugverspetung.json",
+        "multi": "Zugverspetung.json"
+    }, {
+        "name": {
+            "de": "COVID mit Beethoven",
+            "en": "COVID with Beethoven",
+            "ru": "КОВИД с Бетховеном"
+        },
+        "description": {
+            "de": "Beethovens Museum im Zeitalter des COVID-19",
+            "en": "Beethoven's Museum in the Age of COVID-19",
+            "ru": "Музей Бетховена в эпоху COVID-19"
+        },
+        "level": "B2",
+        "image": "COVID_Beethoven.jpg",
+        "file": "COVID_Beethoven.txt",
+        "words": "COVID_Beethoven.json",
+        "multi": "COVID_Beethoven.json"
+    }, {
+        "name": {
+            "de": "Das Arithmeum in Bonn",
+            "en": "The Arithmeum in Bonn",
+            "ru": "Аритмеум в Бонне"
+        },
+        "description": {
+            "de": "Eine Reise durch die Geschichte der Rechenmaschinen",
+            "en": "A Journey through the History of Calculating Machines",
+            "ru": "Путешествие по истории вычислительных машин"
+        },
+        "level": "B2",
+        "image": "Arithmeum.jpg",
+        "file": "Arithmeum.txt",
+        "words": "Arithmeum.json",
+        "multi": "Arithmeum.json"
     }
 ]

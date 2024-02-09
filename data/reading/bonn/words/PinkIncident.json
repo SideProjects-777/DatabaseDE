@@ -1,0 +1,199 @@
+[
+    {
+        "de": "der Moment",
+        "en": "moment",
+        "ru": "момент",
+        "descriptionEN": "a very brief period of time.",
+        "descriptionRU": "очень короткий период времени.",
+        "descriptionDE": "eine sehr kurze Zeitspanne."
+    }, {
+        "de": "die Liebe",
+        "en": "love",
+        "ru": "любовь",
+        "descriptionEN": "an intense feeling of deep affection.",
+        "descriptionRU": "интенсивное чувство глубокой привязанности.",
+        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung."
+    }, {
+        "de": "die Natur",
+        "en": "nature",
+        "ru": "природа",
+        "descriptionEN": "the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
+        "descriptionRU": "явления физического мира в целом, включая растения, животных, ландшафт и другие особенности и продукты земли, в отличие от людей или человеческих творений.",
+        "descriptionDE": "die Phänomene der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, Landschaft und andere Merkmale und Produkte der Erde, im Gegensatz zu Menschen oder menschlichen Schöpfungen."
+    }, {
+        "de": "der Beruf",
+        "en": "occupation",
+        "ru": "профессия",
+        "descriptionEN": "a person's regular work or trade, especially regarded as a means of earning a living.",
+        "descriptionRU": "регулярная работа или торговля человека, особенно рассматриваемая как средство заработка на жизнь.",
+        "descriptionDE": "die regelmäßige Arbeit oder der Handel einer Person, insbesondere im Hinblick auf die Möglichkeit, den Lebensunterhalt zu verdienen."
+    }, {
+        "de": "die Leidenschaft",
+        "en": "passion",
+        "ru": "страсть",
+        "descriptionEN": "strong and barely controllable emotion.",
+        "descriptionRU": "сильное и едва контролируемое эмоциональное состояние.",
+        "descriptionDE": "starke und kaum kontrollierbare Emotion."
+    }, {
+        "de": "die Karriere",
+        "en": "career",
+        "ru": "карьера",
+        "descriptionEN": "an occupation undertaken for a significant period of a person's life and with opportunities for progress.",
+        "descriptionRU": "деятельность, осуществляемая на протяжении значительного периода жизни человека и с возможностями для продвижения.",
+        "descriptionDE": "eine Tätigkeit, die über einen bedeutenden Zeitraum im Leben einer Person ausgeübt wird und Möglichkeiten für Fortschritt bietet."
+    }, {
+        "de": "das Ventil",
+        "en": "outlet",
+        "ru": "выход",
+        "descriptionEN": "a means of expressing one's emotions, energy, or talents.",
+        "descriptionRU": "средство выражения своих эмоций, энергии или талантов.",
+        "descriptionDE": "ein Mittel, um seine Emotionen, Energie oder Talente auszudrücken."
+    }, {
+        "de": "der Glaube",
+        "en": "belief",
+        "ru": "вера",
+        "descriptionEN": "an acceptance that something exists or is true, especially one without proof.",
+        "descriptionRU": "признание того, что что-то существует или является истиной, особенно без доказательств.",
+        "descriptionDE": "eine Akzeptanz, dass etwas existiert oder wahr ist, insbesondere ohne Beweise."
+    }, {
+        "de": "die Menschheit",
+        "en": "humanity",
+        "ru": "человечество",
+        "descriptionEN": "the human race; human beings collectively.",
+        "descriptionRU": "человеческая раса; люди в целом.",
+        "descriptionDE": "die menschliche Rasse; Menschen insgesamt."
+    }, {
+        "de": "bewundern",
+        "en": "admire",
+        "ru": "восхищаться",
+        "descriptionEN": "regard (an object, quality, or person) with respect or warm approval.",
+        "descriptionRU": "считать (объект, качество или человека) с уважением или теплым одобрением.",
+        "descriptionDE": "etwas mit Respekt oder warmer Zustimmung betrachten (ein Objekt, eine Qualität oder eine Person)."
+    }, {
+        "de": "genießen",
+        "en": "enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "take delight or pleasure in (an activity or occasion).",
+        "descriptionRU": "радоваться или наслаждаться (деятельностью или случаем).",
+        "descriptionDE": "sich an einer Aktivität oder Gelegenheit erfreuen oder Vergnügen daran haben."
+    }, {
+        "de": "spazieren",
+        "en": "stroll",
+        "ru": "гулять",
+        "descriptionEN": "walk in a leisurely way.",
+        "descriptionRU": "гулять в спокойном темпе.",
+        "descriptionDE": "in gemächlicher Weise gehen."
+    }, {
+        "de": "verzweifelt",
+        "en": "desperate",
+        "ru": "отчаянный",
+        "descriptionEN": "feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.",
+        "descriptionRU": "чувство, показ или участие в безнадежном ощущении, что ситуация настолько плоха, что с ней невозможно справиться.",
+        "descriptionDE": "das Gefühl, zu zeigen oder zu beinhalten, dass eine hoffnungslose Situation so schlecht ist, dass sie unmöglich zu bewältigen ist."
+    }, {
+        "de": "überwältigt",
+        "en": "overwhelmed",
+        "ru": "перегруженный",
+        "descriptionEN": "bury or drown beneath a huge mass.",
+        "descriptionRU": "захоронить или утопить под огромной массой.",
+        "descriptionDE": "unter einer riesigen Masse begraben oder ertränken."
+    }, {
+        "de": "friedlich",
+        "en": "peaceful",
+        "ru": "мирный",
+        "descriptionEN": "free from disturbance; tranquil.",
+        "descriptionRU": "свободный от нарушений; спокойный.",
+        "descriptionDE": "frei von Störungen; ruhig."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "impossible to forget.",
+        "descriptionRU": "невозможно забыть.",
+        "descriptionDE": "unmöglich zu vergessen."
+    }, {
+        "de": "das Picknick",
+        "en": "picnic",
+        "ru": "пикник",
+        "descriptionEN": "an outing or occasion that involves taking a packed meal to be eaten outdoors.",
+        "descriptionRU": "поездка или случай, включающий взятие упакованного приема пищи для употребления на свежем воздухе.",
+        "descriptionDE": "ein Ausflug oder eine Gelegenheit, bei der man ein gepacktes Essen mit nach draußen nimmt, um es im Freien zu essen."
+    }, {
+        "de": "die Panik",
+        "en": "panic",
+        "ru": "паника",
+        "descriptionEN": "sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.",
+        "descriptionRU": "внезапный неконтролируемый страх или беспокойство, часто вызывающие беспорядочное бездумное поведение.",
+        "descriptionDE": "plötzliche unkontrollierbare Angst oder Angst, die oft zu wildem und unüberlegtem Verhalten führt."
+    }, {
+        "de": "vergeblich",
+        "en": "in vain",
+        "ru": "тщетно",
+        "descriptionEN": "without success or a desired result.",
+        "descriptionRU": "без успеха или желаемого результата.",
+        "descriptionDE": "ohne Erfolg oder ein gewünschtes Ergebnis."
+    }, {
+        "de": "die Hoffnung",
+        "en": "hope",
+        "ru": "надежда",
+        "descriptionEN": "a feeling of expectation and desire for a certain thing to happen.",
+        "descriptionRU": "чувство ожидания и желание, чтобы что-то определенное произошло.",
+        "descriptionDE": "ein Gefühl von Erwartung und Wunsch, dass etwas Bestimmtes passiert."
+    }, {
+        "de": "das Meer",
+        "en": "sea",
+        "ru": "море",
+        "descriptionEN": "the expanse of salt water that covers most of the earth's surface and surrounds its landmasses.",
+        "descriptionRU": "пространство соленой воды, покрывающее большую часть поверхности Земли и окружающее ее суши.",
+        "descriptionDE": "die Ausdehnung von Salzwasser, die den größten Teil der Erdoberfläche bedeckt und ihre Landmassen umgibt."
+    }, {
+        "de": "die Erinnerung",
+        "en": "memory",
+        "ru": "память",
+        "descriptionEN": "the faculty by which the mind stores and remembers information.",
+        "descriptionRU": "способность ума хранить и помнить информацию.",
+        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern."
+    }, {
+        "de": "die Dankbarkeit",
+        "en": "gratitude",
+        "ru": "благодарность",
+        "descriptionEN": "the quality of being thankful; readiness to show appreciation for and to return kindness.",
+        "descriptionRU": "качество быть благодарным; готовность выразить признательность и отдавать доброту.",
+        "descriptionDE": "die Qualität, dankbar zu sein; Bereitschaft, Dankbarkeit zu zeigen und Freundlichkeit zu erwidern."
+    }, {
+        "de": "die Träne",
+        "en": "tear",
+        "ru": "слеза",
+        "descriptionEN": "a drop of clear salty liquid secreted by glands in a person's eye when they cry or when the eye is irritated.",
+        "descriptionRU": "капля чистой соленой жидкости, выделяемой железами в глазу человека, когда он плачет или когда глаз раздражен.",
+        "descriptionDE": "ein Tropfen klarer salziger Flüssigkeit, der von Drüsen im Auge einer Person abgesondert wird, wenn sie weint oder das Auge gereizt ist."
+    }, {
+        "de": "die Albtraum",
+        "en": "nightmare",
+        "ru": "кошмар",
+        "descriptionEN": "a frightening or unpleasant dream.",
+        "descriptionRU": "страшный или неприятный сон.",
+        "descriptionDE": "ein beängstigender oder unangenehmer Traum."
+    }, {
+        "de": "geraten",
+        "en": "get into",
+        "ru": "попасть в",
+        "descriptionEN": "become involved in a difficult situation.",
+        "descriptionRU": "попасть в трудную ситуацию.",
+        "descriptionDE": "in eine schwierige Situation geraten."
+    }, {
+        "de": "bewahren",
+        "en": "preserve",
+        "ru": "сохранять",
+        "descriptionEN": "maintain (something) in its original or existing state.",
+        "descriptionRU": "сохранять (что-то) в его первоначальном или существующем состоянии.",
+        "descriptionDE": "etwas in seinem ursprünglichen oder vorhandenen Zustand erhalten."
+    }, {
+        "de": "bemühen",
+        "en": "strive",
+        "ru": "стремиться",
+        "descriptionEN": "make great efforts to achieve or obtain something.",
+        "descriptionRU": "приложить большие усилия для достижения или получения чего-либо.",
+        "descriptionDE": "große Anstrengungen unternehmen, um etwas zu erreichen oder zu erhalten."
+    }
+]
