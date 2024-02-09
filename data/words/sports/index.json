@@ -1,0 +1,283 @@
+[
+    {
+        "de": "der Fußball",
+        "en": "soccer",
+        "ru": "футбол",
+        "descriptionEN": "A team sport played between two teams of eleven players with a spherical ball.",
+        "descriptionRU": "Командный вид спорта, играющийся между двумя командами из одиннадцати игроков с круглым мячом.",
+        "descriptionDE": "Eine Mannschaftssportart, die zwischen zwei Teams von elf Spielern mit einem kugelförmigen Ball gespielt wird."
+    }, {
+        "de": "das Basketball",
+        "en": "basketball",
+        "ru": "баскетбол",
+        "descriptionEN": "A team sport in which two teams of five players each try to score points by throwing a ball through a hoop.",
+        "descriptionRU": "Командный вид спорта, в котором две команды по пять игроков пытаются набрать очки, забросив мяч через кольцо.",
+        "descriptionDE": "Eine Mannschaftssportart, bei der zwei Teams zu je fünf Spielern versuchen, Punkte zu erzielen, indem sie einen Ball durch einen Korb werfen."
+    }, {
+        "de": "der Tennisschläger",
+        "en": "tennis racket",
+        "ru": "теннисная ракетка",
+        "descriptionEN": "A racket used by a player in tennis.",
+        "descriptionRU": "Ракетка, используемая игроком в теннисе.",
+        "descriptionDE": "Ein Schläger, den ein Spieler beim Tennis benutzt."
+    }, {
+        "de": "die Laufbahn",
+        "en": "track",
+        "ru": "беговая дорожка",
+        "descriptionEN": "A marked-out area, typically oval, used for races involving athletes or animals.",
+        "descriptionRU": "Отмеченная область, обычно овальная, используемая для соревнований, в которых участвуют спортсмены или животные.",
+        "descriptionDE": "Ein markierter Bereich, typischerweise oval, der für Rennen mit Athleten oder Tieren verwendet wird."
+    }, {
+        "de": "das Schwimmbad",
+        "en": "swimming pool",
+        "ru": "бассейн",
+        "descriptionEN": "A structure designed to hold water for swimming or other leisure activities.",
+        "descriptionRU": "Конструкция, предназначенная для содержания воды для плавания или других развлекательных мероприятий.",
+        "descriptionDE": "Eine Struktur, die zum Halten von Wasser zum Schwimmen oder für andere Freizeitaktivitäten entwickelt wurde."
+    }, {
+        "de": "das Turnier",
+        "en": "tournament",
+        "ru": "турнир",
+        "descriptionEN": "A competition involving a number of matches, each involving a subset of the competitors.",
+        "descriptionRU": "Соревнование, включающее ряд матчей, каждый из которых включает подмножество соперников.",
+        "descriptionDE": "Ein Wettbewerb, der eine Reihe von Spielen umfasst, an denen jeweils eine Teilmenge der Teilnehmer beteiligt ist."
+    }, {
+        "de": "der Sieg",
+        "en": "victory",
+        "ru": "победа",
+        "descriptionEN": "An act of defeating an enemy or opponent in a battle, game, or other competition.",
+        "descriptionRU": "Действие по победе над врагом или соперником в битве, игре или другом соревновании.",
+        "descriptionDE": "Ein Akt der Niederlage eines Feindes oder Gegners in einer Schlacht, einem Spiel oder einem anderen Wettbewerb."
+    }, {
+        "de": "der Pokal",
+        "en": "trophy",
+        "ru": "трофей",
+        "descriptionEN": "A prize, such as a gold or silver cup, awarded to the winner of a competition.",
+        "descriptionRU": "Приз, такой как золотой или серебряный кубок, вручаемый победителю соревнования.",
+        "descriptionDE": "Ein Preis, wie zum Beispiel ein goldener oder silberner Pokal, der dem Gewinner eines Wettbewerbs verliehen wird."
+    }, {
+        "de": "das Spielfeld",
+        "en": "field",
+        "ru": "поле",
+        "descriptionEN": "An area of land marked out for play in sports or games.",
+        "descriptionRU": "Участок земли, обозначенный для игры в спортивных или игровых мероприятиях.",
+        "descriptionDE": "Ein Bereich, der für das Spielen in Sportarten oder Spielen markiert ist."
+    }, {
+        "de": "die Mannschaft",
+        "en": "team",
+        "ru": "команда",
+        "descriptionEN": "A group of players forming one side in a competitive game or sport.",
+        "descriptionRU": "Группа игроков, образующих одну сторону в соревновательной игре или спорте.",
+        "descriptionDE": "Eine Gruppe von Spielern, die eine Seite in einem Wettbewerbsspiel oder -sport bilden."
+    }, {
+        "de": "trainieren",
+        "en": "train",
+        "ru": "тренировать",
+        "descriptionEN": "To exercise in order to improve strength or skill.",
+        "descriptionRU": "Тренироваться с целью улучшения силы или навыков.",
+        "descriptionDE": "Trainieren, um Stärke oder Geschicklichkeit zu verbessern."
+    }, {
+        "de": "rennen",
+        "en": "run",
+        "ru": "бежать",
+        "descriptionEN": "To move at a speed faster than a walk, never having both or all the feet on the ground at the same time.",
+        "descriptionRU": "Двигаться со скоростью быстрее ходьбы, никогда не имея обоих или всех ног на земле одновременно.",
+        "descriptionDE": "Mit einer Geschwindigkeit schneller als Gehen zu bewegen, niemals beide oder alle Füße gleichzeitig auf dem Boden zu haben."
+    }, {
+        "de": "springen",
+        "en": "jump",
+        "ru": "прыгать",
+        "descriptionEN": "To push oneself off a surface and into the air by using the muscles in one's legs and feet.",
+        "descriptionRU": "Оттолкнуться от поверхности и в воздух с помощью мышц ног и ступней.",
+        "descriptionDE": "Sich von einer Oberfläche abstoßen und in die Luft springen, indem man die Muskeln in den Beinen und Füßen verwendet."
+    }, {
+        "de": "werfen",
+        "en": "throw",
+        "ru": "бросать",
+        "descriptionEN": "To propel something with force through the air by a movement of the arm and hand.",
+        "descriptionRU": "Отбросить что-то с силой через воздух движением руки и руки.",
+        "descriptionDE": "Etwas mit Kraft durch die Luft werfen durch eine Bewegung des Arms und der Hand."
+    }, {
+        "de": "schlagen",
+        "en": "hit",
+        "ru": "ударить",
+        "descriptionEN": "To bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully.",
+        "descriptionRU": "Привести свою руку или инструмент или оружие в контакт с (кем-то или чем-то) быстро и сильно.",
+        "descriptionDE": "Seine Hand oder ein Werkzeug oder eine Waffe schnell und kraftvoll mit (jemandem oder etwas) in Kontakt bringen."
+    }, {
+        "de": "gewinnen",
+        "en": "win",
+        "ru": "выиграть",
+        "descriptionEN": "To be successful or victorious in (a contest or conflict).",
+        "descriptionRU": "Быть успешным или победителем в (конкурсе или конфликте).",
+        "descriptionDE": "Erfolgreich oder siegreich sein in (einem Wettbewerb oder Konflikt)."
+    }, {
+        "de": "verlieren",
+        "en": "lose",
+        "ru": "проиграть",
+        "descriptionEN": "To be deprived of or cease to have or retain (something).",
+        "descriptionRU": "Быть лишенным или перестать иметь или удерживать (что-то).",
+        "descriptionDE": "Von etwas beraubt sein oder aufhören zu haben oder zu behalten (etwas)."
+    }, {
+        "de": "üben",
+        "en": "practice",
+        "ru": "практиковать",
+        "descriptionEN": "To perform (an activity) or exercise (a skill) repeatedly or regularly in order to acquire, improve or maintain proficiency in it.",
+        "descriptionRU": "Выполнять (деятельность) или упражняться (в навыке) многократно или регулярно с целью приобретения, улучшения или поддержания квалификации в нем.",
+        "descriptionDE": "Eine (Aktivität) ausführen oder (eine Fertigkeit) wiederholt oder regelmäßig ausüben, um darin Kompetenz zu erwerben, zu verbessern oder aufrechtzuerhalten."
+    }, {
+        "de": "besiegen",
+        "en": "defeat",
+        "ru": "победить",
+        "descriptionEN": "To win a victory over (someone) in a battle or other contest; overcome or beat.",
+        "descriptionRU": "Победить кого-то в битве или другом соревновании; преодолеть или побить.",
+        "descriptionDE": "In einer Schlacht oder einem anderen Wettbewerb einen Sieg über jemanden erringen; Überwinden oder besiegen."
+    }, {
+        "de": "teilnehmen",
+        "en": "participate",
+        "ru": "участвовать",
+        "descriptionEN": "To take part in (an activity or event).",
+        "descriptionRU": "Принимать участие в (деятельности или событии).",
+        "descriptionDE": "An (einer Aktivität oder Veranstaltung) teilnehmen."
+    }, {
+        "de": "schnell",
+        "en": "fast",
+        "ru": "быстрый",
+        "descriptionEN": "Moving or capable of moving at high speed.",
+        "descriptionRU": "Движущийся или способный двигаться с высокой скоростью.",
+        "descriptionDE": "Schnell bewegend oder in der Lage, sich mit hoher Geschwindigkeit zu bewegen."
+    }, {
+        "de": "stark",
+        "en": "strong",
+        "ru": "сильный",
+        "descriptionEN": "Having the power to move heavy weights or perform other physically demanding tasks.",
+        "descriptionRU": "Имеющий силу перемещать тяжелые грузы или выполнять другие физически сложные задачи.",
+        "descriptionDE": "Die Kraft haben, schwere Gewichte zu bewegen oder andere körperlich anspruchsvolle Aufgaben zu erfüllen."
+    }, {
+        "de": "geschickt",
+        "en": "skilled",
+        "ru": "искусный",
+        "descriptionEN": "Having or showing the knowledge, ability, or training to perform a certain activity or task well.",
+        "descriptionRU": "Обладающий или демонстрирующий знания, способности или тренировку, чтобы хорошо выполнять определенную деятельность или задачу.",
+        "descriptionDE": "Die Kenntnisse, Fähigkeiten oder Ausbildung besitzen oder zeigen, um eine bestimmte Tätigkeit oder Aufgabe gut auszuführen."
+    }, {
+        "de": "energisch",
+        "en": "energetic",
+        "ru": "энергичный",
+        "descriptionEN": "Showing or involving great activity or vitality.",
+        "descriptionRU": "Показывая или включая в себя большую активность или жизненную силу.",
+        "descriptionDE": "Große Aktivität oder Vitalität zeigen oder umfassen."
+    }, {
+        "de": "agil",
+        "en": "agile",
+        "ru": "подвижный",
+        "descriptionEN": "Able to move quickly and easily.",
+        "descriptionRU": "Способный быстро и легко двигаться.",
+        "descriptionDE": "Schnell und einfach beweglich sein."
+    }, {
+        "de": "aufregend",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "Creating or causing great enthusiasm or eagerness.",
+        "descriptionRU": "Создание или вызывание большого энтузиазма или оживления.",
+        "descriptionDE": "Große Begeisterung oder Eifer erzeugen oder verursachen."
+    }, {
+        "de": "spannend",
+        "en": "thrilling",
+        "ru": "захватывающий",
+        "descriptionEN": "Causing excitement and interest.",
+        "descriptionRU": "Вызывая волнение и интерес.",
+        "descriptionDE": "Aufregung und Interesse erregen."
+    }, {
+        "de": "körperlich",
+        "en": "physical",
+        "ru": "физический",
+        "descriptionEN": "Relating to the body as opposed to the mind.",
+        "descriptionRU": "Относящийся к телу в отличие от ума.",
+        "descriptionDE": "Bezogen auf den Körper im Gegensatz zum Verstand."
+    }, {
+        "de": "geschwind",
+        "en": "swift",
+        "ru": "быстрый",
+        "descriptionEN": "Happening quickly or promptly.",
+        "descriptionRU": "Происходит быстро или немедленно.",
+        "descriptionDE": "Schnell oder prompt passieren."
+    }, {
+        "de": "wettbewerbsfähig",
+        "en": "competitive",
+        "ru": "конкурентоспособный",
+        "descriptionEN": "Having or displaying a strong desire to be more successful than others.",
+        "descriptionRU": "Обладая или проявляя сильное желание быть более успешным, чем другие.",
+        "descriptionDE": "Ein starkes Verlangen haben oder zeigen, erfolgreicher zu sein als andere."
+    }, {
+        "de": "schnell",
+        "en": "quickly",
+        "ru": "быстро",
+        "descriptionEN": "At a fast speed.",
+        "descriptionRU": "Со скоростью.",
+        "descriptionDE": "Mit hoher Geschwindigkeit."
+    }, {
+        "de": "gut",
+        "en": "well",
+        "ru": "хорошо",
+        "descriptionEN": "In a good or satisfactory way.",
+        "descriptionRU": "Хорошим или удовлетворительным образом.",
+        "descriptionDE": "Auf gute oder zufriedenstellende Weise."
+    }, {
+        "de": "energisch",
+        "en": "energetically",
+        "ru": "энергично",
+        "descriptionEN": "With energy, enthusiasm, or vitality.",
+        "descriptionRU": "С энергией, энтузиазмом или жизненной силой.",
+        "descriptionDE": "Mit Energie, Enthusiasmus oder Vitalität."
+    }, {
+        "de": "agil",
+        "en": "agilely",
+        "ru": "подвижно",
+        "descriptionEN": "With quick and easy movement.",
+        "descriptionRU": "С быстрым и легким движением.",
+        "descriptionDE": "Mit schneller und einfacher Bewegung."
+    }, {
+        "de": "intensiv",
+        "en": "intensely",
+        "ru": "интенсивно",
+        "descriptionEN": "To a high or extreme degree.",
+        "descriptionRU": "В высокой или экстремальной степени.",
+        "descriptionDE": "In hohem oder extremem Maße."
+    }, {
+        "de": "stark",
+        "en": "strongly",
+        "ru": "сильно",
+        "descriptionEN": "To a great extent or degree.",
+        "descriptionRU": "В большой степени или степени.",
+        "descriptionDE": "In großem Maße oder Grad."
+    }, {
+        "de": "rasch",
+        "en": "swiftly",
+        "ru": "быстро",
+        "descriptionEN": "At high speed; quickly.",
+        "descriptionRU": "С высокой скоростью; быстро.",
+        "descriptionDE": "Mit hoher Geschwindigkeit; schnell."
+    }, {
+        "de": "oft",
+        "en": "often",
+        "ru": "часто",
+        "descriptionEN": "Many times at short intervals.",
+        "descriptionRU": "Много раз с короткими интервалами.",
+        "descriptionDE": "Viele Male in kurzen Abständen."
+    }, {
+        "de": "konstant",
+        "en": "constantly",
+        "ru": "постоянно",
+        "descriptionEN": "Continuously over a period of time.",
+        "descriptionRU": "Непрерывно в течение определенного времени.",
+        "descriptionDE": "Kontinuierlich über einen Zeitraum hinweg."
+    }, {
+        "de": "ausgezeichnet",
+        "en": "excellently",
+        "ru": "отлично",
+        "descriptionEN": "In an outstanding or extremely good manner.",
+        "descriptionRU": "Выдающимся или чрезвычайно хорошим образом.",
+        "descriptionDE": "Auf hervorragende oder extrem gute Weise."
+    }
+]

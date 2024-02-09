@@ -23,5 +23,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/image.jpg"
+    }, {
+        "title": {
+            "de": "Sports",
+            "en": "Sport",
+            "ru": "Спорт"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/image.jpg"
     }
 ]
