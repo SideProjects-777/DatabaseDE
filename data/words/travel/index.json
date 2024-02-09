@@ -118,5 +118,75 @@
         "descriptionEN": "A stay overnight, especially in a hotel or other accommodation.",
         "descriptionRU": "Пребывание на ночь, особенно в отеле или другом жилье.",
         "descriptionDE": "Ein Übernachten, besonders in einem Hotel oder einer anderen Unterkunft."
+    }, {
+        "de": "reisen",
+        "en": "travel",
+        "ru": "путешествовать",
+        "descriptionEN": "To make a journey, typically of some length or abroad.",
+        "descriptionRU": "Совершать путешествие, обычно на некоторое расстояние или за границу.",
+        "descriptionDE": "Eine Reise unternehmen, typischerweise von einiger Länge oder ins Ausland."
+    }, {
+        "de": "buchen",
+        "en": "book",
+        "ru": "забронировать",
+        "descriptionEN": "To arrange and confirm a seat or space on a flight, a room in a hotel, etc.",
+        "descriptionRU": "Организовать и подтвердить место на рейсе, номер в отеле и т. д.",
+        "descriptionDE": "Einen Sitzplatz oder Raum auf einem Flug, ein Zimmer in einem Hotel usw. arrangieren und bestätigen."
+    }, {
+        "de": "packen",
+        "en": "pack",
+        "ru": "упаковать",
+        "descriptionEN": "To put (items) into a suitcase or bag, typically for a trip.",
+        "descriptionRU": "Поместить (предметы) в чемодан или сумку, обычно для поездки.",
+        "descriptionDE": "Gegenstände in einen Koffer oder eine Tasche packen, normalerweise für eine Reise."
+    }, {
+        "de": "fahren",
+        "en": "drive",
+        "ru": "ездить",
+        "descriptionEN": "To operate and control the direction and speed of a motor vehicle.",
+        "descriptionRU": "Управлять и контролировать направление и скорость моторного транспортного средства.",
+        "descriptionDE": "Ein motorisiertes Fahrzeug steuern und die Richtung und Geschwindigkeit kontrollieren."
+    }, {
+        "de": "fliegen",
+        "en": "fly",
+        "ru": "летать",
+        "descriptionEN": "To travel through the air, typically in an airplane.",
+        "descriptionRU": "Лететь через воздух, обычно на самолете.",
+        "descriptionDE": "Durch die Luft reisen, normalerweise in einem Flugzeug."
+    }, {
+        "de": "besichtigen",
+        "en": "sightsee",
+        "ru": "осматривать",
+        "descriptionEN": "To visit places of interest and look at notable or remarkable objects.",
+        "descriptionRU": "Посещать достопримечательности и рассматривать примечательные или выдающиеся объекты.",
+        "descriptionDE": "Orte von Interesse besuchen und bemerkenswerte oder bemerkenswerte Objekte betrachten."
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "To travel through (an unfamiliar area) in order to learn about it.",
+        "descriptionRU": "Пройти через (незнакомую территорию), чтобы узнать о ней.",
+        "descriptionDE": "Durch ein unbekanntes Gebiet reisen, um es kennenzulernen."
+    }, {
+        "de": "anhalten",
+        "en": "stop",
+        "ru": "остановиться",
+        "descriptionEN": "To cease moving or operating; come to an end or bring to an end.",
+        "descriptionRU": "Прекратить движение или работу; прийти к концу или завершить.",
+        "descriptionDE": "Die Bewegung oder den Betrieb einstellen; enden oder beenden."
+    }, {
+        "de": "entdecken",
+        "en": "discover",
+        "ru": "открывать",
+        "descriptionEN": "To find (something or someone) unexpectedly or in the course of a search.",
+        "descriptionRU": "Найти (что-то или кого-то) неожиданно или в ходе поиска.",
+        "descriptionDE": "Etwas oder jemanden unerwartet oder im Verlauf einer Suche finden."
+    }, {
+        "de": "aussteigen",
+        "en": "get off",
+        "ru": "выйти",
+        "descriptionEN": "To leave a vehicle, aircraft, or ship.",
+        "descriptionRU": "Покинуть транспортное средство, самолет или корабль.",
+        "descriptionDE": "Ein Fahrzeug, Flugzeug oder Schiff verlassen."
     }
 ]
