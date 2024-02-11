@@ -1,0 +1,283 @@
+[
+    {
+        "de": "das Kino",
+        "en": "cinema",
+        "ru": "кинотеатр",
+        "descriptionEN": "A theater where films are shown for public entertainment.",
+        "descriptionRU": "Театр, где для общественного развлечения показываются фильмы.",
+        "descriptionDE": "Ein Theater, in dem Filme zur öffentlichen Unterhaltung gezeigt werden."
+    }, {
+        "de": "das Theater",
+        "en": "theater",
+        "ru": "театр",
+        "descriptionEN": "A building or outdoor area in which plays and other dramatic performances are given.",
+        "descriptionRU": "Здание или открытая площадка, на которой проводятся спектакли и другие драматические представления.",
+        "descriptionDE": "Ein Gebäude oder ein Freigelände, auf dem Theaterstücke und andere dramatische Aufführungen stattfinden."
+    }, {
+        "de": "die Musik",
+        "en": "music",
+        "ru": "музыка",
+        "descriptionEN": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
+        "descriptionRU": "Вокальные или инструментальные звуки (или оба) комбинируются таким образом, чтобы производить красоту формы, гармонии и выражения эмоций.",
+        "descriptionDE": "Vokale oder instrumentale Klänge (oder beides), die so kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen hervorbringen."
+    }, {
+        "de": "die Show",
+        "en": "show",
+        "ru": "шоу",
+        "descriptionEN": "A spectacle or display, typically one held in a theater or arena.",
+        "descriptionRU": "Зрелище или дисплей, обычно проводимый в театре или арене.",
+        "descriptionDE": "Ein Spektakel oder eine Vorstellung, normalerweise in einem Theater oder einer Arena abgehalten."
+    }, {
+        "de": "das Konzert",
+        "en": "concert",
+        "ru": "концерт",
+        "descriptionEN": "A musical performance given in public, typically by several performers or of several separate compositions.",
+        "descriptionRU": "Музыкальное выступление в публичном исполнении, обычно несколькими исполнителями или несколькими отдельными произведениями.",
+        "descriptionDE": "Eine musikalische Darbietung in der Öffentlichkeit, normalerweise von mehreren Künstlern oder mehreren separaten Kompositionen."
+    }, {
+        "de": "die Vorstellung",
+        "en": "performance",
+        "ru": "выступление",
+        "descriptionEN": "An act of presenting a play, concert, or other form of entertainment.",
+        "descriptionRU": "Акт представления спектакля, концерта или другой формы развлечений.",
+        "descriptionDE": "Eine Handlung, bei der ein Theaterstück, ein Konzert oder eine andere Form der Unterhaltung präsentiert wird."
+    }, {
+        "de": "das Spiel",
+        "en": "game",
+        "ru": "игра",
+        "descriptionEN": "A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+        "descriptionRU": "Форма игры или спорта, особенно соревновательная, играющаяся по правилам и решаемая с помощью умения, силы или удачи.",
+        "descriptionDE": "Eine Form des Spiels oder Sports, insbesondere ein Wettkampf, der nach Regeln gespielt wird und durch Geschicklichkeit, Stärke oder Glück entschieden wird."
+    }, {
+        "de": "der Film",
+        "en": "film",
+        "ru": "фильм",
+        "descriptionEN": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television; a motion picture.",
+        "descriptionRU": "История или событие, записанное камерой в виде набора движущихся изображений и показываемое в театре или по телевидению; кинофильм.",
+        "descriptionDE": "Eine Geschichte oder ein Ereignis, das von einer Kamera als eine Reihe von bewegten Bildern aufgezeichnet und in einem Theater oder im Fernsehen gezeigt wird; ein Spielfilm."
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "A planned public or social occasion.",
+        "descriptionRU": "Запланированное общественное или социальное мероприятие.",
+        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung."
+    }, {
+        "de": "die Bühne",
+        "en": "stage",
+        "ru": "сцена",
+        "descriptionEN": "A raised floor or platform, typically in a theater, on which actors, musicians, or speakers perform.",
+        "descriptionRU": "Поднятый пол или платформа, обычно в театре, на котором актеры, музыканты или ораторы выступают.",
+        "descriptionDE": "Ein erhöhter Boden oder eine Plattform, normalerweise in einem Theater, auf dem Schauspieler, Musiker oder Redner auftreten."
+    }, {
+        "de": "unterhalten",
+        "en": "entertain",
+        "ru": "развлекать",
+        "descriptionEN": "To provide amusement or enjoyment.",
+        "descriptionRU": "Предоставить развлечение или удовольствие.",
+        "descriptionDE": "Vergnügen oder Genuss bieten."
+    }, {
+        "de": "auftreten",
+        "en": "perform",
+        "ru": "выступать",
+        "descriptionEN": "To present (a form of entertainment) to an audience.",
+        "descriptionRU": "Представить (форму развлечения) аудитории.",
+        "descriptionDE": "Eine Form der Unterhaltung dem Publikum präsentieren."
+    }, {
+        "de": "tanzen",
+        "en": "dance",
+        "ru": "танцевать",
+        "descriptionEN": "To move rhythmically to music, typically following a set sequence of steps.",
+        "descriptionRU": "Двигаться ритмично под музыку, обычно следуя определенной последовательности шагов.",
+        "descriptionDE": "Sich rhythmisch zur Musik bewegen, in der Regel einer festgelegten Sequenz von Schritten folgend."
+    }, {
+        "de": "spielen",
+        "en": "play",
+        "ru": "играть",
+        "descriptionEN": "To engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+        "descriptionRU": "Заниматься деятельностью для удовольствия и отдыха, а не для серьезной или практической цели.",
+        "descriptionDE": "Sich mit einer Aktivität beschäftigen, um sich zu amüsieren und zu erholen, anstatt einen ernsten oder praktischen Zweck zu verfolgen."
+    }, {
+        "de": "singenn",
+        "en": "sing",
+        "ru": "петь",
+        "descriptionEN": "To make musical sounds with the voice, typically a melody with words.",
+        "descriptionRU": "Издавать музыкальные звуки голосом, обычно мелодию с словами.",
+        "descriptionDE": "Musikalische Klänge mit der Stimme machen, normalerweise eine Melodie mit Worten."
+    }, {
+        "de": "aufnehmen",
+        "en": "record",
+        "ru": "записывать",
+        "descriptionEN": "To store sounds or moving pictures using electronic equipment so that they can be heard or seen later.",
+        "descriptionRU": "Хранить звуки или движущиеся картинки с помощью электронного оборудования, чтобы их можно было услышать или увидеть позже.",
+        "descriptionDE": "Geräusche oder bewegte Bilder mit elektronischen Geräten aufzeichnen, damit sie später gehört oder gesehen werden können."
+    }, {
+        "de": "ausführen",
+        "en": "execute",
+        "ru": "выполнять",
+        "descriptionEN": "To perform or carry out a task or action.",
+        "descriptionRU": "Выполнять или осуществлять задачу или действие.",
+        "descriptionDE": "Eine Aufgabe oder Aktion ausführen oder durchführen."
+    }, {
+        "de": "inszenieren",
+        "en": "stage",
+        "ru": "режиссировать",
+        "descriptionEN": "To arrange or present something, especially a play or other work of art, for public performance.",
+        "descriptionRU": "Организовать или представить что-то, особенно пьесу или другое произведение искусства, для публичного выступления.",
+        "descriptionDE": "Etwas arrangieren oder präsentieren, insbesondere ein Theaterstück oder ein anderes Kunstwerk, für öffentliche Aufführungen."
+    }, {
+        "de": "gewinnen",
+        "en": "win",
+        "ru": "побеждать",
+        "descriptionEN": "To be successful in an event or competition.",
+        "descriptionRU": "Быть успешным на мероприятии или в соревновании.",
+        "descriptionDE": "In einem Ereignis oder Wettbewerb erfolgreich sein."
+    }, {
+        "de": "verlieren",
+        "en": "lose",
+        "ru": "проигрывать",
+        "descriptionEN": "To be deprived of or cease to have or retain (something).",
+        "descriptionRU": "Быть лишенным или перестать иметь или сохранять (что-то).",
+        "descriptionDE": "Etwas beraubt werden oder aufhören zu haben oder zu behalten."
+    }, {
+        "de": "spannend",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "Creating or causing excitement.",
+        "descriptionRU": "Создание или вызов волнения.",
+        "descriptionDE": "Erzeugt oder verursacht Aufregung."
+    }, {
+        "de": "lustig",
+        "en": "funny",
+        "ru": "смешной",
+        "descriptionEN": "Causing laughter or amusement.",
+        "descriptionRU": "Вызывающий смех или развлечение.",
+        "descriptionDE": "Verursacht Lachen oder Unterhaltung."
+    }, {
+        "de": "unterhaltsam",
+        "en": "entertaining",
+        "ru": "развлекательный",
+        "descriptionEN": "Providing amusement or enjoyment.",
+        "descriptionRU": "Обеспечение развлечения или удовольствия.",
+        "descriptionDE": "Bietet Unterhaltung oder Vergnügen."
+    }, {
+        "de": "interessant",
+        "en": "interesting",
+        "ru": "интересный",
+        "descriptionEN": "Arousing curiosity or interest; holding or catching the attention.",
+        "descriptionRU": "Будить любопытство или интерес; удерживание или привлечение внимания.",
+        "descriptionDE": "Weckt Neugier oder Interesse; hält oder fängt die Aufmerksamkeit ein."
+    }, {
+        "de": "spektakulär",
+        "en": "spectacular",
+        "ru": "зрелищный",
+        "descriptionEN": "Beautiful in a dramatic and eye-catching way.",
+        "descriptionRU": "Прекрасный драматическим и привлекательным образом.",
+        "descriptionDE": "Schön auf dramatische und auffällige Weise."
+    }, {
+        "de": "kreativ",
+        "en": "creative",
+        "ru": "творческий",
+        "descriptionEN": "Relating to or involving the imagination or original ideas, especially in the production of an artistic work.",
+        "descriptionRU": "Относящийся к или включающий в себя воображение или оригинальные идеи, особенно в создании художественного произведения.",
+        "descriptionDE": "Bezogen auf oder unter Einbeziehung der Vorstellungskraft oder origineller Ideen, insbesondere bei der Produktion eines Kunstwerks."
+    }, {
+        "de": "bemerkenswert",
+        "en": "remarkable",
+        "ru": "замечательный",
+        "descriptionEN": "Worthy of attention; striking.",
+        "descriptionRU": "Достойный внимания; поразительный.",
+        "descriptionDE": "Beachtenswert; auffallend."
+    }, {
+        "de": "fantastisch",
+        "en": "fantastic",
+        "ru": "фантастический",
+        "descriptionEN": "Extraordinarily good or attractive.",
+        "descriptionRU": "Чрезвычайно хороший или привлекательный.",
+        "descriptionDE": "Außergewöhnlich gut oder attraktiv."
+    }, {
+        "de": "originell",
+        "en": "original",
+        "ru": "оригинальный",
+        "descriptionEN": "Present or existing from the beginning; first or earliest.",
+        "descriptionRU": "Присутствует или существует с самого начала; первый или самый ранний.",
+        "descriptionDE": "Vorhanden oder von Anfang an vorhanden; erstens oder frühestens."
+    }, {
+        "de": "aufregend",
+        "en": "thrilling",
+        "ru": "захватывающий",
+        "descriptionEN": "Causing excitement and pleasure; exhilarating.",
+        "descriptionRU": "Вызывающий волнение и удовольствие; оживляющий.",
+        "descriptionDE": "Verursacht Aufregung und Vergnügen; berauschend."
+    }, {
+        "de": "hervorragend",
+        "en": "excellently",
+        "ru": "отлично",
+        "descriptionEN": "To a very high standard or quality.",
+        "descriptionRU": "На очень высоком уровне или качестве.",
+        "descriptionDE": "Auf einem sehr hohen Standard oder Qualitätsniveau."
+    }, {
+        "de": "geschickt",
+        "en": "skillfully",
+        "ru": "умело",
+        "descriptionEN": "With great skill.",
+        "descriptionRU": "С большим мастерством.",
+        "descriptionDE": "Mit großer Geschicklichkeit."
+    }, {
+        "de": "professionell",
+        "en": "professionally",
+        "ru": "профессионально",
+        "descriptionEN": "In a professional manner.",
+        "descriptionRU": "Профессиональным образом.",
+        "descriptionDE": "Auf professionelle Weise."
+    }, {
+        "de": "erfolgreich",
+        "en": "successfully",
+        "ru": "успешно",
+        "descriptionEN": "In a way that accomplishes a desired aim or result.",
+        "descriptionRU": "Таким образом, достигается желаемая цель или результат.",
+        "descriptionDE": "Auf eine Weise, die ein gewünschtes Ziel oder Ergebnis erreicht."
+    }, {
+        "de": "beeindruckend",
+        "en": "impressively",
+        "ru": "впечатляюще",
+        "descriptionEN": "In a way that impresses or leaves a strong effect on others.",
+        "descriptionRU": "Таким образом, что впечатляет или оставляет сильное впечатление на других.",
+        "descriptionDE": "Auf eine Weise, die beeindruckt oder einen starken Eindruck bei anderen hinterlässt."
+    }, {
+        "de": "authentisch",
+        "en": "authentically",
+        "ru": "подлинно",
+        "descriptionEN": "In a way that is genuine or true.",
+        "descriptionRU": "Таким образом, что является подлинным или истинным.",
+        "descriptionDE": "Auf eine Weise, die echt oder wahr ist."
+    }, {
+        "de": "magisch",
+        "en": "magically",
+        "ru": "волшебно",
+        "descriptionEN": "In a way that relates to magic or seems to work by magic.",
+        "descriptionRU": "Таким образом, что связано с магией или кажется работающим волшебным образом.",
+        "descriptionDE": "Auf eine Weise, die sich auf Magie bezieht oder wie durch Magie zu funktionieren scheint."
+    }, {
+        "de": "dynamisch",
+        "en": "dynamically",
+        "ru": "динамично",
+        "descriptionEN": "In a way that is characterized by constant change, activity, or progress.",
+        "descriptionRU": "Таким образом, который характеризуется постоянным изменением, активностью или прогрессом.",
+        "descriptionDE": "Auf eine Weise, die durch ständige Veränderung, Aktivität oder Fortschritt gekennzeichnet ist."
+    }, {
+        "de": "faszinierend",
+        "en": "fascinatingly",
+        "ru": "очаровательно",
+        "descriptionEN": "In a way that is extremely interesting or attractive.",
+        "descriptionRU": "Таким образом, что является чрезвычайно интересным или привлекательным.",
+        "descriptionDE": "Auf eine Weise, die äußerst interessant oder attraktiv ist."
+    }, {
+        "de": "freundlich",
+        "en": "friendly",
+        "ru": "дружелюбно",
+        "descriptionEN": "In a kind and pleasant manner.",
+        "descriptionRU": "Доброжелательным и приятным образом.",
+        "descriptionDE": "Auf eine freundliche und angenehme Weise."
+    }
+]

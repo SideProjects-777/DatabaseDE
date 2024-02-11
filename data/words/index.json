@@ -423,5 +423,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/image.jpg"
+    }, {
+        "title": {
+            "de": "Unterhaltung",
+            "en": "Entertainment",
+            "ru": "Развлечение"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/image.jpg"
     }
 ]
