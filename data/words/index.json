@@ -415,5 +415,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/image.jpg"
+    }, {
+        "title": {
+            "de": "Lebensmittel",
+            "en": "Food",
+            "ru": "Питание"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/image.jpg"
     }
 ]
