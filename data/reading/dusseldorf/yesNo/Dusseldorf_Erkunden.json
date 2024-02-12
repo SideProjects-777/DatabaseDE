@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Düsseldorf liegt im Osten Deutschlands.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Altstadt von Düsseldorf hat viele moderne Gebäude.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Düsseldorf ist berühmt für sein traditionelles Altbier.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Rheinturm bietet keinen Blick über die Stadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Düsseldorfer sind nicht stolz auf ihre Stadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Karneval ist kein beliebtes Fest in Düsseldorf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die lokale Küche in Düsseldorf umfasst keinen Rheinischen Sauerbraten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Düsseldorf ist bekannt für seine langweilige und einheitliche Architektur.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Medienhafen in Düsseldorf bietet keine trendigen Bars und Restaurants.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Düsseldorf ist keine dynamische und aufregende Stadt.",
+        "tr": false,
+        "fle": true
+    }
+]

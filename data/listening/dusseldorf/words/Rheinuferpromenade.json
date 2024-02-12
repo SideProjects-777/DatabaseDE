@@ -1,0 +1,87 @@
+[
+    {
+        "de": "der Fluss",
+        "en": "River",
+        "ru": "Река",
+        "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+        "descriptionRU": "Большой естественный поток воды, текущий по каналу к морю, озеру или другой реке.",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt."
+    }, {
+        "de": "die Aussicht",
+        "en": "View",
+        "ru": "Вид",
+        "descriptionEN": "The ability to see something or to be seen from a particular place.",
+        "descriptionRU": "Способность видеть что-то или быть видимым с определенного места.",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen oder von einem bestimmten Ort aus gesehen zu werden."
+    }, {
+        "de": "der Himmel",
+        "en": "Sky",
+        "ru": "Небо",
+        "descriptionEN": "The region of the atmosphere and outer space seen from the earth.",
+        "descriptionRU": "Регион атмосферы и космического пространства, видимый с Земли.",
+        "descriptionDE": "Die Region der Atmosphäre und des Weltraums, die von der Erde aus zu sehen ist."
+    }, {
+        "de": "der Morgenkaffee",
+        "en": "Morning coffee",
+        "ru": "Утренний кофе",
+        "descriptionEN": "Coffee consumed in the morning, often as part of one's morning routine.",
+        "descriptionRU": "Кофе, употребляемый утром, часто как часть утренней рутины.",
+        "descriptionDE": "Kaffee, der morgens getrunken wird, oft als Teil der morgendlichen Routine."
+    }, {
+        "de": "der Weg",
+        "en": "Path",
+        "ru": "Путь",
+        "descriptionEN": "A way or track laid down for walking or made by continual treading.",
+        "descriptionRU": "Путь или тропа, проложенная для ходьбы или образованная постоянным наступанием.",
+        "descriptionDE": "Ein Weg oder Pfad, der zum Gehen angelegt oder durch fortgesetztes Treten entstanden ist."
+    }, {
+        "de": "joggen",
+        "en": "to jog",
+        "ru": "бегать",
+        "descriptionEN": "To run at a steady gentle pace, especially on a regular basis as a form of physical exercise.",
+        "descriptionRU": "Бегать с умеренным, плавным темпом, особенно регулярно в качестве физических упражнений.",
+        "descriptionDE": "Mit gleichmäßigem, sanftem Tempo laufen, insbesondere regelmäßig als Form von körperlicher Bewegung."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "To take pleasure in something.",
+        "descriptionRU": "Испытывать удовольствие от чего-либо.",
+        "descriptionDE": "Vergnügen an etwas haben."
+    }, {
+        "de": "atemberaubend",
+        "en": "Breathtaking",
+        "ru": "Захватывающий дух",
+        "descriptionEN": "Causing great astonishment or wonder.",
+        "descriptionRU": "Вызывающий большое удивление или восхищение.",
+        "descriptionDE": "Großes Erstaunen oder Staunen verursachend."
+    }, {
+        "de": "malenrisch",
+        "en": "Picturesque",
+        "ru": "Живописный",
+        "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
+        "descriptionRU": "Визуально привлекательный, особенно в живописном или очаровательном стиле.",
+        "descriptionDE": "Visuell attraktiv, besonders auf malerische oder charmante Weise."
+    }, {
+        "de": "friedlich",
+        "en": "Peaceful",
+        "ru": "Мирный",
+        "descriptionEN": "Free from disturbance; tranquil.",
+        "descriptionRU": "Свободный от беспорядка; спокойный.",
+        "descriptionDE": "Frei von Störungen; ruhig."
+    }, {
+        "de": "flach",
+        "en": "Flat",
+        "ru": "Плоский",
+        "descriptionEN": "Having a level surface; without raised areas or indentations.",
+        "descriptionRU": "Имеющий ровную поверхность; без выступов или впадин.",
+        "descriptionDE": "Eine ebene Oberfläche haben; ohne Erhöhungen oder Vertiefungen."
+    }, {
+        "de": "perfekt",
+        "en": "Perfect",
+        "ru": "Идеальный",
+        "descriptionEN": "Having all the required or desirable elements, qualities, or characteristics.",
+        "descriptionRU": "Обладающий всеми необходимыми или желательными элементами, качествами или характеристиками.",
+        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Merkmale aufweisend."
+    }
+]

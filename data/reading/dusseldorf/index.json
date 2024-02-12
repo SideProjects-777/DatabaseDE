@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "de": "Düsseldorf erkunden",
+            "en": "Exploring Dusseldorf",
+            "ru": "Знакомство с Дюссельдорфом"
+        },
+        "description": {
+            "de": "Eine Reisegeschichte",
+            "en": "A Traveler's Tale",
+            "ru": "Путешественнический рассказ"
+        },
+        "level": "A2",
+        "image": "Dusseldorf_Erkunden.jpg",
+        "file": "Dusseldorf_Erkunden.txt",
+        "words": "Dusseldorf_Erkunden.json",
+        "yesNo": "Dusseldorf_Erkunden.json"
+    }
+]

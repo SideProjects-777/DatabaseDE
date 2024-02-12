@@ -1,0 +1,108 @@
+[
+    {
+        "de": "die Kneipendichte",
+        "en": "pub density",
+        "ru": "плотность пабов",
+        "descriptionEN": "the concentration of pubs or bars in a specific area",
+        "descriptionRU": "концентрация пабов или баров в определённой области",
+        "descriptionDE": "die Konzentration von Kneipen oder Bars in einem bestimmten Gebiet"
+    }, {
+        "de": "die Sammlung",
+        "en": "collection",
+        "ru": "коллекция",
+        "descriptionEN": "a group of objects or works to be seen, studied, or kept together",
+        "descriptionRU": "группа объектов или работ, которые можно увидеть, изучить или хранить вместе",
+        "descriptionDE": "eine Gruppe von Objekten oder Werken, die zusammen gesehen, studiert oder aufbewahrt werden können"
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "a thing that happens, especially one of importance",
+        "descriptionRU": "вещь, которая происходит, особенно важная",
+        "descriptionDE": "eine Sache, die passiert, besonders eine von Bedeutung"
+    }, {
+        "de": "der Grund",
+        "en": "reason",
+        "ru": "причина",
+        "descriptionEN": "a cause, explanation, or justification for an action or event",
+        "descriptionRU": "причина, объяснение или оправдание действия или события",
+        "descriptionDE": "eine Ursache, Erklärung oder Rechtfertigung für eine Handlung oder ein Ereignis"
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий",
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Konstruierens von Gebäuden"
+    }, {
+        "de": "die Mischung",
+        "en": "mixture",
+        "ru": "смесь",
+        "descriptionEN": "a substance made by mixing other substances together",
+        "descriptionRU": "вещество, получаемое путём смешивания других веществ вместе",
+        "descriptionDE": "eine Substanz, die durch das Mischen anderer Substanzen entsteht"
+    }, {
+        "de": "der Ort",
+        "en": "place",
+        "ru": "место",
+        "descriptionEN": "a particular position, point, or area in space; a location",
+        "descriptionRU": "конкретное положение, точка или область в пространстве; местоположение",
+        "descriptionDE": "eine bestimmte Position, Punkt oder Bereich im Raum; ein Standort"
+    }, {
+        "de": "die Entwicklung",
+        "en": "development",
+        "ru": "развитие",
+        "descriptionEN": "the process of developing or being developed",
+        "descriptionRU": "процесс развития или становления",
+        "descriptionDE": "der Prozess der Entwicklung oder des Entwickelns"
+    }, {
+        "de": "feiern",
+        "en": "celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity",
+        "descriptionRU": "отмечать (значимый или счастливый день или событие) социальным собранием или приятным мероприятием",
+        "descriptionDE": "ein bedeutsamen oder glücklichen Tag oder ein Ereignis mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen"
+    }, {
+        "de": "bieten",
+        "en": "offer",
+        "ru": "предлагать",
+        "descriptionEN": "present or proffer (something) for (someone) to accept or reject as desired",
+        "descriptionRU": "представлять или предлагать (что-то) для (кого-то), чтобы принять или отклонить по желанию",
+        "descriptionDE": "etwas zur Annahme oder Ablehnung nach Wunsch vorlegen oder anbieten"
+    }, {
+        "de": "bekannt",
+        "en": "known",
+        "ru": "известный",
+        "descriptionEN": "recognized or familiar because of past experience or knowledge",
+        "descriptionRU": "признанный или знакомый из-за прошлого опыта или знаний",
+        "descriptionDE": "aufgrund früherer Erfahrungen oder Kenntnisse erkannt oder vertraut"
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "known about by many people",
+        "descriptionRU": "известный многим людям",
+        "descriptionDE": "von vielen Menschen bekannt"
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "existing in or as part of a tradition; long-established",
+        "descriptionRU": "существующий в рамках или как часть традиции; долгоживущий",
+        "descriptionDE": "existierend in oder als Teil einer Tradition; lang etabliert"
+    }, {
+        "de": "berührend",
+        "en": "touching",
+        "ru": "трогательный",
+        "descriptionEN": "arousing strong feelings of sadness, sympathy, or gratitude",
+        "descriptionRU": "вызывающий сильные чувства грусти, сострадания или благодарности",
+        "descriptionDE": "starke Gefühle von Traurigkeit, Mitgefühl oder Dankbarkeit hervorrufend"
+    }, {
+        "de": "lebendig",
+        "en": "alive",
+        "ru": "живой",
+        "descriptionEN": "full of life; lively",
+        "descriptionRU": "полный жизни; живой",
+        "descriptionDE": "voll Leben; lebhaft"
+    }
+]

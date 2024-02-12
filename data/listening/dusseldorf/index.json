@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "de": "Joggen an der Rheinuferpromenade",
+            "en": "Jogging by the promenade",
+            "ru": "Пробежка у променада"
+        },
+        "description": {
+            "de": "Erster Eindruck",
+            "en": "First Impressions",
+            "ru": "Первые впечатления"
+        },
+        "level": "B1",
+        "image": "Rheinuferpromenade.jpg",
+        "file": "Rheinuferpromenade.mp3",
+        "words": "Rheinuferpromenade.json",
+        "yesNo": "Rheinuferpromenade.json"
+    }
+]

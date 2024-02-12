@@ -431,5 +431,21 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/image.jpg"
+    }, {
+        "title": {
+            "de": "Eine Reisegeschichte",
+            "en": "A Traveler's Tale",
+            "ru": "Путешественнический рассказ"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Dusseldorf_Erkunden.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Dusseldorf_Erkunden.jpg"
+    }, {
+        "title": {
+            "de": "Erster Eindruck",
+            "en": "First Impressions",
+            "ru": "Первые впечатления"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Rheinuferpromenade.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Rheinuferpromenade.jpg"
     }
 ]
