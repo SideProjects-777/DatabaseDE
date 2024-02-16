@@ -1,0 +1,171 @@
+[
+    {
+        "de": "der Tourist",
+        "en": "tourist",
+        "ru": "турист",
+        "descriptionEN": "a person who is traveling or visiting a place for pleasure",
+        "descriptionRU": "человек, который путешествует или посещает место для удовольствия",
+        "descriptionDE": "eine Person, die reist oder einen Ort zum Vergnügen besucht"
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or work of art",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства",
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks"
+    }, {
+        "de": "der Besucher",
+        "en": "visitor",
+        "ru": "посетитель",
+        "descriptionEN": "a person who visits a place, especially on a temporary basis",
+        "descriptionRU": "человек, который посещает место, особенно временно",
+        "descriptionDE": "eine Person, die einen Ort besucht, insbesondere vorübergehend"
+    }, {
+        "de": "der Komponist",
+        "en": "composer",
+        "ru": "композитор",
+        "descriptionEN": "a person who writes music, especially as a professional occupation",
+        "descriptionRU": "человек, который пишет музыку, особенно как профессиональное занятие",
+        "descriptionDE": "eine Person, die Musik komponiert, insbesondere als berufliche Tätigkeit"
+    }, {
+        "de": "die Sammlung",
+        "en": "collection",
+        "ru": "коллекция",
+        "descriptionEN": "a group of objects or works to be seen, studied, or kept together",
+        "descriptionRU": "группа объектов или произведений, которые должны быть просмотрены, изучены или сохранены вместе",
+        "descriptionDE": "eine Gruppe von Objekten oder Werken, die gemeinsam betrachtet, studiert oder aufbewahrt werden sollen"
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal",
+        "descriptionRU": "все видимые особенности района сельской местности или земли, часто рассматриваемые с точки зрения их эстетического воздействия",
+        "descriptionDE": "alle sichtbaren Merkmale eines Gebiets von Landschaft oder Land, oft im Hinblick auf ihre ästhetische Anziehungskraft betrachtet"
+    }, {
+        "de": "das Schloss",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "a large building typically fortified against attack with thick walls, battlements, towers, and in many cases a moat",
+        "descriptionRU": "большое здание, обычно укрепленное против атаки толстыми стенами, бойницами, башнями и во многих случаях рва",
+        "descriptionDE": "ein großes Gebäude, das typischerweise gegen Angriffe mit dicken Mauern, Zinnen, Türmen und in vielen Fällen einem Graben befestigt ist"
+    }, {
+        "de": "die Universität",
+        "en": "university",
+        "ru": "университет",
+        "descriptionEN": "an educational institution designed for instruction, examination, or both, of students in many branches of advanced learning, conferring degrees in various faculties, and often embodying colleges and similar institutions",
+        "descriptionRU": "образовательное учреждение, предназначенное для обучения, экзаменов или обоих, студентов во многих областях продвинутого обучения, присуждающее степени в различных факультетах и часто включающее колледжи и аналогичные учреждения",
+        "descriptionDE": "eine Bildungseinrichtung, die für die Unterrichtung, Prüfung oder beides von Studierenden in vielen Bereichen des fortgeschrittenen Lernens konzipiert ist, Abschlüsse in verschiedenen Fakultäten verleiht und oft Kollegien und ähnliche Einrichtungen verkörpert"
+    }, {
+        "de": "der Blick",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "the ability to see or the range of vision",
+        "descriptionRU": "способность видеть или диапазон зрения",
+        "descriptionDE": "die Fähigkeit zu sehen oder das Sichtfeld"
+    }, {
+        "de": "der Charme",
+        "en": "charm",
+        "ru": "очарование",
+        "descriptionEN": "the power or quality of giving delight or arousing admiration",
+        "descriptionRU": "сила или качество, придающее восхищение или вызывающее восхищение",
+        "descriptionDE": "die Kraft oder Qualität, die Freude bereitet oder Bewunderung hervorruft"
+    }, {
+        "de": "belebt",
+        "en": "lively",
+        "ru": "оживлённый",
+        "descriptionEN": "full of life and energy",
+        "descriptionRU": "полный жизни и энергии",
+        "descriptionDE": "voll Leben und Energie"
+    }, {
+        "de": "prächtig",
+        "en": "magnificent",
+        "ru": "великолепный",
+        "descriptionEN": "impressively beautiful, elaborate, or extravagant",
+        "descriptionRU": "впечатляюще красивый, замысловатый или экстравагантный",
+        "descriptionDE": "beeindruckend schön, aufwendig oder extravagant"
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "relating to the Middle Ages",
+        "descriptionRU": "относящийся к Средневековью",
+        "descriptionDE": "bezogen auf das Mittelalter"
+    }, {
+        "de": "bekannt",
+        "en": "known",
+        "ru": "известный",
+        "descriptionEN": "recognized or familiar",
+        "descriptionRU": "признанный или знакомый",
+        "descriptionDE": "anerkannt oder vertraut"
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
+        "descriptionRU": "нравится, восхищается или пользуется популярностью у многих людей или у определенного лица или группы",
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind",
+        "descriptionRU": "будучи единственным в своем роде",
+        "descriptionDE": "als einzigartig"
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий дух",
+        "descriptionEN": "causing one to feel strong emotion",
+        "descriptionRU": "вызывающий сильные эмоции",
+        "descriptionDE": "verursacht starke Emotionen"
+    }, {
+        "de": "charmant",
+        "en": "charming",
+        "ru": "очаровательный",
+        "descriptionEN": "pleasant or attractive",
+        "descriptionRU": "приятный или привлекательный",
+        "descriptionDE": "angenehm oder attraktiv"
+    }, {
+        "de": "gemütlich",
+        "en": "cozy",
+        "ru": "уютный",
+        "descriptionEN": "giving a feeling of comfort, warmth, and relaxation",
+        "descriptionRU": "дающий ощущение комфорта, тепла и расслабления",
+        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung"
+    }, {
+        "de": "prächtig",
+        "en": "splendid",
+        "ru": "великолепный",
+        "descriptionEN": "magnificent and impressive",
+        "descriptionRU": "великолепный и впечатляющий",
+        "descriptionDE": "prächtig und beeindruckend"
+    }, {
+        "de": "beliebt",
+        "en": "favored",
+        "ru": "предпочитаемый",
+        "descriptionEN": "preferred or recommended",
+        "descriptionRU": "предпочтительный или рекомендуемый",
+        "descriptionDE": "bevorzugt oder empfohlen"
+    }, {
+        "de": "urig",
+        "en": "quaint",
+        "ru": "живописный",
+        "descriptionEN": "attractively unusual or old-fashioned",
+        "descriptionRU": "привлекательно необычный или старомодный",
+        "descriptionDE": "ansprechend ungewöhnlich oder altmodisch"
+    }, {
+        "de": "atemberaubend",
+        "en": "stunning",
+        "ru": "потрясающий",
+        "descriptionEN": "extremely impressive or attractive",
+        "descriptionRU": "чрезвычайно впечатляющий или привлекательный",
+        "descriptionDE": "äußerst beeindruckend oder attraktiv"
+    }, {
+        "de": "beliebt",
+        "en": "well-liked",
+        "ru": "популярный",
+        "descriptionEN": "enjoying or eliciting approval or favor",
+        "descriptionRU": "наслаждение или вызывание одобрения или благосклонности",
+        "descriptionDE": "genießen oder hervorrufen von Zustimmung oder Gefallen"
+    }
+]

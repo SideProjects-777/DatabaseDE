@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was ist die Heerstraße auch bekannt als?",
+        "answers": [
+            {
+                "text": "Hohe Straße",
+                "correct": true
+            }, {
+                "text": "Poppelsdorfer Allee",
+                "correct": false
+            }, {
+                "text": "Sternstraße",
+                "correct": false
+            }, {
+                "text": "Breite Straße",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Straße führt zum Poppelsdorfer Schloss?",
+        "answers": [
+            {
+                "text": "Sternstraße",
+                "correct": false
+            }, {
+                "text": "Heerstraße",
+                "correct": false
+            }, {
+                "text": "Poppelsdorfer Allee",
+                "correct": true
+            }, {
+                "text": "Sterntor",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das Sterntor?",
+        "answers": [
+            {
+                "text": "Eine mittelalterliche Straße",
+                "correct": false
+            }, {
+                "text": "Ein pulsierendes Zentrum mit Straßenkünstlern und Cafés",
+                "correct": true
+            }, {
+                "text": "Ein bekanntes Schloss",
+                "correct": false
+            }, {
+                "text": "Ein Fluss",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Straße ist eng mit Ludwig van Beethoven verbunden?",
+        "answers": [
+            {
+                "text": "Adenauerallee",
+                "correct": false
+            }, {
+                "text": "Breite Straße",
+                "correct": false
+            }, {
+                "text": "Im Rheindorfer Schloss",
+                "correct": false
+            }, {
+                "text": "Sternstraße",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist die Adenauerallee bekannt für?",
+        "answers": [
+            {
+                "text": "Ihre prächtigen Gebäude und den Blick auf den Fluss",
+                "correct": true
+            }, {
+                "text": "Ihre malerischen Straßen",
+                "correct": false
+            }, {
+                "text": "Ihre belebte Atmosphäre",
+                "correct": false
+            }, {
+                "text": "Ihre historischen Gebäude",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo befindet sich die Rheindorfer Burg?",
+        "answers": [
+            {
+                "text": "Im südlichen Teil von Bonn",
+                "correct": true
+            }, {
+                "text": "Im Herzen der Bonner Altstadt",
+                "correct": false
+            }, {
+                "text": "Entlang des Rheins",
+                "correct": false
+            }, {
+                "text": "Zwischen der Poppelsdorfer Allee und dem Hofgarten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was beherbergt das Beethoven-Haus-Museum?",
+        "answers": [
+            {
+                "text": "Eine Sammlung von historischen Gebäuden",
+                "correct": false
+            }, {
+                "text": "Eine Sammlung von Musikinstrumenten",
+                "correct": false
+            }, {
+                "text": "Eine Sammlung von antiken Artefakten",
+                "correct": false
+            }, {
+                "text": "Eine Sammlung von Beethovens persönlichen Gegenständen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was kann man in der Breite Straße machen?",
+        "answers": [
+            {
+                "text": "Historische Gebäude besichtigen",
+                "correct": false
+            }, {
+                "text": "Shoppen oder Leute beobachten",
+                "correct": true
+            }, {
+                "text": "Einen gemütlichen Spaziergang machen",
+                "correct": false
+            }, {
+                "text": "Sich in einem Café entspannen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Gebäude ist fast 1000 Jahre alt?",
+        "answers": [
+            {
+                "text": "Bonner Münster",
+                "correct": false
+            }, {
+                "text": "Poppelsdorfer Schloss",
+                "correct": false
+            }, {
+                "text": "Rheindorfer Burg",
+                "correct": true
+            }, {
+                "text": "Beethoven-Haus-Museum",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was zeugen Bonns berühmte Straßen von?",
+        "answers": [
+            {
+                "text": "Ihrer pulsierenden Zentren",
+                "correct": false
+            }, {
+                "text": "Ihrer lebendigen Atmosphäre",
+                "correct": false
+            }, {
+                "text": "Ihrer reichen Geschichte und Kultur",
+                "correct": true
+            }, {
+                "text": "Ihrer schönen Parks",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": {
+            "de": "Bonn entdecken (Teil I)",
+            "en": "Discovering Bonn (part I)",
+            "ru": "Знакомство с Бонном (часть I)"
+        },
+        "description": {
+            "de": "Straßen von Bonn",
+            "en": "Streets of Bonn",
+            "ru": "Улицы Бонна"
+        },
+        "level": "B2",
+        "image": "BonnStreets.jpg",
+        "file": "BonnStreets.mp3",
+        "words": "BonnStreets.json",
+        "multi": "BonnStreets.json"
+    }, {
+        "name": {
+            "de": "Bonn entdecken (Teil II)",
+            "en": "Discovering Bonn (part II)",
+            "ru": "Знакомство с Бонном (часть II)"
+        },
+        "description": {
+            "de": "Straßen von Bonn",
+            "en": "Streets of Bonn",
+            "ru": "Улицы Бонна"
+        },
+        "level": "B2",
+        "image": "BonnEntdeckenI.jpg",
+        "file": "BonnEntdeckenI.mp3",
+        "words": "BonnEntdeckenI.json",
+        "multi": "BonnEntdeckenI.json"
+    }
+]
