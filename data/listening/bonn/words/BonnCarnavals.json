@@ -1,0 +1,108 @@
+[
+    {
+        "de": "der Karneval",
+        "en": "carnival",
+        "ru": "карнавал",
+        "descriptionEN": "a festival held in some countries, especially in Roman Catholic regions on Shrove Tuesday, typically involving processions, music, dancing, and the use of masquerade.",
+        "descriptionRU": "праздник, проводимый в некоторых странах, особенно в римско-католических регионах в Великий Вторник, обычно включающий процессии, музыку, танцы и использование маскарада.",
+        "descriptionDE": "ein Fest, das in einigen Ländern, insbesondere in römisch-katholischen Regionen am Faschingsdienstag, typischerweise mit Prozessionen, Musik, Tanz und dem Gebrauch von Maskerade, stattfindet."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs.",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "das Fest",
+        "en": "celebration",
+        "ru": "праздник",
+        "descriptionEN": "an event or activity that is performed to commemorate, exhibit, or celebrate a specific occasion or tradition.",
+        "descriptionRU": "событие или мероприятие, проводимое для того чтобы отметить, продемонстрировать или отпраздновать определенное событие или традицию.",
+        "descriptionDE": "eine Veranstaltung oder Aktivität, die durchgeführt wird, um eine bestimmte Gelegenheit oder Tradition zu gedenken, zu zeigen oder zu feiern."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings.",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий.",
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden."
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "a planned public or social occasion.",
+        "descriptionRU": "запланированное общественное или социальное мероприятие.",
+        "descriptionDE": "eine geplante öffentliche oder gesellschaftliche Gelegenheit."
+    }, {
+        "de": "der Aspekt",
+        "en": "aspect",
+        "ru": "аспект",
+        "descriptionEN": "a particular part or feature of something.",
+        "descriptionRU": "особая часть или характеристика чего-либо.",
+        "descriptionDE": "ein bestimmter Teil oder eine Eigenschaft von etwas."
+    }, {
+        "de": "die Plattform",
+        "en": "platform",
+        "ru": "платформа",
+        "descriptionEN": "a raised level surface on which people or things can stand.",
+        "descriptionRU": "поднятая поверхность, на которой могут стоять люди или вещи.",
+        "descriptionDE": "eine erhöhte ebene Fläche, auf der Menschen oder Dinge stehen können."
+    }, {
+        "de": "der Stadtteil",
+        "en": "district",
+        "ru": "район",
+        "descriptionEN": "an area of a town or city that has a particular character or is used for a particular purpose.",
+        "descriptionRU": "часть города, которая имеет особый характер или используется для особой цели.",
+        "descriptionDE": "ein Bereich einer Stadt, der einen bestimmten Charakter hat oder für einen bestimmten Zweck verwendet wird."
+    }, {
+        "de": "feiern",
+        "en": "celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
+        "descriptionRU": "признавать (значимый или счастливый день или событие) общественным собранием или приятным мероприятием.",
+        "descriptionDE": "(einen bedeutsamen oder glücklichen Tag oder ein Ereignis) mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen."
+    }, {
+        "de": "tanzen",
+        "en": "dance",
+        "ru": "танцевать",
+        "descriptionEN": "move rhythmically to music, typically following a set sequence of steps.",
+        "descriptionRU": "двигаться ритмично под музыку, обычно следуя установленной последовательности шагов.",
+        "descriptionDE": "sich rhythmisch zur Musik bewegen, typischerweise einer festgelegten Abfolge von Schritten folgend."
+    }, {
+        "de": "lebhaft",
+        "en": "lively",
+        "ru": "живой",
+        "descriptionEN": "full of life and energy; active and outgoing.",
+        "descriptionRU": "полный жизни и энергии; активный и общительный.",
+        "descriptionDE": "voll Leben und Energie; aktiv und extrovertiert."
+    }, {
+        "de": "farbenfroh",
+        "en": "colorful",
+        "ru": "красочный",
+        "descriptionEN": "having much or varied color; bright and striking.",
+        "descriptionRU": "имеющий много или разнообразный цвет; яркий и выразительный.",
+        "descriptionDE": "viel oder vielfarbig; hell und auffallend."
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "existing in or as part of a tradition; long-established.",
+        "descriptionRU": "существующий в рамках традиции; давно установленный.",
+        "descriptionDE": "vorhanden in oder als Teil einer Tradition; altbewährt."
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group.",
+        "descriptionRU": "понравившийся, восхищенный или пользовавшийся популярностью у многих людей или у конкретного человека или группы.",
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen."
+    }, {
+        "de": "authentisch",
+        "en": "authentic",
+        "ru": "аутентичный",
+        "descriptionEN": "of undisputed origin and not a copy; genuine.",
+        "descriptionRU": "безусловного происхождения и не копия; подлинный.",
+        "descriptionDE": "unbestrittener Herkunft und keine Kopie; echt."
+    }
+]

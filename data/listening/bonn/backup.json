@@ -22,14 +22,14 @@
             "ru": "Знакомство с Бонном (часть II)"
         },
         "description": {
-            "de": "Straßen von Bonn",
-            "en": "Streets of Bonn",
-            "ru": "Улицы Бонна"
+            "de": "Berühmte Karnevale",
+            "en": "Famous carnavals",
+            "ru": "Знаменитые карнавалы"
         },
         "level": "B2",
-        "image": "BonnEntdeckenI.jpg",
-        "file": "BonnEntdeckenI.mp3",
-        "words": "BonnEntdeckenI.json",
-        "multi": "BonnEntdeckenI.json"
+        "image": "BonnCarnavals.jpg",
+        "file": "BonnCarnavals.mp3",
+        "words": "BonnCarnavals.json",
+        "multi": "BonnCarnavals.json"
     }
 ]
