@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Juliana ist 16 Jahre alt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Bonn liegt an der Mosel.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Herr Müller ist Gärtner von Beruf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max spielt gerne Tennis.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Juliana spielt Geige.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Familie von Juliana wohnt weit weg von Bonn.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julianas Mutter ist Lehrerin.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Bonn ist berühmt für seine grünen Parks.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Max interessiert sich nicht für Geschichte.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Großeltern von Juliana leben in Bonn.",
+        "tr": false,
+        "fle": true
+    }
+]
