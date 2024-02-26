@@ -471,5 +471,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BonnCarnavals.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BonnCarnavals.jpg"
+    }, {
+        "title": {
+            "de": "Lebensmitteleinkauf in Bonn",
+            "en": "Grocery Shopping in Bonn",
+            "ru": "Продуктовые магазины в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Lebensmitteleinkauf.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Lebensmitteleinkauf.jpg"
     }
 ]

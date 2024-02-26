@@ -1,0 +1,180 @@
+[
+    {
+        "name": "Welche Supermärkte werden in Bonn erwähnt?",
+        "answers": [
+
+            {
+                "text": "Kaufland, Netto, Norma, Real",
+                "correct": false
+            }, {
+                "text": "Spar, Metro, Globus, Famila",
+                "correct": false
+            }, {
+                "text": "Tegut, Kaiser's, HIT, Plus",
+                "correct": false
+            }, {
+                "text": "Rewe, Aldi, Lidl, Edeka und Penny Markt",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche besonderen Merkmale haben Bauernmärkte?",
+        "answers": [
+
+            {
+                "text": "Industrieprodukte, geringe Auswahl, hohe Preise",
+                "correct": false
+            }, {
+                "text": "Langweilig, wenig Auswahl, teuer",
+                "correct": false
+            }, {
+                "text": "Stände voller frischer Produkte, farbenfrohes Obst und Gemüse, direkter Kontakt mit den Bauern",
+                "correct": true
+            }, {
+                "text": "Keine frischen Produkte, keine persönliche Interaktion, hohe Preise",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Spezialitätengeschäfte werden in Bonn erwähnt?",
+        "answers": [
+
+            {
+                "text": "Metzgerei Meier, Bäckerei Müller",
+                "correct": false
+            }, {
+                "text": "Bioladen Bohn, Asia Supermarkt",
+                "correct": true
+            }, {
+                "text": "Buchhandlung Schmidt, Blumenladen Wagner",
+                "correct": false
+            }, {
+                "text": "Fischgeschäft Fischer, Weinhandel Müller",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie kann man Lebensmittel online kaufen?",
+        "answers": [
+            {
+                "text": "Auf die Website oder in die App des Lieblingssupermarkts gehen und sich die gewünschten Produkte aussuchen",
+                "correct": true
+            }, {
+                "text": "Per Telefon bestellen und abholen",
+                "correct": false
+            }, {
+                "text": "Eine E-Mail an den Supermarkt schreiben",
+                "correct": false
+            }, {
+                "text": "Mit einem Online-Dienst auf der Website oder in der App des Lieblingssupermarkts einkaufen und sich die Lebensmittel nach Hause liefern lassen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Kaufhäuser werden in Bonn erwähnt?",
+        "answers": [
+            {
+                "text": "Galeria Kaufhof und Karstadt",
+                "correct": true
+            }, {
+                "text": "C&A und H&M",
+                "correct": false
+            }, {
+                "text": "Zara und Primark",
+                "correct": false
+            }, {
+                "text": "TK Maxx und Esprit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird als praktische Möglichkeit erwähnt, wenn man nicht rausgehen möchte?",
+        "answers": [
+
+            {
+                "text": "Den Nachbarn um Lebensmittel bitten",
+                "correct": false
+            }, {
+                "text": "Mit dem Fahrrad zum Supermarkt fahren",
+                "correct": false
+            }, {
+                "text": "Online einkaufen und sich die Lebensmittel nach Hause liefern lassen",
+                "correct": true
+            }, {
+                "text": "Selbst Gemüse anbauen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Markt wird als lebendig und spaßig beschrieben?",
+        "answers": [
+
+            {
+                "text": "Der Markt am Stadtpark",
+                "correct": false
+            }, {
+                "text": "Der Markt am Bahnhof",
+                "correct": false
+            }, {
+                "text": "Der Markt am Flughafen",
+                "correct": false
+            }, {
+                "text": "Der Markt am Frankenbad",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Produkte findet man in den Supermärkten?",
+        "answers": [
+            {
+                "text": "Alles von Obst und Gemüse über Brot und Fleisch bis hin zu Snacks",
+                "correct": true
+            }, {
+                "text": "Nur Elektronikartikel",
+                "correct": false
+            }, {
+                "text": "Nur Kleidung",
+                "correct": false
+            }, {
+                "text": "Nur Bücher und Zeitschriften",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird als besondere Eigenschaft der Spezialitätengeschäfte beschrieben?",
+        "answers": [
+
+            {
+                "text": "Sie sind immer überfüllt und unorganisiert",
+                "correct": false
+            }, {
+                "text": "Sie sind wie versteckte Juwelen, in denen man allerlei Einzigartiges finden kann",
+                "correct": true
+            }, {
+                "text": "Sie haben nur normale Supermarktprodukte",
+                "correct": false
+            }, {
+                "text": "Sie haben begrenzte Auswahl und hohe Preise",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Geschäfte dienen als Retter in der Not, wenn es schnell gehen muss?",
+        "answers": [
+
+            {
+                "text": "Die Spezialitätengeschäfte",
+                "correct": false
+            }, {
+                "text": "Die Bauernmärkte",
+                "correct": false
+            }, {
+                "text": "Die Supermärkte",
+                "correct": true
+            }, {
+                "text": "Die Kaufhäuser",
+                "correct": false
+            }
+        ]
+    }
+]

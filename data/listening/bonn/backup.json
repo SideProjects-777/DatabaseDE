@@ -33,6 +33,22 @@
         "multi": "BonnCarnavals.json"
     }, {
         "name": {
+            "de": "Bonn entdecken (Teil III)",
+            "en": "Discovering Bonn (part III)",
+            "ru": "Знакомство с Бонном (часть III)"
+        },
+        "description": {
+            "de": "Lebensmitteleinkauf in Bonn",
+            "en": "Grocery Shopping in Bonn",
+            "ru": "Продуктовые магазины в Бонне"
+        },
+        "level": "B1",
+        "image": "Lebensmitteleinkauf.jpg",
+        "file": "Lebensmitteleinkauf.mp3",
+        "words": "Lebensmitteleinkauf.json",
+        "multi": "Lebensmitteleinkauf.json"
+    }, {
+        "name": {
             "de": "Meine Familie und Ich",
             "en": "My Family and I",
             "ru": "Моя семья и я"
