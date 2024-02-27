@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Kommissar Müller wurde zu einem Fall von gestohlenem Goldschmuck in Berlin, Deutschland, gerufen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Besitzerin des gestohlenen Goldschmucks war Frau Schmidt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der gestohlene Goldschmuck hatte einen Wert von Hunderten von Euro.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Müller fand Anzeichen für ein gewaltsames Eindringen in Frau Schmidts Wohnung.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Dieb, der Frau Schmidts Wohnung betrat, trug eine Baseballkappe und eine Sonnenbrille.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Gesicht des Diebes war klar auf den Überwachungsaufnahmen zu erkennen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Müller suchte die örtlichen Tierheime auf, um nach dem gestohlenen Schmuck zu suchen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Ein örtlicher Goldankäufer gab Müller den Namen und die Adresse des Diebes.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der gestohlene Schmuck wurde in einem Kühlschrank gefunden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Dieb wurde letztendlich nicht gefasst.",
+        "tr": false,
+        "fle": true
+    }
+]

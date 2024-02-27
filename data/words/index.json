@@ -479,5 +479,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Lebensmitteleinkauf.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Lebensmitteleinkauf.jpg"
+    }, {
+        "title": {
+            "de": "Das gestohlene Gold",
+            "en": "The Stolen Gold",
+            "ru": "Украденное золото"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Gold.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Gold.jpg"
     }
 ]

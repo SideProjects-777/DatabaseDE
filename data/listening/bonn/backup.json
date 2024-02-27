@@ -63,5 +63,21 @@
         "file": "LebenBonn.mp3",
         "words": "LebenBonn.json",
         "yesNo": "LebenBonn.json"
+    }, {
+        "name": {
+            "de": "Müllers Bonner Fall",
+            "en": "Muller's Bonn case",
+            "ru": "Боннское дело Мюллера"
+        },
+        "description":  {
+            "de": "Das gestohlene Gold",
+            "en": "The Stolen Gold",
+            "ru": "Украденное золото"
+        },
+        "level": "A2",
+        "image": "Gold.jpg",
+        "file": "Gold.mp3",
+        "words": "Gold.json",
+        "yesNo": "Gold.json"
     }
 ]
