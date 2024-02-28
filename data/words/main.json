@@ -47,5 +47,13 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/image.jpg"
+    }, {
+        "title": {
+            "de": "Medizin",
+            "en": "Medicine",
+            "ru": "Медицина"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/medicine/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/medicine/image.jpg"
     }
 ]

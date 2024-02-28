@@ -1,0 +1,136 @@
+[
+    {
+        "de": "die Krankheit",
+        "en": "Illness",
+        "ru": "Болезнь",
+        "descriptionEN": "a disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location and is not simply a direct result of physical injury.",
+        "descriptionRU": "нарушение структуры или функции у человека, животного или растения, особенно такое, которое вызывает определенные симптомы или влияет на определенное место и не является просто прямым результатом физического повреждения.",
+        "descriptionDE": "eine Störung der Struktur oder Funktion bei einem Menschen, Tier oder Pflanze, insbesondere eine, die spezifische Symptome hervorruft oder die ein bestimmtes Gebiet betrifft und nicht einfach eine direkte Folge einer körperlichen Verletzung ist."
+    }, {
+        "de": "das Medikament",
+        "en": "Medication",
+        "ru": "Медикамент",
+        "descriptionEN": "a substance used for medical treatment, especially a medicine or drug.",
+        "descriptionRU": "вещество, используемое для медицинского лечения, особенно лекарство или препарат.",
+        "descriptionDE": "eine Substanz, die zur medizinischen Behandlung verwendet wird, insbesondere ein Arzneimittel oder Medikament."
+    }, {
+        "de": "der Arzt",
+        "en": "Doctor",
+        "ru": "Доктор",
+        "descriptionEN": "a qualified practitioner of medicine; a physician.",
+        "descriptionRU": "квалифицированный практик медицины; врач.",
+        "descriptionDE": "ein qualifizierter Praktiker der Medizin; ein Arzt."
+    }, {
+        "de": "das Labor",
+        "en": "Laboratory",
+        "ru": "Лаборатория",
+        "descriptionEN": "a room or building equipped for scientific experiments, research, or teaching, or for the manufacture of drugs or chemicals.",
+        "descriptionRU": "помещение или здание, оборудованное для научных экспериментов, исследований или обучения, или для производства лекарств или химикатов.",
+        "descriptionDE": "ein Raum oder Gebäude, das für wissenschaftliche Experimente, Forschung oder Lehre oder für die Herstellung von Arzneimitteln oder Chemikalien ausgestattet ist."
+    }, {
+        "de": "die Behandlung",
+        "en": "Treatment",
+        "ru": "Лечение",
+        "descriptionEN": "medical care given to a patient for an illness or injury.",
+        "descriptionRU": "медицинская помощь, оказываемая пациенту при болезни или травме.",
+        "descriptionDE": "medizinische Versorgung, die einem Patienten bei einer Krankheit oder Verletzung zuteil wird."
+    }, {
+        "de": "die Gesundheit",
+        "en": "Health",
+        "ru": "Здоровье",
+        "descriptionEN": "the state of being free from illness or injury.",
+        "descriptionRU": "состояние свободы от болезни или травмы.",
+        "descriptionDE": "der Zustand, frei von Krankheit oder Verletzung zu sein."
+    }, {
+        "de": "die Impfung",
+        "en": "Vaccination",
+        "ru": "Вакцинация",
+        "descriptionEN": "the administration of a vaccine to stimulate the immune system and protect against a particular disease.",
+        "descriptionRU": "введение вакцины для стимуляции иммунной системы и защиты от определенного заболевания.",
+        "descriptionDE": "die Verabreichung eines Impfstoffs zur Anregung des Immunsystems und zum Schutz vor einer bestimmten Krankheit."
+    }, {
+        "de": "die Symptom",
+        "en": "Symptom",
+        "ru": "Симптом",
+        "descriptionEN": "a physical or mental feature that is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient.",
+        "descriptionRU": "физическая или психическая черта, которая считается указывающей на состояние болезни, особенно такая черта, которая является очевидной для пациента.",
+        "descriptionDE": "ein physisches oder mentales Merkmal, das als Anzeichen für einen Krankheitszustand gilt, insbesondere ein Merkmal, das für den Patienten offensichtlich ist."
+    }, {
+        "de": "die Therapie",
+        "en": "Therapy",
+        "ru": "Терапия",
+        "descriptionEN": "treatment intended to relieve or heal a disorder.",
+        "descriptionRU": "лечение, направленное на облегчение или излечение нарушения.",
+        "descriptionDE": "Behandlung, die darauf abzielt, eine Störung zu lindern oder zu heilen."
+    }, {
+        "de": "der Patient",
+        "en": "Patient",
+        "ru": "Пациент",
+        "descriptionEN": "a person receiving or registered to receive medical treatment.",
+        "descriptionRU": "человек, получающий или зарегистрированный для получения медицинского лечения.",
+        "descriptionDE": "eine Person, die medizinische Behandlung erhält oder registriert ist, um medizinische Behandlung zu erhalten."
+    }, {
+        "de": "die Pflege",
+        "en": "Care",
+        "ru": "Уход",
+        "descriptionEN": "the provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.",
+        "descriptionRU": "предоставление того, что необходимо для здоровья, благополучия, поддержания и защиты кого-то или чего-то.",
+        "descriptionDE": "die Bereitstellung dessen, was für die Gesundheit, das Wohlergehen, die Erhaltung und den Schutz von jemandem oder etwas notwendig ist."
+    }, {
+        "de": "der Eingriff",
+        "en": "Procedure",
+        "ru": "Процедура",
+        "descriptionEN": "an established or official way of doing something.",
+        "descriptionRU": "установленный или официальный способ сделать что-то.",
+        "descriptionDE": "eine etablierte oder offizielle Art und Weise, etwas zu tun."
+    }, {
+        "de": "heilen",
+        "en": "To Heal",
+        "ru": "Вылечить",
+        "descriptionEN": "cause (a wound, injury, or person) to become sound or healthy again.",
+        "descriptionRU": "заставить (рану, травму или человека) снова стать здоровым.",
+        "descriptionDE": "verursachen, dass eine Wunde, Verletzung oder Person wieder gesund oder gesund wird."
+    }, {
+        "de": "behandeln",
+        "en": "To Treat",
+        "ru": "Лечить",
+        "descriptionEN": "give medical care or attention to; try to heal or cure.",
+        "descriptionRU": "оказывать медицинскую помощь или внимание; пытаться излечить или вылечить.",
+        "descriptionDE": "medizinische Versorgung oder Aufmerksamkeit geben; versuchen zu heilen oder zu heilen."
+    }, {
+        "de": "diagnostizieren",
+        "en": "To Diagnose",
+        "ru": "Диагностировать",
+        "descriptionEN": "identify the nature of (an illness or other problem) by examination of the symptoms.",
+        "descriptionRU": "определить характер (болезни или другой проблемы) путем исследования симптомов.",
+        "descriptionDE": "die Natur einer Krankheit oder eines anderen Problems durch Untersuchung der Symptome identifizieren."
+    }, {
+        "de": "verhindern",
+        "en": "To Prevent",
+        "ru": "Предотвращать",
+        "descriptionEN": "keep (something) from happening or arising.",
+        "descriptionRU": "не допускать (что-то) или возникновение.",
+        "descriptionDE": "verhindern, dass etwas passiert oder entsteht."
+    }, {
+        "de": "wirksam",
+        "en": "Effective",
+        "ru": "Эффективный",
+        "descriptionEN": "successful in producing a desired or intended result.",
+        "descriptionRU": "успешный в достижении желаемого или предполагаемого результата.",
+        "descriptionDE": "erfolgreich bei der Erzielung eines gewünschten oder beabsichtigten Ergebnisses."
+    }, {
+        "de": "schnell",
+        "en": "Fast",
+        "ru": "Быстро",
+        "descriptionEN": "moving or able to move quickly.",
+        "descriptionRU": "движущийся или способный двигаться быстро.",
+        "descriptionDE": "schnell oder in der Lage, sich schnell zu bewegen."
+    }, {
+        "de": "effizient",
+        "en": "Efficient",
+        "ru": "Эффективный",
+        "descriptionEN": "achieving maximum productivity with minimum wasted effort or expense.",
+        "descriptionRU": "достижение максимальной производительности при минимальных затратах усилий или расходов.",
+        "descriptionDE": "Erreichen maximaler Produktivität bei minimalen verschwendeten Anstrengungen oder Ausgaben."
+    }
+]
