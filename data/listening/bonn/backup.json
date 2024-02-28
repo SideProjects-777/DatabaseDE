@@ -69,7 +69,7 @@
             "en": "Muller's Bonn case",
             "ru": "Боннское дело Мюллера"
         },
-        "description":  {
+        "description": {
             "de": "Das gestohlene Gold",
             "en": "The Stolen Gold",
             "ru": "Украденное золото"
@@ -79,5 +79,21 @@
         "file": "Gold.mp3",
         "words": "Gold.json",
         "yesNo": "Gold.json"
+    }, {
+        "name": {
+            "de": "Die Zusammenarbeit beim Karneval",
+            "en": "The Carnival Collaboration",
+            "ru": "Кооперация на карнавале"
+        },
+        "description": {
+            "de": "Eine Geschichte über Freundschaft und Kreativität",
+            "en": "A Tale of Friendship and Creativity",
+            "ru": "Сказка о дружбе и творчестве"
+        },
+        "level": "B1",
+        "image": "CarnavalStory.png",
+        "file": "CarnavalStory.mp3",
+        "words": "CarnavalStory.json",
+        "multi": "CarnavalStory.json"
     }
 ]
