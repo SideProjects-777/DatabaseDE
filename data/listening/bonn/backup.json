@@ -49,22 +49,6 @@
         "multi": "Lebensmitteleinkauf.json"
     }, {
         "name": {
-            "de": "Meine Familie und Ich",
-            "en": "My Family and I",
-            "ru": "Моя семья и я"
-        },
-        "description": {
-            "de": "Leben in Bonn",
-            "en": "Life in Bonn",
-            "ru": "Жизнь в Бонне"
-        },
-        "level": "A2",
-        "image": "LebenBonn.jpg",
-        "file": "LebenBonn.mp3",
-        "words": "LebenBonn.json",
-        "yesNo": "LebenBonn.json"
-    }, {
-        "name": {
             "de": "Müllers Bonner Fall",
             "en": "Muller's Bonn case",
             "ru": "Боннское дело Мюллера"
