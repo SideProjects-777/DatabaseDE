@@ -1,0 +1,24 @@
+
+A2 => 1
+B2 => 2
+B1 => 1
+[
+    {
+        "name": {
+            "de": "Ein Tag in Köln",
+            "en": "A Day in Cologne",
+            "ru": "День в Кёльне"
+        },
+        "description": {
+            "de": "Maraike's Samstag",
+            "en": "Maraike's Saturday",
+            "ru": "Суббота Марайки"
+        },
+        "level": "A2",
+        "image": "Maraike.jpg",
+        "file": "Maraike.mp3",
+        "words": "Maraike.json",
+        "yesNo": "Maraike.json"
+    }
+
+]
