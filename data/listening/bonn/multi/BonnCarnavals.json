@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wann findet die Beueler Weiberfastnacht statt?",
+        "answers": [
+            {
+                "text": "Am Donnerstag vor Aschermittwoch.",
+                "correct": true
+            }, {
+                "text": "Am Rosenmontag.",
+                "correct": false
+            }, {
+                "text": "Am Montag nach Aschermittwoch.",
+                "correct": false
+            }, {
+                "text": "Am Faschingssonntag.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird beim Rosenmontagsumzug geschmückt?",
+        "answers": [
+            {
+                "text": "Wagen mit Blumen, Bändern und Luftballons.",
+                "correct": true
+            }, {
+                "text": "Fahrräder mit Lichtern.",
+                "correct": false
+            }, {
+                "text": "Häuser mit Girlanden.",
+                "correct": false
+            }, {
+                "text": "Straßenlaternen mit Plakaten.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann findet der Karnevalszug in Bad Godesberg statt?",
+        "answers": [
+            {
+                "text": "Im Stadtteil Bad Godesberg.",
+                "correct": true
+            }, {
+                "text": "In der Bonner Innenstadt.",
+                "correct": false
+            }, {
+                "text": "Am Rheinufer.",
+                "correct": false
+            }, {
+                "text": "Im Stadtteil Beuel.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was feiert Pützchens Markt?",
+        "answers": [
+            {
+                "text": "Das Ende der Erntezeit.",
+                "correct": true
+            }, {
+                "text": "Den Beginn des Frühlings.",
+                "correct": false
+            }, {
+                "text": "Die Geburtstag von Bonns Bürgermeister.",
+                "correct": false
+            }, {
+                "text": "Das Neujahrsfest.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann findet der Bonner Kinderkarneval statt?",
+        "answers": [
+            {
+                "text": "Am Sonntag vor Aschermittwoch.",
+                "correct": true
+            }, {
+                "text": "Am Rosenmontag.",
+                "correct": false
+            }, {
+                "text": "Am Faschingssonntag.",
+                "correct": false
+            }, {
+                "text": "Am Montag nach Aschermittwoch.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird beim Bonner Kinderkarneval gemacht?",
+        "answers": [
+            {
+                "text": "Kinder verkleiden sich und nehmen an einem Umzug teil.",
+                "correct": true
+            }, {
+                "text": "Erwachsene tanzen auf der Straße.",
+                "correct": false
+            }, {
+                "text": "Es werden Wettkämpfe im Kostümwettbewerb veranstaltet.",
+                "correct": false
+            }, {
+                "text": "Es werden traditionelle Lieder gesungen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird beim Bonner Karneval gefeiert?",
+        "answers": [
+            {
+                "text": "Die lebendige Kultur und der Gemeinschaftssinn der Stadt.",
+                "correct": true
+            }, {
+                "text": "Die reiche Geschichte und die schöne Architektur.",
+                "correct": false
+            }, {
+                "text": "Das Ende des Zweiten Weltkriegs.",
+                "correct": false
+            }, {
+                "text": "Die Gründung der Stadt Bonn.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Karneval wird als Frauenkarneval bezeichnet?",
+        "answers": [
+            {
+                "text": "Beueler Weiberfastnacht.",
+                "correct": true
+            }, {
+                "text": "Rosenmontagsumzug.",
+                "correct": false
+            }, {
+                "text": "Karnevalszug in Bad Godesberg.",
+                "correct": false
+            }, {
+                "text": "Pützchens Markt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird beim Rosenmontagsumzug als Höhepunkt der Bonner Karnevalssaison bezeichnet?",
+        "answers": [
+            {
+                "text": "Der Rosenmontagsumzug.",
+                "correct": true
+            }, {
+                "text": "Beueler Weiberfastnacht.",
+                "correct": false
+            }, {
+                "text": "Karnevalszug in Bad Godesberg.",
+                "correct": false
+            }, {
+                "text": "Pützchens Markt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Pützchens Markt?",
+        "answers": [
+            {
+                "text": "Ein Volksfest.",
+                "correct": true
+            }, {
+                "text": "Ein Flohmarkt.",
+                "correct": false
+            }, {
+                "text": "Ein Jahrmarkt für Kunsthandwerk.",
+                "correct": false
+            }, {
+                "text": "Ein historischer Markt.",
+                "correct": false
+            }
+        ]
+    }
+]

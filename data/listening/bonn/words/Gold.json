@@ -1,0 +1,136 @@
+[
+    {
+        "de": "der Fall",
+        "en": "case",
+        "ru": "дело",
+        "descriptionEN": "instance of a particular situation; a specific incident or occurrence.",
+        "descriptionRU": "случай определенной ситуации; конкретное событие или происшествие.",
+        "descriptionDE": "Instanz einer bestimmten Situation; ein spezifisches Ereignis oder Vorkommnis."
+    }, {
+        "de": "die Besitzerin",
+        "en": "owner",
+        "ru": "владелец",
+        "descriptionEN": "a person who owns something.",
+        "descriptionRU": "человек, владеющий чем-либо.",
+        "descriptionDE": "Eine Person, die etwas besitzt."
+    }, {
+        "de": "die Wohnung",
+        "en": "apartment",
+        "ru": "квартира",
+        "descriptionEN": "a set of rooms for living in, typically on one floor of a large building.",
+        "descriptionRU": "набор комнат для проживания, обычно на одном этаже большого здания.",
+        "descriptionDE": "Eine Reihe von Räumen zum Wohnen, normalerweise auf einer Etage eines großen Gebäudes."
+    }, {
+        "de": "der Diebstahl",
+        "en": "theft",
+        "ru": "кража",
+        "descriptionEN": "the action or crime of stealing.",
+        "descriptionRU": "действие или преступление похищения.",
+        "descriptionDE": "Die Handlung oder das Verbrechen des Diebstahls."
+    }, {
+        "de": "der Schmuck",
+        "en": "jewelry",
+        "ru": "ювелирные изделия",
+        "descriptionEN": "personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal.",
+        "descriptionRU": "личные украшения, такие как ожерелья, кольца или браслеты, обычно изготовленные из драгоценных камней и металлов или содержащие их.",
+        "descriptionDE": "Persönliche Schmuckstücke, wie Halsketten, Ringe oder Armbänder, die typischerweise aus oder Edelsteinen und Edelmetallen hergestellt sind."
+    }, {
+        "de": "die Nachbarschaft",
+        "en": "neighborhood",
+        "ru": "окрестности",
+        "descriptionEN": "a district, especially one forming a community within a town or city.",
+        "descriptionRU": "район, особенно образующий сообщество в городе.",
+        "descriptionDE": "Ein Bezirk, besonders einer, der innerhalb einer Stadtgemeinde liegt."
+    }, {
+        "de": "der Mann",
+        "en": "man",
+        "ru": "мужчина",
+        "descriptionEN": "an adult human male.",
+        "descriptionRU": "взрослый мужчина.",
+        "descriptionDE": "Ein erwachsener menschlicher Mann."
+    }, {
+        "de": "der Tresor",
+        "en": "safe",
+        "ru": "сейф",
+        "descriptionEN": "a secure lockable box used for securing valuable objects against theft or damage.",
+        "descriptionRU": "безопасный запираемый ящик, используемый для защиты ценных предметов от кражи или повреждений.",
+        "descriptionDE": "Eine sichere verschließbare Box, die zur Sicherung wertvoller Gegenstände gegen Diebstahl oder Beschädigung verwendet wird."
+    }, {
+        "de": "der Dieb",
+        "en": "thief",
+        "ru": "вор",
+        "descriptionEN": "a person who steals another person's property.",
+        "descriptionRU": "человек, который крадет чужое имущество.",
+        "descriptionDE": "Eine Person, die das Eigentum einer anderen Person stiehlt."
+    }, {
+        "de": "entdecken",
+        "en": "discover",
+        "ru": "обнаружить",
+        "descriptionEN": "find unexpectedly or during a search.",
+        "descriptionRU": "найти неожиданно или во время поиска.",
+        "descriptionDE": "Unerwartet finden oder während einer Suche."
+    }, {
+        "de": "befragen",
+        "en": "question",
+        "ru": "опросить",
+        "descriptionEN": "ask questions of (someone), especially in an official context.",
+        "descriptionRU": "задавать вопросы (кому-то), особенно в официальном контексте.",
+        "descriptionDE": "Fragen (jemanden), besonders in einem offiziellen Kontext."
+    }, {
+        "de": "überprüfen",
+        "en": "check",
+        "ru": "проверить",
+        "descriptionEN": "examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something.",
+        "descriptionRU": "изучить (что-то), чтобы определить его точность, качество или состояние, или обнаружить наличие чего-то.",
+        "descriptionDE": "Untersuchen (etwas), um seine Genauigkeit, Qualität oder Zustand zu bestimmen oder das Vorhandensein von etwas zu erkennen."
+    }, {
+        "de": "verhaften",
+        "en": "arrest",
+        "ru": "арестовать",
+        "descriptionEN": "seize (someone) by legal authority and take them into custody.",
+        "descriptionRU": "задержать (кого-то) по законному поручению и взять под стражу.",
+        "descriptionDE": "Jemanden mit rechtlicher Autorität ergreifen und in Gewahrsam nehmen."
+    }, {
+        "de": "gründlich",
+        "en": "thorough",
+        "ru": "тщательный",
+        "descriptionEN": "complete with regard to every detail; not superficial or partial.",
+        "descriptionRU": "полный в отношении каждой детали; не поверхностный или частичный.",
+        "descriptionDE": "Vollständig in Bezug auf jedes Detail; nicht oberflächlich oder partiell."
+    }, {
+        "de": "örtlich",
+        "en": "local",
+        "ru": "местный",
+        "descriptionEN": "belonging or relating to a particular area or neighborhood, typically exclusively so.",
+        "descriptionRU": "принадлежащий или относящийся к определенной местности или району, обычно исключительно так.",
+        "descriptionDE": "Gehörend oder in Bezug auf eine bestimmte Gegend oder Nachbarschaft, typischerweise ausschließlich so."
+    }, {
+        "de": "groß",
+        "en": "large",
+        "ru": "большой",
+        "descriptionEN": "of considerable or relatively great size, extent, or capacity.",
+        "descriptionRU": "значительного или относительно большого размера, объема или вместимости.",
+        "descriptionDE": "Von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität."
+    }, {
+        "de": "viel",
+        "en": "much",
+        "ru": "много",
+        "descriptionEN": "a large amount or to a large extent.",
+        "descriptionRU": "большое количество или в значительной степени.",
+        "descriptionDE": "Eine große Menge oder in großem Maße."
+    }, {
+        "de": "kurz",
+        "en": "short",
+        "ru": "короткий",
+        "descriptionEN": "measuring a small distance from end to end.",
+        "descriptionRU": "измерение небольшого расстояния от конца до конца.",
+        "descriptionDE": "Misst eine kurze Entfernung von Ende zu Ende."
+    }, {
+        "de": "versteckt",
+        "en": "hidden",
+        "ru": "скрытый",
+        "descriptionEN": "kept out of sight; concealed.",
+        "descriptionRU": "держался в стороне; скрытый.",
+        "descriptionDE": "Außer Sichtweite gehalten; verborgen."
+    }
+]
