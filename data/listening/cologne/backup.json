@@ -1,7 +1,6 @@
-
 A2 => 1
-B2 => 2
-B1 => 1
+B2 => 1
+B1 => 1 
 [
     {
         "name": {
@@ -19,6 +18,21 @@ B1 => 1
         "file": "Maraike.mp3",
         "words": "Maraike.json",
         "yesNo": "Maraike.json"
+    }, {
+        "name": {
+            "de": "Kölner Messe",
+            "en": "Cologne Fair",
+            "ru": "Кельнская Ярмарка"
+        },
+        "description": {
+            "de": "Ein Globales Zentrum für Wirtschaft",
+            "en": "A Global Hub for Business",
+            "ru": "Глобальный Центр Бизнеса"
+        },
+        "level": "B2",
+        "image": "Koelnmesse.jpg",
+        "file": "Koelnmesse.mp3",
+        "words": "Koelnmesse.json",
+        "multi": "Koelnmesse.json"
     }
-
 ]

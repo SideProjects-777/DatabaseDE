@@ -1,22 +1,6 @@
 [
     {
         "name": {
-            "de": "Morgenerlebnisse von Felix",
-            "en": "Morning Explorations of Felix",
-            "ru": "Утренние приключения Феликса"
-        },
-        "description": {
-            "en": "An Interview with Citizens",
-            "de": "Ein Interview mit Bürgern",
-            "ru": "Интервью с горожанами"
-        },
-        "level": "B1",
-        "image": "MorgenerlebnisseI.jpg",
-        "file": "MorgenerlebnisseI.mp3",
-        "words": "MorgenerlebnisseI.json",
-        "yesNo": "MorgenerlebnisseI.json"
-    }, {
-        "name": {
             "de": "Einkaufsabenteuer",
             "en": "Shopping Adventure",
             "ru": "Приключение в магазине"
@@ -47,6 +31,22 @@
         "file": "Meeting_Cologne.mp3",
         "words": "Meeting_Cologne.json",
         "multi": "Meeting_Cologne.json"
+    }, {
+        "name": {
+            "de": "Morgenerlebnisse von Felix",
+            "en": "Morning Explorations of Felix",
+            "ru": "Утренние приключения Феликса"
+        },
+        "description": {
+            "en": "An Interview with Citizens",
+            "de": "Ein Interview mit Bürgern",
+            "ru": "Интервью с горожанами"
+        },
+        "level": "B1",
+        "image": "MorgenerlebnisseI.jpg",
+        "file": "MorgenerlebnisseI.mp3",
+        "words": "MorgenerlebnisseI.json",
+        "yesNo": "MorgenerlebnisseI.json"
     }, {
         "name": {
             "de": "Schokoladenparadies",
