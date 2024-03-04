@@ -15,21 +15,5 @@
         "file": "BonnStreets.mp3",
         "words": "BonnStreets.json",
         "multi": "BonnStreets.json"
-    }, {
-        "name": {
-            "de": "Bonn entdecken (Teil II)",
-            "en": "Discovering Bonn (part II)",
-            "ru": "Знакомство с Бонном (часть II)"
-        },
-        "description": {
-            "de": "Berühmte Karnevale",
-            "en": "Famous carnavals",
-            "ru": "Знаменитые карнавалы"
-        },
-        "level": "B2",
-        "image": "BonnCarnavals.jpg",
-        "file": "BonnCarnavals.mp3",
-        "words": "BonnCarnavals.json",
-        "multi": "BonnCarnavals.json"
     }
 ]
