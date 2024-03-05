@@ -1,6 +1,166 @@
 [
     {
         "name": {
+            "de": "Fahrradtour",
+            "en": "Bike tour",
+            "ru": "Велосипедный тур"
+        },
+        "description": {
+            "de": "Picknick am See mit der Besten Freundin",
+            "en": "The Müller Family's Vacation Journey",
+            "ru": "Picnic at the lake with best friend"
+        },
+        "level": "A2",
+        "image": "Fahrradtour.jpg",
+        "file": "Fahrradtour.mp3",
+        "words": "Fahrradtour.json",
+        "multi": "Fahrradtour.json"
+    }, {
+        "name": {
+            "de": "Die Geheimnisse der verlorenen Tasche",
+            "en": "The Mysteries of the Lost Purse",
+            "ru": "Тайны потерянной сумки"
+        },
+        "description": {
+            "de": "Markus' Ermittlung in der Oper",
+            "en": "Markus' Investigation at the Opera",
+            "ru": "Расследование Маркуса в оперном театре"
+        },
+        "level": "A2",
+        "image": "Geheimnisse.jpg",
+        "file": "Geheimnisse.mp3",
+        "words": "Geheimnisse.json",
+        "multi": "Geheimnisse.json"
+    }, {
+        "name": {
+            "de": "Am Flughafen",
+            "en": "At the airport",
+            "ru": "В аэропорту"
+        },
+        "description": {
+            "de": "Die Müller'sche Urlaubsreise",
+            "en": "The Müller Family's Vacation Journey",
+            "ru": "Отпуск семьи Мюллер"
+        },
+        "level": "A2",
+        "image": "Am_Flughafen.jpg",
+        "file": "Am_Flughafen.mp3",
+        "words": "Am_Flughafen.json",
+        "multi": "Am_Flughafen.json"
+    }, {
+        "name": {
+            "de": "Meine Familie und Ich",
+            "en": "My Family and I",
+            "ru": "Моя семья и я"
+        },
+        "description": {
+            "de": "Leben in Bonn",
+            "en": "Life in Bonn",
+            "ru": "Жизнь в Бонне"
+        },
+        "level": "A2",
+        "image": "LebenBonn.jpg",
+        "file": "LebenBonn.mp3",
+        "words": "LebenBonn.json",
+        "yesNo": "LebenBonn.json"
+    }, {
+        "name": {
+            "de": "Müllers Bonner Fall",
+            "en": "Muller's Bonn case",
+            "ru": "Боннское дело Мюллера"
+        },
+        "description": {
+            "de": "Das gestohlene Gold",
+            "en": "The Stolen Gold",
+            "ru": "Украденное золото"
+        },
+        "level": "A2",
+        "image": "Gold.jpg",
+        "file": "Gold.mp3",
+        "words": "Gold.json",
+        "yesNo": "Gold.json"
+    }, {
+        "name": {
+            "de": "Julias Neue Welt",
+            "en": "Julia's New Horizons",
+            "ru": "Новые горизонты Юлии"
+        },
+        "description": {
+            "de": "Von Stuttgart nach Bonn mit Minka der Katze",
+            "en": "From Stuttgart to Bonn with Minka the Cat",
+            "ru": "Из Штутгарта в Бонн с котом Минка"
+        },
+        "level": "B1",
+        "image": "NeuStadt.jpg",
+        "file": "NeuStadt.mp3",
+        "words": "NeuStadt.json",
+        "yesNo": "NeuStadt.json"
+    }, {
+        "name": {
+            "de": "Das erste Mal in Bonn",
+            "en": "First Time in Bonn",
+            "ru": "Первый раз в Бонне"
+        },
+        "description": {
+            "de": "Eine kleine Stadt mit einem großen Herzen",
+            "en": "A Small City with a Big Heart",
+            "ru": "Маленький город с большим сердцем"
+        },
+        "level": "B1",
+        "image": "ErsteMal.jpg",
+        "file": "ErsteMal.mp3",
+        "words": "ErsteMal.json",
+        "multi": "ErsteMal.json"
+    }, {
+        "name": {
+            "de": "Mein erstes Weihnachten",
+            "en": "My First Christmas",
+            "ru": "Моё первое Рождество"
+        },
+        "description": {
+            "de": "Ein Wintermärchen in der Fremde",
+            "en": "A Winter Wonderland Away from Home",
+            "ru": "Зимняя сказка вдали от дома"
+        },
+        "level": "B1",
+        "image": "MeinWeihnachten.jpg",
+        "file": "MeinWeihnachten.mp3",
+        "words": "MeinWeihnachten.json",
+        "yesNo": "MeinWeihnachten.json"
+    }, {
+        "name": {
+            "de": "Bonn entdecken (Teil III)",
+            "en": "Discovering Bonn (part III)",
+            "ru": "Знакомство с Бонном (часть III)"
+        },
+        "description": {
+            "de": "Lebensmitteleinkauf in Bonn",
+            "en": "Grocery Shopping in Bonn",
+            "ru": "Продуктовые магазины в Бонне"
+        },
+        "level": "B1",
+        "image": "Lebensmitteleinkauf.jpg",
+        "file": "Lebensmitteleinkauf.mp3",
+        "words": "Lebensmitteleinkauf.json",
+        "multi": "Lebensmitteleinkauf.json"
+    }, {
+        "name": {
+            "de": "Die Zusammenarbeit beim Karneval",
+            "en": "The Carnival Collaboration",
+            "ru": "Кооперация на карнавале"
+        },
+        "description": {
+            "de": "Eine Geschichte über Freundschaft und Kreativität",
+            "en": "A Tale of Friendship and Creativity",
+            "ru": "Сказка о дружбе и творчестве"
+        },
+        "level": "B1",
+        "image": "CarnavalStory.png",
+        "file": "CarnavalStory.mp3",
+        "words": "CarnavalStory.json",
+        "multi": "CarnavalStory.json"
+    }, {
+        "name": {
             "de": "Beethoven-Haus I",
             "en": "Beethoven House I",
             "ru": "Дом Бетховена I"
@@ -49,99 +209,35 @@
         "yesNo": "Hofgarten.json"
     }, {
         "name": {
-            "de": "Julias Neue Welt",
-            "en": "Julia's New Horizons",
-            "ru": "Новые горизонты Юлии"
+            "de": "Bonn entdecken (Teil I)",
+            "en": "Discovering Bonn (part I)",
+            "ru": "Знакомство с Бонном (часть I)"
         },
         "description": {
-            "de": "Von Stuttgart nach Bonn mit Minka der Katze",
-            "en": "From Stuttgart to Bonn with Minka the Cat",
-            "ru": "Из Штутгарта в Бонн с котом Минка"
+            "de": "Straßen von Bonn",
+            "en": "Streets of Bonn",
+            "ru": "Улицы Бонна"
         },
-        "level": "B1",
-        "image": "NeuStadt.jpg",
-        "file": "NeuStadt.mp3",
-        "words": "NeuStadt.json",
-        "yesNo": "NeuStadt.json"
+        "level": "B2",
+        "image": "BonnStreets.jpg",
+        "file": "BonnStreets.mp3",
+        "words": "BonnStreets.json",
+        "multi": "BonnStreets.json"
     }, {
         "name": {
-            "de": "Am Flughafen",
-            "en": "At the airport",
-            "ru": "В аэропорту"
+            "de": "Bonn entdecken (Teil II)",
+            "en": "Discovering Bonn (part II)",
+            "ru": "Знакомство с Бонном (часть II)"
         },
         "description": {
-            "de": "Die Müller'sche Urlaubsreise",
-            "en": "The Müller Family's Vacation Journey",
-            "ru": "Отпуск семьи Мюллер"
+            "de": "Berühmte Karnevale",
+            "en": "Famous carnavals",
+            "ru": "Знаменитые карнавалы"
         },
-        "level": "A2",
-        "image": "Am_Flughafen.jpg",
-        "file": "Am_Flughafen.mp3",
-        "words": "Am_Flughafen.json",
-        "multi": "Am_Flughafen.json"
-    }, {
-        "name": {
-            "de": "Das erste Mal in Bonn",
-            "en": "First Time in Bonn",
-            "ru": "Первый раз в Бонне"
-        },
-        "description": {
-            "de": "Eine kleine Stadt mit einem großen Herzen",
-            "en": "A Small City with a Big Heart",
-            "ru": "Маленький город с большим сердцем"
-        },
-        "level": "B1",
-        "image": "ErsteMal.jpg",
-        "file": "ErsteMal.mp3",
-        "words": "ErsteMal.json",
-        "multi": "ErsteMal.json"
-    }, {
-        "name": {
-            "de": "Fahrradtour",
-            "en": "Bike tour",
-            "ru": "Велосипедный тур"
-        },
-        "description": {
-            "de": "Picknick am See mit der Besten Freundin",
-            "en": "Picnic at the lake with best friend",
-            "ru": "Пикник на озере с лучшим другом"
-        },
-        "level": "A2",
-        "image": "Fahrradtour.jpg",
-        "file": "Fahrradtour.mp3",
-        "words": "Fahrradtour.json",
-        "multi": "Fahrradtour.json"
-    }, {
-        "name": {
-            "de": "Die Geheimnisse der verlorenen Tasche",
-            "en": "The Mysteries of the Lost Purse",
-            "ru": "Тайны потерянной сумки"
-        },
-        "description": {
-            "de": "Markus' Ermittlung in der Oper",
-            "en": "Markus' Investigation at the Opera",
-            "ru": "Расследование Маркуса в оперном театре"
-        },
-        "level": "A2",
-        "image": "Geheimnisse.jpg",
-        "file": "Geheimnisse.mp3",
-        "words": "Geheimnisse.json",
-        "multi": "Geheimnisse.json"
-    }, {
-        "name": {
-            "de": "Mein erstes Weihnachten",
-            "en": "My First Christmas",
-            "ru": "Моё первое Рождество"
-        },
-        "description": {
-            "de": "Ein Wintermärchen in der Fremde",
-            "en": "A Winter Wonderland Away from Home",
-            "ru": "Зимняя сказка вдали от дома"
-        },
-        "level": "B1",
-        "image": "MeinWeihnachten.jpg",
-        "file": "MeinWeihnachten.mp3",
-        "words": "MeinWeihnachten.json",
-        "yesNo": "MeinWeihnachten.json"
+        "level": "B2",
+        "image": "BonnCarnavals.jpg",
+        "file": "BonnCarnavals.mp3",
+        "words": "BonnCarnavals.json",
+        "multi": "BonnCarnavals.json"
     }
 ]

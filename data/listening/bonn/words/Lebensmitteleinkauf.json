@@ -1,0 +1,136 @@
+[
+    {
+        "de": "der Umzug",
+        "en": "move",
+        "ru": "переезд",
+        "descriptionEN": "the process of changing one's residence or place of business.",
+        "descriptionRU": "процесс изменения места проживания или места работы.",
+        "descriptionDE": "Der Vorgang, seinen Wohnsitz oder seinen Geschäftsort zu ändern."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town.",
+        "descriptionRU": "крупный город.",
+        "descriptionDE": "Eine große Stadt."
+    }, {
+        "de": "der Markt",
+        "en": "market",
+        "ru": "рынок",
+        "descriptionEN": "a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+        "descriptionRU": "регулярное собрание людей для покупки и продажи продовольствия, скота и других товаров.",
+        "descriptionDE": "Eine regelmäßige Versammlung von Menschen zum Kauf und Verkauf von Lebensmitteln, Vieh und anderen Waren."
+    }, {
+        "de": "das Lebensmittel",
+        "en": "food",
+        "ru": "продукт питания",
+        "descriptionEN": "any substance consumed to provide nutritional support for an organism.",
+        "descriptionRU": "любое вещество, потребляемое для обеспечения питательной поддержки организма.",
+        "descriptionDE": "Jede Substanz, die zur Ernährung eines Organismus konsumiert wird."
+    }, {
+        "de": "das Obst",
+        "en": "fruit",
+        "ru": "фрукты",
+        "descriptionEN": "the sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.",
+        "descriptionRU": "сладкий и мясистый плод дерева или другого растения, содержащий семена и подходящий для употребления в пищу.",
+        "descriptionDE": "Das süße und fleischige Produkt eines Baumes oder einer anderen Pflanze, das Samen enthält und als Nahrung gegessen werden kann."
+    }, {
+        "de": "das Gemüse",
+        "en": "vegetables",
+        "ru": "овощи",
+        "descriptionEN": "plants cultivated for their edible parts.",
+        "descriptionRU": "растения, выращиваемые из-за их съедобных частей.",
+        "descriptionDE": "Pflanzen, die wegen ihrer essbaren Teile angebaut werden."
+    }, {
+        "de": "der Bauer",
+        "en": "farmer",
+        "ru": "фермер",
+        "descriptionEN": "a person who owns or manages a farm.",
+        "descriptionRU": "человек, владеющий или управляющий фермой.",
+        "descriptionDE": "Eine Person, die einen Bauernhof besitzt oder verwaltet."
+    }, {
+        "de": "der Laden",
+        "en": "store",
+        "ru": "магазин",
+        "descriptionEN": "a retail establishment selling items to the public.",
+        "descriptionRU": "розничное учреждение, продающее товары населению.",
+        "descriptionDE": "Ein Einzelhandelsunternehmen, das Waren an die Öffentlichkeit verkauft."
+    }, {
+        "de": "das Flair",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the character or atmosphere of a place.",
+        "descriptionRU": "характер или атмосфера места.",
+        "descriptionDE": "Der Charakter oder die Atmosphäre eines Ortes."
+    }, {
+        "de": "der Trick",
+        "en": "trick",
+        "ru": "трюк",
+        "descriptionEN": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
+        "descriptionRU": "хитрый или умелый поступок или схема, предназначенная для обмана или перехитрения кого-то.",
+        "descriptionDE": "Ein listiger oder geschickter Akt oder Plan, der darauf abzielt, jemanden zu täuschen oder zu überlisten."
+    }, {
+        "de": "der Spaß",
+        "en": "fun",
+        "ru": "веселье",
+        "descriptionEN": "enjoyment, amusement, or lighthearted pleasure.",
+        "descriptionRU": "удовольствие, развлечение или беззаботное удовольствие.",
+        "descriptionDE": "Freude, Unterhaltung oder unbeschwerte Freude."
+    }, {
+        "de": "der Trick",
+        "en": "trick",
+        "ru": "трюк",
+        "descriptionEN": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
+        "descriptionRU": "хитрый или умелый поступок или схема, предназначенная для обмана или перехитрения кого-то.",
+        "descriptionDE": "Ein listiger oder geschickter Akt oder Plan, der darauf abzielt, jemanden zu täuschen oder zu überlisten."
+    }, {
+        "de": "kaufen",
+        "en": "buy",
+        "ru": "покупать",
+        "descriptionEN": "obtain in exchange for payment.",
+        "descriptionRU": "получать в обмен на плату.",
+        "descriptionDE": "Erhalten im Austausch gegen Zahlung."
+    }, {
+        "de": "ausprobieren",
+        "en": "try out",
+        "ru": "попробовать",
+        "descriptionEN": "experiment with or test the possibilities of (an idea or method).",
+        "descriptionRU": "экспериментировать или тестировать возможности (идеи или метода).",
+        "descriptionDE": "Experimentieren Sie mit oder testen Sie die Möglichkeiten (einer Idee oder Methode)."
+    }, {
+        "de": "finden",
+        "en": "find",
+        "ru": "находить",
+        "descriptionEN": "discover or perceive by chance or unexpectedly.",
+        "descriptionRU": "обнаруживать или воспринимать случайно или неожиданно.",
+        "descriptionDE": "Entdecken oder wahrnehmen durch Zufall oder unerwartet."
+    }, {
+        "de": "besuchen",
+        "en": "visit",
+        "ru": "посещать",
+        "descriptionEN": "go to see and spend time with (someone) socially.",
+        "descriptionRU": "пойти увидеться и провести время с (кем-то) социально.",
+        "descriptionDE": "Gehen Sie hin und verbringen Sie sozial Zeit mit (jemandem)."
+    }, {
+        "de": "kaufen",
+        "en": "purchase",
+        "ru": "покупать",
+        "descriptionEN": "acquire (something) by paying for it; buy.",
+        "descriptionRU": "приобретать (что-то), оплачивая за это; купить.",
+        "descriptionDE": "Erwerben Sie (etwas), indem Sie dafür bezahlen; kaufen."
+    }, {
+        "de": "ausgehen",
+        "en": "go out",
+        "ru": "выходить",
+        "descriptionEN": "leave one's home to go to a social event.",
+        "descriptionRU": "покидать свой дом, чтобы пойти на социальное мероприятие.",
+        "descriptionDE": "Verlassen Sie Ihr Zuhause, um an einem sozialen Ereignis teilzunehmen."
+    }, {
+        "de": "liefern",
+        "en": "deliver",
+        "ru": "доставлять",
+        "descriptionEN": "bring and hand over (a letter, parcel, or ordered goods) to the proper recipient or address.",
+        "descriptionRU": "принести и передать (письмо, посылку или заказанные товары) правильному получателю или по адресу.",
+        "descriptionDE": "Bringen Sie (einen Brief, ein Paket oder bestellte Waren) dem richtigen Empfänger oder der richtigen Adresse."
+    }
+]

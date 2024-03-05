@@ -1,0 +1,234 @@
+[
+    {
+        "de": "der Karneval",
+        "en": "carnival",
+        "ru": "карнавал",
+        "descriptionEN": "a festive season which occurs before Lent, typically involving a public celebration or parade combining some elements of a circus, mask, and public street party.",
+        "descriptionRU": "праздничный сезон, который происходит перед Великим постом, обычно включающий публичное празднование или парад, объединяющий некоторые элементы цирка, масок и уличных вечеринок.",
+        "descriptionDE": "eine festliche Jahreszeit, die vor der Fastenzeit stattfindet und typischerweise ein öffentliches Fest oder eine Parade umfasst, die einige Elemente eines Zirkus, einer Maske und einer öffentlichen Straßenparty kombiniert."
+    }, {
+        "de": "die Welt",
+        "en": "world",
+        "ru": "мир",
+        "descriptionEN": "the earth, together with all of its countries, peoples, and natural features.",
+        "descriptionRU": "земля вместе со всеми её странами, народами и природными особенностями.",
+        "descriptionDE": "die Erde zusammen mit all ihren Ländern, Völkern und natürlichen Merkmalen."
+    }, {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
+        "descriptionRU": "человек, которого кто-то знает и с кем у него есть связь взаимной привязанности, обычно исключающая сексуальные или семейные отношения.",
+        "descriptionDE": "eine Person, die man kennt und mit der man eine gegenseitige Zuneigung verbindet, die typischerweise sexuelle oder familiäre Beziehungen ausschließt."
+    }, {
+        "de": "der Fotograf",
+        "en": "photographer",
+        "ru": "фотограф",
+        "descriptionEN": "a person who takes photographs, either as a hobby or a profession.",
+        "descriptionRU": "человек, который фотографирует, как хобби или профессию.",
+        "descriptionDE": "eine Person, die Fotos macht, entweder als Hobby oder als Beruf."
+    }, {
+        "de": "der Webdesigner",
+        "en": "web designer",
+        "ru": "веб-дизайнер",
+        "descriptionEN": "a person who designs websites.",
+        "descriptionRU": "человек, который разрабатывает веб-сайты.",
+        "descriptionDE": "eine Person, die Websites gestaltet."
+    }, {
+        "de": "die Kneipe",
+        "en": "pub",
+        "ru": "паб",
+        "descriptionEN": "an establishment where alcoholic drinks are served, typically a small, informal establishment.",
+        "descriptionRU": "заведение, где подают алкогольные напитки, обычно небольшое, неформальное место.",
+        "descriptionDE": "eine Einrichtung, in der alkoholische Getränke serviert werden, typischerweise eine kleine, informelle Einrichtung."
+    }, {
+        "de": "die Straße",
+        "en": "street",
+        "ru": "улица",
+        "descriptionEN": "a public road in a city or town, typically with houses and buildings on one or both sides.",
+        "descriptionRU": "публичная дорога в городе или посёлке, обычно с домами и зданиями с одной или обеих сторон.",
+        "descriptionDE": "eine öffentliche Straße in einer Stadt oder einem Dorf, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten."
+    }, {
+        "de": "das Ereignis",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "a thing that happens, especially one of importance.",
+        "descriptionRU": "то, что происходит, особенно важное.",
+        "descriptionDE": "eine Sache, die passiert, besonders eine von Bedeutung."
+    }, {
+        "de": "die Farbe",
+        "en": "colour",
+        "ru": "цвет",
+        "descriptionEN": "the property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light.",
+        "descriptionRU": "свойство, присущее объекту, вызывать разные ощущения на глазу вследствие того, как он отражает или испускает свет.",
+        "descriptionDE": "die Eigenschaft, die ein Objekt besitzt, um aufgrund seiner Lichtreflexion oder -emission unterschiedliche Empfindungen im Auge hervorzurufen."
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "the transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way.",
+        "descriptionRU": "передача обычаев или верований от поколения к поколению, или факт передачи таким образом.",
+        "descriptionDE": "die Übermittlung von Bräuchen oder Überzeugungen von Generation zu Generation oder die Tatsache, dass sie auf diese Weise weitergegeben werden."
+    }, {
+        "de": "die Diskussion",
+        "en": "discussion",
+        "ru": "дискуссия",
+        "descriptionEN": "the action or process of talking about something in order to reach a decision or to exchange ideas.",
+        "descriptionRU": "действие или процесс обсуждения чего-либо с целью принятия решения или обмена идеями.",
+        "descriptionDE": "die Handlung oder der Prozess des Gesprächs über etwas, um eine Entscheidung zu treffen oder Ideen auszutauschen."
+    }, {
+        "de": "der Streit",
+        "en": "argument",
+        "ru": "аргумент",
+        "descriptionEN": "an exchange of diverging or opposite views, typically a heated or angry one.",
+        "descriptionRU": "обмен расходящимися или противоположными взглядами, обычно разгоряченный или злой.",
+        "descriptionDE": "ein Austausch abweichender oder entgegengesetzter Ansichten, typischerweise ein hitziger oder wütender."
+    }, {
+        "de": "die Zusammenarbeit",
+        "en": "collaboration",
+        "ru": "сотрудничество",
+        "descriptionEN": "the action of working with someone to produce or create something.",
+        "descriptionRU": "действие сотрудничества с кем-то для производства или создания чего-то.",
+        "descriptionDE": "die Handlung, mit jemandem zusammenzuarbeiten, um etwas zu produzieren oder zu schaffen."
+    }, {
+        "de": "die Erinnerung",
+        "en": "memory",
+        "ru": "память",
+        "descriptionEN": "the faculty by which the mind stores and remembers information.",
+        "descriptionRU": "способность разума хранить и помнить информацию.",
+        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich an sie zu erinnern."
+    }, {
+        "de": "die Feier",
+        "en": "celebration",
+        "ru": "празднование",
+        "descriptionEN": "the action of marking one's pleasure at an important event or occasion by engaging in enjoyable, typically social, activity.",
+        "descriptionRU": "действие выражения своего удовольствия по поводу важного события или случая, занимаясь приятной, обычно социальной, деятельностью.",
+        "descriptionDE": "die Handlung, die Freude über ein wichtiges Ereignis oder einen Anlass dadurch auszudrücken, dass man an angenehmen, typischerweise sozialen, Aktivitäten teilnimmt."
+    }, {
+        "de": "die Energie",
+        "en": "energy",
+        "ru": "энергия",
+        "descriptionEN": "the strength and vitality required for sustained physical or mental activity.",
+        "descriptionRU": "сила и жизненные силы, необходимые для устойчивой физической или умственной деятельности.",
+        "descriptionDE": "die Stärke und Vitalität, die für anhaltende physische oder geistige Aktivität erforderlich ist."
+    }, {
+        "de": "die Inspiration",
+        "en": "inspiration",
+        "ru": "вдохновение",
+        "descriptionEN": "the process of being mentally stimulated to do or feel something, especially to do something creative.",
+        "descriptionRU": "процесс ментального стимулирования для совершения или ощущения чего-либо, особенно для совершения чего-либо творческого.",
+        "descriptionDE": "der Prozess, mental angeregt zu werden, um etwas zu tun oder zu fühlen, insbesondere um etwas Kreatives zu tun."
+    }, {
+        "de": "die Umarmung",
+        "en": "hug",
+        "ru": "объятие",
+        "descriptionEN": "squeeze (someone) tightly in one's arms, typically to express affection.",
+        "descriptionRU": "прижать (кого-то) крепко к себе в объятиях, обычно для выражения привязанности.",
+        "descriptionDE": "jemanden fest in die Arme drücken, typischerweise um Zuneigung auszudrücken."
+    }, {
+        "de": "die Bindung",
+        "en": "bond",
+        "ru": "связь",
+        "descriptionEN": "a thing used to tie something or to fasten things together.",
+        "descriptionRU": "вещь, используемая для привязывания чего-то или соединения вещей вместе.",
+        "descriptionDE": "eine Sache, die verwendet wird, um etwas zu binden oder Dinge zusammenzufügen."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town.",
+        "descriptionRU": "крупный населённый пункт, обычно с полной инфраструктурой и правительственными учреждениями.",
+        "descriptionDE": "eine große Stadt."
+    }, {
+        "de": "die Freundschaft",
+        "en": "friendship",
+        "ru": "дружба",
+        "descriptionEN": "the emotions or conduct of friends; the state of being friends.",
+        "descriptionRU": "эмоции или поведение друзей; состояние дружбы.",
+        "descriptionDE": "die Gefühle oder das Verhalten von Freunden; der Zustand, ein Freund zu sein."
+    }, {
+        "de": "feiern",
+        "en": "celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "to observe (a day or event) with ceremonies of respect, festivity, or rejoicing.",
+        "descriptionRU": "отмечать (день или событие) с церемониями уважения, празднования или радости.",
+        "descriptionDE": "einen Tag oder ein Ereignis mit Zeremonien des Respekts, der Festlichkeit oder der Freude beobachten."
+    }, {
+        "de": "ankommen",
+        "en": "arrive",
+        "ru": "прибывать",
+        "descriptionEN": "to reach a destination.",
+        "descriptionRU": "достигать пункта назначения.",
+        "descriptionDE": "ein Ziel erreichen."
+    }, {
+        "de": "genießen",
+        "en": "enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure in.",
+        "descriptionRU": "получать удовольствие от.",
+        "descriptionDE": "Vergnügen daran haben."
+    }, {
+        "de": "diskutieren",
+        "en": "discuss",
+        "ru": "обсуждать",
+        "descriptionEN": "to talk about (something) with another person or group.",
+        "descriptionRU": "говорить о (чем-то) с другим человеком или группой.",
+        "descriptionDE": "mit einer anderen Person oder Gruppe über (etwas) sprechen."
+    }, {
+        "de": "entscheiden",
+        "en": "decide",
+        "ru": "решать",
+        "descriptionEN": "to make a choice or come to a conclusion about something.",
+        "descriptionRU": "сделать выбор или прийти к заключению о чем-то.",
+        "descriptionDE": "eine Wahl treffen oder zu einem Schluss über etwas kommen."
+    }, {
+        "de": "vereinbaren",
+        "en": "agree",
+        "ru": "соглашаться",
+        "descriptionEN": "to have the same opinion about something; concur.",
+        "descriptionRU": "иметь одинаковое мнение о чем-то; соглашаться.",
+        "descriptionDE": "die gleiche Meinung zu etwas haben; übereinstimmen."
+    }, {
+        "de": "scheinen",
+        "en": "shine",
+        "ru": "сиять",
+        "descriptionEN": "to emit light.",
+        "descriptionRU": "испускать свет.",
+        "descriptionDE": "Licht abgeben."
+    }, {
+        "de": "betrachten",
+        "en": "admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard with pleasure, wonder, and approval.",
+        "descriptionRU": "рассматривать с удовольствием, удивлением и одобрением.",
+        "descriptionDE": "mit Vergnügen, Staunen und Zustimmung betrachten."
+    }, {
+        "de": "bewundern",
+        "en": "admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard with pleasure, wonder, and approval.",
+        "descriptionRU": "рассматривать с удовольствием, удивлением и одобрением.",
+        "descriptionDE": "mit Vergnügen, Staunen und Zustimmung betrachten."
+    }, {
+        "de": "freuen",
+        "en": "rejoice",
+        "ru": "радоваться",
+        "descriptionEN": "to feel or show great joy or delight.",
+        "descriptionRU": "чувствовать или показывать большую радость или восторг.",
+        "descriptionDE": "sich freuen oder große Freude oder Begeisterung zeigen."
+    }, {
+        "de": "bewundernswert",
+        "en": "admirable",
+        "ru": "восхитительный",
+        "descriptionEN": "worthy of admiration; inspiring approval, reverence, or affection.",
+        "descriptionRU": "достойный восхищения; вдохновляющий одобрение, почтение или привязанность.",
+        "descriptionDE": "bewundernswert; inspirierendes Wohlwollen, Ehrfurcht oder Zuneigung."
+    }, {
+        "de": "sorgfältig",
+        "en": "carefully",
+        "ru": "внимательно",
+        "descriptionEN": "with attention to detail; thoroughly.",
+        "descriptionRU": "с вниманием к деталям; тщательно.",
+        "descriptionDE": "mit Augenmerk auf Details; gründlich."
+    }
+]

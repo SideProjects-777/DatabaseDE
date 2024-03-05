@@ -1,0 +1,150 @@
+[
+    {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group of one or more parents and their children living together as a unit.",
+        "descriptionRU": "группа одного или нескольких родителей и их детей, живущих вместе как единое целое.",
+        "descriptionDE": "eine Gruppe von einem oder mehreren Elternteilen und ihren Kindern, die zusammen als Einheit leben."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town.",
+        "descriptionRU": "большой город.",
+        "descriptionDE": "eine große Stadt."
+    }, {
+        "de": "die Freizeit",
+        "en": "leisure time",
+        "ru": "досуг",
+        "descriptionEN": "time that is free from work or other duties and can be spent relaxing or doing whatever one wants.",
+        "descriptionRU": "время, свободное от работы или других обязанностей, которое можно провести отдыхая или делая все, что хочется.",
+        "descriptionDE": "Zeit, die frei von Arbeit oder anderen Pflichten ist und zum Entspannen oder für beliebige Aktivitäten genutzt werden kann."
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future.",
+        "descriptionRU": "неопределенное продолжение существования и событий в прошлом, настоящем и будущем.",
+        "descriptionDE": "der unbestimmte fortlaufende Fortschritt von Existenz und Ereignissen in der Vergangenheit, Gegenwart und Zukunft."
+    }, {
+        "de": "der Ingenieur",
+        "en": "engineer",
+        "ru": "инженер",
+        "descriptionEN": "a person who designs, builds, or maintains engines, machines, or public works.",
+        "descriptionRU": "человек, занимающийся проектированием, строительством или обслуживанием двигателей, машин или общественных работ.",
+        "descriptionDE": "eine Person, die Motoren, Maschinen oder öffentliche Werke entwirft, baut oder instand hält."
+    }, {
+        "de": "die Lehrerin",
+        "en": "teacher",
+        "ru": "учительница",
+        "descriptionEN": "a person who teaches, especially in a school.",
+        "descriptionRU": "человек, который преподает, особенно в школе.",
+        "descriptionDE": "eine Person, die unterrichtet, insbesondere in einer Schule."
+    }, {
+        "de": "der Fußballfan",
+        "en": "football fan",
+        "ru": "болельщик футбола",
+        "descriptionEN": "a person who is passionate about football.",
+        "descriptionRU": "человек, который увлечен футболом.",
+        "descriptionDE": "eine Person, die leidenschaftlich gerne Fußball schaut oder darüber spricht."
+    }, {
+        "de": "der Chor",
+        "en": "choir",
+        "ru": "хор",
+        "descriptionEN": "a group of singers, especially one that takes part in church services or performs in public.",
+        "descriptionRU": "группа певцов, особенно та, которая участвует в церковных службах или выступает публично.",
+        "descriptionDE": "eine Gruppe von Sängern, insbesondere eine, die an Gottesdiensten teilnimmt oder öffentlich auftritt."
+    }, {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "a large public green area in a town, used for recreation.",
+        "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха.",
+        "descriptionDE": "ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+    }, {
+        "de": "grün",
+        "en": "green",
+        "ru": "зеленый",
+        "descriptionEN": "of the color between blue and yellow in the spectrum.",
+        "descriptionRU": "цвет между синим и желтым в спектре.",
+        "descriptionDE": "von der Farbe zwischen Blau und Gelb im Spektrum."
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "belonging to the past.",
+        "descriptionRU": "принадлежащий прошлому.",
+        "descriptionDE": "gehörend zur Vergangenheit."
+    }, {
+        "de": "wunderschön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically.",
+        "descriptionRU": "удовлетворяющий чувства или разум эстетически.",
+        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend."
+    }, {
+        "de": "lebendig",
+        "en": "vibrant",
+        "ru": "живой",
+        "descriptionEN": "full of energy and life.",
+        "descriptionRU": "полный энергии и жизни.",
+        "descriptionDE": "voller Energie und Leben."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically.",
+        "descriptionRU": "удовлетворяющий чувства или разум эстетически.",
+        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend."
+    }, {
+        "de": "wundervoll",
+        "en": "wonderful",
+        "ru": "замечательный",
+        "descriptionEN": "inspiring delight, pleasure, or admiration; extremely good; marvellous.",
+        "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; крайне хороший; чудесный.",
+        "descriptionDE": "Freude, Vergnügen oder Bewunderung inspirierend; äußerst gut; wunderbar."
+    }, {
+        "de": "gemütlich",
+        "en": "cozy",
+        "ru": "уютный",
+        "descriptionEN": "giving a feeling of comfort, warmth, and relaxation.",
+        "descriptionRU": "создающий ощущение комфорта, тепла и расслабления.",
+        "descriptionDE": "ein Gefühl von Komfort, Wärme und Entspannung vermittelnd."
+    }, {
+        "de": "kurz",
+        "en": "short",
+        "ru": "короткий",
+        "descriptionEN": "measuring a small distance from end to end.",
+        "descriptionRU": "измеряя малое расстояние от конца до конца.",
+        "descriptionDE": "ein kleiner Abstand von Ende zu Ende messend."
+    }, {
+        "de": "schwimmen",
+        "en": "to swim",
+        "ru": "плавать",
+        "descriptionEN": "to propel oneself through water using the limbs.",
+        "descriptionRU": "двигаться в воде, используя конечности.",
+        "descriptionDE": "sich mithilfe der Gliedmaßen durch Wasser fortbewegen."
+    }, {
+        "de": "lesen",
+        "en": "to read",
+        "ru": "читать",
+        "descriptionEN": "to look at and comprehend the meaning of written or printed matter by mentally interpreting the characters or symbols of which it is composed.",
+        "descriptionRU": "рассматривать и понимать значение письменного или печатного материала, путем ментального интерпретирования символов или символов, из которых он состоит.",
+        "descriptionDE": "die Bedeutung von geschriebenem oder gedrucktem Material durch mentales Interpretieren der Zeichen oder Symbole, aus denen es besteht, betrachten und verstehen."
+    }, {
+        "de": "bewundern",
+        "en": "to admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard with respect or warm approval.",
+        "descriptionRU": "относиться с уважением или теплым одобрением.",
+        "descriptionDE": "mit Respekt oder warmer Zustimmung betrachten."
+    }, {
+        "de": "verbringen",
+        "en": "to spend",
+        "ru": "проводить",
+        "descriptionEN": "to use time in a particular way or in a particular place.",
+        "descriptionRU": "использовать время таким образом или в таком месте.",
+        "descriptionDE": "Zeit auf eine bestimmte Weise oder an einem bestimmten Ort verwenden."
+    }
+]

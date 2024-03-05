@@ -129,6 +129,22 @@
         "yesNo": "Krankheit.json"
     }, {
         "name": {
+            "de": "Diamanten und Täuschung",
+            "en": "Diamonds and deception",
+            "ru": "Бриллианты и обман"
+        },
+        "description": {
+            "de": "Der letzte Fall von Frank",
+            "en": "The last case of Frank",
+            "ru": "Последнее дело Фрэнка"
+        },
+        "level": "B1",
+        "image": "Frank.jpg",
+        "file": "Frank.txt",
+        "words": "Frank.json",
+        "yesNo": "Frank.json"
+    }, {
+        "name": {
             "de": "Harmonien der Vergangenheit",
             "en": "Harmonies of the Past",
             "ru": "Гармонии прошлого"
@@ -159,22 +175,6 @@
         "file": "Wandern.txt",
         "words": "Wandern.json",
         "yesNo": "Wandern.json"
-    }, {
-        "name": {
-            "de": "Diamanten und Täuschung",
-            "en": "Diamonds and deception",
-            "ru": "Бриллианты и обман"
-        },
-        "description": {
-            "de": "Der letzte Fall von Frank",
-            "en": "The last case of Frank",
-            "ru": "Последнее дело Фрэнка"
-        },
-        "level": "B1",
-        "image": "Frank.jpg",
-        "file": "Frank.txt",
-        "words": "Frank.json",
-        "yesNo": "Frank.json"
     }, {
         "name": {
             "de": "Mein erster Rosenmontag",

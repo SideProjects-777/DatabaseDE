@@ -455,5 +455,45 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Maraike.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Maraike.jpg"
+      }
+        "title":{
+            "de": "Leben in Bonn",
+            "en": "Life in Bonn",
+            "ru": "Жизнь в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/LebenBonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/LebenBonn.jpg"
+    }, {
+        "title": {
+            "de": "Straßen von Bonn",
+            "en": "Streets of Bonn",
+            "ru": "Улицы Бонна"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BonnStreets.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BonnStreets.jpg"
+    }, {
+        "title": {
+            "de": "Berühmte Karnevale",
+            "en": "Famous carnavals",
+            "ru": "Знаменитые карнавалы"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BonnCarnavals.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BonnCarnavals.jpg"
+    }, {
+        "title": {
+            "de": "Lebensmitteleinkauf in Bonn",
+            "en": "Grocery Shopping in Bonn",
+            "ru": "Продуктовые магазины в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Lebensmitteleinkauf.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Lebensmitteleinkauf.jpg"
+    }, {
+        "title": {
+            "de": "Das gestohlene Gold",
+            "en": "The Stolen Gold",
+            "ru": "Украденное золото"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Gold.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Gold.jpg"
     }
 ]
