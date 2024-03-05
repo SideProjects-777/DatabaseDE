@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wer erhielt den Nobelpreis für Literatur im Jahr 1972?",
+        "answers": [
+            {
+                "text": "Günter Grass",
+                "correct": false
+            }, {
+                "text": "Rainer Maria Rilke",
+                "correct": false
+            }, {
+                "text": "Max Brod",
+                "correct": false
+            }, {
+                "text": "Heinrich Böll",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welcher Roman von Günter Grass wurde 1979 mit einem Oscar ausgezeichnet?",
+        "answers": [
+            {
+                "text": "Der Clown",
+                "correct": false
+            }, {
+                "text": "Billard um halb zehn",
+                "correct": false
+            }, {
+                "text": "Die Blechtrommel",
+                "correct": true
+            }, {
+                "text": "Die Duineser Elegien",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche literarische Gruppe war im 20. Jahrhundert in Köln aktiv?",
+        "answers": [
+            {
+                "text": "Kölner Demokraten",
+                "correct": false
+            }, {
+                "text": "Kölner Liberale",
+                "correct": false
+            }, {
+                "text": "Kölner Progressiven",
+                "correct": true
+            }, {
+                "text": "Kölner Regressiver",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer ist vor allem für seine Gedichtsammlung 'Die Duineser Elegien' bekannt?",
+        "answers": [
+            {
+                "text": "Heinrich Böll",
+                "correct": false
+            }, {
+                "text": "Rainer Maria Rilke",
+                "correct": true
+            }, {
+                "text": "Günter Grass",
+                "correct": false
+            }, {
+                "text": "Max Brod",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Märchen stammt von den Gebrüdern Grimm, die in Hanau bei Köln geboren wurden?",
+        "answers": [
+            {
+                "text": "Schneewittchen",
+                "correct": true
+            }, {
+                "text": "Der gestiefelte Kater",
+                "correct": false
+            }, {
+                "text": "Rapunzel",
+                "correct": false
+            }, {
+                "text": "Aschenputtel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches jährliche Event bringt Autoren und Leser aus aller Welt in Köln zusammen?",
+        "answers": [
+            {
+                "text": "Kölner Kunstmesse",
+                "correct": false
+            }, {
+                "text": "Kölner Musikfestival",
+                "correct": false
+            }, {
+                "text": "Kölner Theaterwoche",
+                "correct": false
+            }, {
+                "text": "Kölner Literaturfestival",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was sind Beispiele für Kölns reiche Geschichte in den Bereichen Musik, Theater und bildende Kunst?",
+        "answers": [
+            {
+                "text": "Straßenkunst, Open-Air-Theater und Konzerte",
+                "correct": false
+            }, {
+                "text": "Museen, Galerien und Theater",
+                "correct": true
+            }, {
+                "text": "Oper, Ballett und Musikakademie",
+                "correct": false
+            }, {
+                "text": "Karneval, Stadtfeste und Flohmärkte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein bekanntes Wahrzeichen der Stadt Köln?",
+        "answers": [
+            {
+                "text": "Der Fernsehturm",
+                "correct": false
+            }, {
+                "text": "Die Alte Brücke",
+                "correct": false
+            }, {
+                "text": "Der Dom",
+                "correct": true
+            }, {
+                "text": "Das Schokoladenmuseum",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Auszeichnung erhielt Günter Grass im Jahr 1999?",
+        "answers": [
+            {
+                "text": "Nobelpreis für Literatur",
+                "correct": true
+            }, {
+                "text": "Oscar",
+                "correct": false
+            }, {
+                "text": "Goldene Palme",
+                "correct": false
+            }, {
+                "text": "Emmy",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Schriftsteller ist bekannt für seine Werke über die Folgen des Zweiten Weltkriegs und der deutschen Teilung?",
+        "answers": [
+            {
+                "text": "Günter Grass",
+                "correct": false
+            }, {
+                "text": "Rainer Maria Rilke",
+                "correct": false
+            }, {
+                "text": "Max Brod",
+                "correct": false
+            }, {
+                "text": "Heinrich Böll",
+                "correct": true
+            }
+        ]
+    }
+]

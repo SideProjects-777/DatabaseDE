@@ -20,6 +20,22 @@ B1 => 1
         "yesNo": "Maraike.json"
     }, {
         "name": {
+            "de": "Kölns Erbe",
+            "en": "Cologne's Heritage",
+            "ru": "Наследие Кёльна"
+        },
+        "description": {
+            "de": "Ein Zentrum der Literatur und Kunst",
+            "en": "A Hub of Literature and Art",
+            "ru": "Центр литературы и искусства"
+        },
+        "level": "B2",
+        "image": "Literatur.jpg",
+        "file": "Literatur.mp3",
+        "words": "Literatur.json",
+        "multi": "Literatur.json"
+    }, {
+        "name": {
             "de": "Kölner Messe",
             "en": "Cologne Fair",
             "ru": "Кельнская Ярмарка"
