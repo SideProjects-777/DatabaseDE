@@ -1,6 +1,4 @@
 A2 => 1
-B2 => 1
-B1 => 1 
 [
     {
         "name": {
@@ -18,6 +16,22 @@ B1 => 1
         "file": "Maraike.mp3",
         "words": "Maraike.json",
         "yesNo": "Maraike.json"
+    },     {
+        "name":{
+            "en": "Farina's Cologne Legacy",
+            "de": "Farinas Kölnisches Erbe",
+            "ru": "Колониальное наследие Фарины"
+        },
+        "description":{
+            "en": "Revolutionized fragrance industry",
+            "de": "Revolutionierte Parfüm-Industrie",
+            "ru": "Революционизировал парфюмерную индустрию"
+        },
+        "level": "B1",
+        "image": "Parfum.jpg",
+        "file": "Parfum.mp3",
+        "words": "Parfum.json",
+        "yesNo": "Parfum.json"
     }, {
         "name": {
             "de": "Kölns Erbe",
