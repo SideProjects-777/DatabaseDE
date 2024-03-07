@@ -17,6 +17,22 @@
         "yesNo": "Maraike.json"
     }, {
         "name": {
+            "en": "Friendship Journey",
+            "de": "Freundschaftsreise",
+            "ru": "Путешествие дружбы"
+        },
+        "description": {
+            "en": "Friends pursue career dreams",
+            "de": "Freunde verfolgen Karriereträume",
+            "ru": "Друзья следуют за карьерными мечтами"
+        },
+        "level": "A2",
+        "image": "FriendshipWork.jpg",
+        "file": "FriendshipWork.mp3",
+        "words": "FriendshipWork.json",
+        "multi": "FriendshipWork.json"
+    }, {
+        "name": {
             "en": "Farina's Cologne Legacy",
             "de": "Farinas Kölnisches Erbe",
             "ru": "Колониальное наследие Фарины"
