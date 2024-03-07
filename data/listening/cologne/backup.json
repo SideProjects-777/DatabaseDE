@@ -1,4 +1,3 @@
-A2 => 1
 [
     {
         "name": {
@@ -16,13 +15,13 @@ A2 => 1
         "file": "Maraike.mp3",
         "words": "Maraike.json",
         "yesNo": "Maraike.json"
-    },     {
-        "name":{
+    }, {
+        "name": {
             "en": "Farina's Cologne Legacy",
             "de": "Farinas Kölnisches Erbe",
             "ru": "Колониальное наследие Фарины"
         },
-        "description":{
+        "description": {
             "en": "Revolutionized fragrance industry",
             "de": "Revolutionierte Parfüm-Industrie",
             "ru": "Революционизировал парфюмерную индустрию"
