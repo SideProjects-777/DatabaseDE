@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Paul ist ein erfahrener Reisender.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Deutsche Eck ist ein historischer Zusammenfluss von Rhein und Donau in Koblenz.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Als Paul in Koblenz ankam, regnete es.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Touristen wollten die Schönheit des Deutschen Ecks nicht sehen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul machte keine Fotos, als er am Ufer entlang schlenderte.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul stieß auf eine Statue von Kaiser Wilhelm II.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul entschied sich gegen eine Seilbahnfahrt über den Fluss.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Während der Bootstour erfuhr Paul nichts über die Geschichte von Koblenz.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul verbrachte den Tag am Deutschen Eck allein.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul war dankbar für das Abenteuer am Deutschen Eck.",
+        "tr": true,
+        "fle": false
+    }
+]

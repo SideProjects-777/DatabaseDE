@@ -1,0 +1,164 @@
+[
+    {
+        "de": "der Reisender",
+        "en": "traveler",
+        "ru": "путешественник",
+        "descriptionEN": "a person who is traveling or who often travels",
+        "descriptionRU": "человек, который путешествует или часто путешествует",
+        "descriptionDE": "Eine Person, die reist oder oft reist."
+    }, {
+        "de": "der Ort",
+        "en": "place",
+        "ru": "место",
+        "descriptionEN": "location",
+        "descriptionRU": "местонахождениe",
+        "descriptionDE": "Standorte"
+    }, {
+        "de": "das Duft",
+        "en": "scent",
+        "ru": "запах",
+        "descriptionEN": "a distinctive smell, especially one that is pleasant",
+        "descriptionRU": "особый запах, особенно приятный",
+        "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer"
+    }, {
+        "de": "die Straße",
+        "en": "street",
+        "ru": "улица",
+        "descriptionEN": "a public road in a city or town, typically with houses and buildings on one or both sides",
+        "descriptionRU": "общественная дорога в городе или поселке, обычно с домами и зданиями с одной или обеих сторон",
+        "descriptionDE": "Eine öffentliche Straße in einer Stadt oder Gemeinde, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten"
+    }, {
+        "de": "die Luft",
+        "en": "air",
+        "ru": "воздух",
+        "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen",
+        "descriptionRU": "невидимое газообразное вещество, окружающее землю, смесь в основном кислорода и азота",
+        "descriptionDE": "Die unsichtbare gasförmige Substanz, die die Erde umgibt, eine Mischung hauptsächlich aus Sauerstoff und Stickstoff"
+    }, {
+        "de": "der Anblick",
+        "en": "sight",
+        "ru": "вид",
+        "descriptionEN": "the faculty or power of seeing",
+        "descriptionRU": "способность или сила видеть",
+        "descriptionDE": "Die Fähigkeit oder Kraft zu sehen"
+    }, {
+        "de": "der Touristen",
+        "en": "tourists",
+        "ru": "туристы",
+        "descriptionEN": "people who are traveling or visiting a place for pleasure",
+        "descriptionRU": "люди, которые путешествуют или посещают место для удовольствия",
+        "descriptionDE": "Leute, die reisen oder einen Ort zum Vergnügen besuchen"
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий",
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden"
+    }, {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "a large natural stream of water flowing in a channel to the sea, a lake, or another such stream",
+        "descriptionRU": "большой естественный поток воды, текущий по каналу к морю, озеру или другому подобному потоку",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen solchen Strom fließt"
+    }, {
+        "de": "die Seilbahn",
+        "en": "cable car",
+        "ru": "канатная дорога",
+        "descriptionEN": "a transportation system for steep slopes that uses cables",
+        "descriptionRU": "транспортная система для крутых склонов, использующая канаты",
+        "descriptionDE": "Ein Transportsystem für steile Hänge, das Seile verwendet"
+    }, {
+        "de": "das Boot",
+        "en": "boat",
+        "ru": "лодка",
+        "descriptionEN": "a small vessel for traveling over water, propelled by oars, sails, or an engine",
+        "descriptionRU": "небольшое судно для перемещения по воде, приводимое в движение веслами, парусами или двигателем",
+        "descriptionDE": "Ein kleines Gefährt zum Reisen über Wasser, angetrieben von Rudern, Segeln oder einem Motor"
+    }, {
+        "de": "erkundet",
+        "en": "explored",
+        "ru": "исследованный",
+        "descriptionEN": "traveled in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it",
+        "descriptionRU": "путешествовал или проходил через (незнакомую страну или район) с целью узнать или ознакомиться с ним",
+        "descriptionDE": "Reiste durch (ein unbekanntes Land oder Gebiet), um es kennenzulernen oder sich damit vertraut zu machen"
+    }, {
+        "de": "bewunderte",
+        "en": "admired",
+        "ru": "восхищался",
+        "descriptionEN": "regard (an object, quality, or person) with respect or warm approval",
+        "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением",
+        "descriptionDE": "Betrachten (ein Objekt, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung"
+    }, {
+        "de": "genoss",
+        "en": "enjoyed",
+        "ru": "наслаждался",
+        "descriptionEN": "take delight or pleasure in (an activity or occasion)",
+        "descriptionRU": "наслаждаться (деятельностью или случаем)",
+        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben"
+    }, {
+        "de": "erlebnisreich",
+        "en": "eventful",
+        "ru": "насыщенный событиями",
+        "descriptionEN": "full of interesting or important events",
+        "descriptionRU": "полный интересных или важных событий",
+        "descriptionDE": "Voller interessanter oder wichtiger Ereignisse"
+    }, {
+        "de": "majestätisch",
+        "en": "majestic",
+        "ru": "величественный",
+        "descriptionEN": "having or showing impressive beauty or scale",
+        "descriptionRU": "имеющий или проявляющий впечатляющую красоту или масштаб",
+        "descriptionDE": "beeindruckende Schönheit oder Größe zeigend"
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "leaving a deep impression; memorable",
+        "descriptionRU": "оставляющий глубокое впечатление; запоминающийся",
+        "descriptionDE": "hinterlässt einen tiefen Eindruck; unvergesslich"
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it",
+        "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней",
+        "descriptionDE": "Durchqueren (eines unbekannten Gebiets), um es kennenzulernen"
+    }, {
+        "de": "hören",
+        "en": "hear",
+        "ru": "слышать",
+        "descriptionEN": "to perceive with the ear the sound made by (someone or something)",
+        "descriptionRU": "воспринимать ухом звук, издаваемый (кем-то или чем-то)",
+        "descriptionDE": "Mit dem Ohr den vom (jemandem oder etwas) erzeugten Klang wahrnehmen"
+    }, {
+        "de": "kommen",
+        "en": "arrive",
+        "ru": "прибывать",
+        "descriptionEN": "to reach a place at the end of a journey or a stage in a journey",
+        "descriptionRU": "достигать места в конце путешествия или на этапе путешествия",
+        "descriptionDE": "Ein Ziel am Ende einer Reise oder Etappe einer Reise erreichen"
+    }, {
+        "de": "fühlen",
+        "en": "feel",
+        "ru": "чувствовать",
+        "descriptionEN": "to perceive or become aware of (something) through physical contact",
+        "descriptionRU": "воспринимать или осознавать (что-то) через физический контакт",
+        "descriptionDE": "Durch physischen Kontakt wahrnehmen oder sich etwas bewusst werden"
+    }, {
+        "de": "beschleunigen",
+        "en": "accelerate",
+        "ru": "ускорять",
+        "descriptionEN": "to increase in rate, amount, or extent; to move faster",
+        "descriptionRU": "увеличиваться по скорости, объему или масштабу; двигаться быстрее",
+        "descriptionDE": "Ansteigen der Rate, Menge oder Ausdehnung; schneller bewegen"
+    }, {
+        "de": "entscheiden",
+        "en": "decide",
+        "ru": "решить",
+        "descriptionEN": "to reach a conclusion or make a choice or judgment",
+        "descriptionRU": "прийти к заключению или сделать выбор или суждение",
+        "descriptionDE": "Zu einem Schluss kommen oder eine Wahl oder Bewertung treffen"
+    }
+]

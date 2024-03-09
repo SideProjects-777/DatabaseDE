@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "en": "Exploring Deutsches Eck",
+            "de": "Erkundung von Deutsches Eck",
+            "ru": "Исследование Дойчес Эк"
+        },
+        "description": {
+            "en": "Curious traveler's unforgettable adventure",
+            "de": "Unvergessliches Abenteuer eines neugierigen Reisenden",
+            "ru": "Незабываемое приключение любопытного путешественника"
+        },
+        "level": "B1",
+        "image": "Deutsches_Eck_Erkunden.jpg",
+        "file": "Deutsches_Eck_Erkunden.txt",
+        "words": "Deutsches_Eck_Erkunden.json",
+        "yesNo": "Deutsches_Eck_Erkunden.json"
+    }
+]

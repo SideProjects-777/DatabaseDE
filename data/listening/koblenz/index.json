@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "de": "Koblenz erkunden",
+            "en": "Exploring Koblenz",
+            "ru": "Знакомство с Дюссельдорфом"
+        },
+        "description": {
+            "de": "Eine Reisegeschichte",
+            "en": "A Traveler's Tale",
+            "ru": "Путешественнический рассказ"
+        },
+        "level": "A2",
+        "image": "Koblenz_Erkunden.jpg",
+        "file": "Koblenz_Erkunden.txt",
+        "words": "Koblenz_Erkunden.json",
+        "yesNo": "Koblenz_Erkunden.json"
+    }
+]
