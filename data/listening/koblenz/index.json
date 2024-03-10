@@ -1,19 +1,19 @@
 [
     {
         "name": {
-            "de": "Koblenz erkunden",
-            "en": "Exploring Koblenz",
-            "ru": "Знакомство с Дюссельдорфом"
+            "en": "Castle Love Story",
+            "de": "Schloss Liebesgeschichte",
+            "ru": "История любви в замке"
         },
         "description": {
-            "de": "Eine Reisegeschichte",
-            "en": "A Traveler's Tale",
-            "ru": "Путешественнический рассказ"
+            "en": "Friendship turned everlasting love",
+            "de": "Freundschaft wurde ewige Liebe",
+            "ru": "Из дружбы в вечную любовь"
         },
         "level": "A2",
-        "image": "Koblenz_Erkunden.jpg",
-        "file": "Koblenz_Erkunden.txt",
-        "words": "Koblenz_Erkunden.json",
-        "yesNo": "Koblenz_Erkunden.json"
+        "image": "Liebesgeschichte.jpg",
+        "file": "Liebesgeschichte.txt",
+        "words": "Liebesgeschichte.json",
+        "yesNo": "Liebesgeschichte.json"
     }
 ]
