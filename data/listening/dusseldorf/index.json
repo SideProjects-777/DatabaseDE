@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Benrath Castle",
+            "de": "Schloss Benrath",
+            "ru": "Замок Бенрат"
+        },
+        "description": {
+            "en": "Baroque palace tour",
+            "de": "Barockschlossführung",
+            "ru": "Экскурсия по барочному дворцу"
+        },
+        "level": "A2",
+        "image": "Benrath.jpg",
+        "file": "Benrath.mp3",
+        "words": "Benrath.json",
+        "yesNo": "Benrath.json"
+    }, {
+        "name": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
             "ru": "Пробежка у променада"
