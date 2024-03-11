@@ -31,5 +31,21 @@
         "file": "Rheinuferpromenade.mp3",
         "words": "Rheinuferpromenade.json",
         "yesNo": "Rheinuferpromenade.json"
+    }, {
+        "name": {
+            "en": "Skyward Adventure",
+            "de": "Himmelsabenteuer",
+            "ru": "Небесное приключение"
+        },
+        "description": {
+            "en": "Photographer's aerial journey",
+            "de": "Luftige Fotoreise",
+            "ru": "Воздушное путешествие фотографа"
+        },
+        "level": "B1",
+        "image": "Himmelsabenteuer.jpg",
+        "file": "Himmelsabenteuer.mp3",
+        "words": "Himmelsabenteuer.json",
+        "multi": "Himmelsabenteuer.json"
     }
 ]
