@@ -15,5 +15,21 @@
         "file": "Dusseldorf_Erkunden.txt",
         "words": "Dusseldorf_Erkunden.json",
         "yesNo": "Dusseldorf_Erkunden.json"
+    }, {
+        "name": {
+            "en": "Castle Treasure Adventure",
+            "de": "Schloss Schatzabenteuer",
+            "ru": "Приключение в замке"
+        },
+        "description": {
+            "en": "Discovering hidden castle treasure",
+            "de": "Verborgenen Schlossschatz entdecken",
+            "ru": "Открытие сокровищ в замке"
+        },
+        "level": "B1",
+        "image": "Treasure.jpg",
+        "file": "Treasure.txt",
+        "words": "Treasure.json",
+        "multi": "Treasure.json"
     }
 ]
