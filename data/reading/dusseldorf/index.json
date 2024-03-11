@@ -31,5 +31,21 @@
         "file": "Treasure.txt",
         "words": "Treasure.json",
         "multi": "Treasure.json"
+    }, {
+        "name": {
+            "en": "Rhein Tower",
+            "de": "Rheinturm",
+            "ru": "Башня Рейна"
+        },
+        "description": {
+            "en": "Iconic landmark in Düsseldorf",
+            "de": "Ikonisches Wahrzeichen in Düsseldorf",
+            "ru": "Иконический памятник в Дюссельдорфе"
+        },
+        "level": "B2",
+        "image": "Rheinturm.jpg",
+        "file": "Rheinturm.txt",
+        "words": "Rheinturm.json",
+        "multi": "Rheinturm.json"
     }
 ]
