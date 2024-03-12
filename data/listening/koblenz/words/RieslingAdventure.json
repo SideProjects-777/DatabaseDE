@@ -1,0 +1,122 @@
+[
+    {
+        "de": "der Sommertag",
+        "en": "summer day",
+        "ru": "летний день",
+        "descriptionEN": "a day in the summer season",
+        "descriptionRU": "день в летний сезон",
+        "descriptionDE": "ein Tag in der Sommersaison"
+    }, {
+        "de": "die Biologin",
+        "en": "biologist",
+        "ru": "биолог",
+        "descriptionEN": "a scientist who studies living organisms",
+        "descriptionRU": "учёный, изучающий живые организмы",
+        "descriptionDE": "ein Wissenschaftler, der lebende Organismen studiert"
+    }, {
+        "de": "die Sozialarbeiterin",
+        "en": "social worker",
+        "ru": "социальный работник",
+        "descriptionEN": "a professional who helps individuals and families in need",
+        "descriptionRU": "профессионал, помогающий людям и семьям в нужде",
+        "descriptionDE": "ein Profi, der Einzelpersonen und Familien in Not hilft"
+    }, {
+        "de": "der Grafikdesigner",
+        "en": "graphic designer",
+        "ru": "графический дизайнер",
+        "descriptionEN": "a person who creates visual concepts using computer software or by hand",
+        "descriptionRU": "человек, создающий визуальные концепции с помощью компьютерного программного обеспечения или вручную",
+        "descriptionDE": "eine Person, die visuelle Konzepte mit Computer-Software oder von Hand erstellt"
+    }, {
+        "de": "der Weingutbesitzer",
+        "en": "winery owner",
+        "ru": "владелец винодельни",
+        "descriptionEN": "the owner of a place where wine is produced",
+        "descriptionRU": "владелец места производства вина",
+        "descriptionDE": "der Besitzer eines Ortes, an dem Wein hergestellt wird"
+    }, {
+        "de": "die Verkostung",
+        "en": "tasting",
+        "ru": "дегустация",
+        "descriptionEN": "the action of tasting something, especially wine or food",
+        "descriptionRU": "действие пробования чего-либо, особенно вина или еды",
+        "descriptionDE": "die Handlung des Probierens, insbesondere von Wein oder Essen"
+    }, {
+        "de": "der Wasserfall",
+        "en": "waterfall",
+        "ru": "водопад",
+        "descriptionEN": "a cascade of water falling from a height",
+        "descriptionRU": "каскад воды, падающий с высоты",
+        "descriptionDE": "ein Wasserfall, der von einer Höhe herabfällt"
+    }, {
+        "de": "das Essen",
+        "en": "food",
+        "ru": "еда",
+        "descriptionEN": "any nutritious substance that people or animals eat or drink",
+        "descriptionRU": "любое питательное вещество, которое люди или животные едят или пьют",
+        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken"
+    }, {
+        "de": "die Reise",
+        "en": "trip",
+        "ru": "поездка",
+        "descriptionEN": "a journey or excursion, especially for pleasure",
+        "descriptionRU": "путешествие или экскурсия, особенно для удовольствия",
+        "descriptionDE": "eine Reise oder Exkursion, insbesondere zum Vergnügen"
+    }, {
+        "de": "der Wein",
+        "en": "wine",
+        "ru": "вино",
+        "descriptionEN": "an alcoholic drink made from fermented grapes",
+        "descriptionRU": "алкогольный напиток, изготовленный из брожения винограда",
+        "descriptionDE": "ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird"
+    }, {
+        "de": "probieren",
+        "en": "to try",
+        "ru": "попробовать",
+        "descriptionEN": "to taste, sample, or experience something for the first time",
+        "descriptionRU": "попробовать, попробовать или испытать что-то впервые",
+        "descriptionDE": "etwas zum ersten Mal probieren, probieren oder erleben"
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "to travel in or through an unfamiliar area in order to learn about it",
+        "descriptionRU": "путешествовать по или через незнакомую местность, чтобы узнать о ней",
+        "descriptionDE": "durch ein unbekanntes Gebiet reisen oder es erkunden, um mehr darüber zu erfahren"
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure in something",
+        "descriptionRU": "получать удовольствие от чего-то",
+        "descriptionDE": "etwas genießen, Freude daran haben"
+    }, {
+        "de": "individuell",
+        "en": "individual",
+        "ru": "индивидуальный",
+        "descriptionEN": "relating to a single person or thing, distinct from others",
+        "descriptionRU": "относящийся к одному человеку или вещи, отличный от других",
+        "descriptionDE": "bezogen auf eine einzelne Person oder Sache, unterscheidet sich von anderen"
+    }, {
+        "de": "spannend",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "causing great enthusiasm or eagerness",
+        "descriptionRU": "вызывающий большой энтузиазм или нетерпение",
+        "descriptionDE": "große Begeisterung oder Eifer verursachend"
+    }, {
+        "de": "charmante",
+        "en": "charming",
+        "ru": "очаровательный",
+        "descriptionEN": "pleasant or attractive",
+        "descriptionRU": "приятный или привлекательный",
+        "descriptionDE": "angenehm oder attraktiv"
+    }, {
+        "de": "knackig",
+        "en": "crisp",
+        "ru": "хрустящий",
+        "descriptionEN": "firm but easily broken or crumbled",
+        "descriptionRU": "плотный, но легко разбивается или крошится",
+        "descriptionDE": "fest, aber leicht zu brechen oder zu zerbröckeln"
+    }
+]
