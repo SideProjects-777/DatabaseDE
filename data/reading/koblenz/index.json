@@ -15,8 +15,7 @@
         "file": "Deutsches_Eck_Erkunden.txt",
         "words": "Deutsches_Eck_Erkunden.json",
         "yesNo": "Deutsches_Eck_Erkunden.json"
-    },
-    {
+    }, {
         "name": {
             "en": "Museum Mystery",
             "de": "Museumsgeheimnis",
@@ -32,5 +31,21 @@
         "file": "Museumsgeheimnis.txt",
         "words": "Museumsgeheimnis.json",
         "multi": "Museumsgeheimnis.json"
+    }, {
+        "name": {
+            "en": "Riesling",
+            "de": "Riesling",
+            "ru": "Рислинг"
+        },
+        "description": {
+            "en": "Versatile grape variety",
+            "de": "Vielseitige Rebsorte",
+            "ru": "Универсальный сорт винограда"
+        },
+        "level": "B2",
+        "image": "Riesling.jpg",
+        "file": "Riesling.txt",
+        "words": "Riesling.json",
+        "yesNo": "Riesling.json"
     }
 ]
