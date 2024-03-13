@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Was war Lukas' erste Station beim Japan-Tag?",
+        "answers": [
+            {
+                "text": "Die Essensstände erkunden",
+                "correct": true
+            }, {
+                "text": "Eine Teezeremonie besuchen",
+                "correct": false
+            }, {
+                "text": "Eine Kampfsportvorführung beobachten",
+                "correct": false
+            }, {
+                "text": "Den Japanischen Garten fotografieren",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fand Lukas im Japanischen Garten vor, als er ankam?",
+        "answers": [
+            {
+                "text": "Eine traditionelle Teezeremonie",
+                "correct": false
+            }, {
+                "text": "Eine Gruppe von Menschen, die sich um eine Bühne drängte",
+                "correct": false
+            }, {
+                "text": "Eine Geisha, die ihn begrüßte",
+                "correct": false
+            }, {
+                "text": "Kirschbäume in voller Blüte und einen Teich mit Koi-Fischen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was faszinierte Lukas bei der Teezeremonie?",
+        "answers": [
+            {
+                "text": "Die geschickten Darsteller",
+                "correct": false
+            }, {
+                "text": "Die friedliche Atmosphäre und die anmutigen Bewegungen des Teemeisters",
+                "correct": true
+            }, {
+                "text": "Die traditionelle Musik",
+                "correct": false
+            }, {
+                "text": "Die Vielfalt der Teesorten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bewunderte Lukas während der Kampfsportvorführung?",
+        "answers": [
+            {
+                "text": "Die Architektur des Japanischen Gartens",
+                "correct": false
+            }, {
+                "text": "Die Disziplin und Hingabe der Darsteller",
+                "correct": true
+            }, {
+                "text": "Die Vielfalt der Kampfkunstformen",
+                "correct": false
+            }, {
+                "text": "Die Kirschblüten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machte Lukas während seines Aufenthalts im Japanischen Garten?",
+        "answers": [
+            {
+                "text": "Eine Kalligraphievorführung beobachten",
+                "correct": false
+            }, {
+                "text": "An einer traditionellen Tanzaufführung teilnehmen",
+                "correct": false
+            }, {
+                "text": "Fotos von den Kirschbäumen machen",
+                "correct": true
+            }, {
+                "text": "Sich in einem Teich abkühlen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das Besondere an Lukas' Sushi-Erfahrung?",
+        "answers": [
+            {
+                "text": "Es gab keine anderen Besucher am Stand.",
+                "correct": false
+            }, {
+                "text": "Das Sushi war anders als alles, was er bisher gekostet hatte.",
+                "correct": true
+            }, {
+                "text": "Es war kostenlos.",
+                "correct": false
+            }, {
+                "text": "Die Zutaten waren nicht frisch.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was weckte Lukas' Interesse während seines Spaziergangs?",
+        "answers": [
+            {
+                "text": "Ein japanischer Tanzwettbewerb",
+                "correct": false
+            }, {
+                "text": "Eine Vorführung traditioneller Musik",
+                "correct": false
+            }, {
+                "text": "Eine Gruppe von Menschen, die sich um eine Bühne drängten",
+                "correct": true
+            }, {
+                "text": "Eine Ausstellung von Kalligraphie",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Lukas inspiriert, nach dem Japan-Tag zu tun?",
+        "answers": [
+            {
+                "text": "Eine Reise nach Deutschland zu planen",
+                "correct": false
+            }, {
+                "text": "Die neuen Geschmacksrichtungen und Techniken, die er gelernt hatte, in seine Gerichte einzubauen.",
+                "correct": true
+            }, {
+                "text": "Eine Karriere als Teemeister anzustreben.",
+                "correct": false
+            }, {
+                "text": "Eine Geisha zu werden.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fand Lukas am Ende des Tages überraschend?",
+        "answers": [
+            {
+                "text": "Der Japan-Tag war abgesagt worden.",
+                "correct": false
+            }, {
+                "text": "Es gab kein Essen mehr.",
+                "correct": false
+            }, {
+                "text": "Er hatte kaum Zeit gehabt, alles zu erkunden.",
+                "correct": true
+            }, {
+                "text": "Er hatte seine Kamera verloren.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was veranlasste Lukas dazu, jedes Jahr wieder zum Japan-Tag zu gehen?",
+        "answers": [
+            {
+                "text": "Die Hoffnung, eine Geisha zu treffen",
+                "correct": false
+            }, {
+                "text": "Die Aussicht auf kostenloses Essen",
+                "correct": false
+            }, {
+                "text": "Das magische Erlebnis und die Inspiration, die er dort fand.",
+                "correct": true
+            }, {
+                "text": "Die Möglichkeit, traditionelle japanische Musik zu hören",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was brachte Lukas dazu, sich für den Japan-Tag zu entscheiden?",
+        "answers": [
+            {
+                "text": "Er hatte Freunde in Düsseldorf, die ihn eingeladen hatten.",
+                "correct": false
+            }, {
+                "text": "Er wollte eine Geisha treffen.",
+                "correct": false
+            }, {
+                "text": "Er war ein Liebhaber der japanischen Küche und Kultur und wollte schon lange an dieser Veranstaltung teilnehmen.",
+                "correct": true
+            }, {
+                "text": "Er wollte die Architektur der Stadt bewundern.",
+                "correct": false
+            }
+        ]
+    }
+]

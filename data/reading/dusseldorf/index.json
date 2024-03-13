@@ -47,5 +47,21 @@
         "file": "Rheinturm.txt",
         "words": "Rheinturm.json",
         "multi": "Rheinturm.json"
+    }, {
+        "name": {
+            "en": "Japan Day Experience",
+            "de": "Japanischer Tag Erlebnis",
+            "ru": "Опыт Японского Дня"
+        },
+        "description": {
+            "en": "Culinary adventure in Japan",
+            "de": "Kulinarisches Abenteuer in Japan",
+            "ru": "Кулинарное приключение в Японии"
+        },
+        "level": "B2",
+        "image": "JapanDay.jpg",
+        "file": "JapanDay.txt",
+        "words": "JapanDay.json",
+        "multi": "JapanDay.json"
     }
 ]
