@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Dreams in Dusseldorf",
+            "de": "Träume in Düsseldorf",
+            "ru": "Мечты в Дюссельдорфе"
+        },
+        "description": {
+            "en": "Actor's journey",
+            "de": "Schauspielerreise",
+            "ru": "Путь актера"
+        },
+        "level": "A2",
+        "image": "Schauspielerreise.jpg",
+        "file": "Schauspielerreise.mp3",
+        "words": "Schauspielerreise.json",
+        "yesNo": "Schauspielerreise.json"
+    }, {
+        "name": {
             "en": "Benrath Castle",
             "de": "Schloss Benrath",
             "ru": "Замок Бенрат"
