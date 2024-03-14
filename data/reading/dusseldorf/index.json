@@ -33,6 +33,22 @@
         "multi": "Treasure.json"
     }, {
         "name": {
+            "en": "Altstadt Charm",
+            "de": "Altstadt Charme",
+            "ru": "Шарм Старого Города"
+        },
+        "description": {
+            "en": "Vibrant historic hub",
+            "de": "Lebendiger historischer Hotspot",
+            "ru": "Живой исторический центр"
+        },
+        "level": "B1",
+        "image": "Altstadt.jpg",
+        "file": "Altstadt.txt",
+        "words": "Altstadt.json",
+        "multi": "Altstadt.json"
+    }, {
+        "name": {
             "en": "Rhein Tower",
             "de": "Rheinturm",
             "ru": "Башня Рейна"
