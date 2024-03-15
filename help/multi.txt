@@ -11,7 +11,7 @@ Based on it generate 10 Questions of the structure below
                 "text": "Antworte 1", -> answer to the question in german,
                 "correct":false -> boolean if this is the correct answer
             },
-            ....
+            .... minimum 4 values
         ]
     }
 

@@ -1,0 +1,136 @@
+[
+    {
+        "de": "das Parfüm",
+        "en": "perfume",
+        "ru": "духи",
+        "descriptionEN": "A fragrant liquid typically made from essential oils extracted from flowers and spices.",
+        "descriptionRU": "Ароматная жидкость, обычно изготовленная из эфирных масел, извлеченных из цветов и специй.",
+        "descriptionDE": "Eine duftende Flüssigkeit, die typischerweise aus ätherischen Ölen hergestellt wird, die aus Blumen und Gewürzen gewonnen werden."
+    }, {
+        "de": "die Entwicklung",
+        "en": "development",
+        "ru": "разработка",
+        "descriptionEN": "The process of growth or realization of potential.",
+        "descriptionRU": "Процесс роста или реализации потенциала.",
+        "descriptionDE": "Der Prozess des Wachstums oder der Verwirklichung des Potenzials."
+    }, {
+        "de": "die Grundlage",
+        "en": "foundation",
+        "ru": "основа",
+        "descriptionEN": "The basis on which something is grounded.",
+        "descriptionRU": "Основа, на которой что-то основывается.",
+        "descriptionDE": "Die Basis, auf der etwas gründet."
+    }, {
+        "de": "die Beliebtheit",
+        "en": "popularity",
+        "ru": "популярность",
+        "descriptionEN": "The state or condition of being liked, admired, or supported by many people.",
+        "descriptionRU": "Состояние или условие, когда многие люди любят, восхищаются или поддерживают что-то.",
+        "descriptionDE": "Der Zustand oder die Bedingung, gemocht, bewundert oder von vielen Menschen unterstützt zu werden."
+    }, {
+        "de": "der Duft",
+        "en": "scent",
+        "ru": "аромат",
+        "descriptionEN": "A distinctive smell, especially one that is pleasant.",
+        "descriptionRU": "Характерный запах, особенно приятный.",
+        "descriptionDE": "Ein charakteristischer Geruch, besonders angenehm."
+    }, {
+        "de": "die Fähigkeit",
+        "en": "ability",
+        "ru": "способность",
+        "descriptionEN": "The capacity to do something.",
+        "descriptionRU": "Способность что-то делать.",
+        "descriptionDE": "Die Fähigkeit, etwas zu tun."
+    }, {
+        "de": "die Herstellung",
+        "en": "production",
+        "ru": "производство",
+        "descriptionEN": "The action of making or manufacturing from components or raw materials.",
+        "descriptionRU": "Действие по изготовлению или производству из компонентов или сырья.",
+        "descriptionDE": "Die Handlung des Herstellens oder Produzierens aus Komponenten oder Rohstoffen."
+    }, {
+        "de": "das Medikament",
+        "en": "medicine",
+        "ru": "лекарство",
+        "descriptionEN": "A substance that is used in treating disease or relieving pain and that is usually in the form of a pill or a liquid.",
+        "descriptionRU": "Вещество, которое используется для лечения болезней или облегчения боли и обычно имеет форму таблетки или жидкости.",
+        "descriptionDE": "Eine Substanz, die zur Behandlung von Krankheiten oder zur Linderung von Schmerzen verwendet wird und normalerweise in Form einer Pille oder einer Flüssigkeit vorliegt."
+    }, {
+        "de": "das Haus",
+        "en": "house",
+        "ru": "дом",
+        "descriptionEN": "A building for human habitation, especially one that is lived in by a family or small group of people.",
+        "descriptionRU": "Здание для жилья людей, особенно того, в котором живет семья или небольшая группа людей.",
+        "descriptionDE": "Ein Gebäude zur menschlichen Behausung, insbesondere eines, das von einer Familie oder einer kleinen Gruppe von Menschen bewohnt wird."
+    }, {
+        "de": "die Marke",
+        "en": "brand",
+        "ru": "бренд",
+        "descriptionEN": "A type of product manufactured by a particular company under a particular name.",
+        "descriptionRU": "Тип продукта, производимого определенной компанией под определенным названием.",
+        "descriptionDE": "Eine Art Produkt, das von einem bestimmten Unternehmen unter einem bestimmten Namen hergestellt wird."
+    }, {
+        "de": "der Geruch",
+        "en": "odor",
+        "ru": "запах",
+        "descriptionEN": "A distinctive smell, especially an unpleasant one.",
+        "descriptionRU": "Характерный запах, особенно неприятный.",
+        "descriptionDE": "Ein charakteristischer Geruch, besonders ein unangenehmer."
+    }, {
+        "de": "die Legende",
+        "en": "legend",
+        "ru": "легенда",
+        "descriptionEN": "A traditional story sometimes popularly regarded as historical but not authenticated.",
+        "descriptionRU": "Традиционный рассказ, иногда популярно считаемый историческим, но не аутентифицированным.",
+        "descriptionDE": "Eine traditionelle Geschichte, die manchmal volkstümlich als historisch angesehen wird, aber nicht authentifiziert ist."
+    }, {
+        "de": "das Mittel",
+        "en": "means",
+        "ru": "средство",
+        "descriptionEN": "An action or system by which a result is brought about.",
+        "descriptionRU": "Действие или система, благодаря которой достигается результат.",
+        "descriptionDE": "Eine Handlung oder ein System, durch das ein Ergebnis herbeigeführt wird."
+    }, {
+        "de": "begründen",
+        "en": "establish",
+        "ru": "установить",
+        "descriptionEN": "To set up on a firm or permanent basis.",
+        "descriptionRU": "Установить на крепкой или постоянной основе.",
+        "descriptionDE": "Auf einer festen oder dauerhaften Basis einrichten."
+    }, {
+        "de": "ehren",
+        "en": "honor",
+        "ru": "почет",
+        "descriptionEN": "High respect; esteem.",
+        "descriptionRU": "Высокое уважение; уважение.",
+        "descriptionDE": "Hohes Ansehen; Wertschätzung."
+    }, {
+        "de": "maskieren",
+        "en": "mask",
+        "ru": "маскировать",
+        "descriptionEN": "To cover or conceal an object or person.",
+        "descriptionRU": "Покрыть или скрыть объект или человека.",
+        "descriptionDE": "Ein Objekt oder eine Person bedecken oder verbergen."
+    }, {
+        "de": "gründen",
+        "en": "found",
+        "ru": "основывать",
+        "descriptionEN": "To establish or originate.",
+        "descriptionRU": "Установить или происходить.",
+        "descriptionDE": "Etablieren oder entstehen."
+    }, {
+        "de": "erfreuen",
+        "en": "delight",
+        "ru": "радость",
+        "descriptionEN": "To give pleasure or joy to.",
+        "descriptionRU": "Принести удовольствие или радость.",
+        "descriptionDE": "Freude oder Glück bereiten."
+    }, {
+        "de": "bewundern",
+        "en": "admire",
+        "ru": "восхищаться",
+        "descriptionEN": "To regard with wonder, pleasure, or approval.",
+        "descriptionRU": "Смотреть с удивлением, удовольствием или одобрением.",
+        "descriptionDE": "Mit Staunen, Freude oder Zustimmung betrachten."
+    }
+]

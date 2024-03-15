@@ -1,0 +1,129 @@
+[
+    {
+        "de": "der Schriftsteller",
+        "en": "writer",
+        "ru": "писатель",
+        "descriptionEN": "a person who writes books, stories, or articles as a job or regular occupation",
+        "descriptionRU": "человек, который пишет книги, рассказы или статьи как работу или постоянное занятие",
+        "descriptionDE": "Eine Person, die Bücher, Geschichten oder Artikel als Beruf oder regelmäßige Beschäftigung schreibt"
+    }, {
+        "de": "das Werk",
+        "en": "work",
+        "ru": "работа",
+        "descriptionEN": "a piece or collection of creative or artistic output",
+        "descriptionRU": "произведение или коллекция творческого или художественного творчества",
+        "descriptionDE": "ein Stück oder eine Sammlung kreativer oder künstlerischer Produktion"
+    }, {
+        "de": "die Gruppe",
+        "en": "group",
+        "ru": "группа",
+        "descriptionEN": "a number of people or things that are located, gathered, or classed together",
+        "descriptionRU": "несколько людей или вещей, которые находятся, собраны или классифицированы вместе",
+        "descriptionDE": "eine Anzahl von Personen oder Dingen, die zusammengefasst, gesammelt oder klassifiziert sind"
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "the expression or application of human creative skill and imagination",
+        "descriptionRU": "выражение или применение творческого мастерства и воображения человека",
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft"
+    }, {
+        "de": "die Kreativität",
+        "en": "creativity",
+        "ru": "творчество",
+        "descriptionEN": "the use of imagination or original ideas to create something",
+        "descriptionRU": "использование воображения или оригинальных идей для создания чего-либо",
+        "descriptionDE": "die Verwendung von Vorstellungskraft oder originellen Ideen, um etwas zu schaffen"
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "known about by many people",
+        "descriptionRU": "известный многим людям",
+        "descriptionDE": "bekannt bei vielen Menschen"
+    }, {
+        "de": "lebendig",
+        "en": "vibrant",
+        "ru": "живой",
+        "descriptionEN": "full of energy and life",
+        "descriptionRU": "полный энергии и жизни",
+        "descriptionDE": "voller Energie und Leben"
+    }, {
+        "de": "blühend",
+        "en": "flourishing",
+        "ru": "процветающий",
+        "descriptionEN": "developing rapidly and successfully; thriving",
+        "descriptionRU": "быстро и успешно развивающийся; процветающий",
+        "descriptionDE": "sich schnell und erfolgreich entwickelnd; blühend"
+    }, {
+        "de": "bekannt",
+        "en": "well-known",
+        "ru": "известный",
+        "descriptionEN": "recognized by many people",
+        "descriptionRU": "признанный многими людьми",
+        "descriptionDE": "von vielen Menschen erkannt"
+    }, {
+        "de": "berührend",
+        "en": "touching",
+        "ru": "трогательный",
+        "descriptionEN": "evoking strong emotion, especially sadness or sympathy",
+        "descriptionRU": "вызывающий сильные эмоции, особенно печаль или сочувствие",
+        "descriptionDE": "starke Emotionen hervorrufend, insbesondere Traurigkeit oder Mitgefühl"
+    }, {
+        "de": "inspirierend",
+        "en": "inspiring",
+        "ru": "вдохновляющий",
+        "descriptionEN": "filling someone with the urge or ability to do or feel something",
+        "descriptionRU": "наполняющий кого-то желанием или способностью делать или чувствовать что-то",
+        "descriptionDE": "jemanden mit dem Drang oder der Fähigkeit erfüllend, etwas zu tun oder zu fühlen"
+    }, {
+        "de": "bekommen",
+        "en": "to receive",
+        "ru": "получить",
+        "descriptionEN": "to be given, presented with, or paid",
+        "descriptionRU": "получить, представиться или оплатить",
+        "descriptionDE": "gegeben, präsentiert oder bezahlt werden"
+    }, {
+        "de": "erhalten",
+        "en": "to obtain",
+        "ru": "получить",
+        "descriptionEN": "to get, acquire, or secure",
+        "descriptionRU": "получить, приобрести или обеспечить",
+        "descriptionDE": "zu bekommen, zu erwerben oder zu sichern"
+    }, {
+        "de": "bringen",
+        "en": "to bring",
+        "ru": "приносить",
+        "descriptionEN": "to carry or convey to a place; to cause someone or something to be in a particular state or condition",
+        "descriptionRU": "перенести или передать в определенное место; вызвать у кого-то или чего-то определенное состояние или условие",
+        "descriptionDE": "zu einem Ort tragen oder überführen; jemanden oder etwas in einen bestimmten Zustand oder eine bestimmte Verfassung bringen"
+    }, {
+        "de": "finden",
+        "en": "to find",
+        "ru": "найти",
+        "descriptionEN": "to discover or perceive by chance or unexpectedly",
+        "descriptionRU": "обнаружить или воспринять случайно или неожиданно",
+        "descriptionDE": "durch Zufall oder unerwartet entdecken oder wahrnehmen"
+    }, {
+        "de": "sitzen",
+        "en": "to sit",
+        "ru": "сидеть",
+        "descriptionEN": "to rest with the weight supported by one's buttocks rather than one's feet; to be located or situated in a particular place or position",
+        "descriptionRU": "отдыхать, опираясь на ягодицы, а не на ноги; находиться или находиться в определенном месте или положении",
+        "descriptionDE": "sich ausruhen, wobei das Gewicht nicht auf den Füßen, sondern auf den Gesäßmuskeln ruht; sich an einem bestimmten Ort oder in einer bestimmten Position befinden oder befinden"
+    }, {
+        "de": "zeigen",
+        "en": "to show",
+        "ru": "показать",
+        "descriptionEN": "to make something visible or noticeable",
+        "descriptionRU": "сделать что-то видимым или заметным",
+        "descriptionDE": "etwas sichtbar oder bemerkbar machen"
+    }, {
+        "de": "bleiben",
+        "en": "to stay",
+        "ru": "остаться",
+        "descriptionEN": "to remain in the same place or position; to continue to be in a particular state or condition",
+        "descriptionRU": "остаться в том же месте или положении; продолжать находиться в определенном состоянии или условии",
+        "descriptionDE": "an demselben Ort oder in derselben Position bleiben; weiterhin in einem bestimmten Zustand oder einer bestimmten Verfassung sein"
+    }
+]

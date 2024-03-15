@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was war Marys Beruf?",
+        "answers": [
+            {
+                "text": "Grafikdesigner",
+                "correct": false
+            }, {
+                "text": "Finanzanalyst",
+                "correct": false
+            }, {
+                "text": "Marketingagentur",
+                "correct": true
+            }, {
+                "text": "Werbeagentur",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stelle hat Alexander bekommen?",
+        "answers": [
+            {
+                "text": "Finanzanalyst",
+                "correct": false
+            }, {
+                "text": "Grafikdesigner",
+                "correct": true
+            }, {
+                "text": "Marketingagentur",
+                "correct": false
+            }, {
+                "text": "Werbung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Klaus' Beruf?",
+        "answers": [
+            {
+                "text": "Finanzanalyst",
+                "correct": true
+            }, {
+                "text": "Grafikdesigner",
+                "correct": false
+            }, {
+                "text": "Marketingagentur",
+                "correct": false
+            }, {
+                "text": "Werbung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie plant Klaus?",
+        "answers": [
+            {
+                "text": "Ohne Planung",
+                "correct": false
+            }, {
+                "text": "Spontan",
+                "correct": false
+            }, {
+                "text": "Alles bis ins kleinste Detail",
+                "correct": true
+            }, {
+                "text": "Hilft nicht bei der Planung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie haben sie beschlossen, zur Arbeit zu kommen?",
+        "answers": [
+            {
+                "text": "Mit dem Auto",
+                "correct": false
+            }, {
+                "text": "Zu Fuß gehen",
+                "correct": false
+            }, {
+                "text": "Mit dem Fahrrad fahren",
+                "correct": false
+            }, {
+                "text": "Gemeinsam die öffentlichen Verkehrsmittel zu benutzen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was taten sie auf dem Weg zum Bahnhof?",
+        "answers": [
+            {
+                "text": "Spielten Spiele",
+                "correct": false
+            }, {
+                "text": "Sprachen über ihre langfristigen Ziele",
+                "correct": true
+            }, {
+                "text": "Schliefen",
+                "correct": false
+            }, {
+                "text": "Lasen Zeitung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie waren ihre ersten Eindrücke von den Büros?",
+        "answers": [
+            {
+                "text": "Alt und veraltet",
+                "correct": false
+            }, {
+                "text": "Düster und unangenehm",
+                "correct": false
+            }, {
+                "text": "Überfüllt und laut",
+                "correct": false
+            }, {
+                "text": "Schön und modern",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Emotion hatten sie an ihrem ersten Arbeitstag?",
+        "answers": [
+            {
+                "text": "Trauer",
+                "correct": false
+            }, {
+                "text": "Langeweile",
+                "correct": false
+            }, {
+                "text": "Ärger",
+                "correct": false
+            }, {
+                "text": "Aufregung",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was half ihnen, bei ihren neuen Aufgaben zu bestehen?",
+        "answers": [
+            {
+                "text": "Ständige Kritik",
+                "correct": false
+            }, {
+                "text": "Isolation",
+                "correct": false
+            }, {
+                "text": "Gegenseitige Unterstützung",
+                "correct": true
+            }, {
+                "text": "Wettbewerb",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war ihr wichtigstes Gefühl gegenüber ihrer Freundschaft?",
+        "answers": [
+            {
+                "text": "Zweifel",
+                "correct": false
+            }, {
+                "text": "Unzerstörbarkeit",
+                "correct": true
+            }, {
+                "text": "Gleichgültigkeit",
+                "correct": false
+            }, {
+                "text": "Missgunst",
+                "correct": false
+            }
+        ]
+    }
+]

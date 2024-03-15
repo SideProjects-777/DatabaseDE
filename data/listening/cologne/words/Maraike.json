@@ -1,0 +1,150 @@
+[
+    {
+        "de": "die Tasse",
+        "en": "cup",
+        "ru": "чашка",
+        "descriptionEN": "a small, round container, typically cylindrical and ceramic or metal, used for drinking tea, coffee, or other hot drinks.",
+        "descriptionRU": "маленький, круглый контейнер, обычно цилиндрический и керамический или металлический, используемый для напитков, таких как чай, кофе или другие горячие напитки.",
+        "descriptionDE": "Ein kleiner, runder Behälter, typischerweise zylindrisch und aus Keramik oder Metall, der zum Trinken von Tee, Kaffee oder anderen heißen Getränken verwendet wird."
+    }, {
+        "de": "das Frühstück",
+        "en": "breakfast",
+        "ru": "завтрак",
+        "descriptionEN": "a meal eaten in the morning, the first of the day.",
+        "descriptionRU": "прием пищи утром, первый в день.",
+        "descriptionDE": "Eine Mahlzeit, die am Morgen gegessen wird, die erste des Tages."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town.",
+        "descriptionRU": "крупный город.",
+        "descriptionDE": "Eine große Stadt."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings.",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий.",
+        "descriptionDE": "Die Kunst oder Praxis des Entwurfs und der Konstruktion von Gebäuden."
+    }, {
+        "de": "der Markt",
+        "en": "market",
+        "ru": "рынок",
+        "descriptionEN": "a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+        "descriptionRU": "регулярное собрание людей для покупки и продажи продуктов, скота и других товаров.",
+        "descriptionDE": "Eine regelmäßige Versammlung von Menschen zum Kauf und Verkauf von Lebensmitteln, Vieh und anderen Waren."
+    }, {
+        "de": "das Mittagessen",
+        "en": "lunch",
+        "ru": "обед",
+        "descriptionEN": "a meal eaten in the middle of the day, typically around noon.",
+        "descriptionRU": "прием пищи в середине дня, обычно около полудня.",
+        "descriptionDE": "Eine Mahlzeit, die in der Mitte des Tages gegessen wird, normalerweise gegen Mittag."
+    }, {
+        "de": "das Glas",
+        "en": "glass",
+        "ru": "стакан",
+        "descriptionEN": "a hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients and cooling rapidly.",
+        "descriptionRU": "твердое, хрупкое вещество, обычно прозрачное или полупрозрачное, изготовленное путем плавления песка с содой, известняком и иногда другими ингредиентами и быстрого охлаждения.",
+        "descriptionDE": "Eine harte, spröde Substanz, typischerweise transparent oder transluzent, hergestellt durch Verschmelzen von Sand mit Soda, Kalk und manchmal anderen Zutaten und schnellem Abkühlen."
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
+        "descriptionRU": "неопределенное продолжительное движение существования и событий в прошлом, настоящем и будущем, рассматриваемое в целом.",
+        "descriptionDE": "Der unbestimmte, fortgesetzte Fortschritt des Daseins und der Ereignisse in der Vergangenheit, Gegenwart und Zukunft, die als Ganzes betrachtet werden."
+    }, {
+        "de": "die Sonne",
+        "en": "sun",
+        "ru": "солнце",
+        "descriptionEN": "the star around which the earth orbits.",
+        "descriptionRU": "звезда, вокруг которой вращается Земля.",
+        "descriptionDE": "Der Stern, um den die Erde kreist."
+    }, {
+        "de": "der Abend",
+        "en": "evening",
+        "ru": "вечер",
+        "descriptionEN": "the period of time at the end of the day, usually from about 6 p.m. to bedtime.",
+        "descriptionRU": "период времени в конце дня, обычно с примерно 18:00 до времени сна.",
+        "descriptionDE": "Die Zeit am Ende des Tages, normalerweise von etwa 18.00 Uhr bis zum Schlafengehen."
+    }, {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
+        "descriptionRU": "человек, которого знаешь и с кем связывает взаимное привязанность, обычно за исключением сексуальных или семейных отношений.",
+        "descriptionDE": "Eine Person, die man kennt und mit der man eine Bindung gegenseitiger Zuneigung hat, normalerweise unabhängig von sexuellen oder familiären Beziehungen."
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "a thing that happens, especially one of importance.",
+        "descriptionRU": "то, что происходит, особенно важное событие.",
+        "descriptionDE": "Etwas, das passiert, besonders etwas Wichtiges."
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "travel through (an unfamiliar area) in order to learn about it.",
+        "descriptionRU": "путешествовать по (незнакомой местности), чтобы узнать о ней.",
+        "descriptionDE": "Durchqueren (eines unbekannten Gebiets), um es kennenzulernen."
+    }, {
+        "de": "bewundern",
+        "en": "admire",
+        "ru": "восхищаться",
+        "descriptionEN": "regard (an object, quality, or person) with respect or warm approval.",
+        "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением.",
+        "descriptionDE": "Betrachte (einen Gegenstand, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung."
+    }, {
+        "de": "schlendern",
+        "en": "stroll",
+        "ru": "прогуливаться",
+        "descriptionEN": "walk in a leisurely way.",
+        "descriptionRU": "гулять медленным шагом.",
+        "descriptionDE": "Gehen Sie auf gemächliche Weise."
+    }, {
+        "de": "probieren",
+        "en": "try",
+        "ru": "пробовать",
+        "descriptionEN": "make an attempt or effort to do something.",
+        "descriptionRU": "попытаться сделать что-то.",
+        "descriptionDE": "Versuchen Sie, etwas zu tun."
+    }, {
+        "de": "genießen",
+        "en": "enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "take delight or pleasure in (an activity or occasion).",
+        "descriptionRU": "наслаждаться или получать удовольствие от (деятельности или случая).",
+        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben."
+    }, {
+        "de": "verbringen",
+        "en": "spend",
+        "ru": "проводить",
+        "descriptionEN": "pass (time) in a specified way or place.",
+        "descriptionRU": "проводить (время) определенным образом или в определенном месте.",
+        "descriptionDE": "Verbringen (Zeit) auf bestimmte Weise oder an einem bestimmten Ort."
+    }, {
+        "de": "beobachten",
+        "en": "observe",
+        "ru": "наблюдать",
+        "descriptionEN": "notice or perceive (something) and register it as being significant.",
+        "descriptionRU": "замечать или воспринимать (что-то) и регистрировать это как значимое.",
+        "descriptionDE": "Bemerken oder wahrnehmen (etwas) und es als bedeutend registrieren."
+    }, {
+        "de": "kehren",
+        "en": "return",
+        "ru": "вернуться",
+        "descriptionEN": "come or go back to a place or person.",
+        "descriptionRU": "вернуться на место или к человеку.",
+        "descriptionDE": "Kommen oder zurückkehren an einen Ort oder zu einer Person."
+    }, {
+        "de": "freuen",
+        "en": "look forward",
+        "ru": "ожидать с нетерпением",
+        "descriptionEN": "anticipate with pleasure.",
+        "descriptionRU": "предвкушать с удовольствием.",
+        "descriptionDE": "Mit Freude erwarten."
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Maraike beginnt ihren Tag mit einem Glas Orangensaft.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Kölner Dom gehört zum UNESCO-Weltkulturerbe.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Maraike interessiert sich nicht für die Architektur des Kölner Doms.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Altstadt von Köln ist ruhig und entspannt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Maraike genießt es, auf den Straßenmärkten nach lokalen Produkten zu suchen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Zum Mittagessen isst Maraike gerne Pizza und Pasta.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Kölsch ist ein lokales Bier in Köln.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Maraike verbringt ihre Nachmittage gerne in den Museen der Stadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Maraike geht nie in die Bars oder Kneipen der Stadt am Abend.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Köln hat keine blühende Kunst- und Musikszene.",
+        "tr": false,
+        "fle": true
+    }
+]

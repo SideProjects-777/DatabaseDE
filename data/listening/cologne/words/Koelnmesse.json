@@ -1,0 +1,143 @@
+[
+    {
+        "de": "die Messe",
+        "en": "fair",
+        "ru": "ярмарка",
+        "descriptionDE": "Eine Ausstellung von Waren, Dienstleistungen oder Fähigkeiten, bei der sich Menschen treffen, um etwas zu kaufen, zu verkaufen oder zu diskutieren.",
+        "descriptionEN": "an exhibition of goods, services, or skills in which people meet to buy, sell, or discuss something",
+        "descriptionRU": "выставка товаров, услуг или навыков, на которой люди встречаются, чтобы покупать, продавать или обсуждать что-то"
+    }, {
+        "de": "der Besucher",
+        "en": "visitor",
+        "ru": "посетитель",
+        "descriptionDE": "Jemand, der an einen Ort, ein Ereignis usw. geht.",
+        "descriptionEN": "someone who goes to a place, event, etc.",
+        "descriptionRU": "человек, который приходит в место, событие и т. д."
+    }, {
+        "de": "die Ausstellung",
+        "en": "exhibition",
+        "ru": "выставка",
+        "descriptionDE": "Eine Sammlung von Dingen (wie Kunstwerken, Objekten oder Dokumenten), die an einem öffentlichen Ort ausgestellt sind, damit die Leute sie betrachten können: eine Gruppe von Dingen, die auf eine bestimmte Weise angeordnet oder als Teil von etwas Größerem gezeigt werden.",
+        "descriptionEN": "a collection of things (such as works of art, objects, or documents) that are shown in a public space for people to look at : a group of things arranged in a particular way or shown as a part of something larger",
+        "descriptionRU": "коллекция вещей (таких как произведения искусства, объекты или документы), которые показаны в общественном месте для просмотра людьми: группа вещей, упорядоченных определенным образом или показанных как часть чего-то большего"
+    }, {
+        "de": "das Unternehmen",
+        "en": "company",
+        "ru": "компания",
+        "descriptionDE": "Eine Geschäftsorganisation, die Waren herstellt, kauft oder verkauft oder Dienstleistungen gegen Geld anbietet.",
+        "descriptionEN": "a business organization that makes, buys, or sells goods or provides services in exchange for money",
+        "descriptionRU": "организация, занимающаяся производством, покупкой или продажей товаров или предоставлением услуг в обмен на деньги"
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "событие",
+        "descriptionDE": "Etwas (wie ein Spiel, ein Konzert oder eine gesellschaftliche Zusammenkunft), das geplant und inszeniert oder als besonderer Anlass abgehalten wird.",
+        "descriptionEN": "something (such as a game, concert, or social gathering) that is planned and staged or held as a special occasion",
+        "descriptionRU": "что-то (такое как игра, концерт или общественное собрание), которое планируется и организуется или проводится в качестве особого случая"
+    }, {
+        "de": "der Teilnehmer",
+        "en": "participant",
+        "ru": "участник",
+        "descriptionDE": "Eine Person, die an einer bestimmten Aktivität teilnimmt oder sich daran beteiligt.",
+        "descriptionEN": "a person who takes part in or becomes involved in a particular activity",
+        "descriptionRU": "человек, который принимает участие или становится вовлеченным в определенную деятельность"
+    }, {
+        "de": "die Technologie",
+        "en": "technology",
+        "ru": "технология",
+        "descriptionDE": "Die Verwendung von Wissenschaft in Industrie, Ingenieurwesen usw., um nützliche Dinge zu erfinden oder Probleme zu lösen.",
+        "descriptionEN": "the use of science in industry, engineering, etc., to invent useful things or to solve problems",
+        "descriptionRU": "использование науки в промышленности, инженерии и т. д., чтобы изобрести полезные вещи или решить проблемы"
+    }, {
+        "de": "die Innovation",
+        "en": "innovation",
+        "ru": "инновация",
+        "descriptionDE": "Eine neue Idee, Methode oder Gerät: Neuheit.",
+        "descriptionEN": "a new idea, method, or device : novelty",
+        "descriptionRU": "новая идея, метод или устройство: новинка"
+    }, {
+        "de": "die Anlaufstelle",
+        "en": "contact point",
+        "ru": "точка контакта",
+        "descriptionDE": "Ein Ort oder eine Person, an den jemand gehen kann, um Informationen, Hilfe usw. zu erhalten.",
+        "descriptionEN": "a place or person where someone can go to get information, help, etc.",
+        "descriptionRU": "место или человек, к которому кто-то может обратиться за информацией, помощью и т. д."
+    }, {
+        "de": "die Nachhaltigkeit",
+        "en": "sustainability",
+        "ru": "устойчивость",
+        "descriptionDE": "Die Qualität, die der Umwelt nicht schadet oder natürliche Ressourcen erschöpft und damit das langfristige ökologische Gleichgewicht unterstützt.",
+        "descriptionEN": "the quality of not being harmful to the environment or depleting natural resources, and thereby supporting long-term ecological balance",
+        "descriptionRU": "качество, не вредящее окружающей среде или истощающее природные ресурсы и тем самым поддерживающее долгосрочное экологическое равновесие"
+    }, {
+        "de": "die Digitalisierung",
+        "en": "digitalization",
+        "ru": "цифровизация",
+        "descriptionDE": "Die Umwandlung von analogen Informationen in digitales Format.",
+        "descriptionEN": "the conversion of analog information into digital format",
+        "descriptionRU": "преобразование аналоговой информации в цифровой формат"
+    }, {
+        "de": "die Veränderung",
+        "en": "change",
+        "ru": "изменение",
+        "descriptionDE": "Etwas machen oder anders werden.",
+        "descriptionEN": "to make or become different",
+        "descriptionRU": "делать или становиться разным"
+    }, {
+        "de": "präsentieren",
+        "en": "to present",
+        "ru": "представлять",
+        "descriptionDE": "Etwas der Öffentlichkeit oder einer Gruppe von Menschen zeigen oder vorstellen.",
+        "descriptionEN": "to show or introduce something to the public or to a group of people",
+        "descriptionRU": "показывать или представлять что-то общественности или группе людей"
+    }, {
+        "de": "entwickeln",
+        "en": "to develop",
+        "ru": "развивать",
+        "descriptionDE": "Wachsen oder dazu bringen, reifer, fortgeschrittener oder ausgefeilter zu werden.",
+        "descriptionEN": "to grow or cause to grow and become more mature, advanced, or elaborate",
+        "descriptionRU": "расти или вызывать рост и становиться более зрелым, продвинутым или сложным"
+    }, {
+        "de": "decken",
+        "en": "to cover",
+        "ru": "покрывать",
+        "descriptionDE": "Etwas über, auf etwas oder vor etwas legen, besonders um es zu schützen, zu verbergen oder zu schließen.",
+        "descriptionEN": "to put something over, on top of, or in front of (something else) especially in order to protect, hide, or close it",
+        "descriptionRU": "положить что-то сверху, сверху или спереди (что-то еще), особенно чтобы защитить, скрыть или закрыть это"
+    }, {
+        "de": "gewinnen",
+        "en": "to win",
+        "ru": "выигрывать",
+        "descriptionDE": "Etwas (wie einen Preis) bekommen, indem man in einem Wettbewerb oder Wettbewerb siegt.",
+        "descriptionEN": "to get (something, such as a prize) by achieving victory in a competition or contest",
+        "descriptionRU": "получать (что-то, например, приз) за победу в соревновании или конкурсе"
+    }, {
+        "de": "erstrecken",
+        "en": "to extend",
+        "ru": "продлевать",
+        "descriptionDE": "Etwas bis zu einem bestimmten Punkt, Ausmaß oder Limit ausdehnen oder zeichnen.",
+        "descriptionEN": "to stretch out or draw out to a certain point, extent, or limit",
+        "descriptionRU": "растягивать или вытягивать до определенной точки, степени или предела"
+    }, {
+        "de": "ausstatten",
+        "en": "to equip",
+        "ru": "оборудовать",
+        "descriptionDE": "Jemanden oder etwas mit notwendigen Materialien oder Vorräten versorgen: Jemanden oder etwas mit dem ausstatten, was für einen bestimmten Zweck benötigt wird.",
+        "descriptionEN": "to provide (someone or something) with necessary materials or supplies : to supply (someone or something) with what is needed for a particular purpose",
+        "descriptionRU": "предоставить (кому-то или чему-то) необходимые материалы или запасы: снабдить (кого-то или что-то) тем, что необходимо для определенной цели"
+    }, {
+        "de": "anpassen",
+        "en": "to adapt",
+        "ru": "приспосабливать",
+        "descriptionDE": "Dein Verhalten ändern, damit es einfacher ist, an einem bestimmten Ort oder in einer bestimmten Situation zu leben.",
+        "descriptionEN": "to change your behavior so that it is easier to live in a particular place or situation",
+        "descriptionRU": "изменять свое поведение так, чтобы было легче жить в определенном месте или ситуации"
+    }, {
+        "de": "beherbergen",
+        "en": "to accommodate",
+        "ru": "размещать",
+        "descriptionDE": "Einen Ort zum Aufenthalt, Leben oder Arbeiten bieten.",
+        "descriptionEN": "to provide a place to stay, live, or work for",
+        "descriptionRU": "предоставить место для проживания, жизни или работы"
+    }
+]
