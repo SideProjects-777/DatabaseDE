@@ -12,8 +12,10 @@
             "ru": "Город собора"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneREAD.mp4",
         "amountOfStories": 15,
-        "active": true
+        "active": true,
+        "hasVideo":true
     }, {
         "name": {
             "de": "Bonn",
@@ -28,7 +30,8 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonn.jpg",
         "amountOfStories": 15,
-        "active": true
+        "active": true,
+        "hasVideo":false
     }, {
         "name": {
             "de": "Düsseldorf",
@@ -43,7 +46,8 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
         "amountOfStories": 5,
-        "active": true
+        "active": true,
+        "hasVideo":false
     }, {
         "name": {
             "de": "Koblenz",
@@ -58,7 +62,8 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
         "amountOfStories": 2,
-        "active": true
+        "active": true,
+        "hasVideo":false
     }, {
         "name": {
             "de": "Frankfurt",
@@ -73,7 +78,8 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/frankfurt.jpg",
         "amountOfStories": 0,
-        "active": false
+        "active": false,
+        "hasVideo":false
     }, {
         "name": {
             "de": "Dortmund",
@@ -88,6 +94,7 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
         "amountOfStories": 0,
-        "active": false
+        "active": false,
+        "hasVideo":false
     }
 ]
