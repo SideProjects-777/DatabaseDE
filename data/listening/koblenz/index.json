@@ -12,24 +12,8 @@
         },
         "level": "A2",
         "image": "Liebesgeschichte.jpg",
-        "file": "Liebesgeschichte.txt",
+        "file": "Liebesgeschichte.mp3",
         "words": "Liebesgeschichte.json",
         "yesNo": "Liebesgeschichte.json"
-    }, {
-        "name": {
-            "en": "Riesling Adventure",
-            "de": "Riesling-Abenteuer",
-            "ru": "Приключение с Рислингом"
-        },
-        "description": {
-            "en": "Exploring Koblenz with Riesling",
-            "de": "Koblenz erkunden mit Riesling",
-            "ru": "Исследование Кобленца с Рислингом"
-        },
-        "level": "B1",
-        "image": "RieslingAdventure.jpg",
-        "file": "RieslingAdventure.txt",
-        "words": "RieslingAdventure.json",
-        "multi": "RieslingAdventure.json"
     }
 ]
