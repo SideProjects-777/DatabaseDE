@@ -1,0 +1,129 @@
+[
+    {
+        "de": "das Schloss",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "a large building typically fortified and containing noble living quarters.",
+        "descriptionRU": "большое здание, обычно укрепленное и содержащее благородные жилые помещения.",
+        "descriptionDE": "ein großes Gebäude, typischerweise befestigt und mit adligen Wohnräumen versehen."
+    }, {
+        "de": "die Führung",
+        "en": "guided tour",
+        "ru": "экскурсия",
+        "descriptionEN": "an organized visit to a place or site during which someone explains the interesting facts about it.",
+        "descriptionRU": "организованный визит на место или объект, в ходе которого кто-то объясняет интересные факты о нем.",
+        "descriptionDE": "ein organisierter Besuch an einem Ort oder einer Stätte, während dem jemand interessante Fakten darüber erklärt."
+    }, {
+        "de": "der Flügel",
+        "en": "wing",
+        "ru": "крыло",
+        "descriptionEN": "a part of a building projecting from the main part.",
+        "descriptionRU": "часть здания, выступающая из основной части.",
+        "descriptionDE": "ein Teil eines Gebäudes, der sich von der Hauptpartie abhebt."
+    }, {
+        "de": "die Säle",
+        "en": "halls",
+        "ru": "залы",
+        "descriptionEN": "large room for meetings, entertainment, or other activities.",
+        "descriptionRU": "большое помещение для собраний, развлечений или других мероприятий.",
+        "descriptionDE": "großer Raum für Treffen, Unterhaltung oder andere Aktivitäten."
+    }, {
+        "de": "die Pracht",
+        "en": "splendor",
+        "ru": "великолепие",
+        "descriptionEN": "magnificent and splendid appearance; grandeur.",
+        "descriptionRU": "великолепный и величественный вид; величие.",
+        "descriptionDE": "prächtiges und herrliches Erscheinungsbild; Pracht."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs.",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings.",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий.",
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden."
+    }, {
+        "de": "der Höhepunkt",
+        "en": "highlight",
+        "ru": "высшая точка",
+        "descriptionEN": "the most exciting or interesting part of an event or period of time.",
+        "descriptionRU": "самая захватывающая или интересная часть события или периода времени.",
+        "descriptionDE": "der aufregendste oder interessanteste Teil eines Ereignisses oder Zeitraums."
+    }, {
+        "de": "der Thronsaal",
+        "en": "throne room",
+        "ru": "тронный зал",
+        "descriptionEN": "a room in a palace or castle with a throne for the monarch.",
+        "descriptionRU": "комната во дворце или замке с троном для монарха.",
+        "descriptionDE": "ein Raum in einem Palast oder Schloss mit einem Thron für den Monarchen."
+    }, {
+        "de": "die Gelegenheit",
+        "en": "opportunity",
+        "ru": "возможность",
+        "descriptionEN": "a time or set of circumstances that makes it possible to do something.",
+        "descriptionRU": "время или набор обстоятельств, позволяющих сделать что-то.",
+        "descriptionDE": "eine Zeit oder eine Reihe von Umständen, die es ermöglichen, etwas zu tun."
+    }, {
+        "de": "der Geschenkeladen",
+        "en": "gift shop",
+        "ru": "магазин сувениров",
+        "descriptionEN": "a store selling souvenirs, small gifts, and other items appropriate for giving as gifts.",
+        "descriptionRU": "магазин, продающий сувениры, небольшие подарки и другие предметы, подходящие для подарка в качестве подарка.",
+        "descriptionDE": "ein Geschäft, das Souvenirs, kleine Geschenke und andere für Geschenke geeignete Artikel verkauft."
+    }, {
+        "de": "das Picknick",
+        "en": "picnic",
+        "ru": "пикник",
+        "descriptionEN": "an occasion when a packed meal is eaten outdoors, especially during an outing to the countryside.",
+        "descriptionRU": "случай, когда упакованный обед едят на свежем воздухе, особенно во время поездки за город.",
+        "descriptionDE": "eine Gelegenheit, bei der im Freien, besonders während eines Ausflugs aufs Land, eine mitgebrachte Mahlzeit verzehrt wird."
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "travel through (an unfamiliar area) in order to learn about it.",
+        "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней.",
+        "descriptionDE": "durchqueren (ein unbekanntes Gebiet), um mehr darüber zu erfahren."
+    }, {
+        "de": "genießen",
+        "en": "enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "take pleasure in (an activity or occasion).",
+        "descriptionRU": "получать удовольствие от (деятельности или случая).",
+        "descriptionDE": "sich an (einer Aktivität oder Gelegenheit) erfreuen."
+    }, {
+        "de": "bewundern",
+        "en": "admire",
+        "ru": "восхищаться",
+        "descriptionEN": "regard (an object, quality, or person) with respect or warm approval.",
+        "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением.",
+        "descriptionDE": "(ein Objekt, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung betrachten."
+    }, {
+        "de": "perfekt",
+        "en": "perfect",
+        "ru": "идеальный",
+        "descriptionEN": "having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
+        "descriptionRU": "имеющий все необходимые или желательные элементы, качества или характеристики; насколько это возможно быть хорошим.",
+        "descriptionDE": "alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Merkmale haben; so gut wie möglich sein."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "impossible to forget; very memorable.",
+        "descriptionRU": "невозможно забыть; очень запоминающийся.",
+        "descriptionDE": "unmöglich zu vergessen; sehr einprägsam."
+    }, {
+        "de": "lehrreich",
+        "en": "instructive",
+        "ru": "поучительный",
+        "descriptionEN": "providing knowledge or information; teaching.",
+        "descriptionRU": "предоставляющий знания или информацию; обучение.",
+        "descriptionDE": "Wissen oder Informationen vermittelnd; lehrend."
+    }
+]

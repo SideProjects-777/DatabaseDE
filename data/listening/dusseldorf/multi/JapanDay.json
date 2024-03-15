@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wann wurde der Japan-Tag in Düsseldorf ins Leben gerufen?",
+        "answers": [
+            {
+                "text": "1995",
+                "correct": false
+            }, {
+                "text": "1988",
+                "correct": false
+            }, {
+                "text": "2002",
+                "correct": true
+            }, {
+                "text": "2010",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Highlight des Japan-Tages?",
+        "answers": [
+            {
+                "text": "Die farbenfrohe Parade durch die Straßen Düsseldorfs",
+                "correct": true
+            }, {
+                "text": "Die Modenschauen auf der Hauptbühne",
+                "correct": false
+            }, {
+                "text": "Die Workshops über deutsche Kultur",
+                "correct": false
+            }, {
+                "text": "Die Vorführungen traditioneller deutscher Tänze",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Anzahl von Teilnehmern nimmt an der Parade des Japan-Tages teil?",
+        "answers": [
+            {
+                "text": "Weniger als 300",
+                "correct": false
+            }, {
+                "text": "Etwa 500",
+                "correct": false
+            }, {
+                "text": "Mehr als 800",
+                "correct": true
+            }, {
+                "text": "Über 1000",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Aktivitäten finden im Kinderbereich des Japan-Tages statt?",
+        "answers": [
+            {
+                "text": "Kalligraphie und Origami",
+                "correct": false
+            }, {
+                "text": "Kampfkunst-Vorführungen",
+                "correct": false
+            }, {
+                "text": "Gesichtsbemalung, Ballonkunst und Spiele",
+                "correct": true
+            }, {
+                "text": "Traditionelle japanische Spiele",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Geschenk erhielt Düsseldorf von seiner japanischen Partnerstadt?",
+        "answers": [
+            {
+                "text": "Eine Sammlung traditioneller Kimonos",
+                "correct": false
+            }, {
+                "text": "Ein Taiko-Trommel-Ensemble",
+                "correct": false
+            }, {
+                "text": "Einen wunderschönen Japanischen Garten",
+                "correct": true
+            }, {
+                "text": "Eine Ausstellung moderner japanischer Kunst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Monat ist üblicherweise für den Japan-Tag in Düsseldorf reserviert?",
+        "answers": [
+            {
+                "text": "Dezember oder Januar",
+                "correct": false
+            }, {
+                "text": "März oder April",
+                "correct": false
+            }, {
+                "text": "Ende Mai oder Anfang Juni",
+                "correct": true
+            }, {
+                "text": "August oder September",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Besucher zieht der Japan-Tag in Düsseldorf durchschnittlich an?",
+        "answers": [
+            {
+                "text": "Mehr als 600.000",
+                "correct": true
+            }, {
+                "text": "Weniger als 100.000",
+                "correct": false
+            }, {
+                "text": "Etwa 300.000",
+                "correct": false
+            }, {
+                "text": "Über 1 Million",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was können die Besucher am Food Court des Japan-Tages genießen?",
+        "answers": [
+            {
+                "text": "Traditionelle deutsche Gerichte",
+                "correct": false
+            }, {
+                "text": "Pizza und Pasta",
+                "correct": false
+            }, {
+                "text": "Amerikanische Fast-Food-Spezialitäten",
+                "correct": false
+            }, {
+                "text": "Sushi, Okonomiyaki und Ramen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Tradition wird im Japanischen Garten des Japan-Tages gefeiert?",
+        "answers": [
+            {
+                "text": "Eine jährliche japanische Kirschblüten-Zeremonie",
+                "correct": false
+            }, {
+                "text": "Eine Tradition der japanischen Partnerstadt Shizuoka",
+                "correct": true
+            }, {
+                "text": "Ein jährliches Feuerwerk",
+                "correct": false
+            }, {
+                "text": "Ein traditionelles japanisches Teezeremonie-Festival",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Merkmal der musikalischen Darbietungen auf dem Japan-Tag?",
+        "answers": [
+            {
+                "text": "Sie umfassen traditionelle und moderne Stücke von Künstlern aus Japan und Europa.",
+                "correct": true
+            }, {
+                "text": "Sie konzentrieren sich ausschließlich auf klassische japanische Musik.",
+                "correct": false
+            }, {
+                "text": "Sie präsentieren nur moderne J-Pop-Musik.",
+                "correct": false
+            }, {
+                "text": "Sie sind ausschließlich von japanischen Künstlern.",
+                "correct": false
+            }
+        ]
+    }
+]

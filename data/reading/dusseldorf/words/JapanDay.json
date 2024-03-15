@@ -1,0 +1,150 @@
+[
+    {
+        "de": "das Bistro",
+        "en": "bistro",
+        "ru": "бистро",
+        "descriptionEN": "a small, modest, European-style restaurant or café.",
+        "descriptionRU": "небольшое, скромное, в европейском стиле ресторанчик или кафе.",
+        "descriptionDE": "ein kleines, bescheidenes Restaurant oder Café im europäischen Stil."
+    }, {
+        "de": "der Koch",
+        "en": "cook",
+        "ru": "повар",
+        "descriptionEN": "a person who prepares and cooks food, especially as a job or in a specified way.",
+        "descriptionRU": "человек, который приготавливает и готовит пищу, особенно по работе или определенным способом.",
+        "descriptionDE": "eine Person, die Essen zubereitet und kocht, insbesondere als Beruf oder auf bestimmte Weise."
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or creative work.",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или творческой работы.",
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines kreativen Werkes."
+    }, {
+        "de": "die Gastfreundschaft",
+        "en": "hospitality",
+        "ru": "гостеприимство",
+        "descriptionEN": "the friendly and generous reception and entertainment of guests, visitors, or strangers.",
+        "descriptionRU": "дружелюбный и щедрый прием и развлечение гостей, посетителей или незнакомцев.",
+        "descriptionDE": "der freundliche und großzügige Empfang und die Bewirtung von Gästen, Besuchern oder Fremden."
+    }, {
+        "de": "die Leidenschaft",
+        "en": "passion",
+        "ru": "страсть",
+        "descriptionEN": "strong and barely controllable emotion.",
+        "descriptionRU": "сильное и едва контролируемое чувство.",
+        "descriptionDE": "starke und kaum kontrollierbare Emotion."
+    }, {
+        "de": "der Zug",
+        "en": "train",
+        "ru": "поезд",
+        "descriptionEN": "a series of connected railroad cars pulled or pushed by one or more locomotives.",
+        "descriptionRU": "серия соединенных железнодорожных вагонов, тянущихся или толкаемых одним или несколькими локомотивами.",
+        "descriptionDE": "eine Reihe von verbundenen Eisenbahnwagen, die von einer oder mehreren Lokomotiven gezogen oder geschoben werden."
+    }, {
+        "de": "der Garten",
+        "en": "garden",
+        "ru": "сад",
+        "descriptionEN": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+        "descriptionRU": "участок земли, часто рядом с домом, используемый для выращивания цветов, фруктов или овощей.",
+        "descriptionDE": "ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird."
+    }, {
+        "de": "der Kirschbaum",
+        "en": "cherry tree",
+        "ru": "вишневое дерево",
+        "descriptionEN": "a tree which bears cherries.",
+        "descriptionRU": "дерево, на котором растут вишни.",
+        "descriptionDE": "ein Baum, der Kirschen trägt."
+    }, {
+        "de": "der Teich",
+        "en": "pond",
+        "ru": "пруд",
+        "descriptionEN": "a small body of still water formed naturally or by artificial means.",
+        "descriptionRU": "небольшое тело неподвижной воды, образованное естественным образом или искусственным путем.",
+        "descriptionDE": "ein kleiner Körper ruhenden Wassers, der sich natürlich oder künstlich gebildet hat."
+    }, {
+        "de": "der Fisch",
+        "en": "fish",
+        "ru": "рыба",
+        "descriptionEN": "a limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+        "descriptionRU": "беспозвоночное холоднокровное позвоночное животное с жабрами и плавниками, обитающее полностью в воде.",
+        "descriptionDE": "ein gliedmaßenloses, wechselwarmes Wirbeltier mit Kiemen und Flossen, das ausschließlich im Wasser lebt."
+    }, {
+        "de": "die Kamera",
+        "en": "camera",
+        "ru": "камера",
+        "descriptionEN": "an optical instrument for recording or capturing images, which may be stored locally, transmitted to another location, or both.",
+        "descriptionRU": "оптический прибор для записи или захвата изображений, которые могут быть сохранены локально, переданы в другое место или и то, и другое.",
+        "descriptionDE": "ein optisches Instrument zur Aufzeichnung oder Erfassung von Bildern, die lokal gespeichert, an einen anderen Ort übertragen oder beides sein können."
+    }, {
+        "de": "das Abenteuer",
+        "en": "adventure",
+        "ru": "приключение",
+        "descriptionEN": "an unusual and exciting or daring experience.",
+        "descriptionRU": "необычный и захватывающий или дерзкий опыт.",
+        "descriptionDE": "eine ungewöhnliche und aufregende oder kühne Erfahrung."
+    }, {
+        "de": "die Inspiration",
+        "en": "inspiration",
+        "ru": "вдохновение",
+        "descriptionEN": "the process of being mentally stimulated to do or feel something, especially to do something creative.",
+        "descriptionRU": "процесс психического стимулирования для того, чтобы сделать или почувствовать что-то, особенно чтобы сделать что-то творческое.",
+        "descriptionDE": "der Prozess, mental angeregt zu werden, um etwas zu tun oder zu fühlen, insbesondere um etwas Kreatives zu tun."
+    }, {
+        "de": "markieren",
+        "en": "to mark",
+        "ru": "отмечать",
+        "descriptionEN": "to indicate the connection or addition of; annotate.",
+        "descriptionRU": "указывать на связь или добавление; аннотировать.",
+        "descriptionDE": "die Verbindung oder Hinzufügung anzeigen; annotieren."
+    }, {
+        "de": "schnappen",
+        "en": "to snatch",
+        "ru": "схватывать",
+        "descriptionEN": "to seize or grasp abruptly or hastily.",
+        "descriptionRU": "абруптно или поспешно схватить или схватить.",
+        "descriptionDE": "plötzlich oder hastig ergreifen oder greifen."
+    }, {
+        "de": "studieren",
+        "en": "to study",
+        "ru": "изучать",
+        "descriptionEN": "to devote time and attention to acquiring knowledge on (an academic subject), especially by means of books.",
+        "descriptionRU": "уделять время и внимание приобретению знаний по (учебному предмету), особенно с помощью книг.",
+        "descriptionDE": "Zeit und Aufmerksamkeit darauf verwenden, Wissen über (ein wissenschaftliches Fachgebiet) zu erlangen, insbesondere mit Hilfe von Büchern."
+    }, {
+        "de": "entscheiden",
+        "en": "to decide",
+        "ru": "решать",
+        "descriptionEN": "to come or bring to a resolution in the mind as a result of consideration or a decision.",
+        "descriptionRU": "прийти к решению или привести к решению в уме в результате обдумывания или принятия решения.",
+        "descriptionDE": "zu einer Lösung im Geist kommen oder bringen als Ergebnis von Überlegungen oder einer Entscheidung."
+    }, {
+        "de": "siegen",
+        "en": "to win",
+        "ru": "побеждать",
+        "descriptionEN": "to achieve victory in a contest, competition, game, or battle.",
+        "descriptionRU": "достичь победы в соревновании, соревновании, игре или битве.",
+        "descriptionDE": "in einem Wettbewerb, Wettkampf, Spiel oder Kampf den Sieg erringen."
+    }, {
+        "de": "bewundern",
+        "en": "to admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard with wonder, pleasure, or approval.",
+        "descriptionRU": "рассматривать с удивлением, удовольствием или одобрением.",
+        "descriptionDE": "mit Staunen, Freude oder Zustimmung betrachten."
+    }, {
+        "de": "bemerkbar",
+        "en": "noticeable",
+        "ru": "заметный",
+        "descriptionEN": "able to be observed or perceived.",
+        "descriptionRU": "способен быть замеченным или воспринятым.",
+        "descriptionDE": "beobachtbar oder wahrnehmbar."
+    }, {
+        "de": "friedlich",
+        "en": "peaceful",
+        "ru": "мирный",
+        "descriptionEN": "free from disturbance; tranquil.",
+        "descriptionRU": "свободный от беспокойства; спокойный.",
+        "descriptionDE": "frei von Störungen; ruhig."
+    }
+]

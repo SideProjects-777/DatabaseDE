@@ -15,5 +15,69 @@
         "file": "Dusseldorf_Erkunden.txt",
         "words": "Dusseldorf_Erkunden.json",
         "yesNo": "Dusseldorf_Erkunden.json"
+    }, {
+        "name": {
+            "en": "Castle Treasure Adventure",
+            "de": "Schloss Schatzabenteuer",
+            "ru": "Приключение в замке"
+        },
+        "description": {
+            "en": "Discovering hidden castle treasure",
+            "de": "Verborgenen Schlossschatz entdecken",
+            "ru": "Открытие сокровищ в замке"
+        },
+        "level": "B1",
+        "image": "Treasure.jpg",
+        "file": "Treasure.txt",
+        "words": "Treasure.json",
+        "multi": "Treasure.json"
+    }, {
+        "name": {
+            "en": "Altstadt Charm",
+            "de": "Altstadt Charme",
+            "ru": "Шарм Старого Города"
+        },
+        "description": {
+            "en": "Vibrant historic hub",
+            "de": "Lebendiger historischer Hotspot",
+            "ru": "Живой исторический центр"
+        },
+        "level": "B1",
+        "image": "Altstadt.jpg",
+        "file": "Altstadt.txt",
+        "words": "Altstadt.json",
+        "multi": "Altstadt.json"
+    }, {
+        "name": {
+            "en": "Rhein Tower",
+            "de": "Rheinturm",
+            "ru": "Башня Рейна"
+        },
+        "description": {
+            "en": "Iconic landmark in Düsseldorf",
+            "de": "Ikonisches Wahrzeichen in Düsseldorf",
+            "ru": "Иконический памятник в Дюссельдорфе"
+        },
+        "level": "B2",
+        "image": "Rheinturm.jpg",
+        "file": "Rheinturm.txt",
+        "words": "Rheinturm.json",
+        "multi": "Rheinturm.json"
+    }, {
+        "name": {
+            "en": "Japan Day Experience",
+            "de": "Japanischer Tag Erlebnis",
+            "ru": "Опыт Японского Дня"
+        },
+        "description": {
+            "en": "Culinary adventure in Japan",
+            "de": "Kulinarisches Abenteuer in Japan",
+            "ru": "Кулинарное приключение в Японии"
+        },
+        "level": "B2",
+        "image": "JapanDay.jpg",
+        "file": "JapanDay.txt",
+        "words": "JapanDay.json",
+        "multi": "JapanDay.json"
     }
 ]

@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welche Stadt hat Max Fischer als Ziel für seine Schauspielkarriere gewählt?",
+        "answers": [
+            {
+                "text": "Berlin",
+                "correct": false
+            }, {
+                "text": "München",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }, {
+                "text": "Hamburg",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Theater in Düsseldorf ist das größte und renommierteste?",
+        "answers": [
+            {
+                "text": "Das Düsseldorfer Staatstheater",
+                "correct": false
+            }, {
+                "text": "Das Düsseldorfer Schauspielhaus",
+                "correct": true
+            }, {
+                "text": "Das Capitol Theater Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Das Kom(m)ödchen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welcher Produktion hat Max Fischer die Hauptrolle erhalten?",
+        "answers": [
+            {
+                "text": "'Der Graf von Monte Christo'",
+                "correct": false
+            }, {
+                "text": "'Romeo und Julia'",
+                "correct": true
+            }, {
+                "text": "'Hamlet'",
+                "correct": false
+            }, {
+                "text": "'Die Dreigroschenoper'",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das Feedback von Max' Vorsprechen?",
+        "answers": [
+            {
+                "text": "Er hat keine Rolle bekommen.",
+                "correct": false
+            }, {
+                "text": "Er wurde für eine Nebenrolle ausgewählt.",
+                "correct": false
+            }, {
+                "text": "Er wurde für die Hauptrolle ausgewählt.",
+                "correct": true
+            }, {
+                "text": "Er wurde gebeten, sein Vorsprechen zu wiederholen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was empfindet Max, als er die Bühne betritt?",
+        "answers": [
+            {
+                "text": "Angst und Unsicherheit.",
+                "correct": false
+            }, {
+                "text": "Freude und Erleichterung.",
+                "correct": false
+            }, {
+                "text": "Zielstrebigkeit und Leidenschaft.",
+                "correct": true
+            }, {
+                "text": "Enttäuschung und Nervosität.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was macht die Produktion von 'Romeo und Julia' zu einem Erfolg?",
+        "answers": [
+            {
+                "text": "Die Hauptrolle von Julia.",
+                "correct": false
+            }, {
+                "text": "Die aufwendigen Kostüme.",
+                "correct": false
+            }, {
+                "text": "Der talentierte Regisseur.",
+                "correct": false
+            }, {
+                "text": "Die Leistung von Max und die stehenden Ovationen des Publikums.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was bietet man Max nach der Premiere der Produktion an?",
+        "answers": [
+            {
+                "text": "Eine Rolle als Statist.",
+                "correct": false
+            }, {
+                "text": "Weitere Hauptrollen in zukünftigen Produktionen.",
+                "correct": true
+            }, {
+                "text": "Eine Rolle in einer Werbung.",
+                "correct": false
+            }, {
+                "text": "Eine Rolle als Bühnenarbeiter.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fühlt Max, als er in seiner Garderobe sitzt, nachdem die letzte Vorstellung vorbei ist?",
+        "answers": [
+            {
+                "text": "Er ist wütend auf das Publikum.",
+                "correct": false
+            }, {
+                "text": "Er ist traurig, dass die Vorstellung vorbei ist.",
+                "correct": false
+            }, {
+                "text": "Er ist dankbar für die Erfahrung und bereit für weitere Herausforderungen.",
+                "correct": true
+            }, {
+                "text": "Er ist erleichtert, dass die Produktion vorbei ist.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist eine der Sehenswürdigkeiten, die Max in Düsseldorf bewundert?",
+        "answers": [
+            {
+                "text": "Das Eiffelturm",
+                "correct": false
+            }, {
+                "text": "Der Big Ben",
+                "correct": false
+            }, {
+                "text": "Die schöne Architektur und bunte Straßenkunst",
+                "correct": true
+            }, {
+                "text": "Der Times Square",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Gefühl überkommt Max, als er das Theater für sein Vorsprechen betritt?",
+        "answers": [
+            {
+                "text": "Langeweile",
+                "correct": false
+            }, {
+                "text": "Nervosität und Aufregung",
+                "correct": true
+            }, {
+                "text": "Entspannung",
+                "correct": false
+            }, {
+                "text": "Ärger",
+                "correct": false
+            }
+        ]
+    }
+]
