@@ -75,11 +75,11 @@
         },
         "folder": "berlin",
         "description": {
-            "de": "Multikulturelle historische Metropole",
-            "en": "Multicultural historic metropolis",
-            "ru": "Многонациональный исторический мегаполис"
+            "de": "Multikulturelle Metropole",
+            "en": "Multicultural metropolis",
+            "ru": "Многонациональный мегаполис"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/berlin.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
         "amountOfStories": 0,
         "active": false,

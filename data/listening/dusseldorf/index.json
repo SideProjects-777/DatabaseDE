@@ -15,7 +15,7 @@
         "image": "Schauspielerreise.jpg",
         "file": "Schauspielerreise.mp3",
         "words": "Schauspielerreise.json",
-        "yesNo": "Schauspielerreise.json"
+        "multi": "Schauspielerreise.json"
     }, {
         "name": {
             "de": "Joggen an der Rheinuferpromenade",
