@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was war der erste Stopp der Gruppe in Koblenz?",
+        "answers": [
+            {
+                "text": "Ein Café",
+                "correct": false
+            }, {
+                "text": "Ein Weingut",
+                "correct": true
+            }, {
+                "text": "Ein Museum",
+                "correct": false
+            }, {
+                "text": "Ein Park",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Woher stammt Sarah, eine der Reisenden?",
+        "answers": [
+            {
+                "text": "London",
+                "correct": false
+            }, {
+                "text": "Madrid",
+                "correct": false
+            }, {
+                "text": "Deutschland",
+                "correct": false
+            }, {
+                "text": "Kalifornien",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist Mark von Beruf?",
+        "answers": [
+            {
+                "text": "Biologe",
+                "correct": false
+            }, {
+                "text": "Sozialarbeiter",
+                "correct": false
+            }, {
+                "text": "Grafikdesigner",
+                "correct": true
+            }, {
+                "text": "Weinbauer",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat der Besitzer des Weinguts den Besuchern über die Region erzählt?",
+        "answers": [
+            {
+                "text": "Geschichte und Herstellungsprozess des Weins",
+                "correct": true
+            }, {
+                "text": "Geschichte der Stadt Koblenz",
+                "correct": false
+            }, {
+                "text": "Die besten Wanderwege in der Umgebung",
+                "correct": false
+            }, {
+                "text": "Traditionelle deutsche Rezepte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was haben Emily und Sarah über ihren Weinkonsum erwähnt?",
+        "answers": [
+            {
+                "text": "Sie waren Weinliebhaber",
+                "correct": false
+            }, {
+                "text": "Sie tranken regelmäßig Riesling",
+                "correct": false
+            }, {
+                "text": "Sie waren keine großen Weintrinker",
+                "correct": true
+            }, {
+                "text": "Sie bevorzugten spanischen Wein",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat der Besitzer des Weinguts den Besuchern vorgeschlagen, nachdem sie den Wein verkostet hatten?",
+        "answers": [
+            {
+                "text": "Eine Stadtführung zu machen",
+                "correct": false
+            }, {
+                "text": "Einen versteckten Wanderweg zu einem Wasserfall zu erkunden",
+                "correct": true
+            }, {
+                "text": "Eine Bootsfahrt auf dem Rhein zu unternehmen",
+                "correct": false
+            }, {
+                "text": "Ein traditionelles deutsches Fest zu besuchen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was haben die Freunde getan, nachdem sie den Wasserfall erreicht hatten?",
+        "answers": [
+            {
+                "text": "Eine Klettertour gemacht",
+                "correct": false
+            }, {
+                "text": "Picknick gemacht",
+                "correct": false
+            }, {
+                "text": "Mit dem Boot den Fluss erkundet",
+                "correct": false
+            }, {
+                "text": "Ein Bad im kristallklaren Wasser genommen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was hat der Besitzer des Weinguts für die Freunde vorbereitet, nachdem sie von ihrer Wanderung zurückgekehrt waren?",
+        "answers": [
+            {
+                "text": "Eine Weinverkostung",
+                "correct": false
+            }, {
+                "text": "Eine Weinlese",
+                "correct": false
+            }, {
+                "text": "Eine Weinbergführung",
+                "correct": false
+            }, {
+                "text": "Ein traditionelles deutsches Essen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was haben die Freunde zum Abendessen mit dem Riesling genossen?",
+        "answers": [
+            {
+                "text": "Pizza und Pasta",
+                "correct": false
+            }, {
+                "text": "Tapas und Paella",
+                "correct": false
+            }, {
+                "text": "Bratwurst, Sauerkraut und Kartoffelsalat",
+                "correct": true
+            }, {
+                "text": "Sushi und Sashimi",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was haben die Freunde beschlossen, nach diesem erlebnisreichen Tag zu tun?",
+        "answers": [
+            {
+                "text": "Niemals wieder nach Deutschland zu reisen",
+                "correct": false
+            }, {
+                "text": "Eine Fahrradtour entlang des Rheins zu unternehmen",
+                "correct": false
+            }, {
+                "text": "Das Weingut bei zukünftigen Besuchen in Koblenz zu besuchen",
+                "correct": true
+            }, {
+                "text": "Die Stadt Koblenz für immer zu verlassen",
+                "correct": false
+            }
+        ]
+    }
+]

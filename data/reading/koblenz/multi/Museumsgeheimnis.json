@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wer war Julia?",
+        "answers": [
+            {
+                "text": "Eine Detektivin",
+                "correct": false
+            }, {
+                "text": "Eine Kunstsammlerin",
+                "correct": false
+            }, {
+                "text": "Eine Künstlerin",
+                "correct": true
+            }, {
+                "text": "Eine Museumsdirektorin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Museum hat Julia fasziniert?",
+        "answers": [
+            {
+                "text": "Museum für moderne Kunst in Berlin",
+                "correct": false
+            }, {
+                "text": "Louvre Museum in Paris",
+                "correct": false
+            }, {
+                "text": "Museum Ludwig in Koblenz",
+                "correct": true
+            }, {
+                "text": "British Museum in London",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hörte Julia, als sie ein Gemälde ihres Lieblingskünstlers betrachtete?",
+        "answers": [
+            {
+                "text": "Ein Lied, das im Hintergrund gespielt wurde",
+                "correct": false
+            }, {
+                "text": "Ein leises Summen von anderen Besuchern",
+                "correct": false
+            }, {
+                "text": "Ein Telefonklingeln in der Ferne",
+                "correct": false
+            }, {
+                "text": "Ein hitziges Gespräch zwischen zwei Männern",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wer war Felix?",
+        "answers": [
+            {
+                "text": "Ein mysteriöser Detektiv",
+                "correct": true
+            }, {
+                "text": "Ein Kunstsammler",
+                "correct": false
+            }, {
+                "text": "Ein Museumsgast",
+                "correct": false
+            }, {
+                "text": "Ein Museumswächter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was verlor Daniel?",
+        "answers": [
+            {
+                "text": "Seine Brieftasche",
+                "correct": false
+            }, {
+                "text": "Seine Brille",
+                "correct": false
+            }, {
+                "text": "Sein Handy",
+                "correct": false
+            }, {
+                "text": "Ein wertvolles Stück aus seiner Privatsammlung",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was hatte Julia vor, nachdem sie das hitzige Gespräch gehört hatte?",
+        "answers": [
+            {
+                "text": "Das Museum zu verlassen",
+                "correct": false
+            }, {
+                "text": "Einen Kaffee zu trinken",
+                "correct": false
+            }, {
+                "text": "Selbst Nachforschungen anzustellen",
+                "correct": true
+            }, {
+                "text": "Sich dem Gemälde ihres Lieblingskünstlers zu widmen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fiel Julia auf, als sie Felix und Daniel folgte?",
+        "answers": [
+            {
+                "text": "Olivia, die Direktorin des Museums, schien ihnen aus dem Weg zu gehen",
+                "correct": true
+            }, {
+                "text": "Ein seltsames Geräusch aus dem Hintergrund",
+                "correct": false
+            }, {
+                "text": "Eine ungewöhnliche Skulptur in einem entfernten Raum",
+                "correct": false
+            }, {
+                "text": "Eine defekte Lampe im Flur",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fand Julia heraus über Olivia's Rolle beim Diebstahl?",
+        "answers": [
+            {
+                "text": "Sie hatte Zugang zum Sicherheitssystem und hatte es deaktiviert",
+                "correct": true
+            }, {
+                "text": "Sie hatte das gestohlene Gemälde in ihrer Tasche",
+                "correct": false
+            }, {
+                "text": "Sie war die Hauptzeugin des Diebstahls",
+                "correct": false
+            }, {
+                "text": "Sie hatte nichts mit dem Diebstahl zu tun",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tat Julia, nachdem sie genügend Informationen gesammelt hatte?",
+        "answers": [
+            {
+                "text": "Entschloss sich, den Fall aufzugeben",
+                "correct": false
+            }, {
+                "text": "Rief die Polizei an und meldete den Diebstahl",
+                "correct": false
+            }, {
+                "text": "Bat Felix um Hilfe und schmiedete einen Plan, um Olivia auf frischer Tat zu ertappen",
+                "correct": true
+            }, {
+                "text": "Flüchtete aus dem Museum",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie wurde Julia am Ende belohnt?",
+        "answers": [
+            {
+                "text": "Sie bekam eine Auszeichnung als beste Besucherin des Museums",
+                "correct": false
+            }, {
+                "text": "Sie erhielt eine persönliche Einladung des Museumsdirektors, ihre Kunstwerke in einer Sonderausstellung zu zeigen",
+                "correct": true
+            }, {
+                "text": "Sie erhielt einen Geldpreis für ihre Tapferkeit",
+                "correct": false
+            }, {
+                "text": "Sie wurde zur neuen Direktorin des Museums ernannt",
+                "correct": false
+            }
+        ]
+    }
+]

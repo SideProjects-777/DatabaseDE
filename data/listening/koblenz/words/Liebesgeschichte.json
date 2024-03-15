@@ -1,0 +1,129 @@
+[
+    {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "a large public green area in a town",
+        "descriptionRU": "большая общественная зелёная зона в городе",
+        "descriptionDE": "eine große öffentliche Grünfläche in einer Stadt"
+    }, {
+        "de": "der Brief",
+        "en": "letter",
+        "ru": "письмо",
+        "descriptionEN": "a written or printed communication",
+        "descriptionRU": "письменное или печатное сообщение",
+        "descriptionDE": "eine schriftliche oder gedruckte Mitteilung"
+    }, {
+        "de": "das Schloss",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "a large building formerly occupied by a ruler and fortified against attack",
+        "descriptionRU": "большое здание, ранее занимаемое правителем и укреплённое от атаки",
+        "descriptionDE": "ein großes Gebäude, das früher von einem Herrscher bewohnt und gegen Angriffe befestigt wurde"
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group of people related by blood or marriage",
+        "descriptionRU": "группа людей, связанных кровными узами или браком",
+        "descriptionDE": "eine Gruppe von Menschen, die durch Blutsverwandtschaft oder Ehe verbunden sind"
+    }, {
+        "de": "die Hochzeit",
+        "en": "wedding",
+        "ru": "свадьба",
+        "descriptionEN": "a marriage ceremony",
+        "descriptionRU": "церемония бракосочетания",
+        "descriptionDE": "eine Trauungszeremonie"
+    }, {
+        "de": "die Zeremonie",
+        "en": "ceremony",
+        "ru": "церемония",
+        "descriptionEN": "a formal religious or public occasion",
+        "descriptionRU": "формальное религиозное или общественное мероприятие",
+        "descriptionDE": "ein formelles religiöses oder öffentliches Ereignis"
+    }, {
+        "de": "der Boden",
+        "en": "ground",
+        "ru": "земля",
+        "descriptionEN": "the solid surface of the earth",
+        "descriptionRU": "твердая поверхность земли",
+        "descriptionDE": "die feste Oberfläche der Erde"
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence",
+        "descriptionRU": "неопределенное продолжение существования",
+        "descriptionDE": "der unbestimmte fortlaufende Fortschritt des Daseins"
+    }, {
+        "de": "die Liebe",
+        "en": "love",
+        "ru": "любовь",
+        "descriptionEN": "an intense feeling of deep affection",
+        "descriptionRU": "интенсивное чувство глубокой привязанности",
+        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung"
+    }, {
+        "de": "die Zukunft",
+        "en": "future",
+        "ru": "будущее",
+        "descriptionEN": "the time or a period of time following the moment of speaking or writing",
+        "descriptionRU": "время или период времени, следующий за моментом речи или записи",
+        "descriptionDE": "die Zeit oder ein Zeitraum, der dem Moment des Sprechens oder Schreibens folgt"
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "to engage in activity for enjoyment and recreation",
+        "descriptionRU": "заниматься деятельностью для удовольствия и отдыха",
+        "descriptionDE": "sich an Aktivitäten zur Freude und Erholung beteiligen"
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посещать",
+        "descriptionEN": "to go to see or spend time with someone",
+        "descriptionRU": "пойти, чтобы увидеться или провести время с кем-то",
+        "descriptionDE": "gehen, um jemanden zu sehen oder Zeit mit jemandem zu verbringen"
+    }, {
+        "de": "verwandeln",
+        "en": "to transform",
+        "ru": "преобразовывать",
+        "descriptionEN": "to change in form, appearance, or structure",
+        "descriptionRU": "изменять форму, внешний вид или структуру",
+        "descriptionDE": "in Form, Erscheinungsbild oder Struktur ändern"
+    }, {
+        "de": "erwachsen",
+        "en": "adult",
+        "ru": "взрослый",
+        "descriptionEN": "fully grown and developed",
+        "descriptionRU": "полностью выросший и развитый",
+        "descriptionDE": "vollständig ausgewachsen und entwickelt"
+    }, {
+        "de": "zerstört",
+        "en": "destroyed",
+        "ru": "разрушенный",
+        "descriptionEN": "damaged beyond repair",
+        "descriptionRU": "поврежденный за пределами возможности восстановления",
+        "descriptionDE": "über die Reparatur hinaus beschädigt"
+    }, {
+        "de": "gemeinsam",
+        "en": "together",
+        "ru": "вместе",
+        "descriptionEN": "in companionship with others",
+        "descriptionRU": "в обществе других",
+        "descriptionDE": "in Gesellschaft anderer"
+    }, {
+        "de": "selten",
+        "en": "rare",
+        "ru": "редкий",
+        "descriptionEN": "occurring not often",
+        "descriptionRU": "встречающийся нечасто",
+        "descriptionDE": "nicht oft vorkommend"
+    }, {
+        "de": "ewig",
+        "en": "eternal",
+        "ru": "вечный",
+        "descriptionEN": "lasting or existing forever",
+        "descriptionRU": "длительный или существующий вечно",
+        "descriptionDE": "für immer oder ewig existierend"
+    }
+]

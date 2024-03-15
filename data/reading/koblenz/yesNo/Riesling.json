@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Riesling ist eine Rebsorte, die seit Tausenden von Jahren existiert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Rieslingweine passen gut zu Meeresfrüchten und Salaten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Riesling stammt ursprünglich aus dem französischen Rheingebiet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Riesling wird ausschließlich in Deutschland angebaut.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Rieslingweine sind normalerweise entweder knochentrocken oder extrem süß.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Riesling ist für seine dünne Schale und niedrigen Säuregehalt bekannt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Rieslingweine haben normalerweise Aromen von Schokolade und Kaffee.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Riesling ist eine Rebsorte, die nur in warmen Klimazonen gedeiht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Riesling hat die Fähigkeit, das Terroir widerzuspiegeln, in dem er angebaut wird.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Riesling ist eine weniger vielseitige Rebsorte im Vergleich zu anderen.",
+        "tr": false,
+        "fle": true
+    }
+]

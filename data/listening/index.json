@@ -57,8 +57,8 @@
             "ru": "Слияние рек Рейн и Мозель"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
-        "amountOfStories": 0,
-        "active": false
+        "amountOfStories": 1,
+        "active": true
     }, {
         "name": {
             "de": "Frankfurt",

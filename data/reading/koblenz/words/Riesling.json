@@ -1,0 +1,164 @@
+[
+    {
+        "de": "die Traube",
+        "en": "grape",
+        "ru": "виноград",
+        "descriptionEN": "A small round fruit that grows in clusters and is used to make wine.",
+        "descriptionRU": "Маленький круглый плод, растущий в гроздьях и используемый для производства вина.",
+        "descriptionDE": "Eine kleine runde Frucht, die in Trauben wächst und zur Herstellung von Wein verwendet wird."
+    }, {
+        "de": "die Rebsorte",
+        "en": "grape variety",
+        "ru": "сорт винограда",
+        "descriptionEN": "A particular type of grape distinguished by its flavor, color, shape, and growth characteristics.",
+        "descriptionRU": "Особый тип винограда, отличающийся своим вкусом, цветом, формой и характеристиками роста.",
+        "descriptionDE": "Ein bestimmter Typ von Weintraube, der sich durch seinen Geschmack, seine Farbe, Form und Wachstumsmerkmale auszeichnet."
+    }, {
+        "de": "der Wein",
+        "en": "wine",
+        "ru": "вино",
+        "descriptionEN": "An alcoholic beverage made from fermented grapes or other fruits.",
+        "descriptionRU": "Алкогольный напиток, изготовленный из брожения винограда или других фруктов.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentiertem Weintrauben oder anderen Früchten hergestellt wird."
+    }, {
+        "de": "das Terroir",
+        "en": "terroir",
+        "ru": "терруар",
+        "descriptionEN": "The environmental factors that influence the character of wine, including soil, climate, and topography.",
+        "descriptionRU": "Экологические факторы, влияющие на характер вина, включая почву, климат и рельеф местности.",
+        "descriptionDE": "Die Umweltfaktoren, die den Charakter des Weins beeinflussen, einschließlich Boden, Klima und Topographie."
+    }, {
+        "de": "die Vielseitigkeit",
+        "en": "versatility",
+        "ru": "универсальность",
+        "descriptionEN": "The quality or state of being capable of adapting to many different functions or activities.",
+        "descriptionRU": "Качество или состояние способности адаптироваться к различным функциям или деятельностям.",
+        "descriptionDE": "Die Qualität oder der Zustand, in der Lage zu sein, sich vielen verschiedenen Funktionen oder Aktivitäten anzupassen."
+    }, {
+        "de": "die Anbau",
+        "en": "cultivation",
+        "ru": "выращивание",
+        "descriptionEN": "The process of growing and nurturing plants for agricultural purposes.",
+        "descriptionRU": "Процесс выращивания и ухода за растениями сельскохозяйственного назначения.",
+        "descriptionDE": "Der Prozess des Anbaus und der Pflege von Pflanzen für landwirtschaftliche Zwecke."
+    }, {
+        "de": "die Süße",
+        "en": "sweetness",
+        "ru": "сладость",
+        "descriptionEN": "The taste quality produced by the presence of sugar; not bitter, sour, or salt.",
+        "descriptionRU": "Вкусовое качество, обусловленное присутствием сахара; не горький, кислый или соленый.",
+        "descriptionDE": "Die Geschmacksqualität, die durch das Vorhandensein von Zucker erzeugt wird; nicht bitter, sauer oder salzig."
+    }, {
+        "de": "das Aroma",
+        "en": "aroma",
+        "ru": "аромат",
+        "descriptionEN": "A distinctive, typically pleasant smell.",
+        "descriptionRU": "Отличительный, обычно приятный запах.",
+        "descriptionDE": "Ein charakteristischer, typischerweise angenehmer Geruch."
+    }, {
+        "de": "der Geschmack",
+        "en": "flavor",
+        "ru": "вкус",
+        "descriptionEN": "The distinctive taste of a food or drink.",
+        "descriptionRU": "Отличительный вкус еды или напитка.",
+        "descriptionDE": "Der charakteristische Geschmack eines Lebensmittels oder Getränks."
+    }, {
+        "de": "die Frucht",
+        "en": "fruit",
+        "ru": "фрукт",
+        "descriptionEN": "The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.",
+        "descriptionRU": "Сладкий и мясистый плод дерева или другого растения, содержащий семена и пригодный для пищи.",
+        "descriptionDE": "Das süße und fleischige Produkt eines Baumes oder einer anderen Pflanze, das Samen enthält und als Nahrungsmittel gegessen werden kann."
+    }, {
+        "de": "trocken",
+        "en": "dry",
+        "ru": "сухой",
+        "descriptionEN": "Free from moisture or liquid; not wet or moist.",
+        "descriptionRU": "Свободный от влаги или жидкости; не мокрый или сырой.",
+        "descriptionDE": "Frei von Feuchtigkeit oder Flüssigkeit; nicht nass oder feucht."
+    }, {
+        "de": "süß",
+        "en": "sweet",
+        "ru": "сладкий",
+        "descriptionEN": "Having the pleasant taste characteristic of sugar or honey; not salty, sour, or bitter.",
+        "descriptionRU": "Имеющий приятный вкус, характерный для сахара или меда; не соленый, кислый или горький.",
+        "descriptionDE": "Mit dem angenehmen Geschmack von Zucker oder Honig; nicht salzig, sauer oder bitter."
+    }, {
+        "de": "elegant",
+        "en": "elegant",
+        "ru": "изысканный",
+        "descriptionEN": "Graceful and stylish in appearance or manner.",
+        "descriptionRU": "Грациозный и стильный во внешности или манере поведения.",
+        "descriptionDE": "Anmutig und stilvoll im Aussehen oder Verhalten."
+    }, {
+        "de": "knackig",
+        "en": "crisp",
+        "ru": "хрустящий",
+        "descriptionEN": "Hard but easily breakable; crunchy.",
+        "descriptionRU": "Твердый, но легко ломающийся; хрустящий.",
+        "descriptionDE": "Hart, aber leicht zerbrechlich; knusprig."
+    }, {
+        "de": "erfrischend",
+        "en": "refreshing",
+        "ru": "освежающий",
+        "descriptionEN": "Serving to refresh or reinvigorate someone.",
+        "descriptionRU": "Служащий для освежения или оживления кого-то.",
+        "descriptionDE": "Dient dazu, jemanden zu erfrischen oder zu beleben."
+    }, {
+        "de": "mineralisch",
+        "en": "mineral",
+        "ru": "минеральный",
+        "descriptionEN": "Relating to minerals, especially in terms of taste or smell.",
+        "descriptionRU": "Относящийся к минералам, особенно по вкусу или запаху.",
+        "descriptionDE": "Bezieht sich auf Mineralien, insbesondere in Bezug auf Geschmack oder Geruch."
+    }, {
+        "de": "üppig",
+        "en": "lush",
+        "ru": "пышный",
+        "descriptionEN": "Luxuriant or abundant.",
+        "descriptionRU": "Роскошный или обильный.",
+        "descriptionDE": "Üppig oder reichlich vorhanden."
+    }, {
+        "de": "würzig",
+        "en": "spicy",
+        "ru": "пряный",
+        "descriptionEN": "Containing strong flavors, especially from spices.",
+        "descriptionRU": "Содержащий сильные вкусы, особенно от специй.",
+        "descriptionDE": "Enthält starke Aromen, insbesondere von Gewürzen."
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "Being the only one of its kind; unlike anything else.",
+        "descriptionRU": "Будучи единственным в своем роде; ни на что не похожим.",
+        "descriptionDE": "Das einzige seiner Art sein; anders als alles andere."
+    }, {
+        "de": "geschmackvoll",
+        "en": "tasteful",
+        "ru": "вкусный",
+        "descriptionEN": "Having a pleasant or attractive taste.",
+        "descriptionRU": "Имеющий приятный или привлекательный вкус.",
+        "descriptionDE": "Einen angenehmen oder attraktiven Geschmack haben."
+    }, {
+        "de": "einzig",
+        "en": "only",
+        "ru": "только",
+        "descriptionEN": "Alone of its or their kind; single or solitary.",
+        "descriptionRU": "Одинокий из его или их рода; единственный или уединенный.",
+        "descriptionDE": "Allein seiner oder ihrer Art; einzeln oder einsam."
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "Liked, admired, or enjoyed by many people or by a particular person or group.",
+        "descriptionRU": "Понравившийся, восхищенный или полюбившийся многим людям или конкретному лицу или группе.",
+        "descriptionDE": "Von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen."
+    }, {
+        "de": "perfekt",
+        "en": "perfect",
+        "ru": "идеальный",
+        "descriptionEN": "Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
+        "descriptionRU": "Имеющий все необходимые или желательные элементы, качества или характеристики; насколько это возможно быть хорошим.",
+        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Eigenschaften oder Merkmale aufweisend; so gut wie möglich zu sein."
+    }
+]

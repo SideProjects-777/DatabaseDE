@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "en": "Castle Love Story",
+            "de": "Schloss Liebesgeschichte",
+            "ru": "История любви в замке"
+        },
+        "description": {
+            "en": "Friendship turned everlasting love",
+            "de": "Freundschaft wurde ewige Liebe",
+            "ru": "Из дружбы в вечную любовь"
+        },
+        "level": "A2",
+        "image": "Liebesgeschichte.jpg",
+        "file": "Liebesgeschichte.mp3",
+        "words": "Liebesgeschichte.json",
+        "yesNo": "Liebesgeschichte.json"
+    }
+]

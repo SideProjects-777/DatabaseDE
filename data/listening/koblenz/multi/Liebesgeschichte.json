@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo sind Anna und Daniels aufgewachsen?",
+        "answers": [
+            {
+                "text": "Berlin, Deutschland",
+                "correct": false
+            }, {
+                "text": "Frankfurt, Deutschland",
+                "correct": false
+            }, {
+                "text": "Koblenz, Deutschland",
+                "correct": true
+            }, {
+                "text": "München, Deutschland",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was taten Anna und Daniels, als sie Kinder waren?",
+        "answers": [
+            {
+                "text": "Sie verbrachten ihre Zeit hauptsächlich zu Hause.",
+                "correct": false
+            }, {
+                "text": "Sie hatten keine gemeinsamen Aktivitäten.",
+                "correct": false
+            }, {
+                "text": "Sie gingen oft ins Kino.",
+                "correct": false
+            }, {
+                "text": "Sie erkundeten die Stadt, spielten in den Parks und träumten von ihrer gemeinsamen Zukunft.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was geschah mit Annas Familie, als sie älter wurde?",
+        "answers": [
+            {
+                "text": "Sie zogen aus Koblenz weg.",
+                "correct": true
+            }, {
+                "text": "Sie kauften ein größeres Haus in Koblenz.",
+                "correct": false
+            }, {
+                "text": "Sie blieben in Koblenz, aber zogen in eine andere Gegend.",
+                "correct": false
+            }, {
+                "text": "Sie wanderten aus Deutschland aus.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo wurde das Schloss Stolzenfels erbaut?",
+        "answers": [
+            {
+                "text": "Es wurde von einer königlichen Familie gebaut.",
+                "correct": false
+            }, {
+                "text": "Es wurde von deutschen Siedlern erbaut.",
+                "correct": false
+            }, {
+                "text": "Es wurde 1259 vom Trierer Fürstbischof erbaut.",
+                "correct": true
+            }, {
+                "text": "Es wurde von einem römischen Kaiser errichtet.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer besaß das Schloss Stolzenfels im Jahr 1802?",
+        "answers": [
+            {
+                "text": "Die königliche Familie",
+                "correct": false
+            }, {
+                "text": "Die Stadt Koblenz",
+                "correct": true
+            }, {
+                "text": "Eine reiche Adelsfamilie",
+                "correct": false
+            }, {
+                "text": "Ein Industrieller aus dem Ruhrgebiet",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was geschah, als Anna und Daniels das Schloss erkundeten?",
+        "answers": [
+            {
+                "text": "Daniels machte Anna einen Heiratsantrag.",
+                "correct": false
+            }, {
+                "text": "Sie erinnerten sich an ihre Kindheitstage und hatten viel Spaß.",
+                "correct": false
+            }, {
+                "text": "Sie verbrachten den ganzen Tag damit, sich zu unterhalten und gemeinsam das Schloss zu erkunden.",
+                "correct": true
+            }, {
+                "text": "Sie stritten sich über die Architektur des Schlosses.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo fand die Hochzeit von Anna und Daniels statt?",
+        "answers": [
+            {
+                "text": "In einem Hotel in Koblenz",
+                "correct": false
+            }, {
+                "text": "Am Rheinufer",
+                "correct": false
+            }, {
+                "text": "In einem Schloss in München",
+                "correct": false
+            }, {
+                "text": "Auf Schloss Stolzenfels",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was symbolisierte das Schloss Stolzenfels für Anna und Daniels?",
+        "answers": [
+            {
+                "text": "Ihre Kindheit",
+                "correct": false
+            }, {
+                "text": "Den Beginn ihrer ewigen Liebesgeschichte",
+                "correct": true
+            }, {
+                "text": "Ihre Vergangenheit",
+                "correct": false
+            }, {
+                "text": "Ihre familiäre Bindung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was geschah, als Anna und Daniels auf den Fluss blickten?",
+        "answers": [
+            {
+                "text": "Sie beschlossen, sich zu trennen.",
+                "correct": false
+            }, {
+                "text": "Sie sprachen über ihre Zukunft.",
+                "correct": false
+            }, {
+                "text": "Sie diskutierten über die Architektur des Schlosses.",
+                "correct": false
+            }, {
+                "text": "Daniels machte Anna einen Heiratsantrag.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie reagierten Anna und Daniels, als sie sich nach langer Zeit wieder sahen?",
+        "answers": [
+            {
+                "text": "Sie umarmten sich, und es schien, als ob keine Zeit vergangen wäre.",
+                "correct": true
+            }, {
+                "text": "Sie stritten sich über vergangene Ereignisse.",
+                "correct": false
+            }, {
+                "text": "Sie ignorierten einander.",
+                "correct": false
+            }, {
+                "text": "Sie waren schüchtern und zurückhaltend.",
+                "correct": false
+            }
+        ]
+    }
+]
