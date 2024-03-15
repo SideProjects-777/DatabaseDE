@@ -17,22 +17,6 @@
         "yesNo": "Schauspielerreise.json"
     }, {
         "name": {
-            "en": "Benrath Castle",
-            "de": "Schloss Benrath",
-            "ru": "Замок Бенрат"
-        },
-        "description": {
-            "en": "Baroque palace tour",
-            "de": "Barockschlossführung",
-            "ru": "Экскурсия по барочному дворцу"
-        },
-        "level": "A2",
-        "image": "Benrath.jpg",
-        "file": "Benrath.mp3",
-        "words": "Benrath.json",
-        "yesNo": "Benrath.json"
-    }, {
-        "name": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
             "ru": "Пробежка у променада"
@@ -79,5 +63,21 @@
         "file": "JapanDay.mp3",
         "words": "JapanDay.json",
         "multi": "JapanDay.json"
+    }, {
+        "name": {
+            "en": "Benrath Castle",
+            "de": "Schloss Benrath",
+            "ru": "Замок Бенрат"
+        },
+        "description": {
+            "en": "Baroque palace tour",
+            "de": "Barockschlossführung",
+            "ru": "Экскурсия по барочному дворцу"
+        },
+        "level": "B2",
+        "image": "Benrath.jpg",
+        "file": "Benrath.mp3",
+        "words": "Benrath.json",
+        "yesNo": "Benrath.json"
     }
 ]
