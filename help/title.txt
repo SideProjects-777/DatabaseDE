@@ -1,0 +1,25 @@
+Given text:
+
+text
+
+
+
+Generate a json response which has the following structure:
+
+{
+    name:{
+        en: 
+        de:
+        ru:
+    },
+    description:{
+        en: 
+        de:
+        ru:
+    }
+
+}
+
+
+name value should provide a title to the text and should be at most 3 words. description value must provide descipriton to the text and must be at most 5 words.
+en, de and ru: are languages into which the response should be translated.

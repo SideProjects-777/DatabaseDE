@@ -1,0 +1,51 @@
+[
+    {
+        "name": {
+            "en": "Exploring Deutsches Eck",
+            "de": "Erkundung von Deutsches Eck",
+            "ru": "Исследование Дойчес Эк"
+        },
+        "description": {
+            "en": "Curious traveler's unforgettable adventure",
+            "de": "Unvergessliches Abenteuer eines neugierigen Reisenden",
+            "ru": "Незабываемое приключение любопытного путешественника"
+        },
+        "level": "B1",
+        "image": "Deutsches_Eck_Erkunden.jpg",
+        "file": "Deutsches_Eck_Erkunden.txt",
+        "words": "Deutsches_Eck_Erkunden.json",
+        "yesNo": "Deutsches_Eck_Erkunden.json"
+    }, {
+        "name": {
+            "en": "Museum Mystery",
+            "de": "Museumsgeheimnis",
+            "ru": "Тайна музея"
+        },
+        "description": {
+            "en": "Art theft investigation unfolds",
+            "de": "Kunstdiebstahlermittlung entfaltet sich",
+            "ru": "Раскрытие расследования кражи искусства"
+        },
+        "level": "B2",
+        "image": "Museumsgeheimnis.jpg",
+        "file": "Museumsgeheimnis.txt",
+        "words": "Museumsgeheimnis.json",
+        "multi": "Museumsgeheimnis.json"
+    }, {
+        "name": {
+            "en": "Riesling",
+            "de": "Riesling",
+            "ru": "Рислинг"
+        },
+        "description": {
+            "en": "Versatile grape variety",
+            "de": "Vielseitige Rebsorte",
+            "ru": "Универсальный сорт винограда"
+        },
+        "level": "B2",
+        "image": "Riesling.jpg",
+        "file": "Riesling.txt",
+        "words": "Riesling.json",
+        "yesNo": "Riesling.json"
+    }
+]

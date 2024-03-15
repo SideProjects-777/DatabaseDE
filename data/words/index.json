@@ -449,6 +449,14 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Rheinuferpromenade.jpg"
     }, {
         "title": {
+            "de": "Ein Tag in Köln",
+            "en": "A Day in Cologne",
+            "ru": "День в Кёльне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Maraike.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Maraike.jpg"
+      }
+        "title":{
             "de": "Leben in Bonn",
             "en": "Life in Bonn",
             "ru": "Жизнь в Бонне"

@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Wann fand die erste Messe in Köln statt?",
+        "answers": [
+
+            {
+                "text": "Im Jahr 1910",
+                "correct": false
+            }, {
+                "text": "Im Jahr 1920",
+                "correct": true
+            }, {
+                "text": "Im Jahr 1930",
+                "correct": false
+            }, {
+                "text": "Im Jahr 1940",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche ist eine der bekanntesten Messen der Kölnmesse?",
+        "answers": [
+            {
+                "text": "IAA (Internationale Automobil-Ausstellung)",
+                "correct": false
+            }, {
+                "text": "IAA (Internationale Agrar Ausstellung)",
+                "correct": false
+            }, {
+                "text": "ISM (Internationale Süßwarenmesse)",
+                "correct": true
+            }, {
+                "text": "CES (Consumer Electronics Show)",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie groß ist die Fläche des Messeplatzes?",
+        "answers": [
+
+            {
+                "text": "100.000 Quadratmeter",
+                "correct": false
+            }, {
+                "text": "200.000 Quadratmeter",
+                "correct": false
+            }, {
+                "text": "284.000 Quadratmeter",
+                "correct": true
+            }, {
+                "text": "400.000 Quadratmeter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer veranstaltet die Kölnmesse?",
+        "answers": [
+
+            {
+                "text": "Deutsche Messe AG",
+                "correct": false
+            }, {
+                "text": "Kölnmesse GmbH",
+                "correct": true
+            }, {
+                "text": "Frankfurter Messe",
+                "correct": false
+            }, {
+                "text": "Messe Berlin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Schwerpunkt der Kölnmesse?",
+        "answers": [
+
+            {
+                "text": "Veranstaltung von Musikkonzerten",
+                "correct": false
+            }, {
+                "text": "Organisation von Sportevents",
+                "correct": false
+            }, {
+                "text": "Veranstaltung von Kunstausstellungen",
+                "correct": false
+            }, {
+                "text": "Organisation von Fachveranstaltungen für verschiedene Branchen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist ein Merkmal der Messehallen der Kölnmesse?",
+        "answers": [
+
+            {
+                "text": "Sie haben keine Freigeländeflächen",
+                "correct": false
+            }, {
+                "text": "Sie sind mit modernster Technik ausgestattet",
+                "correct": true
+            }, {
+                "text": "Sie sind ausschließlich für lokale Aussteller zugänglich",
+                "correct": false
+            }, {
+                "text": "Sie befinden sich außerhalb der Stadtgrenzen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welchen jährlichen wirtschaftlichen Einfluss hat die Kölnmesse laut einer Studie?",
+        "answers": [
+
+            {
+                "text": "Mehr als 1 Milliarde Euro",
+                "correct": false
+            }, {
+                "text": "Mehr als 2 Milliarden Euro",
+                "correct": false
+            }, {
+                "text": "Mehr als 4 Milliarden Euro",
+                "correct": true
+            }, {
+                "text": "Mehr als 10 Milliarden Euro",
+                "correct": false
+            }
+
+        ]
+    }, {
+        "name": "Welchen Wert legt die Kölnmesse besonders?",
+        "answers": [
+            {
+                "text": "Auf Expansion in neue Märkte",
+                "correct": false
+            }, {
+                "text": "Auf Nachhaltigkeit",
+                "correct": true
+            }, {
+                "text": "Auf Gewinnmaximierung um jeden Preis",
+                "correct": false
+            }, {
+                "text": "Auf Vermeidung von Innovationen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat die Kölnmesse in den letzten Jahren vorangetrieben?",
+        "answers": [
+
+            {
+                "text": "Die Erhöhung der Eintrittspreise",
+                "correct": false
+            }, {
+                "text": "Die Reduzierung der Hallenkapazität",
+                "correct": false
+            }, {
+
+                "text": "Die Digitalisierung",
+                "correct": true
+            }, {
+                "text": "Die Einführung von exklusiven VIP-Bereichen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Veranstaltung hat die Kölnmesse als Plattform nicht?",
+        "answers": [
+
+            {
+                "text": "Filmfestivals",
+                "correct": false
+            }, {
+                "text": "Kunstausstellungen",
+                "correct": false
+            }, {
+                "text": "Technologiemesse",
+                "correct": false
+            }, {
+                "text": "Musikfestivals",
+                "correct": true
+            }
+        ]
+    }
+]

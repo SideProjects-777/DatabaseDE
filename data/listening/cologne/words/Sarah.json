@@ -130,72 +130,84 @@
         "en": "quickly",
         "ru": "быстро",
         "descriptionEN": "at a fast speed",
-        "descriptionRU": "на высокой скорости"
+        "descriptionRU": "на высокой скорости",
+        "descriptionDE": "mit hoher Geschwindigkeit"
     }, {
         "de": "ruhig",
         "en": "calmly",
         "ru": "спокойно",
         "descriptionEN": "in a peaceful and relaxed manner",
-        "descriptionRU": "спокойным и расслабленным образом"
+        "descriptionRU": "спокойным и расслабленным образом",
+        "descriptionDE": "auf friedliche und entspannte Weise"
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
         "descriptionEN": "many times or frequently",
-        "descriptionRU": "много раз или часто"
+        "descriptionRU": "много раз или часто",
+        "descriptionDE": "viele Male oder häufig"
     }, {
         "de": "gut",
         "en": "well",
         "ru": "хорошо",
         "descriptionEN": "in a satisfactory or skillful manner",
-        "descriptionRU": "удовлетворительно или мастерски"
+        "descriptionRU": "удовлетворительно или мастерски",
+        "descriptionDE": "auf zufriedenstellende oder geschickte Weise"
     }, {
         "de": "laut",
         "en": "loudly",
         "ru": "громко",
         "descriptionEN": "with a great deal of volume or intensity",
-        "descriptionRU": "с большим объемом или интенсивностью"
+        "descriptionRU": "с большим объемом или интенсивностью",
+        "descriptionDE": "mit viel Lautstärke oder Intensität"
     }, {
         "de": "vollständig",
         "en": "completely",
         "ru": "полностью",
         "descriptionEN": "in every way or as much as possible",
-        "descriptionRU": "во всех отношениях или насколько это возможно"
+        "descriptionRU": "во всех отношениях или насколько это возможно",
+        "descriptionDE": "in jeder Hinsicht oder so weit wie möglich"
     }, {
         "de": "tanzen",
         "en": "to dance",
         "ru": "танцевать",
         "descriptionEN": "to move the body rhythmically to music",
-        "descriptionRU": "двигаться телом ритмично под музыку"
+        "descriptionRU": "двигаться телом ритмично под музыку",
+        "descriptionDE": "den Körper rhythmisch zur Musik bewegen"
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "открывать",
         "descriptionEN": "to find something for the first time",
-        "descriptionRU": "находить что-то впервые"
+        "descriptionRU": "находить что-то впервые",
+        "descriptionDE": "etwas zum ersten Mal finden"
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
         "descriptionEN": "to take pleasure in something",
-        "descriptionRU": "получать удовольствие от чего-то"
+        "descriptionRU": "получать удовольствие от чего-то",
+        "descriptionDE": "etwas genießen"
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
         "descriptionEN": "to travel in or through an unfamiliar area in order to learn about it",
-        "descriptionRU": "путешествовать в незнакомой области с целью узнать о ней"
+        "descriptionRU": "путешествовать в незнакомой области с целью узнать о ней",
+        "descriptionDE": "in einem unbekannten Gebiet reisen, um es kennenzulernen"
     }, {
         "de": "teilen",
         "en": "to share",
         "ru": "делить",
         "descriptionEN": "to give a portion of something to another or others",
-        "descriptionRU": "отдавать часть чего-то другому или другим"
+        "descriptionRU": "отдавать часть чего-то другому или другим",
+        "descriptionDE": "einen Teil von etwas an andere oder andere geben"
     }, {
         "de": "bewundern",
         "en": "to admire",
         "ru": "восхищаться",
         "descriptionEN": "to regard with respect or warm approval",
-        "descriptionRU": "смотреть с уважением или теплым одобрением"
+        "descriptionRU": "смотреть с уважением или теплым одобрением",
+        "descriptionDE": "mit Respekt oder warmer Zustimmung betrachten"
     }
 ]

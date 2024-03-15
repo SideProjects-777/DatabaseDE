@@ -1,0 +1,227 @@
+[
+    {
+        "de": "der Turm",
+        "en": "tower",
+        "ru": "башня",
+        "descriptionEN": "a tall structure, typically taller than it is wide, often used as a vantage point.",
+        "descriptionRU": "высокая конструкция, обычно выше, чем широкая, часто используется в качестве точки обзора.",
+        "descriptionDE": "eine hohe Struktur, typischerweise höher als breit, oft als Aussichtspunkt genutzt."
+    }, {
+        "de": "die Kamera",
+        "en": "camera",
+        "ru": "камера",
+        "descriptionEN": "a device for recording visual images in the form of photographs, film, or video signals.",
+        "descriptionRU": "устройство для записи визуальных изображений в форме фотографий, кино или видеосигналов.",
+        "descriptionDE": "ein Gerät zur Aufzeichnung visueller Bilder in Form von Fotografien, Film oder Videosignalen."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town.",
+        "descriptionRU": "большой город.",
+        "descriptionDE": "eine große Stadt."
+    }, {
+        "de": "das Abenteuer",
+        "en": "adventure",
+        "ru": "приключение",
+        "descriptionEN": "an unusual and exciting or daring experience.",
+        "descriptionRU": "необычный и захватывающий или смелый опыт.",
+        "descriptionDE": "eine ungewöhnliche und aufregende oder kühne Erfahrung."
+    }, {
+        "de": "die Herausforderung",
+        "en": "challenge",
+        "ru": "вызов",
+        "descriptionEN": "a task or situation that tests someone's abilities.",
+        "descriptionRU": "задача или ситуация, проверяющая способности человека.",
+        "descriptionDE": "eine Aufgabe oder Situation, die die Fähigkeiten einer Person testet."
+    }, {
+        "de": "der Blickwinkel",
+        "en": "perspective",
+        "ru": "перспектива",
+        "descriptionEN": "a particular attitude toward or way of regarding something; a point of view.",
+        "descriptionRU": "особое отношение к чему-либо; точка зрения.",
+        "descriptionDE": "eine bestimmte Einstellung oder Art und Weise, etwas zu betrachten; eine Perspektive."
+    }, {
+        "de": "das Licht",
+        "en": "light",
+        "ru": "свет",
+        "descriptionEN": "the natural agent that stimulates sight and makes things visible.",
+        "descriptionRU": "естественный агент, стимулирующий зрение и делающий вещи видимыми.",
+        "descriptionDE": "der natürliche Agent, der das Sehen stimuliert und Dinge sichtbar macht."
+    }, {
+        "de": "die Luft",
+        "en": "air",
+        "ru": "воздух",
+        "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
+        "descriptionRU": "невидимое газообразное вещество, окружающее землю, смесь в основном кислорода и азота.",
+        "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, eine Mischung hauptsächlich aus Sauerstoff und Stickstoff."
+    }, {
+        "de": "glitzernd",
+        "en": "sparkling",
+        "ru": "искрящийся",
+        "descriptionEN": "shining with a flickering light.",
+        "descriptionRU": "сияющий мерцающим светом.",
+        "descriptionDE": "mit einem flackernden Licht glänzend."
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий дух",
+        "descriptionEN": "extremely impressive or beautiful.",
+        "descriptionRU": "чрезвычайно впечатляющий или красивый.",
+        "descriptionDE": "äußerst beeindruckend oder schön."
+    }, {
+        "de": "belebt",
+        "en": "lively",
+        "ru": "живой",
+        "descriptionEN": "full of life and energy; active and outgoing.",
+        "descriptionRU": "полный жизни и энергии; активный и общительный.",
+        "descriptionDE": "voll Leben und Energie; aktiv und kontaktfreudig."
+    }, {
+        "de": "berauschend",
+        "en": "exhilarating",
+        "ru": "воодушевляющий",
+        "descriptionEN": "making one feel very happy, animated, or elated; thrilling.",
+        "descriptionRU": "заставляющий чувствовать себя очень счастливым, воодушевленным или взволнованным; захватывающий.",
+        "descriptionDE": "ein Gefühl von großer Freude, Belebung oder Hochstimmung erzeugend; aufregend."
+    }, {
+        "de": "neu",
+        "en": "new",
+        "ru": "новый",
+        "descriptionEN": "produced, introduced, or discovered recently or now for the first time; not existing before.",
+        "descriptionRU": "произведенный, представленный или обнаруженный недавно или впервые; не существовавший ранее.",
+        "descriptionDE": "kürzlich oder jetzt zum ersten Mal produziert, eingeführt oder entdeckt; zuvor nicht existierend."
+    }, {
+        "de": "perfekt",
+        "en": "perfect",
+        "ru": "идеальный",
+        "descriptionEN": "having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
+        "descriptionRU": "имеющий все необходимые или желательные элементы, качества или характеристики; такой хороший, каким только возможно быть.",
+        "descriptionDE": "alle erforderlichen oder wünschenswerten Elemente, Eigenschaften oder Merkmale aufweisend; so gut wie es nur möglich ist."
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind; unlike anything else.",
+        "descriptionRU": "будучи единственным в своем роде; не похожий ни на что другое.",
+        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert."
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "взволнованный",
+        "descriptionEN": "very enthusiastic and eager.",
+        "descriptionRU": "очень восторженный и нетерпеливый.",
+        "descriptionDE": "sehr begeistert und eifrig."
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий дух",
+        "descriptionEN": "extremely impressive or beautiful.",
+        "descriptionRU": "чрезвычайно впечатляющий или красивый.",
+        "descriptionDE": "äußerst beeindruckend oder schön."
+    }, {
+        "de": "spektakulär",
+        "en": "spectacular",
+        "ru": "зрелищный",
+        "descriptionEN": "beautiful in a dramatic and eye-catching way.",
+        "descriptionRU": "красивый в драматическом и привлекательном смысле.",
+        "descriptionDE": "auf dramatische und auffällige Weise schön."
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind; unlike anything else.",
+        "descriptionRU": "будучи единственным в своем роде; не похожий ни на что другое.",
+        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert."
+    }, {
+        "de": "wertvoll",
+        "en": "valuable",
+        "ru": "ценный",
+        "descriptionEN": "worth a lot of money or highly prized.",
+        "descriptionRU": "стоящий много денег или высоко ценится.",
+        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+    }, {
+        "de": "neu",
+        "en": "new",
+        "ru": "новый",
+        "descriptionEN": "produced, introduced, or discovered recently or now for the first time; not existing before.",
+        "descriptionRU": "произведенный, представленный или обнаруженный недавно или впервые; не существовавший ранее.",
+        "descriptionDE": "kürzlich oder jetzt zum ersten Mal produziert, eingeführt oder entdeckt; zuvor nicht existierend."
+    }, {
+        "de": "wertvoll",
+        "en": "valuable",
+        "ru": "ценный",
+        "descriptionEN": "worth a lot of money or highly prized.",
+        "descriptionRU": "стоящий много денег или высоко ценится.",
+        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+    }, {
+        "de": "wertvoll",
+        "en": "valuable",
+        "ru": "ценный",
+        "descriptionEN": "worth a lot of money or highly prized.",
+        "descriptionRU": "стоящий много денег или высоко ценится.",
+        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+    }, {
+        "de": "bemerkenswert",
+        "en": "remarkable",
+        "ru": "замечательный",
+        "descriptionEN": "worthy of attention; striking.",
+        "descriptionRU": "достойный внимания; выдающийся.",
+        "descriptionDE": "beachtenswert; auffallend."
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий дух",
+        "descriptionEN": "extremely impressive or beautiful.",
+        "descriptionRU": "чрезвычайно впечатляющий или красивый.",
+        "descriptionDE": "äußerst beeindruckend oder schön."
+    }, {
+        "de": "wertvoll",
+        "en": "valuable",
+        "ru": "ценный",
+        "descriptionEN": "worth a lot of money or highly prized.",
+        "descriptionRU": "стоящий много денег или высоко ценится.",
+        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+    }, {
+        "de": "wunderschön",
+        "en": "gorgeous",
+        "ru": "великолепный",
+        "descriptionEN": "beautiful; very attractive.",
+        "descriptionRU": "красивый; очень привлекательный.",
+        "descriptionDE": "schön; sehr attraktiv."
+    }, {
+        "de": "spektakulär",
+        "en": "spectacular",
+        "ru": "зрелищный",
+        "descriptionEN": "beautiful in a dramatic and eye-catching way.",
+        "descriptionRU": "красивый в драматическом и привлекательном смысле.",
+        "descriptionDE": "auf dramatische und auffällige Weise schön."
+    }, {
+        "de": "beeindruckend",
+        "en": "impressive",
+        "ru": "впечатляющий",
+        "descriptionEN": "evoking admiration through size, quality, or skill.",
+        "descriptionRU": "вызывающий восхищение своими размерами, качеством или мастерством.",
+        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschick hervorrufend."
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind; unlike anything else.",
+        "descriptionRU": "будучи единственным в своем роде; не похожий ни на что другое.",
+        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert."
+    }, {
+        "de": "spektakulär",
+        "en": "spectacular",
+        "ru": "зрелищный",
+        "descriptionEN": "beautiful in a dramatic and eye-catching way.",
+        "descriptionRU": "красивый в драматическом и привлекательном смысле.",
+        "descriptionDE": "auf dramatische und auffällige Weise schön."
+    }, {
+        "de": "belebt",
+        "en": "lively",
+        "ru": "живой",
+        "descriptionEN": "full of life and energy; active and outgoing.",
+        "descriptionRU": "полный жизни и энергии; активный и общительный.",
+        "descriptionDE": "voll Leben und Energie; aktiv und kontaktfreudig."
+    }
+]

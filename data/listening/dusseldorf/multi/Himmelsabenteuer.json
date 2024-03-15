@@ -1,0 +1,175 @@
+[
+    {
+        "name": "Was ist Yulias Beruf?",
+        "answers": [
+
+            {
+                "text": "Kellnerin",
+                "correct": false
+            }, {
+                "text": "Lehrerin",
+                "correct": false
+            }, {
+                "text": "Reisende und Fotografin",
+                "correct": true
+            }, {
+                "text": "Ärztin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was motiviert Yulia, auf Reisen zu gehen?",
+        "answers": [
+
+            {
+                "text": "Geld verdienen",
+                "correct": false
+            }, {
+                "text": "Sicherheit",
+                "correct": false
+            }, {
+                "text": "Neue Erfahrungen und Herausforderungen",
+                "correct": true
+            }, {
+                "text": "Ruhe und Entspannung",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo stand Yulia vor dem Rheinturm?",
+        "answers": [
+            {
+                "text": "Düsseldorf, Deutschland",
+                "correct": true
+            }, {
+                "text": "Berlin, Deutschland",
+                "correct": false
+            }, {
+                "text": "Paris, Frankreich",
+                "correct": false
+            }, {
+                "text": "London, England",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Yulias Eindruck von der Aussicht vom Rheinturm?",
+        "answers": [
+            {
+                "text": "Enttäuschend",
+                "correct": false
+            }, {
+                "text": "Spektakulär",
+                "correct": true
+            }, {
+                "text": "Gewöhnlich",
+                "correct": false
+            }, {
+                "text": "Verwirrend",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tat Yulia, um ihre fotografischen Fähigkeiten aus der Vogelperspektive zu verbessern?",
+        "answers": [
+            {
+                "text": "Besuchte einen Kunstkurs",
+                "correct": false
+            }, {
+                "text": "Nahm an einem Tandemflug mit Gleitschirmfliegern teil",
+                "correct": true
+            }, {
+                "text": "Las ein Buch über Fotografie",
+                "correct": false
+            }, {
+                "text": "Entspannte sich am Strand",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Yulias Eindruck von ihrem Gleitschirmflug?",
+        "answers": [
+            {
+                "text": "Berauschend",
+                "correct": true
+            }, {
+                "text": "Langweilig",
+                "correct": false
+            }, {
+                "text": "Beängstigend",
+                "correct": false
+            }, {
+                "text": "Nervenaufreibend",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum wollte Yulia einen Hubschrauberrundflug machen?",
+        "answers": [
+            {
+                "text": "Um schneller zum Hotel zurückzukehren",
+                "correct": false
+            }, {
+                "text": "Um Zeit zu sparen",
+                "correct": false
+            }, {
+                "text": "Um einen Freund zu beeindrucken",
+                "correct": false
+            }, {
+                "text": "Um die Stadt aus einer anderen Perspektive zu sehen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was war das Ergebnis von Yulias Hubschrauberrundflug?",
+        "answers": [
+            {
+                "text": "Die Aussicht war enttäuschend",
+                "correct": false
+            }, {
+                "text": "Die Aussicht war durchschnittlich",
+                "correct": false
+            }, {
+                "text": "Die Aussicht war atemberaubend",
+                "correct": true
+            }, {
+                "text": "Die Aussicht war verwirrend",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Yulia aus ihrem Abenteuer in Düsseldorf gelernt?",
+        "answers": [
+            {
+                "text": "Nie aufhören zu erkunden und zu lernen",
+                "correct": true
+            }, {
+                "text": "Immer auf Nummer sicher gehen",
+                "correct": false
+            }, {
+                "text": "Nur das zu tun, was man bereits kennt",
+                "correct": false
+            }, {
+                "text": "Sich nie aus der Komfortzone bewegen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das wichtigste für Yulia bei ihrem Besuch des Rheinturms?",
+        "answers": [
+            {
+                "text": "Die Geschichte des Turms zu erfahren",
+                "correct": false
+            }, {
+                "text": "Ein Souvenir zu kaufen",
+                "correct": false
+            }, {
+                "text": "Ein Picknick zu machen",
+                "correct": false
+            }, {
+                "text": "Die Stadt aus der Vogelperspektive zu fotografieren",
+                "correct": true
+            }
+        ]
+    }
+]

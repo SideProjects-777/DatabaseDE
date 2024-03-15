@@ -1,0 +1,150 @@
+[
+    {
+        "de": "die Künstlerin",
+        "en": "artist",
+        "ru": "художница",
+        "descriptionEN": "a person who creates art",
+        "descriptionRU": "человек, создающий искусство",
+        "descriptionDE": "Eine Person, die Kunst schafft"
+    }, {
+        "de": "das Museum",
+        "en": "museum",
+        "ru": "музей",
+        "descriptionEN": "a building or place where works of art, scientific specimens, or other objects of permanent value are kept and displayed",
+        "descriptionRU": "здание или место, где хранятся и выставляются произведения искусства, научные экспонаты или другие объекты постоянной ценности",
+        "descriptionDE": "Ein Gebäude oder Ort, an dem Kunstwerke, wissenschaftliche Exemplare oder andere Objekte von dauerhaftem Wert aufbewahrt und ausgestellt werden"
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or creative work",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или творческой работы",
+        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines kreativen Werkes"
+    }, {
+        "de": "die Art",
+        "en": "way",
+        "ru": "способ",
+        "descriptionEN": "a manner, method, or means of doing something",
+        "descriptionRU": "способ, метод или средство сделать что-то",
+        "descriptionDE": "Eine Art, Methode oder Mittel, etwas zu tun"
+    }, {
+        "de": "das Licht",
+        "en": "light",
+        "ru": "свет",
+        "descriptionEN": "the natural agent that stimulates sight and makes things visible",
+        "descriptionRU": "естественный агент, который стимулирует зрение и делает вещи видимыми",
+        "descriptionDE": "Der natürliche Agent, der das Sehen stimuliert und Dinge sichtbar macht"
+    }, {
+        "de": "das Gemälde",
+        "en": "painting",
+        "ru": "картина",
+        "descriptionEN": "a picture or design executed in paints",
+        "descriptionRU": "изображение или дизайн, выполненный красками",
+        "descriptionDE": "Ein Bild oder Design, das in Farben ausgeführt ist"
+    }, {
+        "de": "die Skulptur",
+        "en": "sculpture",
+        "ru": "скульптура",
+        "descriptionEN": "the art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster",
+        "descriptionRU": "искусство создания двух- или трехмерных репрезентативных или абстрактных форм, особенно путем резьбы камня или дерева или литья металла или гипса",
+        "descriptionDE": "Die Kunst, zweidimensionale oder dreidimensionale repräsentative oder abstrakte Formen zu schaffen, insbesondere durch Stein- oder Holzschnitzerei oder durch Metall- oder Gipsformen"
+    }, {
+        "de": "der Diebstahl",
+        "en": "theft",
+        "ru": "кража",
+        "descriptionEN": "the action or crime of stealing",
+        "descriptionRU": "действие или преступление воровства",
+        "descriptionDE": "Die Handlung oder das Verbrechen des Diebstahls"
+    }, {
+        "de": "der Detektiv",
+        "en": "detective",
+        "ru": "детектив",
+        "descriptionEN": "a person, especially a police officer, whose occupation is to investigate and solve crimes",
+        "descriptionRU": "человек, особенно полицейский, чья профессия заключается в расследовании и разгадке преступлений",
+        "descriptionDE": "Eine Person, insbesondere ein Polizeibeamter, dessen Beruf es ist, Verbrechen zu untersuchen und zu lösen"
+    }, {
+        "de": "der Kunstsammler",
+        "en": "art collector",
+        "ru": "коллекционер искусства",
+        "descriptionEN": "a person who collects art",
+        "descriptionRU": "человек, собирающий искусство",
+        "descriptionDE": "Eine Person, die Kunst sammelt"
+    }, {
+        "de": "der Mitarbeiter",
+        "en": "employee",
+        "ru": "сотрудник",
+        "descriptionEN": "a person employed for wages or salary, especially at nonexecutive level",
+        "descriptionRU": "человек, нанятый за зарплату, особенно на невысоком уровне",
+        "descriptionDE": "Eine Person, die gegen Lohn oder Gehalt beschäftigt ist, insbesondere auf nicht leitender Ebene"
+    }, {
+        "de": "das Sicherheitssystem",
+        "en": "security system",
+        "ru": "система безопасности",
+        "descriptionEN": "a system designed to detect intrusion or unauthorized entry into a building or area",
+        "descriptionRU": "система, разработанная для обнаружения вторжения или несанкционированного входа в здание или район",
+        "descriptionDE": "Ein System, das entwickelt wurde, um Eindringen oder nicht autorisierten Zugang zu einem Gebäude oder Bereich zu erkennen"
+    }, {
+        "de": "der Besucher",
+        "en": "visitor",
+        "ru": "посетитель",
+        "descriptionEN": "a person who visits a place",
+        "descriptionRU": "человек, посещающий место",
+        "descriptionDE": "Eine Person, die einen Ort besucht"
+    }, {
+        "de": "wandern",
+        "en": "to wander",
+        "ru": "блуждать",
+        "descriptionEN": "to walk or move in a leisurely, casual, or aimless way",
+        "descriptionRU": "идти или двигаться медленно, неспешно или бесцельно",
+        "descriptionDE": "Langsam, zwanglos oder ziellos gehen oder sich bewegen"
+    }, {
+        "de": "studieren",
+        "en": "to study",
+        "ru": "изучать",
+        "descriptionEN": "to devote time and attention to gaining knowledge of a subject",
+        "descriptionRU": "посвящать время и внимание приобретению знаний по теме",
+        "descriptionDE": "Zeit und Aufmerksamkeit darauf verwenden, Wissen über ein Thema zu erlangen"
+    }, {
+        "de": "beobachten",
+        "en": "to observe",
+        "ru": "наблюдать",
+        "descriptionEN": "to notice or perceive (something) and register it as being significant",
+        "descriptionRU": "замечать или воспринимать (что-то) и регистрировать его как значимое",
+        "descriptionDE": "etwas bemerken oder wahrnehmen und es als bedeutend registrieren"
+    }, {
+        "de": "klären",
+        "en": "to clarify",
+        "ru": "разъяснять",
+        "descriptionEN": "to make (a statement or situation) less confused and more clearly comprehensible",
+        "descriptionRU": "сделать (заявление или ситуацию) менее запутанными и более понятными",
+        "descriptionDE": "Etwas weniger verwirrt und verständlicher machen"
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "открывать",
+        "descriptionEN": "to find (something or someone) unexpectedly or in the course of a search",
+        "descriptionRU": "найти (что-то или кого-то) неожиданно или в ходе поиска",
+        "descriptionDE": "Etwas (oder jemanden) unerwartet oder im Laufe einer Suche finden"
+    }, {
+        "de": "ertappen",
+        "en": "to catch",
+        "ru": "поймать",
+        "descriptionEN": "to seize or capture, especially after pursuit",
+        "descriptionRU": "захватить или поймать, особенно после преследования",
+        "descriptionDE": "Ergreifen oder Erfassen, besonders nach Verfolgung"
+    }, {
+        "de": "verhaften",
+        "en": "to arrest",
+        "ru": "арестовывать",
+        "descriptionEN": "to seize (someone) by legal authority and take them into custody",
+        "descriptionRU": "захватить (кого-то) по законному поручению и поместить его под стражу",
+        "descriptionDE": "Jemanden aufgrund einer rechtlichen Anordnung festnehmen und in Gewahrsam nehmen"
+    }, {
+        "de": "enthüllen",
+        "en": "to reveal",
+        "ru": "раскрыть",
+        "descriptionEN": "to make (previously unknown or secret information) known to others",
+        "descriptionRU": "сделать (ранее неизвестную или секретную информацию) известной другим",
+        "descriptionDE": "Etwas (zuvor unbekannte oder geheime Informationen) anderen bekannt machen"
+    }
+]

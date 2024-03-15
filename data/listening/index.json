@@ -12,7 +12,7 @@
             "ru": "Город собора"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
-        "amountOfStories": 10,
+        "amountOfStories": 15,
         "active": true
     }, {
         "name": {
@@ -42,7 +42,7 @@
             "ru": "Оживленные ярмарки моды и торговли"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
-        "amountOfStories": 1,
+        "amountOfStories": 4,
         "active": true
     }, {
         "name": {
@@ -57,8 +57,8 @@
             "ru": "Слияние рек Рейн и Мозель"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
-        "amountOfStories": 0,
-        "active": false
+        "amountOfStories": 1,
+        "active": true
     }, {
         "name": {
             "de": "Frankfurt",
