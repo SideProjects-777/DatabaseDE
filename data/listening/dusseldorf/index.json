@@ -1,22 +1,6 @@
 [
     {
         "name": {
-            "en": "Dreams in Dusseldorf",
-            "de": "Träume in Düsseldorf",
-            "ru": "Мечты в Дюссельдорфе"
-        },
-        "description": {
-            "en": "Actor's journey",
-            "de": "Schauspielerreise",
-            "ru": "Путь актера"
-        },
-        "level": "A2",
-        "image": "Schauspielerreise.jpg",
-        "file": "Schauspielerreise.mp3",
-        "words": "Schauspielerreise.json",
-        "yesNo": "Schauspielerreise.json"
-    }, {
-        "name": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
             "ru": "Пробежка у променада"
@@ -47,22 +31,6 @@
         "file": "Himmelsabenteuer.mp3",
         "words": "Himmelsabenteuer.json",
         "multi": "Himmelsabenteuer.json"
-    }, {
-        "name": {
-            "en": "Japan Day",
-            "de": "Japan-Tag",
-            "ru": "Японский день"
-        },
-        "description": {
-            "en": "Celebration of Japanese culture",
-            "de": "Feier der japanischen Kultur",
-            "ru": "Празднование японской культуры"
-        },
-        "level": "B2",
-        "image": "JapanDay.jpg",
-        "file": "JapanDay.mp3",
-        "words": "JapanDay.json",
-        "multi": "JapanDay.json"
     }, {
         "name": {
             "en": "Benrath Castle",
