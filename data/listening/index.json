@@ -12,8 +12,10 @@
             "ru": "Город собора"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.mp4",
         "amountOfStories": 15,
-        "active": true
+        "active": true,
+        "hasVideo":true
     }, {
         "name": {
             "de": "Bonn",
@@ -27,8 +29,10 @@
             "ru": "Родина Бетховена"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonn.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loadingGermanFlag.mp4",
         "amountOfStories": 15,
-        "active": true
+        "active": true,
+        "hasVideo":false
     }, {
         "name": {
             "de": "Düsseldorf",
@@ -42,8 +46,10 @@
             "ru": "Оживленные ярмарки моды и торговли"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loadingMap.mp4",
         "amountOfStories": 4,
-        "active": true
+        "active": true,
+        "hasVideo":false
     }, {
         "name": {
             "de": "Koblenz",
@@ -57,8 +63,27 @@
             "ru": "Слияние рек Рейн и Мозель"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
         "amountOfStories": 1,
-        "active": true
+        "active": true,
+        "hasVideo":false
+    }, {
+        "name": {
+            "de": "Berlin",
+            "en": "Berlin",
+            "ru": "Берлин"
+        },
+        "folder": "berlin",
+        "description": {
+            "de": "Multikulturelle historische Metropole",
+            "en": "Multicultural historic metropolis",
+            "ru": "Многонациональный исторический мегаполис"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
+        "amountOfStories": 0,
+        "active": false,
+        "hasVideo":true
     }, {
         "name": {
             "de": "Frankfurt",
@@ -72,8 +97,10 @@
             "ru": "Банковский город"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/frankfurt.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
         "amountOfStories": 0,
-        "active": false
+        "active": false,
+        "hasVideo":true
     }, {
         "name": {
             "de": "Dortmund",
@@ -87,7 +114,9 @@
             "ru": "Сигна́л Иду́на Парк"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
         "amountOfStories": 0,
-        "active": false
+        "active": false,
+        "hasVideo":true
     }
 ]
