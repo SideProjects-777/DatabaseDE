@@ -1,0 +1,171 @@
+[
+    {
+        "de": "die Altstadt",
+        "en": "old town",
+        "ru": "старый город",
+        "descriptionEN": "Historic district of a city, often characterized by traditional buildings and streets.",
+        "descriptionRU": "Исторический район города, часто характеризующийся традиционными зданиями и улицами.",
+        "descriptionDE": "Historischer Stadtteil einer Stadt, oft gekennzeichnet durch traditionelle Gebäude und Straßen."
+    }, {
+        "de": "die Theke",
+        "en": "counter",
+        "ru": "стойка",
+        "descriptionEN": "A long, narrow table or counter at which food or drinks are served.",
+        "descriptionRU": "Длинный, узкий стол или прилавок, за которым подают еду или напитки.",
+        "descriptionDE": "Ein langer, schmaler Tisch oder Tresen, an dem Essen oder Getränke serviert werden."
+    }, {
+        "de": "der Aufschwung",
+        "en": "upswing",
+        "ru": "подъем",
+        "descriptionEN": "A period of economic or business growth, often marked by increased activity and prosperity.",
+        "descriptionRU": "Период экономического или бизнес-роста, часто отмеченный увеличением активности и процветанием.",
+        "descriptionDE": "Eine Phase des wirtschaftlichen oder geschäftlichen Wachstums, oft gekennzeichnet durch erhöhte Aktivität und Wohlstand."
+    }, {
+        "de": "das Bier",
+        "en": "beer",
+        "ru": "пиво",
+        "descriptionEN": "An alcoholic beverage made from fermented grains, typically barley, flavored with hops.",
+        "descriptionRU": "Алкогольный напиток, изготавливаемый из сброженных зерновых, обычно ячменя, с добавлением хмеля.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Getreidesorten, in der Regel Gerste, mit Hopfen aromatisiert wird."
+    }, {
+        "de": "die Feier",
+        "en": "celebration",
+        "ru": "праздник",
+        "descriptionEN": "A social gathering or event held to mark a special occasion or holiday.",
+        "descriptionRU": "Социальная встреча или мероприятие, проводимое в честь особого случая или праздника.",
+        "descriptionDE": "Ein gesellschaftliches Treffen oder Ereignis, das abgehalten wird, um einen besonderen Anlass oder Feiertag zu markieren."
+    }, {
+        "de": "das Rezept",
+        "en": "recipe",
+        "ru": "рецепт",
+        "descriptionEN": "A set of instructions for preparing a particular dish, including a list of ingredients.",
+        "descriptionRU": "Набор инструкций для приготовления определенного блюда, включая список ингредиентов.",
+        "descriptionDE": "Eine Anleitung zum Zubereiten eines bestimmten Gerichts, einschließlich einer Liste der Zutaten."
+    }, {
+        "de": "der Karneval",
+        "en": "carnival",
+        "ru": "карнавал",
+        "descriptionEN": "A festive season occurring before Lent, often involving parades, costumes, and parties.",
+        "descriptionRU": "Праздничный сезон, происходящий перед Великим постом, часто включающий парады, костюмы и вечеринки.",
+        "descriptionDE": "Eine festliche Jahreszeit vor der Fastenzeit, die oft Umzüge, Kostüme und Partys beinhaltet."
+    }, {
+        "de": "der Besucher",
+        "en": "visitor",
+        "ru": "посетитель",
+        "descriptionEN": "Someone who goes to a place, event, etc., for a short time.",
+        "descriptionRU": "Человек, который приходит в место, событие и т. д., на короткое время.",
+        "descriptionDE": "Jemand, der für kurze Zeit an einen Ort, ein Ereignis usw. geht."
+    }, {
+        "de": "die Spezialität",
+        "en": "specialty",
+        "ru": "специальность",
+        "descriptionEN": "A particular or distinctive quality, characteristic, or feature.",
+        "descriptionRU": "Особое или характерное качество, черта или особенность.",
+        "descriptionDE": "Eine bestimmte oder charakteristische Qualität, Eigenschaft oder Merkmal."
+    }, {
+        "de": "der Umzug",
+        "en": "parade",
+        "ru": "парад",
+        "descriptionEN": "A public procession, especially one celebrating a special day or event.",
+        "descriptionRU": "Публичное шествие, особенно празднующее особый день или событие.",
+        "descriptionDE": "Ein öffentlicher Umzug, besonders einer, der einen besonderen Tag oder ein Ereignis feiert."
+    }, {
+        "de": "die Auswahl",
+        "en": "selection",
+        "ru": "выбор",
+        "descriptionEN": "The action or fact of carefully choosing someone or something as being the best or most suitable.",
+        "descriptionRU": "Действие или факт тщательного выбора кого-то или чего-то как наилучшего или наиболее подходящего.",
+        "descriptionDE": "Die Handlung oder Tatsache, jemanden oder etwas sorgfältig als das Beste oder Geeignetste auszuwählen."
+    }, {
+        "de": "trinken",
+        "en": "to drink",
+        "ru": "пить",
+        "descriptionEN": "To consume liquid through the mouth.",
+        "descriptionRU": "Потреблять жидкость через рот.",
+        "descriptionDE": "Flüssigkeit durch den Mund aufnehmen."
+    }, {
+        "de": "feiern",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "To observe an event or occasion with ceremonies of respect, festivity, or rejoicing.",
+        "descriptionRU": "Отмечать событие или случай церемониями уважения, праздника или веселья.",
+        "descriptionDE": "Ein Ereignis oder einen Anlass mit Zeremonien des Respekts, der Festlichkeit oder der Freude beobachten."
+    }, {
+        "de": "erleben",
+        "en": "to experience",
+        "ru": "переживать",
+        "descriptionEN": "To encounter or undergo an event or occurrence.",
+        "descriptionRU": "Сталкиваться или переживать событие или явление.",
+        "descriptionDE": "Ein Ereignis oder Vorkommnis begegnen oder durchmachen."
+    }, {
+        "de": "bieten",
+        "en": "to offer",
+        "ru": "предлагать",
+        "descriptionEN": "To present or proffer something for (someone) to accept or reject as so desired.",
+        "descriptionRU": "Представить или предложить что-то для принятия или отклонения, как это желается.",
+        "descriptionDE": "Etwas (jemandem) zur Annahme oder Ablehnung vorlegen oder anbieten, wie gewünscht."
+    }, {
+        "de": "verwöhnen",
+        "en": "to spoil",
+        "ru": "баловать",
+        "descriptionEN": "To give someone everything they want and demand, often in a way that is not good for them.",
+        "descriptionRU": "Давать кому-то все, что они хотят и требуют, часто таким образом, который для них не хорош.",
+        "descriptionDE": "Jemandem alles geben, was er will und fordert, oft auf eine Weise, die für ihn nicht gut ist."
+    }, {
+        "de": "köstlich",
+        "en": "delicious",
+        "ru": "вкусный",
+        "descriptionEN": "Extremely pleasing to the sense of taste.",
+        "descriptionRU": "Чрезвычайно приятный для чувства вкуса.",
+        "descriptionDE": "Äußerst angenehm für den Geschmackssinn."
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "Existing in or as part of a tradition; long-established.",
+        "descriptionRU": "Существующий в или как часть традиции; долго установленный.",
+        "descriptionDE": "Bestehend in oder als Teil einer Tradition; lange etabliert."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "Known about by many people.",
+        "descriptionRU": "Известный многим людям.",
+        "descriptionDE": "Von vielen Menschen bekannt."
+    }, {
+        "de": "beherbergen",
+        "en": "to accommodate",
+        "ru": "размещать",
+        "descriptionEN": "To provide housing or shelter for someone or something.",
+        "descriptionRU": "Обеспечить жильем или укрытием кого-то или что-то.",
+        "descriptionDE": "Jemandem oder etwas Unterkunft oder Schutz bieten."
+    }, {
+        "de": "unterscheiden",
+        "en": "to distinguish",
+        "ru": "отличать",
+        "descriptionEN": "To recognize or perceive the difference between things.",
+        "descriptionRU": "Распознать или воспринять разницу между вещами.",
+        "descriptionDE": "Den Unterschied zwischen Dingen erkennen oder wahrnehmen."
+    }, {
+        "de": "erwerben",
+        "en": "to acquire",
+        "ru": "приобретать",
+        "descriptionEN": "To gain or come into possession of something.",
+        "descriptionRU": "Получить или завладеть чем-то.",
+        "descriptionDE": "Etwas erhalten oder in den Besitz von etwas gelangen."
+    }, {
+        "de": "halten",
+        "en": "to hold",
+        "ru": "держать",
+        "descriptionEN": "To support and keep someone or something in a particular position or state.",
+        "descriptionRU": "Поддерживать и сохранять кого-то или что-то в определенном положении или состоянии.",
+        "descriptionDE": "Jemanden oder etwas in einer bestimmten Position oder einem bestimmten Zustand unterstützen und halten."
+    }, {
+        "de": "verwöhnen",
+        "en": "to spoil",
+        "ru": "баловать",
+        "descriptionEN": "To give someone everything they want and demand, often in a way that is not good for them.",
+        "descriptionRU": "Давать кому-то все, что они хотят и требуют, часто таким образом, который для них не хорош.",
+        "descriptionDE": "Jemandem alles geben, was er will und fordert, oft auf eine Weise, die für ihn nicht gut ist."
+    }
+]

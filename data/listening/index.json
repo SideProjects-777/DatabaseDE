@@ -12,7 +12,7 @@
             "ru": "Город собора"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
-        "amountOfStories": 10,
+        "amountOfStories": 15,
         "active": true
     }, {
         "name": {
@@ -42,7 +42,7 @@
             "ru": "Оживленные ярмарки моды и торговли"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
-        "amountOfStories": 2,
+        "amountOfStories": 4,
         "active": true
     }, {
         "name": {

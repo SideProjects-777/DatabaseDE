@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Was war Stefan Wagners größte Leidenschaft?",
+        "answers": [
+            {
+                "text": "Geschichte und Schlösser",
+                "correct": true
+            }, {
+                "text": "Kunst und Musik",
+                "correct": false
+            }, {
+                "text": "Sport und Abenteuer",
+                "correct": false
+            }, {
+                "text": "Wissenschaft und Technologie",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das Ziel der Exkursion von Stefan Wagners Schule?",
+        "answers": [
+            {
+                "text": "Eine Stadtbesichtigung machen",
+                "correct": false
+            }, {
+                "text": "Schloss Benrath in Düsseldorf besuchen",
+                "correct": true
+            }, {
+                "text": "Eine Wanderung durch den Wald",
+                "correct": false
+            }, {
+                "text": "Ein Museum besuchen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer war die Führerin der Exkursion?",
+        "answers": [
+
+            {
+                "text": "Herr Müller",
+                "correct": false
+            }, {
+                "text": "Frau Wagner",
+                "correct": false
+            }, {
+                "text": "Frau Schmidt",
+                "correct": true
+            }, {
+                "text": "Herr Schmidt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was faszinierte Stefan Wagner am meisten, als er das Schloss Benrath sah?",
+        "answers": [
+
+            {
+                "text": "Die Größe des Schlosses",
+                "correct": false
+            }, {
+                "text": "Die Anzahl der Besucher",
+                "correct": false
+            }, {
+                "text": "Die Lage des Schlosses",
+                "correct": false
+            }, {
+                "text": "Die Pracht des Schlosses",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was tat Stefan Wagner, als er in der Rüstkammer war?",
+        "answers": [
+            {
+                "text": "Er probierte einen Helm an",
+                "correct": true
+            }, {
+                "text": "Er probierte ein Schwert an",
+                "correct": false
+            }, {
+                "text": "Er machte ein Foto von den Waffen",
+                "correct": false
+            }, {
+                "text": "Er suchte nach versteckten Räumen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was entdeckte Stefan Wagner am Ende des Ganges?",
+        "answers": [
+            {
+                "text": "Eine kleine Tür",
+                "correct": true
+            }, {
+                "text": "Eine große Statue",
+                "correct": false
+            }, {
+                "text": "Eine geheime Schatztruhe",
+                "correct": false
+            }, {
+                "text": "Eine verborgene Treppe",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fand Stefan Wagner in dem verborgenen Raum?",
+        "answers": [
+
+            {
+                "text": "Eine alte Bibliothek",
+                "correct": false
+            }, {
+                "text": "Ein verstecktes Labor",
+                "correct": false
+            }, {
+                "text": "Eine Truhe voller alter Münzen und wertvoller Juwelen",
+                "correct": true
+            }, {
+                "text": "Eine Sammlung von Gemälden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer hat Stefan Wagner bestätigt, dass es sich bei der gefundenen Karte tatsächlich um eine Schatzkarte handelt?",
+        "answers": [
+
+            {
+                "text": "Herr Schmidt",
+                "correct": false
+            }, {
+                "text": "Stefans Freund",
+                "correct": false
+            }, {
+                "text": "Frau Schmidt",
+                "correct": true
+            }, {
+                "text": "Ein anderer Tourist",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was taten Stefan Wagner und seine Gruppe, als sie die Schatzkarte fanden?",
+        "answers": [
+
+            {
+                "text": "Sie gingen zurück zur Haupthalle",
+                "correct": false
+            }, {
+                "text": "Sie verließen das Schloss",
+                "correct": false
+            }, {
+                "text": "Sie begaben sich auf Schatzsuche",
+                "correct": true
+            }, {
+                "text": "Sie suchten nach weiteren Geheimgängen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Stefan Wagners Gefühl am Ende des Tages?",
+        "answers": [
+
+            {
+                "text": "Enttäuschung über den kleinen Schatz",
+                "correct": false
+            }, {
+                "text": "Frustration über die lange Führung",
+                "correct": false
+            }, {
+                "text": "Dankbarkeit dafür, seinen Kindheitstraum verwirklicht zu haben",
+                "correct": true
+            }, {
+                "text": "Verwirrung über die gefundenen Artefakte",
+                "correct": false
+            }
+        ]
+    }
+]

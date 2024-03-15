@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Altstadt von Düsseldorf liegt am Ufer des Rheins.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Viertel der Altstadt wurde im 18. Jahrhundert erbaut.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Altstadt von Düsseldorf ist für ihre modernen Gebäude bekannt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Altstadt beherbergt mehr als 300 Bars, Pubs und Restaurants.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Düsseldorfer Altbier wird nur an wenigen Orten der Welt gebraut.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Spitzname 'die längste Bar der Welt' entstand erst in den 1980er Jahren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Düsseldorfer Karneval ist einer der kleinsten in Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In der Altstadt gibt es hauptsächlich Bars und keine kulturellen Sehenswürdigkeiten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Altstadt von Düsseldorf ist bekannt für ihre exklusive Auswahl an Fast-Food-Restaurants.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Altstadt von Düsseldorf ist ein beliebtes Ziel für Besucher aus aller Welt.",
+        "tr": true,
+        "fle": false
+    }
+]

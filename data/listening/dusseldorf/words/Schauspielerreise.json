@@ -1,0 +1,129 @@
+[
+    {
+        "de": "das Theater",
+        "en": "theater",
+        "ru": "театр",
+        "descriptionEN": "a building or outdoor area in which plays and other dramatic performances are given.",
+        "descriptionRU": "здание или открытая площадка, на которой проводятся пьесы и другие драматические представления.",
+        "descriptionDE": "ein Gebäude oder eine Freifläche, auf der Theaterstücke und andere dramatische Aufführungen stattfinden."
+    }, {
+        "de": "der Schauspieler",
+        "en": "actor",
+        "ru": "актер",
+        "descriptionEN": "a person whose profession is acting on the stage, in movies, or on television.",
+        "descriptionRU": "человек, чьим профессиональным занятием является актёрское мастерство на сцене, в кино или по телевидению.",
+        "descriptionDE": "eine Person, deren Beruf das Schauspiel auf der Bühne, in Filmen oder im Fernsehen ist."
+    }, {
+        "de": "die Rolle",
+        "en": "role",
+        "ru": "роль",
+        "descriptionEN": "the function assumed or part played by a person or thing in a particular situation.",
+        "descriptionRU": "функция или часть, исполняемая человеком или вещью в определенной ситуации.",
+        "descriptionDE": "die Funktion, die von einer Person oder Sache in einer bestimmten Situation übernommen oder gespielt wird."
+    }, {
+        "de": "der Traum",
+        "en": "dream",
+        "ru": "мечта",
+        "descriptionEN": "a series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+        "descriptionRU": "серия мыслей, образов и ощущений, возникающих в сознании человека во время сна.",
+        "descriptionDE": "eine Reihe von Gedanken, Bildern und Empfindungen, die im Geist einer Person während des Schlafs auftreten."
+    }, {
+        "de": "die Möglichkeit",
+        "en": "possibility",
+        "ru": "возможность",
+        "descriptionEN": "a thing that may happen or be the case.",
+        "descriptionRU": "возможное событие или обстоятельство.",
+        "descriptionDE": "eine Sache, die passieren oder der Fall sein kann."
+    }, {
+        "de": "die Premiere",
+        "en": "premiere",
+        "ru": "премьера",
+        "descriptionEN": "the first performance of a musical or theatrical production, or the first showing of a movie or television programme.",
+        "descriptionRU": "первое выступление музыкального или театрального произведения, или первый показ фильма или телевизионной программы.",
+        "descriptionDE": "die erste Aufführung einer musikalischen oder theatralischen Produktion oder die erste Vorführung eines Films oder Fernsehprogramms."
+    }, {
+        "de": "sich bewerben",
+        "en": "to apply",
+        "ru": "подавать заявление",
+        "descriptionEN": "to make an official request for a job, place in a university, etc.",
+        "descriptionRU": "делать официальное заявление о работе, месте в университете и т. д.",
+        "descriptionDE": "einen offiziellen Antrag auf einen Job, einen Platz an einer Universität usw. stellen."
+    }, {
+        "de": "beeindrucken",
+        "en": "to impress",
+        "ru": "впечатлить",
+        "descriptionEN": "to make (someone) feel admiration and respect.",
+        "descriptionRU": "вызвать уважение и уважение (у кого-то).",
+        "descriptionDE": "jemanden dazu bringen, Bewunderung und Respekt zu empfinden."
+    }, {
+        "de": "bieten",
+        "en": "to offer",
+        "ru": "предлагать",
+        "descriptionEN": "to present or proffer (something) for (someone) to accept or reject as desired.",
+        "descriptionRU": "представить или предложить (что-то), чтобы (кто-то) принял или отклонил по желанию.",
+        "descriptionDE": "(jemandem) etwas zum Akzeptieren oder Ablehnen nach Wunsch vorlegen oder anbieten."
+    }, {
+        "de": "danken",
+        "en": "to thank",
+        "ru": "благодарить",
+        "descriptionEN": "to express gratitude to (someone), especially by saying 'thank you'.",
+        "descriptionRU": "выразить благодарность (кому-то), особенно сказав «спасибо».",
+        "descriptionDE": "Dankbarkeit gegenüber (jemandem) zum Ausdruck bringen, insbesondere durch das Sagen von „Danke“."
+    }, {
+        "de": "bewundern",
+        "en": "to admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard (an object, quality, or person) with respect or warm approval.",
+        "descriptionRU": "относиться с уважением или теплым одобрением (к объекту, качеству или человеку).",
+        "descriptionDE": "(ein Objekt, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung betrachten."
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "to engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+        "descriptionRU": "заниматься деятельностью для удовольствия и развлечения, а не для серьезной или практической цели.",
+        "descriptionDE": "sich an einer Tätigkeit zur Unterhaltung und Erholung beteiligen, anstatt einer ernsten oder praktischen Absicht."
+    }, {
+        "de": "verfolgen",
+        "en": "to pursue",
+        "ru": "преследовать",
+        "descriptionEN": "to follow or chase (someone or something) in order to catch or attack them.",
+        "descriptionRU": "следовать или преследовать (кого-то или что-то) с целью поймать или атаковать их.",
+        "descriptionDE": "jemandem oder etwas folgen oder jagen, um ihn zu fangen oder anzugreifen."
+    }, {
+        "de": "groß",
+        "en": "big",
+        "ru": "большой",
+        "descriptionEN": "of considerable size or extent.",
+        "descriptionRU": "значительного размера или объема.",
+        "descriptionDE": "von beträchtlicher Größe oder Ausdehnung."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "known about by many people.",
+        "descriptionRU": "известный многим людям.",
+        "descriptionDE": "von vielen Menschen bekannt."
+    }, {
+        "de": "positiv",
+        "en": "positive",
+        "ru": "положительный",
+        "descriptionEN": "consisting in or characterized by the presence or possession of features or qualities rather than their absence.",
+        "descriptionRU": "состоящий или характеризующийся наличием или обладанием характеристик или качеств, а не их отсутствием.",
+        "descriptionDE": "bestehend in oder charakterisiert durch das Vorhandensein oder den Besitz von Merkmalen oder Eigenschaften anstelle ihrer Abwesenheit."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "having a great deal of money or assets; wealthy.",
+        "descriptionRU": "имеющий большое количество денег или активов; богатый.",
+        "descriptionDE": "eine große Menge an Geld oder Vermögenswerten haben; wohlhabend."
+    }, {
+        "de": "aufregend",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "causing great enthusiasm and eagerness.",
+        "descriptionRU": "вызывающий большой энтузиазм и оживление.",
+        "descriptionDE": "große Begeisterung und Eifer hervorrufend."
+    }
+]

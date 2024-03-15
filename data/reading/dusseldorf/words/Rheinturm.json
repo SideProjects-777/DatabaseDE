@@ -1,0 +1,129 @@
+[
+    {
+        "de": "der Turm",
+        "en": "tower",
+        "ru": "башня",
+        "descriptionEN": "a tall structure, usually taller than it is wide, often used as a landmark or for telecommunication purposes.",
+        "descriptionRU": "высокая постройка, обычно более высокая, чем широкая, часто используется как ориентир или для телекоммуникационных целей.",
+        "descriptionDE": "Eine hohe Struktur, in der Regel höher als breit, oft als Orientierungspunkt oder für Telekommunikationszwecke verwendet."
+    }, {
+        "de": "die Höhe",
+        "en": "height",
+        "ru": "высота",
+        "descriptionEN": "the measurement of someone or something from head to foot or from base to top.",
+        "descriptionRU": "измерение человека или чего-либо от головы до ног или от основания до вершины.",
+        "descriptionDE": "Die Messung einer Person oder eines Objekts von Kopf bis Fuß oder von Basis bis Spitze."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings.",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий.",
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Konstruierens von Gebäuden."
+    }, {
+        "de": "die Aussichtsplattform",
+        "en": "viewing platform",
+        "ru": "смотровая площадка",
+        "descriptionEN": "an elevated platform that provides a panoramic view of the surrounding area.",
+        "descriptionRU": "поднятая платформа, обеспечивающая панорамный вид на окружающую местность.",
+        "descriptionDE": "Eine erhöhte Plattform, die einen Panoramablick auf die Umgebung bietet."
+    }, {
+        "de": "das Restaurant",
+        "en": "restaurant",
+        "ru": "ресторан",
+        "descriptionEN": "a place where people pay to sit and eat meals that are cooked and served on the premises.",
+        "descriptionRU": "место, где люди платят за то, чтобы сидеть и есть приготовленные и поданные на месте блюда.",
+        "descriptionDE": "Ein Ort, an dem Menschen bezahlen, um zu sitzen und Mahlzeiten zu essen, die vor Ort zubereitet und serviert werden."
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "мероприятие",
+        "descriptionEN": "a planned public or social occasion.",
+        "descriptionRU": "запланированное публичное или социальное мероприятие.",
+        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung."
+    }, {
+        "de": "die Sicht",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "the ability to see something or to be seen from a particular place.",
+        "descriptionRU": "способность видеть что-то или быть видимым с определенного места.",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen oder von einem bestimmten Ort aus gesehen zu werden."
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or work of art.",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства.",
+        "descriptionDE": "Die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks."
+    }, {
+        "de": "elegant",
+        "en": "elegant",
+        "ru": "элегантный",
+        "descriptionEN": "pleasingly graceful and stylish in appearance or manner.",
+        "descriptionRU": "приятно изящный и стильный по внешнему виду или манере.",
+        "descriptionDE": "Angenehm anmutig und stilvoll im Erscheinungsbild oder Benehmen."
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group.",
+        "descriptionRU": "нравится, восхищается или ценится многими людьми или определенным лицом или группой.",
+        "descriptionDE": "Von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen."
+    }, {
+        "de": "spektakulär",
+        "en": "spectacular",
+        "ru": "зрелищный",
+        "descriptionEN": "beautiful in a dramatic and eye-catching way.",
+        "descriptionRU": "красивый в драматическом и бросающемся в глаза стиле.",
+        "descriptionDE": "Schön auf dramatische und auffällige Weise."
+    }, {
+        "de": "jährlich",
+        "en": "annual",
+        "ru": "ежегодный",
+        "descriptionEN": "occurring once every year.",
+        "descriptionRU": "происходящий один раз в год.",
+        "descriptionDE": "Einmal im Jahr auftretend."
+    }, {
+        "de": "drehen",
+        "en": "to rotate",
+        "ru": "вращать",
+        "descriptionEN": "to turn or cause to turn around an axis or center.",
+        "descriptionRU": "повернуть или заставить вращаться вокруг оси или центра.",
+        "descriptionDE": "Sich drehen oder verursachen, dass sich etwas um eine Achse oder einen Mittelpunkt dreht."
+    }, {
+        "de": "bieten",
+        "en": "to offer",
+        "ru": "предлагать",
+        "descriptionEN": "to present something for someone to accept or reject as desired.",
+        "descriptionRU": "предложить что-то, чтобы кто-то принял или отверг в соответствии с желаемым.",
+        "descriptionDE": "Etwas präsentieren, damit jemand es nach Belieben akzeptieren oder ablehnen kann."
+    }, {
+        "de": "präsentieren",
+        "en": "to present",
+        "ru": "представлять",
+        "descriptionEN": "to show or offer something for others to consider or admire.",
+        "descriptionRU": "показывать или предлагать что-то для того, чтобы другие могли рассмотреть или восхититься.",
+        "descriptionDE": "Etwas zeigen oder anbieten, damit andere es in Betracht ziehen oder bewundern können."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure in something.",
+        "descriptionRU": "получать удовольствие от чего-то.",
+        "descriptionDE": "Sich an etwas erfreuen."
+    }, {
+        "de": "bewundern",
+        "en": "to admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard with respect or warm approval.",
+        "descriptionRU": "относиться с уважением или теплым одобрением.",
+        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten."
+    }, {
+        "de": "wechseln",
+        "en": "to change",
+        "ru": "менять",
+        "descriptionEN": "to make or become different.",
+        "descriptionRU": "делать или становиться другим.",
+        "descriptionDE": "Etwas verändern oder anders werden lassen."
+    }
+]

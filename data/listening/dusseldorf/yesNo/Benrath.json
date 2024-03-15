@@ -1,0 +1,88 @@
+[
+    {
+        "name": "In welchem Stil sind die Gärten von Schloss Benrath angelegt?",
+        "answers": [
+            {
+                "text": "Französischer Garten",
+                "correct": false
+            }, {
+                "text": "Italienischer Garten",
+                "correct": false
+            }, {
+                "text": "Formaler Garten",
+                "correct": false
+            }, {
+                "text": "Englischer Landschaftsgarten",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wer war einer der Bauherren von Schloss Benrath?",
+        "answers": [
+            {
+                "text": "König Ludwig XIV.",
+                "correct": false
+            }, {
+                "text": "Kurfürst Karl Theodor",
+                "correct": true
+            }, {
+                "text": "Kaiser Franz Joseph I.",
+                "correct": false
+            }, {
+                "text": "Königin Maria Theresia",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Flügel des Schlosses war für die Prunkräume vorgesehen?",
+        "answers": [
+            {
+                "text": "Ostflügel",
+                "correct": false
+            }, {
+                "text": "Westflügel",
+                "correct": false
+            }, {
+                "text": "Corps de logis",
+                "correct": true
+            }, {
+                "text": "Thronsaal",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was konnten die Besucher im Thronsaal sehen?",
+        "answers": [
+            {
+                "text": "Ein riesiges Gemälde von Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Prächtige mit Gold und kunstvollen Schnitzereien verzierte Throne",
+                "correct": true
+            }, {
+                "text": "Eine Sammlung antiker Waffen",
+                "correct": false
+            }, {
+                "text": "Ein Nachbau des Schlosses",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was konnte man in der Orangerie während unseres Schulausflugs sehen?",
+        "answers": [
+            {
+                "text": "Tropische Schmetterlinge",
+                "correct": false
+            }, {
+                "text": "Alte antike Statuen",
+                "correct": false
+            }, {
+                "text": "Eine Ausstellung zeitgenössischer Kunst",
+                "correct": false
+            }, {
+                "text": "Zitrusbäume, die in den Wintermonaten gezüchtet wurden",
+                "correct": true
+            }
+        ]
+    }
+]

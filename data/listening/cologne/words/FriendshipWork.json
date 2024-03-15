@@ -1,0 +1,129 @@
+[
+    {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
+        "descriptionRU": "человек, с которым у вас есть взаимные чувства дружбы, обычно не включающие сексуальные или семейные отношения.",
+        "descriptionDE": "eine Person, mit der man eine gegenseitige Zuneigung verbindet, in der Regel exklusiv von sexuellen oder familiären Beziehungen."
+    }, {
+        "de": "die Karriere",
+        "en": "career",
+        "ru": "карьера",
+        "descriptionEN": "an occupation undertaken for a significant period of a person's life and with opportunities for progress.",
+        "descriptionRU": "занятие, осуществляемое в течение значительного периода жизни человека и с возможностями для прогресса.",
+        "descriptionDE": "eine Tätigkeit, die über einen längeren Zeitraum im Leben einer Person ausgeübt wird und Möglichkeiten für Fortschritte bietet."
+    }, {
+        "de": "die Berufstätige",
+        "en": "working person",
+        "ru": "работающий человек",
+        "descriptionEN": "a person engaged in paid employment.",
+        "descriptionRU": "человек, занятый оплачиваемым трудом.",
+        "descriptionDE": "eine Person, die einer bezahlten Beschäftigung nachgeht."
+    }, {
+        "de": "die Herausforderung",
+        "en": "challenge",
+        "ru": "вызов",
+        "descriptionEN": "a call to take part in a contest or competition, especially a duel.",
+        "descriptionRU": "призыв принять участие в конкурсе или соревновании, особенно в двобое.",
+        "descriptionDE": "eine Aufforderung, an einem Wettkampf oder Wettbewerb teilzunehmen, insbesondere einem Duell."
+    }, {
+        "de": "die Unterstützung",
+        "en": "support",
+        "ru": "поддержка",
+        "descriptionEN": "the provision of assistance or encouragement to facilitate the success or completion of something.",
+        "descriptionRU": "предоставление помощи или поддержки для облегчения успешного завершения чего-либо.",
+        "descriptionDE": "die Bereitstellung von Hilfe oder Ermutigung, um den Erfolg oder die Vollendung von etwas zu erleichtern."
+    }, {
+        "de": "die Vorbereitung",
+        "en": "preparation",
+        "ru": "подготовка",
+        "descriptionEN": "the action or process of making ready or being made ready for use or consideration.",
+        "descriptionRU": "действие или процесс подготовки к использованию или рассмотрению.",
+        "descriptionDE": "die Handlung oder der Prozess des Bereitmachens oder des Bereitseins zur Verwendung oder Berücksichtigung."
+    }, {
+        "de": "der Anzug",
+        "en": "suit",
+        "ru": "костюм",
+        "descriptionEN": "a set of outer clothes made of the same fabric and designed to be worn together, typically consisting of a jacket and trousers or a jacket and skirt.",
+        "descriptionRU": "комплект верхней одежды, изготовленный из одного и того же материала и предназначенный для ношения вместе, обычно состоящий из пиджака и брюк или пиджака и юбки.",
+        "descriptionDE": "ein Satz äußerer Kleidung aus demselben Stoff, der dazu bestimmt ist, zusammen getragen zu werden, in der Regel bestehend aus einem Jackett und einer Hose oder einem Jackett und einem Rock."
+    }, {
+        "de": "das Unternehmen",
+        "en": "company",
+        "ru": "компания",
+        "descriptionEN": "a commercial business.",
+        "descriptionRU": "коммерческое предприятие.",
+        "descriptionDE": "ein kommerzielles Unternehmen."
+    }, {
+        "de": "die Wohnung",
+        "en": "apartment",
+        "ru": "квартира",
+        "descriptionEN": "a suite of rooms forming one residence, typically in a building containing a number of these.",
+        "descriptionRU": "набор комнат, составляющих одно жилище, обычно в здании, содержащем ряд таких.",
+        "descriptionDE": "eine Suite von Räumen, die eine Residenz bilden, in der Regel in einem Gebäude mit einer Anzahl davon."
+    }, {
+        "de": "die Gesellschaft",
+        "en": "society",
+        "ru": "общество",
+        "descriptionEN": "the aggregate of people living together in a more or less ordered community.",
+        "descriptionRU": "совокупность людей, живущих в более или менее упорядоченном сообществе.",
+        "descriptionDE": "die Gesamtheit der Menschen, die zusammen in einer mehr oder weniger geordneten Gemeinschaft leben."
+    }, {
+        "de": "der Bahnhof",
+        "en": "train station",
+        "ru": "железнодорожный вокзал",
+        "descriptionEN": "a place where trains stop to pick up and drop off passengers.",
+        "descriptionRU": "место, где поезда останавливаются, чтобы забирать и высаживать пассажиров.",
+        "descriptionDE": "ein Ort, an dem Züge halten, um Passagiere ein- und aussteigen zu lassen."
+    }, {
+        "de": "treffen",
+        "en": "to meet",
+        "ru": "встречаться",
+        "descriptionEN": "to come together with someone intentionally.",
+        "descriptionRU": "сознательно встретиться с кем-то.",
+        "descriptionDE": "sich absichtlich mit jemandem zusammentreffen."
+    }, {
+        "de": "besprechen",
+        "en": "to discuss",
+        "ru": "обсуждать",
+        "descriptionEN": "to talk about something with someone and share ideas or opinions.",
+        "descriptionRU": "поговорить о чем-то с кем-то и поделиться идеями или мнениями.",
+        "descriptionDE": "über etwas mit jemandem sprechen und Ideen oder Meinungen austauschen."
+    }, {
+        "de": "freuen",
+        "en": "to rejoice",
+        "ru": "радоваться",
+        "descriptionEN": "to feel or show joy or happiness.",
+        "descriptionRU": "чувствовать или выражать радость или счастье.",
+        "descriptionDE": "Freude oder Glück empfinden oder zeigen."
+    }, {
+        "de": "beginnen",
+        "en": "to begin",
+        "ru": "начинать",
+        "descriptionEN": "to start or commence something.",
+        "descriptionRU": "начать или начать что-то.",
+        "descriptionDE": "etwas anfangen oder beginnen."
+    }, {
+        "de": "bekommen",
+        "en": "to receive",
+        "ru": "получать",
+        "descriptionEN": "to be given, presented with, or paid (something).",
+        "descriptionRU": "получать, представлять собой или платить (что-то).",
+        "descriptionDE": "etwas gegeben, präsentiert oder bezahlt bekommen."
+    }, {
+        "de": "nutzen",
+        "en": "to use",
+        "ru": "использовать",
+        "descriptionEN": "to take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.",
+        "descriptionRU": "взять, удержать или использовать (что-то) как средство достижения цели или достижения результата.",
+        "descriptionDE": "etwas als Mittel zur Erfüllung eines Zwecks oder zur Erzielung eines Ergebnisses einsetzen, halten oder einsetzen."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure in (an activity); to experience with joy.",
+        "descriptionRU": "получать удовольствие от (деятельности); испытывать радость.",
+        "descriptionDE": "Vergnügen an einer Aktivität haben; mit Freude erleben."
+    }
+]

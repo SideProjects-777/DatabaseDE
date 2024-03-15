@@ -1,0 +1,130 @@
+[
+
+    {
+        "de": "der Besucher",
+        "en": "visitor",
+        "ru": "посетитель",
+        "descriptionEN": "someone who visits a person or place",
+        "descriptionRU": "человек, который посещает кого-то или что-то",
+        "descriptionDE": "jemand, der eine Person oder einen Ort besucht"
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "a planned public or social occasion",
+        "descriptionRU": "запланированное публичное или социальное мероприятие",
+        "descriptionDE": "eine geplante öffentliche oder gesellschaftliche Veranstaltung"
+    }, {
+        "de": "der Aspekt",
+        "en": "aspect",
+        "ru": "аспект",
+        "descriptionEN": "a particular part or feature of something",
+        "descriptionRU": "особая часть или характеристика чего-то",
+        "descriptionDE": "ein bestimmter Teil oder Aspekt von etwas"
+    }, {
+        "de": "die Kultur",
+        "en": "culture",
+        "ru": "культура",
+        "descriptionEN": "the arts and other manifestations of human intellectual achievement regarded collectively",
+        "descriptionRU": "искусство и другие проявления интеллектуальных достижений человека, рассматриваемые в совокупности",
+        "descriptionDE": "die Künste und andere Manifestationen menschlicher geistiger Leistungen, die kollektiv betrachtet werden"
+    }, {
+        "de": "der Anstieg",
+        "en": "increase",
+        "ru": "увеличение",
+        "descriptionEN": "a rise in amount, number, or level",
+        "descriptionRU": "повышение количества, числа или уровня",
+        "descriptionDE": "ein Anstieg der Menge, Zahl oder Ebene"
+    }, {
+        "de": "der Einfluss",
+        "en": "influence",
+        "ru": "влияние",
+        "descriptionEN": "the capacity to have an effect on the character, development, or behavior of someone or something",
+        "descriptionRU": "способность оказывать воздействие на характер, развитие или поведение кого-то или чего-то",
+        "descriptionDE": "die Fähigkeit, einen Einfluss auf den Charakter, die Entwicklung oder das Verhalten von jemandem oder etwas zu haben"
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "a long-established custom or belief passed on from one generation to another",
+        "descriptionRU": "долгосрочный обычай или вера, передаваемая из поколения в поколение",
+        "descriptionDE": "ein langjähriger Brauch oder Glaube, der von einer Generation an die nächste weitergegeben wird"
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "the state of being diverse; variety",
+        "descriptionRU": "состояние разнообразия; разнообразие",
+        "descriptionDE": "der Zustand der Vielfalt; Vielfalt"
+    }, {
+        "de": "die Begegnung",
+        "en": "encounter",
+        "ru": "встреча",
+        "descriptionEN": "a brief or unexpected meeting",
+        "descriptionRU": "краткая или неожиданная встреча",
+        "descriptionDE": "eine kurze oder unerwartete Begegnung"
+    }, {
+        "de": "die Darbietung",
+        "en": "performance",
+        "ru": "выступление",
+        "descriptionEN": "an act of presenting a play, concert, or other form of entertainment",
+        "descriptionRU": "акт представления пьесы, концерта или другой формы развлечения",
+        "descriptionDE": "eine Handlung, bei der ein Theaterstück, ein Konzert oder eine andere Form der Unterhaltung präsentiert wird"
+    }, {
+        "de": "der Besuch",
+        "en": "visit",
+        "ru": "посещение",
+        "descriptionEN": "an instance of visiting someone or something",
+        "descriptionRU": "случай посещения кого-то или чего-то",
+        "descriptionDE": "ein Fall, bei dem jemanden oder etwas besucht wird"
+    }, {
+        "de": "feiern",
+        "en": "celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity",
+        "descriptionRU": "отмечать (значительный или счастливый день или событие) общественным собранием или приятным занятием",
+        "descriptionDE": "ein bedeutendes oder freudiges Ereignis mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen"
+    }, {
+        "de": "zeigen",
+        "en": "show",
+        "ru": "показывать",
+        "descriptionEN": "allow to be seen; display",
+        "descriptionRU": "разрешить увидеть; показывать",
+        "descriptionDE": "erlauben, gesehen zu werden; anzeigen"
+    }, {
+        "de": "erwarten",
+        "en": "expect",
+        "ru": "ожидать",
+        "descriptionEN": "regard (something) as likely to happen",
+        "descriptionRU": "считать (что-то) вероятным",
+        "descriptionDE": "etwas als wahrscheinlich betrachten"
+    }, {
+        "de": "pulsierend",
+        "en": "vibrant",
+        "ru": "живой",
+        "descriptionEN": "full of energy and life",
+        "descriptionRU": "полный энергии и жизни",
+        "descriptionDE": "voller Energie und Leben"
+    }, {
+        "de": "mitreißend",
+        "en": "captivating",
+        "ru": "захватывающий",
+        "descriptionEN": "attracting interest or attention",
+        "descriptionRU": "привлекающий интерес или внимание",
+        "descriptionDE": "Interessant oder aufmerksamkeitserregend"
+    }, {
+        "de": "farbenfroh",
+        "en": "colorful",
+        "ru": "красочный",
+        "descriptionEN": "having much or varied color",
+        "descriptionRU": "имеющий много или разнообразный цвет",
+        "descriptionDE": "viel oder vielfältige Farben habend"
+    }, {
+        "de": "energieladene",
+        "en": "energetic",
+        "ru": "энергичный",
+        "descriptionEN": "showing or involving great activity or vitality",
+        "descriptionRU": "показывающий или включающий в себя большую активность или жизненную силу",
+        "descriptionDE": "zeigt oder beinhaltet große Aktivität oder Vitalität"
+    }
+]

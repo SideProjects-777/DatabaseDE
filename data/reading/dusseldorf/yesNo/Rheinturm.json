@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Der Rheinturm ist 180 Meter hoch.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Vom Rheinturm aus kann man den Kölner Dom sehen, der 35 Kilometer entfernt ist.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Spitze des Turms besteht aus einem rechteckigen Stahlrahmen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Rheinturm bietet keinen Blick über Düsseldorf und Umgebung.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Harald Deilmann hat den Rheinturm entworfen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Drehrestaurant des Rheinturms heißt 'Top 360'.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Küche des Drehrestaurants bietet ausschließlich internationale Gerichte an.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Rheinturm ist kein Schauplatz für jährliche Veranstaltungen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die 850 LED-Leuchten des Turms ändern niemals Farbe und Muster.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Rheinturm hat keine Bedeutung für die Telekommunikation.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Aussichtsplattform des Rheinturms befindet sich in 168 Metern Höhe.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Rheinturm wurde von dem Architekten Harald Deilmann entworfen.",
+        "tr": true,
+        "fle": false
+    }
+]
