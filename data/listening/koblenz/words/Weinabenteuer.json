@@ -1,0 +1,143 @@
+[
+    {
+        "de": "der Faulpelz",
+        "en": "lazybones",
+        "ru": "лентяй",
+        "descriptionEN": "a lazy person who avoids work or responsibility",
+        "descriptionRU": "ленивый человек, избегающий работы или ответственности",
+        "descriptionDE": "eine faule Person, die Arbeit oder Verantwortung vermeidet"
+    }, {
+        "de": "die Stellenausschreibung",
+        "en": "job advertisement",
+        "ru": "вакансия",
+        "descriptionEN": "an announcement of a job vacancy",
+        "descriptionRU": "объявление о вакансии",
+        "descriptionDE": "eine Ankündigung einer offenen Stelle"
+    }, {
+        "de": "das Lebenslauf",
+        "en": "curriculum vitae (CV)",
+        "ru": "резюме",
+        "descriptionEN": "a brief account of a person's education, qualifications, and previous experience",
+        "descriptionRU": "краткое изложение образования, квалификации и предыдущего опыта человека",
+        "descriptionDE": "eine kurze Darstellung von Ausbildung, Qualifikationen und früheren Erfahrungen einer Person"
+    }, {
+        "de": "die Stelle",
+        "en": "position",
+        "ru": "позиция",
+        "descriptionEN": "a job or position",
+        "descriptionRU": "работа или должность",
+        "descriptionDE": "eine Arbeitsstelle oder Position"
+    }, {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "a plantation of grapevines, typically producing grapes used in winemaking",
+        "descriptionRU": "плантация виноградных лоз, обычно производящая виноград, используемый в виноделии",
+        "descriptionDE": "eine Plantage von Weinreben, die typischerweise Trauben produziert, die zur Weinherstellung verwendet werden"
+    }, {
+        "de": "die Vorstellungsgespräch",
+        "en": "job interview",
+        "ru": "собеседование",
+        "descriptionEN": "a formal discussion between an employer and a potential employee to determine whether the candidate should be hired",
+        "descriptionRU": "официальное обсуждение между работодателем и потенциальным сотрудником для определения, следует ли принять кандидата на работу",
+        "descriptionDE": "eine formelle Diskussion zwischen einem Arbeitgeber und einem potenziellen Mitarbeiter, um festzustellen, ob der Kandidat eingestellt werden sollte"
+    }, {
+        "de": "die Sommerhitze",
+        "en": "summer heat",
+        "ru": "летняя жара",
+        "descriptionEN": "high temperatures experienced during the summer season",
+        "descriptionRU": "высокие температуры, характерные для летнего сезона",
+        "descriptionDE": "hohe Temperaturen, die im Sommer erlebt werden"
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or creative work",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или творческого произведения",
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines kreativen Werks"
+    }, {
+        "de": "der Chef",
+        "en": "boss",
+        "ru": "босс",
+        "descriptionEN": "a person in charge of a worker or organization",
+        "descriptionRU": "человек, ответственный за работника или организацию",
+        "descriptionDE": "eine Person, die für einen Arbeiter oder eine Organisation verantwortlich ist"
+    }, {
+        "de": "der Wettbewerb",
+        "en": "competition",
+        "ru": "соревнование",
+        "descriptionEN": "a contest between individuals or groups",
+        "descriptionRU": "соревнование между отдельными лицами или группами",
+        "descriptionDE": "ein Wettkampf zwischen Einzelpersonen oder Gruppen"
+    }, {
+        "de": "die Festanstellung",
+        "en": "permanent employment",
+        "ru": "постоянная работа",
+        "descriptionEN": "a job with no pre-determined end date, where the employee is typically eligible for benefits",
+        "descriptionRU": "работа без предварительно установленной даты окончания, при которой сотрудник обычно имеет право на льготы",
+        "descriptionDE": "eine Stelle ohne vorher festgelegtes Enddatum, bei der der Mitarbeiter in der Regel Anspruch auf Leistungen hat"
+    }, {
+        "de": "lernen",
+        "en": "to learn",
+        "ru": "учиться",
+        "descriptionEN": "to acquire knowledge or skill through study, experience, or being taught",
+        "descriptionRU": "приобретать знания или навыки через изучение, опыт или обучение",
+        "descriptionDE": "Wissen oder Fähigkeiten durch Studium, Erfahrung oder Unterricht erwerben"
+    }, {
+        "de": "bewerben",
+        "en": "to apply",
+        "ru": "применять",
+        "descriptionEN": "to make a formal application or request",
+        "descriptionRU": "сделать официальное заявление или запрос",
+        "descriptionDE": "eine formale Bewerbung oder Anfrage stellen"
+    }, {
+        "de": "kramen",
+        "en": "to rummage",
+        "ru": "рыться",
+        "descriptionEN": "to search unsystematically and untidily through a mass or receptacle",
+        "descriptionRU": "поиск несистематично и неряшливо в массе или емкости",
+        "descriptionDE": "unsystematisch und unordentlich in einer Masse oder Behälter suchen"
+    }, {
+        "de": "schreiben",
+        "en": "to write",
+        "ru": "писать",
+        "descriptionEN": "to mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement",
+        "descriptionRU": "помечать (буквы, слова или другие символы) на поверхности, обычно бумаге, ручкой, карандашом или подобным инструментом",
+        "descriptionDE": "(Buchstaben, Wörter oder andere Symbole) auf eine Oberfläche, normalerweise Papier, mit einem Stift, Bleistift oder ähnlichem Werkzeug markieren"
+    }, {
+        "de": "zögern",
+        "en": "to hesitate",
+        "ru": "колебаться",
+        "descriptionEN": "to pause before saying or doing something, especially through uncertainty",
+        "descriptionRU": "задержаться перед тем, чтобы сказать или сделать что-то, особенно из-за неуверенности",
+        "descriptionDE": "bevor man etwas sagt oder tut, besonders durch Unsicherheit, pausieren"
+    }, {
+        "de": "fühlen",
+        "en": "to feel",
+        "ru": "чувствовать",
+        "descriptionEN": "to be aware of (a person or object) through touching or being touched",
+        "descriptionRU": "быть в курсе (человека или объекта) через касание или касание",
+        "descriptionDE": "durch Berührung oder Berühren auf (eine Person oder ein Objekt) aufmerksam gemacht werden"
+    }, {
+        "de": "verkosten",
+        "en": "to taste",
+        "ru": "пробовать",
+        "descriptionEN": "to sample or test the flavor of something, especially food or drink, by taking it into the mouth",
+        "descriptionRU": "попробовать или проверить вкус чего-либо, особенно еды или напитка, принимая его в рот",
+        "descriptionDE": "den Geschmack von etwas, insbesondere von Lebensmitteln oder Getränken, probieren oder testen, indem man es in den Mund nimmt"
+    }, {
+        "de": "identifizieren",
+        "en": "to identify",
+        "ru": "идентифицировать",
+        "descriptionEN": "to establish or indicate who or what (someone or something) is",
+        "descriptionRU": "определить или указать, кто или что (кто-то или что-то)",
+        "descriptionDE": "feststellen oder anzeigen, wer oder was (jemand oder etwas) ist"
+    }, {
+        "de": "blamieren",
+        "en": "to embarrass",
+        "ru": "смущать",
+        "descriptionEN": "to cause someone to feel awkward, self-conscious, or ashamed",
+        "descriptionRU": "заставить кого-то чувствовать себя неуклюжим, самосознательным или стыдиться",
+        "descriptionDE": "jemanden dazu bringen, sich unbeholfen, selbstbewusst oder beschämt zu fühlen"
+    }
+]

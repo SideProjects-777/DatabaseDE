@@ -15,7 +15,23 @@
         "file": "Abenteuer.mp3",
         "words": "Abenteuer.json",
         "yesNo": "Abenteuer.json"
-    },{
+    }, {
+        "name":{
+            "en": "Wine Adventure",
+            "de": "Weinabenteuer",
+            "ru": "Винное приключение"
+        },
+        "description":{
+            "en": "Lazy man discovers passion",
+            "de": "Faule Mann entdeckt Leidenschaft",
+            "ru": "Ленивый человек обнаруживает страсть"
+        },
+        "level": "A2",
+        "image": "Weinabenteuer.jpg",
+        "file": "Weinabenteuer.mp3",
+        "words": "Weinabenteuer.json",
+        "multi": "Weinabenteuer.json"
+    }, {
         "name": {
             "en": "Castle Love Story",
             "de": "Schloss Liebesgeschichte",
