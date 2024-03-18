@@ -1,0 +1,129 @@
+[
+    {
+        "de": "der Rucksack",
+        "en": "backpack",
+        "ru": "рюкзак",
+        "descriptionEN": "A bag with shoulder straps that allow it to be carried on one's back.",
+        "descriptionRU": "Сумка с плечевыми ремнями, которые позволяют носить её на спине.",
+        "descriptionDE": "Eine Tasche mit Schulterriemen, die es ermöglichen, sie auf dem Rücken zu tragen."
+    }, {
+        "de": "die Kultur",
+        "en": "culture",
+        "ru": "культура",
+        "descriptionEN": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+        "descriptionRU": "Все проявления человеческого интеллектуального достижения, рассматриваемые в совокупности.",
+        "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden."
+    }, {
+        "de": "das Monument",
+        "en": "monument",
+        "ru": "памятник",
+        "descriptionEN": "A statue, building, or other structure erected to commemorate a notable person or event.",
+        "descriptionRU": "Статуя, здание или другая конструкция, установленная в честь знаменательного лица или события.",
+        "descriptionDE": "Eine Statue, ein Gebäude oder eine andere Struktur, die errichtet wurde, um an eine bemerkenswerte Person oder ein Ereignis zu erinnern."
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "The art or practice of designing and constructing buildings.",
+        "descriptionRU": "Искусство или практика проектирования и строительства зданий.",
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Konstruierens von Gebäuden."
+    }, {
+        "de": "der Blick",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "The ability to see or the range of vision.",
+        "descriptionRU": "Способность видеть или диапазон видимости.",
+        "descriptionDE": "Die Fähigkeit zu sehen oder der Sichtbereich."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "ландшафт",
+        "descriptionEN": "All the visible features of an area of countryside or land.",
+        "descriptionRU": "Все видимые особенности области сельской местности или земли.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Gebiets auf dem Land."
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "The pervading tone or mood of a place, situation, or work of art.",
+        "descriptionRU": "Преобладающий тон или настроение места, ситуации или произведения искусства.",
+        "descriptionDE": "Die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks."
+    }, {
+        "de": "die Ruhe",
+        "en": "peace",
+        "ru": "мир",
+        "descriptionEN": "Freedom from disturbance; tranquility.",
+        "descriptionRU": "Свобода от беспокойства; спокойствие.",
+        "descriptionDE": "Freiheit von Störungen; Ruhe."
+    }, {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "A plantation of grapevines, typically producing grapes used in winemaking.",
+        "descriptionRU": "Плантация виноградных лоз, обычно производящая виноград, используемый в виноделии.",
+        "descriptionDE": "Eine Plantage von Weinreben, die in der Regel Trauben produziert, die zur Weinherstellung verwendet werden."
+    }, {
+        "de": "der Schluck",
+        "en": "sip",
+        "ru": "глоток",
+        "descriptionEN": "A small mouthful of liquid.",
+        "descriptionRU": "Небольшое глотковое количество жидкости.",
+        "descriptionDE": "Ein kleiner Schluck Flüssigkeit."
+    }, {
+        "de": "der Blick",
+        "en": "glance",
+        "ru": "взгляд",
+        "descriptionEN": "A brief or hurried look.",
+        "descriptionRU": "Краткий или спешный взгляд.",
+        "descriptionDE": "Ein kurzer oder hastiger Blick."
+    }, {
+        "de": "die Freundschaft",
+        "en": "friendship",
+        "ru": "дружба",
+        "descriptionEN": "The emotions or conduct of friends; the state of being friends.",
+        "descriptionRU": "Эмоции или поведение друзей; состояние дружбы.",
+        "descriptionDE": "Die Emotionen oder das Verhalten von Freunden; der Zustand des Freundseins."
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.",
+        "descriptionRU": "Путешествовать по (незнакомой стране или местности) с целью узнать или ознакомиться с ней.",
+        "descriptionDE": "Reisen in ein unbekanntes Land oder Gebiet, um es kennenzulernen oder sich damit vertraut zu machen."
+    }, {
+        "de": "genießen",
+        "en": "enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "Take delight or pleasure in (an activity or occasion).",
+        "descriptionRU": "Получать удовольствие или наслаждение от (деятельности или случая).",
+        "descriptionDE": "Sich an (einer Aktivität oder Gelegenheit) erfreuen oder Vergnügen daran haben."
+    }, {
+        "de": "begeistert",
+        "en": "enthusiastic",
+        "ru": "восторженный",
+        "descriptionEN": "Having or showing intense and eager enjoyment, interest, or approval.",
+        "descriptionRU": "Имеющий или показывающий интенсивное и живое удовольствие, интерес или одобрение.",
+        "descriptionDE": "Intensiv und begeistert Freude, Interesse oder Zustimmung zeigend."
+    }, {
+        "de": "magisch",
+        "en": "magical",
+        "ru": "волшебный",
+        "descriptionEN": "Beautiful or delightful in a way that seems removed from everyday life.",
+        "descriptionRU": "Прекрасный или восхитительный таким образом, что кажется удаленным от повседневной жизни.",
+        "descriptionDE": "Auf eine Weise schön oder entzückend, die entfernt von der Alltagswelt zu sein scheint."
+    }, {
+        "de": "versteckt",
+        "en": "hidden",
+        "ru": "скрытый",
+        "descriptionEN": "Kept out of sight; concealed.",
+        "descriptionRU": "Скрытый от глаз; скрытый.",
+        "descriptionDE": "Außer Sichtweite gehalten; verborgen."
+    }, {
+        "de": "aufregend",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "Producing excitement or interest.",
+        "descriptionRU": "Производящий волнение или интерес.",
+        "descriptionDE": "Erzeugt Aufregung oder Interesse."
+    }
+]

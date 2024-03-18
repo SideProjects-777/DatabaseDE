@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Lily und Alexa waren Geschwister.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Koblenz ist eine Stadt an Rhein und Mosel.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Festung Ehrenbreitstein befindet sich unterhalb der Stadt Koblenz.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In der Festung Ehrenbreitstein besuchten Lily und Alexa ein Aquarium.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Boppard liegt nicht am Flussufer.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lily und Alexa probierten deutsche Spezialitäten auf einem lokalen Markt in Boppard.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Altstadtstraße in Koblenz ist bekannt für ihre ruhige Atmosphäre.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lily und Alexa tranken verschiedene deutsche Weinsorten in der Altstadtstraße.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die beiden Freunde mieteten sich Fahrräder, um die Stadt Koblenz zu erkunden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lily und Alexa gingen am letzten Tag ihrer Reise in Koblenz Klettern.",
+        "tr": false,
+        "fle": true
+    }
+]

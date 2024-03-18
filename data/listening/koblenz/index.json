@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Koblenz Adventure",
+            "de": "Koblenzer Abenteuer",
+            "ru": "Приключения в Кобленце"
+        },
+        "description": {
+            "en": "Friends explore historic city",
+            "de": "Freunde erkunden historische Stadt",
+            "ru": "Друзья исследуют исторический город"
+        },
+        "level": "A2",
+        "image": "Abenteuer.jpg",
+        "file": "Abenteuer.mp3",
+        "words": "Abenteuer.json",
+        "yesNo": "Abenteuer.json"
+    },{
+        "name": {
             "en": "Castle Love Story",
             "de": "Schloss Liebesgeschichte",
             "ru": "История любви в замке"
