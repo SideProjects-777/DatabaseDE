@@ -33,6 +33,22 @@
         "multi": "Museumsgeheimnis.json"
     }, {
         "name": {
+            "en": "Ehrenbreitstein Fortress",
+            "de": "Festung Ehrenbreitstein",
+            "ru": "Крепость Эренбрейтштайн"
+        },
+        "description": {
+            "en": "Historic fortress in Koblenz",
+            "de": "Historische Festung in Koblenz",
+            "ru": "Историческая крепость в Кобленце"
+        },
+        "level": "B1",
+        "image": "Ehrenbreitstein.jpeg",
+        "file": "Ehrenbreitstein.txt",
+        "words": "Ehrenbreitstein.json",
+        "yesNo": "Ehrenbreitstein.json"
+    }, {
+        "name": {
             "en": "Riesling",
             "de": "Riesling",
             "ru": "Рислинг"
