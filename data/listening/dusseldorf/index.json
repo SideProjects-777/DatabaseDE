@@ -18,6 +18,22 @@
         "multi": "Schauspielerreise.json"
     }, {
         "name": {
+            "en": "Love's Symphony",
+            "de": "Die Symphonie der Liebe",
+            "ru": "Симфония любви"
+        },
+        "description": {
+            "en": "Opposites attract",
+            "de": "Gegensätze ziehen",
+            "ru": "Противоположности притягиваются"
+        },
+        "level": "B1",
+        "image": "Symphony.jpg",
+        "file": "Symphony.mp3",
+        "words": "Symphony.json",
+        "yesNo": "Symphony.json"
+    }, {
+        "name": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
             "ru": "Пробежка у променада"
@@ -64,7 +80,7 @@
         "file": "Benrath.mp3",
         "words": "Benrath.json",
         "yesNo": "Benrath.json"
-    },{
+    }, {
         "name": {
             "en": "Japan Day",
             "de": "Japan-Tag",
