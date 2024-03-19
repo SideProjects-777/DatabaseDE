@@ -1,0 +1,150 @@
+[
+    {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large and permanent human settlement",
+        "descriptionRU": "большое и постоянное человеческое поселение",
+        "descriptionDE": "eine große und dauerhafte menschliche Siedlung"
+    }, {
+        "de": "das Mädchen",
+        "en": "girl",
+        "ru": "девочка",
+        "descriptionEN": "a female child",
+        "descriptionRU": "женский ребенок",
+        "descriptionDE": "ein weibliches Kind"
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group consisting of parents and children living together in a household",
+        "descriptionRU": "группа, состоящая из родителей и детей, проживающих вместе в одном доме",
+        "descriptionDE": "eine Gruppe von Eltern und Kindern, die zusammen in einem Haushalt leben"
+    }, {
+        "de": "das Talent",
+        "en": "talent",
+        "ru": "талант",
+        "descriptionEN": "natural aptitude or skill",
+        "descriptionRU": "естественная способность или умение",
+        "descriptionDE": "natürliche Begabung oder Fähigkeit"
+    }, {
+        "de": "der Schauspieler",
+        "en": "actor",
+        "ru": "актер",
+        "descriptionEN": "a person who performs in plays, movies, or television shows",
+        "descriptionRU": "человек, играющий в театральных постановках, фильмах или телевизионных шоу",
+        "descriptionDE": "eine Person, die in Theaterstücken, Filmen oder Fernsehsendungen auftritt"
+    }, {
+        "de": "die Rolle",
+        "en": "role",
+        "ru": "роль",
+        "descriptionEN": "a part or character played by an actor or actress",
+        "descriptionRU": "часть или персонаж, сыгранный актером или актрисой",
+        "descriptionDE": "eine Rolle oder Figur, die von einem Schauspieler oder einer Schauspielerin gespielt wird"
+    }, {
+        "de": "die Kritik",
+        "en": "critique",
+        "ru": "критика",
+        "descriptionEN": "a detailed analysis and assessment of something",
+        "descriptionRU": "детальный анализ и оценка чего-либо",
+        "descriptionDE": "eine ausführliche Analyse und Bewertung von etwas"
+    }, {
+        "de": "das Angebot",
+        "en": "offer",
+        "ru": "предложение",
+        "descriptionEN": "a proposal or suggestion presented for acceptance or rejection",
+        "descriptionRU": "предложение или предложение, представленное для принятия или отклонения",
+        "descriptionDE": "ein Vorschlag oder eine Anregung, die zur Annahme oder Ablehnung vorgelegt wird"
+    }, {
+        "de": "das Fest",
+        "en": "festival",
+        "ru": "фестиваль",
+        "descriptionEN": "a day or period of celebration",
+        "descriptionRU": "день или период празднования",
+        "descriptionDE": "ein Tag oder Zeitraum der Feier"
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "the expression or application of human creative skill and imagination",
+        "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения",
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft"
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events",
+        "descriptionRU": "изучение прошлых событий",
+        "descriptionDE": "das Studium vergangener Ereignisse"
+    }, {
+        "de": "die Nachstellung",
+        "en": "reenactment",
+        "ru": "переигровка",
+        "descriptionEN": "the acting out of a past event",
+        "descriptionRU": "исполнение прошлого события",
+        "descriptionDE": "das Nachspielen eines vergangenen Ereignisses"
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "to engage in activity for enjoyment and recreation",
+        "descriptionRU": "заниматься деятельностью для удовольствия и отдыха",
+        "descriptionDE": "sich an einer Aktivität zur Unterhaltung und Erholung beteiligen"
+    }, {
+        "de": "bewerben",
+        "en": "to apply",
+        "ru": "применять",
+        "descriptionEN": "to make a formal application for a job or place in a school or other institution",
+        "descriptionRU": "подать официальное заявление на работу или место в школе или другом учреждении",
+        "descriptionDE": "eine formelle Bewerbung für einen Job oder einen Platz in einer Schule oder einer anderen Institution einreichen"
+    }, {
+        "de": "bekommen",
+        "en": "to get",
+        "ru": "получить",
+        "descriptionEN": "to receive or be given something",
+        "descriptionRU": "получать или получать что-то",
+        "descriptionDE": "etwas erhalten oder bekommen"
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "взволнованный",
+        "descriptionEN": "feeling or showing excitement",
+        "descriptionRU": "чувствуя или показывая волнение",
+        "descriptionDE": "Gefühl oder Zeigen von Aufregung"
+    }, {
+        "de": "neugierig",
+        "en": "curious",
+        "ru": "любопытный",
+        "descriptionEN": "eager to know or learn something",
+        "descriptionRU": "жаждущий узнать или узнать что-то новое",
+        "descriptionDE": "begierig zu wissen oder etwas zu lernen"
+    }, {
+        "de": "zauberhaft",
+        "en": "enchanting",
+        "ru": "очаровательный",
+        "descriptionEN": "charming or captivating",
+        "descriptionRU": "очаровательный или завораживающий",
+        "descriptionDE": "charmant oder fesselnd"
+    }, {
+        "de": "begeistert",
+        "en": "enthusiastic",
+        "ru": "восторженный",
+        "descriptionEN": "showing intense and eager enjoyment, interest, or approval",
+        "descriptionRU": "показывает интенсивное и увлеченное удовольствие, интерес или одобрение",
+        "descriptionDE": "zeigt intensives und eifriges Vergnügen, Interesse oder Zustimmung"
+    }, {
+        "de": "tapfer",
+        "en": "brave",
+        "ru": "смелый",
+        "descriptionEN": "showing courage",
+        "descriptionRU": "проявление смелости",
+        "descriptionDE": "zeigt Mut"
+    }, {
+        "de": "realistisch",
+        "en": "realistic",
+        "ru": "реалистичный",
+        "descriptionEN": "closely resembling real life",
+        "descriptionRU": "тесно напоминает реальную жизнь",
+        "descriptionDE": "ähnelt eng dem wirklichen Leben"
+    }
+]

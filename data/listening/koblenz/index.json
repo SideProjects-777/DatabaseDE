@@ -63,5 +63,21 @@
         "file": "RieslingAdventure.mp3",
         "words": "RieslingAdventure.json",
         "multi": "RieslingAdventure.json"
+    }, {
+        "name": {
+            "en": "Dreams Unleashed",
+            "de": "Träume verwirklicht",
+            "ru": "Мечты осуществлены"
+        },
+        "description": {
+            "en": "Actress's festival adventure",
+            "de": "Schauspielerin beim Festivalabenteuer",
+            "ru": "Приключение актрисы на фестивале"
+        },
+        "level": "B2",
+        "image": "Unleashed.jpg",
+        "file": "Unleashed.mp3",
+        "words": "Unleashed.json",
+        "yesNo": "Unleashed.json"
     }
 ]
