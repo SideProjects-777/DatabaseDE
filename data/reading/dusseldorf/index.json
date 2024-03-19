@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Tonhalle Legends",
+            "de": "Tonhalle Legenden",
+            "ru": "Легенды Тонхалле"
+        },
+        "description": {
+            "en": "Iconic musicians",
+            "de": "Ikone Musiker",
+            "ru": "Иконические музыканты"
+        },
+        "level": "A2",
+        "image": "Tonhalle.jpg",
+        "file": "Tonhalle.txt",
+        "words": "Tonhalle.json",
+        "yesNo": "Tonhalle.json"
+    }, {
+        "name": {
             "de": "Düsseldorf erkunden",
             "en": "Exploring Dusseldorf",
             "ru": "Знакомство с Дюссельдорфом"
