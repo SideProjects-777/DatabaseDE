@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Stadt Koblenz war in heller Aufregung, als der alljährliche Karneval näher rückte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Straßen waren schlicht und ohne jeglichen Schmuck.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Familie Schmidt betrieb eine kleine Bäckerei in einer belebten Ecke des Platzes.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Schmidts waren bekannt für ihre leckeren Brezeln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Familie Schmidt gewann den Preis für die beste Faschingssüßigkeit.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Unwetter zerstörte nur die Dekorationen auf dem Hauptplatz.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Schmidts öffneten ihren Stand wieder am letzten Karnevalstag.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der große Umzug fand nie am letzten Karnevalstag statt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Schmidts hatten eine besondere Überraschung für die Koblenzer vorbereitet - ihr Geheimrezept für Donuts.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Sturm hatte keine Auswirkungen auf die Gemeinschaft der Koblenzer.",
+        "tr": false,
+        "fle": true
+    }
+]

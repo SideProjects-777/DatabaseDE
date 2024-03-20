@@ -1,0 +1,179 @@
+[
+    {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large and permanent human settlement",
+        "descriptionRU": "большое и постоянное человеческое поселение",
+        "descriptionDE": "eine große und dauerhafte menschliche Siedlung"
+    }, {
+        "de": "der Karneval",
+        "en": "carnival",
+        "ru": "карнавал",
+        "descriptionEN": "a festive season which occurs immediately before Lent",
+        "descriptionRU": "праздничный сезон, который происходит непосредственно перед Великим постом",
+        "descriptionDE": "eine festliche Jahreszeit, die unmittelbar vor der Fastenzeit liegt"
+    }, {
+        "de": "die Straßen",
+        "en": "streets",
+        "ru": "улицы",
+        "descriptionEN": "public thoroughfares, usually paved, in a city or town",
+        "descriptionRU": "общественные проходы, обычно вымощенные, в городе или поселке",
+        "descriptionDE": "öffentliche Durchgangsstraßen, in der Regel gepflastert, in einer Stadt oder einem Dorf"
+    }, {
+        "de": "der Duft",
+        "en": "scent",
+        "ru": "запах",
+        "descriptionEN": "a distinctive smell, especially one that is pleasant",
+        "descriptionRU": "отличительный запах, особенно приятный",
+        "descriptionDE": "ein charakteristischer Geruch, insbesondere ein angenehmer"
+    }, {
+        "de": "die Leckereien",
+        "en": "delicacies",
+        "ru": "деликатесы",
+        "descriptionEN": "delicious and enjoyable food",
+        "descriptionRU": "вкусная и приятная еда",
+        "descriptionDE": "köstliches und genussvolles Essen"
+    }, {
+        "de": "die Stimmung",
+        "en": "mood",
+        "ru": "настроение",
+        "descriptionEN": "the prevailing atmosphere or feeling of a place",
+        "descriptionRU": "преобладающая атмосфера или чувство места",
+        "descriptionDE": "die vorherrschende Atmosphäre oder das Gefühl eines Ortes"
+    }, {
+        "de": "die Bäckerei",
+        "en": "bakery",
+        "ru": "пекарня",
+        "descriptionEN": "a place where bread and cakes are made and sold",
+        "descriptionRU": "место, где делают и продают хлеб и пирожные",
+        "descriptionDE": "ein Ort, an dem Brot und Kuchen hergestellt und verkauft werden"
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group of one or more parents and their children living together as a unit",
+        "descriptionRU": "группа одного или более родителей и их детей, живущих вместе как единое целое",
+        "descriptionDE": "eine Gruppe von einem oder mehreren Eltern und ihren Kindern, die zusammen als Einheit leben"
+    }, {
+        "de": "der Sturm",
+        "en": "storm",
+        "ru": "шторм",
+        "descriptionEN": "a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow",
+        "descriptionRU": "сильное нарушение атмосферы с сильными ветрами и обычно дождем, грозой, молнией или снегом",
+        "descriptionDE": "eine gewaltsame Störung der Atmosphäre mit starken Winden und in der Regel Regen, Donner, Blitz oder Schnee"
+    }, {
+        "de": "die Gemeinde",
+        "en": "community",
+        "ru": "сообщество",
+        "descriptionEN": "a group of people living in the same place or having a particular characteristic in common",
+        "descriptionRU": "группа людей, живущих в одном месте или имеющих общий характерный признак",
+        "descriptionDE": "eine Gruppe von Menschen, die an einem Ort leben oder eine bestimmte Eigenschaft gemeinsam haben"
+    }, {
+        "de": "das Geheimrezept",
+        "en": "secret recipe",
+        "ru": "секретный рецепт",
+        "descriptionEN": "a recipe kept confidential to prevent others from duplicating it",
+        "descriptionRU": "рецепт, держащийся в секрете, чтобы другие не могли его продублировать",
+        "descriptionDE": "ein Rezept, das vertraulich aufbewahrt wird, um zu verhindern, dass andere es duplizieren"
+    }, {
+        "de": "backen",
+        "en": "to bake",
+        "ru": "печь",
+        "descriptionEN": "to cook (food) by dry heat without direct exposure to a flame",
+        "descriptionRU": "готовить (пищу) сухим теплом без прямого воздействия пламени",
+        "descriptionDE": "Speisen durch trockene Hitze ohne direkte Einwirkung einer Flamme garen"
+    }, {
+        "de": "helfen",
+        "en": "to help",
+        "ru": "помогать",
+        "descriptionEN": "to make it easier or possible for (someone) to do something by offering them one's services or resources",
+        "descriptionRU": "облегчать или делать возможным для кого-то что-то, предоставляя свои услуги или ресурсы",
+        "descriptionDE": "es jemandem erleichtern oder ermöglichen, etwas zu tun, indem man ihm seine Dienste oder Ressourcen anbietet"
+    }, {
+        "de": "vorübergehend",
+        "en": "temporary",
+        "ru": "временный",
+        "descriptionEN": "lasting for only a limited period of time; not permanent",
+        "descriptionRU": "продолжительность только ограниченный период времени; не постоянный",
+        "descriptionDE": "nur für einen begrenzten Zeitraum haltend; nicht permanent"
+    }, {
+        "de": "ausgelassen",
+        "en": "lively",
+        "ru": "веселый",
+        "descriptionEN": "full of high spirits, enthusiasm, and excitement",
+        "descriptionRU": "полный бодрости духа, энтузиазма и волнения",
+        "descriptionDE": "voller Lebensfreude, Begeisterung und Aufregung"
+    }, {
+        "de": "überglücklich",
+        "en": "ecstatic",
+        "ru": "экстатический",
+        "descriptionEN": "feeling or expressing overwhelming happiness or joyful excitement",
+        "descriptionRU": "чувствовать или выражать подавляющее счастье или радостное волнение",
+        "descriptionDE": "überwältigendes Glück oder freudige Aufregung empfinden oder ausdrücken"
+    }, {
+        "de": "katastrophal",
+        "en": "catastrophic",
+        "ru": "катастрофический",
+        "descriptionEN": "involving or causing sudden great damage or suffering",
+        "descriptionRU": "вовлекая или вызывая внезапное великое повреждение или страдание",
+        "descriptionDE": "involvierend oder verursachend plötzlich großen Schaden oder Leid"
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "impossible to forget; very memorable",
+        "descriptionRU": "невозможно забыть; очень запоминающийся",
+        "descriptionDE": "unmöglich zu vergessen; sehr einprägsam"
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "to a higher degree than is usual or average",
+        "descriptionRU": "на более высоком уровне, чем обычно или в среднем",
+        "descriptionDE": "in einem höheren Maße als üblich oder durchschnittlich"
+    }, {
+        "de": "unermüdlich",
+        "en": "unwaveringly",
+        "ru": "неутомимо",
+        "descriptionEN": "persistently or tirelessly",
+        "descriptionRU": "настойчиво или неустанным образом",
+        "descriptionDE": "anhaltend"
+    }, {
+        "de": "beschädigt",
+        "en": "damaged",
+        "ru": "поврежденный",
+        "descriptionEN": "harmed or injured",
+        "descriptionRU": "поврежден или ранен",
+        "descriptionDE": "geschädigt oder verletzt"
+    }, {
+        "de": "umgeworfen",
+        "en": "overturned",
+        "ru": "опрокинутый",
+        "descriptionEN": "turned over onto its side or upside down",
+        "descriptionRU": "перевернутый на бок или вверх ногами",
+        "descriptionDE": "auf die Seite oder auf den Kopf gestellt"
+    }, {
+        "de": "ausgebaut",
+        "en": "expanded",
+        "ru": "расширенный",
+        "descriptionEN": "made larger or more extensive",
+        "descriptionRU": "сделано больше или более обширно",
+        "descriptionDE": "vergrößert oder erweitert"
+    }, {
+        "de": "zerstört",
+        "en": "destroyed",
+        "ru": "разрушенный",
+        "descriptionEN": "ruined or completely spoiled",
+        "descriptionRU": "разрушен или полностью испорчен",
+        "descriptionDE": "ruiniert oder vollständig verdorben"
+    }, {
+        "de": "zerbrechlich",
+        "en": "fragile",
+        "ru": "хрупкий",
+        "descriptionEN": "easily broken or damaged",
+        "descriptionRU": "легко ломается или повреждается",
+        "descriptionDE": "leicht zu brechen oder zu beschädigen"
+    }
+
+]

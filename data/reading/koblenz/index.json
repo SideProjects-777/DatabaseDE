@@ -63,5 +63,21 @@
         "file": "Riesling.txt",
         "words": "Riesling.json",
         "yesNo": "Riesling.json"
+    }, {
+        "name": {
+            "en": "Bakery Triumph",
+            "de": "Bäckerei-Triumph",
+            "ru": "Триумф пекарни"
+        },
+        "description": {
+            "en": "Stormy Carnival",
+            "de": "Stürmischer Karneval",
+            "ru": "Бурный карнавал"
+        },
+        "level": "B2",
+        "image": "Stormy.jpg",
+        "file": "Stormy.txt",
+        "words": "Stormy.json",
+        "yesNo": "Stormy.json"
     }
 ]
