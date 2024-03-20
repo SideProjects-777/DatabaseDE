@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wann wurde die Festung Ehrenbreitstein erbaut?",
+        "answers": [
+            {
+                "text": "Im 1. Jahrhundert n. Chr.",
+                "correct": false
+            }, {
+                "text": "Anfang des 19. Jahrhunderts",
+                "correct": true
+            }, {
+                "text": "Im 10. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "Im 5. Jahrhundert",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer entwarf die Festung Ehrenbreitstein?",
+        "answers": [
+            {
+                "text": "Erzbischof von Trier",
+                "correct": false
+            }, {
+                "text": "Napoleon Bonaparte",
+                "correct": false
+            }, {
+                "text": "Ernst Ludwig von Aster",
+                "correct": true
+            }, {
+                "text": "König von Preußen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bedeutet der Name 'Ehrenbreitstein'?",
+        "answers": [
+            {
+                "text": "Burg am Rhein",
+                "correct": false
+            }, {
+                "text": "Burg der Römer",
+                "correct": false
+            }, {
+                "text": "Breiter Stein der Ehre",
+                "correct": true
+            }, {
+                "text": "Burg der Preußen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wofür wurde die Festung Ehrenbreitstein während des Deutsch-Französischen Krieges genutzt?",
+        "answers": [
+            {
+                "text": "Truppenübungsplatz",
+                "correct": false
+            }, {
+                "text": "Lazarett",
+                "correct": true
+            }, {
+                "text": "Museum",
+                "correct": false
+            }, {
+                "text": "Brauerei",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann wurde die Festung Ehrenbreitstein der Öffentlichkeit zugänglich gemacht?",
+        "answers": [
+            {
+                "text": "Im Jahr 1956",
+                "correct": true
+            }, {
+                "text": "Im Jahr 1815",
+                "correct": false
+            }, {
+                "text": "Im Jahr 1870",
+                "correct": false
+            }, {
+                "text": "Im Jahr 1914",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was können Kinder in der Festung Ehrenbreitstein tun?",
+        "answers": [
+            {
+                "text": "Brot backen",
+                "correct": false
+            }, {
+                "text": "Kanonen abfeuern",
+                "correct": false
+            }, {
+                "text": "Uniformen anprobieren",
+                "correct": true
+            }, {
+                "text": "Fischen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Rolle spielte die Festung Ehrenbreitstein im Ersten Weltkrieg?",
+        "answers": [
+            {
+                "text": "Kriegsgefangenenlager",
+                "correct": true
+            }, {
+                "text": "Truppenübungsplatz",
+                "correct": false
+            }, {
+                "text": "Lazarett",
+                "correct": false
+            }, {
+                "text": "Museum",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer nutzte die Festung Ehrenbreitstein als Museum?",
+        "answers": [
+            {
+                "text": "Römer",
+                "correct": false
+            }, {
+                "text": "Preußische Soldaten",
+                "correct": false
+            }, {
+                "text": "Touristen",
+                "correct": false
+            }, {
+                "text": "Die Öffentlichkeit",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist die Festung Ehrenbreitstein heute?",
+        "answers": [
+            {
+                "text": "Ein Zoo",
+                "correct": false
+            }, {
+                "text": "Ein Vergnügungspark",
+                "correct": false
+            }, {
+                "text": "Ein Museum",
+                "correct": false
+            }, {
+                "text": "Eine Touristenattraktion",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie können Besucher zur Festung Ehrenbreitstein gelangen?",
+        "answers": [
+            {
+                "text": "Zu Fuß",
+                "correct": false
+            }, {
+                "text": "Mit dem Auto",
+                "correct": false
+            }, {
+                "text": "Mit der Seilbahn",
+                "correct": true
+            }, {
+                "text": "Mit dem Fahrrad",
+                "correct": false
+            }
+        ]
+    }
+]

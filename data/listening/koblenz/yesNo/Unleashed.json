@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Lina wuchs in der Stadt Berlin auf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lina spielte Theater nur für sich selbst.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Linas erste Hauptrolle war in einem Stück namens 'Der Zauberwald'.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das SchängelMarkt Koblenz ist ein Fest für Kunst, Kultur und Geschichte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Lina bekam keine Angebote von Hollywood-Filmen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lina besuchte den SchängelMarkt Koblenz regelmäßig seit ihrer Kindheit.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lina wurde gebeten, an einem Theaterstück teilzunehmen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Lina wurde gebeten, an einem Tanzwettbewerb teilzunehmen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lina spielte die Rolle einer bösen Königin in der Nachstellung der mittelalterlichen Schlacht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lina freute sich darauf, ihre Schauspielkarriere fortzusetzen.",
+        "tr": true,
+        "fle": false
+    }
+]

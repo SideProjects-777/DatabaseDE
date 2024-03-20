@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was war Mareks erste Reaktion, als er die Stellenausschreibung des Deutschen Weininstituts sah?",
+        "answers": [
+            {
+                "text": "Er war überrascht und sein Interesse wurde geweckt.",
+                "correct": true
+            }, {
+                "text": "Er war skeptisch und glaubte nicht, dass er die Anforderungen erfüllen könnte.",
+                "correct": false
+            }, {
+                "text": "Er war gleichgültig und dachte nicht weiter darüber nach.",
+                "correct": false
+            }, {
+                "text": "Er war besorgt, dass er nicht qualifiziert genug sein könnte.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welchen Eindruck machte Marek während seines Vorstellungsgesprächs?",
+        "answers": [
+            {
+                "text": "Er war nervös, aber schaffte es, einen guten Eindruck zu hinterlassen.",
+                "correct": true
+            }, {
+                "text": "Er wirkte unvorbereitet und konnte keine relevanten Antworten geben.",
+                "correct": false
+            }, {
+                "text": "Er war zu selbstbewusst und kam überheblich rüber.",
+                "correct": false
+            }, {
+                "text": "Er war desinteressiert und zeigte kein Engagement für die Stelle.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Mareks erste Aufgabe, als er bei seiner neuen Stelle im Deutschen Weininstitut begann?",
+        "answers": [
+            {
+                "text": "Verschiedene Weinsorten zu verkosten und seine Meinung dazu abzugeben.",
+                "correct": true
+            }, {
+                "text": "Die Weinberge zu pflegen und die Trauben zu ernten.",
+                "correct": false
+            }, {
+                "text": "Marketingstrategien für die Weinprodukte zu entwickeln.",
+                "correct": false
+            }, {
+                "text": "Administrative Aufgaben im Büro zu erledigen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das Besondere an Mareks Fähigkeiten während der Weinverkostung?",
+        "answers": [
+            {
+                "text": "Er hatte ein natürliches Talent, die Aromen und Noten der Weine zu erkennen.",
+                "correct": true
+            }, {
+                "text": "Er konnte große Mengen Wein ohne Auswirkungen auf seine Gesundheit trinken.",
+                "correct": false
+            }, {
+                "text": "Er war sehr gut darin, die Herkunft der Weine anhand ihres Etiketts zu identifizieren.",
+                "correct": false
+            }, {
+                "text": "Er war in der Lage, Weine aufgrund ihres Preises genau zu bewerten.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das Problem, das Marek während seiner Zeit im Deutschen Weininstitut überwinden musste?",
+        "answers": [
+            {
+                "text": "Seine Faulheit und Nachlässigkeit bei der Arbeit.",
+                "correct": true
+            }, {
+                "text": "Sein Mangel an Kenntnissen über Weinproduktion.",
+                "correct": false
+            }, {
+                "text": "Seine mangelnde Fähigkeit, Weine zu identifizieren.",
+                "correct": false
+            }, {
+                "text": "Seine Unfähigkeit, mit strengen Vorgesetzten umzugehen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war die Reaktion von Mareks Kollegen und Vorgesetzten auf sein nachlässiges Verhalten?",
+        "answers": [
+            {
+                "text": "Sie waren nicht beeindruckt und sein Chef warnte ihn davor, dass er sein Verhalten nicht dulden würde.",
+                "correct": true
+            }, {
+                "text": "Sie ignorierten sein Verhalten und ließen ihn weitermachen wie bisher.",
+                "correct": false
+            }, {
+                "text": "Sie fanden sein Verhalten amüsant und unterstützten ihn weiterhin.",
+                "correct": false
+            }, {
+                "text": "Sie waren besorgt um ihn und boten ihm Unterstützung an, um seine Motivation wiederzufinden.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war der Wendepunkt für Marek, um seine Arbeit ernst zu nehmen?",
+        "answers": [
+            {
+                "text": "Sein Wunsch, seine Liebe zum Wein und die Chance auf eine Festanstellung zu bewahren.",
+                "correct": true
+            }, {
+                "text": "Der Druck seiner Kollegen, die von ihm erwarteten, dass er sich ändert.",
+                "correct": false
+            }, {
+                "text": "Die Androhung einer Kündigung durch seinen Chef.",
+                "correct": false
+            }, {
+                "text": "Die Entdeckung neuer Interessen außerhalb seiner Faulheit.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das Ergebnis des Weinverkostungswettbewerbs, an dem Marek teilnahm?",
+        "answers": [
+            {
+                "text": "Er wurde zum Sieger erklärt.",
+                "correct": true
+            }, {
+                "text": "Er schaffte es nicht, eine einzige Weinprobe richtig zu identifizieren.",
+                "correct": false
+            }, {
+                "text": "Er belegte den zweiten Platz hinter einem erfahrenen Kollegen.",
+                "correct": false
+            }, {
+                "text": "Er wurde disqualifiziert, weil er betrunken war.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war die Konsequenz des Weinverkostungswettbewerbs für Marek?",
+        "answers": [
+            {
+                "text": "Herr Schneider bot ihm eine Festanstellung im Deutschen Weininstitut an.",
+                "correct": true
+            }, {
+                "text": "Er wurde für seine Bemühungen belohnt und erhielt eine Gehaltserhöhung.",
+                "correct": false
+            }, {
+                "text": "Er wurde von seinen Kollegen gefeiert, aber seine Faulheit setzte sich fort.",
+                "correct": false
+            }, {
+                "text": "Er erhielt eine Auszeichnung, aber keine dauerhafte Position.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was erkannte Marek schließlich als Quelle seines Glücks?",
+        "answers": [
+            {
+                "text": "Seine Liebe zum Wein und seine Leidenschaft für die Arbeit im Deutschen Weininstitut.",
+                "correct": true
+            }, {
+                "text": "Die Anerkennung und Belohnungen, die er erhielt, waren ihm am wichtigsten.",
+                "correct": false
+            }, {
+                "text": "Die Tatsache, dass er von einem faulen Leben zu einem erfolgreichen Karrieremann geworden war.",
+                "correct": false
+            }, {
+                "text": "Die Möglichkeit, in einer lebhaften Stadt wie Koblenz zu leben und zu arbeiten.",
+                "correct": false
+            }
+        ]
+    }
+]

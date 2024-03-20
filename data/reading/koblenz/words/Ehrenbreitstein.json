@@ -1,0 +1,207 @@
+[
+    {
+        "de": "die Festung",
+        "en": "fortress",
+        "ru": "крепость",
+        "descriptionEN": "a fortified building or strategic position used to defend against attack.",
+        "descriptionRU": "укрепленное здание или стратегическое положение, используемое для защиты от нападения.",
+        "descriptionDE": "ein befestigtes Gebäude oder strategische Position, das zur Verteidigung gegen Angriffe verwendet wird."
+    }, {
+        "de": "der Krieg",
+        "en": "war",
+        "ru": "война",
+        "descriptionEN": "a state of armed conflict between different nations or states or different groups within a nation or state.",
+        "descriptionRU": "состояние вооруженного конфликта между разными нациями или государствами или разными группами внутри нации или государства.",
+        "descriptionDE": "ein Zustand bewaffneter Konflikte zwischen verschiedenen Nationen oder Staaten oder verschiedenen Gruppen innerhalb einer Nation oder eines Staates."
+    }, {
+        "de": "die Invasion",
+        "en": "invasion",
+        "ru": "вторжение",
+        "descriptionEN": "an instance of invading a country or region with an armed force.",
+        "descriptionRU": "случай вторжения в страну или регион с вооруженной силой.",
+        "descriptionDE": "ein Fall von Invasion eines Landes oder einer Region mit einer bewaffneten Streitmacht."
+    }, {
+        "de": "der Widerstand",
+        "en": "resistance",
+        "ru": "сопротивление",
+        "descriptionEN": "the refusal to accept or comply with something; the attempt to prevent something by action or argument.",
+        "descriptionRU": "отказ принять или согласиться с чем-либо; попытка предотвратить что-то действием или аргументацией.",
+        "descriptionDE": "die Weigerung, etwas zu akzeptieren oder zu befolgen; der Versuch, etwas durch Handeln oder Argumentieren zu verhindern."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs.",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "die Belagerung",
+        "en": "siege",
+        "ru": "осада",
+        "descriptionEN": "a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender.",
+        "descriptionRU": "военная операция, при которой вражеские силы окружают город или здание, перекрывая жизненно важные поставки, с целью заставить находящихся внутри сдаться.",
+        "descriptionDE": "eine militärische Operation, bei der feindliche Streitkräfte eine Stadt oder ein Gebäude umgeben, indem sie lebenswichtige Versorgungsgüter abschneiden, mit dem Ziel, diejenigen im Inneren zur Kapitulation zu zwingen."
+    }, {
+        "de": "errichten",
+        "en": "to erect",
+        "ru": "воздвигать",
+        "descriptionEN": "to construct or build (a building, bridge, etc.).",
+        "descriptionRU": "строить или возводить (здание, мост и т. д.).",
+        "descriptionDE": "konstruieren oder bauen (ein Gebäude, eine Brücke usw.)."
+    }, {
+        "de": "befestigen",
+        "en": "to fortify",
+        "ru": "укреплять",
+        "descriptionEN": "to strengthen (a place) with defensive works so as to protect it against attack.",
+        "descriptionRU": "укреплять (место) оборонительными сооружениями, чтобы защитить его от нападения.",
+        "descriptionDE": "einen Ort mit Befestigungsanlagen verstärken, um ihn vor Angriffen zu schützen."
+    }, {
+        "de": "tapfer",
+        "en": "brave",
+        "ru": "смелый",
+        "descriptionEN": "showing courage.",
+        "descriptionRU": "проявляющий смелость.",
+        "descriptionDE": "Mut zeigend."
+    }, {
+        "de": "massiv",
+        "en": "massive",
+        "ru": "массивный",
+        "descriptionEN": "large and heavy or solid.",
+        "descriptionRU": "большой и тяжелый или крепкий.",
+        "descriptionDE": "groß und schwer oder massiv."
+    }, {
+        "de": "strategisch",
+        "en": "strategic",
+        "ru": "стратегический",
+        "descriptionEN": "relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+        "descriptionRU": "относящийся к определению долгосрочных или общих целей и интересов и средств их достижения.",
+        "descriptionDE": "bezogen auf die Bestimmung langfristiger oder Gesamtziele und Interessen und die Mittel zu ihrer Erreichung."
+    }, {
+        "de": "lebendig",
+        "en": "alive",
+        "ru": "живой",
+        "descriptionEN": "having life; living; not dead.",
+        "descriptionRU": "имеющий жизнь; живой; не мертвый.",
+        "descriptionDE": "Leben habend; lebendig; nicht tot."
+    }, {
+        "de": "faszinierend",
+        "en": "fascinating",
+        "ru": "захватывающий",
+        "descriptionEN": "extremely interesting or charming.",
+        "descriptionRU": "крайне интересный или очаровательный.",
+        "descriptionDE": "äußerst interessant oder charmant."
+    }, {
+        "de": "die Armee",
+        "en": "army",
+        "ru": "армия",
+        "descriptionEN": "a large organized body of armed personnel trained for war, especially on land.",
+        "descriptionRU": "большое организованное тело вооруженного персонала, обученное для войны, особенно на суше.",
+        "descriptionDE": "eine große organisierte Einheit von bewaffnetem Personal, das für den Krieg, insbesondere auf dem Land, ausgebildet ist."
+    }, {
+        "de": "der Hügel",
+        "en": "hill",
+        "ru": "холм",
+        "descriptionEN": "a naturally raised area of land, not as high or craggy as a mountain.",
+        "descriptionRU": "естественно поднятая местность, не такая высокая или скалистая, как гора.",
+        "descriptionDE": "ein natürlicherweise erhöhtes Gebiet, nicht so hoch oder felsig wie ein Berg."
+    }, {
+        "de": "die Mauer",
+        "en": "wall",
+        "ru": "стена",
+        "descriptionEN": "a continuous vertical brick or stone structure that encloses or divides an area of land.",
+        "descriptionRU": "непрерывная вертикальная кирпичная или каменная структура, ограничивающая или разделяющая участок земли.",
+        "descriptionDE": "eine durchgehende vertikale Ziegel- oder Steinstruktur, die einen Bereich des Landes umschließt oder teilt."
+    }, {
+        "de": "die Kasernen",
+        "en": "barracks",
+        "ru": "бараки",
+        "descriptionEN": "a building or group of buildings used to house soldiers.",
+        "descriptionRU": "здание или группа зданий, используемых для размещения солдат.",
+        "descriptionDE": "ein Gebäude oder eine Gruppe von Gebäuden, die zur Unterbringung von Soldaten genutzt werden."
+    }, {
+        "de": "die Brauerei",
+        "en": "brewery",
+        "ru": "пивоварня",
+        "descriptionEN": "a place where beer is made commercially.",
+        "descriptionRU": "место, где коммерчески производится пиво.",
+        "descriptionDE": "ein Ort, an dem Bier kommerziell hergestellt wird."
+    }, {
+        "de": "die Entscheidung",
+        "en": "decision",
+        "ru": "решение",
+        "descriptionEN": "a conclusion or resolution reached after consideration.",
+        "descriptionRU": "вывод или решение, принятое после обдумывания.",
+        "descriptionDE": "eine Schlussfolgerung oder Lösung, die nach Überlegung erreicht wurde."
+    }, {
+        "de": "die Kaserne",
+        "en": "barrack",
+        "ru": "барак",
+        "descriptionEN": "a building or group of buildings used to house soldiers.",
+        "descriptionRU": "здание или группа зданий, используемых для размещения солдат.",
+        "descriptionDE": "ein Gebäude oder eine Gruppe von Gebäuden, die zur Unterbringung von Soldaten genutzt werden."
+    }, {
+        "de": "die Bewaffnung",
+        "en": "armament",
+        "ru": "вооружение",
+        "descriptionEN": "the weapons and equipment of a military unit or organization.",
+        "descriptionRU": "оружие и снаряжение военного подразделения или организации.",
+        "descriptionDE": "die Waffen und Ausrüstung einer militärischen Einheit oder Organisation."
+    }, {
+        "de": "die Kapitulation",
+        "en": "surrender",
+        "ru": "капитуляция",
+        "descriptionEN": "the action of surrendering, ceasing to resist an opponent or demand.",
+        "descriptionRU": "действие капитуляции, прекращение сопротивления противнику или требованию.",
+        "descriptionDE": "die Handlung der Kapitulation, das Aufhören, einem Gegner oder einer Forderung zu widerstehen."
+    }, {
+        "de": "der Kongress",
+        "en": "congress",
+        "ru": "конгресс",
+        "descriptionEN": "a formal meeting or series of meetings for discussion between delegates, especially those from a political party or trade union or from within a particular sphere of activity.",
+        "descriptionRU": "официальная встреча или серия встреч для обсуждения между делегатами, особенно теми, кто от политической партии или профсоюза или из определенной сферы деятельности.",
+        "descriptionDE": "ein formelles Treffen oder eine Serie von Treffen zur Diskussion zwischen Delegierten, insbesondere solchen einer politischen Partei oder Gewerkschaft oder aus einem bestimmten Tätigkeitsbereich."
+    }, {
+        "de": "die Führung",
+        "en": "leadership",
+        "ru": "лидерство",
+        "descriptionEN": "the action of leading a group of people or an organization.",
+        "descriptionRU": "действие по руководству группой людей или организацией.",
+        "descriptionDE": "die Handlung, eine Gruppe von Menschen oder eine Organisation zu führen."
+    }, {
+        "de": "bewaffnen",
+        "en": "to arm",
+        "ru": "вооружать",
+        "descriptionEN": "to provide or supply with weapons.",
+        "descriptionRU": "обеспечивать или поставлять оружие.",
+        "descriptionDE": "mit Waffen versehen oder ausrüsten."
+    }, {
+        "de": "kapitulieren",
+        "en": "to capitulate",
+        "ru": "капитулировать",
+        "descriptionEN": "to cease to resist an opponent or an unwelcome demand; surrender.",
+        "descriptionRU": "прекратить сопротивление противнику или нежелательному требованию; сдаваться.",
+        "descriptionDE": "dem Gegner oder einer unerwünschten Forderung Widerstand leisten; kapitulieren."
+    }, {
+        "de": "entscheiden",
+        "en": "to decide",
+        "ru": "решать",
+        "descriptionEN": "to come or bring to a resolution in the mind as a result of consideration or observation.",
+        "descriptionRU": "прийти к решению в уме в результате обдумывания или наблюдения.",
+        "descriptionDE": "infolge von Überlegungen oder Beobachtungen zu einer Auflösung im Geist gelangen oder bringen."
+    }, {
+        "de": "erhalten",
+        "en": "to receive",
+        "ru": "получить",
+        "descriptionEN": "to be given, presented with, or paid (something).",
+        "descriptionRU": "получать, представлять собой или оплачивать (что-то).",
+        "descriptionDE": "etwas erhalten, präsentiert oder bezahlt bekommen."
+    }, {
+        "de": "belagern",
+        "en": "to besiege",
+        "ru": "осаждать",
+        "descriptionEN": "to surround (a place) with armed forces in order to capture it or force its surrender.",
+        "descriptionRU": "окружить (место) вооруженными силами, чтобы захватить его или заставить сдаться.",
+        "descriptionDE": "ein (Ort) mit bewaffneten Kräften umgeben, um ihn zu erobern oder zur Kapitulation zu zwingen."
+    }
+
+]
