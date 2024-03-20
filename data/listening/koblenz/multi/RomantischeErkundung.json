@@ -1,0 +1,175 @@
+[
+    {
+        "name": "Wo trafen sich Elsa und Roman?",
+        "answers": [
+            {
+                "text": "An der Universität",
+                "correct": true
+            }, {
+                "text": "In einem Café",
+                "correct": false
+            }, {
+                "text": "Im Deutschen Eck",
+                "correct": false
+            }, {
+                "text": "In einem Souvenirladen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machte Roman während ihres Spaziergangs durch Koblenz?",
+        "answers": [
+
+            {
+                "text": "Zeichnen",
+                "correct": false
+            }, {
+                "text": "Fotografieren",
+                "correct": true
+            }, {
+                "text": "Tanzen",
+                "correct": false
+            }, {
+                "text": "Einkaufen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tranken Elsa und Roman in dem gemütlichen Café?",
+        "answers": [
+
+            {
+                "text": "Kaffee",
+                "correct": false
+            }, {
+                "text": "Bier",
+                "correct": false
+            }, {
+                "text": "Heiße Schokolade",
+                "correct": true
+            }, {
+                "text": "Tee",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kauften Elsa und Roman im Souvenirladen?",
+        "answers": [
+            {
+                "text": "Handgefertigte Souvenirs",
+                "correct": false
+            }, {
+                "text": "Eine Halskette",
+                "correct": false
+            }, {
+                "text": "Kleidung",
+                "correct": false
+            }, {
+                "text": "Postkarten",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was taten Elsa und Roman, als die Sonne unterging?",
+        "answers": [
+            {
+                "text": "Bewunderten den Koblenzer Sonnenuntergang",
+                "correct": false
+            }, {
+                "text": "Gingen ins Hotel",
+                "correct": false
+            }, {
+                "text": "Lehnte Elsa ihren Kopf an Romans Schulter",
+                "correct": true
+            }, {
+                "text": "Machten Fotos",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo machten Elsa und Roman nach Einbruch der Dunkelheit Halt?",
+        "answers": [
+            {
+                "text": "In einem Museum",
+                "correct": false
+            }, {
+                "text": "In einem Restaurant",
+                "correct": true
+            }, {
+                "text": "In einem Park",
+                "correct": false
+            }, {
+                "text": "In einem Theater",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was taten Elsa und Roman bei Kerzenschein im Restaurant?",
+        "answers": [
+            {
+                "text": "Ließen den Tag Revue passieren",
+                "correct": true
+            }, {
+                "text": "Schrieben Postkarten",
+                "correct": false
+            }, {
+                "text": "Diskutierten über ihre Familien",
+                "correct": false
+            }, {
+                "text": "Planten ihre Rückreise",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wofür waren Elsa und Roman dankbar, als sie am Ende des Tages ins Bett gingen?",
+        "answers": [
+            {
+                "text": "Für die Reise nach Deutschland",
+                "correct": false
+            }, {
+                "text": "Für die köstlichen Mahlzeiten",
+                "correct": false
+            }, {
+                "text": "Für die warmen Betten",
+                "correct": false
+            }, {
+                "text": "Für ihre Liebe zueinander",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was schätzte Roman besonders an Elsa?",
+        "answers": [
+            {
+                "text": "Ihre Kochkünste",
+                "correct": false
+            }, {
+                "text": "Ihre Geduld",
+                "correct": false
+            }, {
+                "text": "Dass sie seine beste Freundin ist",
+                "correct": true
+            }, {
+                "text": "Ihre Fähigkeit zu reisen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was schuf die Rheinpromenade bei Sonnenuntergang?",
+        "answers": [
+            {
+                "text": "Eine magische Atmosphäre",
+                "correct": true
+            }, {
+                "text": "Eine laute Geräuschkulisse",
+                "correct": false
+            }, {
+                "text": "Eine stressige Situation",
+                "correct": false
+            }, {
+                "text": "Eine gruselige Stimmung",
+                "correct": false
+            }
+        ]
+    }
+]

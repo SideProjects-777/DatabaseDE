@@ -16,12 +16,12 @@
         "words": "Abenteuer.json",
         "yesNo": "Abenteuer.json"
     }, {
-        "name":{
+        "name": {
             "en": "Wine Adventure",
             "de": "Weinabenteuer",
             "ru": "Винное приключение"
         },
-        "description":{
+        "description": {
             "en": "Lazy man discovers passion",
             "de": "Faule Mann entdeckt Leidenschaft",
             "ru": "Ленивый человек обнаруживает страсть"
@@ -63,6 +63,22 @@
         "file": "RieslingAdventure.mp3",
         "words": "RieslingAdventure.json",
         "multi": "RieslingAdventure.json"
+    }, {
+        "name": {
+            "en": "Love in Koblenz",
+            "de": "Liebe in Koblenz",
+            "ru": "Любовь в Кобленце"
+        },
+        "description": {
+            "en": "Romantic Exploration",
+            "de": "Romantische Erkundung",
+            "ru": "Романтическое путешествие"
+        },
+        "level": "B1",
+        "image": "RomantischeErkundung.jpg",
+        "file": "RomantischeErkundung.txt",
+        "words": "RomantischeErkundung.json",
+        "multi": "RomantischeErkundung.json"
     }, {
         "name": {
             "en": "Dreams Unleashed",

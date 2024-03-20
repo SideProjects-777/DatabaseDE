@@ -1,0 +1,144 @@
+[
+    {
+        "de": "der Traum",
+        "en": "dream",
+        "ru": "мечта",
+        "descriptionEN": "a series of thoughts, images, or emotions occurring during sleep",
+        "descriptionRU": "серия мыслей, образов или эмоций, возникающих во время сна",
+        "descriptionDE": "eine Abfolge von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten"
+    }, {
+        "de": "die Reise",
+        "en": "journey",
+        "ru": "путешествие",
+        "descriptionEN": "an act of traveling from one place to another",
+        "descriptionRU": "действие путешествия из одного места в другое",
+        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen"
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town",
+        "descriptionRU": "большой город",
+        "descriptionDE": "eine große Stadt"
+    }, {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "a large natural stream of water flowing in a channel to the sea, a lake, or another river",
+        "descriptionRU": "большой естественный поток воды, текущий по каналу к морю, озеру или другой реке",
+        "descriptionDE": "ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt"
+    }, {
+        "de": "die Liebe",
+        "en": "love",
+        "ru": "любовь",
+        "descriptionEN": "an intense feeling of deep affection",
+        "descriptionRU": "интенсивное чувство глубокой привязанности",
+        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung"
+    }, {
+        "de": "die Beziehung",
+        "en": "relationship",
+        "ru": "отношения",
+        "descriptionEN": "the way in which two or more people or things are connected, or the state of being connected",
+        "descriptionRU": "способ, которым два или более человека или вещи связаны, или состояние быть связанным",
+        "descriptionDE": "die Art und Weise, wie zwei oder mehr Personen oder Dinge miteinander verbunden sind, oder der Zustand der Verbindung"
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it",
+        "descriptionRU": "путешествовать через (незнакомую местность) с целью изучить её",
+        "descriptionDE": "durch (ein unbekanntes Gebiet) reisen, um es kennenzulernen"
+    }, {
+        "de": "festhalten",
+        "en": "capture",
+        "ru": "захватить",
+        "descriptionEN": "to record or take a photograph of (something) using a camera",
+        "descriptionRU": "записать или сделать фотографию (чего-то) с помощью камеры",
+        "descriptionDE": "etwas mit einer Kamera aufzeichnen oder fotografieren"
+    }, {
+        "de": "dokumentieren",
+        "en": "document",
+        "ru": "документировать",
+        "descriptionEN": "to record (something) in written, photographic, or other form",
+        "descriptionRU": "записывать (что-то) в письменной, фотографической или другой форме",
+        "descriptionDE": "(etwas) in schriftlicher, fotografischer oder anderer Form festhalten"
+    }, {
+        "de": "pausieren",
+        "en": "pause",
+        "ru": "пауза",
+        "descriptionEN": "to stop doing something for a short time before doing it again",
+        "descriptionRU": "прекратить что-то делать на короткое время, прежде чем снова это делать",
+        "descriptionDE": "eine kurze Pause machen, bevor man etwas wieder tut"
+    }, {
+        "de": "kaufen",
+        "en": "buy",
+        "ru": "купить",
+        "descriptionEN": "to acquire in exchange for money or its equivalent",
+        "descriptionRU": "приобрести в обмен на деньги или их эквивалент",
+        "descriptionDE": "im Austausch gegen Geld oder dessen Äquivalent erwerben"
+    }, {
+        "de": "schreiben",
+        "en": "write",
+        "ru": "писать",
+        "descriptionEN": "to mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement",
+        "descriptionRU": "отметить (буквы, слова или другие символы) на поверхности, обычно бумаге, ручкой, карандашом или подобным инструментом",
+        "descriptionDE": "(Buchstaben, Wörter oder andere Symbole) auf einer Oberfläche, typischerweise Papier, mit einem Stift, Bleistift oder ähnlichem Werkzeug markieren"
+    }, {
+        "de": "näher",
+        "en": "closer",
+        "ru": "ближе",
+        "descriptionEN": "at a shorter distance in space or time",
+        "descriptionRU": "на более коротком расстоянии в пространстве или времени",
+        "descriptionDE": "in kürzerer Entfernung im Raum oder in der Zeit"
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "impossible to forget",
+        "descriptionRU": "невозможно забыть",
+        "descriptionDE": "unmöglich zu vergessen"
+    }, {
+        "de": "bezaubernd",
+        "en": "enchanting",
+        "ru": "очаровательный",
+
+        "descriptionEN": "charming or delightful",
+        "descriptionRU": "очаровательный или восхитительный",
+        "descriptionDE": "charmant oder entzückend"
+    }, {
+        "de": "magisch",
+        "en": "magical",
+        "ru": "волшебный",
+        "descriptionEN": "possessing or involving qualities of magic",
+        "descriptionRU": "обладающий или включающий в себя качества магии",
+        "descriptionDE": "besitzt oder beinhaltet Eigenschaften von Magie"
+    }, {
+        "de": "dankbar",
+        "en": "grateful",
+        "ru": "благодарный",
+        "descriptionEN": "feeling or showing an appreciation of kindness; thankful",
+        "descriptionRU": "чувствующий или выражающий признательность за доброту; благодарный",
+        "descriptionDE": "fühlen oder zeigen eine Wertschätzung für Freundlichkeit; dankbar"
+    }, {
+        "de": "gemütlich",
+        "en": "cozy",
+        "ru": "уютный",
+        "descriptionEN": "giving a feeling of comfort, warmth, and relaxation",
+        "descriptionRU": "дающий ощущение комфорта, тепла и расслабления",
+        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung"
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically",
+        "descriptionRU": "угождающий чувствам или разуму эстетически",
+        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend"
+    }, {
+        "de": "malersich",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or charming way",
+        "descriptionRU": "визуально привлекательный, особенно в старомодном или очаровательном стиле",
+        "descriptionDE": "visuell ansprechend, besonders auf eine malerische oder charmante Weise"
+    }
+]
