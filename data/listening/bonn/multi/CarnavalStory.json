@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Was war das Hauptthema des Streits zwischen Ben und Pascal?",
+        "answers": [
+
+            {
+                "text": "Die Organisation des Karnevalsfestes",
+                "correct": false
+            }, {
+                "text": "Die Auswahl der Musik für den Karneval",
+                "correct": false
+            }, {
+                "text": "Die Auswahl ihrer Karnevalskostüme",
+                "correct": true
+            }, {
+                "text": "Die Auswahl der Speisen für den Karneval",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer schlug vor, dass Ben und Pascal Elemente aus ihren Ideen verwenden sollten?",
+        "answers": [
+
+            {
+                "text": "Marta",
+                "correct": false
+            }, {
+                "text": "Sofia",
+                "correct": true
+            }, {
+                "text": "Anna",
+                "correct": false
+            }, {
+                "text": "Ein Karnevalsveranstalter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie verbrachten Ben und Pascal ihre Freizeit in den folgenden Tagen?",
+        "answers": [
+
+            {
+                "text": "Mit dem Planen von Karnevalspartys",
+                "correct": false
+            }, {
+                "text": "Mit dem Besuch von Karnevalsveranstaltungen in anderen Städten",
+                "correct": false
+            }, {
+                "text": "Mit dem Arbeiten an ihren regulären Jobs",
+                "correct": false
+            }, {
+                "text": "Damit, die perfekten Karnevalskostüme zu entwerfen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Rolle spielten Pascals Bar und Bens fotografische Fähigkeiten bei der Kostümgestaltung?",
+        "answers": [
+            {
+                "text": "Pascals Bar wurde für Kostümbastel-Workshops genutzt und Ben dokumentierte den Prozess fotografisch.",
+                "correct": true
+            }, {
+                "text": "Sie hatten keine Rolle bei der Kostümgestaltung.",
+                "correct": false
+            }, {
+                "text": "Ben arbeitete als Barkeeper in Pascals Bar und entwarf die Kostüme in seiner Freizeit.",
+                "correct": false
+            }, {
+                "text": "Pascals Bar war nur ein Treffpunkt für ihre Diskussionen über Karneval.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie beschrieben sich die Kostüme von Ben und Pascal?",
+        "answers": [
+            {
+                "text": "Bequem und modern mit knalligen Farben",
+                "correct": true
+            }, {
+                "text": "Traditionell und konservativ",
+                "correct": false
+            }, {
+                "text": "Extravagant und bunt mit komplizierten Mustern",
+                "correct": false
+            }, {
+                "text": "Einfach und unauffällig",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das Ergebnis der Zusammenarbeit von Ben und Pascal?",
+        "answers": [
+            {
+                "text": "Sie konnten sich nicht einigen und trugen unterschiedliche Kostüme.",
+                "correct": false
+            }, {
+                "text": "Sie schufen einzigartige und auffällige Kostüme, die zum Hit des Karnevals wurden.",
+                "correct": true
+            }, {
+                "text": "Sie beschlossen, nicht am Karneval teilzunehmen.",
+                "correct": false
+            }, {
+                "text": "Sie arbeiteten an anderen Projekten außerhalb des Karnevals.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war das Ergebnis des Karnevals für Ben und Pascal?",
+        "answers": [
+            {
+                "text": "Sie beschlossen, sich nie wieder zu treffen.",
+                "correct": false
+            }, {
+                "text": "Sie zogen beide aus Bonn weg.",
+                "correct": false
+            }, {
+                "text": "Sie begannen, sich zu streiten und verloren den Kontakt.",
+                "correct": false
+            }, {
+                "text": "Ihre Freundschaft wurde durch die Erfahrung gestärkt und sie schufen wunderbare Erinnerungen.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was war das Gesprächsthema in der Stadt über Ben und Pascal?",
+        "answers": [
+            {
+                "text": "Das Essen in Pascals Bar",
+                "correct": false
+            }, {
+                "text": "Die Musik, die sie auf dem Karneval spielten",
+                "correct": false
+            }, {
+                "text": "Das Wetter während des Karnevals",
+                "correct": false
+            }, {
+                "text": "Ihre Kostüme und ihre Inspiration dahinter",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was war das Hauptthema des Karnevals in Bonn?",
+        "answers": [
+            {
+                "text": "Die politische Diskussion",
+                "correct": false
+            }, {
+                "text": "Die wirtschaftliche Lage der Stadt",
+                "correct": false
+            }, {
+                "text": "Die Freude am Feiern und Tanzen",
+                "correct": true
+            }, {
+                "text": "Die Umweltprobleme in der Region",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was verband Ben und Pascal am Ende des Karnevals?",
+        "answers": [
+            {
+                "text": "Eine enge Freundschaft und die schönen Erinnerungen",
+                "correct": true
+            }, {
+                "text": "Ein gemeinsamer Geschäftsvorhaben",
+                "correct": false
+            }, {
+                "text": "Eine gegenseitige Abneigung",
+                "correct": false
+            }, {
+                "text": "Eine geplante Reise nach Berlin",
+                "correct": false
+            }
+        ]
+    }
+]
