@@ -17,9 +17,9 @@
         "yesNo": "Anna.json"
     }, {
         "name": {
-            "de": "Süße Geheimnisse von Bonn",
-            "en": "Sweet Secrets of Bonn",
-            "ru": "Сладкие тайны Бонна"
+            "de": "Süße Geheimnisse",
+            "en": "Sweet Secrets",
+            "ru": "Сладкие тайны"
         },
         "description": {
             "de": "Die phantasievolle Süßigkeitenkarte von Maria Schmidt",
@@ -33,20 +33,20 @@
         "multi": "Geheimnisse.json"
     }, {
         "name": {
-            "de": "Warum Bonn?",
-            "en": "Why Bonn?",
-            "ru": "Почему Бонн?"
+            "de": "Gesundheitsberatung",
+            "en": "Health Consultation",
+            "ru": "Опыт консультации по здоровью"
         },
         "description": {
-            "de": "Bonner Charme",
-            "en": "Charm in Bonn",
-            "ru": "Очарование Бонна"
+            "de": "Besuch beim Arzt",
+            "en": "A Visit to the Doctor",
+            "ru": "Визит к врачу"
         },
         "level": "A2",
-        "image": "Bonn.jpg",
-        "file": "Warum_Bonn.txt",
-        "words": "Warum_Bonn.json",
-        "yesNo": "Warum_Bonn.json"
+        "image": "Krankheit.jpg",
+        "file": "Krankheit.txt",
+        "words": "Krankheit.json",
+        "yesNo": "Krankheit.json"
     }, {
         "name": {
             "de": "Schönes Wochenende",
@@ -54,9 +54,9 @@
             "ru": "Теплый выходной"
         },
         "description": {
-            "de": "Bonn Rückzug: Herzliches Wochenende",
-            "en": "Bonn Retreat: Heartwarming Weekend",
-            "ru": "Отдых в Бонне: Теплый Уикенд"
+            "de": "Bonn Rückzug",
+            "en": "Bonn Retreat",
+            "ru": "Отдых в Бонне"
         },
         "level": "A2",
         "image": "Weekend.jpg",
@@ -65,14 +65,14 @@
         "multi": "Weekend.json"
     }, {
         "name": {
-            "de": "Suche nach einem Wohnsitz",
-            "en": "Searching for accommodation",
+            "de": "Wohnungssuche",
+            "en": "Flat search",
             "ru": "Поиск жилья"
         },
         "description": {
-            "de": "Annas neue Wohnung in Bonn",
-            "en": "Anna's New Home in Bonn",
-            "ru": "История Анны в Бонне"
+            "de": "Annas neue Wohnung",
+            "en": "Anna's New Home",
+            "ru": "Новая квартира Анны"
         },
         "level": "A2",
         "image": "Wohnung.jpg",
@@ -97,14 +97,14 @@
         "yesNo": "PinkIncident.json"
     }, {
         "name": {
-            "de": "Bonner Farben",
-            "en": "Colors of Bonn",
-            "ru": "Краски Бонна"
-        },
-        "description": {
             "de": "Karnevalsfreude",
             "en": "Carnival joy",
             "ru": "Радость карнавала"
+        },
+        "description": {
+            "de": "Bonner Farben",
+            "en": "Colors of Bonn",
+            "ru": "Краски Бонна"
         },
         "level": "B1",
         "image": "Karnevalsfreude.jpg",
@@ -113,20 +113,20 @@
         "yesNo": "Karnevalsfreude.json"
     }, {
         "name": {
-            "de": "Ein Besuch beim Arzt",
-            "en": "A Visit to the Doctor",
-            "ru": "Визит к врачу"
+            "de": "Warum Bonn?",
+            "en": "Why Bonn?",
+            "ru": "Почему Бонн?"
         },
         "description": {
-            "de": "Gesundheitsberatung erleben",
-            "en": "Experiencing Health Consultation",
-            "ru": "Опыт консультации по здоровью"
+            "de": "Bonner Charme",
+            "en": "Charm in Bonn",
+            "ru": "Очарование Бонна"
         },
-        "level": "B1",
-        "image": "Krankheit.jpg",
-        "file": "Krankheit.txt",
-        "words": "Krankheit.json",
-        "yesNo": "Krankheit.json"
+        "level": "A2",
+        "image": "Bonn.jpg",
+        "file": "Warum_Bonn.txt",
+        "words": "Warum_Bonn.json",
+        "yesNo": "Warum_Bonn.json"
     }, {
         "name": {
             "de": "Diamanten und Täuschung",
@@ -166,9 +166,9 @@
             "ru": "Путешествие в прошлое"
         },
         "description": {
-            "de": "Maximilians Wochenendabenteuer am Schloss Drachenburg",
-            "en": "Maximilian's Weekend Adventure at Drachenburg Castle",
-            "ru": "Уикенд Максимилиана в замке Драхенбург"
+            "de": "Maximilians Wochenendabenteuer",
+            "en": "Maximilian's Weekend Adventure",
+            "ru": "Выходные Максимилиана"
         },
         "level": "B2",
         "image": "Wandern.jpg",
@@ -177,14 +177,14 @@
         "yesNo": "Wandern.json"
     }, {
         "name": {
-            "de": "Mein erster Rosenmontag",
-            "en": "My first Rosenmontag",
-            "ru": "Мой первый Розенмонтаг"
-        },
-        "description": {
             "de": "Karnevalsfeier",
             "en": "Carnival Celebration",
             "ru": "Празднование карнавала"
+        },
+        "description": {
+            "de": "Mein erster Rosenmontag",
+            "en": "My first Rosenmontag",
+            "ru": "Мой первый Розенмонтаг"
         },
         "level": "B2",
         "image": "RosenmontagBonn.jpg",
@@ -225,9 +225,9 @@
         "multi": "COVID_Beethoven.json"
     }, {
         "name": {
-            "de": "Das Arithmeum in Bonn",
-            "en": "The Arithmeum in Bonn",
-            "ru": "Аритмеум в Бонне"
+            "de": "Das Arithmeum ",
+            "en": "The Arithmeum",
+            "ru": "Аритмеум"
         },
         "description": {
             "de": "Eine Reise durch die Geschichte der Rechenmaschinen",
