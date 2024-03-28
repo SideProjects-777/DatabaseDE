@@ -6,9 +6,9 @@
             "ru": "Велосипедный тур"
         },
         "description": {
-            "de": "Picknick am See mit der Besten Freundin",
-            "en": "The Müller Family's Vacation Journey",
-            "ru": "Picnic at the lake with best friend"
+            "de": "Picknick am See",
+            "en": "Picnic at the lake",
+            "ru": "Пикник на озере"
         },
         "level": "A2",
         "image": "Fahrradtour.jpg",
@@ -17,14 +17,14 @@
         "multi": "Fahrradtour.json"
     }, {
         "name": {
+            "de": "Markus' Ermittlung",
+            "en": "Markus' Investigation",
+            "ru": "Расследование Маркуса"
+        },
+        "description": {
             "de": "Die Geheimnisse der verlorenen Tasche",
             "en": "The Mysteries of the Lost Purse",
             "ru": "Тайны потерянной сумки"
-        },
-        "description": {
-            "de": "Markus' Ermittlung in der Oper",
-            "en": "Markus' Investigation at the Opera",
-            "ru": "Расследование Маркуса в оперном театре"
         },
         "level": "A2",
         "image": "Geheimnisse.jpg",
@@ -38,8 +38,8 @@
             "ru": "В аэропорту"
         },
         "description": {
-            "de": "Die Müller'sche Urlaubsreise",
-            "en": "The Müller Family's Vacation Journey",
+            "de": "Der Urlaub der Familie Mueller",
+            "en": "The Müller Family's Vacation",
             "ru": "Отпуск семьи Мюллер"
         },
         "level": "A2",
@@ -86,9 +86,9 @@
             "ru": "Новые горизонты Юлии"
         },
         "description": {
-            "de": "Von Stuttgart nach Bonn mit Minka der Katze",
-            "en": "From Stuttgart to Bonn with Minka the Cat",
-            "ru": "Из Штутгарта в Бонн с котом Минка"
+            "de": "Von Stuttgart nach Bonn",
+            "en": "From Stuttgart to Bonn",
+            "ru": "Из Штутгарта в Бонн"
         },
         "level": "B1",
         "image": "NeuStadt.jpg",
@@ -110,17 +110,17 @@
         "image": "ErsteMal.jpg",
         "file": "ErsteMal.mp3",
         "words": "ErsteMal.json",
-        "multi": "ErsteMal.json"
+        "yesNo": "ErsteMal.json"
     }, {
         "name": {
+            "de": "Ein Wintermärchen",
+            "en": "A Winter Wonderland",
+            "ru": "Зимняя сказка"
+        },
+        "description": {
             "de": "Mein erstes Weihnachten",
             "en": "My First Christmas",
             "ru": "Моё первое Рождество"
-        },
-        "description": {
-            "de": "Ein Wintermärchen in der Fremde",
-            "en": "A Winter Wonderland Away from Home",
-            "ru": "Зимняя сказка вдали от дома"
         },
         "level": "B1",
         "image": "MeinWeihnachten.jpg",
@@ -129,14 +129,14 @@
         "yesNo": "MeinWeihnachten.json"
     }, {
         "name": {
-            "de": "Bonn entdecken (Teil III)",
-            "en": "Discovering Bonn (part III)",
-            "ru": "Знакомство с Бонном (часть III)"
+            "de": "Bonn entdecken III",
+            "en": "Discovering Bonn III",
+            "ru": "Знакомство с Бонном III"
         },
         "description": {
-            "de": "Lebensmitteleinkauf in Bonn",
-            "en": "Grocery Shopping in Bonn",
-            "ru": "Продуктовые магазины в Бонне"
+            "de": "Lebensmitteleinkauf",
+            "en": "Grocery Shopping",
+            "ru": "Продуктовые магазины"
         },
         "level": "B1",
         "image": "Lebensmitteleinkauf.jpg",
@@ -147,7 +147,7 @@
         "name": {
             "de": "Die Zusammenarbeit beim Karneval",
             "en": "The Carnival Collaboration",
-            "ru": "Кооперация на карнавале"
+            "ru": "Сотрудничество на карнавале"
         },
         "description": {
             "de": "Eine Geschichte über Freundschaft und Kreativität",
@@ -166,9 +166,9 @@
             "ru": "Дом Бетховена I"
         },
         "description": {
-            "de": "Überblick über das Museum und seine Umgebung",
-            "en": "Overview of the museum and its surroundings",
-            "ru": "Обзор музея и его окрестностей"
+            "de": "Überblick über das Museum",
+            "en": "Overview of the museum",
+            "ru": "Обзор музея"
         },
         "level": "B2",
         "image": "BeethovenI.jpg",
@@ -209,14 +209,14 @@
         "yesNo": "Hofgarten.json"
     }, {
         "name": {
-            "de": "Bonn entdecken (Teil I)",
-            "en": "Discovering Bonn (part I)",
-            "ru": "Знакомство с Бонном (часть I)"
+            "de": "Bonn entdecken I",
+            "en": "Discovering Bonn I",
+            "ru": "Знакомство с Бонном I"
         },
         "description": {
-            "de": "Straßen von Bonn",
-            "en": "Streets of Bonn",
-            "ru": "Улицы Бонна"
+            "de": "Straßen",
+            "en": "Streets",
+            "ru": "Улицы"
         },
         "level": "B2",
         "image": "BonnStreets.jpg",
@@ -225,9 +225,9 @@
         "multi": "BonnStreets.json"
     }, {
         "name": {
-            "de": "Bonn entdecken (Teil II)",
-            "en": "Discovering Bonn (part II)",
-            "ru": "Знакомство с Бонном (часть II)"
+            "de": "Bonn entdecken II",
+            "en": "Discovering Bonn II",
+            "ru": "Знакомство с Бонном II"
         },
         "description": {
             "de": "Berühmte Karnevale",
