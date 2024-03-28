@@ -6,9 +6,9 @@
             "ru": "Камни преткновения"
         },
         "description": {
-            "de": "Enthüllung von Erinnerungen auf Kölns Straßen",
-            "en": "Unveiling Memories on Cologne's Streets",
-            "ru": "Воспоминания на улицах Кёльна"
+            "de": "Enthüllung von Erinnerungen auf Straßen",
+            "en": "Unveiling Memories on Streets",
+            "ru": "Воспоминания на улицах"
         },
         "level": "A2",
         "image": "Stolpersteine.jpg",
@@ -22,9 +22,9 @@
             "ru": "Незнакомцы в соборе"
         },
         "description": {
-            "de": "Dom-Begegnung: Zufällige Freundschaft in Köln",
-            "en": "Cathedral Encounter: Accidental Friendship in Cologne",
-            "ru": "Встреча в соборе: случайная дружба в Кёльне"
+            "de": "Zufällige Freundschaft",
+            "en": "Accidental Friendship",
+            "ru": "Случайная дружба"
         },
         "level": "A2",
         "image": "Fremde_im_Dom.jpg",
@@ -38,9 +38,9 @@
             "ru": "Потерянный кошелек"
         },
         "description": {
-            "de": "Unerwartete Anleihen auf der Hohenzollernbrücke",
-            "en": "Unexpected Bonds on the Hohenzollern Bridge",
-            "ru": "Неожиданные узы на мосту Гогенцоллернов"
+            "de": "Unerwartete Anleihen",
+            "en": "Unexpected Bonds",
+            "ru": "Неожиданные узы"
         },
         "level": "A2",
         "image": "Lost_Wallet.jpg",
@@ -81,9 +81,9 @@
         "yesNo": "Zoo.json"
     }, {
         "name": {
-            "de": "Köln erkunden (Teil 1)",
-            "en": "Exploring Cologne (Part 1)",
-            "ru": "Знакомство с Кельном (часть 1)"
+            "de": "Köln erkunden I",
+            "en": "Exploring Cologne I",
+            "ru": "Знакомство с Кельном I"
         },
         "description": {
             "de": "Stadtführer",
@@ -97,9 +97,9 @@
         "yesNo": "Cologne_Erkunden_I.json"
     }, {
         "name": {
-            "de": "Köln erkunden (Teil 2)",
-            "en": "Exploring Cologne (Part 2)",
-            "ru": "Знакомство с Кельном (часть 2)"
+            "de": "Köln erkunden II",
+            "en": "Exploring Cologne II",
+            "ru": "Знакомство с Кельном II"
         },
         "description": {
             "de": "Stadtführer",
@@ -113,9 +113,9 @@
         "yesNo": "Cologne_Erkunden_II.json"
     }, {
         "name": {
-            "de": "Köln erkunden (Teil 3)",
-            "en": "Exploring Cologne (Part 3)",
-            "ru": "Знакомство с Кельном (часть 3)"
+            "de": "Köln erkunden III",
+            "en": "Exploring Cologne III",
+            "ru": "Знакомство с Кельном III"
         },
         "description": {
             "de": "Stadtführer",
@@ -129,14 +129,14 @@
         "yesNo": "Cologne_Erkunden_III.json"
     }, {
         "name": {
-            "de": "Magie im Kölner Zoo",
-            "en": "Magic at Cologne Zoo",
-            "ru": "Волшебство в Кёльнском зоопарке"
+            "en": "Panda Surprise",
+            "de": "Panda-Überraschung",
+            "ru": "Пандовый сюрприз"
         },
-        "description": {
-            "de": "Unerwartete Bindungen im Zoo",
-            "en": "Unexpected Bonds at the Zoo",
-            "ru": "Неожиданные знакомства в зоопарке"
+        "description":  {
+            "en": "Unexpected zoo encounter",
+            "de": "Unerwartete Zoo-Begegnung",
+            "ru": "Неожиданная встреча в зоопарке"
         },
         "level": "B1",
         "image": "Magic.jpg",
@@ -150,9 +150,9 @@
             "ru": "Кельнский собор"
         },
         "description": {
-            "de": "Historische und majestätische Kathedrale",
-            "en": "Historical and majestic cathedral",
-            "ru": "Исторический и величественный собор"
+            "en": "Gothic architectural marvel",
+            "de": "Gotisches Architekturwunder",
+            "ru": "Готическое архитектурное чудо"
         },
         "level": "B1",
         "image": "Dom.jpg",
@@ -174,17 +174,17 @@
         "image": "KoelnDus.jpg",
         "file": "KoelnDus.txt",
         "words": "KoelnDus.json",
-        "yesNo": "KoelnDus.json"
+        "multi": "KoelnDus.json"
     }, {
         "name": {
+            "de": "Kölsch",
+            "en": "Kölsch",
+            "ru": "Kölsch"
+        },
+        "description": {
             "de": "Kölner Bierboom",
             "en": "Cologne beer boom",
             "ru": "Кельнский пивной бум"
-        },
-        "description": {
-            "de": "Kölsch und seine faszinierende Braugeschichte",
-            "en": "Kölsch and Its Fascinating Brewing History",
-            "ru": "Кёльш и его увлекательная история варки"
         },
         "level": "B2",
         "image": "Bierboom.jpg",
@@ -193,9 +193,9 @@
         "yesNo": "Bierboom.json"
     }, {
         "name": {
-            "de": "Die Geschichte des 1. FC Köln",
-            "en": "The history of 1. FC Köln",
-            "ru": "История 1. ФК Кёльн"
+            "de": "FC Köln",
+            "en": "FC Köln",
+            "ru": "ФК Кёльн"
         },
         "description": {
             "de": "Von den Anfängen bis zur Gegenwart",
@@ -209,14 +209,14 @@
         "multi": "FC_Koeln.json"
     }, {
         "name": {
-            "de": "Weihnachtsbräuche in Deutschland",
-            "en": "Christmas Traditions in Germany",
-            "ru": "Рождественские традиции в Германии"
+            "de": "Weihnachtsbräuche",
+            "en": "Christmas Traditions",
+            "ru": "Рождественские традиции"
         },
         "description": {
-            "en": "Customs, Celebrations, and Merry Christmas!",
-            "de": "Traditionen, Festlichkeiten und frohe Weihnachten!",
-            "ru": "Обычаи, празднования и веселого Рождества!"
+            "en": "Customs and Celebrations",
+            "de": "Traditionen und Festlichkeiten",
+            "ru": "Обычаи and празднования"
         },
         "level": "B2",
         "image": "Christmas.jpg",
@@ -225,14 +225,14 @@
         "multi": "Christmas.json"
     }, {
         "name": {
-            "de": "Ein Blick in die Welt legendärer Sportler",
-            "en": "A Glimpse into the World of Legendary Athletes",
-            "ru": "Взгляд в мир легендарных спортсменов"
+            "en": "Spirit Guardians",
+            "de": "Geisterwächter",
+            "ru": "Стражи духов"
         },
         "description": {
-            "de": "Nächtliche Begegnungen im Deutschen Sport & Olympia Museum",
-            "en": "Nightly Encounters at the German Sports & Olympic Museum",
-            "ru": "Ночные встречи в Немецком музее спорта и олимпийского движения"
+            "de": "Nächtliche Begegnungen",
+            "en": "Night Encounters",
+            "ru": "Ночные встречи"
         },
         "level": "B2",
         "image": "Athletes.jpg",

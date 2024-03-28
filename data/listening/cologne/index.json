@@ -38,9 +38,9 @@
             "ru": "Приключение в магазине"
         },
         "description": {
-            "de": "Pauls erstes Einkaufen in Köln",
-            "en": "Paul's First Shopping in Cologne",
-            "ru": "Первые покупки Поля в Кёльне"
+            "de": "Pauls erstes Einkaufen",
+            "en": "Paul's First Shopping",
+            "ru": "Первые покупки Поля"
         },
         "level": "A2",
         "image": "Einkaufen.jpg",
@@ -54,9 +54,9 @@
             "ru": "Знакомство в Кельне"
         },
         "description": {
-            "en": "City Rediscovery and Inspiration",
-            "de": "Stadt-Wiederentdeckung und Inspiration",
-            "ru": "Переосмысление города и вдохновение"
+            "en": "City Rediscovery",
+            "de": "Stadt-Wiederentdeckung",
+            "ru": "Переосмысление города"
         },
         "level": "A2",
         "image": "Meeting_Cologne.jpg",
@@ -65,14 +65,14 @@
         "multi": "Meeting_Cologne.json"
     }, {
         "name": {
-            "en": "Friendship Journey",
-            "de": "Freundschaftsreise",
-            "ru": "Путешествие дружбы"
+            "en": "Urban Dreamers",
+            "de": "Stadträume",
+            "ru": "Городские мечтатели"
         },
         "description": {
-            "en": "Friends pursue career dreams",
-            "de": "Freunde verfolgen Karriereträume",
-            "ru": "Друзья следуют за карьерными мечтами"
+            "en": "Friendship in the city",
+            "de": "Freundschaft in der Stadt",
+            "ru": "Дружба в городе"
         },
         "level": "A2",
         "image": "FriendshipWork.jpg",
@@ -81,14 +81,14 @@
         "multi": "FriendshipWork.json"
     }, {
         "name": {
-            "en": "Farina's Cologne Legacy",
-            "de": "Farinas Kölnisches Erbe",
-            "ru": "Колониальное наследие Фарины"
+            "en": "Fragrant Legacy",
+            "de": "Duftvolles Erbe",
+            "ru": "Ароматное наследие"
         },
         "description": {
-            "en": "Revolutionized fragrance industry",
-            "de": "Revolutionierte Parfüm-Industrie",
-            "ru": "Революционизировал парфюмерную индустрию"
+            "en": "Legacy of Eau de Cologne",
+            "de": "Erbe des Eau de Cologne",
+            "ru": "Наследие одеколона"
         },
         "level": "B1",
         "image": "Parfum.jpg",
@@ -97,9 +97,9 @@
         "yesNo": "Parfum.json"
     }, {
         "name": {
-            "de": "Morgenerlebnisse von Felix",
-            "en": "Morning Explorations of Felix",
-            "ru": "Утренние приключения Феликса"
+            "de": "Morgenerlebnisse",
+            "en": "Morning Explorations",
+            "ru": "Утренние приключения"
         },
         "description": {
             "en": "An Interview with Citizens",
@@ -129,14 +129,14 @@
         "yesNo": "Schokoladenparadies.json"
     }, {
         "name": {
-            "de": "Länderübergreifende Freundschaft",
-            "en": "International friendship",
-            "ru": "Интернациональная дружба"
+            "de": "Freundschaft",
+            "en": "Friendship",
+            "ru": "Дружба"
         },
         "description": {
-            "de": "Unterschiedliche Menschen, unterschiedliche Kulturen",
-            "en": "Different people, different cultures",
-            "ru": "Разные люди, разные культуры"
+            "de": "Unterschiedliche Menschen und Kulturen",
+            "en": "Different people and cultures",
+            "ru": "Разные люди и культуры"
         },
         "level": "B1",
         "image": "Friendship.jpg",
