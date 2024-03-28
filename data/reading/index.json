@@ -82,39 +82,5 @@
         "amountOfStories": 0,
         "active": false,
         "hasVideo": true
-    }, {
-        "name": {
-            "de": "Frankfurt",
-            "en": "Frankfurt",
-            "ru": "Франкфурт"
-        },
-        "folder": "frankfurt",
-        "description": {
-            "de": "Bankenstadt",
-            "en": "Bank city",
-            "ru": "Банковский город"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/frankfurt.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loadingGermanFlag.mp4",
-        "amountOfStories": 0,
-        "active": false,
-        "hasVideo": true
-    }, {
-        "name": {
-            "de": "Dortmund",
-            "en": "Dortmund",
-            "ru": "Дортмунд"
-        },
-        "folder": "dortmund",
-        "description": {
-            "de": "Westfalenstadion",
-            "en": "Signal Iduna Park",
-            "ru": "Сигна́л Иду́на Парк"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
-        "amountOfStories": 0,
-        "active": false,
-        "hasVideo": true
     }
 ]

@@ -15,7 +15,7 @@
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
-        "hasVideo": true
+        "hasVideo":true
     }, {
         "name": {
             "de": "Bonn",
@@ -32,7 +32,7 @@
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loadingGermanFlag.mp4",
         "amountOfStories": 15,
         "active": true,
-        "hasVideo": false
+        "hasVideo":false
     }, {
         "name": {
             "de": "Düsseldorf",
@@ -49,7 +49,7 @@
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loadingMap.mp4",
         "amountOfStories": 5,
         "active": true,
-        "hasVideo": false
+        "hasVideo":false
     }, {
         "name": {
             "de": "Koblenz",
@@ -66,7 +66,7 @@
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
         "amountOfStories": 6,
         "active": true,
-        "hasVideo": false
+        "hasVideo":false
     }, {
         "name": {
             "de": "Berlin",
@@ -83,6 +83,40 @@
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
         "amountOfStories": 0,
         "active": false,
-        "hasVideo": true
+        "hasVideo":true
+    }, {
+        "name": {
+            "de": "Frankfurt",
+            "en": "Frankfurt",
+            "ru": "Франкфурт"
+        },
+        "folder": "frankfurt",
+        "description": {
+            "de": "Bankenstadt",
+            "en": "Bank city",
+            "ru": "Банковский город"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/frankfurt.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
+        "amountOfStories": 0,
+        "active": false,
+        "hasVideo":true
+    }, {
+        "name": {
+            "de": "Dortmund",
+            "en": "Dortmund",
+            "ru": "Дортмунд"
+        },
+        "folder": "dortmund",
+        "description": {
+            "de": "Westfalenstadion",
+            "en": "Signal Iduna Park",
+            "ru": "Сигна́л Иду́на Парк"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dortmund.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loading.mp4",
+        "amountOfStories": 0,
+        "active": false,
+        "hasVideo":true
     }
 ]
