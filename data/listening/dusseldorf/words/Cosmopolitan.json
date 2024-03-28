@@ -1,0 +1,129 @@
+[
+     {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "a natural flowing watercourse",
+        "descriptionRU": "естественный течущий водоток",
+        "descriptionDE": "ein natürlicher fließender Wasserlauf"
+    }, {
+        "de": "das Zentrum",
+        "en": "center",
+        "ru": "центр",
+        "descriptionEN": "the middle point or part",
+        "descriptionRU": "средняя точка или часть",
+        "descriptionDE": "der Mittelpunkt oder Teil"
+    }, {
+        "de": "die Mode",
+        "en": "fashion",
+        "ru": "мода",
+        "descriptionEN": "a popular trend in clothing, behavior, etc.",
+        "descriptionRU": "популярный тренд в одежде, поведении и т. д.",
+        "descriptionDE": "ein beliebter Trend in Kleidung, Verhalten usw."
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "the expression or application of human creative skill and imagination",
+        "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения",
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlichen schöpferischen Könnens und Vorstellungskraft"
+    }, {
+        "de": "der Teil",
+        "en": "part",
+        "ru": "часть",
+        "descriptionEN": "a component of a whole",
+        "descriptionRU": "компонент целого",
+        "descriptionDE": "eine Komponente eines Ganzen"
+    }, {
+        "de": "der Stadtteil",
+        "en": "district",
+        "ru": "район",
+        "descriptionEN": "an area of a town or city",
+        "descriptionRU": "район города",
+        "descriptionDE": "ein Bereich einer Stadt"
+    }, {
+        "de": "der Einwohner",
+        "en": "inhabitant",
+        "ru": "житель",
+        "descriptionEN": "a person who lives in a particular place",
+        "descriptionRU": "человек, живущий в определенном месте",
+        "descriptionDE": "eine Person, die an einem bestimmten Ort lebt"
+    }, {
+        "de": "die Gemeinde",
+        "en": "community",
+        "ru": "община",
+        "descriptionEN": "a group of people living in the same place or having a particular characteristic in common",
+        "descriptionRU": "группа людей, живущих в одном месте или имеющих общую характеристику",
+        "descriptionDE": "eine Gruppe von Menschen, die an einem bestimmten Ort leben oder eine bestimmte Eigenschaft gemeinsam haben"
+    }, {
+        "de": "der Garten",
+        "en": "garden",
+        "ru": "сад",
+        "descriptionEN": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables",
+        "descriptionRU": "участок земли, часто рядом с домом, используемый для выращивания цветов, фруктов или овощей",
+        "descriptionDE": "ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird"
+    }, {
+        "de": "der Sieg",
+        "en": "victory",
+        "ru": "победа",
+        "descriptionEN": "the overcoming of an enemy or antagonist",
+        "descriptionRU": "преодоление врага или антагониста",
+        "descriptionDE": "das Überwinden eines Feindes oder Antagonisten"
+    }, {
+        "de": "das Rad",
+        "en": "wheel",
+        "ru": "колесо",
+        "descriptionEN": "a circular object that revolves on an axle and is fixed below a vehicle or other object to enable it to move easily over the ground",
+        "descriptionRU": "круглый предмет, который вращается на оси и закреплен под транспортным средством или другим объектом, чтобы облегчить его перемещение по земле",
+        "descriptionDE": "ein kreisförmiges Objekt, das sich auf einer Achse dreht und unter einem Fahrzeug oder einem anderen Objekt befestigt ist, um es leicht über den Boden zu bewegen"
+    }, {
+        "de": "feiern",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "to acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity",
+        "descriptionRU": "признать (важный или счастливый день или событие) с помощью общественного собрания или приятной деятельности",
+        "descriptionDE": "einen (bedeutenden oder glücklichen) Tag oder ein Ereignis mit einem geselligen Treffen oder einer angenehmen Aktivität anerkennen"
+    }, {
+        "de": "bekannt",
+        "en": "known",
+        "ru": "известный",
+        "descriptionEN": "recognized or familiar because of previous experience or acquaintance",
+        "descriptionRU": "узнаваемый или знакомый благодаря предыдущему опыту или знакомству",
+        "descriptionDE": "aufgrund früherer Erfahrung oder Bekanntschaft erkannt oder vertraut"
+    }, {
+        "de": "teuer",
+        "en": "expensive",
+        "ru": "дорогой",
+        "descriptionEN": "costing a lot of money; having a high price",
+        "descriptionRU": "стоящий много денег; имеющий высокую цену",
+        "descriptionDE": "viel Geld kostend; einen hohen Preis haben"
+    }, {
+        "de": "kosmopolitisch",
+        "en": "cosmopolitan",
+        "ru": "космополитичный",
+        "descriptionEN": "including or containing people from many different countries",
+        "descriptionRU": "включает или содержит людей из многих разных стран",
+        "descriptionDE": "beinhaltet oder enthält Menschen aus vielen verschiedenen Ländern"
+    }, {
+        "de": "populär",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
+        "descriptionRU": "нравится, восхищается или пользуется популярностью у многих людей или определенного человека или группы",
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+    }, {
+        "de": "originell",
+        "en": "original",
+        "ru": "оригинальный",
+        "descriptionEN": "present or existing from the beginning; first or earliest",
+        "descriptionRU": "присутствует или существует с самого начала; первый или самый ранний",
+        "descriptionDE": "von Anfang an vorhanden oder existierend; erster oder frühester"
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
+        "descriptionRU": "нравится, восхищается или пользуется популярностью у многих людей или определенного человека или группы",
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+    }
+]

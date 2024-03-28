@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Stadt, um die es geht, liegt in Deutschland.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Stadt ist ein wichtiges Zentrum für Mode und Kunst.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der alte Teil der Stadt liegt am Westufer des Flusses.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Stadt hat mehr als 500.000 Einwohner.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Stadt wurde nie als 'Klein-Paris' bezeichnet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Stadt hat die größte chinesische Gemeinde in Europa.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Stadt hat den größten japanischen Garten in Europa.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Wagenrad ist eines der neuesten Wahrzeichen der Stadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Düsseldorfer begannen das Wagenrad nach dem Verlust in der Schlacht von Worringen zu drehen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Geschichten über die Ursprünge der Tradition mit dem Wagenrad sind vielfältig.",
+        "tr": true,
+        "fle": false
+    }
+]
