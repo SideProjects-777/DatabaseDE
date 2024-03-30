@@ -111,5 +111,21 @@
         "file": "JapanDay.txt",
         "words": "JapanDay.json",
         "multi": "JapanDay.json"
+    }, {
+        "name":  {
+            "en": "City Charms",
+            "de": "Stadtzauber",
+            "ru": "Прелесть городов"
+        },
+        "description": {
+            "en": "A journalist's adventure",
+            "de": "Das Abenteuer eines Journalisten",
+            "ru": "Приключения журналиста"
+        },
+        "level": "B2",
+        "image": "Stadtzauber.jpg",
+        "file": "Stadtzauber.txt",
+        "words": "Stadtzauber.json",
+        "multi": "Stadtzauber.json"
     }
 ]

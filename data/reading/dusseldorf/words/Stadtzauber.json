@@ -1,0 +1,206 @@
+[
+    {
+        "de": "die Kathedrale",
+        "en": "cathedral",
+        "ru": "собор",
+        "descriptionEN": "the principal church of a diocese, with which the bishop is officially associated",
+        "descriptionRU": "главный храм епархии, с которой официально связан епископ",
+        "descriptionDE": "die Hauptkirche eines Bistums, mit der der Bischof offiziell verbunden ist"
+    }, {
+        "de": "das Bier",
+        "en": "beer",
+        "ru": "пиво",
+        "descriptionEN": "an alcoholic drink made from yeast-fermented malt flavored with hops",
+        "descriptionRU": "алкогольный напиток, изготовленный из дрожжевого брожения солодов, приправленный хмелем",
+        "descriptionDE": "ein alkoholisches Getränk aus Hefe-fermentiertem Malz, aromatisiert mit Hopfen"
+    }, {
+        "de": "der Markt",
+        "en": "market",
+        "ru": "рынок",
+        "descriptionEN": "a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities",
+        "descriptionRU": "регулярное собрание людей для покупки и продажи продовольствия, скота и других товаров",
+        "descriptionDE": "eine regelmäßige Versammlung von Menschen zum Kauf und Verkauf von Lebensmitteln, Vieh und anderen Waren"
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "the expression or application of human creative skill and imagination",
+        "descriptionRU": "выражение или применение человеческого творческого умения и воображения",
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft"
+    }, {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person with whom one has a bond of mutual affection",
+        "descriptionRU": "человек, с которым у вас есть связь взаимной привязанности",
+        "descriptionDE": "eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat"
+    }, {
+        "de": "das Erlebnis",
+        "en": "experience",
+        "ru": "опыт",
+        "descriptionEN": "practical contact with and observation of facts or events",
+        "descriptionRU": "практический контакт и наблюдение за фактами или событиями",
+        "descriptionDE": "praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen"
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or work of art",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства",
+        "descriptionDE": "der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines Kunstwerks"
+    }, {
+        "de": "die Kultur",
+        "en": "culture",
+        "ru": "культура",
+        "descriptionEN": "the arts and other manifestations of human intellectual achievement regarded collectively",
+        "descriptionRU": "искусство и другие проявления интеллектуальных достижений человека, рассматриваемые коллективно",
+        "descriptionDE": "die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden"
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "the state of being diverse; variety",
+        "descriptionRU": "состояние разнообразия; разнообразие",
+        "descriptionDE": "der Zustand der Vielfalt; Vielfalt"
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах",
+        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten"
+    }, {
+        "de": "die Qualität",
+        "en": "quality",
+        "ru": "качество",
+        "descriptionEN": "the standard of something as measured against other things of a similar kind; the degree of excellence of something",
+        "descriptionRU": "стандарт чего-либо, измеренный по сравнению с другими вещами подобного рода; степень превосходства чего-либо",
+        "descriptionDE": "der Standard von etwas, gemessen an anderen Dingen ähnlicher Art; der Grad der Exzellenz von etwas"
+    }, {
+        "de": "schnell",
+        "en": "fast",
+        "ru": "быстрый",
+        "descriptionEN": "moving or capable of moving at high speed",
+        "descriptionRU": "движущийся или способный двигаться с высокой скоростью",
+        "descriptionDE": "sich schnell bewegend oder in der Lage, sich mit hoher Geschwindigkeit zu bewegen"
+    }, {
+        "de": "modern",
+        "en": "modern",
+        "ru": "современный",
+        "descriptionEN": "relating to the present or recent times as opposed to the remote past",
+        "descriptionRU": "относящийся к настоящему или недавнему времени в отличие от далёкого прошлого",
+        "descriptionDE": "bezogen auf die Gegenwart oder die jüngste Zeit im Gegensatz zur fernen Vergangenheit"
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "existing in or as part of a tradition; long-established",
+        "descriptionRU": "существующий в или как часть традиции; давно установленный",
+        "descriptionDE": "existierend in oder als Teil einer Tradition; lange etabliert"
+    }, {
+        "de": "vibrant",
+        "en": "vibrant",
+        "ru": "живой",
+        "descriptionEN": "full of energy and enthusiasm",
+        "descriptionRU": "полный энергии и энтузиазма",
+        "descriptionDE": "voller Energie und Begeisterung"
+    }, {
+        "de": "herzlich",
+        "en": "friendly",
+        "ru": "дружелюбный",
+        "descriptionEN": "kind and pleasant",
+        "descriptionRU": "добрый и приятный",
+        "descriptionDE": "freundlich und angenehm"
+    }, {
+        "de": "lebhaft",
+        "en": "lively",
+        "ru": "живой",
+        "descriptionEN": "full of life and energy; active and outgoing",
+        "descriptionRU": "полный жизни и энергии; активный и общительный",
+        "descriptionDE": "voller Leben und Energie; aktiv und kontaktfreudig"
+    }, {
+        "de": "fantastisch",
+        "en": "fantastic",
+        "ru": "фантастический",
+        "descriptionEN": "extraordinarily good or attractive",
+        "descriptionRU": "чрезвычайно хороший или привлекательный",
+        "descriptionDE": "außerordentlich gut oder attraktiv"
+    }, {
+        "de": "ausgezeichnet",
+        "en": "excellent",
+        "ru": "отличный",
+        "descriptionEN": "extremely good; outstanding",
+        "descriptionRU": "чрезвычайно хороший; выдающийся",
+        "descriptionDE": "äußerst gut; hervorragend"
+    }, {
+        "de": "perfekt",
+        "en": "perfect",
+        "ru": "идеальный",
+        "descriptionEN": "having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be",
+        "descriptionRU": "имеющий все необходимые или желательные элементы, качества или характеристики; насколько это возможно хорошо",
+        "descriptionDE": "alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Eigenschaften aufweisend; so gut wie möglich"
+    }, {
+        "de": "ausgeglichen",
+        "en": "balanced",
+        "ru": "сбалансированный",
+        "descriptionEN": "arranged in good proportions",
+        "descriptionRU": "расположенный в хороших пропорциях",
+        "descriptionDE": "in guten Proportionen angeordnet"
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind; unlike anything else",
+        "descriptionRU": "будучи единственным в своем роде; ни на что не похожий",
+        "descriptionDE": "als einzige Art seiner Art; anders als alles andere"
+    }, {
+        "de": "hervorragend",
+        "en": "outstanding",
+        "ru": "выдающийся",
+        "descriptionEN": "exceptionally good",
+        "descriptionRU": "исключительно хороший",
+        "descriptionDE": "außergewöhnlich gut"
+    }, {
+        "de": "beeindruckend",
+        "en": "impressive",
+        "ru": "впечатляющий",
+        "descriptionEN": "evoking admiration through size, quality, or skill; grand, imposing, or awesome",
+        "descriptionRU": "вызывающий восхищение своим размером, качеством или мастерством; величественный, внушительный или впечатляющий",
+        "descriptionDE": "bewirkt Bewunderung durch Größe, Qualität oder Geschicklichkeit; großartig, imposant oder beeindruckend"
+    }, {
+        "de": "wunderbar",
+        "en": "wonderful",
+        "ru": "замечательный",
+        "descriptionEN": "inspiring delight, pleasure, or admiration; extremely good; marvelous",
+        "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; чрезвычайно хороший; чудесный",
+        "descriptionDE": "inspiriert Freude, Vergnügen oder Bewunderung; äußerst gut; wunderbar"
+    }, {
+        "de": "erstaunlich",
+        "en": "amazing",
+        "ru": "удивительный",
+        "descriptionEN": "causing great surprise or wonder; astonishing",
+        "descriptionRU": "вызывающий большое удивление или восторг; поразительный",
+        "descriptionDE": "verursacht große Überraschung oder Staunen; erstaunlich"
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "impossible to forget; very memorable",
+        "descriptionRU": "невозможно забыть; очень запоминающийся",
+        "descriptionDE": "unmöglich zu vergessen; sehr denkwürdig"
+    }, {
+        "de": "spannend",
+        "en": "exciting",
+        "ru": "захватывающий",
+        "descriptionEN": "causing great enthusiasm and eagerness; thrilling",
+        "descriptionRU": "вызывающий большой энтузиазм и оживление; захватывающий",
+        "descriptionDE": "verursacht große Begeisterung und Eifer; aufregend"
+    }, {
+        "de": "entspannend",
+        "en": "relaxing",
+        "ru": "расслабляющий",
+        "descriptionEN": "reducing tension or anxiety",
+        "descriptionRU": "снижение напряженности или тревоги",
+        "descriptionDE": "Reduzierung von Spannung oder Angst"
+    }
+]
