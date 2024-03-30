@@ -64,6 +64,22 @@
         "words": "Altstadt.json",
         "multi": "Altstadt.json"
     }, {
+        "name":{
+            "en": "Kö Elegance",
+            "de": "Kö Eleganz",
+            "ru": "Элегантность Кё"
+        },
+        "description":{
+            "en": "Historic charm",
+            "de": "Historischer Charme",
+            "ru": "Исторический шарм"
+        },
+        "level": "B1",
+        "image": "Elegance.jpg",
+        "file": "Elegance.txt",
+        "words": "Elegance.json",
+        "multi": "Elegance.json"
+    }, {
         "name": {
             "en": "Rhein Tower",
             "de": "Rheinturm",

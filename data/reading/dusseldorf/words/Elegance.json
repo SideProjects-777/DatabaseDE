@@ -1,0 +1,192 @@
+[
+    {
+        "de": "die Sonne",
+        "en": "sun",
+        "ru": "солнце",
+        "descriptionEN": "the star around which the Earth orbits",
+        "descriptionRU": "звезда, вокруг которой вращается Земля",
+        "descriptionDE": "der Stern, um den die Erde kreist"
+    }, {
+        "de": "der Tag",
+        "en": "day",
+        "ru": "день",
+        "descriptionEN": "the time between sunrise and sunset",
+        "descriptionRU": "период между восходом и закатом",
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang"
+    }, {
+        "de": "die Straße",
+        "en": "street",
+        "ru": "улица",
+        "descriptionEN": "a public road in a city or town",
+        "descriptionRU": "общественная дорога в городе или поселке",
+        "descriptionDE": "eine öffentliche Straße in einer Stadt oder einem Dorf"
+    }, {
+        "de": "der Tourist",
+        "en": "tourist",
+        "ru": "турист",
+        "descriptionEN": "a person who is traveling or visiting a place for pleasure",
+        "descriptionRU": "человек, который путешествует или посещает место для удовольствия",
+        "descriptionDE": "eine Person, die reist oder einen Ort zum Vergnügen besucht"
+    }, {
+        "de": "der Einheimische",
+        "en": "local",
+        "ru": "местный",
+        "descriptionEN": "a person who lives in a particular place or area",
+        "descriptionRU": "человек, проживающий в определенном месте или районе",
+        "descriptionDE": "eine Person, die an einem bestimmten Ort oder in einer bestimmten Gegend lebt"
+    }, {
+        "de": "der Boulevard",
+        "en": "boulevard",
+        "ru": "бульвар",
+        "descriptionEN": "a wide street in a city, typically having trees at regular intervals along its sides",
+        "descriptionRU": "широкая улица в городе, обычно с деревьями через определенные интервалы вдоль обеих сторон",
+        "descriptionDE": "eine breite Straße in einer Stadt, die typischerweise in regelmäßigen Abständen Bäume entlang ihrer Seiten hat"
+    }, {
+        "de": "der Laden",
+        "en": "shop",
+        "ru": "магазин",
+        "descriptionEN": "a building or part of a building where goods or services are sold",
+        "descriptionRU": "здание или часть здания, где продают товары или услуги",
+        "descriptionDE": "ein Gebäude oder ein Teil eines Gebäudes, in dem Waren oder Dienstleistungen verkauft werden"
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or work of art",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства",
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks"
+    }, {
+        "de": "der Luxus",
+        "en": "luxury",
+        "ru": "роскошь",
+        "descriptionEN": "the state of great comfort and extravagant living",
+        "descriptionRU": "состояние большого комфорта и роскошной жизни",
+        "descriptionDE": "der Zustand großer Bequemlichkeit und extravaganten Lebens"
+    }, {
+        "de": "das Ereignis",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "a thing that happens, especially one of importance",
+        "descriptionRU": "то, что происходит, особенно важное",
+        "descriptionDE": "eine Sache, die passiert, besonders eine von Bedeutung"
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий",
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden"
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах",
+        "descriptionDE": "das Studium vergangener Ereignisse, insbesondere menschlicher Angelegenheiten"
+    }, {
+        "de": "der Zauber",
+        "en": "charm",
+        "ru": "очарование",
+        "descriptionEN": "the quality or power of giving delight or arousing admiration",
+        "descriptionRU": "качество или сила, придающая восторг или вызывающая восхищение",
+        "descriptionDE": "die Qualität oder Kraft, Freude zu bereiten oder Bewunderung zu erregen"
+    }, {
+        "de": "der Reichtum",
+        "en": "wealth",
+        "ru": "богатство",
+        "descriptionEN": "an abundance of valuable possessions or money",
+        "descriptionRU": "изобилие ценных вещей или денег",
+        "descriptionDE": "eine Fülle von wertvollen Besitztümern oder Geld"
+    }, {
+        "de": "der Glanz",
+        "en": "splendor",
+        "ru": "великолепие",
+        "descriptionEN": "magnificent and splendid appearance",
+        "descriptionRU": "великолепный и блестящий внешний вид",
+        "descriptionDE": "prächtiges und herrliches Aussehen"
+    }, {
+        "de": "der Charme",
+        "en": "charm",
+        "ru": "очарование",
+        "descriptionEN": "the power of attractiveness or fascination",
+        "descriptionRU": "сила привлекательности или очарования",
+        "descriptionDE": "die Kraft der Anziehungskraft oder Faszination"
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically",
+        "descriptionRU": "удовлетворение чувств или ума эстетически",
+        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend"
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
+        "descriptionRU": "понравившийся, восхищенный или наслаждаемый многими людьми или определенным лицом или группой",
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "having a great deal of money or assets; wealthy",
+        "descriptionRU": "имеющий много денег или активов; богатый",
+        "descriptionDE": "viel Geld oder Vermögenswerte besitzen; wohlhabend"
+    }, {
+        "de": "elegant",
+        "en": "elegant",
+        "ru": "изящный",
+        "descriptionEN": "pleasingly graceful and stylish in appearance or manner",
+        "descriptionRU": "приятно изящный и стильный во внешности или манере",
+        "descriptionDE": "angenehm anmutig und stilvoll im Aussehen oder Verhalten"
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "known about by many people",
+        "descriptionRU": "известно многим людям",
+        "descriptionDE": "von vielen Menschen bekannt"
+    }, {
+        "de": "magisch",
+        "en": "magical",
+        "ru": "волшебный",
+        "descriptionEN": "producing extraordinary effects as if by magic",
+        "descriptionRU": "производящий необычные эффекты, как по волшебству",
+        "descriptionDE": "außergewöhnliche Effekte erzeugen, als ob durch Magie"
+    }, {
+        "de": "sophistiziert",
+        "en": "sophisticated",
+        "ru": "сложный",
+        "descriptionEN": "having a great deal of worldly experience and knowledge of fashion and culture",
+        "descriptionRU": "имеющий большой опыт мира и знания в области моды и культуры",
+        "descriptionDE": "viel weltliche Erfahrung und Wissen über Mode und Kultur haben"
+    }, {
+        "de": "malerisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or pretty style",
+        "descriptionRU": "визуально привлекательный, особенно в старомодном или милом стиле",
+        "descriptionDE": "visuell attraktiv, besonders in einem malerischen oder hübschen Stil"
+    }, {
+        "de": "großartig",
+        "en": "grand",
+        "ru": "великолепный",
+        "descriptionEN": "impressive and imposing in appearance or style, especially pretentiously so",
+        "descriptionRU": "впечатляющий и внушительный по внешнему виду или стилю, особенно претенциозно",
+        "descriptionDE": "beeindruckend und imposant im Aussehen oder Stil, besonders prätentiös"
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "existing in or as part of a tradition; long-established",
+        "descriptionRU": "существующий в рамках традиции; долговечный",
+        "descriptionDE": "existierend in oder als Teil einer Tradition; lang etabliert"
+    }, {
+        "de": "magisch",
+        "en": "magical",
+        "ru": "волшебный",
+        "descriptionEN": "producing extraordinary effects as if by magic",
+        "descriptionRU": "производящий необычные эффекты, как по волшебству",
+        "descriptionDE": "außergewöhnliche Effekte erzeugen, als ob durch Magie"
+    }
+]
