@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Düsseldorf ist die Hauptstadt von Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Rhein fließt durch Düsseldorf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Autor wuchs in Düsseldorf auf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Stipendium, das der Autor erhielt, war für die Universität Köln.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Düsseldorf hat eine Geschichte des Widerstands und der Wiederaufbau nach Kriegen und Bombenangriffen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Düsseldorfer Altstadt hat breite, modern gepflasterte Straßen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Köln hat eine pulsierende Energie, die größer ist als die von Düsseldorf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Düsseldorfer sind oft unfreundlich und verschlossen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Kölner Hafen wurde zu einem modernen Geschäfts- und Wohngebiet umgewandelt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Autor hat sich am Ende dafür entschieden, in Köln zu bleiben.",
+        "tr": false,
+        "fle": true
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "de": "die Gastronomie",
+        "en": "gastronomy",
+        "ru": "гастрономия",
+        "descriptionEN": "the practice or art of choosing, cooking, and eating good food",
+        "descriptionRU": "практика или искусство выбора, приготовления и употребления хорошей еды",
+        "descriptionDE": "die Praxis oder Kunst, gutes Essen auszuwählen, zuzubereiten und zu essen"
+    }, {
+        "de": "das Kölsch",
+        "en": "Kölsch beer",
+        "ru": "пиво Кёльш",
+        "descriptionEN": "a style of beer originating in Cologne (Köln), Germany",
+        "descriptionRU": "стиль пива, происходящий из Кёльна (Кёльн), Германия",
+        "descriptionDE": "ein Bierstil, der in Köln, Deutschland, seinen Ursprung hat"
+    }, {
+        "de": "die Küche",
+        "en": "cuisine",
+        "ru": "кухня",
+        "descriptionEN": "a style or method of cooking, especially as characteristic of a particular country, region, or establishment",
+        "descriptionRU": "стиль или метод приготовления пищи, особенно характерный для определенной страны, региона или заведения",
+        "descriptionDE": "ein Stil oder eine Methode des Kochens, insbesondere charakteristisch für ein bestimmtes Land, eine Region oder eine Einrichtung"
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "the state of being diverse; variety",
+        "descriptionRU": "состояние разнообразия; разнообразие",
+        "descriptionDE": "der Zustand der Vielfalt; Vielfalt"
+    }, {
+        "de": "die Schönheit",
+        "en": "beauty",
+        "ru": "красота",
+        "descriptionEN": "the quality or aggregate of qualities in a person or thing that gives pleasure to the senses or pleasurably exalts the mind or spirit",
+        "descriptionRU": "качество или совокупность качеств в человеке или вещи, приносящих удовольствие чувствам или приятно возвышающих ум или дух",
+        "descriptionDE": "die Qualität oder Gesamtheit von Qualitäten einer Person oder Sache, die den Sinnen Freude bereitet oder den Geist oder die Seele angenehm erhebt"
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах",
+        "descriptionDE": "das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten"
+    }, {
+        "de": "die Architektur",
+        "en": "architecture",
+        "ru": "архитектура",
+        "descriptionEN": "the art or practice of designing and constructing buildings",
+        "descriptionRU": "искусство или практика проектирования и строительства зданий",
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden"
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or work of art",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства",
+        "descriptionDE": "der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines Kunstwerks"
+    }, {
+        "de": "die Station",
+        "en": "station",
+        "ru": "станция",
+        "descriptionEN": "a regular stopping place on a public transportation route, especially one with a platform and shelter for passengers",
+        "descriptionRU": "регулярное место остановки на маршруте общественного транспорта, особенно с платформой и укрытием для пассажиров",
+        "descriptionDE": "ein regelmäßiger Haltepunkt auf einer öffentlichen Verkehrsroute, insbesondere mit einem Bahnsteig und einem Unterstand für Fahrgäste"
+    }, {
+        "de": "der Vergleich",
+        "en": "comparison",
+        "ru": "сравнение",
+        "descriptionEN": "the act or instance of comparing",
+        "descriptionRU": "действие или пример сравнения",
+        "descriptionDE": "die Handlung oder Instanz des Vergleichens"
+    }, {
+        "de": "die Entwicklung",
+        "en": "development",
+        "ru": "развитие",
+        "descriptionEN": "the process of growth, progress, or maturation",
+        "descriptionRU": "процесс роста, прогресса или созревания",
+        "descriptionDE": "der Prozess des Wachstums, Fortschritts oder der Reifung"
+    }, {
+        "de": "der Aufbau",
+        "en": "reconstruction",
+        "ru": "реконструкция",
+        "descriptionEN": "the action or process of reconstructing or being reconstructed",
+        "descriptionRU": "действие или процесс реконструкции или быть реконструированным",
+        "descriptionDE": "die Handlung oder der Prozess des Wiederaufbaus oder des Wiederaufbaus"
+    }, {
+        "de": "die Einladung",
+        "en": "invitation",
+        "ru": "приглашение",
+        "descriptionEN": "a written or verbal request inviting someone to go somewhere or to do something",
+        "descriptionRU": "письменный или устный запрос, приглашающий кого-то куда-то или к чему-то",
+        "descriptionDE": "eine schriftliche oder mündliche Aufforderung, jemanden an einen Ort zu gehen oder etwas zu tun"
+    }, {
+        "de": "der Vergleich",
+        "en": "comparison",
+        "ru": "сравнение",
+        "descriptionEN": "the act or instance of comparing",
+        "descriptionRU": "действие или пример сравнения",
+        "descriptionDE": "die Handlung oder Instanz des Vergleichens"
+    }, {
+        "de": "die Nahrung",
+        "en": "food",
+        "ru": "пища",
+        "descriptionEN": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth",
+        "descriptionRU": "любое питательное вещество, которое люди или животные едят или пьют, или которое растения поглощают для поддержания жизни и роста",
+        "descriptionDE": "irgendeine nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum zu erhalten"
+    }, {
+        "de": "die Überraschung",
+        "en": "surprise",
+        "ru": "сюрприз",
+        "descriptionEN": "an unexpected or astonishing event, fact, or thing",
+        "descriptionRU": "неожиданное или поразительное событие, факт или вещь",
+        "descriptionDE": "ein unerwartetes oder erstaunliches Ereignis, eine Tatsache oder eine Sache"
+    }, {
+        "de": "der Vergleich",
+        "en": "comparison",
+        "ru": "сравнение",
+        "descriptionEN": "the act or instance of comparing",
+        "descriptionRU": "действие или пример сравнения",
+        "descriptionDE": "die Handlung oder Instanz des Vergleichens"
+    }, {
+        "de": "die Entscheidung",
+        "en": "decision",
+        "ru": "решение",
+        "descriptionEN": "a conclusion or resolution reached after consideration",
+        "descriptionRU": "заключение или решение, принятое после обдумывания",
+        "descriptionDE": "eine Schlussfolgerung oder Lösung, die nach Überlegungen erreicht wurde"
+    }, {
+        "de": "die Dankbarkeit",
+        "en": "gratitude",
+        "ru": "благодарность",
+        "descriptionEN": "the quality of being thankful; readiness to show appreciation for and to return kindness",
+        "descriptionRU": "качество благодарности; готовность выражать признательность и отдавать добро",
+        "descriptionDE": "die Qualität, dankbar zu sein; Bereitschaft, Wertschätzung zu zeigen und Freundlichkeit zu erwidern"
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it",
+        "descriptionRU": "путешествовать по (незнакомой территории) с целью узнать о ней",
+        "descriptionDE": "durch (eine unbekannte Gegend) reisen, um sie kennenzulernen"
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "to engage in activity for enjoyment and recreation rather than a serious or practical purpose",
+        "descriptionRU": "заниматься деятельностью для удовольствия и отдыха, а не для серьезной или практической цели",
+        "descriptionDE": "eine Tätigkeit zum Vergnügen und zur Erholung ausüben, anstatt einem ernsten oder praktischen Zweck zu dienen"
+    }, {
+        "de": "bewundern",
+        "en": "to admire",
+        "ru": "восхищаться",
+        "descriptionEN": "to regard with wonder, pleasure, or approval",
+        "descriptionRU": "рассматривать с удивлением, удовольствием или одобрением",
+        "descriptionDE": "mit Bewunderung, Freude oder Zustimmung betrachten"
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure or satisfaction in",
+        "descriptionRU": "получать удовольствие или удовлетворение от",
+        "descriptionDE": "Vergnügen oder Zufriedenheit daran haben"
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "открывать",
+        "descriptionEN": "to find (something or someone) unexpectedly or in the course of a search",
+        "descriptionRU": "найти (что-то или кого-то) неожиданно или в ходе поиска",
+        "descriptionDE": "etwas (oder jemanden) unerwartet oder im Verlauf einer Suche finden"
+    }, {
+        "de": "verlieben",
+        "en": "to fall in love",
+        "ru": "влюбиться",
+        "descriptionEN": "to experience a sudden, intense, and typically fleeting emotion of affection for (someone)",
+        "descriptionRU": "испытать внезапное, интенсивное и обычно мимолетное чувство привязанности к (кому-то)",
+        "descriptionDE": "ein plötzliches, intensives und typischerweise flüchtiges Gefühl der Zuneigung zu jemandem erleben"
+    }
+]
