@@ -1,0 +1,115 @@
+[
+    {
+        "de": "der Student",
+        "en": "Student",
+        "ru": "Студент",
+        "descriptionEN": "A person who is studying at a university",
+        "descriptionRU": "Человек, который учится в университете",
+        "descriptionDE": "Eine Person, die an einer Universität studiert"
+    }, {
+        "de": "die Forschung",
+        "en": "Research",
+        "ru": "Исследование",
+        "descriptionEN": "Systematic investigation to establish facts or principles",
+        "descriptionRU": "Систематическое исследование для установления фактов или принципов",
+        "descriptionDE": "Systematische Untersuchung zur Feststellung von Fakten oder Prinzipien"
+    }, {
+        "de": "das Programm",
+        "en": "Program",
+        "ru": "Программа",
+        "descriptionEN": "A planned series of future events or performances",
+        "descriptionRU": "Плановая серия будущих событий или выступлений",
+        "descriptionDE": "Eine geplante Serie zukünftiger Ereignisse oder Vorstellungen"
+    }, {
+        "de": "der Dozent",
+        "en": "Lecturer",
+        "ru": "Лектор",
+        "descriptionEN": "A person who teaches at a university",
+        "descriptionRU": "Человек, который преподает в университете",
+        "descriptionDE": "Eine Person, die an einer Universität lehrt"
+    }, {
+        "de": "die Kooperation",
+        "en": "Cooperation",
+        "ru": "Сотрудничество",
+        "descriptionEN": "The process of working together to the same end",
+        "descriptionRU": "Процесс совместной работы к одной цели",
+        "descriptionDE": "Der Prozess des Zusammenarbeitens zum gleichen Ziel"
+    }, {
+        "de": "die Veranstaltung",
+        "en": "Event",
+        "ru": "Мероприятие",
+        "descriptionEN": "A planned public or social occasion",
+        "descriptionRU": "Запланированное общественное или социальное мероприятие",
+        "descriptionDE": "Eine geplante öffentliche oder gesellschaftliche Veranstaltung"
+    }, {
+        "de": "die Vielfalt",
+        "en": "Diversity",
+        "ru": "Разнообразие",
+        "descriptionEN": "The state of being diverse",
+        "descriptionRU": "Состояние разнообразия",
+        "descriptionDE": "Der Zustand der Vielfalt"
+    }, {
+        "de": "das Engagement",
+        "en": "Commitment",
+        "ru": "Обязательство",
+        "descriptionEN": "The state or quality of being dedicated to a cause",
+        "descriptionRU": "Состояние или качество приверженности делу",
+        "descriptionDE": "Der Zustand oder die Qualität, einem Anliegen gewidmet zu sein"
+    }, {
+        "de": "die Nachhaltigkeit",
+        "en": "Sustainability",
+        "ru": "Устойчивость",
+        "descriptionEN": "The ability to be maintained at a certain rate",
+        "descriptionRU": "Способность поддерживаться на определенном уровне",
+        "descriptionDE": "Die Fähigkeit, auf einem bestimmten Niveau erhalten zu bleiben"
+    }, {
+        "de": "der Fortschritt",
+        "en": "Progress",
+        "ru": "Прогресс",
+        "descriptionEN": "Forward or onward movement toward a destination",
+        "descriptionRU": "Движение вперед или вперед к месту назначения",
+        "descriptionDE": "Vorwärtsbewegung oder Vorwärtsbewegung in Richtung eines Ziels"
+    }, {
+        "de": "studieren",
+        "en": "Study",
+        "ru": "Учиться",
+        "descriptionEN": "Devote time and attention to acquiring knowledge",
+        "descriptionRU": "Уделять время и внимание приобретению знаний",
+        "descriptionDE": "Zeit und Aufmerksamkeit dem Erwerb von Wissen widmen"
+    }, {
+        "de": "forschen",
+        "en": "Research",
+        "ru": "Исследовать",
+        "descriptionEN": "Systematic investigation to establish facts or principles",
+        "descriptionRU": "Систематическое исследование для установления фактов или принципов",
+        "descriptionDE": "Systematische Untersuchung zur Feststellung von Fakten oder Prinzipien"
+    }, {
+        "de": "lehren",
+        "en": "Teach",
+        "ru": "Преподавать",
+        "descriptionEN": "Impart knowledge to or instruct (someone) as to how to do something",
+        "descriptionRU": "Передавать знания или инструктаж (кого-либо) о том, как что-то делать",
+        "descriptionDE": "Wissen vermitteln oder (jemanden) darüber unterrichten, wie man etwas tut"
+    }, {
+        "de": "lernen",
+        "en": "Learn",
+        "ru": "Учиться",
+        "descriptionEN": "Gain or acquire knowledge of or skill in (something) by study, experience, or being taught",
+        "descriptionRU": "Получать или приобретать знания или навыки в (чем-то) путем изучения, опыта или обучения",
+        "descriptionDE": "Wissen oder Fähigkeiten in (etwas) durch Studium, Erfahrung oder Unterricht erwerben oder erwerben"
+    }, {
+        "de": "begreifen",
+        "en": "Grasp",
+        "ru": "Понимать",
+        "descriptionEN": "Understand (something) intuitively or by empathy",
+        "descriptionRU": "Понимать (что-то) интуитивно или сопереживанием",
+        "descriptionDE": "Verstehen (etwas) intuitiv oder durch Einfühlungsvermögen"
+    }, {
+        "de": "denken",
+        "en": "Think",
+        "ru": "Думать",
+        "descriptionEN": "Have a particular opinion, belief, or idea about someone or something",
+        "descriptionRU": "Иметь определенное мнение, убеждение или идею о ком-то или о чем-то",
+        "descriptionDE": "Eine bestimmte Meinung, Überzeugung oder Idee über jemanden oder etwas haben"
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "name": "In welchem Jahr wurde die Heinrich-Heine-Universität Düsseldorf gegründet?",
+        "answers": [
+            {
+                "text": "1965",
+                "correct": true
+            }, {
+                "text": "1975",
+                "correct": false
+            }, {
+                "text": "1985",
+                "correct": false
+            }, {
+                "text": "1995",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Nach wem ist die Heinrich-Heine-Universität Düsseldorf benannt?",
+        "answers": [
+            {
+                "text": "Johann Wolfgang von Goethe",
+                "correct": false
+            }, {
+                "text": "Friedrich Schiller",
+                "correct": false
+            }, {
+                "text": "Heinrich Heine",
+                "correct": true
+            }, {
+                "text": "Gotthold Ephraim Lessing",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Studierende hat die Heinrich-Heine-Universität Düsseldorf?",
+        "answers": [
+            {
+                "text": "Über 5.000",
+                "correct": false
+            }, {
+                "text": "Über 10.000",
+                "correct": false
+            }, {
+                "text": "Über 20.000",
+                "correct": false
+            }, {
+                "text": "Über 30.000",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist ein Merkmal der Heinrich-Heine-Universität Düsseldorf im Bereich Forschung?",
+        "answers": [
+            {
+                "text": "Reine Theoriebasierte Forschung",
+                "correct": false
+            }, {
+                "text": "Nur nationale Forschungsprojekte",
+                "correct": false
+            }, {
+                "text": "Interdisziplinäre Forschungsprojekte",
+                "correct": true
+            }, {
+                "text": "Keine Forschungsaktivitäten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tut die Heinrich-Heine-Universität Düsseldorf, um ihren CO2-Fußabdruck zu verringern?",
+        "answers": [
+            {
+                "text": "Initiativen zur Reduzierung des CO2-Fußabdrucks",
+                "correct": true
+            }, {
+                "text": "Erhöhung des Energieverbrauchs",
+                "correct": false
+            }, {
+                "text": "Keine Maßnahmen zum Umweltschutz",
+                "correct": false
+            }, {
+                "text": "Verwendung von Einwegplastik",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Veranstaltungen finden das ganze Jahr über an der Universität statt?",
+        "answers": [
+            {
+                "text": "Nur akademische Konferenzen",
+                "correct": false
+            }, {
+                "text": "Sportveranstaltungen",
+                "correct": false
+            }, {
+                "text": "Kulturelle Veranstaltungen",
+                "correct": true
+            }, {
+                "text": "Politische Versammlungen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Ziel des internationalen Engagements der Universität?",
+        "answers": [
+            {
+                "text": "Einschränkung des kulturellen Austauschs",
+                "correct": false
+            }, {
+                "text": "Vorbereitung auf den globalen Arbeitsmarkt",
+                "correct": true
+            }, {
+                "text": "Nur Förderung nationaler Projekte",
+                "correct": false
+            }, {
+                "text": "Verstärkung von Sprachbarrieren",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was macht den Campus der Heinrich-Heine-Universität Düsseldorf besonders?",
+        "answers": [
+            {
+                "text": "Nur moderne Architektur ohne Grünflächen",
+                "correct": false
+            }, {
+                "text": "Veraltete Gebäude ohne Grünflächen",
+                "correct": false
+            }, {
+                "text": "Keine besonderen Merkmale",
+                "correct": false
+            }, {
+                "text": "Moderne Architektur und Grünflächen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was fördert die Heinrich-Heine-Universität Düsseldorf neben akademischen Leistungen noch?",
+        "answers": [
+            {
+                "text": "Wettbewerbsfähigkeit auf dem Arbeitsmarkt",
+                "correct": false
+            }, {
+                "text": "Wissenschaftliche Isolation",
+                "correct": false
+            }, {
+                "text": "Nachhaltigkeit und soziale Verantwortung",
+                "correct": true
+            }, {
+                "text": "Nur persönliche Gewinne",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wofür ist Heinrich Heine bekannt?",
+        "answers": [
+            {
+                "text": "Nur als Wissenschaftler",
+                "correct": false
+            }, {
+                "text": "Deutscher Dichter, Journalist und Literaturkritiker",
+                "correct": true
+            }, {
+                "text": "Nur als Politiker",
+                "correct": false
+            }, {
+                "text": "Nur als Maler",
+                "correct": false
+            }
+        ]
+    }
+]

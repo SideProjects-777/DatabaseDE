@@ -13,7 +13,7 @@
         "level": "A2",
         "image": "Tonhalle.jpg",
         "file": "Tonhalle.txt",
-        "words": "Tonhalle.json",
+        "multi": "Tonhalle.json",
         "yesNo": "Tonhalle.json"
     }, {
         "name": {
@@ -62,14 +62,30 @@
         "image": "Altstadt.jpg",
         "file": "Altstadt.txt",
         "words": "Altstadt.json",
-        "multi": "Altstadt.json"
+        "yesNo": "Altstadt.json"
     }, {
-        "name":{
+        "name": {
+            "en": "Heine University",
+            "de": "Heine Universität",
+            "ru": "Университет Гейне"
+        },
+        "description": {
+            "en": "Academic excellence",
+            "de": "Akademische Exzellenz",
+            "ru": "Академическое совершенство"
+        },
+        "level": "B1",
+        "image": "Heine.jpg",
+        "file": "Heine.txt",
+        "words": "Heine.json",
+        "multi": "Heine.json"
+    }, {
+        "name": {
             "en": "Kö Elegance",
             "de": "Kö Eleganz",
             "ru": "Элегантность Кё"
         },
-        "description":{
+        "description": {
             "en": "Historic charm",
             "de": "Historischer Charme",
             "ru": "Исторический шарм"
@@ -78,7 +94,7 @@
         "image": "Elegance.jpg",
         "file": "Elegance.txt",
         "words": "Elegance.json",
-        "multi": "Elegance.json"
+        "yesNo": "Elegance.json"
     }, {
         "name": {
             "en": "Rhein Tower",
@@ -94,7 +110,7 @@
         "image": "Rheinturm.jpg",
         "file": "Rheinturm.txt",
         "words": "Rheinturm.json",
-        "multi": "Rheinturm.json"
+        "yesNo": "Rheinturm.json"
     }, {
         "name": {
             "en": "Japan Day Experience",
@@ -112,7 +128,7 @@
         "words": "JapanDay.json",
         "multi": "JapanDay.json"
     }, {
-        "name":  {
+        "name": {
             "en": "City Charms",
             "de": "Stadtzauber",
             "ru": "Прелесть городов"
