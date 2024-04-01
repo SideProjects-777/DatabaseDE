@@ -1,6 +1,21 @@
 [
-
-    {
+{
+        "name": {
+            "en": "Aquazoo Adventure",
+            "de": "Aquazoo Abenteuer",
+            "ru": "Приключения в Аквазоопарке"
+        },
+        "description": {
+            "en": "Exciting school trip",
+            "de": "Spannender Schulausflug",
+            "ru": "Увлекательная школьная экскурсия"
+        },
+        "level": "A2",
+        "image": "Aquazoo.jpg",
+        "file": "Aquazoo.mp3",
+        "words": "Aquazoo.json",
+        "multi": "Aquazoo.json"
+    }, {
         "name": {
             "en": "Dreams in Dusseldorf",
             "de": "Träume in Düsseldorf",
@@ -16,6 +31,22 @@
         "file": "Schauspielerreise.mp3",
         "words": "Schauspielerreise.json",
         "multi": "Schauspielerreise.json"
+    }, {
+        "name": {
+            "en": "Love's Symphony",
+            "de": "Die Symphonie der Liebe",
+            "ru": "Симфония любви"
+        },
+        "description": {
+            "en": "Opposites attract",
+            "de": "Gegensätze ziehen",
+            "ru": "Противоположности притягиваются"
+        },
+        "level": "B1",
+        "image": "Symphony.jpg",
+        "file": "Symphony.mp3",
+        "words": "Symphony.json",
+        "multi": "Symphony.json"
     }, {
         "name": {
             "de": "Joggen an der Rheinuferpromenade",
@@ -39,9 +70,9 @@
             "ru": "Небесное приключение"
         },
         "description": {
-            "en": "Photographer's aerial journey",
-            "de": "Luftige Fotoreise",
-            "ru": "Воздушное путешествие фотографа"
+            "en": "Photographer's journey",
+            "de": "Fotoreise",
+            "ru": "Путешествие фотографа"
         },
         "level": "B1",
         "image": "Himmelsabenteuer.jpg",
@@ -64,7 +95,7 @@
         "file": "Benrath.mp3",
         "words": "Benrath.json",
         "yesNo": "Benrath.json"
-    },{
+    }, {
         "name": {
             "en": "Japan Day",
             "de": "Japan-Tag",

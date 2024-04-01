@@ -1,6 +1,38 @@
 [
     {
         "name": {
+            "en": "Vacation dilemma",
+            "de": "Urlaubsdilemma",
+            "ru": "Дилемма отпуска"
+        },
+        "description": {
+            "en": "Choosing Dusseldorf",
+            "de": "Düsseldorf wählen",
+            "ru": "Выбор Дюссельдорфа"
+        },
+        "level": "A2",
+        "image": "Urlaubsdilemma.jpg",
+        "file": "Urlaubsdilemma.txt",
+        "words": "Urlaubsdilemma.json",
+        "yesNo": "Urlaubsdilemma.json"
+    }, {
+        "name": {
+            "en": "Tonhalle Legends",
+            "de": "Tonhalle Legenden",
+            "ru": "Легенды Тонхалле"
+        },
+        "description": {
+            "en": "Iconic musicians",
+            "de": "Ikone Musiker",
+            "ru": "Иконические музыканты"
+        },
+        "level": "A2",
+        "image": "Tonhalle.jpg",
+        "file": "Tonhalle.txt",
+        "words": "Tonhalle.json",
+        "multi": "Tonhalle.json"
+    }, {
+        "name": {
             "de": "Düsseldorf erkunden",
             "en": "Exploring Dusseldorf",
             "ru": "Знакомство с Дюссельдорфом"
@@ -46,7 +78,39 @@
         "image": "Altstadt.jpg",
         "file": "Altstadt.txt",
         "words": "Altstadt.json",
-        "multi": "Altstadt.json"
+        "yesNo": "Altstadt.json"
+    }, {
+        "name": {
+            "en": "Heine University",
+            "de": "Heine Universität",
+            "ru": "Университет Гейне"
+        },
+        "description": {
+            "en": "Academic excellence",
+            "de": "Akademische Exzellenz",
+            "ru": "Академическое совершенство"
+        },
+        "level": "B1",
+        "image": "Heine.jpg",
+        "file": "Heine.txt",
+        "words": "Heine.json",
+        "multi": "Heine.json"
+    }, {
+        "name": {
+            "en": "Kö Elegance",
+            "de": "Kö Eleganz",
+            "ru": "Элегантность Кё"
+        },
+        "description": {
+            "en": "Historic charm",
+            "de": "Historischer Charme",
+            "ru": "Исторический шарм"
+        },
+        "level": "B1",
+        "image": "Elegance.jpg",
+        "file": "Elegance.txt",
+        "words": "Elegance.json",
+        "yesNo": "Elegance.json"
     }, {
         "name": {
             "en": "Rhein Tower",
@@ -62,7 +126,7 @@
         "image": "Rheinturm.jpg",
         "file": "Rheinturm.txt",
         "words": "Rheinturm.json",
-        "multi": "Rheinturm.json"
+        "yesNo": "Rheinturm.json"
     }, {
         "name": {
             "en": "Japan Day Experience",
@@ -79,5 +143,21 @@
         "file": "JapanDay.txt",
         "words": "JapanDay.json",
         "multi": "JapanDay.json"
+    }, {
+        "name": {
+            "en": "City Charms",
+            "de": "Stadtzauber",
+            "ru": "Прелесть городов"
+        },
+        "description": {
+            "en": "A journalist's adventure",
+            "de": "Das Abenteuer eines Journalisten",
+            "ru": "Приключения журналиста"
+        },
+        "level": "B2",
+        "image": "Stadtzauber.jpg",
+        "file": "Stadtzauber.txt",
+        "words": "Stadtzauber.json",
+        "multi": "Stadtzauber.json"
     }
 ]

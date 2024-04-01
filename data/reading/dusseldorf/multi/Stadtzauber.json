@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Welche Stadt ist für ihre berühmte Kathedrale und ihr lebhaftes Nachtleben bekannt?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": true
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt hat eine starke Kunst- und Modeszene?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Stadt hat eine reiche kulturelle Geschichte und berühmte Karnevalsfeiern?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": true
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt wird als perfekte Mischung aus Geschichte und Modernität beschrieben?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": true
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt wird von einem Koch namens Andreas vertreten, der Sebastian seine kulinarischen Fähigkeiten zeigt?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Stadt wird von einem Software-Ingenieur namens Klaus vertreten, der Sebastian das Geschäftsviertel und viele Tech-Start-ups zeigt?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": true
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt bietet eine perfekte Balance zwischen Arbeit und Vergnügen, laut Markus, einem Lehrer?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Stadt hat eine beeindruckende Skyline, die Sebastian auf einer Bootsfahrt auf dem Rhein verzauberte?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Stadt hat eine Universität, an der Umweltwissenschaften studiert werden, wie von Sophie's Freunden erwähnt?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Stadt wird von Sebastian als lebhaft und pulsierend beschrieben, als er die Straßenkünstler auf einem Straßenmarkt entdeckt?",
+        "answers": [
+            {
+                "text": "Köln",
+                "correct": true
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }
+        ]
+    }
+]

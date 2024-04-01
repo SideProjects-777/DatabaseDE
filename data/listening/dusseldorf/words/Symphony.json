@@ -1,0 +1,143 @@
+[
+    {
+        "de": "die Liebe",
+        "en": "love",
+        "ru": "любовь",
+        "descriptionEN": "a strong feeling of affection and concern toward another person",
+        "descriptionRU": "сильное чувство привязанности и заботы к другому человеку",
+        "descriptionDE": "ein starkes Gefühl der Zuneigung und Sorge für eine andere Person"
+    }, {
+        "de": "der Ingenieur",
+        "en": "engineer",
+        "ru": "инженер",
+        "descriptionEN": "a person trained and skilled in the design, construction, and use of engines or machines, or in any of various branches of engineering.",
+        "descriptionRU": "человек, обученный и квалифицированный в проектировании, строительстве и использовании двигателей или машин, либо в любой из различных отраслей инженерии.",
+        "descriptionDE": "eine Person, die in der Gestaltung, Konstruktion und Verwendung von Motoren oder Maschinen oder in einer der verschiedenen Ingenieurdisziplinen ausgebildet und geschult ist."
+    }, {
+        "de": "die Musikerin",
+        "en": "musician",
+        "ru": "музыкантка",
+        "descriptionEN": "a person who plays a musical instrument, especially as a profession, or is musically talented.",
+        "descriptionRU": "человек, играющий на музыкальном инструменте, особенно как профессия, или обладающий музыкальным талантом.",
+        "descriptionDE": "eine Person, die ein Musikinstrument spielt, insbesondere als Beruf, oder musikalisch begabt ist."
+    }, {
+        "de": "das Date",
+        "en": "date",
+        "ru": "свидание",
+        "descriptionEN": "a social or romantic appointment or engagement.",
+        "descriptionRU": "социальное или романтическое свидание или встреча.",
+        "descriptionDE": "eine gesellschaftliche oder romantische Verabredung oder Verpflichtung."
+    }, {
+        "de": "der Konzertsaal",
+        "en": "concert hall",
+        "ru": "концертный зал",
+        "descriptionEN": "a large public building with an auditorium and facilities for concerts.",
+        "descriptionRU": "большое общественное здание с аудиторией и помещениями для концертов.",
+        "descriptionDE": "ein großes öffentliches Gebäude mit einem Auditorium und Einrichtungen für Konzerte."
+    }, {
+        "de": "der Straßenmusiker",
+        "en": "street musician",
+        "ru": "уличный музыкант",
+        "descriptionEN": "a musician who performs in public places, often for tips or donations.",
+        "descriptionRU": "музыкант, выступающий на общественных местах, часто за чаевые или пожертвования.",
+        "descriptionDE": "ein Musiker, der an öffentlichen Orten auftritt, oft für Trinkgelder oder Spenden."
+    }, {
+        "de": "das Lächeln",
+        "en": "smile",
+        "ru": "улыбка",
+        "descriptionEN": "a pleased, kind, or amused facial expression, typically with the corners of the mouth turned up and the front teeth exposed.",
+        "descriptionRU": "довольное, доброе или веселое выражение лица, обычно с уголками рта, направленными вверх, и обнаженными передними зубами.",
+        "descriptionDE": "ein zufriedener, freundlicher oder amüsierter Gesichtsausdruck, typischerweise mit den Mundwinkeln nach oben und den vorderen Zähnen freigelegt."
+    }, {
+        "de": "die Aufregung",
+        "en": "excitement",
+        "ru": "возбуждение",
+        "descriptionEN": "a state of being emotionally aroused.",
+        "descriptionRU": "состояние эмоционального возбуждения.",
+        "descriptionDE": "ein Zustand emotionaler Erregung."
+    }, {
+        "de": "die Pracht",
+        "en": "splendor",
+        "ru": "великолепие",
+        "descriptionEN": "magnificent and splendid appearance; grandeur.",
+        "descriptionRU": "великолепный и блестящий внешний вид; величие.",
+        "descriptionDE": "prachtvolles und herrliches Aussehen; Pracht."
+    }, {
+        "de": "die Schönheit",
+        "en": "beauty",
+        "ru": "красота",
+        "descriptionEN": "a combination of qualities, such as shape, color, or form, that pleases the aesthetic senses, especially the sight.",
+        "descriptionRU": "сочетание качеств, таких как форма, цвет или форма, которые удовлетворяют эстетические чувства, особенно зрение.",
+        "descriptionDE": "eine Kombination von Eigenschaften wie Form, Farbe oder Gestalt, die die ästhetischen Sinne, insbesondere den Sehsinn, erfreut."
+    }, {
+        "de": "die Tränen",
+        "en": "tears",
+        "ru": "слезы",
+        "descriptionEN": "a clear, salty liquid secreted by glands in the eyes and typically expelled from the body through ducts in the eyelids.",
+        "descriptionRU": "чистая, соленая жидкость, выделяемая железами в глазах и обычно выводимая из организма через протоки в веках.",
+        "descriptionDE": "eine klare, salzige Flüssigkeit, die von Drüsen in den Augen abgesondert wird und typischerweise durch Kanäle in den Augenlidern aus dem Körper ausgeschieden wird."
+    }, {
+        "de": "der Ring",
+        "en": "ring",
+        "ru": "кольцо",
+        "descriptionEN": "a small circular band, typically of precious metal, worn on a finger as an ornament or a token of marriage, engagement, or authority.",
+        "descriptionRU": "небольшая круглая ободковая лента, обычно из драгоценного металла, носимая на пальце как украшение или знак брака, помолвки или власти.",
+        "descriptionDE": "ein kleiner kreisförmiger Ring, typischerweise aus Edelmetall, der als Schmuckstück oder Zeichen einer Ehe, Verlobung oder Autorität am Finger getragen wird."
+    }, {
+        "de": "der Soundtrack",
+        "en": "soundtrack",
+        "ru": "саундтрек",
+        "descriptionEN": "a recording of the musical accompaniment to a movie.",
+        "descriptionRU": "запись музыкального сопровождения к фильму.",
+        "descriptionDE": "eine Aufnahme der musikalischen Begleitung zu einem Film."
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "to engage in activity for enjoyment and recreation.",
+        "descriptionRU": "заниматься деятельностью для удовольствия и отдыха.",
+        "descriptionDE": "an einer Aktivität zum Vergnügen und zur Erholung teilnehmen."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure in something.",
+        "descriptionRU": "наслаждаться чем-то.",
+        "descriptionDE": "sich an etwas erfreuen."
+    }, {
+        "de": "verliebt",
+        "en": "in love",
+        "ru": "влюбленный",
+        "descriptionEN": "having strong romantic feelings for someone.",
+        "descriptionRU": "испытывать сильные романтические чувства к кому-то.",
+        "descriptionDE": "starke romantische Gefühle für jemanden haben."
+    }, {
+        "de": "faszinierend",
+        "en": "fascinating",
+        "ru": "захватывающий",
+        "descriptionEN": "extremely interesting or charming.",
+        "descriptionRU": "чрезвычайно интересный или очаровательный.",
+        "descriptionDE": "äußerst interessant oder charmant."
+    }, {
+        "de": "überwältigt",
+        "en": "overwhelmed",
+        "ru": "переполненный",
+        "descriptionEN": "feeling completely overcome by strong emotions or situations.",
+        "descriptionRU": "чувство полного подавления сильными эмоциями или ситуациями.",
+        "descriptionDE": "das Gefühl, von starken Emotionen oder Situationen völlig überwältigt zu sein."
+    }, {
+        "de": "klein",
+        "en": "small",
+        "ru": "маленький",
+        "descriptionEN": "of a size that is less than normal or usual.",
+        "descriptionRU": "размером меньше обычного или привычного.",
+        "descriptionDE": "von einer Größe, die kleiner als normal oder üblich ist."
+    }, {
+        "de": "wunderschön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically.",
+        "descriptionRU": "удовлетворяющий эстетически чувства или разум.",
+        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend."
+    }
+]

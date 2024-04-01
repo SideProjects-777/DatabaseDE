@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welches Ziel hatte Lehrerin Janette für den Schulausflug geplant?",
+        "answers": [
+            {
+                "text": "Einen Besuch im Zoogeschäft zu machen.",
+                "correct": false
+            }, {
+                "text": "Einen Ausflug in den Freizeitpark zu organisieren.",
+                "correct": false
+            }, {
+                "text": "Den Schulausflug zum Aquazoo Löbbecke Museum in Düsseldorf zu unternehmen.",
+                "correct": true
+            }, {
+                "text": "Die Klasse in einem nahegelegenen Park picknicken zu lassen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was begrüßte die Kinder, als sie das Museum betraten?",
+        "answers": [
+            {
+                "text": "Das Rauschen des Wassers und der Anblick der bunten Fische.",
+                "correct": true
+            }, {
+                "text": "Die Lehrerin Janette.",
+                "correct": false
+            }, {
+                "text": "Die Ausstellungsstücke über Meeresbewohner.",
+                "correct": false
+            }, {
+                "text": "Die Geräusche von spielenden Kindern.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Tiere sahen die Kinder im Museum?",
+        "answers": [
+            {
+                "text": "Affe, Elefant und Giraffe.",
+                "correct": false
+            }, {
+                "text": "Löwen, Tiger und Bären.",
+                "correct": false
+            }, {
+                "text": "Hunde, Katzen und Kaninchen.",
+                "correct": false
+            }, {
+                "text": "Haie, Rochen und einen riesigen Oktopus.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ließ ein Kind versehentlich in das Pinguinbecken fallen?",
+        "answers": [
+            {
+                "text": "Seinen Rucksack.",
+                "correct": false
+            }, {
+                "text": "Sein Spielzeug.",
+                "correct": true
+            }, {
+                "text": "Seine Wasserflasche.",
+                "correct": false
+            }, {
+                "text": "Seine Schultasche.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tat Janette, als das Kind sein Spielzeug ins Pinguinbecken fallen ließ?",
+        "answers": [
+            {
+                "text": "Sie schrie und rief nach Hilfe.",
+                "correct": false
+            }, {
+                "text": "Sie ließ das Spielzeug im Becken und ging weg.",
+                "correct": false
+            }, {
+                "text": "Sie sprang ins Becken und holte das Spielzeug heraus.",
+                "correct": true
+            }, {
+                "text": "Sie wartete darauf, dass ein Museumswärter es herausholt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie reagierten die Schüler, als Janette ins Pinguinbecken sprang?",
+        "answers": [
+            {
+                "text": "Sie waren überrascht und erstaunt.",
+                "correct": true
+            }, {
+                "text": "Sie waren verärgert über Janettes Handlung.",
+                "correct": false
+            }, {
+                "text": "Sie lachten über Janettes nasse Kleidung.",
+                "correct": false
+            }, {
+                "text": "Sie ignorierten, was passierte, und gingen weiter.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie fühlte sich Janette, nachdem sie das Spielzeug aus dem Pinguinbecken geholt hatte?",
+        "answers": [
+            {
+                "text": "Verärgert über das Kind, das das Spielzeug fallen ließ.",
+                "correct": false
+            }, {
+                "text": "Erschöpft und müde.",
+                "correct": false
+            }, {
+                "text": "Enttäuscht über den Vorfall.",
+                "correct": false
+            }, {
+                "text": "Dankbar für das unerwartete Abenteuer.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ahnte Janette nicht über die Klassenfahrt?",
+        "answers": [
+            {
+                "text": "Dass das Museum an diesem Tag geschlossen wäre.",
+                "correct": false
+            }, {
+                "text": "Dass es ein Gewitter geben würde.",
+                "correct": false
+            }, {
+                "text": "Dass der Bus eine Panne haben würde.",
+                "correct": false
+            }, {
+                "text": "Dass ihre Schülerinnen und Schüler diese nie vergessen würden.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was hatte Janette für ihre Schülerinnen und Schüler geplant?",
+        "answers": [
+            {
+                "text": "Einen unterhaltsamen und lehrreichen Ausflug zum Museum.",
+                "correct": true
+            }, {
+                "text": "Einen langweiligen Tag im Klassenzimmer.",
+                "correct": false
+            }, {
+                "text": "Einen Spieltag im Park.",
+                "correct": false
+            }, {
+                "text": "Einen Filmnachmittag im Kino.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was faszinierte die Kinder, während sie das Museum erkundeten?",
+        "answers": [
+            {
+                "text": "Die Gemälde berühmter Künstler.",
+                "correct": false
+            }, {
+                "text": "Die verschiedenen Fischarten und Meeresbewohner.",
+                "correct": true
+            }, {
+                "text": "Die antiken Artefakte aus vergangenen Zeiten.",
+                "correct": false
+            }, {
+                "text": "Die interaktiven Technologien im Museum.",
+                "correct": false
+            }
+        ]
+    }
+]

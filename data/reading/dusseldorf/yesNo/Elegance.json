@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Königsallee in Düsseldorf ist auch als 'Kö' bekannt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Königsallee ist ein kurzer Boulevard ohne Bäume.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Königsallee ist hauptsächlich von preiswerten Geschäften gesäumt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Straße wurde im 19. Jahrhundert eröffnet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Königsallee ist nach Königin Elisabeth benannt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Boulevard wurde von Palmen gesäumt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Königsallee war nie ein Treffpunkt der Wohlhabenden und der Elite.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Kö bietet nur moderne Architektur ohne historischen Charme.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Kö-Bogen ist eine jährliche Modenschau auf der Königsallee.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der alljährliche Weihnachtsmarkt auf der Kö ist nicht besonders beliebt.",
+        "tr": false,
+        "fle": true
+    }
+]

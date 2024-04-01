@@ -45,9 +45,9 @@
             "en": "Bustling fashion and trade fairs",
             "ru": "Оживленные ярмарки моды и торговли"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dus1.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loadingMap.mp4",
-        "amountOfStories": 5,
+        "amountOfStories": 7,
         "active": true,
         "hasVideo": false
     }, {

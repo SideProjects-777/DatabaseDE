@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welcher berühmte klassische Komponist trat 1971 in der Tonhalle Düsseldorf auf?",
+        "answers": [
+            {
+                "text": "Johann Sebastian Bach",
+                "correct": false
+            }, {
+                "text": "Wolfgang Amadeus Mozart",
+                "correct": false
+            }, {
+                "text": "Frédéric Chopin",
+                "correct": false
+            }, {
+                "text": "Ludwig van Beethoven",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welcher italienische Tenor trat 1986 in der Tonhalle auf und begeisterte das Publikum mit seiner Interpretation von 'Nessun Dorma'?",
+        "answers": [
+            {
+                "text": "Andrea Bocelli",
+                "correct": false
+            }, {
+                "text": "Luciano Pavarotti",
+                "correct": true
+            }, {
+                "text": "Enrico Caruso",
+                "correct": false
+            }, {
+                "text": "Plácido Domingo",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher amerikanische Singer-Songwriter gab im Jahr 2002 ein Konzert in der Tonhalle, bei dem er Hits wie 'Blowin' in the Wind' präsentierte?",
+        "answers": [
+            {
+                "text": "Bob Dylan",
+                "correct": true
+            }, {
+                "text": "Bruce Springsteen",
+                "correct": false
+            }, {
+                "text": "Paul Simon",
+                "correct": false
+            }, {
+                "text": "Johnny Cash",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Jahr trat Elton John im Rahmen seiner Red Piano Tour in der Tonhalle auf?",
+        "answers": [
+            {
+                "text": "1995",
+                "correct": false
+            }, {
+                "text": "2009",
+                "correct": true
+            }, {
+                "text": "2010",
+                "correct": false
+            }, {
+                "text": "2017",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Künstler gewann einen Grammy und trat 2017 mit seiner Divide-Tour in der Tonhalle auf?",
+        "answers": [
+            {
+                "text": "Justin Bieber",
+                "correct": false
+            }, {
+                "text": "Shawn Mendes",
+                "correct": false
+            }, {
+                "text": "Ed Sheeran",
+                "correct": true
+            }, {
+                "text": "Bruno Mars",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher italienische Opernsänger stand 2019 im Rahmen seiner Welttournee in der Tonhalle auf der Bühne?",
+        "answers": [
+            {
+                "text": "Plácido Domingo",
+                "correct": false
+            }, {
+                "text": "José Carreras",
+                "correct": false
+            }, {
+                "text": "Andrea Bocelli",
+                "correct": true
+            }, {
+                "text": "Luciano Pavarotti",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher berühmte Singer-Songwriter gab im Jahr 2002 ein Konzert in der Tonhalle, bei dem er Hits wie 'Blowin' in the Wind' präsentierte?",
+        "answers": [
+            {
+                "text": "Andrea Bocelli",
+                "correct": false
+            }, {
+                "text": "Bob Dylan",
+                "correct": true
+            }, {
+                "text": "Ed Sheeran",
+                "correct": false
+            }, {
+                "text": "Elton John",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher britische Künstler trat im Jahr 2009 mit seinem charakteristischen Flügel in der Tonhalle auf?",
+        "answers": [
+            {
+                "text": "Elton John",
+                "correct": true
+            }, {
+                "text": "Andrea Bocelli",
+                "correct": false
+            }, {
+                "text": "Bob Dylan",
+                "correct": false
+            }, {
+                "text": "Ed Sheeran",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Jahr trat Ed Sheeran mit seiner Divide-Tour in der Tonhalle auf?",
+        "answers": [
+            {
+                "text": "2014",
+                "correct": false
+            }, {
+                "text": "2017",
+                "correct": true
+            }, {
+                "text": "2019",
+                "correct": false
+            }, {
+                "text": "2015",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher klassische Komponist dirigierte 1971 seine eigenen Werke in der Tonhalle Düsseldorf?",
+        "answers": [
+            {
+                "text": "Ludwig van Beethoven",
+                "correct": true
+            }, {
+                "text": "Wolfgang Amadeus Mozart",
+                "correct": false
+            }, {
+                "text": "Johann Sebastian Bach",
+                "correct": false
+            }, {
+                "text": "Johannes Brahms",
+                "correct": false
+            }
+        ]
+    }
+]

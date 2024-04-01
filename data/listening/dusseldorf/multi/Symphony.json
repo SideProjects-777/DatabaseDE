@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was war der Beruf von Max?",
+        "answers": [
+            {
+                "text": "Musikerin",
+                "correct": false
+            }, {
+                "text": "Software-Ingenieur",
+                "correct": true
+            }, {
+                "text": "Straßenmusiker",
+                "correct": false
+            }, {
+                "text": "Konzertsaalmanager",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Anikas Beruf?",
+        "answers": [
+            {
+                "text": "Software-Ingenieur",
+                "correct": false
+            }, {
+                "text": "Konzertsaalmanagerin",
+                "correct": false
+            }, {
+                "text": "Musikerin",
+                "correct": true
+            }, {
+                "text": "Straßenmusikerin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo hatten Max und Anika ihr Date geplant?",
+        "answers": [
+            {
+                "text": "Konzertsaal Berlin",
+                "correct": false
+            }, {
+                "text": "Oper Frankfurt",
+                "correct": false
+            }, {
+                "text": "Tonhalle Düsseldorf",
+                "correct": true
+            }, {
+                "text": "Theater Hamburg",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Anikas Reaktion, als Max sie fragte, ob sie heiraten wolle?",
+        "answers": [
+            {
+                "text": "Sie weinte",
+                "correct": false
+            }, {
+                "text": "Sie lehnte ab",
+                "correct": false
+            }, {
+                "text": "Sie lachte",
+                "correct": false
+            }, {
+                "text": "Sie nickte",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was führte Max aus seiner Tasche, als er Anika einen Heiratsantrag machte?",
+        "answers": [
+            {
+                "text": "Ein Buch",
+                "correct": false
+            }, {
+                "text": "Ein Handy",
+                "correct": false
+            }, {
+                "text": "Eine kleine Schachtel",
+                "correct": true
+            }, {
+                "text": "Eine Kamera",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was taten Max und Anika nach dem Konzert?",
+        "answers": [
+            {
+                "text": "Sie gingen in ein Restaurant",
+                "correct": false
+            }, {
+                "text": "Sie gingen nach Hause",
+                "correct": false
+            }, {
+                "text": "Sie machten einen Spaziergang im Park",
+                "correct": true
+            }, {
+                "text": "Sie fuhren mit dem Taxi",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tat Max, als er den Straßenmusiker sah?",
+        "answers": [
+            {
+                "text": "Er ignorierte den Musiker",
+                "correct": false
+            }, {
+                "text": "Er ging in die entgegengesetzte Richtung",
+                "correct": false
+            }, {
+                "text": "Er blieb stehen und zog Anika in Richtung des Musikers",
+                "correct": true
+            }, {
+                "text": "Er bat den Musiker, zu gehen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was spielte der Straßenmusiker, als Max und Anika zu ihm gingen?",
+        "answers": [
+            {
+                "text": "Rockmusik",
+                "correct": false
+            }, {
+                "text": "Hip-Hop",
+                "correct": false
+            }, {
+                "text": "Eine schöne Melodie",
+                "correct": true
+            }, {
+                "text": "Techno",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war in der Schachtel, die Max Anika zeigte?",
+        "answers": [
+            {
+                "text": "Eine Kette",
+                "correct": false
+            }, {
+                "text": "Eine Armbanduhr",
+                "correct": false
+            }, {
+                "text": "Ein wunderschöner Diamantring",
+                "correct": true
+            }, {
+                "text": "Ein Paar Ohrringe",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie fühlten sich Max und Anika, als sie sich umarmten und küssten?",
+        "answers": [
+            {
+                "text": "Traurig",
+                "correct": false
+            }, {
+                "text": "Überglücklich",
+                "correct": true
+            }, {
+                "text": "Geschockt",
+                "correct": false
+            }, {
+                "text": "Verärgert",
+                "correct": false
+            }
+        ]
+    }
+]

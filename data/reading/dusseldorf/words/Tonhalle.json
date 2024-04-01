@@ -1,0 +1,199 @@
+[
+    {
+        "de": "die Tonhalle",
+        "en": "concert hall",
+        "ru": "концертный зал",
+        "descriptionEN": "A large room or building for concerts.",
+        "descriptionRU": "Большое помещение или здание для проведения концертов.",
+        "descriptionDE": "Ein großes Zimmer oder Gebäude für Konzerte."
+    }, {
+        "de": "das Herz",
+        "en": "heart",
+        "ru": "сердце",
+        "descriptionEN": "A hollow muscular organ that pumps the blood through the circulatory system.",
+        "descriptionRU": "Полый мышечный орган, который перекачивает кровь через кровеносную систему.",
+        "descriptionDE": "Ein hohler muskulöser Organ, der das Blut durch das Kreislaufsystem pumpt."
+    }, {
+        "de": "der Musikliebhaber",
+        "en": "music lover",
+        "ru": "любитель музыки",
+        "descriptionEN": "A person who loves or has a great interest in music.",
+        "descriptionRU": "Человек, который любит или проявляет большой интерес к музыке.",
+        "descriptionDE": "Eine Person, die Musik liebt oder ein großes Interesse an Musik hat."
+    }, {
+        "de": "die Gründung",
+        "en": "foundation",
+        "ru": "основание",
+        "descriptionEN": "The action of establishing an institution or organization.",
+        "descriptionRU": "Действие по учреждению учреждения или организации.",
+        "descriptionDE": "Die Handlung, eine Institution oder Organisation zu gründen."
+    }, {
+        "de": "der Maestro",
+        "en": "maestro",
+        "ru": "маэстро",
+        "descriptionEN": "A distinguished conductor or performer of classical music.",
+        "descriptionRU": "Выдающийся дирижер или исполнитель классической музыки.",
+        "descriptionDE": "Ein herausragender Dirigent oder Interpret klassischer Musik."
+    }, {
+        "de": "die Legende",
+        "en": "legend",
+        "ru": "легенда",
+        "descriptionEN": "A traditional story sometimes popularly regarded as historical but unauthenticated.",
+        "descriptionRU": "Традиционный рассказ, иногда популярно считаемый историческим, но не подтвержденный.",
+        "descriptionDE": "Eine traditionelle Geschichte, die manchmal volkstümlich als historisch, aber nicht authentifiziert angesehen wird."
+    }, {
+        "de": "der Auftritt",
+        "en": "performance",
+        "ru": "выступление",
+        "descriptionEN": "The act of performing a play, concert, or other form of entertainment.",
+        "descriptionRU": "Действие по исполнению пьесы, концерта или другой формы развлечения.",
+        "descriptionDE": "Die Handlung, ein Theaterstück, Konzert oder eine andere Form der Unterhaltung aufzuführen."
+    }, {
+        "de": "der Konzertsaal",
+        "en": "concert hall",
+        "ru": "концертный зал",
+        "descriptionEN": "A large room or building for concerts.",
+        "descriptionRU": "Большое помещение или здание для проведения концертов.",
+        "descriptionDE": "Ein großes Zimmer oder Gebäude für Konzerte."
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "мероприятие",
+        "descriptionEN": "A planned public or social occasion.",
+        "descriptionRU": "Запланированное общественное или социальное мероприятие.",
+        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung."
+    }, {
+        "de": "die Welttournee",
+        "en": "world tour",
+        "ru": "мировое турне",
+        "descriptionEN": "A series of concerts or performances that takes place in various locations around the world.",
+        "descriptionRU": "Серия концертов или выступлений, которая проходит в различных местах по всему миру.",
+        "descriptionDE": "Eine Serie von Konzerten oder Aufführungen, die an verschiedenen Orten auf der ganzen Welt stattfindet."
+    }, {
+        "de": "der Flügel",
+        "en": "piano",
+        "ru": "пианино",
+        "descriptionEN": "A large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are depressed.",
+        "descriptionRU": "Большой клавишный музыкальный инструмент с деревянным корпусом, ограничивающим звуковую доску и металлические струны, по которым ударяют молоточки, когда клавиши нажимаются.",
+        "descriptionDE": "Ein großes Tasteninstrument mit einem Holzkasten, der einen Resonanzboden und Metallsaiten umschließt, die von Hämmerchen angeschlagen werden, wenn die Tasten niedergedrückt werden."
+    }, {
+        "de": "außergewöhnlich",
+        "en": "extraordinary",
+        "ru": "необыкновенный",
+        "descriptionEN": "Very unusual or remarkable.",
+        "descriptionRU": "Очень необычный или выдающийся.",
+        "descriptionDE": "Sehr ungewöhnlich oder bemerkenswert."
+    }, {
+        "de": "renommiert",
+        "en": "renowned",
+        "ru": "признанный",
+        "descriptionEN": "Known or talked about by many people; famous.",
+        "descriptionRU": "Известный или обсуждаемый многими людьми; знаменитый.",
+        "descriptionDE": "Von vielen Menschen bekannt oder besprochen; berühmt."
+    }, {
+        "de": "elektrisierend",
+        "en": "electrifying",
+        "ru": "электризующий",
+        "descriptionEN": "Intensely exciting or thrilling; causing great excitement.",
+        "descriptionRU": "Интенсивно захватывающий или ошеломляющий; вызывающий большой восторг.",
+        "descriptionDE": "Intensiv aufregend oder packend; große Aufregung verursachend."
+    }, {
+        "de": "klangvoll",
+        "en": "sonorous",
+        "ru": "звонкий",
+        "descriptionEN": "Producing a deep or ringing sound.",
+        "descriptionRU": "Издавать глубокий или звонкий звук.",
+        "descriptionDE": "Einen tiefen oder klingenden Klang erzeugend."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "Impossible to forget; very memorable.",
+        "descriptionRU": "Невозможно забыть; очень запоминающийся.",
+        "descriptionDE": "Unmöglich zu vergessen; sehr denkwürdig."
+    }, {
+        "de": "energiegeladen",
+        "en": "energetic",
+        "ru": "энергичный",
+        "descriptionEN": "Full of energy; vigorous or dynamic.",
+        "descriptionRU": "Полный энергии; бодрый или динамичный.",
+        "descriptionDE": "Voller Energie; kräftig oder dynamisch."
+    }, {
+        "de": "gefühlvoll",
+        "en": "emotional",
+        "ru": "эмоциональный",
+        "descriptionEN": "Relating to a person's feelings or emotions.",
+        "descriptionRU": "Относящийся к чувствам или эмоциям человека.",
+        "descriptionDE": "Bezogen auf die Gefühle oder Emotionen einer Person."
+    }, {
+        "de": "das Konzert",
+        "en": "concert",
+        "ru": "концерт",
+        "descriptionEN": "A musical performance given in public, typically by several performers or of several separate compositions.",
+        "descriptionRU": "Музыкальное выступление, которое проходит публично, обычно несколькими исполнителями или несколькими отдельными композициями.",
+        "descriptionDE": "Eine musikalische Darbietung, die öffentlich stattfindet, normalerweise von mehreren Künstlern oder mehreren separaten Kompositionen."
+    }, {
+        "de": "der Künstler",
+        "en": "artist",
+        "ru": "художник",
+        "descriptionEN": "A person who produces paintings or drawings as a profession or hobby.",
+        "descriptionRU": "Человек, который занимается созданием картин или рисунков как профессионал или хобби.",
+        "descriptionDE": "Eine Person, die als Beruf oder Hobby Gemälde oder Zeichnungen produziert."
+    }, {
+        "de": "der Erfolg",
+        "en": "success",
+        "ru": "успех",
+        "descriptionEN": "The accomplishment of an aim or purpose.",
+        "descriptionRU": "Достижение цели или намерения.",
+        "descriptionDE": "Die Erfüllung eines Ziels oder Zwecks."
+    }, {
+        "de": "die Darbietung",
+        "en": "performance",
+        "ru": "выступление",
+        "descriptionEN": "The act of presenting a play, concert, or other form of entertainment.",
+        "descriptionRU": "Действие по представлению пьесы, концерта или другой формы развлечения.",
+        "descriptionDE": "Die Handlung, ein Theaterstück, Konzert oder eine andere Form der Unterhaltung zu präsentieren."
+    }, {
+        "de": "die Stimme",
+        "en": "voice",
+        "ru": "голос",
+        "descriptionEN": "The sound produced in a person's larynx and uttered through the mouth, as speech or song.",
+        "descriptionRU": "Звук, производимый в гортани человека и произносимый через рот, как речь или пение.",
+        "descriptionDE": "Der Klang, der in der Kehle einer Person erzeugt wird und durch den Mund als Sprache oder Gesang ausgesprochen wird."
+    }, {
+        "de": "das Publikum",
+        "en": "audience",
+        "ru": "аудитория",
+        "descriptionEN": "The assembled spectators or listeners at a public event such as a play, movie, concert, or meeting.",
+        "descriptionRU": "Собранные зрители или слушатели на общественном мероприятии, таком как пьеса, фильм, концерт или собрание.",
+        "descriptionDE": "Die versammelten Zuschauer oder Zuhörer bei einer öffentlichen Veranstaltung wie einem Theaterstück, Film, Konzert oder Treffen."
+    }, {
+        "de": "der Hit",
+        "en": "hit",
+        "ru": "хит",
+        "descriptionEN": "A song, movie, or other item that achieves great popularity or success.",
+        "descriptionRU": "Песня, фильм или другой элемент, который достигает большой популярности или успеха.",
+        "descriptionDE": "Ein Lied, Film oder ein anderes Element, das große Popularität oder Erfolg erreicht."
+    }, {
+        "de": "die Darbietung",
+        "en": "performance",
+        "ru": "выступление",
+        "descriptionEN": "The act of presenting a play, concert, or other form of entertainment.",
+        "descriptionRU": "Действие по представлению пьесы, концерта или другой формы развлечения.",
+        "descriptionDE": "Die Handlung, ein Theaterstück, Konzert oder eine andere Form der Unterhaltung zu präsentieren."
+    }, {
+        "de": "die Melodie",
+        "en": "melody",
+        "ru": "мелодия",
+        "descriptionEN": "A sequence of single notes that is musically satisfying.",
+        "descriptionRU": "Последовательность отдельных нот, музыкально удовлетворительных.",
+        "descriptionDE": "Eine Sequenz einzelner Noten, die musikalisch befriedigend ist."
+    }, {
+        "de": "das Instrument",
+        "en": "instrument",
+        "ru": "инструмент",
+        "descriptionEN": "A tool or implement, especially one for delicate or scientific work.",
+        "descriptionRU": "Инструмент или приспособление, особенно для тонкой или научной работы.",
+        "descriptionDE": "Ein Werkzeug oder Gerät, insbesondere für feine oder wissenschaftliche Arbeit."
+    }
+]
