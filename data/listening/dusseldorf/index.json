@@ -1,21 +1,5 @@
 [
-    {
-        "name": {
-            "en": "Guess the city",
-            "de": "Errate die Stadt",
-            "ru": "Угадайте город"
-        },
-        "description": {
-            "en": "Cosmopolitan city by Rhine",
-            "de": "Kosmopolitische Stadt am Rhein",
-            "ru": "Космополитический город на Рейне"
-        },
-        "level": "A2",
-        "image": "Cosmopolitan.jpg",
-        "file": "Cosmopolitan.mp3",
-        "words": "Cosmopolitan.json",
-        "yesNo": "Cosmopolitan.json"
-    }, {
+{
         "name": {
             "en": "Aquazoo Adventure",
             "de": "Aquazoo Abenteuer",
@@ -62,7 +46,7 @@
         "image": "Symphony.jpg",
         "file": "Symphony.mp3",
         "words": "Symphony.json",
-        "yesNo": "Symphony.json"
+        "multi": "Symphony.json"
     }, {
         "name": {
             "de": "Joggen an der Rheinuferpromenade",
@@ -81,30 +65,14 @@
         "yesNo": "Rheinuferpromenade.json"
     }, {
         "name": {
-            "en": "Düsseldorf's Allure",
-            "de": "Der Reiz von Düsseldorf",
-            "ru": "Привлекательность Дюссельдорфа"
-        },
-        "description": {
-            "en": "Unveiling a new home",
-            "de": "Enthüllung eines neuen Zuhauses",
-            "ru": "Раскрытие нового дома"
-        },
-        "level": "B1",
-        "image": "Allure.jpg",
-        "file": "Allure.mp3",
-        "words": "Allure.json",
-        "yesNo": "Allure.json"
-    }, {
-        "name": {
             "en": "Skyward Adventure",
             "de": "Himmelsabenteuer",
             "ru": "Небесное приключение"
         },
         "description": {
-            "en": "Photographer's aerial journey",
-            "de": "Luftige Fotoreise",
-            "ru": "Воздушное путешествие фотографа"
+            "en": "Photographer's journey",
+            "de": "Fotoreise",
+            "ru": "Путешествие фотографа"
         },
         "level": "B1",
         "image": "Himmelsabenteuer.jpg",
