@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Vacation dilemma",
+            "de": "Urlaubsdilemma",
+            "ru": "Дилемма отпуска"
+        },
+        "description": {
+            "en": "Choosing Dusseldorf",
+            "de": "Düsseldorf wählen",
+            "ru": "Выбор Дюссельдорфа"
+        },
+        "level": "A2",
+        "image": "Urlaubsdilemma.jpg",
+        "file": "Urlaubsdilemma.txt",
+        "words": "Urlaubsdilemma.json",
+        "yesNo": "Urlaubsdilemma.json"
+    }, {
+        "name": {
             "en": "Tonhalle Legends",
             "de": "Tonhalle Legenden",
             "ru": "Легенды Тонхалле"
@@ -13,8 +29,8 @@
         "level": "A2",
         "image": "Tonhalle.jpg",
         "file": "Tonhalle.txt",
-        "multi": "Tonhalle.json",
-        "yesNo": "Tonhalle.json"
+        "words": "Tonhalle.json",
+        "multi": "Tonhalle.json"
     }, {
         "name": {
             "de": "Düsseldorf erkunden",

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Familie Wilson stammt aus Berlin.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Familie Wilson hatte ihren Sommerurlaub nach London geplant.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Familie Wilson hat ihren Urlaub in drei Städten verbracht: Warschau, Düsseldorf und Prag.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Herr Wilson war ein großer Fan von Düsseldorf aufgrund seiner köstlichen Küche.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Jack und Lily waren eher an der Geschichte und Kultur der Städte interessiert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Familie Wilson entschied sich für Düsseldorf als Urlaubsziel aufgrund von Frau Wilsons Vorliebe für die deutsche Küche.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Familie Wilson war enttäuscht von Düsseldorf, als sie ankamen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Familie Wilson genoss die Bootsfahrten auf dem Rhein.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Königsallee in Düsseldorf hat hauptsächlich Lebensmittelgeschäfte.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Schloss Benrath in Düsseldorf hat keinen Garten.",
+        "tr": false,
+        "fle": true
+    }
+]

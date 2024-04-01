@@ -1,0 +1,136 @@
+[
+    {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "A group consisting of parents and children living together in a household.",
+        "descriptionRU": "Группа, состоящая из родителей и детей, живущих вместе в одном доме.",
+        "descriptionDE": "Eine Gruppe von Eltern und Kindern, die zusammen in einem Haushalt leben."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "A large town.",
+        "descriptionRU": "Большой город.",
+        "descriptionDE": "Eine große Stadt."
+    }, {
+        "de": "das Jahr",
+        "en": "year",
+        "ru": "год",
+        "descriptionEN": "The time taken by the earth to make one revolution around the sun.",
+        "descriptionRU": "Время, затраченное Землей на один оборот вокруг солнца.",
+        "descriptionDE": "Die Zeit, die die Erde benötigt, um eine Umdrehung um die Sonne zu machen."
+    }, {
+        "de": "der Flieger",
+        "en": "plane",
+        "ru": "самолет",
+        "descriptionEN": "An aircraft that has fixed wings and is powered by propellers or jets.",
+        "descriptionRU": "Самолет с фиксированными крыльями, приводимый в движение винтами или реактивными двигателями.",
+        "descriptionDE": "Ein Flugzeug mit festen Flügeln, das von Propellern oder Düsen angetrieben wird."
+    }, {
+        "de": "das Schiff",
+        "en": "ship",
+        "ru": "корабль",
+        "descriptionEN": "A large boat for traveling on water, especially across the sea.",
+        "descriptionRU": "Большое судно для путешествий по воде, особенно через море.",
+        "descriptionDE": "Ein großes Boot zum Reisen auf dem Wasser, insbesondere über das Meer."
+    }, {
+        "de": "das Restaurant",
+        "en": "restaurant",
+        "ru": "ресторан",
+        "descriptionEN": "A place where people pay to sit and eat meals that are cooked and served on the premises.",
+        "descriptionRU": "Место, где люди платят за то, чтобы сесть и поесть приготовленные и поданные на месте блюда.",
+        "descriptionDE": "Ein Ort, an dem Menschen bezahlen, um zu sitzen und Mahlzeiten zu essen, die auf dem Gelände zubereitet und serviert werden."
+    }, {
+        "de": "das Schloss",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "A large building, typically of the medieval period, fortified against attack with thick walls, battlements, towers, and in many cases a moat.",
+        "descriptionRU": "Большое здание, обычно средневекового периода, укрепленное против нападений толстыми стенами, крепостными стенами, башнями и во многих случаях рвом.",
+        "descriptionDE": "Ein großes Gebäude, normalerweise aus der mittelalterlichen Zeit, das mit dicken Mauern, Zinnen, Türmen und in vielen Fällen einem Graben gegen Angriffe befestigt ist."
+    }, {
+        "de": "die Designerläden",
+        "en": "designer shops",
+        "ru": "магазины дизайнерских вещей",
+        "descriptionEN": "Shops that sell clothing and accessories designed by famous fashion designers.",
+        "descriptionRU": "Магазины, продающие одежду и аксессуары, разработанные известными модными дизайнерами.",
+        "descriptionDE": "Geschäfte, die Kleidung und Accessoires verkaufen, die von bekannten Modedesignern entworfen wurden."
+    }, {
+        "de": "der Marktplatz",
+        "en": "marketplace",
+        "ru": "рыночная площадь",
+        "descriptionEN": "An open area or square in a town where a market is held.",
+        "descriptionRU": "Открытая площадь или площадь в городе, где проводится рынок.",
+        "descriptionDE": "Ein offener Bereich oder Platz in einer Stadt, wo ein Markt stattfindet."
+    }, {
+        "de": "der Rückflug",
+        "en": "return flight",
+        "ru": "обратный полет",
+        "descriptionEN": "A flight that takes you back to the place you started from.",
+        "descriptionRU": "Полет, который возвращает вас в место, с которого вы начали.",
+        "descriptionDE": "Ein Flug, der Sie zurück an den Ort bringt, von dem Sie gestartet sind."
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.",
+        "descriptionRU": "Путешествовать по (незнакомой стране или местности), чтобы узнать или ознакомиться с ней.",
+        "descriptionDE": "Reisen in oder durch (ein unbekanntes Land oder Gebiet), um es kennenzulernen oder sich damit vertraut zu machen."
+    }, {
+        "de": "freuen",
+        "en": "to be happy",
+        "ru": "радоваться",
+        "descriptionEN": "Feeling or showing pleasure or contentment.",
+        "descriptionRU": "Чувствовать или показывать удовольствие или удовлетворение.",
+        "descriptionDE": "Das Gefühl oder das Zeigen von Freude oder Zufriedenheit."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "Take pleasure in (an activity, occasion, or time).",
+        "descriptionRU": "Получать удовольствие от (деятельности, случая или времени).",
+        "descriptionDE": "Freude an (einer Aktivität, Gelegenheit oder Zeit) haben."
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "возбужденный",
+        "descriptionEN": "Very enthusiastic and eager.",
+        "descriptionRU": "Очень восторженный и нетерпеливый.",
+        "descriptionDE": "Sehr enthusiastisch und eifrig."
+    }, {
+        "de": "lecker",
+        "en": "tasty",
+        "ru": "вкусный",
+        "descriptionEN": "Having a pleasant taste or flavor.",
+        "descriptionRU": "Имеющий приятный вкус или аромат.",
+        "descriptionDE": "Mit einem angenehmen Geschmack oder Aroma."
+    }, {
+        "de": "unterhaltsam",
+        "en": "entertaining",
+        "ru": "развлекательный",
+        "descriptionEN": "Providing amusement or enjoyment.",
+        "descriptionRU": "Предоставление развлечений или удовольствия.",
+        "descriptionDE": "Bietet Unterhaltung oder Genuss."
+    }, {
+        "de": "perfekt",
+        "en": "perfect",
+        "ru": "идеальный",
+        "descriptionEN": "Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
+        "descriptionRU": "Обладающий всеми необходимыми или желательными элементами, качествами или характеристиками; насколько это возможно хорошо.",
+        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Merkmale aufweisend; so gut wie möglich."
+    }, {
+        "de": "perfektes",
+        "en": "perfect",
+        "ru": "идеальное",
+        "descriptionEN": "Being without fault or defect; flawless.",
+        "descriptionRU": "Безошибочность или дефект; безупречный.",
+        "descriptionDE": "Ohne Fehler oder Defekt; makellos."
+    }, {
+        "de": "prächtig",
+        "en": "magnificent",
+        "ru": "великолепный",
+        "descriptionEN": "Very beautiful and impressive.",
+        "descriptionRU": "Очень красиво и впечатляюще.",
+        "descriptionDE": "Sehr schön und beeindruckend."
+    }
+]
