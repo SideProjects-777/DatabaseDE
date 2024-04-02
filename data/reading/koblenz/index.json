@@ -33,22 +33,6 @@
         "yesNo": "Deutsches_Eck_Erkunden.json"
     }, {
         "name": {
-            "en": "Museum Mystery",
-            "de": "Museumsgeheimnis",
-            "ru": "Тайна музея"
-        },
-        "description": {
-            "en": "Art theft investigation unfolds",
-            "de": "Kunstdiebstahlermittlung entfaltet sich",
-            "ru": "Раскрытие расследования кражи искусства"
-        },
-        "level": "B2",
-        "image": "Museumsgeheimnis.jpg",
-        "file": "Museumsgeheimnis.txt",
-        "words": "Museumsgeheimnis.json",
-        "multi": "Museumsgeheimnis.json"
-    }, {
-        "name": {
             "en": "Ehrenbreitstein Fortress",
             "de": "Festung Ehrenbreitstein",
             "ru": "Крепость Эренбрейтштайн"
@@ -63,6 +47,22 @@
         "file": "Ehrenbreitstein.txt",
         "words": "Ehrenbreitstein.json",
         "multi": "Ehrenbreitstein.json"
+    }, {
+        "name": {
+            "en": "Museum Mystery",
+            "de": "Museumsgeheimnis",
+            "ru": "Тайна музея"
+        },
+        "description": {
+            "en": "Art theft investigation unfolds",
+            "de": "Kunstdiebstahlermittlung entfaltet sich",
+            "ru": "Раскрытие расследования кражи искусства"
+        },
+        "level": "B2",
+        "image": "Museumsgeheimnis.jpg",
+        "file": "Museumsgeheimnis.txt",
+        "words": "Museumsgeheimnis.json",
+        "multi": "Museumsgeheimnis.json"
     }, {
         "name": {
             "en": "Riesling",
