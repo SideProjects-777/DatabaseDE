@@ -1,0 +1,15 @@
+[
+    {
+        "name": {
+            "en":"Hello A1!",
+            "de":"Hallo A1!",
+            "ru":"Привет A1!"
+        },
+        "folder":{
+            "en":"a1/world/en.html",
+            "de":"a1/world/de.html",
+            "ru":"a1/world/ru.html"
+        },
+        "exercise":"a1/world/index.json"
+    }
+]
