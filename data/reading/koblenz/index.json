@@ -6,9 +6,9 @@
             "ru": "Исследование Дойчес Эк"
         },
         "description": {
-            "en": "Curious traveler's unforgettable adventure",
-            "de": "Unvergessliches Abenteuer eines neugierigen Reisenden",
-            "ru": "Незабываемое приключение любопытного путешественника"
+            "en": "Traveler's unforgettable adventure",
+            "de": "Abenteuer eines neugierigen Reisenden",
+            "ru": "Приключение любопытного путешественника"
         },
         "level": "B1",
         "image": "Deutsches_Eck_Erkunden.jpg",
@@ -38,15 +38,15 @@
             "ru": "Крепость Эренбрейтштайн"
         },
         "description": {
-            "en": "Historic fortress in Koblenz",
-            "de": "Historische Festung in Koblenz",
-            "ru": "Историческая крепость в Кобленце"
+            "en": "Historic fortress",
+            "de": "Historische Festung",
+            "ru": "Историческая крепость"
         },
         "level": "B1",
         "image": "Ehrenbreitstein.jpeg",
         "file": "Ehrenbreitstein.txt",
         "words": "Ehrenbreitstein.json",
-        "yesNo": "Ehrenbreitstein.json"
+        "multi": "Ehrenbreitstein.json"
     }, {
         "name": {
             "en": "Riesling",
