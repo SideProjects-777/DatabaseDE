@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "In the restaurant",
+            "de": "Im Restaurant",
+            "ru": "В ресторане"
+        },
+        "description": {
+            "en": "Culinary Experience",
+            "de": "Kulinarische Erfahrung",
+            "ru": "Кулинарный опыт"
+        },
+        "level": "A2",
+        "image": "Restaurant.jpg",
+        "file": "Restaurant.txt",
+        "words": "Restaurant.json",
+        "yesNo": "Restaurant.json"
+    }, {
+        "name": {
             "en": "Exploring two museums",
             "de": "Erkundung zweier Museen",
             "ru": "Исследование двух музеев"

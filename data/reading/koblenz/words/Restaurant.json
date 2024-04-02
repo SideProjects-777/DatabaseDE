@@ -1,0 +1,136 @@
+[
+    {
+        "de": "der Kellner",
+        "en": "waiter",
+        "ru": "официант",
+        "descriptionEN": "A person who serves customers in a restaurant or cafe, often bringing them food and drinks.",
+        "descriptionRU": "Человек, обслуживающий клиентов в ресторане или кафе, часто приносящий им еду и напитки.",
+        "descriptionDE": "Eine Person, die Kunden in einem Restaurant oder Café bedient und ihnen oft Essen und Getränke bringt."
+    }, {
+        "de": "die Reservierung",
+        "en": "reservation",
+        "ru": "бронирование",
+        "descriptionEN": "The action of reserving something, such as a table at a restaurant, a room in a hotel, or a ticket for an event.",
+        "descriptionRU": "Действие по бронированию чего-либо, такого как столик в ресторане, номер в отеле или билет на мероприятие.",
+        "descriptionDE": "Die Handlung, etwas zu reservieren, wie einen Tisch in einem Restaurant, ein Zimmer in einem Hotel oder eine Eintrittskarte für eine Veranstaltung."
+    }, {
+        "de": "das Essen",
+        "en": "food",
+        "ru": "еда",
+        "descriptionEN": "Any nutritious substance that people or animals eat or drink in order to maintain life and growth.",
+        "descriptionRU": "Любое питательное вещество, которое люди или животные едят или пьют, чтобы поддерживать жизнь и рост.",
+        "descriptionDE": "Jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken, um Leben und Wachstum zu erhalten."
+    }, {
+        "de": "der Tisch",
+        "en": "table",
+        "ru": "стол",
+        "descriptionEN": "A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed.",
+        "descriptionRU": "Мебельный предмет с плоской верхней частью и одной или несколькими ногами, обеспечивающий плоскую поверхность, на которую можно помещать предметы.",
+        "descriptionDE": "Ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können."
+    }, {
+        "de": "das Getränk",
+        "en": "drink",
+        "ru": "напиток",
+        "descriptionEN": "A liquid that can be consumed.",
+        "descriptionRU": "Жидкость, которую можно употреблять.",
+        "descriptionDE": "Eine Flüssigkeit, die konsumiert werden kann."
+    }, {
+        "de": "der Wein",
+        "en": "wine",
+        "ru": "вино",
+        "descriptionEN": "An alcoholic drink made from fermented grapes or other fruits.",
+        "descriptionRU": "Алкогольный напиток, изготовленный из ферментированных винограда или других фруктов.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben oder anderen Früchten hergestellt wird."
+    }, {
+        "de": "die Karte",
+        "en": "menu",
+        "ru": "меню",
+        "descriptionEN": "A list of dishes available in a restaurant or meal that can be ordered or served.",
+        "descriptionRU": "Список блюд, доступных в ресторане или на выбор или сервировке.",
+        "descriptionDE": "Eine Liste von Gerichten, die in einem Restaurant erhältlich sind oder bestellt oder serviert werden können."
+    }, {
+        "de": "die Spezialität",
+        "en": "specialty",
+        "ru": "специальность",
+        "descriptionEN": "A particular product or service that a person, business, or region is known for.",
+        "descriptionRU": "Особый продукт или услуга, за которые известен человек, бизнес или регион.",
+        "descriptionDE": "Ein bestimmtes Produkt oder eine Dienstleistung, für die eine Person, ein Unternehmen oder eine Region bekannt ist."
+    }, {
+        "de": "die Empfehlung",
+        "en": "recommendation",
+        "ru": "рекомендация",
+        "descriptionEN": "A suggestion or proposal as to the best course of action, especially one put forward by an authoritative body.",
+        "descriptionRU": "Предложение или предложение о наилучшем способе действий, особенно тот, которое предлагает авторитетное тело.",
+        "descriptionDE": "Ein Vorschlag oder eine Empfehlung für den besten Handlungsweg, insbesondere eine von einer autoritativen Stelle vorgelegte."
+    }, {
+        "de": "die Fahrt",
+        "en": "ride",
+        "ru": "поездка",
+        "descriptionEN": "A journey made in a vehicle, especially a car, boat, or aircraft.",
+        "descriptionRU": "Поездка, совершаемая на транспортном средстве, особенно на автомобиле, лодке или самолете.",
+        "descriptionDE": "Eine Reise, die in einem Fahrzeug, insbesondere einem Auto, Boot oder Flugzeug, unternommen wird."
+    }, {
+        "de": "die Seilbahn",
+        "en": "cable car",
+        "ru": "канатная дорога",
+        "descriptionEN": "A type of cable railway used for mass transit where rail cars are hauled by a continuously moving cable running at a constant speed.",
+        "descriptionRU": "Вид канатной дороги, используемой для массового транспорта, где вагоны тянутся непрерывно движущимся канатом со стабильной скоростью.",
+        "descriptionDE": "Eine Art von Seilbahn, die für den Massentransport verwendet wird, bei dem die Schienenwagen von einem kontinuierlich bewegten Seil mit konstanter Geschwindigkeit gezogen werden."
+    }, {
+        "de": "der Aufenthalt",
+        "en": "stay",
+        "ru": "пребывание",
+        "descriptionEN": "A period of time spent in a place, especially as a temporary resident or a visitor.",
+        "descriptionRU": "Период времени, проведенный в месте, особенно в качестве временного жителя или посетителя.",
+        "descriptionDE": "Eine Zeitspanne, die an einem Ort verbracht wird, insbesondere als vorübergehender Bewohner oder Besucher."
+    }, {
+        "de": "probiert",
+        "en": "try",
+        "ru": "попробовать",
+        "descriptionEN": "To attempt or evaluate something by sampling or experimentation.",
+        "descriptionRU": "Попытаться или оценить что-то путем проб и экспериментов.",
+        "descriptionDE": "Etwas durch Probieren oder Experimentieren versuchen oder bewerten."
+    }, {
+        "de": "empfehlen",
+        "en": "recommend",
+        "ru": "рекомендовать",
+        "descriptionEN": "To suggest that someone or something would be good or suitable for a particular job or purpose, or to suggest that a particular action should be done.",
+        "descriptionRU": "Предложить, что кто-то или что-то было бы хорошим или подходящим для определенной работы или цели, или предложить, что должно быть сделано определенное действие.",
+        "descriptionDE": "Vorschlagen, dass jemand oder etwas für eine bestimmte Aufgabe oder einen bestimmten Zweck gut oder geeignet wäre, oder vorschlagen, dass eine bestimmte Handlung durchgeführt werden sollte."
+    }, {
+        "de": "genießen",
+        "en": "enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "To take pleasure in something.",
+        "descriptionRU": "Получать удовольствие от чего-либо.",
+        "descriptionDE": "Vergnügen an etwas haben."
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "To travel through (an unfamiliar area) in order to learn about it.",
+        "descriptionRU": "Проходить (незнакомую территорию), чтобы узнать о ней.",
+        "descriptionDE": "Durch eine unbekannte Gegend reisen, um mehr darüber zu erfahren."
+    }, {
+        "de": "freundlich",
+        "en": "friendly",
+        "ru": "дружелюбный",
+        "descriptionEN": "Kind and pleasant.",
+        "descriptionRU": "Добрый и приятный.",
+        "descriptionDE": "Freundlich und angenehm."
+    }, {
+        "de": "lokale",
+        "en": "local",
+        "ru": "местный",
+        "descriptionEN": "Belonging or relating to a particular area or neighborhood, typically exclusively so.",
+        "descriptionRU": "Принадлежащий или относящийся к конкретному району или району, обычно исключительно так.",
+        "descriptionDE": "Gehört oder bezieht sich auf einen bestimmten Bereich oder ein bestimmtes Viertel, typischerweise ausschließlich."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "Known about by many people.",
+        "descriptionRU": "Известно многим людям.",
+        "descriptionDE": "Von vielen Menschen bekannt."
+    }
+]

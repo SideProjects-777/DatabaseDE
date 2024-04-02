@@ -1,0 +1,39 @@
+Kellner: Guten Abend, haben Sie reserviert?
+
+Tourist: Nein, ist ein Tisch frei? Ich bin allein.
+
+Kellner: Bitte folgen Sie mir, ich bringe Sie zu Ihrem Tisch.
+
+Tourist: Vielen Dank.
+
+Kellner: Darf ich Ihnen etwas zu trinken bringen?
+
+Tourist: Zuerst die Karte, bitte.
+
+Kellner: Sehr gerne.
+
+Tourist: Entschuldigen Sie bitte.
+
+Kellner: Ja, möchten Sie bestellen?
+
+Tourist: Vielen Dank für die freundliche Begrüßung, können Sie mir lokale Spezialitäten empfehlen?
+
+Kellner: Unser Restaurant ist auf traditionelle deutsche Küche wie Schnitzel und Bratwurst spezialisiert. Aber ich kann Ihnen nur empfehlen, unsere berühmten Kartoffelpuffer zu probieren.
+
+Tourist: Oh, das klingt lecker. Das muss ich unbedingt probieren. Können Sie mir einen guten Wein dazu empfehlen?
+
+Kellner: Für eine klassische deutsche Kombination würde ich einen Riesling empfehlen. Das ist ein erfrischender, leichter Weißwein.
+
+Tourist: Perfekt, ich nehme Ihren Vorschlag an. Vielen Dank für Ihre Hilfe.
+
+Kellner: War mir ein Vergnügen. Genießen Sie Ihr Essen und Ihren Aufenthalt in Koblenz. Wenn Sie weitere Empfehlungen brauchen, zögern Sie nicht zu fragen.
+
+Tourist: Können Sie mir etwas über Koblenz erzählen? Ich bin erst heute angekommen und hatte noch nicht viel Zeit, die Stadt zu erkunden.
+
+Kellner: Aber natürlich! Wenn Sie einen tollen Blick über die Stadt haben möchten, empfehle ich Ihnen einen Besuch auf der Festung Ehrenbreitstein. Die ist nur eine kurze Fahrt mit der Seilbahn entfernt.
+
+Tourist: Das klingt wunderbar. Das werde ich mir während meines Aufenthaltes auf jeden Fall anschauen. Vielen Dank für die Empfehlung!
+
+Kellner: Gern geschehen. Ihr Essen ist gleich fertig. Wenn Sie noch etwas brauchen oder weitere Fragen zu Koblenz haben, zögern Sie bitte nicht zu fragen.
+
+Tourist: Vielen Dank für Ihre Hilfe. Ich freue mich schon darauf, mein Essen zu genießen und mehr von dieser schönen Stadt zu sehen.
