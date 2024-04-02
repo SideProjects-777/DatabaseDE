@@ -1,0 +1,185 @@
+[
+    {
+        "de": "die Festung",
+        "en": "fortress",
+        "ru": "крепость",
+        "descriptionEN": "a military stronghold, often large and fortified",
+        "descriptionRU": "военная крепость, часто большая и укрепленная",
+        "descriptionDE": "eine militärische Festung, oft groß und befestigt"
+    }, {
+        "de": "das Wahrzeichen",
+        "en": "landmark",
+        "ru": "ориентир",
+        "descriptionEN": "a recognizable feature or object used to identify a location",
+        "descriptionRU": "узнаваемая черта или объект, используемый для определения местоположения",
+        "descriptionDE": "ein erkennbares Merkmal oder Objekt, das zur Identifizierung eines Ortes verwendet wird"
+    }, {
+        "de": "der Blick",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "what can be seen from a particular place or position",
+        "descriptionRU": "то, что можно увидеть с определенного места или позиции",
+        "descriptionDE": "was von einem bestimmten Ort oder einer bestimmten Position aus gesehen werden kann"
+    }, {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "a large natural stream of water flowing in a channel to the sea, a lake, or another river",
+        "descriptionRU": "большой естественный поток воды, течущий по каналу к морю, озеру или другой реке",
+        "descriptionDE": "ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt"
+    }, {
+        "de": "die Ausstellung",
+        "en": "exhibition",
+        "ru": "выставка",
+        "descriptionEN": "a public display of works of art or items of interest, held in an art gallery or museum or at a trade fair",
+        "descriptionRU": "публичное представление произведений искусства или предметов интереса, проводимое в художественной галерее, музее или на ярмарке",
+        "descriptionDE": "eine öffentliche Ausstellung von Kunstwerken oder interessanten Gegenständen, die in einer Kunstgalerie oder einem Museum oder auf einer Messe stattfindet"
+    }, {
+        "de": "die Darstellung",
+        "en": "representation",
+        "ru": "представление",
+        "descriptionEN": "the action of showing something for others to see",
+        "descriptionRU": "действие показать что-то для других, чтобы увидеть",
+        "descriptionDE": "die Handlung, etwas zu zeigen, damit andere es sehen können"
+    }, {
+        "de": "die Attraktion",
+        "en": "attraction",
+        "ru": "аттракцион",
+        "descriptionEN": "a thing or place that draws visitors by providing something of interest or pleasure",
+        "descriptionRU": "вещь или место, которое привлекает посетителей, предоставляя что-то интересное или приятное",
+        "descriptionDE": "eine Sache oder ein Ort, der Besucher anzieht, indem er etwas Interessantes oder Angenehmes bietet"
+    }, {
+        "de": "tropisch",
+        "en": "tropical",
+        "ru": "тропический",
+        "descriptionEN": "of, typical of, or peculiar to the tropics",
+        "descriptionRU": "характерный для тропиков",
+        "descriptionDE": "typisch für oder eigenartig für die Tropen"
+    }, {
+        "de": "bunt",
+        "en": "colorful",
+        "ru": "разноцветный",
+        "descriptionEN": "having much or varied color; bright and striking",
+        "descriptionRU": "имеющий много или разнообразный цвет; яркий и выразительный",
+        "descriptionDE": "viel oder vielfältige Farben haben; hell und auffällig"
+    }, {
+        "de": "lehrreich",
+        "en": "instructive",
+        "ru": "поучительный",
+        "descriptionEN": "providing knowledge or information; educational",
+        "descriptionRU": "предоставление знаний или информации; образовательный",
+        "descriptionDE": "Bereitstellung von Wissen oder Informationen; bildend"
+    }, {
+        "de": "interaktiv",
+        "en": "interactive",
+        "ru": "интерактивный",
+        "descriptionEN": "involving communication between two or more parties",
+        "descriptionRU": "включающий общение между двумя или более сторонами",
+        "descriptionDE": "involviert Kommunikation zwischen zwei oder mehr Parteien"
+    }, {
+        "de": "majestätisch",
+        "en": "majestic",
+        "ru": "величественный",
+        "descriptionEN": "having or showing impressive beauty or dignity",
+        "descriptionRU": "имеющий впечатляющую красоту или достоинство",
+        "descriptionDE": "eindrucksvolle Schönheit oder Würde zeigen"
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
+        "descriptionRU": "понравившийся, восхищенный или наслажденный многими людьми или конкретным человеком или группой",
+        "descriptionDE": "von vielen Menschen oder einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+    }, {
+        "de": "landschaftlich",
+        "en": "scenic",
+        "ru": "живописный",
+        "descriptionEN": "having beautiful scenery; picturesque",
+        "descriptionRU": "имеющий красивые пейзажи; живописный",
+        "descriptionDE": "eine schöne Landschaft haben; malerisch"
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "of or concerning history; concerning past events",
+        "descriptionRU": "касающийся истории; касающийся прошлых событий",
+        "descriptionDE": "von oder betreffend Geschichte; betreffend vergangene Ereignisse"
+    }, {
+        "de": "klein",
+        "en": "small",
+        "ru": "маленький",
+        "descriptionEN": "of a size that is less than normal or usual",
+        "descriptionRU": "размером меньше обычного или обычного",
+        "descriptionDE": "von einer Größe, die kleiner als normal oder üblich ist"
+    }, {
+        "de": "wunderschön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically",
+        "descriptionRU": "удовлетворяющий чувства или ум эстетически",
+        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend"
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
+        "descriptionRU": "понравившийся, восхищенный или наслажденный многими людьми или конкретным человеком или группой",
+        "descriptionDE": "von vielen Menschen oder einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+    }, {
+        "de": "prächtig",
+        "en": "splendid",
+        "ru": "великолепный",
+        "descriptionEN": "magnificent; very impressive",
+        "descriptionRU": "великолепный; очень впечатляющий",
+        "descriptionDE": "prachtvoll; sehr beeindruckend"
+    }, {
+        "de": "pulsierend",
+        "en": "vibrant",
+        "ru": "живой",
+        "descriptionEN": "full of energy and activity",
+        "descriptionRU": "полный энергии и активности",
+        "descriptionDE": "voll von Energie und Aktivität"
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically",
+        "descriptionRU": "удовлетворяющий чувства или ум эстетически",
+        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend"
+    }, {
+        "de": "ideal",
+        "en": "ideal",
+        "ru": "идеальный",
+        "descriptionEN": "satisfying one's conception of what is perfect; most suitable",
+        "descriptionRU": "удовлетворение своего представления о том, что совершенно; наиболее подходящий",
+        "descriptionDE": "die Vorstellung dessen, was perfekt ist, befriedigend; am besten geeignet"
+    }, {
+        "de": "vielfältig",
+        "en": "diverse",
+        "ru": "разнообразный",
+        "descriptionEN": "showing a great deal of variety; very different",
+        "descriptionRU": "показывающий большое разнообразие; очень разный",
+        "descriptionDE": "zeigt eine große Vielfalt; sehr unterschiedlich"
+    }, {
+        "de": "wunderbar",
+        "en": "wonderful",
+        "ru": "замечательный",
+        "descriptionEN": "inspiring delight, pleasure, or admiration; extremely good; marvellous",
+        "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; крайне хороший; чудесный",
+        "descriptionDE": "inspiriert Freude, Vergnügen oder Bewunderung; extrem gut; wunderbar"
+    }, {
+        "de": "sicher",
+        "en": "safe",
+        "ru": "безопасный",
+        "descriptionEN": "protected from or not exposed to danger or risk; not likely to be harmed or lost",
+        "descriptionRU": "защищен от опасности или не подвергается риску; маловероятно, что он будет поврежден или потерян",
+        "descriptionDE": "vor Gefahr oder Risiko geschützt; nicht wahrscheinlich, dass er Schaden nimmt oder verloren geht"
+    }, {
+        "de": "unterhaltsam",
+        "en": "entertaining",
+        "ru": "развлекательный",
+        "descriptionEN": "providing amusement or enjoyment",
+        "descriptionRU": "обеспечение развлечения или удовольствия",
+        "descriptionDE": "bietet Unterhaltung oder Genuss"
+    }
+]

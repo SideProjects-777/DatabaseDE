@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Festung Ehrenbreitstein ist die größte erhaltene Festungsanlage Europas.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Festung Ehrenbreitstein bietet einen Blick über die Stadt und das Umland.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Schmetterlingsgarten befindet sich im Kurfürstlichen Schloss.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Schmetterlingsgarten in Koblenz beherbergt Vögel und exotische Pflanzen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Im Zoo Neuwied können Kinder Elefanten, Löwen und Giraffen aus der Ferne betrachten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Zoo Neuwied bietet keinen Streichelzoo für Kinder.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Eine Fahrt mit der Seilbahn auf die Festung Ehrenbreitstein ist keine Attraktion für Familien.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Zoo Neuwied verfügt über einen Spielplatz und einen Picknickplatz.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Deutsche Eck ist der Zusammenfluss von Rhein und Donau.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Zoo Neuwied beherbergt weniger als 100 Tierarten.",
+        "tr": false,
+        "fle": true
+    }
+]
