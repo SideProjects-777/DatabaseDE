@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Exploring two museums",
+            "de": "Erkundung zweier Museen",
+            "ru": "Исследование двух музеев"
+        },
+        "description": {
+            "en": "Wehrtechnisches vs Deutsche Bahn",
+            "de": "Wehrtechnisches vs Deutsche Bahn",
+            "ru": "Военно-технический против Дойче Бан"
+        },
+        "level": "B1",
+        "image": "Wehrtechnisches.jpg",
+        "file": "Wehrtechnisches.txt",
+        "words": "Wehrtechnisches.json",
+        "yesNo": "Wehrtechnisches.json"
+    }, {
+        "name": {
             "en": "Exploring Deutsches Eck",
             "de": "Erkundung von Deutsches Eck",
             "ru": "Исследование Дойчес Эк"

@@ -1,0 +1,136 @@
+[
+    {
+        "de": "das Museum",
+        "en": "museum",
+        "ru": "музей",
+        "descriptionEN": "a building or place where works of art, scientific specimens, or other objects of permanent value are kept and displayed.",
+        "descriptionRU": "здание или место, где хранятся и выставляются произведения искусства, научные экспонаты или другие объекты постоянной ценности.",
+        "descriptionDE": "Ein Gebäude oder Ort, an dem Kunstwerke, wissenschaftliche Exemplare oder andere Objekte von bleibendem Wert aufbewahrt und ausgestellt werden."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large town.",
+        "descriptionRU": "большой город.",
+        "descriptionDE": "Eine große Stadt."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs.",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "Die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "die Sammlung",
+        "en": "collection",
+        "ru": "коллекция",
+        "descriptionEN": "a group of objects or works to be seen, studied, or kept together.",
+        "descriptionRU": "группа объектов или работ, которые можно увидеть, изучить или хранить вместе.",
+        "descriptionDE": "Eine Gruppe von Objekten oder Werken, die zusammen gesehen, studiert oder aufbewahrt werden sollen."
+    }, {
+        "de": "die Entwicklung",
+        "en": "development",
+        "ru": "развитие",
+        "descriptionEN": "the process of developing or being developed.",
+        "descriptionRU": "процесс развития или развития.",
+        "descriptionDE": "Der Prozess der Entwicklung oder des Entwickelns."
+    }, {
+        "de": "die Panzer",
+        "en": "tanks",
+        "ru": "танки",
+        "descriptionEN": "a heavily armoured fighting vehicle carrying guns and moving on a continuous articulated metal track.",
+        "descriptionRU": "тяжело бронированное боевое транспортное средство с пушками и передвигающееся по непрерывному суставному металлическому рельсу.",
+        "descriptionDE": "Ein schwer gepanzertes Kampffahrzeug mit Waffen, das sich auf einer kontinuierlichen Gelenkmetallspur bewegt."
+    }, {
+        "de": "die Lokomotive",
+        "en": "locomotive",
+        "ru": "локомотив",
+        "descriptionEN": "a powered rail vehicle used for pulling trains.",
+        "descriptionRU": "тяговое железнодорожное транспортное средство, используемое для тяги поездов.",
+        "descriptionDE": "Ein motorisiertes Schienenfahrzeug, das zum Ziehen von Zügen verwendet wird."
+    }, {
+        "de": "die Erfahrung",
+        "en": "experience",
+        "ru": "опыт",
+        "descriptionEN": "practical contact with and observation of facts or events.",
+        "descriptionRU": "совокупность практически усвоенных знаний, навыков, умения.",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+    }, {
+        "de": "die Vorliebe",
+        "en": "preference",
+        "ru": "предпочтение",
+        "descriptionEN": "a greater liking for one alternative over another or others.",
+        "descriptionRU": "большее предпочтение одной альтернативы перед другой или другими.",
+        "descriptionDE": "Eine größere Vorliebe für eine Alternative gegenüber einer anderen oder anderen."
+    }, {
+        "de": "die Perspektive",
+        "en": "perspective",
+        "ru": "перспектива",
+        "descriptionEN": "a particular attitude towards or way of regarding something; a point of view.",
+        "descriptionRU": "особое отношение к чему-либо или способ восприятия; точка зрения.",
+        "descriptionDE": "Eine bestimmte Einstellung zu oder Art und Weise, etwas zu betrachten; ein Standpunkt."
+    }, {
+        "de": "beeindruckend",
+        "en": "impressive",
+        "ru": "впечатляющий",
+        "descriptionEN": "evoking admiration through size, quality, or skill.",
+        "descriptionRU": "вызывающий восхищение размером, качеством или мастерством.",
+        "descriptionDE": "Beeindruckend durch Größe, Qualität oder Geschick."
+    }, {
+        "de": "interaktiv",
+        "en": "interactive",
+        "ru": "интерактивный",
+        "descriptionEN": "involving the actions or input of a user.",
+        "descriptionRU": "с участием действий или ввода пользователя.",
+        "descriptionDE": "Involvierend die Handlungen oder Eingaben eines Benutzers."
+    }, {
+        "de": "charmante",
+        "en": "charming",
+        "ru": "очаровательный",
+        "descriptionEN": "very pleasant or attractive.",
+        "descriptionRU": "очень приятный или привлекательный.",
+        "descriptionDE": "Sehr angenehm oder attraktiv."
+    }, {
+        "de": "modernen",
+        "en": "modern",
+        "ru": "современный",
+        "descriptionEN": "relating to the present or recent times as opposed to the remote past.",
+        "descriptionRU": "относящийся к настоящему или недавнему времени, в отличие от отдаленного прошлого.",
+        "descriptionDE": "Bezieht sich auf die Gegenwart oder die jüngste Vergangenheit im Gegensatz zur fernen Vergangenheit."
+    }, {
+        "de": "einzigartige",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind; unlike anything else.",
+        "descriptionRU": "будучи единственным в своем роде; ни на что не похоже.",
+        "descriptionDE": "Einzigartig, weil es das einzige seiner Art ist; anders als alles andere."
+    }, {
+        "de": "faszinierenden",
+        "en": "fascinating",
+        "ru": "захватывающий",
+        "descriptionEN": "extremely interesting.",
+        "descriptionRU": "чрезвычайно интересный.",
+        "descriptionDE": "Äußerst interessant."
+    }, {
+        "de": "unterschiedliches",
+        "en": "different",
+        "ru": "разный",
+        "descriptionEN": "not the same as another or each other; unlike in nature, form, or quality.",
+        "descriptionRU": "не такой же, как другой или другой; в отличие по природе, форме или качеству.",
+        "descriptionDE": "Nicht dasselbe wie ein anderes oder einander; anders in Natur, Form oder Qualität."
+    }, {
+        "de": "lustige",
+        "en": "funny",
+        "ru": "смешной",
+        "descriptionEN": "causing laughter or amusement; humorous.",
+        "descriptionRU": "вызывающий смех или развлечение; юмористический.",
+        "descriptionDE": "Verursacht Lachen oder Amüsement; humorvoll."
+    }, {
+        "de": "herausfordernde",
+        "en": "challenging",
+        "ru": "трудный",
+        "descriptionEN": "testing one's abilities; demanding.",
+        "descriptionRU": "тестирует способности; требовательный.",
+        "descriptionDE": "Testet die Fähigkeiten; anspruchsvoll."
+    }
+]

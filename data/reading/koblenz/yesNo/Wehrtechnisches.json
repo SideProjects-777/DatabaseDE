@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Das Wehrtechnische Museum befindet sich in einem modernen Gebäude.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Deutsche Eisenbahnmuseum bietet einen interaktiven Ansatz für Besucher.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Im Wehrtechnischen Museum können Besucher historische Züge fahren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Wehrtechnische Museum präsentiert eine Vielfalt von Eisenbahnen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Deutsche Eisenbahnmuseum zeigt die Entwicklung des deutschen Eisenbahnsystems.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Besuch des Deutschen Eisenbahnmuseums bietet die Möglichkeit, sich als Soldat im Zweiten Weltkrieg zu fühlen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Im Deutschen Eisenbahnmuseum gibt es eine Nachbildung eines Bahnhofs aus dem 19. Jahrhundert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Wehrtechnische Museum in Koblenz ist ein Symbol für die moderne Architektur der Stadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Deutsche Eisenbahnmuseum bietet eine Sammlung von Militärfahrzeugen und Waffen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Besuch des Wehrtechnischen Museums bietet die Möglichkeit, mit einer historischen Dampflokomotive zu fahren.",
+        "tr": true,
+        "fle": false
+    }
+]
