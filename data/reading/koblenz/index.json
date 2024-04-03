@@ -17,6 +17,22 @@
         "yesNo": "Restaurant.json"
     }, {
         "name": {
+            "en": "My city",
+            "de": "Meine Stadt",
+            "ru": "Мой город"
+        },
+        "description": {
+            "en": "Lukas Müller's Story",
+            "de": "Die Geschichte von Lukas Müller",
+            "ru": "История Лукаса Мюллера"
+        },
+        "level": "A2",
+        "image": "Lukas.jpg",
+        "file": "Lukas.txt",
+        "words": "Lukas.json",
+        "multi": "Lukas.json"
+    }, {
+        "name": {
             "en": "Exploring two museums",
             "de": "Erkundung zweier Museen",
             "ru": "Исследование двух музеев"
