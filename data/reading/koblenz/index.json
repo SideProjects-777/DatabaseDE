@@ -30,7 +30,7 @@
         "image": "Restaurant.jpg",
         "file": "Restaurant.txt",
         "words": "Restaurant.json",
-        "yesNo": "Restaurant.json"
+        "multi": "Restaurant.json"
     }, {
         "name": {
             "en": "Beer Buddies",

@@ -46,7 +46,7 @@
         "image": "Liebesgeschichte.jpg",
         "file": "Liebesgeschichte.mp3",
         "words": "Liebesgeschichte.json",
-        "yesNo": "Liebesgeschichte.json"
+        "multi": "Liebesgeschichte.json"
     }, {
         "name": {
             "en": "Riesling Adventure",
