@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Wie alt ist Adrian Stubbe?",
+        "answers": [
+            {
+                "text": "25 Jahre alt",
+                "correct": true
+            }, {
+                "text": "27 Jahre alt",
+                "correct": false
+            }, {
+                "text": "23 Jahre alt",
+                "correct": false
+            }, {
+                "text": "28 Jahre alt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo wohnt Adrian Stubbe?",
+        "answers": [
+            {
+                "text": "In Bonn",
+                "correct": false
+            }, {
+                "text": "In Koblenz",
+                "correct": true
+            }, {
+                "text": "In München",
+                "correct": false
+            }, {
+                "text": "In Berlin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sind Adrians Hobbys?",
+        "answers": [
+            {
+                "text": "Kochen und Wandern",
+                "correct": false
+            }, {
+                "text": "Gitarre spielen und Joggen",
+                "correct": false
+            }, {
+                "text": "Lesen und Malen",
+                "correct": false
+            }, {
+                "text": "Fotografieren und Wandern",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was macht Hubert Klein beruflich?",
+        "answers": [
+            {
+                "text": "Lehrer",
+                "correct": false
+            }, {
+                "text": "Rechtsanwalt",
+                "correct": false
+            }, {
+                "text": "Finanzberater",
+                "correct": true
+            }, {
+                "text": "Architekt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Instrument spielt Hubert Klein?",
+        "answers": [
+            {
+                "text": "Klavier",
+                "correct": false
+            }, {
+                "text": "Geige",
+                "correct": false
+            }, {
+                "text": "Gitarre",
+                "correct": true
+            }, {
+                "text": "Trompete",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sind Markus Harts Hobbys?",
+        "answers": [
+            {
+                "text": "Radtouren und Kochen",
+                "correct": true
+            }, {
+                "text": "Lesen und Radtouren",
+                "correct": false
+            }, {
+                "text": "Wandern und Fotografieren",
+                "correct": false
+            }, {
+                "text": "Gitarre spielen und Malen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo haben sich Adrian, Hubert und Markus kennen gelernt?",
+        "answers": [
+            {
+                "text": "In München",
+                "correct": false
+            }, {
+                "text": "An einer Kneipe",
+                "correct": false
+            }, {
+                "text": "An der Universität in Koblenz",
+                "correct": true
+            }, {
+                "text": "Bei der Arbeit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was verband Adrian, Hubert und Markus während ihres Studiums?",
+        "answers": [
+            {
+                "text": "Eine gemeinsame Wohnung",
+                "correct": false
+            }, {
+                "text": "Eine lockere Lebenseinstellung und die Leidenschaft für Technik",
+                "correct": true
+            }, {
+                "text": "Eine gemeinsame Liebe fürs Kochen",
+                "correct": false
+            }, {
+                "text": "Ein gemeinsamer Sportverein",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war ein fester Bestandteil der Woche von Adrian, Hubert und Markus?",
+        "answers": [
+            {
+                "text": "Das gemeinsame Kochen",
+                "correct": false
+            }, {
+                "text": "Die gemeinsamen Radtouren",
+                "correct": false
+            }, {
+                "text": "Das Lesen von Romanen",
+                "correct": false
+            }, {
+                "text": "Die regelmäßigen Treffen in einer kleinen Kneipe",
+                "correct": true
+            }
+        ]
+    }
+]

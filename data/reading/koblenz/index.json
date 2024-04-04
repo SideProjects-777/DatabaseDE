@@ -17,6 +17,22 @@
         "yesNo": "Restaurant.json"
     }, {
         "name": {
+            "en": "Beer Buddies",
+            "de": "Bierfreunde",
+            "ru": "Пивные друзья"
+        },
+        "description": {
+            "en": "Three Friends",
+            "de": "Drei Freunde",
+            "ru": "Три друга"
+        },
+        "level": "A2",
+        "image": "Bierfreunde.jpg",
+        "file": "Bierfreunde.txt",
+        "words": "Bierfreunde.json",
+        "multi": "Bierfreunde.json"
+    }, {
+        "name": {
             "en": "My city",
             "de": "Meine Stadt",
             "ru": "Мой город"
