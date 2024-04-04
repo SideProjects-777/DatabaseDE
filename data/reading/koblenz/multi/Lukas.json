@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo befindet sich Lukas' Wohnung?",
+        "answers": [
+            {
+                "text": "In der Altstadt",
+                "correct": false
+            }, {
+                "text": "Am Stadtrand von Koblenz",
+                "correct": false
+            }, {
+                "text": "In der Nähe des Deutschen Ecks",
+                "correct": true
+            }, {
+                "text": "In der Innenstadt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Lukas' Beruf?",
+        "answers": [
+            {
+                "text": "Historiker",
+                "correct": false
+            }, {
+                "text": "Architekt",
+                "correct": true
+            }, {
+                "text": "Weinbauer",
+                "correct": false
+            }, {
+                "text": "Künstler",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was macht Lukas in seiner Freizeit?",
+        "answers": [
+            {
+                "text": "In Museen arbeiten",
+                "correct": false
+            }, {
+                "text": "Am Rheinufer spazieren gehen",
+                "correct": false
+            }, {
+                "text": "Die umliegende Landschaft erkunden",
+                "correct": true
+            }, {
+                "text": "Einkaufen in der Innenstadt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was inspiriert Lukas in seiner Arbeit?",
+        "answers": [
+            {
+                "text": "Die moderne Technologie",
+                "correct": false
+            }, {
+                "text": "Die politische Lage",
+                "correct": false
+            }, {
+                "text": "Die Vielfalt der Architekturstile in Koblenz",
+                "correct": true
+            }, {
+                "text": "Die Kunstszene",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bewundert Lukas in der Altstadt?",
+        "answers": [
+            {
+                "text": "Die historischen Gebäude",
+                "correct": true
+            }, {
+                "text": "Die modernen Geschäfte",
+                "correct": false
+            }, {
+                "text": "Die Restaurants",
+                "correct": false
+            }, {
+                "text": "Die Parks",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das Deutsche Eck?",
+        "answers": [
+            {
+                "text": "Ein traditionelles deutsches Gericht",
+                "correct": false
+            }, {
+                "text": "Ein Denkmal",
+                "correct": false
+            }, {
+                "text": "Ein Fluss",
+                "correct": false
+            }, {
+                "text": "Ein Ort in Koblenz",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was macht Koblenz einzigartig?",
+        "answers": [
+            {
+                "text": "Die historischen Sehenswürdigkeiten",
+                "correct": false
+            }, {
+                "text": "Die Vielfalt der Architekturstile",
+                "correct": false
+            }, {
+                "text": "Die malerischen Landschaften",
+                "correct": false
+            }, {
+                "text": "Die Kombination aus Architektur und Geschichte",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was liebt Lukas zu erkunden?",
+        "answers": [
+            {
+                "text": "Die umliegende Landschaft",
+                "correct": true
+            }, {
+                "text": "Die Stadtparks",
+                "correct": false
+            }, {
+                "text": "Die historischen Gebäude",
+                "correct": false
+            }, {
+                "text": "Die Einkaufszentren",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Koblenz für Lukas?",
+        "answers": [
+            {
+                "text": "Ein Ort zum Ausruhen",
+                "correct": false
+            }, {
+                "text": "Ein Ort der Langeweile",
+                "correct": false
+            }, {
+                "text": "Eine Herausforderung",
+                "correct": false
+            }, {
+                "text": "Eine Quelle ständiger Inspiration",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wofür ist Lukas stolz?",
+        "answers": [
+            {
+                "text": "Seine architektonischen Entwürfe",
+                "correct": false
+            }, {
+                "text": "Seine Reisen",
+                "correct": false
+            }, {
+                "text": "Ein Koblenzer zu sein",
+                "correct": true
+            }, {
+                "text": "Seine Familie",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "de": "der Architekt",
+        "en": "architect",
+        "ru": "архитектор",
+        "descriptionEN": "a person who designs buildings and in many cases also supervises their construction",
+        "descriptionRU": "человек, который проектирует здания и во многих случаях также контролирует их строительство",
+        "descriptionDE": "eine Person, die Gebäude entwirft und in vielen Fällen auch deren Bau überwacht"
+    }, {
+        "de": "das Büro",
+        "en": "office",
+        "ru": "офис",
+        "descriptionEN": "a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work",
+        "descriptionRU": "комната, набор комнат или здание, используемое как место для коммерческой, профессиональной или бюрократической работы",
+        "descriptionDE": "ein Raum, eine Reihe von Räumen oder ein Gebäude, das als Ort für kommerzielle, berufliche oder bürokratische Arbeit genutzt wird"
+    }, {
+        "de": "die Wohnung",
+        "en": "apartment",
+        "ru": "квартира",
+        "descriptionEN": "a set of rooms for living in, typically on one floor of a building",
+        "descriptionRU": "набор комнат для проживания, обычно на одном этаже здания",
+        "descriptionDE": "ein Satz von Räumen zum Wohnen, normalerweise auf einer Etage eines Gebäudes"
+    }, {
+        "de": "der Blick",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "the ability to see or the range of sight",
+        "descriptionRU": "способность видеть или диапазон зрения",
+        "descriptionDE": "die Fähigkeit zu sehen oder das Sichtfeld"
+    }, {
+        "de": "der Rhein",
+        "en": "Rhine",
+        "ru": "Рейн",
+        "descriptionEN": "a European river that flows through Switzerland, Germany, and the Netherlands, and empties into the North Sea",
+        "descriptionRU": "европейская река, протекающая через Швейцарию, Германию и Нидерланды, и впадает в Северное море",
+        "descriptionDE": "ein europäischer Fluss, der durch die Schweiz, Deutschland und die Niederlande fließt und in die Nordsee mündet"
+    }, {
+        "de": "die Leidenschaft",
+        "en": "passion",
+        "ru": "страсть",
+        "descriptionEN": "a strong and barely controllable emotion",
+        "descriptionRU": "сильное и едва контролируемое эмоциональное состояние",
+        "descriptionDE": "eine starke und kaum kontrollierbare Emotion"
+    }, {
+        "de": "die Inspiration",
+        "en": "inspiration",
+        "ru": "вдохновение",
+        "descriptionEN": "the process of being mentally stimulated to do or feel something, especially to do something creative",
+        "descriptionRU": "процесс психологического стимулирования для того, чтобы сделать или почувствовать что-то, особенно сделать что-то творческое",
+        "descriptionDE": "der Prozess, mental angeregt zu werden, um etwas zu tun oder zu fühlen, besonders etwas Kreatives zu tun"
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "a range of different things",
+        "descriptionRU": "разнообразие различных вещей",
+        "descriptionDE": "eine Vielzahl verschiedener Dinge"
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах",
+        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten"
+    }, {
+        "de": "die Freizeit",
+        "en": "leisure",
+        "ru": "досуг",
+        "descriptionEN": "time when one is not working or occupied; free time",
+        "descriptionRU": "время, когда человек не работает или занят; свободное время",
+        "descriptionDE": "Zeit, in der man nicht arbeitet oder beschäftigt ist; Freizeit"
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal",
+        "descriptionRU": "все видимые особенности местности или земли, часто рассматриваемые с точки зрения их эстетической привлекательности",
+        "descriptionDE": "alle sichtbaren Merkmale eines Gebiets auf dem Land, oft im Hinblick auf ihre ästhetische Anziehungskraft betrachtet"
+    }, {
+        "de": "die Heimatstadt",
+        "en": "hometown",
+        "ru": "родной город",
+        "descriptionEN": "the town or city where one grew up, or the place considered to be the center of one's affections",
+        "descriptionRU": "город или город, где человек вырос, или место, считающееся центром его привязанностей",
+        "descriptionDE": "die Stadt, in der man aufgewachsen ist, oder der Ort, der als Zentrum seiner Zuneigung angesehen wird"
+    }, {
+        "de": "die Umgebung",
+        "en": "surroundings",
+        "ru": "окружение",
+        "descriptionEN": "the area around a place or thing, especially as distinct from the immediate surroundings",
+        "descriptionRU": "область вокруг места или вещи, особенно отличающаяся от непосредственного окружения",
+        "descriptionDE": "der Bereich um einen Ort oder eine Sache, insbesondere im Unterschied zur unmittelbaren Umgebung"
+    }, {
+        "de": "gemütlich",
+        "en": "cozy",
+        "ru": "уютный",
+        "descriptionEN": "giving a feeling of comfort, warmth, and relaxation",
+        "descriptionRU": "дающий ощущение комфорта, тепла и расслабления",
+        "descriptionDE": "ein Gefühl von Komfort, Wärme und Entspannung vermittelnd"
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "relating to the Middle Ages, the period in European history from about the 5th century to the late 15th century",
+        "descriptionRU": "относящийся к Средневековью, период в европейской истории примерно с V века до конца XV века",
+        "descriptionDE": "bezogen auf das Mittelalter, die Zeit in der europäischen Geschichte von etwa dem 5. Jahrhundert bis zum späten 15. Jahrhundert"
+    }, {
+        "de": "malenrisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or pretty style",
+        "descriptionRU": "визуально привлекательный, особенно в уютном или красивом стиле",
+        "descriptionDE": "visuell ansprechend, insbesondere in einem malerischen oder hübschen Stil"
+    }, {
+        "de": "renommiert",
+        "en": "renowned",
+        "ru": "известный",
+        "descriptionEN": "known or talked about by many people; famous",
+        "descriptionRU": "известный или говорившийся многими людьми; знаменитый",
+        "descriptionDE": "von vielen Menschen bekannt oder erwähnt; berühmt"
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind; unlike anything else",
+        "descriptionRU": "будучи единственным в своем роде; ни на что не похоже",
+        "descriptionDE": "der einzige seiner Art; anders als alles andere"
+    }, {
+        "de": "malerisch",
+        "en": "scenic",
+        "ru": "живописный",
+        "descriptionEN": "visually beautiful or picturesque",
+        "descriptionRU": "визуально красивый или живописный",
+        "descriptionDE": "visuell schön oder malerisch"
+    }, {
+        "de": "pikant",
+        "en": "spicy",
+        "ru": "пикантный",
+        "descriptionEN": "having a pleasantly sharp taste or appetizing flavor",
+        "descriptionRU": "имеющий приятный острый вкус или аппетитный вкус",
+        "descriptionDE": "einen angenehm scharfen Geschmack oder einen appetitlichen Geschmack haben"
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий дух",
+        "descriptionEN": "extremely impressive or beautiful",
+        "descriptionRU": "чрезвычайно впечатляющий или красивый",
+        "descriptionDE": "äußerst beeindruckend oder schön"
+    }, {
+        "de": "stolz",
+        "en": "proud",
+        "ru": "гордый",
+        "descriptionEN": "feeling deep pleasure or satisfaction as a result of one's own achievements, qualities, or possessions or those of someone with whom one is closely associated",
+        "descriptionRU": "чувство глубокого удовлетворения или гордости в результате собственных достижений, качеств или владений или тех, с кем человек тесно связан",
+        "descriptionDE": "tiefe Freude oder Zufriedenheit empfindend als Ergebnis eigener Leistungen, Qualitäten oder Besitztümer oder solcher, mit denen man eng verbunden ist"
+    }, {
+        "de": "einzig",
+        "en": "sole",
+        "ru": "единственный",
+        "descriptionEN": "being the only one; single and isolated",
+        "descriptionRU": "будучи единственным; одиночный и изолированный",
+        "descriptionDE": "der einzige; einzeln und isoliert"
+    }, {
+        "de": "ständig",
+        "en": "constant",
+        "ru": "постоянный",
+        "descriptionEN": "occurring continuously over a period of time",
+        "descriptionRU": "происходящий непрерывно в течение какого-то времени",
+        "descriptionDE": "kontinuierlich über einen Zeitraum hinweg auftretend"
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "having a great deal of money or assets; wealthy",
+        "descriptionRU": "имеющий большое количество денег или активов; богатый",
+        "descriptionDE": "viel Geld oder Vermögen besitzend; wohlhabend"
+    }, {
+        "de": "malerisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or pretty style",
+        "descriptionRU": "визуально привлекательный, особенно в уютном или красивом стиле",
+        "descriptionDE": "visuell ansprechend, insbesondere in einem malerischen oder hübschen Stil"
+    }, {
+        "de": "malerisch",
+        "en": "scenic",
+        "ru": "живописный",
+        "descriptionEN": "visually beautiful or picturesque",
+        "descriptionRU": "визуально красивый или живописный",
+        "descriptionDE": "visuell schön oder malerisch"
+    }, {
+        "de": "ständig",
+        "en": "constant",
+        "ru": "постоянный",
+        "descriptionEN": "occurring continuously over a period of time",
+        "descriptionRU": "происходящий непрерывно в течение какого-то времени",
+        "descriptionDE": "kontinuierlich über einen Zeitraum hinweg auftretend"
+    }, {
+        "de": "malenrisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or pretty style",
+        "descriptionRU": "визуально привлекательный, особенно в уютном или красивом стиле",
+        "descriptionDE": "visuell ansprechend, insbesondere in einem malerischen oder hübschen Stil"
+    }, {
+        "de": "stolz",
+        "en": "proud",
+        "ru": "гордый",
+        "descriptionEN": "feeling deep pleasure or satisfaction as a result of one's own achievements, qualities, or possessions or those of someone with whom one is closely associated",
+        "descriptionRU": "чувство глубокого удовлетворения или гордости в результате собственных достижений, качеств или владений или тех, с кем человек тесно связан",
+        "descriptionDE": "tiefe Freude oder Zufriedenheit empfindend als Ergebnis eigener Leistungen, Qualitäten oder Besitztümer oder solcher, mit denen man eng verbunden ist"
+    }, {
+        "de": "einzig",
+        "en": "sole",
+        "ru": "единственный",
+        "descriptionEN": "being the only one; single and isolated",
+        "descriptionRU": "будучи единственным; одиночный и изолированный",
+        "descriptionDE": "der einzige; einzeln und isoliert"
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "having a great deal of money or assets; wealthy",
+        "descriptionRU": "имеющий большое количество денег или активов; богатый",
+        "descriptionDE": "viel Geld oder Vermögen besitzend; wohlhabend"
+    }
+]

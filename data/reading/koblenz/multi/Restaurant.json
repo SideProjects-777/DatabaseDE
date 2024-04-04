@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Was ist das Restaurant auf traditionelle deutsche Küche spezialisiert?",
+        "answers": [
+            {
+                "text": "Pizza und Pasta",
+                "correct": false
+            }, {
+                "text": "Sushi und Tempura",
+                "correct": false
+            }, {
+                "text": "Schnitzel und Bratwurst",
+                "correct": true
+            }, {
+                "text": "Burger und Pommes",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Spezialität des Restaurants möchte der Tourist unbedingt probieren?",
+        "answers": [
+            {
+                "text": "Schnitzel",
+                "correct": false
+            }, {
+                "text": "Kartoffelpuffer",
+                "correct": true
+            }, {
+                "text": "Bratwurst",
+                "correct": false
+            }, {
+                "text": "Gulasch",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo empfiehlt der Kellner dem Touristen hinzugehen, um einen tollen Blick über die Stadt zu haben?",
+        "answers": [
+            {
+                "text": "Rathaus",
+                "correct": false
+            }, {
+                "text": "Einkaufszentrum",
+                "correct": false
+            }, {
+                "text": "Park",
+                "correct": false
+            }, {
+                "text": "Festung Ehrenbreitstein",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was wird dem Touristen als lokale Spezialität empfohlen?",
+        "answers": [
+            {
+                "text": "Pizza",
+                "correct": false
+            }, {
+                "text": "Sushi",
+                "correct": false
+            }, {
+                "text": "Burger",
+                "correct": false
+            }, {
+                "text": "Kartoffelpuffer",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was wird als erfrischender, leichter Weißwein empfohlen?",
+        "answers": [
+            {
+                "text": "Riesling",
+                "correct": true
+            }, {
+                "text": "Chardonnay",
+                "correct": false
+            }, {
+                "text": "Sauvignon Blanc",
+                "correct": false
+            }, {
+                "text": "Pinot Grigio",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist eine traditionelle deutsche Küche?",
+        "answers": [
+            {
+                "text": "Schnitzel",
+                "correct": true
+            }, {
+                "text": "Sushi",
+                "correct": false
+            }, {
+                "text": "Taco",
+                "correct": false
+            }, {
+                "text": "Pad Thai",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird als klassische deutsche Kombination erwähnt?",
+        "answers": [
+            {
+                "text": "Cabernet Sauvignon und Pizza",
+                "correct": false
+            }, {
+                "text": "Merlot und Sushi",
+                "correct": false
+            }, {
+                "text": "Riesling und Kartoffelpuffer",
+                "correct": true
+            }, {
+                "text": "Chardonnay und Burger",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was empfiehlt der Kellner dem Touristen zu bestellen?",
+        "answers": [
+            {
+                "text": "Schnitzel",
+                "correct": false
+            }, {
+                "text": "Riesling",
+                "correct": false
+            }, {
+                "text": "Kartoffelpuffer",
+                "correct": false
+            }, {
+                "text": "Berühmte Kartoffelpuffer",
+                "correct": true
+            }
+        ]
+    }
+]

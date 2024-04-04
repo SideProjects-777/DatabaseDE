@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "en": "Family Fun",
+            "de": "Familien Spaß",
+            "ru": "Семейное развлечение"
+        },
+        "description": {
+            "en": "Fun for all",
+            "de": "Spaß für alle",
+            "ru": "Веселье для всех"
+        },
+        "level": "A2",
+        "image": "Altersgruppen.jpg",
+        "file": "Altersgruppen.mp3",
+        "words": "Altersgruppen.json",
+        "yesNo": "Altersgruppen.json"
+    }
+]

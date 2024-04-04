@@ -1,0 +1,164 @@
+[
+    {
+        "de": "der Ingenieur",
+        "en": "engineer",
+        "ru": "инженер",
+        "descriptionEN": "a person who designs, builds, or maintains engines, machines, or structures.",
+        "descriptionRU": "человек, который проектирует, строит или обслуживает двигатели, машины или конструкции.",
+        "descriptionDE": "Eine Person, die Motoren, Maschinen oder Strukturen entwirft, baut oder instand hält."
+    }, {
+        "de": "die Gelegenheit",
+        "en": "opportunity",
+        "ru": "возможность",
+        "descriptionEN": "a set of circumstances that makes it possible to do something.",
+        "descriptionRU": "совокупность обстоятельств, которые делают возможным совершение чего-либо.",
+        "descriptionDE": "Eine Reihe von Umständen, die es möglich machen, etwas zu tun."
+    }, {
+        "de": "die Rolle",
+        "en": "role",
+        "ru": "роль",
+        "descriptionEN": "the function assumed or part played by a person or thing in a particular situation.",
+        "descriptionRU": "функция, которую принимает или играет человек или вещь в определенной ситуации.",
+        "descriptionDE": "Die Funktion, die eine Person oder Sache in einer bestimmten Situation annimmt oder spielt."
+    }, {
+        "de": "die Aufgabe",
+        "en": "task",
+        "ru": "задача",
+        "descriptionEN": "a piece of work to be done or undertaken.",
+        "descriptionRU": "работа, которую нужно выполнить или предпринять.",
+        "descriptionDE": "Eine Arbeit, die erledigt oder unternommen werden muss."
+    }, {
+        "de": "der Kollege",
+        "en": "colleague",
+        "ru": "коллега",
+        "descriptionEN": "a person with whom one works in the same profession or organization.",
+        "descriptionRU": "человек, с которым работаешь в той же профессии или организации.",
+        "descriptionDE": "Eine Person, mit der man in derselben Profession oder Organisation arbeitet."
+    }, {
+        "de": "die Fabrik",
+        "en": "factory",
+        "ru": "завод",
+        "descriptionEN": "a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+        "descriptionRU": "здание или группа зданий, где товары производятся или собираются в основном машинным способом.",
+        "descriptionDE": "Ein Gebäude oder eine Gruppe von Gebäuden, in denen Waren hauptsächlich maschinell hergestellt oder montiert werden."
+    }, {
+        "de": "das Projekt",
+        "en": "project",
+        "ru": "проект",
+        "descriptionEN": "an individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+        "descriptionRU": "индивидуальное или совместное предприятие, которое тщательно планируется для достижения определенной цели.",
+        "descriptionDE": "Ein individuelles oder gemeinschaftliches Unternehmen, das sorgfältig geplant ist, um ein bestimmtes Ziel zu erreichen."
+    }, {
+        "de": "das Flugzeug",
+        "en": "airplane",
+        "ru": "самолет",
+        "descriptionEN": "a powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+        "descriptionRU": "летательное средство с двигателем с фиксированными крыльями и весом больше, чем вес воздуха, который оно вытесняет.",
+        "descriptionDE": "Ein motorisiertes Flugzeug mit starren Flügeln und einem Gewicht, das größer ist als das des verdrängten Luftvolumens."
+    }, {
+        "de": "die Abwesenheit",
+        "en": "absence",
+        "ru": "отсутствие",
+        "descriptionEN": "the state of being away from a place or person.",
+        "descriptionRU": "состояние отсутствия в определенном месте или от определенного человека.",
+        "descriptionDE": "Der Zustand, nicht an einem Ort oder bei einer Person zu sein."
+    }, {
+        "de": "das Gespräch",
+        "en": "conversation",
+        "ru": "разговор",
+        "descriptionEN": "a talk, especially an informal one, between two or more people, in which news and ideas are exchanged.",
+        "descriptionRU": "беседа, особенно неформальная, между двумя или более людьми, в которой обмениваются новостями и идеями.",
+        "descriptionDE": "Ein Gespräch, insbesondere ein informelles, zwischen zwei oder mehr Personen, bei dem Nachrichten und Ideen ausgetauscht werden."
+    }, {
+        "de": "die Heimatstadt",
+        "en": "hometown",
+        "ru": "родной город",
+        "descriptionEN": "the town or city where a person was born or grew up.",
+        "descriptionRU": "город или населенный пункт, где человек родился или вырос.",
+        "descriptionDE": "Die Stadt, in der eine Person geboren wurde oder aufgewachsen ist."
+    }, {
+        "de": "das Büro",
+        "en": "office",
+        "ru": "офис",
+        "descriptionEN": "a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
+        "descriptionRU": "комната, набор комнат или здание, используемое в качестве места для коммерческой, профессиональной или бюрократической работы.",
+        "descriptionDE": "Ein Raum, eine Reihe von Räumen oder ein Gebäude, das als Ort für kommerzielle, professionelle oder bürokratische Arbeit dient."
+    }, {
+        "de": "die Kommunikation",
+        "en": "communication",
+        "ru": "коммуникация",
+        "descriptionEN": "the imparting or exchanging of information by speaking, writing, or using some other medium.",
+        "descriptionRU": "передача или обмен информацией путем говорения, письма или использования какого-либо другого средства.",
+        "descriptionDE": "Die Vermittlung oder der Austausch von Informationen durch Sprechen, Schreiben oder Verwendung eines anderen Mediums."
+    }, {
+        "de": "arbeiten",
+        "en": "to work",
+        "ru": "работать",
+        "descriptionEN": "to engage in activity for the purpose of earning a living.",
+        "descriptionRU": "заниматься деятельностью с целью заработка на жизнь.",
+        "descriptionDE": "Sich an einer Tätigkeit beteiligen, um den Lebensunterhalt zu verdienen."
+    }, {
+        "de": "leben",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "to be alive; to have life.",
+        "descriptionRU": "быть живым; иметь жизнь.",
+        "descriptionDE": "Am Leben sein; Leben haben."
+    }, {
+        "de": "beginnen",
+        "en": "to begin",
+        "ru": "начинать",
+        "descriptionEN": "to start or commence (something).",
+        "descriptionRU": "начать или начать (что-то).",
+        "descriptionDE": "Etwas beginnen oder in Angriff nehmen."
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it.",
+        "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней.",
+        "descriptionDE": "Durchreisen (eines unbekannten Gebiets), um mehr darüber zu erfahren."
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "возбужденный",
+        "descriptionEN": "very enthusiastic and eager.",
+        "descriptionRU": "очень восторженный и нетерпеливый.",
+        "descriptionDE": "Sehr enthusiastisch und eifrig."
+    }, {
+        "de": "nervös",
+        "en": "nervous",
+        "ru": "нервный",
+        "descriptionEN": "easily agitated or alarmed; tending to be anxious.",
+        "descriptionRU": "легко возбуждается или тревожится; склонный к беспокойству.",
+        "descriptionDE": "Leicht erregt oder alarmiert; dazu neigend, ängstlich zu sein."
+    }, {
+        "de": "begrenzt",
+        "en": "limited",
+        "ru": "ограниченный",
+        "descriptionEN": "restricted in size, amount, or extent.",
+        "descriptionRU": "ограничен по размеру, количеству или степени.",
+        "descriptionDE": "In Größe, Menge oder Umfang eingeschränkt."
+    }, {
+        "de": "schwierig",
+        "en": "difficult",
+        "ru": "трудный",
+        "descriptionEN": "needing much effort or skill to accomplish, deal with, or understand.",
+        "descriptionRU": "требующий много усилий или навыков для выполнения, справления или понимания.",
+        "descriptionDE": "Erfordert viel Mühe oder Geschicklichkeit, um zu bewältigen, zu handhaben oder zu verstehen."
+    }, {
+        "de": "wertvoll",
+        "en": "valuable",
+        "ru": "ценный",
+        "descriptionEN": "having considerable monetary worth; costing or bringing a high price.",
+        "descriptionRU": "имеющий значительную денежную ценность; стоимость или приносящий высокую цену.",
+        "descriptionDE": "Mit erheblichem Geldwert; kostspielig oder zu einem hohen Preis."
+    }, {
+        "de": "lebenslang",
+        "en": "lifelong",
+        "ru": "пожизненный",
+        "descriptionEN": "lasting or remaining in a particular state throughout a person's life.",
+        "descriptionRU": "длительное или оставшееся в определенном состоянии на протяжении всей жизни человека.",
+        "descriptionDE": "Dauerhaft oder verbleibend in einem bestimmten Zustand während des gesamten Lebens einer Person."
+    }
+]

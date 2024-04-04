@@ -1,0 +1,150 @@
+[
+    {
+        "de": "der Tisch",
+        "en": "table",
+        "ru": "стол",
+        "descriptionEN": "a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed.",
+        "descriptionRU": "предмет мебели с плоской верхней поверхностью и одной или несколькими ногами, обеспечивающий уровню поверхность, на которую можно поместить предметы.",
+        "descriptionDE": "Ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände abgelegt werden können."
+    }, {
+        "de": "die Katze",
+        "en": "cat",
+        "ru": "кошка",
+        "descriptionEN": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+        "descriptionRU": "маленькое домашнее хищное млекопитающее с мягкой шерстью, коротким мордочкой и убираемыми когтями.",
+        "descriptionDE": "Ein kleines domestiziertes fleischfressendes Säugetier mit weichem Fell, einer kurzen Schnauze und zurückziehbaren Krallen."
+    }, {
+        "de": "das Buch",
+        "en": "book",
+        "ru": "книга",
+        "descriptionEN": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+        "descriptionRU": "письменное или печатное произведение, состоящее из страниц, склеенных или сшитых вместе с одной стороны и обложенных обложками.",
+        "descriptionDE": "Ein schriftliches oder gedrucktes Werk, bestehend aus Seiten, die an einer Seite zusammengeklebt oder genäht und in Decken gebunden sind."
+    }, {
+        "de": "die Tür",
+        "en": "door",
+        "ru": "дверь",
+        "descriptionEN": "a hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.",
+        "descriptionRU": "поворотный, раздвижной или вращающийся барьер у входа в здание, комнату, транспортное средство или в шкафу.",
+        "descriptionDE": "Eine an einem Gebäude, einem Raum oder einem Fahrzeug angebrachte Dreh-, Schiebe- oder Drehsperre oder im Rahmen eines Schrankes."
+    }, {
+        "de": "die Blume",
+        "en": "flower",
+        "ru": "цветок",
+        "descriptionEN": "the seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are typically surrounded by a brightly colored corolla (petals) and a green calyx (sepals).",
+        "descriptionRU": "семеносный орган растения, состоящий из репродуктивных органов (тычинки и пестики), обычно окруженных ярко окрашенной чашелистиком (лепестками) и зеленым чашелистиком (чашечками).",
+        "descriptionDE": "Der samentragende Teil einer Pflanze, bestehend aus Fortpflanzungsorganen (Staubblätter und Fruchtblätter), die typischerweise von einer hell gefärbten Krone (Blütenblätter) und einem grünen Kelch (Kelchblätter) umgeben sind."
+    }, {
+        "de": "die Lampe",
+        "en": "lamp",
+        "ru": "лампа",
+        "descriptionEN": "a device for giving light, consisting of a lightbulb or lampshade containing a source of light.",
+        "descriptionRU": "устройство для освещения, состоящее из лампочки или абажура, содержащего источник света.",
+        "descriptionDE": "Ein Gerät zum Erzeugen von Licht, bestehend aus einer Glühlampe oder einem Lampenschirm mit einer Lichtquelle."
+    }, {
+        "de": "der Hund",
+        "en": "dog",
+        "ru": "собака",
+        "descriptionEN": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractile claws, and a barking, howling, or whining voice.",
+        "descriptionRU": "домашнее хищное млекопитающее, обычно имеющее длинный мордочку, острый обоняние, неретрактильные когти и лающий, воющий или плачущий голос.",
+        "descriptionDE": "Ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen ausgeprägten Geruchssinn, nicht einziehbare Krallen und eine bellende, heulende oder winselnde Stimme hat."
+    }, {
+        "de": "der Stuhl",
+        "en": "chair",
+        "ru": "стул",
+        "descriptionEN": "a separate seat for one person, typically with a back and four legs.",
+        "descriptionRU": "отдельное место для одного человека, обычно с спинкой и четырьмя ногами.",
+        "descriptionDE": "Ein separater Sitz für eine Person, normalerweise mit einer Rückenlehne und vier Beinen."
+    }, {
+        "de": "der Apfel",
+        "en": "apple",
+        "ru": "яблоко",
+        "descriptionEN": "the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.",
+        "descriptionRU": "круглый плод дерева семейства роз, который обычно имеет тонкую красную или зеленую кожу и хрустящее мякоть.",
+        "descriptionDE": "Die runde Frucht eines Baumes aus der Familie der Rosengewächse, die normalerweise eine dünne rote oder grüne Schale und festes Fleisch hat."
+    }, {
+        "de": "die Uhr",
+        "en": "clock",
+        "ru": "часы",
+        "descriptionEN": "a mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds, typically by hands on a round dial or by displayed figures.",
+        "descriptionRU": "механическое или электрическое устройство для измерения времени, указывающее часы, минуты и иногда секунды, обычно стрелками на круглом циферблате или отображаемыми цифрами.",
+        "descriptionDE": "Ein mechanisches oder elektrisches Gerät zur Messung der Zeit, das Stunden, Minuten und manchmal Sekunden anzeigt, normalerweise durch Zeiger auf einem runden Zifferblatt oder durch angezeigte Zahlen."
+    }, {
+        "de": "das Fenster",
+        "en": "window",
+        "ru": "окно",
+        "descriptionEN": "an opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.",
+        "descriptionRU": "отверстие в стене или крыше здания или транспортного средства, снабженное стеклом или другим прозрачным материалом в раме для пропуска света или воздуха и обеспечения возможности людям видеть наружу.",
+        "descriptionDE": "Eine Öffnung in der Wand oder im Dach eines Gebäudes oder Fahrzeugs, die mit Glas oder einem anderen transparenten Material in einem Rahmen versehen ist, um Licht oder Luft einzulassen und den Menschen das Hinausschauen zu ermöglichen."
+    }, {
+        "de": "rennen",
+        "en": "to run",
+        "ru": "бегать",
+        "descriptionEN": "move at a speed faster than a walk, never having both or all the feet on the ground at the same time.",
+        "descriptionRU": "двигаться со скоростью быстрее, чем ходьба, никогда не имея обоих или всех ног на земле одновременно.",
+        "descriptionDE": "Mit einer Geschwindigkeit schneller als ein Spaziergang bewegen, niemals beide oder alle Füße gleichzeitig auf dem Boden haben."
+    }, {
+        "de": "schlafen",
+        "en": "to sleep",
+        "ru": "спать",
+        "descriptionEN": "rest in a state of reduced consciousness and inactivity, with the eyes closed and the postural muscles relaxed.",
+        "descriptionRU": "отдыхать в состоянии сниженного сознания и бездействия, с закрытыми глазами и расслабленными мышцами стойки.",
+        "descriptionDE": "In einem Zustand verminderter Bewusstlosigkeit und Inaktivität ruhen, mit geschlossenen Augen und entspannten Haltungsmuskeln."
+    }, {
+        "de": "essen",
+        "en": "to eat",
+        "ru": "есть",
+        "descriptionEN": "put (food) into the mouth and chew and swallow it.",
+        "descriptionRU": "положить (пищу) в рот, пережевать и проглотить ее.",
+        "descriptionDE": "Essen (Nahrung) in den Mund geben, kauen und schlucken."
+    }, {
+        "de": "lesen",
+        "en": "to read",
+        "ru": "читать",
+        "descriptionEN": "look at and comprehend the meaning of (written or printed matter) by interpreting the characters or symbols of which it is composed.",
+        "descriptionRU": "рассматривать и понимать смысл (письменного или печатного материала), интерпретируя символы или символы, из которых он состоит.",
+        "descriptionDE": "Betrachten und den Sinn von (schriftlichem oder gedrucktem Material) erfassen, indem man die Zeichen oder Symbole interpretiert, aus denen es besteht."
+    }, {
+        "de": "laufen",
+        "en": "to walk",
+        "ru": "ходить",
+        "descriptionEN": "move at a regular pace by lifting and setting down each foot in turn, never having both feet off the ground at once.",
+        "descriptionRU": "двигаться с постоянной скоростью, поднимая и опуская каждую ногу по очереди, никогда не имея обе ноги одновременно в воздухе.",
+        "descriptionDE": "Mit regelmäßigem Tempo bewegen, indem man jeden Fuß abwechselnd anhebt und absetzt, niemals beide Füße gleichzeitig vom Boden hebt."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "pleasing the senses or mind aesthetically.",
+        "descriptionRU": "удовлетворяя чувства или ум эстетически.",
+        "descriptionDE": "Die Sinne oder den Geist ästhetisch ansprechend."
+    }, {
+        "de": "schnell",
+        "en": "fast",
+        "ru": "быстрый",
+        "descriptionEN": "moving or capable of moving at high speed.",
+        "descriptionRU": "двигающийся или способный двигаться с высокой скоростью.",
+        "descriptionDE": "Bewegung oder Fähigkeit zur Bewegung mit hoher Geschwindigkeit."
+    }, {
+        "de": "klug",
+        "en": "clever",
+        "ru": "умный",
+        "descriptionEN": "quick to understand, learn, and devise or apply ideas; intelligent.",
+        "descriptionRU": "быстро понимать, учиться и разрабатывать или применять идеи; интеллигентный.",
+        "descriptionDE": "Schnell zu verstehen, zu lernen und Ideen zu entwickeln oder anzuwenden; intelligent."
+    }, {
+        "de": "leicht",
+        "en": "light",
+        "ru": "легкий",
+        "descriptionEN": "of little weight; not heavy.",
+        "descriptionRU": "мало веса; не тяжелый.",
+        "descriptionDE": "Von wenig Gewicht; nicht schwer."
+    }, {
+        "de": "langsam",
+        "en": "slow",
+        "ru": "медленный",
+        "descriptionEN": "moving or operating, or designed to do so, only at a low speed; not quick or fast.",
+        "descriptionRU": "двигающийся, работающий или предназначенный для работы только с низкой скоростью; не быстро или быстро.",
+        "descriptionDE": "Bewegung oder Betrieb oder darauf ausgelegt, dies nur mit niedriger Geschwindigkeit zu tun; nicht schnell oder schnell."
+    }
+]
