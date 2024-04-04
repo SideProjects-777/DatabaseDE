@@ -1,5 +1,21 @@
 [
     {
+        "name":{
+            "en": "Marko's Journey",
+            "de": "Markos Reise",
+            "ru": "Путешествие Марко"
+        },
+        "description": {
+            "en": "Working abroad",
+            "de": "Im Ausland arbeiten",
+            "ru": "Работа за границей"
+        },
+        "level": "A2",
+        "image": "Markos.jpg",
+        "file": "Markos.txt",
+        "words": "Markos.json",
+        "yesNo": "Markos.json"
+    }, {
         "name": {
             "en": "In the restaurant",
             "de": "Im Restaurant",

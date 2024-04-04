@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Marko hat schon immer davon geträumt, zu reisen und andere Kulturen kennen zu lernen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Marko ist von Beruf ein Arzt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Marko hatte nie zuvor im Ausland gearbeitet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Markos Vorgesetzter in Koblenz hieß Herr Müller.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Marko hatte keine Schwierigkeiten bei der Kommunikation aufgrund seiner Deutschkenntnisse.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Marko hat während seines Aufenthalts in Koblenz keine neuen Freunde gefunden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Marko hat nie neue Orte außer Koblenz besucht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Markos erste Arbeitserfahrung im Ausland war frei von Emotionen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Marko hat während seines Aufenthalts in Koblenz wertvolle Arbeitserfahrung gesammelt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Marko kehrte nie nach Koblenz zurück, um ein weiteres Abenteuer zu erleben.",
+        "tr": false,
+        "fle": true
+    }
+]
