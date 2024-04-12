@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Fashion Fun Day",
+            "de": "Mode-Spaßtag",
+            "ru": "День моды и веселья"
+        },
+        "description": {
+            "en": "Buying clothes",
+            "de": "Kleidung kaufen",
+            "ru": "Покупать одежду"
+        },
+        "level": "A2",
+        "image": "ChicExpedition.jpg",
+        "file": "ChicExpedition.txt",
+        "words": "ChicExpedition.json",
+        "multi": "ChicExpedition.json"
+    }, {
+        "name": {
             "en": "Vacation dilemma",
             "de": "Urlaubsdilemma",
             "ru": "Дилемма отпуска"

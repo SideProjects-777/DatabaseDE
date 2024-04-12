@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welche Farbe hat die Winterjacke, die Sophie gefunden hat?",
+        "answers": [
+            {
+                "text": "Gelb",
+                "correct": false
+            }, {
+                "text": "Lila",
+                "correct": false
+            }, {
+                "text": "Beige",
+                "correct": false
+            }, {
+                "text": "Dunkelrot",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Farbe hat die Strickjacke, die Julia gefunden hat?",
+        "answers": [
+            {
+                "text": "Gelb",
+                "correct": false
+            }, {
+                "text": "Lila",
+                "correct": true
+            }, {
+                "text": "Beige",
+                "correct": false
+            }, {
+                "text": "Dunkelrot",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was für eine Kleidung mag Julia eher?",
+        "answers": [
+            {
+                "text": "Bequem und bunt",
+                "correct": true
+            }, {
+                "text": "Elegant und schick",
+                "correct": false
+            }, {
+                "text": "Klassisch und einfach",
+                "correct": false
+            }, {
+                "text": "Sportlich und funktional",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sagt Sophie über die Jacke, die Julia vorschlägt?",
+        "answers": [
+            {
+                "text": "Die passt überhaupt nicht zu mir.",
+                "correct": false
+            }, {
+                "text": "Die ist zu teuer für mich.",
+                "correct": false
+            }, {
+                "text": "Die gefällt mir auch ganz gut.",
+                "correct": true
+            }, {
+                "text": "Die ist nicht warm genug für den Winter.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Grund, warum Sophie gerne mit Julia einkaufen geht?",
+        "answers": [
+            {
+                "text": "Julia hat einen großen Kleiderschrank.",
+                "correct": false
+            }, {
+                "text": "Julia kennt viele Modedesigner persönlich.",
+                "correct": false
+            }, {
+                "text": "Julia kann gut kochen.",
+                "correct": false
+            }, {
+                "text": "Julia hat ein gutes Auge für Schnäppchen.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was für eine Kleidung mag Sophie lieber?",
+        "answers": [
+            {
+                "text": "Bequem und bunt",
+                "correct": false
+            }, {
+                "text": "Sportlich und funktional",
+                "correct": true
+            }, {
+                "text": "Elegant und schick",
+                "correct": false
+            }, {
+                "text": "Klassisch und einfach",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Merkmal der Strickjacke, die Julia gefunden hat?",
+        "answers": [
+            {
+                "text": "Sie hat Knöpfe.",
+                "correct": true
+            }, {
+                "text": "Sie ist aus Leder.",
+                "correct": false
+            }, {
+                "text": "Sie hat Kapuze.",
+                "correct": false
+            }, {
+                "text": "Sie hat Taschen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was für Schuhe kann Sophie zu der beige Jacke anziehen?",
+        "answers": [
+            {
+                "text": "Graue Turnschuhe",
+                "correct": false
+            }, {
+                "text": "Braune Stiefeletten",
+                "correct": true
+            }, {
+                "text": "Schwarze Sandalen",
+                "correct": false
+            }, {
+                "text": "Rote High Heels",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Farbe hat das Oberteil, das Julia gefunden hat?",
+        "answers": [
+            {
+                "text": "Rot",
+                "correct": false
+            }, {
+                "text": "Gelb",
+                "correct": true
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Grün",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was mögen Sophie und Julia am meisten an der Konningsallee?",
+        "answers": [
+            {
+                "text": "Die vielen Restaurants und Cafés.",
+                "correct": false
+            }, {
+                "text": "Die historische Architektur.",
+                "correct": false
+            }, {
+                "text": "Die Grünflächen und Parks.",
+                "correct": false
+            }, {
+                "text": "Die Möglichkeit, die neuesten Trends zu entdecken.",
+                "correct": true
+            }
+        ]
+    }
+]

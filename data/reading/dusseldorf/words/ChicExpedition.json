@@ -1,0 +1,164 @@
+[
+    {
+        "de": "die Jacke",
+        "en": "jacket",
+        "ru": "куртка",
+        "descriptionEN": "a garment for the upper body, usually having sleeves and a fastening down the front.",
+        "descriptionRU": "предмет одежды для верхней половины тела, обычно имеющий рукава и застёжку спереди.",
+        "descriptionDE": "Ein Kleidungsstück für den oberen Körperbereich, normalerweise mit Ärmeln und einer Verschlussleiste vorne."
+    }, {
+        "de": "die Hose",
+        "en": "trousers",
+        "ru": "брюки",
+        "descriptionEN": "an outer garment covering the body from the waist to the ankles, with a separate part for each leg.",
+        "descriptionRU": "наружное покрывало тела от талии до щиколоток, с отдельной частью для каждой ноги.",
+        "descriptionDE": "Ein äußeres Kleidungsstück, das den Körper von der Taille bis zu den Knöcheln bedeckt, mit einem separaten Teil für jedes Bein."
+    }, {
+        "de": "das Oberteil",
+        "en": "top",
+        "ru": "верхняя часть одежды",
+        "descriptionEN": "a garment worn on the upper half of the body.",
+        "descriptionRU": "предмет одежды, надеваемый на верхнюю половину тела.",
+        "descriptionDE": "Ein Kleidungsstück, das auf der oberen Hälfte des Körpers getragen wird."
+    }, {
+        "de": "die Strickjacke",
+        "en": "cardigan",
+        "ru": "кардиган",
+        "descriptionEN": "a knitted sweater fastening down the front, typically with long sleeves.",
+        "descriptionRU": "вязаный свитер с застёжкой спереди, обычно с длинными рукавами.",
+        "descriptionDE": "Ein gestrickter Pullover mit einer Verschlussleiste vorne, normalerweise mit langen Ärmeln."
+    }, {
+        "de": "der Rock",
+        "en": "skirt",
+        "ru": "юбка",
+        "descriptionEN": "a garment fastened around the waist and hanging down around the legs, worn by women.",
+        "descriptionRU": "предмет одежды, застёгиваемый вокруг талии и опускающийся вниз вокруг ног, носимый женщинами.",
+        "descriptionDE": "Ein Kleidungsstück, das um die Taille befestigt und um die Beine herum hängt, von Frauen getragen."
+    }, {
+        "de": "die Stiefeletten",
+        "en": "ankle boots",
+        "ru": "ботильоны",
+        "descriptionEN": "a type of boot that covers the foot and ankle but not the lower leg.",
+        "descriptionRU": "тип ботинка, закрывающего стопу и щиколотку, но не нижнюю часть ноги.",
+        "descriptionDE": "Eine Art Stiefel, die den Fuß und den Knöchel, aber nicht das untere Bein bedecken."
+    }, {
+        "de": "die Taschen",
+        "en": "pockets",
+        "ru": "карманы",
+        "descriptionEN": "a small pouch inside a garment for carrying small articles.",
+        "descriptionRU": "небольшая сумка внутри одежды для ношения мелких предметов.",
+        "descriptionDE": "Eine kleine Tasche in einem Kleidungsstück zum Tragen kleiner Gegenstände."
+    }, {
+        "de": "die Konningsallee",
+        "en": "Königsallee",
+        "ru": "Кёнигсалле",
+        "descriptionEN": "a famous upscale shopping boulevard in Düsseldorf, Germany.",
+        "descriptionRU": "известный престижный торговый бульвар в Дюссельдорфе, Германия.",
+        "descriptionDE": "Ein berühmter gehobener Einkaufsboulevard in Düsseldorf, Deutschland."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "to perceive with the eyes; discern visually.",
+        "descriptionRU": "воспринимать глазами; различать визуально.",
+        "descriptionDE": "mit den Augen wahrnehmen; visuell erkennen."
+    }, {
+        "de": "finden",
+        "en": "to find",
+        "ru": "находить",
+        "descriptionEN": "to discover or perceive by chance or unexpectedly.",
+        "descriptionRU": "обнаруживать или воспринимать случайно или неожиданно.",
+        "descriptionDE": "per Zufall oder unerwartet entdecken oder wahrnehmen."
+    }, {
+        "de": "haben",
+        "en": "to have",
+        "ru": "иметь",
+        "descriptionEN": "to possess, own, or hold.",
+        "descriptionRU": "обладать, владеть или держать.",
+        "descriptionDE": "besitzen, besitzen oder halten."
+    }, {
+        "de": "gehen",
+        "en": "to go",
+        "ru": "идти",
+        "descriptionEN": "to move or proceed, especially to or from something.",
+        "descriptionRU": "двигаться или продвигаться, особенно к или от чего-либо.",
+        "descriptionDE": "sich bewegen oder vorangehen, besonders zu oder von etwas."
+    }, {
+        "de": "sonnig",
+        "en": "sunny",
+        "ru": "солнечный",
+        "descriptionEN": "abounding in sunshine; exposed to, lighted, or warmed by the direct rays of the sun.",
+        "descriptionRU": "обильный солнечным светом; подвергнутый, освещенный или прогретый прямыми лучами солнца.",
+        "descriptionDE": "reichlich Sonnenschein; exponiert, beleuchtet oder erwärmt durch die direkten Strahlen der Sonne."
+    }, {
+        "de": "beige",
+        "en": "beige",
+        "ru": "бежевый",
+        "descriptionEN": "a pale sandy yellowish-brown color.",
+        "descriptionRU": "бледно-песочно-желто-коричневый цвет.",
+        "descriptionDE": "eine helle sandgelb-bräunliche Farbe."
+    }, {
+        "de": "braunen",
+        "en": "brown",
+        "ru": "коричневые",
+        "descriptionEN": "of a color produced by mixing red, yellow, and black, as of dark wood or rich soil.",
+        "descriptionRU": "цвет, образованный смешиванием красного, желтого и черного, как темное дерево или плодородная почва.",
+        "descriptionDE": "eine Farbe, die durch Mischen von Rot, Gelb und Schwarz entsteht, wie dunkles Holz oder fruchtbare Erde."
+    }, {
+        "de": "graue",
+        "en": "gray",
+        "ru": "серые",
+        "descriptionEN": "of a color intermediate between black and white.",
+        "descriptionRU": "цвет, находящийся между черным и белым.",
+        "descriptionDE": "eine Farbe, die zwischen Schwarz und Weiß liegt."
+    }, {
+        "de": "gelbe",
+        "en": "yellow",
+        "ru": "желтые",
+        "descriptionEN": "of the color between green and orange in the spectrum, a primary subtractive color complementary to blue.",
+        "descriptionRU": "цвет между зеленым и оранжевым в спектре, первичный вычитаемый цвет, дополняющий синий.",
+        "descriptionDE": "eine Farbe zwischen Grün und Orange im Spektrum, eine primäre subtraktive Farbe, die blau ergänzt."
+    }, {
+        "de": "blauen",
+        "en": "blue",
+        "ru": "синий",
+        "descriptionEN": "of a color intermediate between green and violet, as of the sky or sea on a sunny day.",
+        "descriptionRU": "цвет, находящийся между зеленым и фиолетовым, как небо или море в солнечный день.",
+        "descriptionDE": "eine Farbe zwischen Grün und Violett, wie der Himmel oder das Meer an einem sonnigen Tag."
+    }, {
+        "de": "graue",
+        "en": "gray",
+        "ru": "серые",
+        "descriptionEN": "of a color intermediate between black and white.",
+        "descriptionRU": "цвет, находящийся между черным и белым.",
+        "descriptionDE": "eine Farbe, die zwischen Schwarz und Weiß liegt."
+    }, {
+        "de": "bequem",
+        "en": "comfortable",
+        "ru": "удобный",
+        "descriptionEN": "providing physical ease and relaxation.",
+        "descriptionRU": "обеспечивающий физическое удобство и расслабление.",
+        "descriptionDE": "bietet körperliche Leichtigkeit und Entspannung."
+    }, {
+        "de": "bunt",
+        "en": "colorful",
+        "ru": "красочный",
+        "descriptionEN": "full of color; bright and striking.",
+        "descriptionRU": "полный цвета; яркий и выразительный.",
+        "descriptionDE": "voll Farbe; hell und auffällig."
+    }, {
+        "de": "rot",
+        "en": "red",
+        "ru": "красный",
+        "descriptionEN": "of a color at the end of the spectrum next to orange and opposite violet, as of blood, fire, or rubies.",
+        "descriptionRU": "цвет на конце спектра рядом с оранжевым и противоположный фиолетовому, как кровь, огонь или рубины.",
+        "descriptionDE": "eine Farbe am Ende des Spektrums neben Orange und gegenüber Violett, wie Blut, Feuer oder Rubine."
+    }, {
+        "de": "lila",
+        "en": "lilac",
+        "ru": "сиреневый",
+        "descriptionEN": "of a pale pinkish-violet color.",
+        "descriptionRU": "бледно-розовато-фиолетового цвета.",
+        "descriptionDE": "eine blass rosa-violette Farbe."
+    }
+]
