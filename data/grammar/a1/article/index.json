@@ -1,0 +1,199 @@
+[
+    {
+        "name": "Tante",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Tochter",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Hündchen",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Sprechen",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Liebe",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Möglichkeit",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Fernseher",
+        "answers": [
+            {
+                "text": "der",
+                "correct": true
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Mittag",
+        "answers": [
+            {
+                "text": "der",
+                "correct": true
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Bier",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Samstag",
+        "answers": [
+            {
+                "text": "der",
+                "correct": true
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Vöglein",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Krankheit",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Sicht",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Freiheit",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }
+]
