@@ -1,0 +1,151 @@
+[
+
+    {
+        "de": "der Ort",
+        "en": "place",
+        "ru": "место",
+        "descriptionEN": "a particular position or point in space",
+        "descriptionRU": "определенное положение или точка в пространстве",
+        "descriptionDE": "eine bestimmte Position oder Stelle im Raum"
+    }, {
+        "de": "das Herz",
+        "en": "heart",
+        "ru": "сердце",
+        "descriptionEN": "the muscular organ in humans and other animals, which pumps blood through the circulatory system",
+        "descriptionRU": "мышечный орган у людей и других животных, который перекачивает кровь по кровеносной системе",
+        "descriptionDE": "das muskuläre Organ bei Menschen und anderen Tieren, das Blut durch das Kreislaufsystem pumpt"
+    }, {
+        "de": "die Fußgängerzone",
+        "en": "pedestrian zone",
+        "ru": "пешеходная зона",
+        "descriptionEN": "an area in a town or city reserved for pedestrian-only use",
+        "descriptionRU": "территория в городе, зарезервированная только для пешеходов",
+        "descriptionDE": "ein Bereich in einer Stadt oder Gemeinde, der ausschließlich für Fußgänger vorgesehen ist"
+    }, {
+        "de": "der Stadtteil",
+        "en": "district",
+        "ru": "район",
+        "descriptionEN": "a subdivision of a city or town",
+        "descriptionRU": "подразделение города или поселка",
+        "descriptionDE": "eine Unterteilung einer Stadt oder Gemeinde"
+    }, {
+        "de": "die Atmosphäre",
+        "en": "the atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the envelope of gases surrounding the earth or another planet",
+        "descriptionRU": "оболочка газов, окружающих Землю или другую планету",
+        "descriptionDE": "die Hülle aus Gasen, die die Erde oder einen anderen Planeten umgibt"
+    }, {
+        "de": "der Baum",
+        "en": "the tree",
+        "ru": "дерево",
+        "descriptionEN": "a woody perennial plant, typically having a single stem or trunk growing to a considerable height",
+        "descriptionRU": "древесное многолетнее растение, обычно имеющее один стебель или ствол, вырастающий до значительной высоты",
+        "descriptionDE": "eine holzige mehrjährige Pflanze, die typischerweise einen einzigen Stamm oder Stängel hat und zu beträchtlicher Höhe wächst"
+    }, {
+        "de": "die Mischung",
+        "en": "the mixture",
+        "ru": "смесь",
+        "descriptionEN": "a substance made by mixing other substances together",
+        "descriptionRU": "вещество, полученное путем смешивания других веществ",
+        "descriptionDE": "eine Substanz, die durch Mischen anderer Substanzen entsteht"
+    }, {
+        "de": "die Geschäfte",
+        "en": "the shops",
+        "ru": "магазины",
+        "descriptionEN": "places where goods or services are sold",
+        "descriptionRU": "места, где продаются товары или услуги",
+        "descriptionDE": "Orte, an denen Waren oder Dienstleistungen verkauft werden"
+    }, {
+        "de": "teilen",
+        "en": "to share",
+        "ru": "делить",
+        "descriptionEN": "to divide something into portions and give them to others",
+        "descriptionRU": "разделить что-то на части и передать другим",
+        "descriptionDE": "etwas in Portionen aufteilen und sie anderen geben"
+    }, {
+        "de": "klingen",
+        "en": "to sound",
+        "ru": "звучать",
+        "descriptionEN": "to make or cause to make a sound",
+        "descriptionRU": "издавать или заставлять издавать звук",
+        "descriptionDE": "einen Klang erzeugen oder verursachen"
+    }, {
+        "de": "kennen",
+        "en": "to know",
+        "ru": "знать",
+        "descriptionEN": "to be aware of through observation, inquiry, or information",
+        "descriptionRU": "быть осведомленным через наблюдение, запрос или информацию",
+        "descriptionDE": "durch Beobachtung, Anfrage oder Information bewusst sein"
+    }, {
+        "de": "umgebend",
+        "en": "surrounding",
+        "ru": "окружающий",
+        "descriptionEN": "present on all sides of something",
+        "descriptionRU": "присутствующий со всех сторон чего-то",
+        "descriptionDE": "auf allen Seiten von etwas vorhanden"
+    }, {
+        "de": "wertvoll",
+        "en": "valuable",
+        "ru": "ценный",
+        "descriptionEN": "having considerable monetary worth",
+        "descriptionRU": "имеющий значительную денежную стоимость",
+        "descriptionDE": "einen beträchtlichen Geldwert haben"
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "being the only one of its kind",
+        "descriptionRU": "быть единственным в своем роде",
+        "descriptionDE": "der einzige seiner Art sein"
+    }, {
+        "de": "lebendig",
+        "en": "alive",
+        "ru": "живой",
+        "descriptionEN": "having life; living; not dead",
+        "descriptionRU": "имеющий жизнь; живой; не мертвый",
+        "descriptionDE": "Leben habend; lebendig; nicht tot"
+    }, {
+        "de": "die Wasserstraße",
+        "en": "the waterway",
+        "ru": "водный путь",
+        "descriptionEN": "a picturesque waterway lined with trees and benches, offering a serene escape in the midst of the city.",
+        "descriptionRU": "живописный водный путь, выложенный деревьями и скамейками, предлагающий уединенное убежище посреди города.",
+        "descriptionDE": "eine malerische Wasserstraße, gesäumt von Bäumen und Bänken, die eine friedliche Flucht inmitten der Stadt bietet."
+    }, {
+        "de": "der Park",
+        "en": "the park",
+        "ru": "парк",
+        "descriptionEN": "a beautiful park with large green spaces, a Japanese garden, and even a butterfly house, providing a peaceful retreat from the hustle and bustle of the city.",
+        "descriptionRU": "красивый парк с большими зелеными площадками, японским садом и даже бабочьим домом, обеспечивающий мирное убежище от суеты города.",
+        "descriptionDE": "ein wunderschöner Park mit großen Grünflächen, einem japanischen Garten und sogar einem Schmetterlingshaus, der eine friedliche Flucht aus der Hektik der Stadt bietet."
+    }, {
+        "de": "das Café",
+        "en": "the café",
+        "ru": "кафе",
+        "descriptionEN": "a small, charming café where you can enjoy delicious cake and coffee in a cozy atmosphere, perfect for a leisurely afternoon.",
+        "descriptionRU": "небольшое, очаровательное кафе, где вы можете насладиться вкусным тортом и кофе в уютной атмосфере, идеально подходящей для спокойного послеполуденного времени.",
+        "descriptionDE": "ein kleines, charmantes Café, in dem Sie köstlichen Kuchen und Kaffee in gemütlicher Atmosphäre genießen können, perfekt für einen gemütlichen Nachmittag."
+    }, {
+        "de": "der Nachmittag",
+        "en": "the afternoon",
+        "ru": "вечер",
+        "descriptionEN": "the time between noon and evening, typically associated with leisure activities and relaxation.",
+        "descriptionRU": "время между полуднем и вечером, обычно связанное с отдыхом и релаксацией.",
+        "descriptionDE": "die Zeit zwischen Mittag und Abend, die typischerweise mit Freizeitaktivitäten und Entspannung verbunden ist."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure or satisfaction in something, often by indulging in an activity or experience.",
+        "descriptionRU": "получать удовольствие или удовлетворение от чего-то, часто путем поглощения активности или опыта.",
+        "descriptionDE": "Freude oder Zufriedenheit an etwas zu haben, oft indem man eine Aktivität oder Erfahrung genießt."
+    }, {
+        "de": "versteckt",
+        "en": "hidden",
+        "ru": "скрытый",
+        "descriptionEN": "not easily noticed or found, concealed or tucked away from plain view.",
+        "descriptionRU": "не легко заметить или найти, скрытый или спрятанный от прямого вида.",
+        "descriptionDE": "nicht leicht bemerkt oder gefunden, verborgen oder versteckt vor direkter Sicht."
+    }
+]

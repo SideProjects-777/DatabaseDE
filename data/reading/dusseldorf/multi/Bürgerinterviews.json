@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Was ist der Kö-Bogen?",
+        "answers": [
+
+            {
+                "text": "Ein bekannter Fluss, der durch Düsseldorf fließt",
+                "correct": false
+            }, {
+                "text": "Ein berühmtes Museum in Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein einzigartiges architektonisches Kleinod im Herzen der Stadt",
+                "correct": true
+            }, {
+                "text": "Eine historische Brücke über den Rhein",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist der Königsallee-Kanal?",
+        "answers": [
+
+            {
+                "text": "Ein berühmtes Kaufhaus entlang der Königsallee",
+                "correct": false
+            }, {
+                "text": "Eine malerische Wasserstraße gesäumt von Bäumen und Bänken",
+                "correct": true
+            }, {
+                "text": "Eine beliebte U-Bahn-Route in Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein historischer Kanal, der die Stadt umgibt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist der Nordpark?",
+        "answers": [
+
+            {
+                "text": "Ein bekanntes Einkaufszentrum in Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein historisches Schloss im Norden von Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein beliebtes Restaurant im Stadtteil Flingern",
+                "correct": false
+            }, {
+                "text": "Ein wunderschöner Park mit großen Grünflächen und einem japanischen Garten",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist das Carême de Château?",
+        "answers": [
+
+            {
+                "text": "Ein bekanntes Schloss in der Nähe von Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein kleines, charmantes Café im Stadtteil Flingern",
+                "correct": true
+            }, {
+                "text": "Ein berühmtes Theater in Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein beliebtes Kino in der Innenstadt von Düsseldorf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was beinhaltet der Kö-Bogen?",
+        "answers": [
+            {
+                "text": "Eine Mischung aus Geschäften, Restaurants und Grünflächen",
+                "correct": true
+            }, {
+                "text": "Ein historisches Denkmal in Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein berühmtes Kunstmuseum in Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Ein beliebtes Schwimmbad in der Nähe des Rheins",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bietet der Königsallee-Kanal?",
+        "answers": [
+            {
+                "text": "Eine versteckte Oase mitten in der Stadt",
+                "correct": false
+            }, {
+                "text": "Eine Möglichkeit zur Flusskreuzfahrt durch Düsseldorf",
+                "correct": false
+            }, {
+                "text": "Eine entspannte Umgebung zum Angeln",
+                "correct": false
+            }, {
+                "text": "Eine Aussicht genießen und ein Picknick machen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welcher Stadtteil beherbergt das Carême de Château?",
+        "answers": [
+            {
+                "text": "Flingern",
+                "correct": true
+            }, {
+                "text": "Königsallee",
+                "correct": false
+            }, {
+                "text": "Nordpark",
+                "correct": false
+            }, {
+                "text": "Kö-Bogen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was macht den Nordpark besonders?",
+        "answers": [
+
+            {
+                "text": "Eine Tierfarm",
+                "correct": false
+            }, {
+                "text": "Ein Minigolfplatz",
+                "correct": false
+            }, {
+                "text": "Ein Schmetterlingshaus",
+                "correct": true
+            }, {
+                "text": "Ein Wasserpark",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Adjektiv beschreibt die Atmosphäre im Carême de Château?",
+        "answers": [
+            {
+                "text": "Perfekt",
+                "correct": false
+            }, {
+                "text": "Gemütlich",
+                "correct": true
+            }, {
+                "text": "Modern",
+                "correct": false
+            }, {
+                "text": "Elegant",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein Merkmal der Fußgängerzone am Kö-Bogen?",
+        "answers": [
+
+            {
+                "text": "Eine belebte Straße mit vielen Autos",
+                "correct": false
+            }, {
+                "text": "Ein Veranstaltungsort für Konzerte und Märkte",
+                "correct": false
+            }, {
+                "text": "Eine ideale Umgebung für einen Nachmittagsspaziergang",
+                "correct": true
+            }, {
+                "text": "Ein Treffpunkt für Fahrradfahrer",
+                "correct": false
+            }
+        ]
+    }
+]

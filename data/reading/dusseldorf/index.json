@@ -1,20 +1,20 @@
 [
     {
         "name": {
-            "en": "Fashion Fun Day",
-            "de": "Mode-Spaßtag",
-            "ru": "День моды и веселья"
+            "en": "Hidden gems",
+            "de": "Versteckte Juwelen",
+            "ru": "Скрытые жемчужины"
         },
-        "description": {
-            "en": "Buying clothes",
-            "de": "Kleidung kaufen",
-            "ru": "Покупать одежду"
+        "description":{
+            "en": "Citizen interviews",
+            "de": "Bürgerinterviews",
+            "ru": "Интервью с гражданами"
         },
         "level": "A2",
-        "image": "ChicExpedition.jpg",
-        "file": "ChicExpedition.txt",
-        "words": "ChicExpedition.json",
-        "multi": "ChicExpedition.json"
+        "image": "Bürgerinterviews.jpg",
+        "file": "Bürgerinterviews.txt",
+        "words": "Bürgerinterviews.json",
+        "multi": "Bürgerinterviews.json"
     }, {
         "name": {
             "en": "Vacation dilemma",
@@ -47,6 +47,22 @@
         "file": "Tonhalle.txt",
         "words": "Tonhalle.json",
         "multi": "Tonhalle.json"
+    }, {
+        "name": {
+            "en": "Fashion Fun Day",
+            "de": "Mode-Spaßtag",
+            "ru": "День моды и веселья"
+        },
+        "description": {
+            "en": "Buying clothes",
+            "de": "Kleidung kaufen",
+            "ru": "Покупать одежду"
+        },
+        "level": "A2",
+        "image": "ChicExpedition.jpg",
+        "file": "ChicExpedition.txt",
+        "words": "ChicExpedition.json",
+        "multi": "ChicExpedition.json"
     }, {
         "name": {
             "de": "Düsseldorf erkunden",
