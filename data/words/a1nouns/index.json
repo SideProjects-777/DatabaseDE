@@ -1,0 +1,108 @@
+[
+    {
+        "de": "der Mensch",
+        "en": "human; person",
+        "ru": "человек",
+        "descriptionEN": "an individual of the human species; a human being; a person",
+        "descriptionRU": "индивидуум человеческого вида; человек; персона",
+        "descriptionDE": "ein Individuum der menschlichen Spezies; ein Mensch; eine Person"
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future",
+        "descriptionRU": "неопределенное продолжительное движение существования и событий в прошлом, настоящем и будущем",
+        "descriptionDE": "der unbestimmte fortlaufende Fortschritt von Existenz und Ereignissen in der Vergangenheit, Gegenwart und Zukunft"
+    }, {
+        "de": "das Jahr",
+        "en": "year",
+        "ru": "год",
+        "descriptionEN": "the period of time that it takes for the Earth to go around the Sun once",
+        "descriptionRU": "период времени, за который Земля проходит вокруг Солнца один раз",
+        "descriptionDE": "die Zeitspanne, die die Erde benötigt, um einmal um die Sonne zu kreisen"
+    }, {
+        "de": "die Arbeit",
+        "en": "work; job",
+        "ru": "работа",
+        "descriptionEN": "activity involving mental or physical effort done in order to achieve a result",
+        "descriptionRU": "деятельность, требующая умственных или физических усилий для достижения результата",
+        "descriptionDE": "eine Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ergebnis zu erzielen"
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group of one or more parents and their children living together as a unit",
+        "descriptionRU": "группа одного или нескольких родителей и их детей, живущих вместе как единое целое",
+        "descriptionDE": "eine Gruppe von einem oder mehreren Eltern und ihren Kindern, die zusammen als Einheit leben"
+    }, {
+        "de": "das Haus",
+        "en": "house",
+        "ru": "дом",
+        "descriptionEN": "a building for human habitation, especially one that is lived in by a family or small group of people",
+        "descriptionRU": "здание для обитания человека, особенно то, в котором живет семья или небольшая группа людей",
+        "descriptionDE": "ein Gebäude zur menschlichen Behausung, insbesondere eines, das von einer Familie oder einer kleinen Gruppe von Menschen bewohnt wird"
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "a large and permanent human settlement; an urban area",
+        "descriptionRU": "большое и постоянное человеческое поселение; городская местность",
+        "descriptionDE": "eine große und dauerhafte menschliche Siedlung; ein städtisches Gebiet"
+    }, {
+        "de": "das Kind",
+        "en": "child",
+        "ru": "ребенок",
+        "descriptionEN": "a young human being below the age of puberty",
+        "descriptionRU": "молодой человек до возраста полового созревания",
+        "descriptionDE": "ein junger Mensch unterhalb des Pubertätsalters"
+    }, {
+        "de": "die Schule",
+        "en": "school",
+        "ru": "школа",
+        "descriptionEN": "an institution for educating children",
+        "descriptionRU": "учреждение для обучения детей",
+        "descriptionDE": "eine Institution zur Ausbildung von Kindern"
+    }, {
+        "de": "die Woche",
+        "en": "week",
+        "ru": "неделя",
+        "descriptionEN": "a period of seven days",
+        "descriptionRU": "период в семь дней",
+        "descriptionDE": "ein Zeitraum von sieben Tagen"
+    }, {
+        "de": "das Land",
+        "en": "country; land",
+        "ru": "страна; земля",
+        "descriptionEN": "a nation with its own government, occupying a particular territory",
+        "descriptionRU": "нация со своим правительством, занимающая определенную территорию",
+        "descriptionDE": "eine Nation mit einer eigenen Regierung, die ein bestimmtes Gebiet besetzt"
+    }, {
+        "de": "die Sache",
+        "en": "thing; matter",
+        "ru": "вещь; дело",
+        "descriptionEN": "a physical object; an affair; a situation; a concern",
+        "descriptionRU": "физический объект; дело; ситуация; забота",
+        "descriptionDE": "ein physisches Objekt; eine Angelegenheit; eine Situation; eine Sorge"
+    }, {
+        "de": "die Hand",
+        "en": "hand",
+        "ru": "рука",
+        "descriptionEN": "the end part of a person's arm beyond the wrist, including the palm, fingers, and thumb",
+        "descriptionRU": "конечная часть руки человека за пределами запястья, включая ладонь, пальцы и большой палец",
+        "descriptionDE": "der Endteil des Arms einer Person jenseits des Handgelenks, einschließlich der Handfläche, Finger und Daumen"
+    }, {
+        "de": "die Frage",
+        "en": "question",
+        "ru": "вопрос",
+        "descriptionEN": "a sentence worded or expressed so as to elicit information",
+        "descriptionRU": "предложение, сформулированное или выраженное таким образом, чтобы получить информацию",
+        "descriptionDE": "ein Satz formuliert oder ausgedrückt, um Informationen zu erhalten"
+    }, {
+        "de": "das Leben",
+        "en": "life",
+        "ru": "жизнь",
+        "descriptionEN": "the existence of an individual human being; the period between the birth and death of a living thing",
+        "descriptionRU": "существование индивидуального человека; период между рождением и смертью живого существа",
+        "descriptionDE": "die Existenz eines einzelnen menschlichen Wesens; die Periode zwischen der Geburt und dem Tod eines Lebewesens"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "de": "sein",
+        "en": "to be",
+        "ru": "быть",
+        "descriptionEN": "to exist; to have the qualities of; to occur; to occupy a place; to be present",
+        "descriptionRU": "существовать; обладать качествами; происходить; занимать место; быть присутствующим",
+        "descriptionDE": "existieren; die Eigenschaften haben; stattfinden; einen Platz einnehmen; anwesend sein"
+    }, {
+        "de": "haben",
+        "en": "to have",
+        "ru": "иметь",
+        "descriptionEN": "to possess; to own; to hold; to experience; to contain",
+        "descriptionRU": "владеть; иметь; держать; испытывать; содержать",
+        "descriptionDE": "besitzen; besitzen; halten; erleben; enthalten"
+    }, {
+        "de": "machen",
+        "en": "to do; to make",
+        "ru": "делать",
+        "descriptionEN": "to perform; to create; to produce; to cause something to exist or happen",
+        "descriptionRU": "выполнять; создавать; производить; вызывать существование или возникновение чего-либо",
+        "descriptionDE": "ausführen; erstellen; produzieren; etwas existieren lassen oder geschehen lassen"
+    }, {
+        "de": "gehen",
+        "en": "to go",
+        "ru": "идти",
+        "descriptionEN": "to move; to travel; to proceed; to depart",
+        "descriptionRU": "двигаться; путешествовать; продолжать; уходить",
+        "descriptionDE": "sich bewegen; reisen; fortfahren; abreisen"
+    }, {
+        "de": "kommen",
+        "en": "to come",
+        "ru": "приходить",
+        "descriptionEN": "to arrive; to approach; to move towards the speaker's location; to be brought",
+        "descriptionRU": "прибывать; приближаться; двигаться в сторону местоположения говорящего; быть привезенным",
+        "descriptionDE": "ankommen; sich nähern; sich zum Standort des Sprechers bewegen; gebracht werden"
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "to perceive with the eyes; to observe; to watch",
+        "descriptionRU": "воспринимать глазами; наблюдать; смотреть",
+        "descriptionDE": "mit den Augen wahrnehmen; beobachten; zuschauen"
+    }, {
+        "de": "geben",
+        "en": "to give",
+        "ru": "давать",
+        "descriptionEN": "to transfer the possession of something to someone; to provide; to offer; to present",
+        "descriptionRU": "передавать владение чего-либо кому-либо; предоставлять; предлагать; представлять",
+        "descriptionDE": "den Besitz von etwas an jemanden übertragen; bereitstellen; anbieten; präsentieren"
+    }, {
+        "de": "sagen",
+        "en": "to say",
+        "ru": "говорить",
+        "descriptionEN": "to speak; to utter; to express in words; to communicate verbally",
+        "descriptionRU": "говорить; произносить; выражать словами; общаться словесно",
+        "descriptionDE": "sprechen; aussprechen; in Worten ausdrücken; verbal kommunizieren"
+    }, {
+        "de": "mögen",
+        "en": "to like; to want",
+        "ru": "нравиться; хотеть",
+        "descriptionEN": "to enjoy; to find pleasant; to desire; to wish for",
+        "descriptionRU": "наслаждаться; находить приятным; желать; желать",
+        "descriptionDE": "genießen; angenehm finden; wünschen; sich wünschen"
+    }, {
+        "de": "können",
+        "en": "to be able to; can",
+        "ru": "мочь; уметь",
+        "descriptionEN": "to have the ability; to have the opportunity; to have the power; to know how to",
+        "descriptionRU": "иметь способность; иметь возможность; иметь силу; знать как",
+        "descriptionDE": "die Fähigkeit haben; die Gelegenheit haben; die Macht haben; wissen wie"
+    }, {
+        "de": "wollen",
+        "en": "to want",
+        "ru": "хотеть",
+        "descriptionEN": "to desire; to wish; to intend; to be determined to do something",
+        "descriptionRU": "желать; хотеть; намереваться; быть решительным сделать что-то",
+        "descriptionDE": "wünschen; wollen; beabsichtigen; entschlossen sein, etwas zu tun"
+    }, {
+        "de": "müssen",
+        "en": "to have to; must",
+        "ru": "должен; надо",
+        "descriptionEN": "to be required or obligated to; to be compelled to",
+        "descriptionRU": "быть обязанным или обязанным; быть вынужденным",
+        "descriptionDE": "müssen; müssen"
+    }, {
+        "de": "möchten",
+        "en": "to like to; would like",
+        "ru": "хотелось бы",
+        "descriptionEN": "to wish for; to desire; to express a polite request or offer",
+        "descriptionRU": "желать; желать; выразить вежливый запрос или предложение",
+        "descriptionDE": "sich wünschen; wünschen; eine höfliche Bitte oder ein Angebot ausdrücken"
+    }, {
+        "de": "müssen",
+        "en": "to need",
+        "ru": "нуждаться",
+        "descriptionEN": "to require something because it is essential or important",
+        "descriptionRU": "требовать что-то, потому что это важно или важно",
+        "descriptionDE": "etwas benötigen, weil es wichtig oder wichtig ist"
+    }, {
+        "de": "arbeiten",
+        "en": "to work",
+        "ru": "работать",
+        "descriptionEN": "to perform tasks for a job; to be employed; to be engaged in labor",
+        "descriptionRU": "выполнять задачи по работе; быть на службе; заниматься трудовой деятельностью",
+        "descriptionDE": "Aufgaben für einen Job ausführen; beschäftigt sein; sich mit Arbeit beschäftigen"
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "to engage in activity for amusement or recreation; to participate in a game",
+        "descriptionRU": "заниматься деятельностью для развлечения или отдыха; участвовать в игре",
+        "descriptionDE": "sich an einer Tätigkeit zur Unterhaltung oder Erholung beteiligen; an einem Spiel teilnehmen"
+    }
+]
