@@ -1,5 +1,4 @@
 // A1 -> 2
-// B1 -> 1
 // B2 -> 3
 [
     {
@@ -9,9 +8,9 @@
             "ru": "Угадайте город"
         },
         "description": {
-            "en": "Cosmopolitan city by Rhine",
-            "de": "Kosmopolitische Stadt am Rhein",
-            "ru": "Космополитический город на Рейне"
+            "en": "Cosmopolitan city",
+            "de": "Kosmopolitische Stadt",
+            "ru": "Космополитический город"
         },
         "level": "A2",
         "image": "Cosmopolitan.jpg",
@@ -20,9 +19,9 @@
         "yesNo": "Cosmopolitan.json"
     }, {
         "name": {
-            "en": "Düsseldorf's Allure",
-            "de": "Der Reiz von Düsseldorf",
-            "ru": "Привлекательность Дюссельдорфа"
+            "en": "Allure",
+            "de": "Der Reiz",
+            "ru": "Привлекательность"
         },
         "description": {
             "en": "Unveiling a new home",
@@ -35,22 +34,6 @@
         "words": "Allure.json",
         "yesNo": "Allure.json"
     }, {
-        "name": {
-            "en": "Düsseldorf's Allure",
-            "de": "Der Reiz von Düsseldorf",
-            "ru": "Привлекательность Дюссельдорфа"
-        },
-        "description": {
-            "en": "Unveiling a new home",
-            "de": "Enthüllung eines neuen Zuhauses",
-            "ru": "Раскрытие нового дома"
-        },
-        "level": "B1",
-        "image": "Allure.jpg",
-        "file": "Allure.mp3",
-        "words": "Allure.json",
-        "yesNo": "Allure.json"
-    },{
         "name": {
             "en": "Weather",
             "de": "Wetter",
