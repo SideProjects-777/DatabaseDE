@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Düsseldorf hat ein kontinentales Klima.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Im März sind die durchschnittlichen Temperaturen in Düsseldorf bei 15 Grad Celsius.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Sommer in Düsseldorf ist von Dezember bis Februar.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Es gibt gelegentlich Hitzewellen und Gewitter im Sommer in Düsseldorf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Herbst in Düsseldorf beginnt mit milden Temperaturen im September.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Im November erreichen die Temperaturen in Düsseldorf 18 Grad Celsius.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Schneefall ist in Düsseldorf im Winter sehr häufig.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Es gibt durchschnittlich 1600 Sonnenstunden pro Jahr in Düsseldorf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Düsseldorf erhält durchschnittlich 750 Millimeter Niederschlag pro Jahr.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "In Düsseldorf gibt es nur Indoor-Aktivitäten im Winter.",
+        "tr": false,
+        "fle": true
+    }
+]
