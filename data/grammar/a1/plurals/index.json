@@ -1,0 +1,173 @@
+[
+    {
+        "name": "der Hund",
+        "answers": [
+            {
+                "text": "die Hund",
+                "correct": false
+            }, {
+                "text": "die Hunde",
+                "correct": true
+            }, {
+                "text": "die Hunds",
+                "correct": false
+            }, {
+                "text": "die Hundenen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "die Katze",
+        "answers": [
+            {
+                "text": "die Katz",
+                "correct": false
+            }, {
+                "text": "die Katze",
+                "correct": false
+            }, {
+                "text": "die Katzen",
+                "correct": true
+            }, {
+                "text": "die Katzes",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "das Buch",
+        "answers": [
+            {
+                "text": "die Büch",
+                "correct": false
+            }, {
+                "text": "die Buch",
+                "correct": false
+            }, {
+                "text": "die Bücher",
+                "correct": true
+            }, {
+                "text": "die Buches",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "der Tisch",
+        "answers": [
+            {
+                "text": "die Tisch",
+                "correct": false
+            }, {
+                "text": "die Tische",
+                "correct": true
+            }, {
+                "text": "die Tischs",
+                "correct": false
+            }, {
+                "text": "die Tischen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "die Blume",
+        "answers": [
+            {
+                "text": "die Blum",
+                "correct": false
+            }, {
+                "text": "die Blumes",
+                "correct": false
+            }, {
+                "text": "die Blume",
+                "correct": false
+            }, {
+                "text": "die Blumen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "das Haus",
+        "answers": [
+            {
+                "text": "die Haus",
+                "correct": false
+            }, {
+                "text": "die Häuser",
+                "correct": true
+            }, {
+                "text": "die Hauses",
+                "correct": false
+            }, {
+                "text": "die Häusern",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "der Baum",
+        "answers": [
+            {
+                "text": "die Baum",
+                "correct": false
+            }, {
+                "text": "die Bäums",
+                "correct": false
+            }, {
+                "text": "die Bäume",
+                "correct": true
+            }, {
+                "text": "die Baumes",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "die Maus",
+        "answers": [
+            {
+                "text": "die Mäuse",
+                "correct": true
+            }, {
+                "text": "die Maus",
+                "correct": false
+            }, {
+                "text": "die Mäus",
+                "correct": false
+            }, {
+                "text": "die Mause",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "die Lampe",
+        "answers": [
+            {
+                "text": "die Lampn",
+                "correct": false
+            }, {
+                "text": "die Lampe",
+                "correct": false
+            }, {
+                "text": "die Lampen",
+                "correct": true
+            }, {
+                "text": "die Lampes",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "das Auto",
+        "answers": [
+            {
+                "text": "die Auto",
+                "correct": false
+            }, {
+                "text": "die Autos",
+                "correct": true
+            }, {
+                "text": "die Auton",
+                "correct": false
+            }, {
+                "text": "die Autoes",
+                "correct": false
+            }
+        ]
+    }
+]
