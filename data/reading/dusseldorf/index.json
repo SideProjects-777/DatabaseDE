@@ -154,7 +154,7 @@
             "de": "Verborgenen Schlossschatz entdecken",
             "ru": "Открытие сокровищ в замке"
         },
-        "level": "B1",
+        "level": "B2",
         "image": "Treasure.jpg",
         "file": "Treasure.txt",
         "words": "Treasure.json",
