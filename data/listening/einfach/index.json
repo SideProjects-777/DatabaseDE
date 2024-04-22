@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "en": "Lena's Journey",
+            "de": "Lenas Reise",
+            "ru": "Путешествие Лены"
+        },
+        "description": {
+            "en": "Summer language course",
+            "de": "Sommer Sprachkurs",
+            "ru": "Летний языковой курс"
+        },
+        "level": "A1",
+        "image": "Lena.png",
+        "file": "Lena.txt",
+        "words": "Lena.json",
+        "yesNo": "Lena.json"
+    }
+]
