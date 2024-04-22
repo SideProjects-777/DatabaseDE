@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Sophia ist 15 Jahre alt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Sophia hat einen Bruder namens Lucas.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Sophias Lieblingsfach ist Mathematik.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sophias Mutter ist Ärztin.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sophia lebt seit drei Jahren in Kanada.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sophias Familie hat keinen Teich im Garten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sophia geht gerne in die Schule.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Sophia hat keine Haustiere.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sophia geht oft mit ihren Freundinnen ins Kino.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sophia kocht manchmal mit ihrem Vater.",
+        "tr": false,
+        "fle": true
+    }
+]
