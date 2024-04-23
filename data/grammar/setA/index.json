@@ -1,0 +1,23 @@
+[
+    {
+        "name": "der / die / das",
+        "description": {
+            "en": "Articles",
+            "de": "Artikel",
+            "ru": "Aртикли"
+        },
+        "file": "article.json",
+        "icon":"robot-confused",
+        "iconFamily":"MaterialCommunityIcons"
+    }, {
+        "name":"die Bücher",
+        "description": {
+            "en": "Plurals",
+            "de": "Plurale",
+            "ru": "Множественное число"
+        },
+        "folder": "plurals.json",
+        "icon":"copy",
+        "iconFamily":"FontAwesome"
+    }
+]
