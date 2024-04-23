@@ -1,0 +1,122 @@
+[
+    {
+        "de": "die Giraffe",
+        "en": "giraffe",
+        "ru": "жираф",
+        "descriptionEN": "Tall African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines.",
+        "descriptionRU": "Высокое африканское млекопитающее с очень длинной шеей и передними ногами, имеющее окраску с пятнами коричневого цвета, разделенными светлыми полосами.",
+        "descriptionDE": "Großes afrikanisches Säugetier mit einem sehr langen Hals und Vorderbeinen, das ein Fell mit braunen Flecken hat, die von helleren Linien getrennt sind."
+    }, {
+        "de": "der Affe",
+        "en": "monkey",
+        "ru": "обезьяна",
+        "descriptionEN": "A primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
+        "descriptionRU": "Примат, который обычно имеет длинный хвост, большинство видов которого живут на деревьях в тропических странах.",
+        "descriptionDE": "Ein Primat, der typischerweise einen langen Schwanz hat, die meisten Arten leben in Bäumen in tropischen Ländern."
+    }, {
+        "de": "der Elefant",
+        "en": "elephant",
+        "ru": "слон",
+        "descriptionEN": "A very large herbivorous mammal with thick skin, typically long, curved tusks, and a prehensile trunk.",
+        "descriptionRU": "Очень крупное травоядное млекопитающее с толстой кожей, обычно длинными изогнутыми бивнями и хоботом.",
+        "descriptionDE": "Ein sehr großes pflanzenfressendes Säugetier mit dicker Haut, typischerweise langen, gebogenen Stoßzähnen und einem Greifrüssel."
+    }, {
+        "de": "die Schlange",
+        "en": "snake",
+        "ru": "змея",
+        "descriptionEN": "A long limbless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension.",
+        "descriptionRU": "Длинное бесногое пресмыкающееся, у которого нет век, короткий хвост и челюсти, способные на значительное удлинение.",
+        "descriptionDE": "Ein langes beinloses Reptil ohne Augenlider, einen kurzen Schwanz und Kiefer, die sich erheblich ausdehnen können."
+    }, {
+        "de": "der Papagei",
+        "en": "parrot",
+        "ru": "попугай",
+        "descriptionEN": "A bird, often vividly colored, with a short down-curved hooked bill, grasping feet, and a raucous voice, found especially in the tropics and feeding on fruits and seeds.",
+        "descriptionRU": "Птица, часто ярко окрашенная, с коротким, изогнутым крючковатым клювом, захватывающими ногами и хриплым голосом, особенно распространена в тропиках и питается фруктами и семенами.",
+        "descriptionDE": "Ein Vogel, oft lebhaft gefärbt, mit einem kurzen nach unten gebogenen hakigen Schnabel, greifenden Füßen und einer heiseren Stimme, besonders in den Tropen zu finden und sich von Früchten und Samen ernährend."
+    }, {
+        "de": "die Sonne",
+        "en": "sun",
+        "ru": "солнце",
+        "descriptionEN": "The star around which the earth orbits.",
+        "descriptionRU": "Звезда, вокруг которой вращается Земля.",
+        "descriptionDE": "Der Stern, um den die Erde kreist."
+    }, {
+        "de": "der Tag",
+        "en": "day",
+        "ru": "день",
+        "descriptionEN": "The time between sunrise and sunset.",
+        "descriptionRU": "Время между восходом и закатом солнца.",
+        "descriptionDE": "Die Zeit zwischen Sonnenaufgang und Sonnenuntergang."
+    }, {
+        "de": "die Nacht",
+        "en": "night",
+        "ru": "ночь",
+        "descriptionEN": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+        "descriptionRU": "Период темноты в каждые двадцать четыре часа; время от заката до восхода солнца.",
+        "descriptionDE": "Die Zeit der Dunkelheit in jeder vierundzwanzig Stunden; die Zeit vom Sonnenuntergang bis zum Sonnenaufgang."
+    }, {
+        "de": "glücklich",
+        "en": "happy",
+        "ru": "счастливый",
+        "descriptionEN": "Feeling or showing pleasure or contentment.",
+        "descriptionRU": "Чувствующий или проявляющий удовольствие или удовлетворение.",
+        "descriptionDE": "Freude oder Zufriedenheit empfinden oder zeigen."
+    }, {
+        "de": "besonders",
+        "en": "special",
+        "ru": "особенный",
+        "descriptionEN": "Better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
+        "descriptionDE": "Besser, größer oder sonst anders als üblich."
+    }, {
+        "de": "sonnig",
+        "en": "sunny",
+        "ru": "солнечный",
+        "descriptionEN": "Bright with sunlight.",
+        "descriptionRU": "Яркий с солнечным светом.",
+        "descriptionDE": "Hell vom Sonnenlicht."
+    }, {
+        "de": "groß",
+        "en": "big",
+        "ru": "большой",
+        "descriptionEN": "Of considerable or great size.",
+        "descriptionRU": "Значительного или большого размера.",
+        "descriptionDE": "Von beträchtlicher oder großer Größe."
+    }, {
+        "de": "seltsam",
+        "en": "strange",
+        "ru": "странный",
+        "descriptionEN": "Unusual or surprising; difficult to understand or explain.",
+        "descriptionRU": "Необычный или удивительный; трудный для понимания или объяснения.",
+        "descriptionDE": "Ungewöhnlich oder überraschend; schwer zu verstehen oder zu erklären."
+    }, {
+        "de": "lang",
+        "en": "long",
+        "ru": "длинный",
+        "descriptionEN": "Measuring a great distance from end to end.",
+        "descriptionRU": "Измерение большого расстояния от конца до конца.",
+        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende."
+    }, {
+        "de": "abkühlen",
+        "en": "cool down",
+        "ru": "остыть",
+        "descriptionEN": "Become or cause to become less hot.",
+        "descriptionRU": "Становиться или вызывать охлаждение.",
+        "descriptionDE": "Weniger heiß werden oder dazu führen, dass es weniger heiß wird."
+    }, {
+        "de": "glücklich",
+        "en": "happily",
+        "ru": "счастливо",
+        "descriptionEN": "In a happy manner.",
+        "descriptionRU": "Счастливым образом.",
+        "descriptionDE": "Auf glückliche Weise."
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "Used to single out one person or thing over all others.",
+        "descriptionRU": "Используется для выделения одного человека или вещи среди всех остальных.",
+        "descriptionDE": "Verwendet, um eine Person oder Sache über alle anderen hinweg auszuwählen."
+    }
+]

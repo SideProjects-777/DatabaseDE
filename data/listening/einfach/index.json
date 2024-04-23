@@ -15,5 +15,22 @@
         "file": "Lena.txt",
         "words": "Lena.json",
         "yesNo": "Lena.json"
+    },
+    {
+        "name": {
+            "en": "Lily's Adventure",
+            "de": "Lilys Abenteuer",
+            "ru": "Приключения Лили"
+        },
+        "description": {
+            "en": "Zoo Visit",
+            "de": "Zoobesuch",
+            "ru": "Визит в зоопарк"
+        },
+        "level": "A1",
+        "image": "Lily.jpg",
+        "file": "Lily.txt",
+        "words": "Lily.json",
+        "multi": "Lily.json"
     }
 ]
