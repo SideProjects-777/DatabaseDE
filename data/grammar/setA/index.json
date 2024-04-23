@@ -16,7 +16,7 @@
             "de": "Plurale",
             "ru": "Множественное число"
         },
-        "folder": "plurals.json",
+        "file": "plurals.json",
         "icon":"copy",
         "iconFamily":"FontAwesome"
     }
