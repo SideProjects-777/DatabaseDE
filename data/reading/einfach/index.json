@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": {
             "en": "Sophia's Life",
             "de": "Sophias Leben",
@@ -14,5 +15,21 @@
         "file": "Sophia.txt",
         "words": "Sophia.json",
         "yesNo": "Sophia.json"
+    }, {
+        "name": {
+            "en": "Final year",
+            "de": "Abschlussjahr",
+            "ru": "Последний год"
+        },
+        "description": {
+            "en": "First School Day",
+            "de": "Erste Schultage",
+            "ru": "Первый школьный день"
+        },
+        "level": "A1",
+        "image": "Abschlussjahr.png",
+        "file": "Abschlussjahr.txt",
+        "words": "Abschlussjahr.json",
+        "yesNo": "Abschlussjahr.json"
     }
 ]

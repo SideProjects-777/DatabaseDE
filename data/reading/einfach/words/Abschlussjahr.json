@@ -1,0 +1,115 @@
+[
+    {
+        "de": "der Schultag",
+        "en": "school day",
+        "ru": "школьный день",
+        "descriptionEN": "a day designated for attending school",
+        "descriptionRU": "день, выделенный для посещения школы",
+        "descriptionDE": "Ein Tag, der für den Schulbesuch bestimmt ist"
+    }, {
+        "de": "der Schüler",
+        "en": "student",
+        "ru": "ученик",
+        "descriptionEN": "a person who is studying at a school",
+        "descriptionRU": "человек, который учится в школе",
+        "descriptionDE": "Eine Person, die in einer Schule studiert"
+    }, {
+        "de": "die Mathematik",
+        "en": "mathematics",
+        "ru": "математика",
+        "descriptionEN": "the abstract science of number, quantity, and space",
+        "descriptionRU": "абстрактная наука о числе, количестве и пространстве",
+        "descriptionDE": "Die abstrakte Wissenschaft von Zahl, Menge und Raum"
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events",
+        "descriptionRU": "изучение прошлых событий",
+        "descriptionDE": "Die Untersuchung vergangener Ereignisse"
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "the expression or application of human creative skill and imagination",
+        "descriptionRU": "выражение или применение человеческого творческого ума и воображения",
+        "descriptionDE": "Der Ausdruck oder die Anwendung menschlichen kreativen Geschicks und Vorstellungskraft"
+    }, {
+        "de": "die Biologie",
+        "en": "biology",
+        "ru": "биология",
+        "descriptionEN": "the study of living organisms",
+        "descriptionRU": "изучение живых организмов",
+        "descriptionDE": "Die Untersuchung lebender Organismen"
+    }, {
+        "de": "die Natur",
+        "en": "nature",
+        "ru": "природа",
+        "descriptionEN": "the phenomena of the physical world collectively",
+        "descriptionRU": "явления физического мира в целом",
+        "descriptionDE": "Die Phänomene der physischen Welt insgesamt"
+    }, {
+        "de": "der Traum",
+        "en": "dream",
+        "ru": "мечта",
+        "descriptionEN": "a cherished aspiration, ambition, or ideal",
+        "descriptionRU": "дорогая амбиция, амбиция или идеал",
+        "descriptionDE": "Ein gehegter Wunsch, eine Ambition oder ein Ideal"
+    }, {
+        "de": "die Chemie",
+        "en": "chemistry",
+        "ru": "химия",
+        "descriptionEN": "the branch of science concerned with the substances of which matter is composed",
+        "descriptionRU": "раздел науки, занимающийся веществами, из которых состоит материя",
+        "descriptionDE": "Der Zweig der Wissenschaft, der sich mit den Substanzen befasst, aus denen die Materie besteht"
+    }, {
+        "de": "schwierig",
+        "en": "difficult",
+        "ru": "трудный",
+        "descriptionEN": "needing much effort or skill to accomplish, deal with, or understand",
+        "descriptionRU": "требующий много усилий или навыков для выполнения, справления или понимания",
+        "descriptionDE": "Erfordert viel Mühe oder Geschick, um zu erreichen, zu bewältigen oder zu verstehen"
+    }, {
+        "de": "langweilig",
+        "en": "boring",
+        "ru": "скучный",
+        "descriptionEN": "not interesting; tedious",
+        "descriptionRU": "неинтересный; скучный",
+        "descriptionDE": "Nicht interessant; langweilig"
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "возбужденный",
+        "descriptionEN": "having strong feelings of enthusiasm or eagerness",
+        "descriptionRU": "имеющий сильные чувства энтузиазма или нетерпения",
+        "descriptionDE": "Starke Gefühle von Begeisterung oder Eifer haben"
+    }, {
+        "de": "fest entschlossen",
+        "en": "determined",
+        "ru": "решительный",
+        "descriptionEN": "having made a firm decision and being resolved not to change it",
+        "descriptionRU": "приняв твердое решение и решив не менять его",
+        "descriptionDE": "Eine feste Entscheidung getroffen haben und fest entschlossen sein, sie nicht zu ändern"
+    }, {
+        "de": "später",
+        "en": "later",
+        "ru": "позже",
+        "descriptionEN": "at some time subsequent to a given time; subsequent",
+        "descriptionRU": "в некоторое время после заданного времени; последующий",
+        "descriptionDE": "Zu einem Zeitpunkt nach einer gegebenen Zeit; nachfolgend"
+    }, {
+        "de": "gemeinsam",
+        "en": "together",
+        "ru": "вместе",
+        "descriptionEN": "in proximity, association, cooperation, or connection with",
+        "descriptionRU": "вблизи, ассоциации, сотрудничества или связи с",
+        "descriptionDE": "In der Nähe, Assoziation, Zusammenarbeit oder Verbindung mit"
+    }, {
+        "de": "letztes",
+        "en": "last",
+        "ru": "последний",
+        "descriptionEN": "occurring or coming after all others",
+        "descriptionRU": "происходящий или приходящий после всех остальных",
+        "descriptionDE": "Nach allen anderen auftretend oder kommend"
+    }
+]
