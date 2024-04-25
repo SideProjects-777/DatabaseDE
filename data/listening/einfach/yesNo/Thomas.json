@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Orangen sind saftig und haben eine dunkle Farbe.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Äpfel können nur rot sein.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Bananen haben eine raue Haut.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Möhren sind gut für die Augen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Tomaten sind eckig.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Gurken sind ideal für Suppen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paprikaschoten sind süß und weich.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Es ist wichtig, jeden Tag Obst und Gemüse zu essen, weil es ungesund für unseren Körper ist.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Als Zwischenmahlzeit isst Thomas gerne eine Orange oder eine Banane.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Ein Salat aus Tomaten, Karotten, Gurken und Paprika ist Thomas' Lieblingssalat.",
+        "tr": true,
+        "fle": false
+    }
+]
