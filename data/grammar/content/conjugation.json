@@ -17,7 +17,7 @@
             }
         ]
     }, {
-        "name": "Sie (trinken) gerne Tee am Morgen.",
+        "name": "Sie(informal) (trinken) gerne Tee am Morgen.",
         "answers": [
             {
                 "text": "trinke",
@@ -85,7 +85,7 @@
             }
         ]
     }, {
-        "name": "Sie (machen) Sport am Wochenende.",
+        "name": "Sie(formal) (machen) Sport am Wochenende.",
         "answers": [
             {
                 "text": "mache",
@@ -136,7 +136,7 @@
             }
         ]
     }, {
-        "name": "Sie (sprechen) Spanisch fließend.",
+        "name": "Sie(formal) (sprechen) Spanisch fließend.",
         "answers": [
             {
                 "text": "sprechen",
