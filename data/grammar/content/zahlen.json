@@ -1,0 +1,173 @@
+[
+    {
+        "name": "15 Hunde tollten fröhlich im Park herum.",
+        "answers": [
+            {
+                "text": "Elf",
+                "correct": false
+            }, {
+                "text": "Ein­und­fünfzig",
+                "correct": false
+            }, {
+                "text": "Fünfzehn",
+                "correct": true
+            }, {
+                "text": "Fünf­und­fünfzig",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In der Schule gab es 2 neue Lehrer.",
+        "answers": [
+            {
+                "text": "Eins",
+                "correct": false
+            }, {
+                "text": "Zwei",
+                "correct": true
+            }, {
+                "text": "Drei",
+                "correct": false
+            }, {
+                "text": "Vier",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Der Geburtstagskuchen hatte 7 Kerzen.",
+        "answers": [
+            {
+                "text": "Fünf",
+                "correct": false
+            }, {
+                "text": "Sechs",
+                "correct": false
+            }, {
+                "text": "Sieben",
+                "correct": true
+            }, {
+                "text": "Acht",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Es waren 44 verschiedene Farben auf der Leinwand zu sehen.",
+        "answers": [
+            {
+                "text": "Vierzig",
+                "correct": false
+            }, {
+                "text": "Vier­und­vierzig",
+                "correct": true
+            }, {
+                "text": "Ein­und­vierzig",
+                "correct": false
+            }, {
+                "text": "Ein­hundert­vier",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Am Tisch standen 3 Vasen mit frischen Blumen.",
+        "answers": [
+            {
+                "text": "Zwei",
+                "correct": false
+            }, {
+                "text": "Drei",
+                "correct": true
+            }, {
+                "text": "Vier",
+                "correct": false
+            }, {
+                "text": "Fünf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In der Geschichte trafen sich 6 Abenteurer am Lagerfeuer.",
+        "answers": [
+            {
+                "text": "Vier",
+                "correct": false
+            }, {
+                "text": "Fünf",
+                "correct": false
+            }, {
+                "text": "Sechs",
+                "correct": true
+            }, {
+                "text": "Sieben",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Das Puzzle bestand aus 98 Teilen.",
+        "answers": [
+            {
+                "text": "Achtundneunzig",
+                "correct": true
+            }, {
+                "text": "Neunundachtzig",
+                "correct": false
+            }, {
+                "text": "Acht­und­siebzig",
+                "correct": false
+            }, {
+                "text": "Acht­und­achtzig",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Im Zoo lebten 50 verschiedene Tierarten.",
+        "answers": [
+            {
+                "text": "Vierzig",
+                "correct": false
+            }, {
+                "text": "Fünfzig",
+                "correct": true
+            }, {
+                "text": "Fünfzehn",
+                "correct": false
+            }, {
+                "text": "Sechzig",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Der Baum hatte 120 Blätter verloren.",
+        "answers": [
+            {
+                "text": "Ein­hundert­zwei­und­zwanzig",
+                "correct": false
+            }, {
+                "text": "Ein­hundert­zwölf",
+                "correct": false
+            }, {
+                "text": "Hundertzwanzig",
+                "correct": true
+            }, {
+                "text": "Hundert­zwei",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Flasche enthielt 32 Milliliter Wasser.",
+        "answers": [
+            {
+                "text": "Drei­und­zwanzig",
+                "correct": false
+            }, {
+                "text": "Drei­und­dreißig",
+                "correct": false
+            }, {
+                "text": "Drei­hundert­zwei",
+                "correct": false
+            }, {
+                "text": "Zweiunddreißig",
+                "correct": true
+            }
+        ]
+    }
+]

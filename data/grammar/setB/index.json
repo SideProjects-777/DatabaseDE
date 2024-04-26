@@ -1,3 +1,12 @@
-[
-
+[{
+        "name": "11 - elf",
+        "description": {
+            "en": "Numbers",
+            "de": "Zahlen",
+            "ru": "Цифры"
+        },
+        "file": "zahlen.json",
+        "icon": "number",
+        "iconFamily": "Octicons"
+    }
 ]
