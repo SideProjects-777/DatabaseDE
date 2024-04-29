@@ -1,25 +1,5 @@
 [
     {
-        "name": "der / die / das",
-        "description": {
-            "en": "Articles",
-            "de": "Artikel",
-            "ru": "Aртикли"
-        },
-        "file": "article.json",
-        "icon": "robot-confused",
-        "iconFamily": "MaterialCommunityIcons"
-    }, {
-        "name": "die Bücher",
-        "description": {
-            "en": "Plurals",
-            "de": "Plurale",
-            "ru": "Множественное число"
-        },
-        "file": "plurals.json",
-        "icon": "copy",
-        "iconFamily": "FontAwesome"
-    }, {
         "name": "bin / bist / ist",
         "description": {
             "en": "Conjugation",
@@ -29,5 +9,16 @@
         "file": "conjugation.json",
         "icon": "running",
         "iconFamily": "FontAwesome5"
+    },
+    {
+        "name": "11 - elf",
+        "description": {
+            "en": "Numbers",
+            "de": "Zahlen",
+            "ru": "Цифры"
+        },
+        "file": "zahlen.json",
+        "icon": "number",
+        "iconFamily": "Octicons"
     }
 ]

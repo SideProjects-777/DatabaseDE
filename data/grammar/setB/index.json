@@ -1,12 +1,23 @@
-[{
-        "name": "11 - elf",
+[
+    {
+        "name": "der / die / das",
         "description": {
-            "en": "Numbers",
-            "de": "Zahlen",
-            "ru": "Цифры"
+            "en": "Articles",
+            "de": "Artikel",
+            "ru": "Aртикли"
         },
-        "file": "zahlen.json",
-        "icon": "number",
-        "iconFamily": "Octicons"
+        "file": "article.json",
+        "icon": "robot-confused",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
+        "name": "die Bücher",
+        "description": {
+            "en": "Plurals",
+            "de": "Plurale",
+            "ru": "Множественное число"
+        },
+        "file": "plurals.json",
+        "icon": "copy",
+        "iconFamily": "FontAwesome"
     }
 ]
