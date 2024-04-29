@@ -1,33 +1,23 @@
 [
     {
-        "name": "der / die / das",
+        "name": "Wortschatz",
         "description": {
-            "en": "Articles",
-            "de": "Artikel",
-            "ru": "Aртикли"
+            "en": "Introduction II",
+            "de": "Vorstellung II",
+            "ru": "Знакомство II"
         },
-        "file": "article.json",
-        "icon": "robot-confused",
-        "iconFamily": "MaterialCommunityIcons"
+        "file": "hallo.json",
+        "icon": "hand",
+        "iconFamily": "Entypo"
     }, {
-        "name": "die Bücher",
+        "name": "Wortschatz",
         "description": {
-            "en": "Plurals",
-            "de": "Plurale",
-            "ru": "Множественное число"
+            "en": "Colors",
+            "de": "Farben",
+            "ru": "Цвета"
         },
-        "file": "plurals.json",
-        "icon": "copy",
-        "iconFamily": "FontAwesome"
-    }, {
-        "name": "bin / bist / ist",
-        "description": {
-            "en": "Conjugation",
-            "de": "Konjugation",
-            "ru": "Спряжение"
-        },
-        "file": "conjugation.json",
-        "icon": "running",
-        "iconFamily": "FontAwesome5"
+        "file": "farben.json",
+        "icon": "color-palette-outline",
+        "iconFamily": "Ionicons"
     }
 ]
