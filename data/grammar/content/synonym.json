@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Fahrzeug",
+        "answers": [
+            {
+                "text": "Auto",
+                "correct": true
+            }, {
+                "text": "Flugzeug",
+                "correct": false
+            }, {
+                "text": "Boot",
+                "correct": false
+            }, {
+                "text": "Fußgänger",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Schnell",
+        "answers": [
+            {
+                "text": "Langsam",
+                "correct": false
+            }, {
+                "text": "Rasch",
+                "correct": true
+            }, {
+                "text": "Gemächlich",
+                "correct": false
+            }, {
+                "text": "Heiß",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Freude",
+        "answers": [
+            {
+                "text": "Trauer",
+                "correct": false
+            }, {
+                "text": "Kummer",
+                "correct": false
+            }, {
+                "text": "Verzweiflung",
+                "correct": false
+            }, {
+                "text": "Vergnügen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Klein",
+        "answers": [
+            {
+                "text": "Groß",
+                "correct": false
+            }, {
+                "text": "Winzig",
+                "correct": true
+            }, {
+                "text": "Kurz",
+                "correct": false
+            }, {
+                "text": "Lang",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ruhig",
+        "answers": [
+            {
+                "text": "Heftig",
+                "correct": false
+            }, {
+                "text": "Friedlich",
+                "correct": true
+            }, {
+                "text": "Laut",
+                "correct": false
+            }, {
+                "text": "Wild",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Schön",
+        "answers": [
+            {
+                "text": "Hässlich",
+                "correct": false
+            }, {
+                "text": "Gut",
+                "correct": false
+            }, {
+                "text": "Böse",
+                "correct": false
+            }, {
+                "text": "Hübsch",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Häufig",
+        "answers": [
+            {
+                "text": "Selten",
+                "correct": false
+            }, {
+                "text": "Manchmal",
+                "correct": false
+            }, {
+                "text": "Nie",
+                "correct": false
+            }, {
+                "text": "Oft",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Gesund",
+        "answers": [
+            {
+                "text": "Schwach",
+                "correct": false
+            }, {
+                "text": "Fit",
+                "correct": true
+            }, {
+                "text": "Müde",
+                "correct": false
+            }, {
+                "text": "Krank",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Schwer",
+        "answers": [
+            {
+                "text": "Leicht",
+                "correct": false
+            }, {
+                "text": "Hart",
+                "correct": true
+            }, {
+                "text": "Weich",
+                "correct": false
+            }, {
+                "text": "Stark",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Klug",
+        "answers": [
+            {
+                "text": "Naiv",
+                "correct": false
+            }, {
+                "text": "Intelligent",
+                "correct": true
+            }, {
+                "text": "Schlau",
+                "correct": false
+            }, {
+                "text": "Dumm",
+                "correct": false
+            }
+        ]
+    }
+]

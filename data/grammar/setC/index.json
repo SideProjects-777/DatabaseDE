@@ -20,5 +20,15 @@
         "file": "zahlen.json",
         "icon": "number",
         "iconFamily": "Octicons"
+    }, {
+        "name": "Groß  - Riesig",
+        "description": {
+            "en": "Synonyms",
+            "de": "Synonyme",
+            "ru": "Синонимы"
+        },
+        "file": "synonym.json",
+        "icon": "clone",
+        "iconFamily": "FontAwesome5"
     }
 ]
