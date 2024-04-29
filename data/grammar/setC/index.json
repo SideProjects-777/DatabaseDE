@@ -30,5 +30,15 @@
         "file": "synonym.json",
         "icon": "clone",
         "iconFamily": "FontAwesome5"
+    }, {
+        "name": "Groß  - Klein",
+        "description": {
+            "en": "Antonyms",
+            "de": "Antonyme",
+            "ru": "Антонимы"
+        },
+        "file": "antonyms.json",
+        "icon": "refresh-ccw",
+        "iconFamily": "Feather"
     }
 ]
