@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Pia's Interests",
+            "de": "Pias Interessen",
+            "ru": "Интересы Пии"
+        },
+        "description": {
+            "en": "Hobbies and friends",
+            "de": "Hobbys und Freunde",
+            "ru": "Хобби и друзья"
+        },
+        "level": "A1",
+        "image": "Pia.jpg",
+        "file": "Pia.txt",
+        "words": "Pia.json",
+        "yesNo": "Pia.json"
+    }, {
+        "name": {
             "en": "Sophia's Life",
             "de": "Sophias Leben",
             "ru": "Жизнь Софии"
