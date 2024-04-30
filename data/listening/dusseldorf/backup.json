@@ -2,23 +2,7 @@
 // B2 -> 3
 //1
 [
-    {
-        "name": {
-            "en": "Guess the city",
-            "de": "Errate die Stadt",
-            "ru": "Угадайте город"
-        },
-        "description": {
-            "en": "Cosmopolitan city",
-            "de": "Kosmopolitische Stadt",
-            "ru": "Космополитический город"
-        },
-        "level": "A2",
-        "image": "Cosmopolitan.jpg",
-        "file": "Cosmopolitan.mp3",
-        "words": "Cosmopolitan.json",
-        "yesNo": "Cosmopolitan.json"
-    }, {
+  {
         "name": {
             "en": "Allure",
             "de": "Der Reiz",
