@@ -18,21 +18,5 @@
         "file": "Allure.mp3",
         "words": "Allure.json",
         "yesNo": "Allure.json"
-    }, {
-        "name": {
-            "en": "Weather",
-            "de": "Wetter",
-            "ru": "Погода"
-        },
-        "description": {
-            "en": "Climate guide",
-            "de": "Klimaführer",
-            "ru": "Гид по климату"
-        },        
-        "level": "B1",
-        "image": "Klimafuhrer.jpg",
-        "file": "Klimafuhrer.mp3",
-        "words": "Klimafuhrer.json",
-        "yesNo": "Klimafuhrer.json"
     }
 ]
