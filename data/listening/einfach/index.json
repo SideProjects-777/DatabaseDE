@@ -15,31 +15,13 @@
         "file": "Lena.txt",
         "words": "Lena.json",
         "yesNo": "Lena.json"
-    },
-    {
+    }, {
         "name": {
-            "en": "Lily's Adventure",
-            "de": "Lilys Abenteuer",
-            "ru": "Приключения Лили"
-        },
-        "description": {
-            "en": "Zoo Visit",
-            "de": "Zoobesuch",
-            "ru": "Визит в зоопарк"
-        },
-        "level": "A1",
-        "image": "Lily.jpg",
-        "file": "Lily.txt",
-        "words": "Lily.json",
-        "multi": "Lily.json"
-    },
-    {
-        "name":{
             "en": "Thomas's Favorites",
             "de": "Thomas' Favoriten",
             "ru": "Любимое Томаса"
         },
-        "description":{
+        "description": {
             "en": "Fruits and vegetables",
             "de": "Obst und Gemüse",
             "ru": "Фрукты и овощи"
@@ -49,5 +31,21 @@
         "file": "Thomas.txt",
         "words": "Thomas.json",
         "yesNo": "Thomas.json"
+    }, {
+        "name": {
+            "en": "Coffee Tradition",
+            "de": "Kaffeetradition",
+            "ru": "Традиция кофе"
+        },
+        "description": {
+            "en": "Friends share cakes",
+            "de": "Freunde teilen Kuchen",
+            "ru": "Друзья делятся пирогами"
+        },
+        "level": "A1",
+        "image": "Kaffeetradition.jpg",
+        "file": "Kaffeetradition.txt",
+        "words": "Kaffeetradition.json",
+        "yesNo": "Kaffeetradition.json"
     }
 ]
