@@ -10,7 +10,7 @@
             "de": "Hobbys und Freunde",
             "ru": "Хобби и друзья"
         },
-        "level": "A1",
+        "level": "A2",
         "image": "Pia.jpg",
         "file": "Pia.txt",
         "words": "Pia.json",
@@ -26,7 +26,7 @@
             "de": "Das Leben und die Aktivitäten",
             "ru": "Жизнь и интересы"
         },
-        "level": "A1",
+        "level": "A2",
         "image": "Sophia.jpg",
         "file": "Sophia.txt",
         "words": "Sophia.json",
@@ -42,10 +42,26 @@
             "de": "Erste Schultage",
             "ru": "Первый школьный день"
         },
-        "level": "A1",
+        "level": "A2",
         "image": "Abschlussjahr.png",
         "file": "Abschlussjahr.txt",
         "words": "Abschlussjahr.json",
         "yesNo": "Abschlussjahr.json"
+    }, {
+        "name": {
+            "en": "German Sunday",
+            "de": "Deutscher Sonntag",
+            "ru": "Немецкое воскресенье"
+        },
+        "description": {
+            "en": "Weekend customs",
+            "de": "Wochenendbräuche",
+            "ru": "Обычаи выходного дня"
+        },
+        "level": "A1",
+        "image": "Weekend.jpg",
+        "file": "Weekend.txt",
+        "words": "Weekend.json",
+        "yesNo": "Weekend.json"
     }
 ]
