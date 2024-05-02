@@ -1,0 +1,191 @@
+[
+    {
+        "name": "Die Schwester meines Vaters ist meine _____",
+        "answers": [
+            {
+                "text": "Mutter",
+                "correct": false
+            }, {
+                "text": "Tante",
+                "correct": true
+            }, {
+                "text": "Großmutter",
+                "correct": false
+            }, {
+                "text": "Schwester",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Der Vater meiner Mutter ist mein _____",
+        "answers": [
+            {
+                "text": "Onkel",
+                "correct": false
+            }, {
+                "text": "Sohn",
+                "correct": false
+            }, {
+                "text": "Großvater",
+                "correct": true
+            }, {
+                "text": "Vater",
+                "correct": false
+            }
+        ]
+    }
+    {
+        "name": "Den Kindern meiner Geschwister und ist meine _____",
+        "answers": [
+            {
+                "text": "Neffen und Nichten",
+                "correct": true
+            }, {
+                "text": "Enkelkinder",
+                "correct": false
+            }, {
+                "text": "Cousins und Cousinen",
+                "correct": false
+            }, {
+                "text": "Schwiegerkinder",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Tochter meines Onkels ist meine _____",
+        "answers": [
+            {
+                "text": "Großmutter",
+                "correct": false
+            }, {
+                "text": "Cousine",
+                "correct": true
+            }, {
+                "text": "Schwester",
+                "correct": false
+            }, {
+                "text": "Nichte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Mutter meines Vaters ist meine _____",
+        "answers": [
+            {
+                "text": "Tante",
+                "correct": false
+            }, {
+                "text": "Mutter",
+                "correct": false
+            }, {
+                "text": "Großmutter",
+                "correct": true
+            }, {
+                "text": "Großtante",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Schwester meiner Mutter ist meine _____",
+        "answers": [
+            {
+                "text": "Tante",
+                "correct": true
+            }, {
+                "text": "Großmutter",
+                "correct": false
+            }, {
+                "text": "Cousine",
+                "correct": false
+            }, {
+                "text": "Schwester",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Der Bruder meiner Mutter ist mein _____",
+        "answers": [
+            {
+                "text": "Sohn",
+                "correct": false
+            }, {
+                "text": "Großvater",
+                "correct": false
+            }, {
+                "text": "Cousin",
+                "correct": false
+            }, {
+                "text": "Onkel",
+                "correct": true
+            }
+        ]
+    },{
+        "name": "Die Kinder meiner Cousine sind meine _____",
+        "answers": [
+            {
+                "text": "Geschwister",
+                "correct": false
+            }, {
+                "text": "Neffen und Nichten",
+                "correct": false
+            }, {
+                "text": "Cousins und Cousinen",
+                "correct": true
+            }, {
+                "text": "Enkelkinder",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Schwester meines Vaters ist meine _____",
+        "answers": [
+            {
+                "text": "Tante",
+                "correct": true
+            }, {
+                "text": "Mutter",
+                "correct": false
+            }, {
+                "text": "Großmutter",
+                "correct": false
+            }, {
+                "text": "Schwester",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Mutter meiner Schwester ist meine _____",
+        "answers": [
+            {
+                "text": "Tante",
+                "correct": false
+            }, {
+                "text": "Großmutter",
+                "correct": false
+            }, {
+                "text": "Schwester",
+                "correct": false
+            }, {
+                "text": "Mutter",
+                "correct": true
+            }
+        ]
+    },  {
+        "name": "Die Schwester meiner Mutter ist meine _____",
+        "answers": [
+            {
+                "text": "Tante",
+                "correct": true
+            }, {
+                "text": "Cousine",
+                "correct": false
+            }, {
+                "text": "Schwester",
+                "correct": false
+            }, {
+                "text": "Nichte",
+                "correct": false
+            }
+        ]
+    }
+]

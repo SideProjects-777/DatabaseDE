@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Family",
+            "de": "Familie",
+            "ru": "Семья"
+        },
+        "file": "family.json",
+        "icon": "people",
+        "iconFamily": "Ionicons"
+    }
+]
