@@ -33,8 +33,7 @@
                 "correct": false
             }
         ]
-    }
-    {
+    }, {
         "name": "Den Kindern meiner Geschwister und ist meine _____",
         "answers": [
             {
@@ -119,7 +118,7 @@
                 "correct": true
             }
         ]
-    },{
+    }, {
         "name": "Die Kinder meiner Cousine sind meine _____",
         "answers": [
             {
@@ -170,7 +169,7 @@
                 "correct": true
             }
         ]
-    },  {
+    }, {
         "name": "Die Schwester meiner Mutter ist meine _____",
         "answers": [
             {
