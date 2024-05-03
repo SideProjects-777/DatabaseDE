@@ -2,6 +2,16 @@
     {
         "name": "Wortschatz",
         "description": {
+            "en": "Introduction I",
+            "de": "Vorstellung I",
+            "ru": "Знакомство I"
+        },
+        "file": "introduction.json",
+        "icon": "handshake-o",
+        "iconFamily": "FontAwesome"
+    }, {
+        "name": "Wortschatz",
+        "description": {
             "en": "Family",
             "de": "Familie",
             "ru": "Семья"
