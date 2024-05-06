@@ -80,9 +80,10 @@
             "ru": "Слияние рек Рейн и Мозель"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzREAD.mp4",
         "amountOfStories": 10,
         "active": true,
-        "hasVideo": false
+        "hasVideo": true
     }, {
         "name": {
             "de": "Berlin",
