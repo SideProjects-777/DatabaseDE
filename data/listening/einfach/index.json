@@ -10,7 +10,7 @@
             "de": "Sommer Sprachkurs",
             "ru": "Летний языковой курс"
         },
-        "level": "A1",
+        "level": "A2",
         "image": "Lena.png",
         "file": "Lena.txt",
         "words": "Lena.json",
@@ -26,7 +26,7 @@
             "de": "Obst und Gemüse",
             "ru": "Фрукты и овощи"
         },
-        "level": "A1",
+        "level": "A2",
         "image": "Thomas.jpg",
         "file": "Thomas.txt",
         "words": "Thomas.json",
@@ -42,7 +42,7 @@
             "de": "Freunde teilen Kuchen",
             "ru": "Друзья делятся пирогами"
         },
-        "level": "A1",
+        "level": "A2",
         "image": "Kaffeetradition.jpg",
         "file": "Kaffeetradition.txt",
         "words": "Kaffeetradition.json",
