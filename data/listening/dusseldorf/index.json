@@ -1,14 +1,30 @@
 [
-{
+    {
+        "name": {
+            "en": "Guess the city",
+            "de": "Errate die Stadt",
+            "ru": "Угадайте город"
+        },
+        "description": {
+            "en": "Cosmopolitan city",
+            "de": "Kosmopolitische Stadt",
+            "ru": "Космополитический город"
+        },
+        "level": "A2",
+        "image": "Cosmopolitan.jpg",
+        "file": "Cosmopolitan.mp3",
+        "words": "Cosmopolitan.json",
+        "yesNo": "Cosmopolitan.json"
+    }, {
         "name": {
             "en": "Aquazoo Adventure",
             "de": "Aquazoo Abenteuer",
             "ru": "Приключения в Аквазоопарке"
         },
         "description": {
-            "en": "Exciting school trip",
-            "de": "Spannender Schulausflug",
-            "ru": "Увлекательная школьная экскурсия"
+            "en": "School trip",
+            "de": "Schulausflug",
+            "ru": "Школьная экскурсия"
         },
         "level": "A2",
         "image": "Aquazoo.jpg",
@@ -31,6 +47,22 @@
         "file": "Schauspielerreise.mp3",
         "words": "Schauspielerreise.json",
         "multi": "Schauspielerreise.json"
+    }, {
+        "name": {
+            "en": "Weather",
+            "de": "Wetter",
+            "ru": "Погода"
+        },
+        "description": {
+            "en": "Climate guide",
+            "de": "Klimaführer",
+            "ru": "Гид по климату"
+        },
+        "level": "B1",
+        "image": "Klimafuhrer.jpg",
+        "file": "Klimafuhrer.mp3",
+        "words": "Klimafuhrer.json",
+        "yesNo": "Klimafuhrer.json"
     }, {
         "name": {
             "en": "Love's Symphony",

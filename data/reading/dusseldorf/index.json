@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Hidden gems",
+            "de": "Versteckte Juwelen",
+            "ru": "Скрытые жемчужины"
+        },
+        "description": {
+            "en": "Citizen interviews",
+            "de": "Bürgerinterviews",
+            "ru": "Интервью с гражданами"
+        },
+        "level": "A2",
+        "image": "Bürgerinterviews.jpg",
+        "file": "Bürgerinterviews.txt",
+        "words": "Bürgerinterviews.json",
+        "multi": "Bürgerinterviews.json"
+    }, {
+        "name": {
             "en": "Vacation dilemma",
             "de": "Urlaubsdilemma",
             "ru": "Дилемма отпуска"
@@ -33,6 +49,22 @@
         "multi": "Tonhalle.json"
     }, {
         "name": {
+            "en": "Fashion Fun Day",
+            "de": "Mode-Spaßtag",
+            "ru": "День моды и веселья"
+        },
+        "description": {
+            "en": "Buying clothes",
+            "de": "Kleidung kaufen",
+            "ru": "Покупать одежду"
+        },
+        "level": "A2",
+        "image": "ChicExpedition.jpg",
+        "file": "ChicExpedition.txt",
+        "words": "ChicExpedition.json",
+        "multi": "ChicExpedition.json"
+    }, {
+        "name": {
             "de": "Düsseldorf erkunden",
             "en": "Exploring Dusseldorf",
             "ru": "Знакомство с Дюссельдорфом"
@@ -49,22 +81,6 @@
         "yesNo": "Dusseldorf_Erkunden.json"
     }, {
         "name": {
-            "en": "Castle Treasure Adventure",
-            "de": "Schloss Schatzabenteuer",
-            "ru": "Приключение в замке"
-        },
-        "description": {
-            "en": "Discovering hidden castle treasure",
-            "de": "Verborgenen Schlossschatz entdecken",
-            "ru": "Открытие сокровищ в замке"
-        },
-        "level": "B1",
-        "image": "Treasure.jpg",
-        "file": "Treasure.txt",
-        "words": "Treasure.json",
-        "multi": "Treasure.json"
-    }, {
-        "name": {
             "en": "Altstadt Charm",
             "de": "Altstadt Charme",
             "ru": "Шарм Старого Города"
@@ -79,22 +95,6 @@
         "file": "Altstadt.txt",
         "words": "Altstadt.json",
         "yesNo": "Altstadt.json"
-    }, {
-        "name": {
-            "en": "Heine University",
-            "de": "Heine Universität",
-            "ru": "Университет Гейне"
-        },
-        "description": {
-            "en": "Academic excellence",
-            "de": "Akademische Exzellenz",
-            "ru": "Академическое совершенство"
-        },
-        "level": "B1",
-        "image": "Heine.jpg",
-        "file": "Heine.txt",
-        "words": "Heine.json",
-        "multi": "Heine.json"
     }, {
         "name": {
             "en": "Kö Elegance",
@@ -145,6 +145,22 @@
         "multi": "JapanDay.json"
     }, {
         "name": {
+            "en": "Castle Treasure Adventure",
+            "de": "Schloss Schatzabenteuer",
+            "ru": "Приключение в замке"
+        },
+        "description": {
+            "en": "Discovering hidden castle treasure",
+            "de": "Verborgenen Schlossschatz entdecken",
+            "ru": "Открытие сокровищ в замке"
+        },
+        "level": "B2",
+        "image": "Treasure.jpg",
+        "file": "Treasure.txt",
+        "words": "Treasure.json",
+        "multi": "Treasure.json"
+    }, {
+        "name": {
             "en": "City Charms",
             "de": "Stadtzauber",
             "ru": "Прелесть городов"
@@ -159,5 +175,21 @@
         "file": "Stadtzauber.txt",
         "words": "Stadtzauber.json",
         "multi": "Stadtzauber.json"
+    }, {
+        "name": {
+            "en": "Heine University",
+            "de": "Heine Universität",
+            "ru": "Университет Гейне"
+        },
+        "description": {
+            "en": "Academic excellence",
+            "de": "Akademische Exzellenz",
+            "ru": "Академическое совершенство"
+        },
+        "level": "B2",
+        "image": "Heine.jpg",
+        "file": "Heine.txt",
+        "words": "Heine.json",
+        "multi": "Heine.json"
     }
 ]

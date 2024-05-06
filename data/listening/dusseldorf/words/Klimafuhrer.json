@@ -1,0 +1,157 @@
+[
+    {
+        "de": "der Frühling",
+        "en": "spring",
+        "ru": "весна",
+        "descriptionEN": "the season between winter and summer characterized by budding plants and warmer temperatures.",
+        "descriptionRU": "сезон между зимой и летом, характеризующийся распусканием растений и более теплой температурой.",
+        "descriptionDE": "die Jahreszeit zwischen Winter und Sommer, gekennzeichnet durch das Knospen von Pflanzen und wärmere Temperaturen."
+    }, {
+        "de": "der Sommer",
+        "en": "summer",
+        "ru": "лето",
+        "descriptionEN": "the warmest season of the year, between spring and autumn.",
+        "descriptionRU": "самый теплый сезон года, между весной и осенью.",
+        "descriptionDE": "die wärmste Jahreszeit des Jahres, zwischen Frühling und Herbst."
+    }, {
+        "de": "der Herbst",
+        "en": "autumn",
+        "ru": "осень",
+        "descriptionEN": "the season between summer and winter, characterized by falling leaves and cooler temperatures.",
+        "descriptionRU": "сезон между летом и зимой, характеризующийся опадением листьев и более прохладными температурами.",
+        "descriptionDE": "die Jahreszeit zwischen Sommer und Winter, gekennzeichnet durch fallende Blätter und kühlere Temperaturen."
+    }, {
+        "de": "der Winter",
+        "en": "winter",
+        "ru": "зима",
+        "descriptionEN": "the coldest season of the year, between autumn and spring.",
+        "descriptionRU": "самый холодный сезон года, между осенью и весной.",
+        "descriptionDE": "die kälteste Jahreszeit des Jahres, zwischen Herbst und Frühling."
+    }, {
+        "de": "die Natur",
+        "en": "nature",
+        "ru": "природа",
+        "descriptionEN": "the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
+        "descriptionRU": "явления физического мира в целом, включая растения, животных, ландшафт и другие черты и продукты земли, в отличие от людей или человеческих творений.",
+        "descriptionDE": "die Phänomene der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, die Landschaft und andere Merkmale und Produkte der Erde, im Gegensatz zu Menschen oder menschlichen Schöpfungen."
+    }, {
+        "de": "die Luft",
+        "en": "air",
+        "ru": "воздух",
+        "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
+        "descriptionRU": "невидимое газообразное вещество, окружающее Землю, состоящее в основном из кислорода и азота.",
+        "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, hauptsächlich eine Mischung aus Sauerstoff und Stickstoff."
+    }, {
+        "de": "die Sonne",
+        "en": "sun",
+        "ru": "солнце",
+        "descriptionEN": "the star around which the earth orbits, whose light and heat make life possible on earth; its mean distance from the earth is approximately 93 million miles (150 million kilometers).",
+        "descriptionRU": "звезда, вокруг которой вращается Земля, свет и тепло которой делают возможной жизнь на Земле; ее среднее расстояние от Земли составляет приблизительно 93 миллиона миль (150 миллионов километров).",
+        "descriptionDE": "der Stern, um den die Erde kreist, dessen Licht und Wärme das Leben auf der Erde möglich machen; seine mittlere Entfernung von der Erde beträgt ungefähr 93 Millionen Meilen (150 Millionen Kilometer)."
+    }, {
+        "de": "der Regenschirm",
+        "en": "umbrella",
+        "ru": "зонтик",
+        "descriptionEN": "a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun.",
+        "descriptionRU": "устройство, состоящее из круглого тентового полотна на складной металлической раме, поддерживаемой центральным стержнем, используемое в качестве защиты от дождя или иногда солнца.",
+        "descriptionDE": "ein Gerät, bestehend aus einem kreisförmigen Baldachin aus Stoff auf einem klappbaren Metallrahmen, der von einem zentralen Stab gestützt wird, der zum Schutz vor Regen oder manchmal Sonne verwendet wird."
+    }, {
+        "de": "der Kürbis",
+        "en": "pumpkin",
+        "ru": "тыква",
+        "descriptionEN": "a large rounded orange-yellow fruit with a thick rind, edible flesh, and many seeds.",
+        "descriptionRU": "большой округлый оранжево-желтый плод с толстой кожурой, съедобным мякотью и множеством семян.",
+        "descriptionDE": "eine große, runde orangegelbe Frucht mit einer dicken Schale, essbarem Fruchtfleisch und vielen Samen."
+    }, {
+        "de": "das Wetter",
+        "en": "weather",
+        "ru": "погода",
+        "descriptionEN": "the state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+        "descriptionRU": "состояние атмосферы в месте и времени относительно тепла, сухости, солнечного света, ветра, дождя и т. д.",
+        "descriptionDE": "der Zustand der Atmosphäre an einem Ort und zu einem Zeitpunkt in Bezug auf Wärme, Trockenheit, Sonnenschein, Wind, Regen usw."
+    }, {
+        "de": "tanken",
+        "en": "to refuel",
+        "ru": "заправляться",
+        "descriptionEN": "to fill up a vehicle or machine with fuel.",
+        "descriptionRU": "заполнить топливом транспортное средство или машину.",
+        "descriptionDE": "ein Fahrzeug oder eine Maschine mit Kraftstoff zu füllen."
+    }, {
+        "de": "schlendern",
+        "en": "to stroll",
+        "ru": "прогуливаться",
+        "descriptionEN": "to walk in a slow, relaxed manner, especially for pleasure.",
+        "descriptionRU": "идти медленно, спокойно, особенно для удовольствия.",
+        "descriptionDE": "in langsamer, entspannter Weise gehen, besonders zum Vergnügen."
+    }, {
+        "de": "tanken",
+        "en": "to refuel",
+        "ru": "заправляться",
+        "descriptionEN": "to fill up a vehicle or machine with fuel.",
+        "descriptionRU": "заполнить топливом транспортное средство или машину.",
+        "descriptionDE": "ein Fahrzeug oder eine Maschine mit Kraftstoff zu füllen."
+    }, {
+        "de": "kühlen",
+        "en": "to cool",
+        "ru": "охлаждать",
+        "descriptionEN": "to make or become cooler.",
+        "descriptionRU": "сделать или стать прохладнее.",
+        "descriptionDE": "kühler machen oder werden."
+    }, {
+        "de": "wärmen",
+        "en": "to warm",
+        "ru": "согревать",
+        "descriptionEN": "to make or become warm.",
+        "descriptionRU": "сделать или стать теплее.",
+        "descriptionDE": "wärmer machen oder werden."
+    }, {
+        "de": "gemäßigt",
+        "en": "moderate",
+        "ru": "умеренный",
+        "descriptionEN": "average in amount, intensity, quality, or degree.",
+        "descriptionRU": "средний по объему, интенсивности, качеству или степени.",
+        "descriptionDE": "durchschnittlich in Menge, Intensität, Qualität oder Grad."
+    }, {
+        "de": "mild",
+        "en": "mild",
+        "ru": "мягкий",
+        "descriptionEN": "gentle and not easily provoked.",
+        "descriptionRU": "мягкий и не легко возбуждающийся.",
+        "descriptionDE": "sanft und nicht leicht provoziert."
+    }, {
+        "de": "warm",
+        "en": "warm",
+        "ru": "теплый",
+        "descriptionEN": "having or giving out a moderate degree of heat.",
+        "descriptionRU": "имеющий или выделяющий умеренную степень тепла.",
+        "descriptionDE": "mit einer mäßigen Wärme."
+    }, {
+        "de": "kühl",
+        "en": "cool",
+        "ru": "прохладный",
+        "descriptionEN": "of or at a fairly low temperature.",
+        "descriptionRU": "при относительно низкой температуре.",
+        "descriptionDE": "bei ziemlich niedriger Temperatur."
+    }, {
+        "de": "durchschnittlich",
+        "en": "average",
+        "ru": "средний",
+        "descriptionEN": "constituting the result obtained by adding together several quantities and then dividing this total by the number of quantities.",
+        "descriptionRU": "представляющий собой результат, полученный путем сложения нескольких величин и последующего деления этой суммы на количество величин.",
+        "descriptionDE": "der aus der Addition mehrerer Größen und der anschließenden Division dieser Summe durch die Anzahl der Größen resultierende Wert."
+    }, {
+        "de": "gelegentlich",
+        "en": "occasionally",
+        "ru": "иногда",
+        "descriptionEN": "at infrequent or irregular intervals; now and then.",
+        "descriptionRU": "в редких или нерегулярных интервалах; время от времени.",
+        "descriptionDE": "in unregelmäßigen Abständen oder unregelmäßig; hin und wieder."
+    }, {
+        "de": "herrlich",
+        "en": "splendid",
+        "ru": "великолепный",
+        "descriptionEN": "magnificent; very impressive.",
+        "descriptionRU": "великолепный; очень впечатляющий.",
+        "descriptionDE": "prachtvoll; sehr beeindruckend."
+    }
+]

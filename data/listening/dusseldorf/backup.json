@@ -1,9 +1,12 @@
+// A1 -> 2
+// B2 -> 3
+//1
 [
-    {
+  {
         "name": {
-            "en": "Düsseldorf's Allure",
-            "de": "Der Reiz von Düsseldorf",
-            "ru": "Привлекательность Дюссельдорфа"
+            "en": "Allure",
+            "de": "Der Reiz",
+            "ru": "Привлекательность"
         },
         "description": {
             "en": "Unveiling a new home",
@@ -15,21 +18,5 @@
         "file": "Allure.mp3",
         "words": "Allure.json",
         "yesNo": "Allure.json"
-    }, {
-        "name": {
-            "en": "Guess the city",
-            "de": "Errate die Stadt",
-            "ru": "Угадайте город"
-        },
-        "description": {
-            "en": "Cosmopolitan city by Rhine",
-            "de": "Kosmopolitische Stadt am Rhein",
-            "ru": "Космополитический город на Рейне"
-        },
-        "level": "A2",
-        "image": "Cosmopolitan.jpg",
-        "file": "Cosmopolitan.mp3",
-        "words": "Cosmopolitan.json",
-        "yesNo": "Cosmopolitan.json"
     }
 ]
