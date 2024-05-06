@@ -63,5 +63,21 @@
         "file": "Weekend.txt",
         "words": "Weekend.json",
         "yesNo": "Weekend.json"
+    }, {
+        "name": {
+            "en": "Jobs",
+            "de": "Jobs",
+            "ru": "Работы"
+        },
+        "description": {
+            "en": "Different professions",
+            "de": "Verschiedene Berufe",
+            "ru": "Разные профессии"
+        },
+        "level": "A2",
+        "image": "Adrian.jpg",
+        "file": "Adrian.txt",
+        "words": "Adrian.json",
+        "multi": "Adrian.json"
     }
 ]
