@@ -33,6 +33,22 @@
         "yesNo": "Thomas.json"
     }, {
         "name": {
+            "en": "Lily's Adventure",
+            "de": "Lilys Abenteuer",
+            "ru": "Приключения Лили"
+        },
+        "description": {
+            "en": "Zoo Visit",
+            "de": "Zoobesuch",
+            "ru": "Визит в зоопарк"
+        },
+        "level": "A2",
+        "image": "Lily.jpg",
+        "file": "Lily.txt",
+        "words": "Lily.json",
+        "multi": "Lily.json"
+    }, {
+        "name": {
             "en": "Coffee Tradition",
             "de": "Kaffeetradition",
             "ru": "Традиция кофе"
