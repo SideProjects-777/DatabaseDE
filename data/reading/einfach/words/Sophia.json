@@ -1,0 +1,185 @@
+[
+    {
+        "de": "der Name",
+        "en": "name",
+        "ru": "имя",
+        "descriptionEN": "a word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+        "descriptionRU": "слово или набор слов, по которым известны, обращаются или обозначаются человек, животное, место или вещь.",
+        "descriptionDE": "Ein Wort oder eine Wortgruppe, mit denen eine Person, ein Tier, ein Ort oder eine Sache bekannt, angesprochen oder bezeichnet wird."
+    }, {
+        "de": "die Schwester",
+        "en": "sister",
+        "ru": "сестра",
+        "descriptionEN": "a girl or woman in relation to other daughters and sons of her parents.",
+        "descriptionRU": "девочка или женщина в отношении к другим дочерям и сыновьям ее родителей.",
+        "descriptionDE": "Ein Mädchen oder eine Frau in Beziehung zu anderen Töchtern und Söhnen ihrer Eltern."
+    }, {
+        "de": "der Bruder",
+        "en": "brother",
+        "ru": "брат",
+        "descriptionEN": "a boy or man in relation to other sons and daughters of his parents.",
+        "descriptionRU": "мальчик или мужчина в отношении к другим сыновьям и дочерям его родителей.",
+        "descriptionDE": "Ein Junge oder Mann in Beziehung zu anderen Söhnen und Töchtern seiner Eltern."
+    }, {
+        "de": "das Haus",
+        "en": "house",
+        "ru": "дом",
+        "descriptionEN": "a building for human habitation, especially one that consists of a ground floor and one or more upper storeys.",
+        "descriptionRU": "здание для проживания людей, особенно та, которая состоит из первого этажа и одного или более верхних этажей.",
+        "descriptionDE": "Ein Gebäude zur menschlichen Wohnnutzung, insbesondere eines, das aus einem Erdgeschoss und einem oder mehreren oberen Stockwerken besteht."
+    }, {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "a large public green area in a town, used for recreation.",
+        "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха.",
+        "descriptionDE": "Ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+    }, {
+        "de": "der See",
+        "en": "lake",
+        "ru": "озеро",
+        "descriptionEN": "a large body of water surrounded by land.",
+        "descriptionRU": "большое водное пространство, окруженное сушей.",
+        "descriptionDE": "Ein großes Wasserbecken, das von Land umgeben ist."
+    }, {
+        "de": "das Eis",
+        "en": "ice",
+        "ru": "льду",
+        "descriptionEN": "frozen water, a brittle transparent crystalline solid.",
+        "descriptionRU": "замороженная вода, хрупкое прозрачное кристаллическое твердое вещество.",
+        "descriptionDE": "Gefrorenes Wasser, ein sprödes, transparentes, kristallines Feststoff."
+    }, {
+        "de": "der Garten",
+        "en": "garden",
+        "ru": "сад",
+        "descriptionEN": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+        "descriptionRU": "участок земли, часто рядом с домом, используемый для выращивания цветов, фруктов или овощей.",
+        "descriptionDE": "Ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird."
+    }, {
+        "de": "der Teich",
+        "en": "pond",
+        "ru": "пруд",
+        "descriptionEN": "a small body of still water formed naturally or by artificial means.",
+        "descriptionRU": "небольшое тихое водоем, естественным образом или искусственным способом.",
+        "descriptionDE": "Ein kleiner, ruhiger Wasserlauf, der sich auf natürliche oder künstliche Weise bildet."
+    }, {
+        "de": "der Musiker",
+        "en": "musician",
+        "ru": "музыкант",
+        "descriptionEN": "a person who plays a musical instrument, especially as a profession, or is musically talented.",
+        "descriptionRU": "человек, играющий на музыкальном инструменте, особенно как профессия, или обладающий музыкальными талантами.",
+        "descriptionDE": "Eine Person, die ein Musikinstrument spielt, besonders als Beruf, oder musikalisch begabt ist."
+    }, {
+        "de": "das Mittagessen",
+        "en": "lunch",
+        "ru": "обед",
+        "descriptionEN": "a meal eaten in the middle of the day, typically one that is lighter or less formal than an evening meal.",
+        "descriptionRU": "еда, съедаемая в середине дня, обычно более легкая или менее официальная, чем ужин.",
+        "descriptionDE": "Eine Mahlzeit, die in der Mitte des Tages gegessen wird, typischerweise eine, die leichter oder weniger förmlich ist als eine Abendmahlzeit."
+    }, {
+        "de": "die Schule",
+        "en": "school",
+        "ru": "школа",
+        "descriptionEN": "an institution for educating children.",
+        "descriptionRU": "учреждение для обучения детей.",
+        "descriptionDE": "Eine Institution zur Erziehung von Kindern."
+    }, {
+        "de": "der Hund",
+        "en": "dog",
+        "ru": "собака",
+        "descriptionEN": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice.",
+        "descriptionRU": "одомашненное хищное млекопитающее, обычно с длинным рылом, острое чувство обоняния, не отводящиеся когти и лающим, вытьем или скулением голосом.",
+        "descriptionDE": "Ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, ein ausgeprägtes Geruchssinn, nicht einziehbare Krallen und eine bellende, heulende oder winselnde Stimme hat."
+    }, {
+        "de": "die Katze",
+        "en": "cat",
+        "ru": "кошка",
+        "descriptionEN": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+        "descriptionRU": "маленькое одомашненное хищное млекопитающее с мягкой шерстью, коротким рылом и отводимыми когтями.",
+        "descriptionDE": "Ein kleines, domestiziertes fleischfressendes Säugetier mit weichem Fell, einer kurzen Schnauze und zurückziehbaren Krallen."
+    }, {
+        "de": "die Literatur",
+        "en": "literature",
+        "ru": "литература",
+        "descriptionEN": "written works, especially those considered of superior or lasting artistic merit.",
+        "descriptionRU": "письменные произведения, особенно те, которые считаются выдающимися или долговечными художественными достижениями.",
+        "descriptionDE": "Schriftliche Werke, insbesondere solche, die als von überragender oder dauerhafter künstlerischer Qualität angesehen werden."
+    }, {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
+        "descriptionRU": "человек, которого один знает и с которым у него есть связь взаимной привязанности, обычно исключая сексуальные или семейные отношения.",
+        "descriptionDE": "Eine Person, die man kennt und mit der man eine Bindung gegenseitiger Zuneigung hat, typischerweise ohne sexuelle oder familiäre Beziehungen."
+    }, {
+        "de": "spazieren",
+        "en": "to walk",
+        "ru": "гулять",
+        "descriptionEN": "move at a regular pace by lifting and setting down each foot in turn, never having both feet off the ground at once.",
+        "descriptionRU": "двигаться с регулярной скоростью, поднимая и опуская каждую ногу по очереди, никогда не имея обе ноги в воздухе одновременно.",
+        "descriptionDE": "Sich mit regelmäßigem Tempo bewegen, indem man jeden Fuß abwechselnd anhebt und absetzt, ohne beide Füße gleichzeitig vom Boden zu heben."
+    }, {
+        "de": "essen",
+        "en": "to eat",
+        "ru": "есть",
+        "descriptionEN": "put (food) into the mouth and chew and swallow it.",
+        "descriptionRU": "класть (пищу) в рот, пережевывать и глотать.",
+        "descriptionDE": "Lebensmittel in den Mund legen, kauen und schlucken."
+    }, {
+        "de": "gehen",
+        "en": "to go",
+        "ru": "идти",
+        "descriptionEN": "move from one place to another; travel.",
+        "descriptionRU": "перемещаться из одного места в другое; путешествовать.",
+        "descriptionDE": "Sich von einem Ort zum anderen bewegen; reisen."
+    }, {
+        "de": "kochen",
+        "en": "to cook",
+        "ru": "готовить",
+        "descriptionEN": "prepare (food, a dish, or a meal) by combining and heating the ingredients in various ways.",
+        "descriptionRU": "приготовить (пищу, блюдо или еду), смешав и нагревая ингредиенты различными способами.",
+        "descriptionDE": "Zubereiten (Lebensmittel, ein Gericht oder eine Mahlzeit), indem man die Zutaten auf verschiedene Weise kombiniert und erhitzt."
+    }, {
+        "de": "lang",
+        "en": "long",
+        "ru": "длинный",
+        "descriptionEN": "measuring a great distance from end to end.",
+        "descriptionRU": "измеряющий большое расстояние от конца до конца.",
+        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende."
+    }, {
+        "de": "gerne",
+        "en": "gladly",
+        "ru": "охотно",
+        "descriptionEN": "in a willing manner.",
+        "descriptionRU": "охотно.",
+        "descriptionDE": "Bereitwillig."
+    }, {
+        "de": "oft",
+        "en": "often",
+        "ru": "часто",
+        "descriptionEN": "many times at short intervals.",
+        "descriptionRU": "много раз в короткие интервалы.",
+        "descriptionDE": "Viele Male in kurzen Abständen."
+    }, {
+        "de": "lange",
+        "en": "long",
+        "ru": "долго",
+        "descriptionEN": "for a considerable time.",
+        "descriptionRU": "в течение значительного времени.",
+        "descriptionDE": "Für eine beträchtliche Zeit."
+    }, {
+        "de": "manchmal",
+        "en": "sometimes",
+        "ru": "иногда",
+        "descriptionEN": "on certain occasions or in certain cases but not always.",
+        "descriptionRU": "в некоторых случаях или в определенных случаях, но не всегда.",
+        "descriptionDE": "Bei bestimmten Gelegenheiten oder in bestimmten Fällen, aber nicht immer."
+    }, {
+        "de": "eis",
+        "en": "ice",
+        "ru": "ледяной",
+        "descriptionEN": "frozen water, a brittle transparent crystalline solid.",
+        "descriptionRU": "замороженная вода, хрупкое прозрачное кристаллическое твердое вещество.",
+        "descriptionDE": "Gefrorenes Wasser, ein sprödes, transparentes, kristallines Feststoff."
+    }
+]

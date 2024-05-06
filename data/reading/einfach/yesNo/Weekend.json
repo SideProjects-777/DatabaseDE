@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Am Sonntag wird in Deutschland gearbeitet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sonntagsgeld ist ein Bonus für diejenigen, die an einem Sonntag arbeiten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Alle Geschäfte sind sonntags geöffnet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Notdienste haben sonntags geschlossen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Am Sonntag gehen viele Deutsche morgens in die Schule.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Sonntagsbraten war früher nichts Besonderes.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Am Sonntagnachmittag essen die Deutschen meistens Pizza.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Unter der Woche haben viele genug Zeit für Kaffee und Kuchen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Sonntag ist der Tag, an dem die Deutschen keine Ausflüge machen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Deutschen freuen sich nicht auf den Sonntagskrimi.",
+        "tr": false,
+        "fle": true
+    }
+]

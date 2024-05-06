@@ -1,6 +1,30 @@
 [
     {
         "title": {
+            "de": "A1 Nomen",
+            "en": "A1 Nouns",
+            "ru": "A1 Существительные"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1nouns/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1nouns/image.jpg"
+    }, {
+        "title": {
+            "de": "A1 Verben",
+            "en": "A1 Verbs",
+            "ru": "A1 Глаголы"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1verbs/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1verbs/image.jpg"
+    }, {
+        "title": {
+            "de": "Haushalt",
+            "en": "Household",
+            "ru": "Быт"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
+    }, {
+        "title": {
             "de": "Haushalt",
             "en": "Household",
             "ru": "Быт"
@@ -39,7 +63,7 @@
         },
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/index.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/image.jpg"
-    },  {
+    }, {
         "title": {
             "de": "Unterhaltung",
             "en": "Entertainment",

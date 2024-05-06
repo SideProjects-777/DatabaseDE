@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Er (spielen) Fußball im Park.",
+        "answers": [
+            {
+                "text": "spiele",
+                "correct": false
+            }, {
+                "text": "spielst",
+                "correct": false
+            }, {
+                "text": "spielt",
+                "correct": true
+            }, {
+                "text": "spielen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Sie(informal) (trinken) gerne Tee am Morgen.",
+        "answers": [
+            {
+                "text": "trinke",
+                "correct": false
+            }, {
+                "text": "trinkst",
+                "correct": false
+            }, {
+                "text": "trinkt",
+                "correct": true
+            }, {
+                "text": "trinken",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wir (gehen) in den Supermarkt.",
+        "answers": [
+            {
+                "text": "gehe",
+                "correct": false
+            }, {
+                "text": "geht",
+                "correct": false
+            }, {
+                "text": "gehen",
+                "correct": true
+            }, {
+                "text": "gehst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du (hören) Musik jeden Tag.",
+        "answers": [
+            {
+                "text": "höre",
+                "correct": false
+            }, {
+                "text": "hörst",
+                "correct": true
+            }, {
+                "text": "hört",
+                "correct": false
+            }, {
+                "text": "hören",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich (essen) gerne Pizza zum Abendessen.",
+        "answers": [
+            {
+                "text": "esse",
+                "correct": true
+            }, {
+                "text": "esst",
+                "correct": false
+            }, {
+                "text": "isst",
+                "correct": false
+            }, {
+                "text": "essen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Sie(formal) (machen) Sport am Wochenende.",
+        "answers": [
+            {
+                "text": "mache",
+                "correct": false
+            }, {
+                "text": "macht",
+                "correct": false
+            }, {
+                "text": "machen",
+                "correct": true
+            }, {
+                "text": "machst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Er (schlafen) tief in der Nacht.",
+        "answers": [
+            {
+                "text": "schlafst",
+                "correct": false
+            }, {
+                "text": "schläft",
+                "correct": true
+            }, {
+                "text": "schlafe",
+                "correct": false
+            }, {
+                "text": "schlaft",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wir (lernen) Deutsch in der Schule.",
+        "answers": [
+            {
+                "text": "lerne",
+                "correct": false
+            }, {
+                "text": "lernt",
+                "correct": false
+            }, {
+                "text": "lernen",
+                "correct": true
+            }, {
+                "text": "lernst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Sie(formal) (sprechen) Spanisch fließend.",
+        "answers": [
+            {
+                "text": "sprechen",
+                "correct": true
+            }, {
+                "text": "sprichst",
+                "correct": false
+            }, {
+                "text": "spreche",
+                "correct": false
+            }, {
+                "text": "sprecht",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich (fahren) gerne Fahrrad im Park.",
+        "answers": [
+            {
+                "text": "fahre",
+                "correct": true
+            }, {
+                "text": "fahrt",
+                "correct": false
+            }, {
+                "text": "fährst",
+                "correct": false
+            }, {
+                "text": "fahren",
+                "correct": false
+            }
+        ]
+    }
+]

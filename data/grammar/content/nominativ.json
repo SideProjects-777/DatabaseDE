@@ -1,0 +1,144 @@
+[
+    {
+        "name": "_____ Handy funktioniert nicht richtig.",
+        "answers": [
+            {
+                "text": "Mein",
+                "correct": true
+            }, {
+                "text": "Mir",
+                "correct": false
+            }, {
+                "text": "Mich",
+                "correct": false
+            }, {
+                "text": "Ich",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "_______ arbeite morgen sicher nicht.",
+        "answers": [
+            {
+                "text": "Mein",
+                "correct": false
+            }, {
+                "text": "Mir",
+                "correct": false
+            }, {
+                "text": "Mich",
+                "correct": false
+            }, {
+                "text": "Ich",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie viel kostet ________ Hemd?",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": true
+            }, {
+                "text": "das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "________ Kinder schlafen zu viel.",
+        "answers": [
+            {
+                "text": "Der",
+                "correct": false
+            }, {
+                "text": "Die",
+                "correct": true
+            }, {
+                "text": "Das",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer ist er? Er ist ________ Englisch Lehrer.",
+        "answers": [
+            {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "die",
+                "correct": false
+            }, {
+                "text": "das",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "________ Flugzeug ist teurer als ein Zug.",
+        "answers": [
+            {
+                "text": "Ein",
+                "correct": true
+            }, {
+                "text": "Eine",
+                "correct": false
+            }, {
+                "text": "Einen",
+                "correct": false
+            }, {
+                "text": "Eins",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Dort ist ________ Schule.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": true
+            }, {
+                "text": "eine",
+                "correct": false
+            }, {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "________ Hund jagt die Katze des Nachbarn",
+        "answers": [
+            {
+                "text": "Sein",
+                "correct": true
+            }, {
+                "text": "Seine",
+                "correct": false
+            }, {
+                "text": "Seinen",
+                "correct": false
+            }, {
+                "text": "Seinem",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Morgen wollen ________ zusammen einkaufen gehen.",
+        "answers": [
+            {
+                "text": "unseren",
+                "correct": false
+            }, {
+                "text": "unseres",
+                "correct": false
+            }, {
+                "text": "wir",
+                "correct": true
+            }, {
+                "text": "unser",
+                "correct": false
+            }
+        ]
+    }
+]

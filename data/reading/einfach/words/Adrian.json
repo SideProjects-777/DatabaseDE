@@ -1,0 +1,213 @@
+[
+    {
+        "de": "der Morgen",
+        "en": "morning",
+        "ru": "утро",
+        "descriptionEN": "the early part of the day",
+        "descriptionRU": "ранняя часть дня",
+        "descriptionDE": "der frühe Teil des Tages"
+    }, {
+        "de": "die Schule",
+        "en": "school",
+        "ru": "школа",
+        "descriptionEN": "an institution for educating children",
+        "descriptionRU": "учреждение для образования детей",
+        "descriptionDE": "eine Institution zur Erziehung von Kindern"
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence",
+        "descriptionRU": "неопределенное продолжительное движение существования",
+        "descriptionDE": "der unbestimmte fortlaufende Fortschritt des Daseins"
+    }, {
+        "de": "der Computer",
+        "en": "computer",
+        "ru": "компьютер",
+        "descriptionEN": "an electronic device for storing and processing data",
+        "descriptionRU": "электронное устройство для хранения и обработки данных",
+        "descriptionDE": "ein elektronisches Gerät zur Speicherung und Verarbeitung von Daten"
+    }, {
+        "de": "das Krankenhaus",
+        "en": "hospital",
+        "ru": "больница",
+        "descriptionEN": "an institution providing medical and surgical treatment",
+        "descriptionRU": "учреждение, предоставляющее медицинское и хирургическое лечение",
+        "descriptionDE": "eine Einrichtung, die medizinische und chirurgische Behandlung anbietet"
+    }, {
+        "de": "der Mensch",
+        "en": "human",
+        "ru": "человек",
+        "descriptionEN": "a member of the species Homo sapiens",
+        "descriptionRU": "член вида Homo sapiens",
+        "descriptionDE": "ein Mitglied der Art Homo sapiens"
+    }, {
+        "de": "der Bruder",
+        "en": "brother",
+        "ru": "брат",
+        "descriptionEN": "a male sibling",
+        "descriptionRU": "мужской родственник",
+        "descriptionDE": "ein männlicher Geschwister"
+    }, {
+        "de": "die Schwester",
+        "en": "sister",
+        "ru": "сестра",
+        "descriptionEN": "a female sibling",
+        "descriptionRU": "женский родственник",
+        "descriptionDE": "ein weiblicher Geschwister"
+    }, {
+        "de": "der Traum",
+        "en": "dream",
+        "ru": "мечта",
+        "descriptionEN": "a series of thoughts, images, or emotions occurring during sleep",
+        "descriptionRU": "серия мыслей, образов или эмоций, возникающих во время сна",
+        "descriptionDE": "eine Reihe von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten"
+    }, {
+        "de": "das Tier",
+        "en": "animal",
+        "ru": "животное",
+        "descriptionEN": "a living organism that feeds on organic matter",
+        "descriptionRU": "живой организм, который питается органическим веществом",
+        "descriptionDE": "ein lebender Organismus, der sich von organischen Stoffen ernährt"
+    }, {
+        "de": "der Tag",
+        "en": "day",
+        "ru": "день",
+        "descriptionEN": "the time between sunrise and sunset",
+        "descriptionRU": "время между восходом и закатом",
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang"
+    }, {
+        "de": "die Universität",
+        "en": "university",
+        "ru": "университет",
+        "descriptionEN": "an educational institution of higher learning",
+        "descriptionRU": "образовательное учреждение высшего образования",
+        "descriptionDE": "eine Bildungseinrichtung für höheres Lernen"
+    }, {
+        "de": "lernen",
+        "en": "to learn",
+        "ru": "учиться",
+        "descriptionEN": "to acquire knowledge",
+        "descriptionRU": "получить знания",
+        "descriptionDE": "Wissen erwerben"
+    }, {
+        "de": "arbeiten",
+        "en": "to work",
+        "ru": "работать",
+        "descriptionEN": "to engage in activity for payment",
+        "descriptionRU": "заниматься деятельностью за оплату",
+        "descriptionDE": "sich gegen Bezahlung betätigen"
+    }, {
+        "de": "wachen",
+        "en": "to wake",
+        "ru": "просыпаться",
+        "descriptionEN": "to emerge from sleep",
+        "descriptionRU": "выйти из сна",
+        "descriptionDE": "aus dem Schlaf erwachen"
+    }, {
+        "de": "helfen",
+        "en": "to help",
+        "ru": "помогать",
+        "descriptionEN": "to assist someone",
+        "descriptionRU": "помочь кому-то",
+        "descriptionDE": "jemandem Unterstützung bieten"
+    }, {
+        "de": "träumen",
+        "en": "to dream",
+        "ru": "мечтать",
+        "descriptionEN": "to experience dreams during sleep",
+        "descriptionRU": "испытывать мечты во время сна",
+        "descriptionDE": "im Schlaf Träume erleben"
+    }, {
+        "de": "studieren",
+        "en": "to study",
+        "ru": "учиться",
+        "descriptionEN": "to engage in learning",
+        "descriptionRU": "заниматься обучением",
+        "descriptionDE": "sich dem Lernen widmen"
+    }, {
+        "de": "neu",
+        "en": "new",
+        "ru": "новый",
+        "descriptionEN": "recently made or created",
+        "descriptionRU": "недавно созданный или созданный",
+        "descriptionDE": "vor kurzem gemacht oder erstellt"
+    }, {
+        "de": "gesund",
+        "en": "healthy",
+        "ru": "здоровый",
+        "descriptionEN": "free from illness or injury",
+        "descriptionRU": "без болезней или травм",
+        "descriptionDE": "frei von Krankheit oder Verletzung"
+    }, {
+        "de": "groß",
+        "en": "big",
+        "ru": "большой",
+        "descriptionEN": "of considerable size or extent",
+        "descriptionRU": "значительного размера или объема",
+        "descriptionDE": "von beträchtlicher Größe oder Ausdehnung"
+    }, {
+        "de": "interessant",
+        "en": "interesting",
+        "ru": "интересный",
+        "descriptionEN": "arousing curiosity or interest",
+        "descriptionRU": "возбуждающий любопытство или интерес",
+        "descriptionDE": "weckt Neugier oder Interesse"
+    }, {
+        "de": "normal",
+        "en": "normal",
+        "ru": "нормальный",
+        "descriptionEN": "conforming to a standard; usual, typical, or expected",
+        "descriptionRU": "соответствие стандарту; обычный, типичный или ожидаемый",
+        "descriptionDE": "entspricht einem Standard; üblich, typisch oder erwartet"
+    }, {
+        "de": "größ",
+        "en": "bigger",
+        "ru": "больше",
+        "descriptionEN": "comparative form of big",
+        "descriptionRU": "сравнительная форма от большого",
+        "descriptionDE": "Vergleichsform von groß"
+    }, {
+        "de": "viel",
+        "en": "much",
+        "ru": "много",
+        "descriptionEN": "a large amount or extent",
+        "descriptionRU": "большое количество или объем",
+        "descriptionDE": "eine große Menge oder Ausdehnung"
+    }, {
+        "de": "immer",
+        "en": "always",
+        "ru": "всегда",
+        "descriptionEN": "at all times",
+        "descriptionRU": "всегда",
+        "descriptionDE": "zu jeder Zeit"
+    }, {
+        "de": "gerade",
+        "en": "just",
+        "ru": "только что",
+        "descriptionEN": "exactly or precisely",
+        "descriptionRU": "точно или именно",
+        "descriptionDE": "genau oder präzise"
+    }, {
+        "de": "wieder",
+        "en": "again",
+        "ru": "снова",
+        "descriptionEN": "once more; another time",
+        "descriptionRU": "еще раз; еще раз",
+        "descriptionDE": "noch einmal; eine andere Zeit"
+    }, {
+        "de": "immer",
+        "en": "always",
+        "ru": "всегда",
+        "descriptionEN": "at all times",
+        "descriptionRU": "всегда",
+        "descriptionDE": "zu jeder Zeit"
+    }, {
+        "de": "obwohl",
+        "en": "although",
+        "ru": "хотя",
+        "descriptionEN": "in spite of the fact that",
+        "descriptionRU": "несмотря на то, что",
+        "descriptionDE": "trotz der Tatsache, dass"
+    }
+]

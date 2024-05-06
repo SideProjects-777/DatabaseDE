@@ -1,0 +1,168 @@
+[
+    {
+        "de": "die Freizeit",
+        "en": "leisure time",
+        "ru": "свободное время",
+        "descriptionEN": "time when one is not working or occupied; free time.",
+        "descriptionRU": "время, когда человек не работает или не занят; свободное время.",
+        "descriptionDE": "Zeit, in der man nicht arbeitet oder beschäftigt ist; Freizeit."
+    }, {
+        "de": "das Buch",
+        "en": "book",
+        "ru": "книга",
+        "descriptionEN": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+        "descriptionRU": "письменное или печатное произведение, состоящее из склеенных или сшитых вместе листов с одной стороны и связанных обложками.",
+        "descriptionDE": "ein schriftliches oder gedrucktes Werk, bestehend aus Seiten, die an einer Seite zusammengeklebt oder zusammengenäht und in Umschläge gebunden sind."
+    }, {
+        "de": "die Geschichte",
+        "en": "story",
+        "ru": "история",
+        "descriptionEN": "an account of imaginary or real people and events told for entertainment.",
+        "descriptionRU": "рассказ о вымышленных или реальных людях и событиях, рассказанный для развлечения.",
+        "descriptionDE": "eine Erzählung von imaginären oder realen Personen und Ereignissen, die zur Unterhaltung erzählt wird."
+    }, {
+        "de": "die Märchen",
+        "en": "fairy tales",
+        "ru": "сказки",
+        "descriptionEN": "a children's story about magical and imaginary beings and lands.",
+        "descriptionRU": "детская история о волшебных и вымышленных существах и землях.",
+        "descriptionDE": "eine Kindergeschichte über magische und imaginäre Wesen und Länder."
+    }, {
+        "de": "der Abend",
+        "en": "evening",
+        "ru": "вечер",
+        "descriptionEN": "the period of time at the end of the day, usually from about 6 p.m. to bedtime.",
+        "descriptionRU": "период времени в конце дня, обычно с примерно 18:00 до времени сна.",
+        "descriptionDE": "die Zeit am Ende des Tages, normalerweise von etwa 18:00 Uhr bis zur Schlafenszeit."
+    }, {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "a large public green area in a town used for recreation.",
+        "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха.",
+        "descriptionDE": "ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+    }, {
+        "de": "der Garten",
+        "en": "garden",
+        "ru": "сад",
+        "descriptionEN": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+        "descriptionRU": "участок земли, часто рядом с домом, используемый для выращивания цветов, фруктов или овощей.",
+        "descriptionDE": "ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird."
+    }, {
+        "de": "die Bank",
+        "en": "bench",
+        "ru": "скамейка",
+        "descriptionEN": "a long seat for several people, typically made of wood or stone.",
+        "descriptionRU": "длинное сиденье для нескольких человек, обычно из дерева или камня.",
+        "descriptionDE": "eine lange Sitzgelegenheit für mehrere Personen, typischerweise aus Holz oder Stein."
+    }, {
+        "de": "die Kurzgeschichte",
+        "en": "short story",
+        "ru": "рассказ",
+        "descriptionEN": "a story with a fully developed theme but significantly shorter and less elaborate than a novel.",
+        "descriptionRU": "история с разработанной темой, но значительно более короткая и менее развернутая, чем роман.",
+        "descriptionDE": "eine Geschichte mit einem vollständig entwickelten Thema, aber wesentlich kürzer und weniger aufwendig als ein Roman."
+    }, {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
+        "descriptionRU": "человек, с которым у вас есть связь взаимной любви, обычно исключающая сексуальные или семейные отношения.",
+        "descriptionDE": "eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat, typischerweise eine ausschließlich der sexuellen oder familiären Beziehungen."
+    }, {
+        "de": "der Hund",
+        "en": "dog",
+        "ru": "собака",
+        "descriptionEN": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractile claws, and a barking, howling, or whining voice.",
+        "descriptionRU": "домашнее хищное млекопитающее, которое обычно имеет длинный мордочка, острое обоняние, неретрактируемые когти и лающий, воющий или плачущий голос.",
+        "descriptionDE": "ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen scharfen Geruchssinn, nicht zurückziehbare Krallen und eine bellende, heulende oder weinende Stimme hat."
+    }, {
+        "de": "der Lachen",
+        "en": "laughter",
+        "ru": "смех",
+        "descriptionEN": "the action or sound of laughing.",
+        "descriptionRU": "действие или звук смеха.",
+        "descriptionDE": "die Handlung oder der Klang des Lachens."
+    }, {
+        "de": "die Freunde",
+        "en": "friends",
+        "ru": "друзья",
+        "descriptionEN": "a group of people with whom one has a bond of mutual affection.",
+        "descriptionRU": "группа людей, с которыми у вас есть связь взаимной любви.",
+        "descriptionDE": "eine Gruppe von Personen, mit denen man eine Bindung gegenseitiger Zuneigung hat."
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
+        "descriptionRU": "неопределенное продолжительное продвижение существования и событий в прошлом, настоящем и будущем, рассматриваемое в целом.",
+        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt von Existenz und Ereignissen in der Vergangenheit, Gegenwart und Zukunft, der als Ganzes betrachtet wird."
+    }, {
+        "de": "die Spaß",
+        "en": "fun",
+        "ru": "веселье",
+        "descriptionEN": "enjoyment, amusement, or lighthearted pleasure.",
+        "descriptionRU": "удовольствие, развлечение или легкое удовольствие.",
+        "descriptionDE": "Genuss, Unterhaltung oder unbeschwertes Vergnügen."
+    }, {
+        "de": "lesen",
+        "en": "read",
+        "ru": "читать",
+        "descriptionEN": "to look at and understand the meaning of written or printed matter by interpreting the characters or symbols of which it is composed.",
+        "descriptionRU": "смотреть и понимать значение письменного или печатного текста, интерпретируя символы, из которых он состоит."
+    }, {
+        "de": "kommen",
+        "en": "come",
+        "ru": "приходить",
+        "descriptionEN": "to move or travel toward or into a place thought of as near or familiar to the speaker.",
+        "descriptionRU": "двигаться или путешествовать к месту, рассматриваемому как близкое или знакомое говорящему."
+    }, {
+        "de": "wohnen",
+        "en": "live",
+        "ru": "жить",
+        "descriptionEN": "to have one's home in a particular place or with a particular person.",
+        "descriptionRU": "иметь свой дом в определенном месте или с определенным человеком."
+    }, {
+        "de": "sitzen",
+        "en": "sit",
+        "ru": "сидеть",
+        "descriptionEN": "to rest with the body supported by the buttocks or thighs; be seated.",
+        "descriptionRU": "отдыхать, поддерживая тело ягодицами или бедрами; сидеть."
+    }, {
+        "de": "spielen",
+        "en": "play",
+        "ru": "играть",
+        "descriptionEN": "to engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+        "descriptionRU": "заниматься деятельностью для удовольствия и развлечения, а не серьезной или практической цели."
+    }, {
+        "de": "bringen",
+        "en": "bring",
+        "ru": "приносить",
+        "descriptionEN": "to take or go with (someone or something) to a place.",
+        "descriptionRU": "взять или пойти с (кем-то или чем-то) в место."
+    }, {
+        "de": "verbringen",
+        "en": "spend",
+        "ru": "провести",
+        "descriptionEN": "to pass (time) in a specified way or in a particular place.",
+        "descriptionRU": "проводить (время) определенным образом или в определенном месте."
+    }, {
+        "de": "heißen",
+        "en": "be named",
+        "ru": "называться",
+        "descriptionEN": "to have as one's name.",
+        "descriptionRU": "иметь в качестве своего имени."
+    }, {
+        "de": "gehen",
+        "en": "go",
+        "ru": "идти",
+        "descriptionEN": "to move or proceed, especially to or from a place.",
+        "descriptionRU": "двигаться или продолжать, особенно к или от места."
+    }, {
+        "de": "lernen",
+        "en": "learn",
+        "ru": "учить",
+        "descriptionEN": "to gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+        "descriptionRU": "приобретать или осваивать знания или навыки в чем-либо путем изучения, опыта или обучения."
+    }
+]

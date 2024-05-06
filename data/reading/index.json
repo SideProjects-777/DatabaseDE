@@ -1,6 +1,23 @@
 [
     {
         "name": {
+            "de": "Einfach Stadt",
+            "en": "Simple city",
+            "ru": "Просто город"
+        },
+        "folder": "einfach",
+        "description": {
+            "de": "Stadt für Anfänger",
+            "en": "City for beginners",
+            "ru": "Город для новичков"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfach.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachREAD.mp4",
+        "amountOfStories": 5,
+        "active": true,
+        "hasVideo": true
+    }, {
+        "name": {
             "de": "Köln",
             "en": "Cologne",
             "ru": "Кёльн"
@@ -63,9 +80,10 @@
             "ru": "Слияние рек Рейн и Мозель"
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzREAD.mp4",
         "amountOfStories": 10,
         "active": true,
-        "hasVideo": false
+        "hasVideo": true
     }, {
         "name": {
             "de": "Berlin",

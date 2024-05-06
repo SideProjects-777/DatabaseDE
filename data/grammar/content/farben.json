@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welche Farbe hat der Himmel an einem klaren Tag?",
+        "answers": [
+            {
+                "text": "Grün",
+                "correct": false
+            }, {
+                "text": "Rot",
+                "correct": false
+            }, {
+                "text": "Blau",
+                "correct": true
+            }, {
+                "text": "Gelb",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist die Farbe von reifen Bananen?",
+        "answers": [
+            {
+                "text": "Weiß",
+                "correct": false
+            }, {
+                "text": "Gelb",
+                "correct": true
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Rot",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie sieht der Rasen normalerweise aus?",
+        "answers": [
+            {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Grün",
+                "correct": true
+            }, {
+                "text": "Schwarz",
+                "correct": false
+            }, {
+                "text": "Weiß",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist die Farbe von Karotten?",
+        "answers": [
+            {
+                "text": "Orange",
+                "correct": true
+            }, {
+                "text": "Gelb",
+                "correct": false
+            }, {
+                "text": "Grün",
+                "correct": false
+            }, {
+                "text": "Rot",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Farbe hat die Sonne bei Sonnenuntergang?",
+        "answers": [
+            {
+                "text": "Gelb",
+                "correct": false
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Grün",
+                "correct": false
+            }, {
+                "text": "Rot",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist die Farbe von reifen Tomaten?",
+        "answers": [
+            {
+                "text": "Grün",
+                "correct": false
+            }, {
+                "text": "Gelb",
+                "correct": false
+            }, {
+                "text": "Rot",
+                "correct": true
+            }, {
+                "text": "Blau",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Farbe hat der Himmel in der Nacht?",
+        "answers": [
+            {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Weiß",
+                "correct": false
+            }, {
+                "text": "Gelb",
+                "correct": false
+            }, {
+                "text": "Schwarz",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist die Farbe von Schnee?",
+        "answers": [
+            {
+                "text": "Weiß",
+                "correct": true
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Schwarz",
+                "correct": false
+            }, {
+                "text": "Gelb",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Farbe hat der Sand am Strand?",
+        "answers": [
+            {
+                "text": "Braun",
+                "correct": false
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Gelb",
+                "correct": true
+            }, {
+                "text": "Grün",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist die Farbe von Limetten?",
+        "answers": [
+            {
+                "text": "Grün",
+                "correct": true
+            }, {
+                "text": "Gelb",
+                "correct": false
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Rot",
+                "correct": false
+            }
+        ]
+    }
+]

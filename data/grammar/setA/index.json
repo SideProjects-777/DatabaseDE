@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Introduction I",
+            "de": "Vorstellung I",
+            "ru": "Знакомство I"
+        },
+        "file": "introduction.json",
+        "icon": "handshake-o",
+        "iconFamily": "FontAwesome"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Introduction II",
+            "de": "Vorstellung II",
+            "ru": "Знакомство II"
+        },
+        "file": "hallo.json",
+        "icon": "hand",
+        "iconFamily": "Entypo"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Family",
+            "de": "Familie",
+            "ru": "Семья"
+        },
+        "file": "family.json",
+        "icon": "people",
+        "iconFamily": "Ionicons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Colors",
+            "de": "Farben",
+            "ru": "Цвета"
+        },
+        "file": "farben.json",
+        "icon": "color-palette-outline",
+        "iconFamily": "Ionicons"
+    }, {
+        "name": "11 - elf",
+        "description": {
+            "en": "Numbers",
+            "de": "Zahlen",
+            "ru": "Цифры"
+        },
+        "file": "zahlen.json",
+        "icon": "number",
+        "iconFamily": "Octicons"
+    }
+]

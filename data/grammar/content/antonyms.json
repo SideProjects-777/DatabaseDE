@@ -1,0 +1,173 @@
+[
+    {
+        "name": "alt",
+        "answers": [
+            {
+                "text": "jung",
+                "correct": true
+            }, {
+                "text": "unangenehm",
+                "correct": false
+            }, {
+                "text": "allein",
+                "correct": false
+            }, {
+                "text": "genau",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "besser",
+        "answers": [
+            {
+                "text": "ähnlich",
+                "correct": false
+            }, {
+                "text": "schlechter",
+                "correct": true
+            }, {
+                "text": "tief",
+                "correct": false
+            }, {
+                "text": "frei",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "froh",
+        "answers": [
+            {
+                "text": "weit",
+                "correct": false
+            }, {
+                "text": "faul",
+                "correct": false
+            }, {
+                "text": "heiß",
+                "correct": false
+            }, {
+                "text": "traurig",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "gemeinsam",
+        "answers": [
+            {
+                "text": "allein",
+                "correct": true
+            }, {
+                "text": "gerade",
+                "correct": false
+            }, {
+                "text": "krank",
+                "correct": false
+            }, {
+                "text": "lang",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "laut",
+        "answers": [
+            {
+                "text": "langweilig",
+                "correct": false
+            }, {
+                "text": "leise",
+                "correct": true
+            }, {
+                "text": "trocken",
+                "correct": false
+            }, {
+                "text": "natürlich",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "klug",
+        "answers": [
+            {
+                "text": "privat",
+                "correct": false
+            }, {
+                "text": "ganz",
+                "correct": false
+            }, {
+                "text": "wach",
+                "correct": false
+            }, {
+                "text": "dumm",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "wach",
+        "answers": [
+            {
+                "text": "großzügig",
+                "correct": false
+            }, {
+                "text": "müde",
+                "correct": true
+            }, {
+                "text": "schlecht",
+                "correct": false
+            }, {
+                "text": "groß",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "böse",
+        "answers": [
+            {
+                "text": "schlecht",
+                "correct": false
+            }, {
+                "text": "gut",
+                "correct": true
+            }, {
+                "text": "halb",
+                "correct": false
+            }, {
+                "text": "ganz",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "teuer",
+        "answers": [
+            {
+                "text": "schwach",
+                "correct": false
+            }, {
+                "text": "gleich",
+                "correct": false
+            }, {
+                "text": "billig",
+                "correct": true
+            }, {
+                "text": "unwahrscheinlich",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "langweilig",
+        "answers": [
+            {
+                "text": "interessant",
+                "correct": true
+            }, {
+                "text": "uninteressant",
+                "correct": false
+            }, {
+                "text": "hungrig",
+                "correct": false
+            }, {
+                "text": "vertikal",
+                "correct": false
+            }
+        ]
+    }
+]
