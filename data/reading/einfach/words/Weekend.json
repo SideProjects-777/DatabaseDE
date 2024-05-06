@@ -1,0 +1,143 @@
+[
+    {
+        "de": "der Sonntag",
+        "en": "Sunday",
+        "ru": "воскресенье",
+        "descriptionEN": "the day of the week following Saturday and preceding Monday",
+        "descriptionRU": "день недели, следующий за субботой и предшествующий понедельнику",
+        "descriptionDE": "der Tag der Woche nach dem Samstag und vor dem Montag"
+    }, {
+        "de": "die Arbeit",
+        "en": "work",
+        "ru": "работа",
+        "descriptionEN": "activity involving mental or physical effort done in order to achieve a purpose or result",
+        "descriptionRU": "деятельность, требующая умственного или физического усилия для достижения цели или результата",
+        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ziel oder Ergebnis zu erreichen"
+    }, {
+        "de": "die Kirche",
+        "en": "church",
+        "ru": "церковь",
+        "descriptionEN": "a building used for public Christian worship",
+        "descriptionRU": "здание, используемое для публичного христианского богослужения",
+        "descriptionDE": "ein Gebäude, das für öffentlichen christlichen Gottesdienst genutzt wird"
+    }, {
+        "de": "das Essen",
+        "en": "food",
+        "ru": "еда",
+        "descriptionEN": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth",
+        "descriptionRU": "любое питательное вещество, которое люди или животные едят или пьют, или которое растения впитывают для поддержания жизни и роста",
+        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum zu erhalten"
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group consisting of two parents and their children living together as a unit",
+        "descriptionRU": "группа, состоящая из двух родителей и их детей, живущих вместе как единое целое",
+        "descriptionDE": "eine Gruppe bestehend aus zwei Elternteilen und ihren Kindern, die zusammen als Einheit leben"
+    }, {
+        "de": "der Ausflug",
+        "en": "outing",
+        "ru": "поездка",
+        "descriptionEN": "a short journey made by a group of people, usually for pleasure or education",
+        "descriptionRU": "короткое путешествие, совершаемое группой людей, обычно для удовольствия или образования",
+        "descriptionDE": "eine kurze Reise, die von einer Gruppe von Menschen unternommen wird, normalerweise zum Vergnügen oder zur Bildung"
+    }, {
+        "de": "arbeiten",
+        "en": "to work",
+        "ru": "работать",
+        "descriptionEN": "to engage in physical or mental activity in order to achieve a purpose or result",
+        "descriptionRU": "заниматься физической или умственной деятельностью с целью достижения цели или результата",
+        "descriptionDE": "sich in körperliche oder geistige Aktivität begeben, um ein Ziel oder Ergebnis zu erreichen"
+    }, {
+        "de": "decken",
+        "en": "to cover",
+        "ru": "покрывать",
+        "descriptionEN": "to place something over or upon, as to conceal or protect",
+        "descriptionRU": "положить что-то сверху или на что-то, чтобы скрыть или защитить",
+        "descriptionDE": "etwas über oder auf etwas legen, um es zu verbergen oder zu schützen"
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посещать",
+        "descriptionEN": "to go to see or spend time with someone socially",
+        "descriptionRU": "пойти, чтобы увидеться или провести время с кем-то в обществе",
+        "descriptionDE": "zu jemandem gehen, um ihn zu sehen oder Zeit mit ihm zu verbringen"
+    }, {
+        "de": "machen",
+        "en": "to make",
+        "ru": "делать",
+        "descriptionEN": "to produce or create something",
+        "descriptionRU": "произвести или создать что-то",
+        "descriptionDE": "etwas produzieren oder erschaffen"
+    }, {
+        "de": "heilig",
+        "en": "holy",
+        "ru": "святой",
+        "descriptionEN": "dedicated or consecrated to God or a religious purpose; sacred",
+        "descriptionRU": "посвященный или освященный Богу или религиозной цели; священный",
+        "descriptionDE": "Gott oder einem religiösen Zweck gewidmet oder geweiht; heilig"
+    }, {
+        "de": "voll",
+        "en": "full",
+        "ru": "полный",
+        "descriptionEN": "containing or holding as much or as many as possible; having no empty space",
+        "descriptionRU": "содержащий или вмещающий столько, сколько возможно; не имеющий пустого места",
+        "descriptionDE": "so viel oder so viele wie möglich enthaltend; keinen leeren Raum haben"
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "to a great extent; very much",
+        "descriptionRU": "в большой степени; очень",
+        "descriptionDE": "in großem Maße; sehr"
+    }, {
+        "de": "früher",
+        "en": "earlier",
+        "ru": "ранее",
+        "descriptionEN": "at or during a time before the present",
+        "descriptionRU": "во время или раньше настоящего времени",
+        "descriptionDE": "zu einer Zeit vor der Gegenwart"
+    }, {
+        "de": "ganz",
+        "en": "whole",
+        "ru": "целый",
+        "descriptionEN": "complete; not divided or damaged",
+        "descriptionRU": "полный; не разделенный или поврежденный",
+        "descriptionDE": "vollständig; nicht geteilt oder beschädigt"
+    }, {
+        "de": "langweilig",
+        "en": "boring",
+        "ru": "скучный",
+        "descriptionEN": "not interesting; tedious",
+        "descriptionRU": "не интересный; скучный",
+        "descriptionDE": "nicht interessant; langweilig"
+    }, {
+        "de": "schlecht",
+        "en": "bad",
+        "ru": "плохой",
+        "descriptionEN": "of poor quality or a low standard",
+        "descriptionRU": "низкого качества или стандарта",
+        "descriptionDE": "von schlechter Qualität oder niedrigem Standard"
+    }, {
+        "de": "fast",
+        "en": "almost",
+        "ru": "почти",
+        "descriptionEN": "not quite; very nearly",
+        "descriptionRU": "не совсем; очень близко",
+        "descriptionDE": "nicht ganz; sehr nahe"
+    }, {
+        "de": "so",
+        "en": "so",
+        "ru": "так",
+        "descriptionEN": "to such a great extent",
+        "descriptionRU": "до такой степени",
+        "descriptionDE": "in einem solchen Ausmaß"
+    }, {
+        "de": "fast",
+        "en": "almost",
+        "ru": "почти",
+        "descriptionEN": "not quite; very nearly",
+        "descriptionRU": "не совсем; очень близко",
+        "descriptionDE": "nicht ganz; sehr nahe"
+    }
+]

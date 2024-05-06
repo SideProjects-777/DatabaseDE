@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Am Morgen esse ich ________ Toastbrot mit Aprikosenmarmelade.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": true
+            },
+            {
+                "text": "eine",
+                "correct": false
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Und du, was nimmst du? Isst du ________ Scheibe Brot ?",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": false
+            },
+            {
+                "text": "eine",
+                "correct": true
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Oder magst du lieber ________ Schale Müsli mit Früchten?",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": false
+            },
+            {
+                "text": "eine",
+                "correct": true
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Mein Bruder trinkt jeden Morgen ________ Glas Orangensaft.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": true
+            },
+            {
+                "text": "eine",
+                "correct": false
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Ich trinke meistens ________ Kaffee mit Milch.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": true
+            },
+            {
+                "text": "eine",
+                "correct": false
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Aber das Beste wäre, ________ Glas Wasser zu trinken.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": true
+            },
+            {
+                "text": "eine",
+                "correct": false
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Vor dem Frühstück machen wir am Sonntag ________ Spaziergang.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": true
+            },
+            {
+                "text": "eine",
+                "correct": false
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Unsere Eltern möchten jeden Tag ________ Mittagsschläfchen machen.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": false
+            },
+            {
+                "text": "eine",
+                "correct": true
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Die Kinder besuchen oft ________ Freund oder eine Freundin.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": false
+            },
+            {
+                "text": "eine",
+                "correct": true
+            },
+            {
+                "text": "einen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Am Abend sehen wir uns ________ Film im Fernsehen an.",
+        "answers": [
+            {
+                "text": "ein",
+                "correct": false
+            },
+            {
+                "text": "eine",
+                "correct": false
+            },
+            {
+                "text": "einen",
+                "correct": true
+            }
+        ]
+    }
+]

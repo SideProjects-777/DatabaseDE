@@ -1,3 +1,43 @@
 [
-
+    {
+        "name": "bin / bist / ist",
+        "description": {
+            "en": "Conjugation",
+            "de": "Konjugation",
+            "ru": "Спряжение"
+        },
+        "file": "conjugation.json",
+        "icon": "running",
+        "iconFamily": "FontAwesome5"
+    }, {
+        "name": "Groß  - Riesig",
+        "description": {
+            "en": "Synonyms",
+            "de": "Synonyme",
+            "ru": "Синонимы"
+        },
+        "file": "synonym.json",
+        "icon": "clone",
+        "iconFamily": "FontAwesome5"
+    }, {
+        "name": "Groß  - Klein",
+        "description": {
+            "en": "Antonyms",
+            "de": "Antonyme",
+            "ru": "Антонимы"
+        },
+        "file": "antonyms.json",
+        "icon": "refresh-ccw",
+        "iconFamily": "Feather"
+    }, {
+        "name": "der - den",
+        "description": {
+            "en": "Akkusativ",
+            "de": "Akkusativ",
+            "ru": "Аккузатив"
+        },
+        "file": "akkusativ.json",
+        "icon": "card-text",
+        "iconFamily": "MaterialCommunityIcons"
+    }
 ]

@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Was ist der Beruf von Adrians Vater?",
+        "answers": [
+            {
+                "text": "Arzt",
+                "correct": false
+            }, {
+                "text": "Lehrer",
+                "correct": false
+            }, {
+                "text": "Softwareentwickler",
+                "correct": true
+            }, {
+                "text": "Kellner",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was studiert Marias Schwester?",
+        "answers": [
+            {
+                "text": "Veterinärmedizin",
+                "correct": true
+            }, {
+                "text": "Informatik",
+                "correct": false
+            }, {
+                "text": "Geschichte",
+                "correct": false
+            }, {
+                "text": "Deutsch",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welchen Beruf übt Anna, Adrians Mutter, aus?",
+        "answers": [
+            {
+                "text": "Lehrerin",
+                "correct": false
+            }, {
+                "text": "Softwareentwicklerin",
+                "correct": false
+            }, {
+                "text": "Ärztin",
+                "correct": true
+            }, {
+                "text": "Tierärztin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Lukas, Adrians großer Bruder, von Beruf?",
+        "answers": [
+            {
+                "text": "Arzt",
+                "correct": false
+            }, {
+                "text": "Softwareentwickler",
+                "correct": false
+            }, {
+                "text": "Lehrer",
+                "correct": true
+            }, {
+                "text": "Kellner",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt besucht Maria, Adrians Schwester, zum Studium?",
+        "answers": [
+            {
+                "text": "Freiburg",
+                "correct": false
+            }, {
+                "text": "München",
+                "correct": false
+            }, {
+                "text": "Berlin",
+                "correct": true
+            }, {
+                "text": "Hamburg",
+                "correct": false
+            }
+        ]
+    }
+]

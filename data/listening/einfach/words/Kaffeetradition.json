@@ -1,0 +1,157 @@
+[
+    {
+        "de": "der Kuchen",
+        "en": "cake",
+        "ru": "пирог",
+        "descriptionEN": "a sweet baked food made from a mixture of flour, sugar, and other ingredients",
+        "descriptionRU": "сладкое выпеченное блюдо из смеси муки, сахара и других ингредиентов",
+        "descriptionDE": "ein süßes gebackenes Lebensmittel aus einer Mischung aus Mehl, Zucker und anderen Zutaten"
+    }, {
+        "de": "die Verabredung",
+        "en": "appointment",
+        "ru": "встреча",
+        "descriptionEN": "an arrangement to meet someone at a particular time and place",
+        "descriptionRU": "договоренность о встрече с кем-то в определенное время и месте",
+        "descriptionDE": "eine Vereinbarung, sich zu einer bestimmten Zeit und an einem bestimmten Ort zu treffen"
+    }, {
+        "de": "der Nachbar",
+        "en": "neighbor",
+        "ru": "сосед",
+        "descriptionEN": "a person living next door to or very near to the speaker or person referred to",
+        "descriptionRU": "человек, живущий по соседству или очень близко к говорящему или к лицу, на которое ссылается говорящий",
+        "descriptionDE": "eine Person, die neben oder sehr nahe beim Sprecher oder der angesprochenen Person lebt"
+    }, {
+        "de": "der Teig",
+        "en": "dough",
+        "ru": "тесто",
+        "descriptionEN": "a mixture of flour and other ingredients used in cooking",
+        "descriptionRU": "смесь муки и других ингредиентов, используемая при приготовлении пищи",
+        "descriptionDE": "eine Mischung aus Mehl und anderen Zutaten, die beim Kochen verwendet wird"
+    }, {
+        "de": "die Bäckerei",
+        "en": "bakery",
+        "ru": "пекарня",
+        "descriptionEN": "a place where bread and cakes are made or sold",
+        "descriptionRU": "место, где делают или продают хлеб и пирожные",
+        "descriptionDE": "ein Ort, an dem Brot und Kuchen hergestellt oder verkauft werden"
+    }, {
+        "de": "die Sicherheit",
+        "en": "security",
+        "ru": "безопасность",
+        "descriptionEN": "the state of being free from danger or threat",
+        "descriptionRU": "состояние свободы от опасности или угрозы",
+        "descriptionDE": "der Zustand, frei von Gefahr oder Bedrohung zu sein"
+    }, {
+        "de": "der Tisch",
+        "en": "table",
+        "ru": "стол",
+        "descriptionEN": "a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed",
+        "descriptionRU": "мебель с плоской верхней частью и одной или несколькими ногами, предоставляющая ровную поверхность, на которую можно помещать предметы",
+        "descriptionDE": "ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können"
+    }, {
+        "de": "der Kaffee",
+        "en": "coffee",
+        "ru": "кофе",
+        "descriptionEN": "a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub",
+        "descriptionRU": "горячий напиток, приготовленный из обжаренных и измельченных семян (кофейных зерен) тропического кустарника",
+        "descriptionDE": "ein heißes Getränk aus den gerösteten und gemahlenen Samen (Kaffeebohnen) eines tropischen Strauches"
+    }, {
+        "de": "der Marmorkuchen",
+        "en": "marble cake",
+        "ru": "мраморный пирог",
+        "descriptionEN": "a cake with a streaked or mottled appearance, achieved by folding light and dark batter together",
+        "descriptionRU": "пирог с полосатым или пестрым внешним видом, достигаемым путем смешивания светлого и темного теста вместе",
+        "descriptionDE": "ein Kuchen mit einem gestreiften oder marmorierten Aussehen, das durch das Zusammenfalten von hellem und dunklem Teig erreicht wird"
+    }, {
+        "de": "der Gast",
+        "en": "guest",
+        "ru": "гость",
+        "descriptionEN": "a person who is invited to visit or stay in someone's home or participate in an event",
+        "descriptionRU": "человек, который приглашен в гости или остается в чьем-то доме или участвует в мероприятии",
+        "descriptionDE": "eine Person, die eingeladen ist, jemanden zu besuchen oder in dessen Haus zu bleiben oder an einer Veranstaltung teilzunehmen"
+    }, {
+        "de": "der Klatsch",
+        "en": "gossip",
+        "ru": "сплетня",
+        "descriptionEN": "casual or unconstrained conversation or reports about other people, typically involving details which are not confirmed as true",
+        "descriptionRU": "случайный или неконтролируемый разговор или отчеты о других людях, обычно содержащие детали, которые не подтверждены как правдивые",
+        "descriptionDE": "lockeres oder ungezwungenes Gespräch oder Berichte über andere Personen, die in der Regel Details enthalten, die nicht als wahr bestätigt sind"
+    }, {
+        "de": "der Tratsch",
+        "en": "chitchat",
+        "ru": "болтовня",
+        "descriptionEN": "light informal conversation for social occasions",
+        "descriptionRU": "легкий неформальный разговор для общественных случаев",
+        "descriptionDE": "leichte informelle Unterhaltung für gesellschaftliche Anlässe"
+    }, {
+        "de": "verabreden",
+        "en": "to arrange",
+        "ru": "договариваться",
+        "descriptionEN": "to make plans or preparations for",
+        "descriptionRU": "заключать сделку или подготавливать",
+        "descriptionDE": "Pläne oder Vorbereitungen treffen für"
+    }, {
+        "de": "treffen",
+        "en": "to meet",
+        "ru": "встречаться",
+        "descriptionEN": "to come together with someone, intentionally or by chance",
+        "descriptionRU": "встречаться с кем-то, намеренно или случайно",
+        "descriptionDE": "sich absichtlich oder zufällig mit jemandem treffen"
+    }, {
+        "de": "kosten",
+        "en": "to taste",
+        "ru": "пробовать",
+        "descriptionEN": "to ascertain the flavor of (food or drink) by taking it into the mouth",
+        "descriptionRU": "определять вкус (еды или напитка), принимая его в рот",
+        "descriptionDE": "den Geschmack von (Essen oder Trinken) feststellen, indem man es in den Mund nimmt"
+    }, {
+        "de": "lachen",
+        "en": "to laugh",
+        "ru": "смеяться",
+        "descriptionEN": "to make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement and sometimes also of derision",
+        "descriptionRU": "производить спонтанные звуки и движения лица и тела, которые являются инстинктивными выражениями живой развлеченности и иногда также насмешки",
+        "descriptionDE": "die spontanen Geräusche und Bewegungen von Gesicht und Körper machen, die die instinktiven Ausdrücke lebhafter Freude und manchmal auch der Verhöhnung sind"
+    }, {
+        "de": "reden",
+        "en": "to talk",
+        "ru": "разговаривать",
+        "descriptionEN": "to speak in order to give information or express ideas or feelings",
+        "descriptionRU": "говорить, чтобы дать информацию или выразить идеи или чувства",
+        "descriptionDE": "sprechen, um Informationen zu geben oder Ideen oder Gefühle auszudrücken"
+    }, {
+        "de": "tauschen",
+        "en": "to exchange",
+        "ru": "обмениваться",
+        "descriptionEN": "to give something and receive something else in return",
+        "descriptionRU": "дать что-то и получить что-то другое взамен",
+        "descriptionDE": "etwas geben und etwas anderes im Gegenzug erhalten"
+    }, {
+        "de": "fein",
+        "en": "fine",
+        "ru": "хороший",
+        "descriptionEN": "of high quality",
+        "descriptionRU": "высокого качества",
+        "descriptionDE": "von hoher Qualität"
+    }, {
+        "de": "schrecklich",
+        "en": "terrible",
+        "ru": "ужасный",
+        "descriptionEN": "extremely bad or unpleasant",
+        "descriptionRU": "крайне плохой или неприятный",
+        "descriptionDE": "äußerst schlecht oder unangenehm"
+    }, {
+        "de": "gleich",
+        "en": "right away",
+        "ru": "сразу же",
+        "descriptionEN": "immediately",
+        "descriptionRU": "немедленно",
+        "descriptionDE": "sofort"
+    }, {
+        "de": "schlecht",
+        "en": "bad",
+        "ru": "плохой",
+        "descriptionEN": "of poor quality or a low standard",
+        "descriptionRU": "низкого качества или низкого стандарта",
+        "descriptionDE": "von schlechter Qualität oder einem niedrigen Standard"
+    }
+]

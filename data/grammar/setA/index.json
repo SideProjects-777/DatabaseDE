@@ -1,33 +1,53 @@
 [
     {
-        "name": "der / die / das",
+        "name": "Wortschatz",
         "description": {
-            "en": "Articles",
-            "de": "Artikel",
-            "ru": "Aртикли"
+            "en": "Introduction I",
+            "de": "Vorstellung I",
+            "ru": "Знакомство I"
         },
-        "file": "article.json",
-        "icon": "robot-confused",
-        "iconFamily": "MaterialCommunityIcons"
-    }, {
-        "name": "die Bücher",
-        "description": {
-            "en": "Plurals",
-            "de": "Plurale",
-            "ru": "Множественное число"
-        },
-        "file": "plurals.json",
-        "icon": "copy",
+        "file": "introduction.json",
+        "icon": "handshake-o",
         "iconFamily": "FontAwesome"
     }, {
-        "name": "bin / bist / ist",
+        "name": "Wortschatz",
         "description": {
-            "en": "Conjugation",
-            "de": "Konjugation",
-            "ru": "Спряжение"
+            "en": "Introduction II",
+            "de": "Vorstellung II",
+            "ru": "Знакомство II"
         },
-        "file": "conjugation.json",
-        "icon": "running",
-        "iconFamily": "FontAwesome5"
+        "file": "hallo.json",
+        "icon": "hand",
+        "iconFamily": "Entypo"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Family",
+            "de": "Familie",
+            "ru": "Семья"
+        },
+        "file": "family.json",
+        "icon": "people",
+        "iconFamily": "Ionicons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Colors",
+            "de": "Farben",
+            "ru": "Цвета"
+        },
+        "file": "farben.json",
+        "icon": "color-palette-outline",
+        "iconFamily": "Ionicons"
+    }, {
+        "name": "11 - elf",
+        "description": {
+            "en": "Numbers",
+            "de": "Zahlen",
+            "ru": "Цифры"
+        },
+        "file": "zahlen.json",
+        "icon": "number",
+        "iconFamily": "Octicons"
     }
 ]

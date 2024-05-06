@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Wie heißt du?",
+        "answers": [
+            {
+                "text": "Ich komme aus Deutschland.",
+                "correct": false
+            }, {
+                "text": "Mein Name ist Anna.",
+                "correct": true
+            }, {
+                "text": "Ich lerne seit einem Jahr Deutsch.",
+                "correct": false
+            }, {
+                "text": "Ich bin Lehrer.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie alt bist du?",
+        "answers": [
+            {
+                "text": "Eines meiner Hobbys ist Lesen.",
+                "correct": false
+            }, {
+                "text": "Ich lebe in Berlin.",
+                "correct": false
+            }, {
+                "text": "Ich höre gerne Musik.",
+                "correct": false
+            }, {
+                "text": "Ich bin 27 Jahre alt.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Woher kommst du?",
+        "answers": [
+            {
+                "text": "Hallo, es ist schön, Sie kennenzulernen.",
+                "correct": false
+            }, {
+                "text": "Ich lerne seit einem Jahr Deutsch.",
+                "correct": false
+            }, {
+                "text": "Ich komme aus Bonn.",
+                "correct": true
+            }, {
+                "text": "Ich lebe in Berlin.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machst du hier?",
+        "answers": [
+            {
+                "text": "Schön Sie kennenzulernen.",
+                "correct": false
+            }, {
+                "text": "Mein Name ist Anna.",
+                "correct": false
+            }, {
+                "text": "Ich lerne Deutsch",
+                "correct": true
+            },  {
+                "text": "Das ist meine Schwester, Amelia.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machen sie gerne?",
+        "answers": [
+            {
+                "text": "Ich arbeite bei Google.",
+                "correct": false
+            }, {
+                "text": "Ich höre gerne Musik.",
+                "correct": true
+            }, {
+                "text": "Freut mich, Sie kennenzulernen.",
+                "correct": false
+            }, {
+                "text": "Erlauben Sie mir, mich vorzustellen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum lernst du Deutsch?",
+        "answers": [
+            {
+                "text": "Ich möchte in Deutschland studieren.",
+                "correct": true
+            }, {
+                "text": "Freut mich, Sie kennenzulernen.",
+                "correct": false
+            }, {
+                "text": "Es ist mir ein Vergnügen.",
+                "correct": false
+            },  {
+                "text": "Ich heiße Andrews.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Wie heißt du?",
+        "answers": [
+            {
+                "text": "Ich bin 10 Jahre alt.",
+                "correct": false
+            }, {
+                "text": "Mein Name ist Anna.",
+                "correct": true
+            }, {
+                "text": "Ich habe einen Hund.",
+                "correct": false
+            }, {
+                "text": "Ich komme aus Deutschland.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo wohnst du?",
+        "answers": [
+            {
+                "text": "Meine Lieblingsfarbe ist Blau.",
+                "correct": false
+            }, {
+                "text": "Ich lese gerne Bücher.",
+                "correct": false
+            }, {
+                "text": "Ich wohne in Hamburg.",
+                "correct": true
+            }, {
+                "text": "Ich spiele gerne Fußball.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie alt bist du?",
+        "answers": [
+            {
+                "text": "Ich bin in der Schule.",
+                "correct": false
+            }, {
+                "text": "Ich bin 25 Jahre alt.",
+                "correct": true
+            }, {
+                "text": "Ich habe zwei Geschwister.",
+                "correct": false
+            }, {
+                "text": "Ich esse gerne Pizza.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Woher kommst du?",
+        "answers": [
+            {
+                "text": "Ich esse gerne Pasta.",
+                "correct": false
+            }, {
+                "text": "Ich komme aus Frankreich.",
+                "correct": true
+            }, {
+                "text": "Ich habe zwei Hunde.",
+                "correct": false
+            }, {
+                "text": "Ich trage gerne grüne Kleidung.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist dein Lieblingsessen?",
+        "answers": [
+            {
+                "text": "Ich lebe in Berlin.",
+                "correct": false
+            }, {
+                "text": "Ich esse gerne Sushi.",
+                "correct": true
+            }, {
+                "text": "Ich schreibe Gedichte.",
+                "correct": false
+            }, {
+                "text": "Ich arbeite in einem Büro.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist dein Beruf?",
+        "answers": [
+            {
+                "text": "Ich trinke gerne Orangensaft.",
+                "correct": false
+            }, {
+                "text": "Ich bin Lehrer.",
+                "correct": true
+            }, {
+                "text": "Ich fahre gerne Fahrrad.",
+                "correct": false
+            }, {
+                "text": "Ich höre gerne Musik.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Hast du Haustiere?",
+        "answers": [
+            {
+                "text": "Ich wohne in einer Wohnung.",
+                "correct": false
+            }, {
+                "text": "Ja, ich habe einen Hund.",
+                "correct": true
+            }, {
+                "text": "Ich mag Katzen lieber.",
+                "correct": false
+            }, {
+                "text": "Ich habe einen Papagei.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist deine Lieblingsfarbe?",
+        "answers": [
+            {
+                "text": "Ich trage gerne T-Shirts.",
+                "correct": false
+            }, {
+                "text": "Meine Lieblingsfarbe ist Grün.",
+                "correct": true
+            }, {
+                "text": "Ich gehe gerne ins Kino.",
+                "correct": false
+            }, {
+                "text": "Ich mag keine Farben.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie ist dein Familienname?",
+        "answers": [
+            {
+                "text": "Ich spiele gerne Gitarre.",
+                "correct": false
+            }, {
+                "text": "Mein Familienname ist Müller.",
+                "correct": true
+            }, {
+                "text": "Ich esse gerne Eis.",
+                "correct": false
+            }, {
+                "text": "Ich wohne in einer Villa.",
+                "correct": false
+            }
+        ]
+    }
+]
