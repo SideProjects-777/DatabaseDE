@@ -17,7 +17,7 @@
             "ru": "Множественное число"
         },
         "file": "plurals.json",
-        "icon": "copy",
-        "iconFamily": "FontAwesome"
+        "icon": "bookmark-box-multiple",
+        "iconFamily": "MaterialCommunityIcons"
     }
 ]
