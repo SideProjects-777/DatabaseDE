@@ -118,9 +118,9 @@
             "ru": "Тайна музея"
         },
         "description": {
-            "en": "Art theft investigation unfolds",
-            "de": "Kunstdiebstahlermittlung entfaltet sich",
-            "ru": "Раскрытие расследования кражи искусства"
+            "en": "Art theft investigation",
+            "de": "Kunstdiebstahlermittlung",
+            "ru": "Расследование кражи искусства"
         },
         "level": "B2",
         "image": "Museumsgeheimnis.jpg",
@@ -134,9 +134,9 @@
             "ru": "Рислинг"
         },
         "description": {
-            "en": "Versatile grape variety",
-            "de": "Vielseitige Rebsorte",
-            "ru": "Универсальный сорт винограда"
+            "en": "Grape variety",
+            "de": "Rebsorte",
+            "ru": "Сорт винограда"
         },
         "level": "B2",
         "image": "Riesling.jpg",
