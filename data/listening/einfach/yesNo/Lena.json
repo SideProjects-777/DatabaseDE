@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Lena kommt aus Berlin.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Bonn liegt im Osten von Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Unterricht beginnt um acht Uhr abends.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In Lenas Klasse gibt es insgesamt 20 Schüler.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Alle Schüler in Lenas Klasse kommen aus Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lena und Lisa haben bereits Frankfurt besucht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lena möchte in Deutschland Architektin werden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lisas Eltern sind beide Fotografen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lena und Lisa werden insgesamt zwölf Wochen in Deutschland verbringen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Nach dem Sprachkurs machen Lena und Lisa eine Reise.",
+        "tr": true,
+        "fle": false
+    }
+]

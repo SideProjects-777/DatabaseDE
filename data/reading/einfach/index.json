@@ -1,0 +1,67 @@
+[
+    {
+        "name": {
+            "en": "Pia's Interests",
+            "de": "Pias Interessen",
+            "ru": "Интересы Пии"
+        },
+        "description": {
+            "en": "Hobbies and friends",
+            "de": "Hobbys und Freunde",
+            "ru": "Хобби и друзья"
+        },
+        "level": "A2",
+        "image": "Pia.jpg",
+        "file": "Pia.txt",
+        "words": "Pia.json",
+        "yesNo": "Pia.json"
+    }, {
+        "name": {
+            "en": "Sophia's Life",
+            "de": "Sophias Leben",
+            "ru": "Жизнь Софии"
+        },
+        "description": {
+            "en": "Life and activities",
+            "de": "Das Leben und die Aktivitäten",
+            "ru": "Жизнь и интересы"
+        },
+        "level": "A2",
+        "image": "Sophia.jpg",
+        "file": "Sophia.txt",
+        "words": "Sophia.json",
+        "yesNo": "Sophia.json"
+    }, {
+        "name": {
+            "en": "Final year",
+            "de": "Abschlussjahr",
+            "ru": "Последний год"
+        },
+        "description": {
+            "en": "First School Day",
+            "de": "Erste Schultage",
+            "ru": "Первый школьный день"
+        },
+        "level": "A2",
+        "image": "Abschlussjahr.png",
+        "file": "Abschlussjahr.txt",
+        "words": "Abschlussjahr.json",
+        "yesNo": "Abschlussjahr.json"
+    }, {
+        "name": {
+            "en": "German Sunday",
+            "de": "Deutscher Sonntag",
+            "ru": "Немецкое воскресенье"
+        },
+        "description": {
+            "en": "Weekend customs",
+            "de": "Wochenendbräuche",
+            "ru": "Обычаи выходного дня"
+        },
+        "level": "A1",
+        "image": "Weekend.jpg",
+        "file": "Weekend.txt",
+        "words": "Weekend.json",
+        "yesNo": "Weekend.json"
+    }
+]

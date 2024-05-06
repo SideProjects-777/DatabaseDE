@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Anna träumte davon, Biologin zu werden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "David wollte später einmal Mathematiklehrer werden.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julia mochte Kunst am liebsten und träumte davon, eine berühmte Künstlerin zu werden.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Max wollte später Biologe werden und die Natur erforschen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Alle vier Schüler mochten Chemie als Fach.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Am ersten Tag ihres letzten Schuljahres gingen Anna, David, Julia und Max getrennt zur Schule.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die vier Schüler waren fest entschlossen, dieses Jahr zu ihrem schlechtesten Jahr zu machen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Anna liebte Mathematik und träumte davon, Mathematikerin zu werden.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "David mochte Geschichte am liebsten und wollte später einmal Geschichtslehrer werden.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Julia war sehr interessiert an Biologie und wollte Biologin werden.",
+        "tr": false,
+        "fle": true
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "de": "die Orange",
+        "en": "orange",
+        "ru": "апельсин",
+        "descriptionEN": "A round citrus fruit with a bright orange color, known for its juicy flesh and high vitamin C content.",
+        "descriptionRU": "Круглый цитрусовый фрукт с ярко-оранжевой окраской, известный своим сочным мякотью и высоким содержанием витамина C.",
+        "descriptionDE": "Eine runde Zitrusfrucht mit leuchtend orangener Farbe, bekannt für ihr saftiges Fruchtfleisch und den hohen Vitamin-C-Gehalt."
+    }, {
+        "de": "der Apfel",
+        "en": "apple",
+        "ru": "яблоко",
+        "descriptionEN": "A round fruit that can be red or green, known for its sweet and juicy taste.",
+        "descriptionRU": "Круглый фрукт, который может быть красным или зеленым, известный своим сладким и сочным вкусом.",
+        "descriptionDE": "Ein runder Obst, das rot oder grün sein kann, bekannt für seinen süßen und saftigen Geschmack."
+    }, {
+        "de": "die Banane",
+        "en": "banana",
+        "ru": "банан",
+        "descriptionEN": "A long curved fruit with a smooth yellow skin, known for its sweet flavor and soft texture.",
+        "descriptionRU": "Длинный изогнутый фрукт с гладкой желтой кожурой, известный своим сладким вкусом и мягкой текстурой.",
+        "descriptionDE": "Ein langer gebogener Obst mit glatter gelber Schale, bekannt für seinen süßen Geschmack und weiche Textur."
+    }, {
+        "de": "die Möhre",
+        "en": "carrot",
+        "ru": "морковь",
+        "descriptionEN": "A long, orange vegetable with a crunchy texture, known for its high beta-carotene content and benefits for eye health.",
+        "descriptionRU": "Длинное оранжевое овощ с хрустящей текстурой, известное своим высоким содержанием бета-каротина и полезностью для здоровья глаз.",
+        "descriptionDE": "Ein langes, orangefarbenes Gemüse mit knackiger Textur, bekannt für seinen hohen Gehalt an Beta-Carotin und die Vorteile für die Augengesundheit."
+    }, {
+        "de": "die Tomate",
+        "en": "tomato",
+        "ru": "помидор",
+        "descriptionEN": "A round, red fruit often used in salads and sauces, known for its juicy flesh and versatility in cooking.",
+        "descriptionRU": "Круглый, красный фрукт, часто используемый в салатах и соусах, известный своим сочным мякотью и универсальностью в кулинарии.",
+        "descriptionDE": "Ein runder, roter Obst, das oft in Salaten und Saucen verwendet wird, bekannt für sein saftiges Fruchtfleisch und seine Vielseitigkeit beim Kochen."
+    }, {
+        "de": "die Gurke",
+        "en": "cucumber",
+        "ru": "огурец",
+        "descriptionEN": "A long, green vegetable with a smooth skin, often used in salads and sandwiches for its crisp texture and mild flavor.",
+        "descriptionRU": "Длинное, зеленое овощ с гладкой кожурой, часто используемое в салатах и бутербродах за его хрустящую текстуру и нежный вкус.",
+        "descriptionDE": "Ein langes, grünes Gemüse mit glatter Haut, das oft in Salaten und Sandwiches für seine knackige Textur und milden Geschmack verwendet wird."
+    }, {
+        "de": "der Salat",
+        "en": "salad",
+        "ru": "салат",
+        "descriptionEN": "A dish consisting of a mixture of raw or cooked vegetables, often served with a dressing, and sometimes accompanied by meat, fish, or other ingredients.",
+        "descriptionRU": "Блюдо, состоящее из смеси сырых или вареных овощей, часто подается с заправкой и иногда сопровождается мясом, рыбой или другими ингредиентами.",
+        "descriptionDE": "Ein Gericht, bestehend aus einer Mischung aus rohen oder gekochten Gemüsen, oft serviert mit einem Dressing und manchmal begleitet von Fleisch, Fisch oder anderen Zutaten."
+    }, {
+        "de": "der Paprika",
+        "en": "bell pepper",
+        "ru": "болгарский перец",
+        "descriptionEN": "A large, bell-shaped fruit with various colors such as red, yellow, or green, known for its sweet and crunchy flesh.",
+        "descriptionRU": "Крупный плод формы колокольчика с различными цветами, такими как красный, желтый или зеленый, известный своим сладким и хрустящим мякотью.",
+        "descriptionDE": "Eine große, glockenförmige Frucht mit verschiedenen Farben wie rot, gelb oder grün, bekannt für ihr süßes und knackiges Fruchtfleisch."
+    }, {
+        "de": "essen",
+        "en": "to eat",
+        "ru": "есть",
+        "descriptionEN": "To consume food by putting it into the mouth, chewing, and swallowing.",
+        "descriptionRU": "Поглощать пищу, помещая ее в рот, жуя и глотая.",
+        "descriptionDE": "Lebensmittel durch Einführen in den Mund, Kauen und Schlucken konsumieren."
+    }, {
+        "de": "sprechen",
+        "en": "to speak",
+        "ru": "говорить",
+        "descriptionEN": "To express thoughts, feelings, or ideas verbally.",
+        "descriptionRU": "Выражать мысли, чувства или идеи словами.",
+        "descriptionDE": "Gedanken, Gefühle oder Ideen verbal ausdrücken."
+    }, {
+        "de": "machen",
+        "en": "to make",
+        "ru": "делать",
+        "descriptionEN": "To create or produce something.",
+        "descriptionRU": "Создавать или производить что-то.",
+        "descriptionDE": "Etwas erschaffen oder produzieren."
+    }, {
+        "de": "wohnen",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "To reside in a particular place.",
+        "descriptionRU": "Проживать в определенном месте.",
+        "descriptionDE": "An einem bestimmten Ort wohnen."
+    }, {
+        "de": "gesund",
+        "en": "healthy",
+        "ru": "здоровый",
+        "descriptionEN": "Beneficial to one's physical, mental, or emotional well-being.",
+        "descriptionRU": "Полезный для физического, умственного или эмоционального благополучия.",
+        "descriptionDE": "Zuträglich für das körperliche, geistige oder emotionale Wohlbefinden."
+    }, {
+        "de": "lecker",
+        "en": "tasty",
+        "ru": "вкусный",
+        "descriptionEN": "Having a pleasant flavor or taste.",
+        "descriptionRU": "Имеющий приятный вкус или аромат.",
+        "descriptionDE": "Einen angenehmen Geschmack oder Geschmack haben."
+    }, {
+        "de": "knackig",
+        "en": "crispy",
+        "ru": "хрустящий",
+        "descriptionEN": "Having a crunchy texture or consistency.",
+        "descriptionRU": "Имеющий хрустящую текстуру или консистенцию.",
+        "descriptionDE": "Eine knusprige Textur oder Konsistenz haben."
+    }, {
+        "de": "süß",
+        "en": "sweet",
+        "ru": "сладкий",
+        "descriptionEN": "Having a taste resembling that of sugar; not bitter or salty.",
+        "descriptionRU": "Имеющий вкус, напоминающий вкус сахара; не горький или соленый.",
+        "descriptionDE": "Einen Geschmack haben, der dem von Zucker ähnelt; nicht bitter oder salzig sein."
+    }, {
+        "de": "saftig",
+        "en": "juicy",
+        "ru": "соковитый",
+        "descriptionEN": "Containing a lot of juice; moist and succulent.",
+        "descriptionRU": "Содержащий много сока; влажный и сочный.",
+        "descriptionDE": "Viel Saft enthaltend; feucht und saftig."
+    }, {
+        "de": "glatt",
+        "en": "smooth",
+        "ru": "гладкий",
+        "descriptionEN": "Having an even surface without roughness, lumps, or indentations.",
+        "descriptionRU": "Имеющий ровную поверхность без шероховатостей, комков или вдавлений.",
+        "descriptionDE": "Eine gleichmäßige Oberfläche ohne Rauheit, Klumpen oder Vertiefungen haben."
+    }, {
+        "de": "ideal",
+        "en": "ideal",
+        "ru": "идеальный",
+        "descriptionEN": "Satisfying one's conception of what is perfect or most suitable.",
+        "descriptionRU": "Удовлетворяющий чье-то представление о том, что совершенно или наиболее подходяще.",
+        "descriptionDE": "Die Vorstellung dessen befriedigen, was perfekt oder am besten geeignet ist."
+    }, {
+        "de": "verschieden",
+        "en": "various",
+        "ru": "различный",
+        "descriptionEN": "Differing from one another or from a standard.",
+        "descriptionRU": "Отличающийся друг от друга или от стандарта.",
+        "descriptionDE": "Voneinander oder von einem Standard abweichend."
+    }
+]

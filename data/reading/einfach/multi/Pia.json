@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wie alt ist Pia?",
+        "answers": [
+            {
+                "text": "15 Jahre alt",
+                "correct": false
+            }, {
+                "text": "17 Jahre alt",
+                "correct": true
+            }, {
+                "text": "20 Jahre alt",
+                "correct": false
+            }, {
+                "text": "22 Jahre alt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Woher kommt Pia ursprünglich?",
+        "answers": [
+            {
+                "text": "Koblenz",
+                "correct": false
+            }, {
+                "text": "München",
+                "correct": false
+            }, {
+                "text": "Hamburg",
+                "correct": false
+            }, {
+                "text": "Berlin",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist Pias Hobby?",
+        "answers": [
+            {
+                "text": "Schwimmen",
+                "correct": false
+            }, {
+                "text": "Tanzen",
+                "correct": false
+            }, {
+                "text": "Lesen",
+                "correct": true
+            }, {
+                "text": "Malen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann liest Pia normalerweise?",
+        "answers": [
+            {
+                "text": "Morgens nach dem Aufstehen",
+                "correct": false
+            }, {
+                "text": "In der Schule",
+                "correct": false
+            }, {
+                "text": "Abends vor dem Schlafengehen",
+                "correct": true
+            }, {
+                "text": "Nachmittags nach der Schule",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist James' Hobby?",
+        "answers": [
+            {
+                "text": "Schwimmen",
+                "correct": true
+            }, {
+                "text": "Tanzen",
+                "correct": false
+            }, {
+                "text": "Lesen",
+                "correct": false
+            }, {
+                "text": "Fußball spielen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie oft geht James ins Schwimmbad?",
+        "answers": [
+            {
+                "text": "Jeden Tag",
+                "correct": false
+            }, {
+                "text": "Zweimal die Woche",
+                "correct": false
+            }, {
+                "text": "Dreimal die Woche",
+                "correct": true
+            }, {
+                "text": "Einmal im Monat",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie heißt Pias beste Freundin?",
+        "answers": [
+            {
+                "text": "Emma",
+                "correct": false
+            }, {
+                "text": "Sophie",
+                "correct": false
+            }, {
+                "text": "Johanna",
+                "correct": true
+            }, {
+                "text": "Anna",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Red?",
+        "answers": [
+            {
+                "text": "Ein Hund",
+                "correct": true
+            }, {
+                "text": "Eine Katze",
+                "correct": false
+            }, {
+                "text": "Ein Vogel",
+                "correct": false
+            }, {
+                "text": "Ein Fisch",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machen Pia und ihre Freunde gerne zusammen?",
+        "answers": [
+            {
+                "text": "Schwimmen gehen",
+                "correct": false
+            }, {
+                "text": "Lesen",
+                "correct": false
+            }, {
+                "text": "Spaß haben",
+                "correct": true
+            }, {
+                "text": "Malen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fällt Pia schwer?",
+        "answers": [
+            {
+                "text": "Schwimmen zu lernen",
+                "correct": false
+            }, {
+                "text": "Im Park zu sitzen",
+                "correct": false
+            }, {
+                "text": "Mit Red zu spielen",
+                "correct": false
+            }, {
+                "text": "Auf Englisch zu lesen",
+                "correct": true
+            }
+        ]
+    }
+]

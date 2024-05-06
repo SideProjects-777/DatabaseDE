@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was sind die großen Tiere, die Lily und ihre Mutter zuerst im Zoo sahen?",
+        "answers": [
+            {
+                "text": "Affen",
+                "correct": false
+            }, {
+                "text": "Elefanten",
+                "correct": false
+            }, {
+                "text": "Giraffen",
+                "correct": true
+            }, {
+                "text": "Schlangen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Tiere winkten Lily zu, als sie sich von den Bäumen schwangen?",
+        "answers": [
+            {
+                "text": "Affen",
+                "correct": true
+            }, {
+                "text": "Elefanten",
+                "correct": false
+            }, {
+                "text": "Giraffen",
+                "correct": false
+            }, {
+                "text": "Papageien",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche großen Tiere planschten im Wasser, als Lily und ihre Mutter sie sahen?",
+        "answers": [
+            {
+                "text": "Affen",
+                "correct": false
+            }, {
+                "text": "Elefanten",
+                "correct": true
+            }, {
+                "text": "Giraffen",
+                "correct": false
+            }, {
+                "text": "Schlangen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was haben Elefanten, um sich abzukühlen und Wasser zu trinken?",
+        "answers": [
+            {
+                "text": "Lange Rüssel",
+                "correct": true
+            }, {
+                "text": "Lange Hälse",
+                "correct": false
+            }, {
+                "text": "Schwänze",
+                "correct": false
+            }, {
+                "text": "Flügel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das für ein Tier, das Lily und ihre Mutter als erstes im Zoo sahen?",
+        "answers": [
+            {
+                "text": "Affen",
+                "correct": false
+            }, {
+                "text": "Elefanten",
+                "correct": false
+            }, {
+                "text": "Giraffen",
+                "correct": true
+            }, {
+                "text": "Schlangen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was für Tiere klettern und schaukeln gern?",
+        "answers": [
+            {
+                "text": "Affen",
+                "correct": true
+            }, {
+                "text": "Elefanten",
+                "correct": false
+            }, {
+                "text": "Giraffen",
+                "correct": false
+            }, {
+                "text": "Schlangen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sind die großen Tiere, die im Wasser planschten, als Lily und ihre Mutter sie sahen?",
+        "answers": [
+            {
+                "text": "Affen",
+                "correct": false
+            }, {
+                "text": "Elefanten",
+                "correct": true
+            }, {
+                "text": "Giraffen",
+                "correct": false
+            }, {
+                "text": "Papageien",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was haben die Elefanten gemacht, um sich abzukühlen?",
+        "answers": [
+            {
+                "text": "Sich abgespritzt",
+                "correct": false
+            }, {
+                "text": "Wasser getrunken",
+                "correct": false
+            }, {
+                "text": "Wasser getrunken und sich abgespritzt",
+                "correct": true
+            }, {
+                "text": "Gesungen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Tiere haben Lily und ihre Mutter im Zoo noch gesehen außer Giraffen, Affen und Elefanten?",
+        "answers": [
+            {
+                "text": "Tiger, Löwen und Bären",
+                "correct": false
+            }, {
+                "text": "Hunde, Katzen und Mäuse",
+                "correct": false
+            }, {
+                "text": "Kühe, Schweine und Hühner",
+                "correct": false
+            }, {
+                "text": "Schlangen, Papageien und vieles mehr",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was wollte Lily nicht, als die Sonne unterging?",
+        "answers": [
+            {
+                "text": "Im Zoo bleiben",
+                "correct": false
+            }, {
+                "text": "Gehen",
+                "correct": true
+            }, {
+                "text": "Mit den Giraffen spielen",
+                "correct": false
+            }, {
+                "text": "Schlafen",
+                "correct": false
+            }
+        ]
+    }
+]
