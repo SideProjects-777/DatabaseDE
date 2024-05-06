@@ -14,7 +14,7 @@
         "image": "Pia.png",
         "file": "Pia.txt",
         "words": "Pia.json",
-        "yesNo": "Pia.json"
+        "multi": "Pia.json"
     }, {
         "name": {
             "en": "Sophia's Life",
@@ -22,9 +22,9 @@
             "ru": "Жизнь Софии"
         },
         "description": {
-            "en": "Life and activities",
-            "de": "Das Leben und die Aktivitäten",
-            "ru": "Жизнь и интересы"
+            "en": "Activities",
+            "de": "Die Aktivitäten",
+            "ru": "Интересы"
         },
         "level": "A2",
         "image": "Sophia.jpg",
