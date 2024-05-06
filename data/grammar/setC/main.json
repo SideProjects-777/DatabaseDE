@@ -1,0 +1,13 @@
+[
+    {
+        "name": "der - den",
+        "description": {
+            "en": "Akkusativ",
+            "de": "Akkusativ",
+            "ru": "Аккузатив"
+        },
+        "file": "akkusativ.json",
+        "icon": "card-text",
+        "iconFamily": "MaterialCommunityIcons"
+    }
+]
