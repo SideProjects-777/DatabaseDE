@@ -9,17 +9,6 @@
         "file": "conjugation.json",
         "icon": "running",
         "iconFamily": "FontAwesome5"
-    },
-    {
-        "name": "11 - elf",
-        "description": {
-            "en": "Numbers",
-            "de": "Zahlen",
-            "ru": "Цифры"
-        },
-        "file": "zahlen.json",
-        "icon": "number",
-        "iconFamily": "Octicons"
     }, {
         "name": "Groß  - Riesig",
         "description": {
@@ -40,5 +29,15 @@
         "file": "antonyms.json",
         "icon": "refresh-ccw",
         "iconFamily": "Feather"
+    }, {
+        "name": "der - den",
+        "description": {
+            "en": "Akkusativ",
+            "de": "Akkusativ",
+            "ru": "Аккузатив"
+        },
+        "file": "akkusativ.json",
+        "icon": "card-text",
+        "iconFamily": "MaterialCommunityIcons"
     }
 ]
