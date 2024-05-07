@@ -126,7 +126,7 @@
         "image": "Benrath.jpg",
         "file": "Benrath.mp3",
         "words": "Benrath.json",
-        "yesNo": "Benrath.json"
+        "multi": "Benrath.json"
     }, {
         "name": {
             "en": "Japan Day",
