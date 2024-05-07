@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Maria vergaß ihre Schlüssel, als sie ihre Pizzalieferung abholen wollte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Maria bat Herald um Hilfe, als sie ihre Schlüssel vergessen hatte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Herald war nicht freundlich zu Maria, als sie um Hilfe bat.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Herald empfahl Maria, im Internet nach einem Schlüsseldienst zu suchen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Schlüsseldienst sollte Maria kostenlos helfen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Herald sagte Maria, dass die Preise der Schlüsseldienste immer gleich sind.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Maria war besorgt über die möglichen Kosten des Schlüsseldienstes.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Preis für den Schlüsseldienst betrug am Ende 100 Euro.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Herald konnte den Preis des Schlüsseldienstes herunterhandeln.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Maria war nicht dankbar für Heralds Hilfe.",
+        "tr": false,
+        "fle": true
+    }
+]

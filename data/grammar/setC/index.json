@@ -39,5 +39,15 @@
         "file": "akkusativ.json",
         "icon": "card-text",
         "iconFamily": "MaterialCommunityIcons"
+    },  {
+        "name": "der - dem",
+        "description": {
+            "en": "Dative",
+            "de": "Dativ",
+            "ru": "Датив"
+        },
+        "file": "dativ.json",
+        "icon": "suitcase",
+        "iconFamily": "FontAwesome6"
     }
 ]

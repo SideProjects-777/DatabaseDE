@@ -42,7 +42,7 @@
             "de": "Schauspielerreise",
             "ru": "Путь актера"
         },
-        "level": "A2",
+        "level": "B1",
         "image": "Schauspielerreise.jpg",
         "file": "Schauspielerreise.mp3",
         "words": "Schauspielerreise.json",
@@ -106,7 +106,7 @@
             "de": "Fotoreise",
             "ru": "Путешествие фотографа"
         },
-        "level": "B1",
+        "level": "B2",
         "image": "Himmelsabenteuer.jpg",
         "file": "Himmelsabenteuer.mp3",
         "words": "Himmelsabenteuer.json",

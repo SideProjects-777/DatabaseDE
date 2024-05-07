@@ -1,20 +1,20 @@
 [
     {
         "name": {
-            "en": "Hidden gems",
-            "de": "Versteckte Juwelen",
-            "ru": "Скрытые жемчужины"
+            "en": "Friendly Assistance",
+            "de": "Freundliche Hilfe",
+            "ru": "Дружественная помощь"
         },
         "description": {
-            "en": "Citizen interviews",
-            "de": "Bürgerinterviews",
-            "ru": "Интервью с гражданами"
+            "en": "Locked door",
+            "de": "Verschlossene Tür",
+            "ru": "Запертая дверь"
         },
         "level": "A2",
-        "image": "Bürgerinterviews.jpg",
-        "file": "Bürgerinterviews.txt",
-        "words": "Bürgerinterviews.json",
-        "multi": "Bürgerinterviews.json"
+        "image": "Keys.jpg",
+        "file": "Keys.txt",
+        "words": "Keys.json",
+        "yesNo": "Keys.json"
     }, {
         "name": {
             "en": "Vacation dilemma",
@@ -31,22 +31,6 @@
         "file": "Urlaubsdilemma.txt",
         "words": "Urlaubsdilemma.json",
         "yesNo": "Urlaubsdilemma.json"
-    }, {
-        "name": {
-            "en": "Tonhalle Legends",
-            "de": "Tonhalle Legenden",
-            "ru": "Легенды Тонхалле"
-        },
-        "description": {
-            "en": "Iconic musicians",
-            "de": "Ikone Musiker",
-            "ru": "Иконические музыканты"
-        },
-        "level": "A2",
-        "image": "Tonhalle.jpg",
-        "file": "Tonhalle.txt",
-        "words": "Tonhalle.json",
-        "multi": "Tonhalle.json"
     }, {
         "name": {
             "en": "Fashion Fun Day",
@@ -79,6 +63,38 @@
         "file": "Dusseldorf_Erkunden.txt",
         "words": "Dusseldorf_Erkunden.json",
         "yesNo": "Dusseldorf_Erkunden.json"
+    }, {
+        "name": {
+            "en": "Tonhalle Legends",
+            "de": "Tonhalle Legenden",
+            "ru": "Легенды Тонхалле"
+        },
+        "description": {
+            "en": "Iconic musicians",
+            "de": "Ikone Musiker",
+            "ru": "Иконические музыканты"
+        },
+        "level": "B1",
+        "image": "Tonhalle.jpg",
+        "file": "Tonhalle.txt",
+        "words": "Tonhalle.json",
+        "multi": "Tonhalle.json"
+    }, {
+        "name": {
+            "en": "Hidden gems",
+            "de": "Versteckte Juwelen",
+            "ru": "Скрытые жемчужины"
+        },
+        "description": {
+            "en": "Citizen interviews",
+            "de": "Bürgerinterviews",
+            "ru": "Интервью с гражданами"
+        },
+        "level": "B1",
+        "image": "Bürgerinterviews.jpg",
+        "file": "Bürgerinterviews.txt",
+        "words": "Bürgerinterviews.json",
+        "multi": "Bürgerinterviews.json"
     }, {
         "name": {
             "en": "Altstadt Charm",

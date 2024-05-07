@@ -81,25 +81,8 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.mp4",
-        "amountOfStories": 6,
+        "amountOfStories": 7,
         "active": true,
-        "hasVideo": true
-    }, {
-        "name": {
-            "de": "Berlin",
-            "en": "Berlin",
-            "ru": "Берлин"
-        },
-        "folder": "berlin",
-        "description": {
-            "de": "Multikulturelle Metropole",
-            "en": "Multicultural metropolis",
-            "ru": "Многонациональный мегаполис"
-        },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/berlin.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/loadingMap.mp4",
-        "amountOfStories": 0,
-        "active": false,
         "hasVideo": true
     }
 ]

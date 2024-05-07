@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Am Mittwoch gehe ich zu __________ Oma.",
+        "answers": [
+            {
+                "text": "meinem",
+                "correct": true
+            }, {
+                "text": "meiner",
+                "correct": false
+            }, {
+                "text": "meinen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wir gratulieren __________ Onkel zu seinem Geburtstag.",
+        "answers": [
+            {
+                "text": "meinem",
+                "correct": true
+            }, {
+                "text": "meiner",
+                "correct": false
+            }, {
+                "text": "meinen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In __________ Konzertsaal haben wir eine Oper gesehen.",
+        "answers": [
+            {
+                "text": "dem",
+                "correct": true
+            }, {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "den",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "__________ Lehrer gibt Übungen für morgen.",
+        "answers": [
+            {
+                "text": "Der",
+                "correct": true
+            }, {
+                "text": "Dem",
+                "correct": false
+            }, {
+                "text": "Den",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Er gibt __________ Schülern Übungen.",
+        "answers": [
+            {
+                "text": "den",
+                "correct": true
+            }, {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "dem",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Nach __________ Schule fahre ich zu dem Schwimmbad.",
+        "answers": [
+            {
+                "text": "der",
+                "correct": true
+            }, {
+                "text": "dem",
+                "correct": false
+            }, {
+                "text": "den",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wir arbeiten mit __________ Kusine.",
+        "answers": [
+            {
+                "text": "meiner",
+                "correct": true
+            }, {
+                "text": "meinem",
+                "correct": false
+            }, {
+                "text": "meinen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Sie gehen in __________ Computerraum.",
+        "answers": [
+            {
+                "text": "den",
+                "correct": true
+            }, {
+                "text": "der",
+                "correct": false
+            }, {
+                "text": "dem",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich erkläre __________ Vater mein Problem.",
+        "answers": [
+            {
+                "text": "meinem",
+                "correct": true
+            }, {
+                "text": "meiner",
+                "correct": false
+            }, {
+                "text": "meinen",
+                "correct": false
+            }
+        ]
+    }
+]

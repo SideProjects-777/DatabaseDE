@@ -1,0 +1,136 @@
+[
+    {
+        "de": "der Nachbar",
+        "en": "neighbor",
+        "ru": "сосед",
+        "descriptionEN": "people who live near to each other",
+        "descriptionRU": "люди, живущие рядом друг с другом",
+        "descriptionDE": "Menschen, die in der Nähe voneinander leben"
+    }, {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person with whom one has a bond of mutual affection",
+        "descriptionRU": "человек, с которым у вас существует взаимная привязанность",
+        "descriptionDE": "eine Person, mit der man eine gegenseitige Zuneigung verbindet"
+    }, {
+        "de": "das Mehrfamilienhaus",
+        "en": "apartment building",
+        "ru": "многоквартирный дом",
+        "descriptionEN": "a building containing separate residences for several different families",
+        "descriptionRU": "здание, содержащее отдельные жилые помещения для нескольких семей",
+        "descriptionDE": "ein Gebäude, das separate Wohnungen für mehrere verschiedene Familien enthält"
+    }, {
+        "de": "die Sorge",
+        "en": "worry",
+        "ru": "беспокойство",
+        "descriptionEN": "anxiety or concern about something",
+        "descriptionRU": "тревога или беспокойство по поводу чего-либо",
+        "descriptionDE": "Angst oder Besorgnis über etwas"
+    }, {
+        "de": "die Verlegenheit",
+        "en": "embarrassment",
+        "ru": "смущение",
+        "descriptionEN": "a feeling of self-consciousness, shame, or awkwardness",
+        "descriptionRU": "чувство самосознания, стыда или неуклюжести",
+        "descriptionDE": "ein Gefühl von Selbstbewusstsein, Scham oder Unbeholfenheit"
+    }, {
+        "de": "das Internet",
+        "en": "internet",
+        "ru": "интернет",
+        "descriptionEN": "the global computer network providing a variety of information and communication facilities",
+        "descriptionRU": "глобальная компьютерная сеть, предоставляющая различные информационные и коммуникационные услуги",
+        "descriptionDE": "das weltweite Computernetzwerk, das eine Vielzahl von Informations- und Kommunikationseinrichtungen bereitstellt"
+    }, {
+        "de": "die Pizza",
+        "en": "pizza",
+        "ru": "пицца",
+        "descriptionEN": "a dish of Italian origin consisting of a flat, round base of dough baked with a topping of tomato sauce and cheese, typically with added meat or vegetables",
+        "descriptionRU": "блюдо итальянского происхождения, состоящее из плоского, круглого основания из теста, запеченного с верхним слоем томатного соуса и сыра, обычно с добавлением мяса или овощей",
+        "descriptionDE": "ein Gericht italienischen Ursprungs, bestehend aus einem flachen, runden Teigboden, der mit einer Belag aus Tomatensauce und Käse gebacken wird, typischerweise mit zusätzlichem Fleisch oder Gemüse"
+    }, {
+        "de": "die Hilfe",
+        "en": "help",
+        "ru": "помощь",
+        "descriptionEN": "the action of helping someone",
+        "descriptionRU": "действие по оказанию кому-либо помощи",
+        "descriptionDE": "die Handlung, jemandem zu helfen"
+    }, {
+        "de": "die Erleichterung",
+        "en": "relief",
+        "ru": "облегчение",
+        "descriptionEN": "a feeling of reassurance and relaxation following release from anxiety or distress",
+        "descriptionRU": "чувство уверенности и расслабления после освобождения от тревоги или дистресса",
+        "descriptionDE": "ein Gefühl der Beruhigung und Entspannung nach der Befreiung von Angst oder Not"
+    }, {
+        "de": "der Schlosser",
+        "en": "locksmith",
+        "ru": "слесарь-замок",
+        "descriptionEN": "a person who makes and repairs locks",
+        "descriptionRU": "человек, который изготавливает и ремонтирует замки",
+        "descriptionDE": "eine Person, die Schlösser herstellt und repariert"
+    }, {
+        "de": "die Wohnung",
+        "en": "apartment",
+        "ru": "квартира",
+        "descriptionEN": "a set of rooms for living in",
+        "descriptionRU": "набор комнат для проживания",
+        "descriptionDE": "eine Reihe von Räumen zum Wohnen"
+    }, {
+        "de": "der Dank",
+        "en": "thanks",
+        "ru": "благодарность",
+        "descriptionEN": "an expression of gratitude",
+        "descriptionRU": "выражение благодарности",
+        "descriptionDE": "ein Ausdruck der Dankbarkeit"
+    }, {
+        "de": "die Kosten",
+        "en": "costs",
+        "ru": "затраты",
+        "descriptionEN": "the amount that has to be paid or spent to buy or obtain something",
+        "descriptionRU": "сумма, которую нужно заплатить или потратить, чтобы купить или получить что-либо",
+        "descriptionDE": "die Menge, die gezahlt oder ausgegeben werden muss, um etwas zu kaufen oder zu erhalten"
+    }, {
+        "de": "finden",
+        "en": "to find",
+        "ru": "находить",
+        "descriptionEN": "to discover or perceive by chance or unexpectedly",
+        "descriptionRU": "обнаружить или воспринять случайно или неожиданно",
+        "descriptionDE": "zufällig oder unerwartet entdecken oder wahrnehmen"
+    }, {
+        "de": "suchen",
+        "en": "to search",
+        "ru": "искать",
+        "descriptionEN": "to try to find something by looking or otherwise seeking carefully and thoroughly",
+        "descriptionRU": "попытаться найти что-то, пристально и тщательно иская или иным образом стремясь к этому",
+        "descriptionDE": "versuchen, etwas zu finden, indem man sorgfältig und gründlich sucht oder anderweitig danach sucht"
+    }, {
+        "de": "warten",
+        "en": "to wait",
+        "ru": "ждать",
+        "descriptionEN": "to stay where one is or delay action until a particular time or event",
+        "descriptionRU": "оставаться на месте или откладывать действие до определенного времени или события",
+        "descriptionDE": "an einem Ort bleiben oder eine Handlung bis zu einem bestimmten Zeitpunkt oder Ereignis aufschieben"
+    }, {
+        "de": "erwähnen",
+        "en": "to mention",
+        "ru": "упомянуть",
+        "descriptionEN": "to refer to briefly or casually",
+        "descriptionRU": "кратко или случайно упомянуть",
+        "descriptionDE": "kurz oder beiläufig erwähnen"
+    }, {
+        "de": "reparieren",
+        "en": "to repair",
+        "ru": "ремонтировать",
+        "descriptionEN": "to restore something to a good condition by fixing it",
+        "descriptionRU": "восстановить что-то в хорошем состоянии, исправив его",
+        "descriptionDE": "etwas in einem guten Zustand wiederherstellen, indem man es repariert"
+    }, {
+        "de": "zurückkehren",
+        "en": "to return",
+        "ru": "вернуться",
+        "descriptionEN": "to come or go back to a place or person",
+        "descriptionRU": "вернуться на место или к человеку",
+        "descriptionDE": "an einen Ort oder eine Person zurückkehren"
+    }
+]
