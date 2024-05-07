@@ -47,7 +47,7 @@
             "ru": "Датив"
         },
         "file": "dativ.json",
-        "icon": "suitcase",
-        "iconFamily": "FontAwesome6"
+        "icon": "hardware",
+        "iconFamily": "MaterialIcons"
     }
 ]
