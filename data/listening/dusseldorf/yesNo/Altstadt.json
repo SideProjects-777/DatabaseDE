@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Altstadt ist der älteste Stadtteil in Düsseldorf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Altstadt liegt am westlichen Rheinufer.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Altstadt hat eine Fläche von einem Quadratkilometer.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Oberkassel ist ein Stadtteil im Osten von Düsseldorf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Oberkassel ist bekannt für seine ländliche Atmosphäre.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "In Oberkassel gibt es nur Mehrfamilienhäuser.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Straßen in Oberkassel sind oft mit Kopfstein gepflastert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Nähe zur Innenstadt ist ein Nachteil von Oberkassel.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Oberkassel ist einer der günstigsten Stadtteile in Düsseldorf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Idylle in Oberkassel wird durch die städtische Umgebung beeinträchtigt.",
+        "tr": false,
+        "fle": true
+    }
+]
