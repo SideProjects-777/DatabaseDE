@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Bilk ist Heimat der Heinrich-Heine-Universität.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Alte Bilker Kirche steht neben dem Botanischen Garten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Unterbilk ist ein Stadtteil, der von der Hafenwirtschaft geprägt ist.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Unterbilk ist bekannt für seine Industrie des dritten Sektors.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Gentrifizierung hat dazu geführt, dass Unterbilk zu einem der preiswertesten Stadtteile Düsseldorfs geworden ist.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Oberbilk hat einen Ausländeranteil von weniger als 20%.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Oberbilk ist besonders bekannt für seine traditionelle deutsche Küche.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Oberbilk ist ein beliebter Wohnort für ältere Bewohner.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Oberbilk ist ein Stadtteil mit guten Anbindungen an den öffentlichen Verkehr.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Lebenshaltungskosten in Oberbilk sind vergleichsweise hoch.",
+        "tr": false,
+        "fle": true
+    }
+]

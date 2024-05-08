@@ -33,5 +33,21 @@
         "file": "Altstadt.mp3",
         "words": "Altstadt.json",
         "yesNo": "Altstadt.json"
+    }, {
+        "name": {
+            "en": "Düsseldorf Neighborhoods III",
+            "de": "Düsseldorfer Viertel III",
+            "ru": "Кварталы Дюссельдорфа III"
+        },
+        "description": {
+            "en": "Bilk & Oberbilk & Unterbilk",
+            "de": "Bilk & Oberbilk & Unterbilk",
+            "ru": "Бильк, Обербильк и Унтербильк"
+        },
+        "level": "B2",
+        "image": "Bilk.jpg",
+        "file": "Bilk.mp3",
+        "words": "Bilk.json",
+        "yesNo": "Bilk.json"
     }
 ]
