@@ -81,6 +81,22 @@
         "multi": "Symphony.json"
     }, {
         "name": {
+            "en": "Düsseldorf Neighborhoods",
+            "de": "Düsseldorfer Viertel",
+            "ru": "Кварталы Дюссельдорфа"
+        },
+        "description": {
+            "en": "Old Town & Oberkassel",
+            "de": "Altstadt & Oberkassel",
+            "ru": "Старый город и Оберкассель"
+        },
+        "level": "B1",
+        "image": "Altstadt.jpg",
+        "file": "Altstadt.mp3",
+        "words": "Altstadt.json",
+        "yesNo": "Altstadt.json"
+    }, {
+        "name": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
             "ru": "Пробежка у променада"
