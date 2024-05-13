@@ -1,22 +1,8 @@
 [
     {
         "name":{
-            "en":"New Story - Dusseldorf",
-            "ru":"Новая история - Дюссельдорф",
-            "de": null
-        }
-    },
-    {
-        "name":{
-            "en":"Grammatics - A1",
-            "ru":"Грамматика - A1",
-            "de": null
-        }
-    },
-    {
-        "name":{
-            "en":"New Words",
-            "ru":"Новые слова",
+            "en":"Grammatics - Sentences",
+            "ru":"Грамматика - Предложения",
             "de": null
         }
     }
