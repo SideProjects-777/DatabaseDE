@@ -5,7 +5,7 @@
         "ru": "свободное время",
         "descriptionEN": "time when one is not working or occupied; free time.",
         "descriptionRU": "время, когда человек не работает или не занят; свободное время.",
-        "descriptionDE": "Zeit, in der man nicht arbeitet oder beschäftigt ist; Freizeit."
+        "descriptionDE": "Zeit, in der man nicht arbeitet oder beschäftigt ist."
     }, {
         "de": "das Buch",
         "en": "book",
@@ -109,60 +109,70 @@
         "en": "read",
         "ru": "читать",
         "descriptionEN": "to look at and understand the meaning of written or printed matter by interpreting the characters or symbols of which it is composed.",
-        "descriptionRU": "смотреть и понимать значение письменного или печатного текста, интерпретируя символы, из которых он состоит."
+        "descriptionRU": "смотреть и понимать значение письменного или печатного текста, интерпретируя символы, из которых он состоит.",
+        "descriptionDE": "auf geschriebenes oder gedrucktes Material schauen und seine Bedeutung verstehen, indem man die Zeichen oder Symbole interpretiert, aus denen es besteht."
     }, {
         "de": "kommen",
         "en": "come",
         "ru": "приходить",
         "descriptionEN": "to move or travel toward or into a place thought of as near or familiar to the speaker.",
-        "descriptionRU": "двигаться или путешествовать к месту, рассматриваемому как близкое или знакомое говорящему."
+        "descriptionRU": "двигаться или путешествовать к месту, рассматриваемому как близкое или знакомое говорящему.",
+        "descriptionDE": "sich in Richtung oder in einen Ort bewegen oder reisen, der vom Sprecher als nahe oder vertraut betrachtet wird."
     }, {
         "de": "wohnen",
         "en": "live",
         "ru": "жить",
         "descriptionEN": "to have one's home in a particular place or with a particular person.",
-        "descriptionRU": "иметь свой дом в определенном месте или с определенным человеком."
+        "descriptionRU": "иметь свой дом в определенном месте или с определенным человеком.",
+        "descriptionDE": "sein Zuhause an einem bestimmten Ort oder bei einer bestimmten Person haben."
     }, {
         "de": "sitzen",
         "en": "sit",
         "ru": "сидеть",
         "descriptionEN": "to rest with the body supported by the buttocks or thighs; be seated.",
-        "descriptionRU": "отдыхать, поддерживая тело ягодицами или бедрами; сидеть."
+        "descriptionRU": "отдыхать, поддерживая тело ягодицами или бедрами; сидеть.",
+        "descriptionDE": "mit dem Körper auf den Gesäß oder Oberschenkeln ruhen; sitzen."
     }, {
         "de": "spielen",
         "en": "play",
         "ru": "играть",
         "descriptionEN": "to engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
-        "descriptionRU": "заниматься деятельностью для удовольствия и развлечения, а не серьезной или практической цели."
+        "descriptionRU": "заниматься деятельностью для удовольствия и развлечения, а не серьезной или практической цели.",
+        "descriptionDE": "sich an einer Aktivität zur Unterhaltung und Erholung beteiligen, anstatt einem ernsthaften oder praktischen Zweck."
     }, {
         "de": "bringen",
         "en": "bring",
         "ru": "приносить",
         "descriptionEN": "to take or go with (someone or something) to a place.",
-        "descriptionRU": "взять или пойти с (кем-то или чем-то) в место."
+        "descriptionRU": "взять или пойти с (кем-то или чем-то) в место.",
+        "descriptionDE": "jemanden oder etwas an einen Ort bringen oder mitnehmen."
     }, {
         "de": "verbringen",
         "en": "spend",
         "ru": "провести",
         "descriptionEN": "to pass (time) in a specified way or in a particular place.",
-        "descriptionRU": "проводить (время) определенным образом или в определенном месте."
+        "descriptionRU": "проводить (время) определенным образом или в определенном месте.",
+        "descriptionDE": "eine bestimmte Zeit oder an einem bestimmten Ort verbringen."
     }, {
         "de": "heißen",
         "en": "be named",
         "ru": "называться",
         "descriptionEN": "to have as one's name.",
-        "descriptionRU": "иметь в качестве своего имени."
+        "descriptionRU": "иметь в качестве своего имени.",
+        "descriptionDE": "als seinen Namen haben."
     }, {
         "de": "gehen",
         "en": "go",
         "ru": "идти",
         "descriptionEN": "to move or proceed, especially to or from a place.",
-        "descriptionRU": "двигаться или продолжать, особенно к или от места."
+        "descriptionRU": "двигаться или продолжать, особенно к или от места.",
+        "descriptionDE": "sich bewegen oder weitergehen, insbesondere zu oder von einem Ort."
     }, {
         "de": "lernen",
         "en": "learn",
         "ru": "учить",
         "descriptionEN": "to gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
-        "descriptionRU": "приобретать или осваивать знания или навыки в чем-либо путем изучения, опыта или обучения."
+        "descriptionRU": "приобретать или осваивать знания или навыки в чем-либо путем изучения, опыта или обучения.",
+        "descriptionDE": "Wissen oder Fähigkeiten in etwas durch Studium, Erfahrung oder Unterricht erlangen oder erwerben."
     }
 ]
