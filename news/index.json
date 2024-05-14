@@ -1,8 +1,14 @@
 [
     {
-        "name":{
-            "en":"Grammatics - Sentences",
-            "ru":"Грамматика - Предложения",
+        "name": {
+            "en": "Grammatics - Sentences",
+            "ru": "Грамматика - Предложения",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Grammatics - Modals Verbs",
+            "ru": "Грамматика - Модальные глаголы",
             "de": null
         }
     }

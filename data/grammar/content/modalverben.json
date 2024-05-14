@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Es _____ heute regnen.",
+        "answers": [
+            {
+                "text": "können",
+                "correct": false
+            }, {
+                "text": "könnt",
+                "correct": false
+            }, {
+                "text": "kann",
+                "correct": true
+            }, {
+                "text": "kannst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Das _____ man nicht sagen.",
+        "answers": [
+            {
+                "text": "darfst",
+                "correct": false
+            }, {
+                "text": "dürfen",
+                "correct": false
+            }, {
+                "text": "dürft",
+                "correct": false
+            }, {
+                "text": "darf",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Ich ____ dir helfen.",
+        "answers": [
+            {
+                "text": "können",
+                "correct": false
+            }, {
+                "text": "kann",
+                "correct": true
+            }, {
+                "text": "kannst",
+                "correct": false
+            }, {
+                "text": "könnt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ihr _________ noch viel lernen.",
+        "answers": [
+            {
+                "text": "muss",
+                "correct": false
+            }, {
+                "text": "müsst",
+                "correct": true
+            }, {
+                "text": "müssen",
+                "correct": false
+            }, {
+                "text": "musst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich _____ dich von unserem Professor grüßen.",
+        "answers": [
+            {
+                "text": "sollst",
+                "correct": false
+            }, {
+                "text": "sollt",
+                "correct": false
+            }, {
+                "text": "soll",
+                "correct": true
+            }, {
+                "text": "sollen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Setra _____ gut tanzen.",
+        "answers": [
+            {
+                "text": "kann",
+                "correct": true
+            }, {
+                "text": "könnt",
+                "correct": false
+            }, {
+                "text": "können",
+                "correct": false
+            }, {
+                "text": "kannst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": " Du _____ im Bett bleiben.",
+        "answers": [
+            {
+                "text": "musst",
+                "correct": true
+            }, {
+                "text": "müsst",
+                "correct": false
+            }, {
+                "text": "müssen",
+                "correct": false
+            }, {
+                "text": "muss",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Meine Geschwister _____ jonglieren, aber ich nicht.",
+        "answers": [
+            {
+                "text": "können",
+                "correct": true
+            }, {
+                "text": "könnt",
+                "correct": false
+            }, {
+                "text": "kann",
+                "correct": false
+            }, {
+                "text": "könnt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Das Kind _____ sehr gut singen.",
+        "answers": [
+            {
+                "text": "können",
+                "correct": false
+            }, {
+                "text": "könnt",
+                "correct": false
+            }, {
+                "text": "kann",
+                "correct": true
+            }, {
+                "text": "könnt",
+                "correct": false
+            }
+        ]
+    }
+]

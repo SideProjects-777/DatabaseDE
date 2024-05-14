@@ -49,5 +49,15 @@
         "file": "dativ.json",
         "icon": "hardware",
         "iconFamily": "MaterialIcons"
+    },  {
+        "name": "der - dem",
+        "description": {
+            "en": "Modal Verbs",
+            "de": "Modalverben",
+            "ru": "Модальные глаголы"
+        },
+        "file": "modalverben.json",
+        "icon": "run-fast",
+        "iconFamily": "MaterialCommunityIcons"
     }
 ]
