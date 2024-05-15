@@ -1,0 +1,173 @@
+[
+    {
+        "name": "helfen / Sie / ? / können / mir",
+        "answers": [
+            {
+                "text": "Helfen können Sie mir?",
+                "correct": false
+            }, {
+                "text": "Mir Können Sie helfen?",
+                "correct": false
+            }, {
+                "text": "Können helfen Sie mir?",
+                "correct": false
+            }, {
+                "text": "Können Sie mir helfen?",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Ich / ein / bisschen / Deutsch / . / spreche",
+        "answers": [
+            {
+                "text": "bisschen Ich ein spreche Deutsch.",
+                "correct": false
+            }, {
+                "text": "Ich spreche ein bisschen Deutsch.",
+                "correct": true
+            }, {
+                "text": "ein Deutsch bisschen spreche Ich.",
+                "correct": false
+            }, {
+                "text": "Ich spreche bisschen ein Deutsch.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was / deine / Hobbies / ? / sind",
+        "answers": [
+            {
+                "text": "Hobbies sind deine Was?",
+                "correct": false
+            }, {
+                "text": "sind deine Hobbies Was?",
+                "correct": false
+            }, {
+                "text": "Was sind deine Hobbies?",
+                "correct": true
+            }, {
+                "text": "deine Hobbies Was sind?",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich / aus / Bonn / komme / .",
+        "answers": [
+            {
+                "text": "Bonn Ich aus komme.",
+                "correct": false
+            }, {
+                "text": "Ich aus Bonn komme.",
+                "correct": false
+            }, {
+                "text": "Ich komme Bonn aus.",
+                "correct": true
+            }, {
+                "text": "Ich komme aus Bonn.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Hast / mitzugehen / Lust / du / ?",
+        "answers": [
+            {
+                "text": "Hast du Lust mitzugehen?",
+                "correct": true
+            }, {
+                "text": "du Lust mitzugehen Hast?",
+                "correct": false
+            }, {
+                "text": "Hast Lust mitzugehen du?",
+                "correct": false
+            }, {
+                "text": "mitzugehen Lust Hast du?",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich weiß es nicht.",
+        "answers": [
+            {
+                "text": "Ich nicht weiß es .",
+                "correct": false
+            }, {
+                "text": "nicht weiß Ich es.",
+                "correct": false
+            }, {
+                "text": "weiß Ich nicht es.",
+                "correct": false
+            }, {
+                "text": "Ich weiß es nicht.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was / können / Sie / empfehlen / ?",
+        "answers": [
+            {
+                "text": "Was können Sie empfehlen?",
+                "correct": false
+            }, {
+                "text": "Was empfehlen können Sie?",
+                "correct": false
+            }, {
+                "text": "Was können empfehlen Sie?",
+                "correct": false
+            }, {
+                "text": "empfehlen Sie was können?",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich / Arzt / einen / brauche / .",
+        "answers": [
+            {
+                "text": "einen Arzt Ich brauche.",
+                "correct": false
+            }, {
+                "text": "Arzt Ich einen brauche.",
+                "correct": false
+            }, {
+                "text": "Ich brauche einen Arzt.",
+                "correct": true
+            }, {
+                "text": "Ich einen brauche Arzt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo ist der Bahnhof?",
+        "answers": [
+            {
+                "text": "der Wo Bahnhof ist?",
+                "correct": false
+            }, {
+                "text": "Wo Bahnhof ist der?",
+                "correct": false
+            }, {
+                "text": "Bahnhof der Wo ist?",
+                "correct": false
+            }, {
+                "text": "Wo ist der Bahnhof?",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Ich hätte gerne die Rechnung.",
+        "answers": [
+            {
+                "text": "gerne hätte die Ich Rechnung.",
+                "correct": false
+            }, {
+                "text": "Ich hätte gerne die Rechnung.",
+                "correct": true
+            }, {
+                "text": "die Rechnung hätte gerne Ich.",
+                "correct": false
+            }, {
+                "text": "Ich hätte die gerne Rechnung.",
+                "correct": false
+            }
+        ]
+    }
+]

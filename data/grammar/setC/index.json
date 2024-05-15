@@ -49,5 +49,25 @@
         "file": "dativ.json",
         "icon": "hardware",
         "iconFamily": "MaterialIcons"
+    },  {
+        "name": "der - dem",
+        "description": {
+            "en": "Modal Verbs",
+            "de": "Modalverben",
+            "ru": "Модальные глаголы"
+        },
+        "file": "modalverben.json",
+        "icon": "run-fast",
+        "iconFamily": "MaterialCommunityIcons"
+    },  {
+        "name": "von - mit",
+        "description": {
+            "en": "Verbs with prepositions",
+            "de": "Verben mit Präpositionen",
+            "ru": "Глаголы с предлогами"
+        },
+        "file": "verbPrepo.json",
+        "icon": "typewriter",
+        "iconFamily": "MaterialCommunityIcons"
     }
 ]
