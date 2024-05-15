@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Cameron hat einen neuen Job als Kellner bekommen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Brief ist an Camerons Bruder gerichtet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Cameron freut sich sehr über das neue Auto seiner Eltern.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Eltern haben Cameron das Auto geschenkt, weil er das Semester mit schlechten Noten abgeschlossen hat.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Cameron vermisst die Gespräche mit seiner Schwester nicht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Cameron schlägt vor, dass seine Schwester am Wochenende zum Familienessen kommt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Cameron hat bereits Pläne für das Wochenende gemacht.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Cameron kann es kaum erwarten, von seiner Schwester zu hören.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Cameron wohnt in Cochem.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Eltern von Cameron haben ihn mit einem Auto überrascht, weil er das Semester gut abgeschlossen hat.",
+        "tr": true,
+        "fle": false
+    }
+]
