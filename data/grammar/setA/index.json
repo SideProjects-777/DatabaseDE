@@ -49,5 +49,15 @@
         "file": "zahlen.json",
         "icon": "number",
         "iconFamily": "Octicons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Sentences",
+            "de": "Sätze",
+            "ru": "Предложения"
+        },
+        "file": "sentences.json",
+        "icon": "construct-outline",
+        "iconFamily": "Ionicons"
     }
 ]

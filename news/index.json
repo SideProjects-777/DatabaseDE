@@ -1,22 +1,20 @@
 [
     {
-        "name":{
-            "en":"New Story - Dusseldorf",
-            "ru":"Новая история - Дюссельдорф",
+        "name": {
+            "en": "Grammatics - Sentences",
+            "ru": "Грамматика - Предложения",
             "de": null
         }
-    },
-    {
-        "name":{
-            "en":"Grammatics - A1",
-            "ru":"Грамматика - A1",
+    }, {
+        "name": {
+            "en": "Grammatics - Modals Verbs",
+            "ru": "Грамматика - Модальные глаголы",
             "de": null
         }
-    },
-    {
-        "name":{
-            "en":"New Words",
-            "ru":"Новые слова",
+    }, {
+        "name": {
+            "en": "Grammatics - Verbs with prepositions",
+            "ru": "Грамматика - Глаголы с предлогами",
             "de": null
         }
     }
