@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Lukas hat seine Eltern auf einer Insel besucht.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Auf der Insel von Lukas' Eltern gibt es keine Autos.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Markus kommt aus Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Stefan hat sich in Berlin ein Auto gemietet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Lukas ist mit dem Motorrad an die Nordsee gefahren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Markus mag die vielen Lastwagen und Autos auf den Autobahnen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Stefan ist mit der Straßenbahn in Berlin gefahren.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Stefan hat in Madrid ein Auto gemietet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lukas mietet sich manchmal ein Boot, um zu einer anderen Insel zu fahren.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Markus liebt die Natur und die Berge.",
+        "tr": true,
+        "fle": false
+    }
+]

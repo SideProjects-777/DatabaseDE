@@ -79,5 +79,53 @@
         "file": "Adrian.txt",
         "words": "Adrian.json",
         "multi": "Adrian.json"
+    }, {
+        "name": {
+            "en": "Travel Stories",
+            "de": "Reisegeschichten",
+            "ru": "Истории Путешествий"
+        },
+        "description": {
+            "en": "Means of transportation",
+            "de": "Verkehrsmittel",
+            "ru": "Средства передвижения"
+        },
+        "level": "A2",
+        "image": "Reisegeschichten.png",
+        "file": "Reisegeschichten.txt",
+        "words": "Reisegeschichten.json",
+        "yesNo": "Reisegeschichten.json"
+    }, {
+        "name": {
+            "en": "Cameron's Letter",
+            "de": "Camerons Brief",
+            "ru": "Письмо Камерона"
+        },
+        "description": {
+            "en": "Brother's letter",
+            "de": "Brief des Bruders",
+            "ru": "Письмо брата"
+        },
+        "level": "A2",
+        "image": "Cameron.jpg",
+        "file": "Cameron.txt",
+        "words": "Cameron.json",
+        "yesNo": "Cameron.json"
+    }, {
+        "name": {
+            "en": "Lila's Birthday",
+            "de": "Lilas Geburtstags",
+            "ru": "День Рождение Лилы"
+        },
+        "description": {
+            "en": "A happy surprise",
+            "de": "Eine freudige Überraschung",
+            "ru": "Счастливый сюрприз"
+        },
+        "level": "A2",
+        "image": "Lila.jpg",
+        "file": "Lila.txt",
+        "words": "Lila.json",
+        "yesNo": "Lila.json"
     }
 ]

@@ -1,0 +1,94 @@
+[
+    {
+        "de": "der Job",
+        "en": "job",
+        "ru": "работа",
+        "descriptionEN": "a paid position of regular employment",
+        "descriptionRU": "оплачиваемая должность постоянной занятости",
+        "descriptionDE": "eine bezahlte Stelle in regelmäßiger Beschäftigung"
+    }, {
+        "de": "die Schwester",
+        "en": "sister",
+        "ru": "сестра",
+        "descriptionEN": "a female sibling",
+        "descriptionRU": "женский родственник",
+        "descriptionDE": "eine weibliche Geschwister"
+    }, {
+        "de": "das Auto",
+        "en": "car",
+        "ru": "автомобиль",
+        "descriptionEN": "a road vehicle, typically with four wheels, powered by an internal combustion engine",
+        "descriptionRU": "транспортное средство, обычно с четырьмя колесами, с двигателем внутреннего сгорания",
+        "descriptionDE": "ein Straßenfahrzeug, typischerweise mit vier Rädern, das von einem Verbrennungsmotor angetrieben wird"
+    }, {
+        "de": "das Semester",
+        "en": "semester",
+        "ru": "семестр",
+        "descriptionEN": "a period of six months, typically referring to an academic term",
+        "descriptionRU": "период в шесть месяцев, обычно относящийся к учебному семестру",
+        "descriptionDE": "ein Zeitraum von sechs Monaten, der in der Regel auf ein akademisches Semester verweist"
+    }, {
+        "de": "das Familienessen",
+        "en": "family dinner",
+        "ru": "семейный обед",
+        "descriptionEN": "a meal eaten together by members of a family",
+        "descriptionRU": "еда, которую семья употребляет вместе",
+        "descriptionDE": "eine Mahlzeit, die von Mitgliedern einer Familie gemeinsam eingenommen wird"
+    }, {
+        "de": "das Wochenende",
+        "en": "weekend",
+        "ru": "выходные",
+        "descriptionEN": "the period from Friday evening through Sunday evening",
+        "descriptionRU": "период с пятницы вечером до воскресенья вечером",
+        "descriptionDE": "die Zeit von Freitagabend bis Sonntagabend"
+    }, {
+        "de": "schreiben",
+        "en": "to write",
+        "ru": "писать",
+        "descriptionEN": "to compose text with a pen or other instrument",
+        "descriptionRU": "составлять текст пером или другим инструментом",
+        "descriptionDE": "Text mit einem Stift oder einem anderen Instrument verfassen"
+    }, {
+        "de": "wohnen",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "to reside in a particular place",
+        "descriptionRU": "проживать в определенном месте",
+        "descriptionDE": "an einem bestimmten Ort wohnen"
+    }, {
+        "de": "bekommen",
+        "en": "to receive",
+        "ru": "получать",
+        "descriptionEN": "to be given, presented with, or paid",
+        "descriptionRU": "получать, предоставлять или оплачивать",
+        "descriptionDE": "gegeben, präsentiert oder bezahlt werden"
+    }, {
+        "de": "vermissen",
+        "en": "to miss",
+        "ru": "скучать",
+        "descriptionEN": "to feel a longing or regret for someone or something",
+        "descriptionRU": "чувствовать тоску или сожаление по поводу кого-то или чего-то",
+        "descriptionDE": "ein Verlangen oder Bedauern für jemanden oder etwas empfinden"
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "to take pleasure or satisfaction in",
+        "descriptionRU": "испытывать удовольствие или удовлетворение",
+        "descriptionDE": "Vergnügen oder Zufriedenheit empfinden"
+    }, {
+        "de": "gut",
+        "en": "good",
+        "ru": "хороший",
+        "descriptionEN": "of high quality or standard",
+        "descriptionRU": "высокого качества или стандарта",
+        "descriptionDE": "von hoher Qualität oder Standard"
+    }, {
+        "de": "klein",
+        "en": "small",
+        "ru": "маленький",
+        "descriptionEN": "of a size that is less than normal or usual",
+        "descriptionRU": "размером меньше обычного или привычного",
+        "descriptionDE": "eine Größe, die kleiner als normal oder üblich ist"
+    }
+]

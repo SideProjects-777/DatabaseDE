@@ -106,7 +106,7 @@
         "answers": [
             {
                 "text": "Was können Sie empfehlen?",
-                "correct": false
+                "correct": true
             }, {
                 "text": "Was empfehlen können Sie?",
                 "correct": false
