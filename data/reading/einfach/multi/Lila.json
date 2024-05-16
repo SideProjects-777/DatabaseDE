@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Was hatten Sarah und Michael am Tag vor Lilas Geburtstag gemacht?",
+        "answers": [
+            {
+                "text": "Einen leckeren Schokoladenkuchen gebacken.",
+                "correct": false
+            }, {
+                "text": "Das Wohnzimmer mit Luftballons, Luftschlangen und einem großen Transparent geschmückt.",
+                "correct": true
+            }, {
+                "text": "Mit Lila im Park spazieren gegangen.",
+                "correct": false
+            }, {
+                "text": "Eine Überraschung für Lila vorbereitet.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hatten Sarah und Michael außer der Dekoration und dem Kuchen noch für Lila vorbereitet?",
+        "answers": [
+            {
+                "text": "Einen Ausflug in den Park.",
+                "correct": false
+            }, {
+                "text": "Einen weiteren Kuchen.",
+                "correct": false
+            }, {
+                "text": "Ein neues Spielzeug.",
+                "correct": false
+            }, {
+                "text": "Eine Überraschung.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wo gingen Lilas Eltern mit ihr an ihrem Geburtstag spazieren?",
+        "answers": [
+            {
+                "text": "Im Zoo.",
+                "correct": false
+            }, {
+                "text": "Am Strand.",
+                "correct": false
+            }, {
+                "text": "Im Wald.",
+                "correct": false
+            }, {
+                "text": "Im Park.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was stand in einer Ecke des Zimmers, als Sarah und Michael Lila die Augen verbunden hatten?",
+        "answers": [
+            {
+                "text": "Ein Kuchen.",
+                "correct": false
+            }, {
+                "text": "Ein Ballon.",
+                "correct": false
+            }, {
+                "text": "Ein Welpe.",
+                "correct": true
+            }, {
+                "text": "Ein Spielzeug.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie reagierte Lila, als sie den Welpen mit erwartungsvollen Augen sah?",
+        "answers": [
+            {
+                "text": "Vor Schreck schrie und weinte.",
+                "correct": false
+            }, {
+                "text": "Vor Verwirrung lachte und klatschte.",
+                "correct": false
+            }, {
+                "text": "Vor Freude quietschte und rannte los, um ihn zu umarmen.",
+                "correct": true
+            }, {
+                "text": "Vor Ärger stampfte mit dem Fuß.",
+                "correct": false
+            }
+        ]
+    }
+]
