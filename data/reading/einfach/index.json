@@ -81,6 +81,22 @@
         "multi": "Adrian.json"
     }, {
         "name": {
+            "en": "Travel Stories",
+            "de": "Reisegeschichten",
+            "ru": "Истории Путешествий"
+        },
+        "description": {
+            "en": "Means of transportation",
+            "de": "Verkehrsmittel",
+            "ru": "Средства передвижения"
+        },
+        "level": "A2",
+        "image": "Reisegeschichten.png",
+        "file": "Reisegeschichten.txt",
+        "words": "Reisegeschichten.json",
+        "yesNo": "Reisegeschichten.json"
+    }, {
+        "name": {
             "en": "Cameron's Letter",
             "de": "Camerons Brief",
             "ru": "Письмо Камерона"
