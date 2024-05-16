@@ -85,7 +85,7 @@
             }
         ]
     }, {
-        "name": "Ich weiß es nicht.",
+        "name": " weiß / es / Ich / . / nicht",
         "answers": [
             {
                 "text": "Ich nicht weiß es .",
@@ -136,7 +136,7 @@
             }
         ]
     }, {
-        "name": "Wo ist der Bahnhof?",
+        "name": "ist / Wo / Bahnhof / der / ?",
         "answers": [
             {
                 "text": "der Wo Bahnhof ist?",
@@ -153,7 +153,7 @@
             }
         ]
     }, {
-        "name": "Ich hätte gerne die Rechnung.",
+        "name": "gerne / die / Ich / hätte / . / Rechnung",
         "answers": [
             {
                 "text": "gerne hätte die Ich Rechnung.",
