@@ -1,0 +1,73 @@
+[
+    {
+        "de": "der Welpen",
+        "en": "puppy",
+        "ru": "щенок",
+        "descriptionEN": "A young dog.",
+        "descriptionRU": "Молодая собака.",
+        "descriptionDE": "Ein junger Hund."
+    }, {
+        "de": "das Wohnzimmer",
+        "en": "living room",
+        "ru": "гостиная",
+        "descriptionEN": "A room in a house for general and informal everyday use.",
+        "descriptionRU": "Комната в доме для общего и неформального повседневного использования.",
+        "descriptionDE": "Ein Raum im Haus für allgemeine und informelle tägliche Nutzung."
+    }, {
+        "de": "der Schwanz",
+        "en": "tail",
+        "ru": "хвост",
+        "descriptionEN": "A long, flexible appendage to the trunk of a mammal.",
+        "descriptionRU": "Длинный, гибкий отросток от ствола млекопитающего.",
+        "descriptionDE": "Ein langes, flexibles Anhängsel am Rumpf eines Säugetiers."
+    }, {
+        "de": "die Überraschung",
+        "en": "surprise",
+        "ru": "сюрприз",
+        "descriptionEN": "An unexpected event, fact, or thing.",
+        "descriptionRU": "Неожиданное событие, факт или вещь.",
+        "descriptionDE": "Ein unerwartetes Ereignis, eine Tatsache oder eine Sache."
+    }, {
+        "de": "die Verwandten",
+        "en": "relatives",
+        "ru": "родственники",
+        "descriptionEN": "People connected by blood or marriage.",
+        "descriptionRU": "Люди, связанные кровными узами или браком.",
+        "descriptionDE": "Menschen, die durch Blutsbande oder Ehe verbunden sind."
+    }, {
+        "de": "das Glück",
+        "en": "happiness",
+        "ru": "счастье",
+        "descriptionEN": "The state of being happy.",
+        "descriptionRU": "Состояние счастья.",
+        "descriptionDE": "Der Zustand des Glücks."
+    }, {
+        "de": "backen",
+        "en": "to bake",
+        "ru": "печь",
+        "descriptionEN": "To cook (food) by dry heat without direct exposure to a flame.",
+        "descriptionRU": "Готовить (еду) сухим теплом без прямого воздействия пламени.",
+        "descriptionDE": "Essen durch trockene Hitze ohne direkte Einwirkung einer Flamme zubereiten."
+    }, {
+        "de": "schmücken",
+        "en": "to decorate",
+        "ru": "украшать",
+        "descriptionEN": "To make (something) look more attractive by adding decorative elements.",
+        "descriptionRU": "Сделать (что-то) более привлекательным, добавив декоративные элементы.",
+        "descriptionDE": "Etwas attraktiver gestalten, indem man dekorative Elemente hinzufügt."
+    }, {
+        "de": "umarmen",
+        "en": "to hug",
+        "ru": "обнимать",
+        "descriptionEN": "To hold someone tightly in one's arms, typically to express affection.",
+        "descriptionRU": "Крепко обнимать кого-то в своих руках, обычно чтобы выразить привязанность.",
+        "descriptionDE": "Jemanden fest in den Armen halten, typischerweise um Zuneigung auszudrücken."
+    }, {
+        "de": "völlig",
+        "en": "completely",
+        "ru": "полностью",
+        "descriptionEN": "To the greatest extent or degree; totally.",
+        "descriptionRU": "В наибольшей степени или степени; полностью.",
+        "descriptionDE": "In höchstem Maße oder Grad; völlig."
+    }
+]

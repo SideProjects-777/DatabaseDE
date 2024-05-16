@@ -79,7 +79,7 @@
         "file": "Adrian.txt",
         "words": "Adrian.json",
         "multi": "Adrian.json"
-    },  {
+    }, {
         "name": {
             "en": "Cameron's Letter",
             "de": "Camerons Brief",
@@ -95,5 +95,21 @@
         "file": "Cameron.txt",
         "words": "Cameron.json",
         "yesNo": "Cameron.json"
+    }, {
+        "name": {
+            "en": "Lila's Birthday",
+            "de": "Lilas Geburtstags",
+            "ru": "День Рождение Лилы"
+        },
+        "description": {
+            "en": "A happy surprise",
+            "de": "Eine freudige Überraschung",
+            "ru": "Счастливый сюрприз"
+        },
+        "level": "A2",
+        "image": "Lila.jpg",
+        "file": "Lila.txt",
+        "words": "Lila.json",
+        "yesNo": "Lila.json"
     }
 ]
