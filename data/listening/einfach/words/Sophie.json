@@ -1,0 +1,171 @@
+[
+    {
+        "de": "das Mädchen",
+        "en": "girl",
+        "ru": "девочка",
+        "descriptionEN": "a female child",
+        "descriptionRU": "женский ребенок",
+        "descriptionDE": "ein weibliches Kind"
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group of one or more parents and their children living together as a unit",
+        "descriptionRU": "группа из одного или нескольких родителей и их детей, живущих вместе",
+        "descriptionDE": "eine Gruppe von einem oder mehreren Elternteilen und deren Kindern, die zusammen als Einheit leben"
+    }, {
+        "de": "der Papagei",
+        "en": "parrot",
+        "ru": "попугай",
+        "descriptionEN": "a bird, often vividly colored, that can mimic human speech",
+        "descriptionRU": "птица, часто ярко окрашенная, которая может имитировать человеческую речь",
+        "descriptionDE": "ein Vogel, oft lebhaft gefärbt, der menschliche Sprache nachahmen kann"
+    }, {
+        "de": "der Begleiter",
+        "en": "companion",
+        "ru": "спутник",
+        "descriptionEN": "a person or animal with whom one spends a lot of time or with whom one travels",
+        "descriptionRU": "человек или животное, с которым проводят много времени или путешествуют",
+        "descriptionDE": "eine Person oder ein Tier, mit dem man viel Zeit verbringt oder mit dem man reist"
+    }, {
+        "de": "das Haus",
+        "en": "house",
+        "ru": "дом",
+        "descriptionEN": "a building for human habitation",
+        "descriptionRU": "здание для проживания людей",
+        "descriptionDE": "ein Gebäude zur menschlichen Behausung"
+    }, {
+        "de": "der Freund",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person with whom one has a bond of mutual affection",
+        "descriptionRU": "человек, с которым у кого-то есть взаимная привязанность",
+        "descriptionDE": "eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat"
+    }, {
+        "de": "die Schule",
+        "en": "school",
+        "ru": "школа",
+        "descriptionEN": "an institution for educating children",
+        "descriptionRU": "учреждение для обучения детей",
+        "descriptionDE": "eine Institution zur Erziehung von Kindern"
+    }, {
+        "de": "die Arbeit",
+        "en": "work",
+        "ru": "работа",
+        "descriptionEN": "activity involving mental or physical effort done to achieve a purpose or result",
+        "descriptionRU": "деятельность, связанная с умственными или физическими усилиями для достижения цели или результата",
+        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ziel oder Ergebnis zu erreichen"
+    }, {
+        "de": "der Lehrer",
+        "en": "teacher",
+        "ru": "учитель",
+        "descriptionEN": "a person who teaches, especially in a school",
+        "descriptionRU": "человек, который преподает, особенно в школе",
+        "descriptionDE": "eine Person, die unterrichtet, besonders in einer Schule"
+    }, {
+        "de": "das Jobangebot",
+        "en": "job offer",
+        "ru": "предложение работы",
+        "descriptionEN": "an offer of employment",
+        "descriptionRU": "предложение о работе",
+        "descriptionDE": "ein Angebot für eine Anstellung"
+    }, {
+        "de": "die Journalistin",
+        "en": "journalist",
+        "ru": "журналистка",
+        "descriptionEN": "a person who writes for newspapers, magazines, or news websites",
+        "descriptionRU": "человек, который пишет для газет, журналов или новостных сайтов",
+        "descriptionDE": "eine Person, die für Zeitungen, Zeitschriften oder Nachrichten-Websites schreibt"
+    }, {
+        "de": "der Umzug",
+        "en": "move",
+        "ru": "переезд",
+        "descriptionEN": "the act of changing one's residence or location",
+        "descriptionRU": "акт изменения места жительства или местоположения",
+        "descriptionDE": "der Akt der Änderung des Wohnortes oder Standorts"
+    }, {
+        "de": "erzählen",
+        "en": "to tell",
+        "ru": "рассказать",
+        "descriptionEN": "to communicate information, facts, or stories to someone",
+        "descriptionRU": "передавать информацию, факты или истории кому-либо",
+        "descriptionDE": "Informationen, Fakten oder Geschichten an jemanden weitergeben"
+    }, {
+        "de": "ziehen",
+        "en": "to move",
+        "ru": "переезжать",
+        "descriptionEN": "to change one's place of residence",
+        "descriptionRU": "изменить место жительства",
+        "descriptionDE": "seinen Wohnort wechseln"
+    }, {
+        "de": "erreichen",
+        "en": "to reach",
+        "ru": "достигать",
+        "descriptionEN": "to arrive at or get to a destination",
+        "descriptionRU": "прибыть или достичь пункта назначения",
+        "descriptionDE": "ein Ziel erreichen oder ankommen"
+    }, {
+        "de": "erklären",
+        "en": "to explain",
+        "ru": "объяснять",
+        "descriptionEN": "to make something clear or easy to understand",
+        "descriptionRU": "сделать что-то понятным или легким для понимания",
+        "descriptionDE": "etwas klar oder leicht verständlich machen"
+    }, {
+        "de": "hocken",
+        "en": "to perch",
+        "ru": "сидеть",
+        "descriptionEN": "to sit on or be on something high",
+        "descriptionRU": "сидеть на чем-то высоком",
+        "descriptionDE": "auf etwas Hohem sitzen oder sein"
+    }, {
+        "de": "fühlen",
+        "en": "to feel",
+        "ru": "чувствовать",
+        "descriptionEN": "to experience a sensation or emotion",
+        "descriptionRU": "испытывать ощущение или эмоцию",
+        "descriptionDE": "eine Empfindung oder Emotion erleben"
+    }, {
+        "de": "aufgeweckt",
+        "en": "bright",
+        "ru": "яркий",
+        "descriptionEN": "having a quick intellect or a high degree of intelligence",
+        "descriptionRU": "обладающий быстрым интеллектом или высокой степенью интеллекта",
+        "descriptionDE": "einen schnellen Intellekt oder ein hohes Maß an Intelligenz haben"
+    }, {
+        "de": "neugierig",
+        "en": "curious",
+        "ru": "любопытный",
+        "descriptionEN": "eager to know or learn something",
+        "descriptionRU": "стремящийся узнать или выучить что-то",
+        "descriptionDE": "eifrig, etwas zu wissen oder zu lernen"
+    }, {
+        "de": "traurig",
+        "en": "sad",
+        "ru": "грустный",
+        "descriptionEN": "feeling or showing sorrow",
+        "descriptionRU": "испытывать или показывать печаль",
+        "descriptionDE": "Trauer empfinden oder zeigen"
+    }, {
+        "de": "groß",
+        "en": "big",
+        "ru": "большой",
+        "descriptionEN": "of considerable size, extent, or intensity",
+        "descriptionRU": "значительных размеров, протяженности или интенсивности",
+        "descriptionDE": "von beträchtlicher Größe, Ausdehnung oder Intensität"
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "взволнованный",
+        "descriptionEN": "very enthusiastic and eager",
+        "descriptionRU": "очень восторженный и нетерпеливый",
+        "descriptionDE": "sehr begeistert und eifrig"
+    }, {
+        "de": "schöner",
+        "en": "nicer",
+        "ru": "красивее",
+        "descriptionEN": "more attractive or pleasant",
+        "descriptionRU": "более привлекательный или приятный",
+        "descriptionDE": "attraktiver oder angenehmer"
+    }
+]
