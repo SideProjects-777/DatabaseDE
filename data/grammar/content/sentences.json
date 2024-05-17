@@ -61,7 +61,7 @@
                 "correct": false
             }, {
                 "text": "Ich komme Bonn aus.",
-                "correct": true
+                "correct": false
             }, {
                 "text": "Ich komme aus Bonn.",
                 "correct": true
