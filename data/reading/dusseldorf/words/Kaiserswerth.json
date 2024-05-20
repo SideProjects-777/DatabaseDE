@@ -1,0 +1,150 @@
+[
+    {
+        "de": "der Stadtteil",
+        "en": "district",
+        "ru": "район",
+        "descriptionEN": "a distinct part of a city or town",
+        "descriptionRU": "отдельная часть города или поселка",
+        "descriptionDE": "ein abgrenzbarer Teil einer Stadt oder Gemeinde"
+    }, {
+        "de": "die Universitätsfakultät",
+        "en": "university faculty",
+        "ru": "факультет университета",
+        "descriptionEN": "a division within a university",
+        "descriptionRU": "подразделение в университете",
+        "descriptionDE": "eine Abteilung innerhalb einer Universität"
+    }, {
+        "de": "das Nachtleben",
+        "en": "nightlife",
+        "ru": "ночная жизнь",
+        "descriptionEN": "social activities and entertainment available at night",
+        "descriptionRU": "общественные мероприятия и развлечения, доступные ночью",
+        "descriptionDE": "soziale Aktivitäten und Unterhaltungsmöglichkeiten in der Nacht"
+    }, {
+        "de": "die Bevölkerung",
+        "en": "population",
+        "ru": "население",
+        "descriptionEN": "all the inhabitants of a particular town, area, or country",
+        "descriptionRU": "все жители определенного города, района или страны",
+        "descriptionDE": "alle Einwohner eines bestimmten Ortes, Gebiets oder Landes"
+    }, {
+        "de": "der Sitz",
+        "en": "headquarters",
+        "ru": "штаб-квартира",
+        "descriptionEN": "the location where a company or organization conducts its business",
+        "descriptionRU": "место, где компания или организация ведет свой бизнес",
+        "descriptionDE": "der Ort, an dem ein Unternehmen oder eine Organisation ihr Geschäft betreibt"
+    }, {
+        "de": "die Gemeinde",
+        "en": "community",
+        "ru": "община",
+        "descriptionEN": "a group of people living in the same place or having a particular characteristic in common",
+        "descriptionRU": "группа людей, живущих в одном месте или имеющих общую характеристику",
+        "descriptionDE": "eine Gruppe von Menschen, die an einem bestimmten Ort leben oder eine gemeinsame Eigenschaft haben"
+    }, {
+        "de": "der Zuzug",
+        "en": "influx",
+        "ru": "прилив",
+        "descriptionEN": "the arrival or entry of a large number of people or things",
+        "descriptionRU": "прибытие или въезд большого количества людей или вещей",
+        "descriptionDE": "das Eintreffen oder Eindringen einer großen Anzahl von Menschen oder Dingen"
+    }, {
+        "de": "die Diaspora",
+        "en": "diaspora",
+        "ru": "диаспора",
+        "descriptionEN": "the dispersion or spread of any people from their original homeland",
+        "descriptionRU": "рассеяние или распространение какого-либо народа из его родной родины",
+        "descriptionDE": "die Verstreuung oder Ausbreitung eines Volkes von seiner ursprünglichen Heimat"
+    }, {
+        "de": "die Ruine",
+        "en": "ruin",
+        "ru": "руины",
+        "descriptionEN": "the physical destruction or disintegration of something",
+        "descriptionRU": "физическое разрушение или распад чего-либо",
+        "descriptionDE": "die physische Zerstörung oder Zerfall von etwas"
+    }, {
+        "de": "die Residenz",
+        "en": "residence",
+        "ru": "резиденция",
+        "descriptionEN": "the official home or location of a person in authority",
+        "descriptionRU": "официальный дом или местоположение лица власти",
+        "descriptionDE": "das offizielle Zuhause oder der Ort einer autorisierten Person"
+    }, {
+        "de": "der Berühmtheit",
+        "en": "fame",
+        "ru": "известность",
+        "descriptionEN": "the state of being known by many people",
+        "descriptionRU": "состояние, когда много людей знают о ком-то или о чем-то",
+        "descriptionDE": "der Zustand, von vielen Menschen bekannt zu sein"
+    }, {
+        "de": "die Kirche",
+        "en": "church",
+        "ru": "церковь",
+        "descriptionEN": "a building used for public Christian worship",
+        "descriptionRU": "здание, используемое для публичного христианского богослужения",
+        "descriptionDE": "ein Gebäude, das für öffentlichen christlichen Gottesdienst genutzt wird"
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "in particular",
+        "descriptionRU": "в частности",
+        "descriptionDE": "insbesondere"
+    }, {
+        "de": "gemütlich",
+        "en": "cozy",
+        "ru": "уютный",
+        "descriptionEN": "warm and comfortable",
+        "descriptionRU": "теплый и комфортный",
+        "descriptionDE": "warm und bequem"
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "related to the study of past events",
+        "descriptionRU": "связанный с изучением прошлых событий",
+        "descriptionDE": "bezogen auf die Untersuchung vergangener Ereignisse"
+    }, {
+        "de": "attraktiv",
+        "en": "attractive",
+        "ru": "привлекательный",
+        "descriptionEN": "pleasing or appealing to the senses",
+        "descriptionRU": "приятный или привлекательный для чувств",
+        "descriptionDE": "angenehm oder ansprechend für die Sinne"
+    }, {
+        "de": "malersich",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or pretty style",
+        "descriptionRU": "визуально привлекательный, особенно в живописном или милом стиле",
+        "descriptionDE": "visuell ansprechend, besonders in einem malerischen oder hübschen Stil"
+    }, {
+        "de": "beneidenswert",
+        "en": "enviable",
+        "ru": "позавидовать",
+        "descriptionEN": "causing envy",
+        "descriptionRU": "вызывающий зависть",
+        "descriptionDE": "Neid verursachend"
+    }, {
+        "de": "möglich",
+        "en": "possible",
+        "ru": "возможный",
+        "descriptionEN": "able to be done; within the power or capacity of someone or something",
+        "descriptionRU": "возможно выполнить; в пределах сил или способностей кого-то или чего-то",
+        "descriptionDE": "ausführbar; innerhalb der Macht oder Fähigkeit von jemandem oder etwas"
+    }, {
+        "de": "lohnen",
+        "en": "reward",
+        "ru": "награда",
+        "descriptionEN": "to give someone a good reason for doing something, typically by means of a benefit or reward",
+        "descriptionRU": "дать кому-то хорошую причину сделать что-то, обычно путем выгоды или вознаграждения",
+        "descriptionDE": "jemandem einen guten Grund geben, etwas zu tun, typischerweise durch einen Nutzen oder eine Belohnung"
+    }, {
+        "de": "grün",
+        "en": "green",
+        "ru": "зеленый",
+        "descriptionEN": "of the color between blue and yellow",
+        "descriptionRU": "цвет между синим и желтым",
+        "descriptionDE": "von der Farbe zwischen Blau und Gelb"
+    }
+]

@@ -128,6 +128,22 @@
         "words": "Elegance.json",
         "yesNo": "Elegance.json"
     }, {
+        "name":{
+            "en": "Düsseldorf Neighborhoods IV",
+            "de": "Düsseldorfer Stadtteile IV",
+            "ru": "Районы Дюссельдорфа IV"
+        },
+        "description":{
+            "en": "Derendorf & Kaiserswerth",
+            "de": "Derendorf & Kaiserswerth",
+            "ru": "Дерендорф и Кайзерсверт"
+        },
+        "level": "B1",
+        "image": "Kaiserswerth.jpg",
+        "file": "Kaiserswerth.txt",
+        "words": "Kaiserswerth.json",
+        "multi": "Kaiserswerth.json"
+    }, {
         "name": {
             "en": "Rhein Tower",
             "de": "Rheinturm",

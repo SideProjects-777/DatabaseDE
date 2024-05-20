@@ -1,8 +1,7 @@
 // A2 -> 3
-// B1 -> 1
 // B2 -> 1
 [
-  {
+    {
         "name": {
             "en": "Allure",
             "de": "Der Reiz",
