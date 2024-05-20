@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo liegt Derendorf?",
+        "answers": [
+            {
+                "text": "Südlich von Pempelfort",
+                "correct": false
+            }, {
+                "text": "Östlich von Pempelfort",
+                "correct": false
+            }, {
+                "text": "Nördlich von Pempelfort",
+                "correct": true
+            }, {
+                "text": "Westlich von Pempelfort",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Derendorf aufgrund der steigenden Studentenzahlen entwickelt?",
+        "answers": [
+            {
+                "text": "Exklusiven Club für Geschäftsleute",
+                "correct": false
+            }, {
+                "text": "Beliebten Wohnort für die jüngere Bevölkerung",
+                "correct": true
+            }, {
+                "text": "Teure Luxusimmobilien",
+                "correct": false
+            }, {
+                "text": "Industriegebiet für Unternehmen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat Derendorf neben seiner Nähe zur Innenstadt und Ruhe noch?",
+        "answers": [
+            {
+                "text": "Ruf als Sitz vieler nationaler und internationaler Unternehmen",
+                "correct": true
+            }, {
+                "text": "Große öffentliche Parks",
+                "correct": false
+            }, {
+                "text": "Historische Denkmäler",
+                "correct": false
+            }, {
+                "text": "Bekannte Kunstgalerien",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Unternehmen haben ihren Sitz in Derendorf?",
+        "answers": [
+            {
+                "text": "BMW",
+                "correct": false
+            }, {
+                "text": "McDonald's",
+                "correct": false
+            }, {
+                "text": "Amazon",
+                "correct": false
+            }, {
+                "text": "L'Oréal Deutschland",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was befindet sich in Derendorf in Bezug auf die türkische Gemeinde?",
+        "answers": [
+            {
+                "text": "Die Hauptpolizeistation",
+                "correct": false
+            }, {
+                "text": "Das größte Einkaufszentrum",
+                "correct": false
+            }, {
+                "text": "Die Zentralmoschee der Stadt",
+                "correct": true
+            }, {
+                "text": "Das renommierteste Restaurant",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo befindet sich Kaiserswerth?",
+        "answers": [
+            {
+                "text": "Am Rhein",
+                "correct": true
+            }, {
+                "text": "In den Bergen",
+                "correct": false
+            }, {
+                "text": "In der Wüste",
+                "correct": false
+            }, {
+                "text": "An der Nordsee",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das attraktivste Wahrzeichen der historischen Altstadt von Kaiserswerth?",
+        "answers": [
+            {
+                "text": "Die Kaiserpfalz",
+                "correct": true
+            }, {
+                "text": "Der Stadtpark",
+                "correct": false
+            }, {
+                "text": "Die moderne Kunsthalle",
+                "correct": false
+            }, {
+                "text": "Die Fußgängerzone",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo arbeitete Florence Nightingale?",
+        "answers": [
+            {
+                "text": "In der Kaiserpfalz",
+                "correct": false
+            }, {
+                "text": "Im Rathaus",
+                "correct": false
+            }, {
+                "text": "In der Universität",
+                "correct": false
+            }, {
+                "text": "In der Kaiserswerther Diakonissenanstalt",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was macht Kaiserswerth zu einem lohnenden Ausflugsziel?",
+        "answers": [
+            {
+                "text": "Moderne Hochhäuser",
+                "correct": false
+            }, {
+                "text": "Autorennen",
+                "correct": false
+            }, {
+                "text": "Historische Kirchen und Architektur",
+                "correct": true
+            }, {
+                "text": "Große Fabriken",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist typisch für Kaiserswerth?",
+        "answers": [
+            {
+                "text": "Hektische Straßenmärkte",
+                "correct": false
+            }, {
+                "text": "Gemütliche Biergärten",
+                "correct": true
+            }, {
+                "text": "Moderne Diskotheken",
+                "correct": false
+            }, {
+                "text": "Große Einkaufszentren",
+                "correct": false
+            }
+        ]
+    }
+]

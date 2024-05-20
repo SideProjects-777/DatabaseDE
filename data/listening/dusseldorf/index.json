@@ -81,6 +81,22 @@
         "multi": "Symphony.json"
     }, {
         "name": {
+            "en": "Düsseldorf Neighborhoods",
+            "de": "Düsseldorfer Viertel",
+            "ru": "Кварталы Дюссельдорфа"
+        },
+        "description": {
+            "en": "Old Town & Oberkassel",
+            "de": "Altstadt & Oberkassel",
+            "ru": "Старый город и Оберкассель"
+        },
+        "level": "B1",
+        "image": "Altstadt.jpg",
+        "file": "Altstadt.mp3",
+        "words": "Altstadt.json",
+        "yesNo": "Altstadt.json"
+    }, {
+        "name": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
             "ru": "Пробежка у променада"
@@ -143,5 +159,21 @@
         "file": "JapanDay.mp3",
         "words": "JapanDay.json",
         "multi": "JapanDay.json"
+    }, {
+        "name": {
+            "en": "Düsseldorf Neighborhoods III",
+            "de": "Düsseldorfer Viertel III",
+            "ru": "Кварталы Дюссельдорфа III"
+        },
+        "description": {
+            "en": "Bilk & Oberbilk & Unterbilk",
+            "de": "Bilk & Oberbilk & Unterbilk",
+            "ru": "Бильк, Обербильк и Унтербильк"
+        },
+        "level": "B2",
+        "image": "Bilk.jpg",
+        "file": "Bilk.mp3",
+        "words": "Bilk.json",
+        "yesNo": "Bilk.json"
     }
 ]
