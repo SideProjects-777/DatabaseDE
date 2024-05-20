@@ -1,24 +1,6 @@
 [
     {
         "name": {
-            "en": "Grammatics - Sentences",
-            "ru": "Грамматика - Предложения",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Grammatics - Modals Verbs",
-            "ru": "Грамматика - Модальные глаголы",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Grammatics - Verbs with prepositions",
-            "ru": "Грамматика - Глаголы с предлогами",
-            "de": null
-        }
-    }, {
-        "name": {
             "en": "Simple city - Travel Stories \u270D ",
             "ru": "Просто город - Истории Путешествий \u270D",
             "de": null
@@ -33,6 +15,24 @@
         "name": {
             "en": "Simple city - Lila's Birthday \u270D ",
             "ru": "Просто город - День Рождение Лилы \u270D",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Dusseldorf - Altstadt \u266C",
+            "ru": "Дюссельдорф - Altstadt \u266C",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Dusseldorf - Kaiserswerth \u270D",
+            "ru": "Дюссельдорф - Кайзерсверт \u270D",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Dusseldorf - Bilk \u266C",
+            "ru": "Дюссельдорф - Бильк \u266C",
             "de": null
         }
     }
