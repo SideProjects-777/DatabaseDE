@@ -1,0 +1,18 @@
+[{
+        "name": {
+            "en": "Badminton game",
+            "de": "Badmintonspiel",
+            "ru": "Игра в бадминтон"
+        },
+        "description": {
+            "en": "Friends from Koblenz",
+            "de": "Freunde aus Koblenz",
+            "ru": "Друзья из Кобленца"
+        },
+        "level": "A2",
+        "image": "Badmintonspiel.jpg",
+        "file": "Badmintonspiel.mp3",
+        "words": "Badmintonspiel.json",
+        "yesNo": "Badmintonspiel.json"
+    }
+]
