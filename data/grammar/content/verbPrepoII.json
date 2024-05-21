@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Ich möchte mich ______ die Stelle bewerben.",
+        "answers": [
+            {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": true
+            }, {
+                "text": "auf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du musst dich ______ dein Benehmen entschuldigen.",
+        "answers": [
+            {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": true
+            }, {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "auf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Interessiert ihr euch nicht ______ eure Ergebnisse?",
+        "answers": [
+            {
+                "text": "für",
+                "correct": true
+            }, {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "auf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich habe mich ______ meine Kollegin verliebt.",
+        "answers": [
+            {
+                "text": "auf",
+                "correct": false
+            }, {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "in",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Ich bitte ______ Ihre Aufmerksamkeit!",
+        "answers": [
+            {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": true
+            }, {
+                "text": "auf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Er hat sich nicht ______ sein Studium konzentriert.",
+        "answers": [
+            {
+                "text": "auf",
+                "correct": true
+            }, {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ihr habt euch nie ______ meinen Eltern erkundigt.",
+        "answers": [
+            {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }, {
+                "text": "nach",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Ich habe mich noch nie ______ der Dunkelheit gefürchtet.",
+        "answers": [
+            {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }, {
+                "text": "vor",
+                "correct": true
+            }
+        ]
+    }
+]
