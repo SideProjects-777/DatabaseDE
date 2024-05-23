@@ -1,0 +1,178 @@
+[
+    {
+        "de": "der Koch",
+        "en": "chef",
+        "ru": "повар",
+        "descriptionEN": "a professional cook",
+        "descriptionRU": "профессиональный повар",
+        "descriptionDE": "ein professioneller Koch"
+    }, {
+        "de": "das Gemüse",
+        "en": "vegetables",
+        "ru": "овощи",
+        "descriptionEN": "edible plants",
+        "descriptionRU": "съедобные растения",
+        "descriptionDE": "essbare Pflanzen"
+    }, {
+        "de": "der Fleisch",
+        "en": "meat",
+        "ru": "мясо",
+        "descriptionEN": "animal flesh used as food",
+        "descriptionRU": "мясо животных, используемое в пищу",
+        "descriptionDE": "tierisches Fleisch als Nahrungsmittel"
+    }, {
+        "de": "die Sauce",
+        "en": "sauce",
+        "ru": "соус",
+        "descriptionEN": "liquid or semi-liquid food served with other foods",
+        "descriptionRU": "жидкое или полужидкое блюдо, подаваемое с другими продуктами",
+        "descriptionDE": "flüssige oder halbflüssige Nahrung, die mit anderen Speisen serviert wird"
+    }, {
+        "de": "die Küche",
+        "en": "kitchen",
+        "ru": "кухня",
+        "descriptionEN": "a room or area where food is prepared and cooked",
+        "descriptionRU": "комната или зона, где готовят и приготовляют пищу",
+        "descriptionDE": "ein Raum oder Bereich, in dem Essen zubereitet und gekocht wird"
+    }, {
+        "de": "die Sonne",
+        "en": "sun",
+        "ru": "солнце",
+        "descriptionEN": "the star around which the Earth orbits",
+        "descriptionRU": "звезда, вокруг которой вращается Земля",
+        "descriptionDE": "der Stern, um den die Erde kreist"
+    }, {
+        "de": "defitig",
+        "en": "hearty",
+        "ru": "питательный",
+        "descriptionEN": "(of food) wholesome and substantial.",
+        "descriptionRU": "(о еде) полезный и сытный.",
+        "descriptionDE": "(von Essen) nahrhaft und gehaltvoll."
+    }, {
+        "de": "knusprig",
+        "en": "crispy",
+        "ru": "хрустящий",
+        "descriptionEN": "(of food) firm, dry, and easily broken.",
+        "descriptionRU": "(о еде) твердый, сухой и легко ломающийся.",
+        "descriptionDE": "(von Essen) fest, trocken und leicht brüchig."
+    }, {
+        "de": "geheim",
+        "en": "secret",
+        "ru": "секретный",
+        "descriptionEN": "not known or seen or not meant to be known or seen by others.",
+        "descriptionRU": "неизвестный или невидимый или не предназначенный для известности или видимости другими.",
+        "descriptionDE": "Nicht bekannt oder gesehen oder nicht dazu gedacht, von anderen bekannt oder gesehen zu werden."
+    }, {
+        "de": "individuell",
+        "en": "individual",
+        "ru": "индивидуальный",
+        "descriptionEN": "existing as a single, separate thing or being; characteristic of a particular person or thing.",
+        "descriptionRU": "существующий как отдельная, отдельная вещь или существо; характерный для конкретного человека или вещи.",
+        "descriptionDE": "Existierend als ein einzelnes, separates Ding oder Wesen; charakteristisch für eine bestimmte Person oder Sache."
+    }, {
+        "de": "bekannt",
+        "en": "known",
+        "ru": "известный",
+        "descriptionEN": "recognized or familiar as being seen or known before.",
+        "descriptionRU": "признанный или знакомый как виденный или известный ранее.",
+        "descriptionDE": "Erkannt oder vertraut als gesehen oder bekannt zuvor."
+    }, {
+        "de": "deftig",
+        "en": "hearty",
+        "ru": "сытный",
+        "descriptionEN": "(of food) wholesome and substantial.",
+        "descriptionRU": "(о еде) полезный и сытный.",
+        "descriptionDE": "(von Essen) herzhaft und gehaltvoll."
+    }, {
+        "de": "bekannt",
+        "en": "known",
+        "ru": "известный",
+        "descriptionEN": "recognized or familiar as being seen or known before.",
+        "descriptionRU": "признанный или знакомый как виденный или известный ранее.",
+        "descriptionDE": "Erkannt oder vertraut als gesehen oder bekannt zuvor."
+    }, {
+        "de": "lang",
+        "en": "long",
+        "ru": "длинный",
+        "descriptionEN": "measuring a great distance from end to end.",
+        "descriptionRU": "измерение большого расстояния от конца до конца.",
+        "descriptionDE": "Misst eine große Entfernung von Ende zu Ende."
+    }, {
+        "de": "gelohnt",
+        "en": "worthwhile",
+        "ru": "стоит",
+        "descriptionEN": "sufficiently valuable or important to be worth one's time, effort, or interest.",
+        "descriptionRU": "достаточно ценный или важный, чтобы стоить чьего-то времени, усилий или интереса.",
+        "descriptionDE": "Ausreichend wertvoll oder wichtig, um die Zeit, Mühe oder Interesse eines Menschen wert zu sein."
+    }, {
+        "de": "der Tisch",
+        "en": "table",
+        "ru": "стол",
+        "descriptionEN": "a piece of furniture with a flat top and one or more legs",
+        "descriptionRU": "мебель с плоской верхней частью и одной или несколькими ножками",
+        "descriptionDE": "ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen"
+    }, {
+        "de": "der Ansturm",
+        "en": "rush",
+        "ru": "порыв",
+        "descriptionEN": "a sudden quick movement toward something by a group of people",
+        "descriptionRU": "внезапное быстрое движение к чему-то группой людей",
+        "descriptionDE": "eine plötzliche schnelle Bewegung auf etwas zu durch eine Gruppe von Menschen"
+    }, {
+        "de": "der Nacht",
+        "en": "night",
+        "ru": "ночь",
+        "descriptionEN": "the period of darkness in each twenty-four hours",
+        "descriptionRU": "период темноты в каждые двадцать четыре часа",
+        "descriptionDE": "die Periode der Dunkelheit in jedem vierundzwanzig Stunden"
+    }, {
+        "de": "der Rotkohl",
+        "en": "red cabbage",
+        "ru": "красная капуста",
+        "descriptionEN": "a variety of cabbage with reddish-purple leaves",
+        "descriptionRU": "разновидность капусты с красновато-фиолетовыми листьями",
+        "descriptionDE": "eine Kohlsorte mit rötlich-purpurnen Blättern"
+    }, {
+        "de": "die Nachtisch",
+        "en": "dessert",
+        "ru": "десерт",
+        "descriptionEN": "a sweet course served at the end of a meal",
+        "descriptionRU": "сладкое блюдо, подаваемое в конце трапезы",
+        "descriptionDE": "ein süßes Gericht, das am Ende einer Mahlzeit serviert wird"
+    }, {
+        "de": "die Leidenschaft",
+        "en": "passion",
+        "ru": "страсть",
+        "descriptionEN": "strong and barely controllable emotion",
+        "descriptionRU": "сильное и едва контролируемое эмоциональное состояние",
+        "descriptionDE": "starke und kaum kontrollierbare Emotion"
+    }, {
+        "de": "die Spezialität",
+        "en": "specialty",
+        "ru": "специальность",
+        "descriptionEN": "a particular type of food regarded as typical of a region or country",
+        "descriptionRU": "особый вид пищи, считающийся типичным для региона или страны",
+        "descriptionDE": "ein bestimmter Typ von Essen, der als typisch für eine Region oder ein Land gilt"
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "the expression or application of human creative skill and imagination",
+        "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения",
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft"
+    }, {
+        "de": "der Haxe",
+        "en": "knuckle",
+        "ru": "косточка",
+        "descriptionEN": "a joint of a finger when the fist is closed",
+        "descriptionRU": "сустав пальца при сжатом кулаке",
+        "descriptionDE": "ein Gelenk eines Fingers, wenn die Faust geschlossen ist"
+    }, {
+        "de": "die Bestellung",
+        "en": "order",
+        "ru": "заказ",
+        "descriptionEN": "a request for something to be made, supplied, or served, especially in a restaurant or shop.",
+        "descriptionRU": "запрос на изготовление, поставку или обслуживание, особенно в ресторане или магазине.",
+        "descriptionDE": "Eine Anfrage, dass etwas hergestellt, geliefert oder serviert wird, insbesondere in einem Restaurant oder Geschäft."
+    }
+]
