@@ -1,0 +1,164 @@
+[
+    {
+        "de": "das Wetter",
+        "en": "weather",
+        "ru": "погода",
+        "descriptionEN": "The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+        "descriptionRU": "Состояние атмосферы в конкретном месте и времени в отношении тепла, сухости, солнечного света, ветра, дождя и т. д.",
+        "descriptionDE": "Der Zustand der Atmosphäre an einem Ort und zu einer bestimmten Zeit in Bezug auf Wärme, Trockenheit, Sonnenschein, Wind, Regen usw."
+    }, {
+        "de": "das Wochenende",
+        "en": "weekend",
+        "ru": "выходные",
+        "descriptionEN": "The period from Friday evening through Sunday evening, especially regarded as a time for leisure.",
+        "descriptionRU": "Период с вечера пятницы до вечера воскресенья, особенно рассматриваемый как время для отдыха.",
+        "descriptionDE": "Der Zeitraum von Freitagabend bis Sonntagabend, besonders als Freizeit betrachtet."
+    }, {
+        "de": "das Festival",
+        "en": "festival",
+        "ru": "фестиваль",
+        "descriptionEN": "A day or period of celebration, typically for religious reasons.",
+        "descriptionRU": "День или период празднования, обычно по религиозным причинам.",
+        "descriptionDE": "Ein Tag oder Zeitraum des Feierns, typischerweise aus religiösen Gründen."
+    }, {
+        "de": "der Regen",
+        "en": "rain",
+        "ru": "дождь",
+        "descriptionEN": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
+        "descriptionRU": "Влага, конденсирующаяся в атмосфере и падающая видимыми отдельными каплями.",
+        "descriptionDE": "Feuchtigkeit, die sich in der Atmosphäre kondensiert und sichtbar in einzelnen Tropfen fällt."
+    }, {
+        "de": "die Nachricht",
+        "en": "news",
+        "ru": "новость",
+        "descriptionEN": "Newly received or noteworthy information, especially about recent or important events.",
+        "descriptionRU": "Новополученная или примечательная информация, особенно о недавних или важных событиях.",
+        "descriptionDE": "Neu eingegangene oder bemerkenswerte Informationen, insbesondere über aktuelle oder wichtige Ereignisse."
+    }, {
+        "de": "der Regenschirm",
+        "en": "umbrella",
+        "ru": "зонт",
+        "descriptionEN": "A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun.",
+        "descriptionRU": "Устройство, состоящее из круглого купола из ткани на складной металлической раме, поддерживаемой центральным стержнем, используется как защита от дождя или иногда солнца.",
+        "descriptionDE": "Ein Gerät, das aus einem runden Tuchdach auf einem faltbaren Metallrahmen besteht, das von einer zentralen Stange getragen wird, als Schutz gegen Regen oder manchmal Sonne verwendet."
+    }, {
+        "de": "der Sonnenschein",
+        "en": "sunshine",
+        "ru": "солнечный свет",
+        "descriptionEN": "Direct sunlight unbroken by cloud, especially over a comparatively large area.",
+        "descriptionRU": "Прямой солнечный свет, не прерываемый облаками, особенно над сравнительно большой площадью.",
+        "descriptionDE": "Direktes Sonnenlicht, das nicht durch Wolken unterbrochen wird, insbesondere über einem vergleichsweise großen Gebiet."
+    }, {
+        "de": "die Hoffnung",
+        "en": "hope",
+        "ru": "надежда",
+        "descriptionEN": "A feeling of expectation and desire for a certain thing to happen.",
+        "descriptionRU": "Чувство ожидания и желания, чтобы что-то произошло.",
+        "descriptionDE": "Ein Gefühl der Erwartung und des Wunsches, dass etwas Bestimmtes passiert."
+    }, {
+        "de": "der Spaß",
+        "en": "fun",
+        "ru": "веселье",
+        "descriptionEN": "Enjoyment, amusement, or light-hearted pleasure.",
+        "descriptionRU": "Удовольствие, развлечение или беззаботное удовольствие.",
+        "descriptionDE": "Genuss, Vergnügen oder unbeschwerter Spaß."
+    }, {
+        "de": "die Traurigkeit",
+        "en": "sadness",
+        "ru": "грусть",
+        "descriptionEN": "The condition or quality of being sad.",
+        "descriptionRU": "Состояние или качество быть грустным.",
+        "descriptionDE": "Der Zustand oder die Qualität, traurig zu sein."
+    }, {
+        "de": "der Himmel",
+        "en": "sky",
+        "ru": "небо",
+        "descriptionEN": "The region of the atmosphere and outer space seen from the earth.",
+        "descriptionRU": "Область атмосферы и космического пространства, видимая с Земли.",
+        "descriptionDE": "Der Bereich der Atmosphäre und des Weltraums, der von der Erde aus gesehen wird."
+    }, {
+        "de": "der Platzregen",
+        "en": "downpour",
+        "ru": "ливень",
+        "descriptionEN": "A heavy fall of rain.",
+        "descriptionRU": "Сильный ливень.",
+        "descriptionDE": "Ein heftiger Regenschauer."
+    }, {
+        "de": "hören",
+        "en": "to hear",
+        "ru": "слышать",
+        "descriptionEN": "Perceive with the ear the sound made by (someone or something).",
+        "descriptionRU": "Воспринимать ухом звук, издаваемый (кем-то или чем-то).",
+        "descriptionDE": "Mit dem Ohr den Klang wahrnehmen, der von (jemandem oder etwas) gemacht wird."
+    }, {
+        "de": "sagen",
+        "en": "to say",
+        "ru": "говорить",
+        "descriptionEN": "Utter words so as to convey information, an opinion, a feeling or intention, or an instruction.",
+        "descriptionRU": "Произносить слова, чтобы передать информацию, мнение, чувство или намерение, или инструкцию.",
+        "descriptionDE": "Worte äußern, um Informationen, eine Meinung, ein Gefühl oder eine Absicht oder eine Anweisung zu übermitteln."
+    }, {
+        "de": "schauen",
+        "en": "to watch",
+        "ru": "смотреть",
+        "descriptionEN": "Look at or observe attentively over a period of time.",
+        "descriptionRU": "Смотреть или наблюдать внимательно в течение некоторого времени.",
+        "descriptionDE": "Aufmerksam über einen Zeitraum beobachten oder ansehen."
+    }, {
+        "de": "finden",
+        "en": "to find",
+        "ru": "находить",
+        "descriptionEN": "Discover or perceive by chance or unexpectedly.",
+        "descriptionRU": "Обнаруживать или воспринимать случайно или неожиданно.",
+        "descriptionDE": "Durch Zufall oder unerwartet entdecken oder wahrnehmen."
+    }, {
+        "de": "gehen",
+        "en": "to go",
+        "ru": "идти",
+        "descriptionEN": "Move from one place to another; travel.",
+        "descriptionRU": "Перемещаться из одного места в другое; путешествовать.",
+        "descriptionDE": "Sich von einem Ort zu einem anderen bewegen; reisen."
+    }, {
+        "de": "machen",
+        "en": "to do",
+        "ru": "делать",
+        "descriptionEN": "Perform (an action, the precise nature of which is often unspecified).",
+        "descriptionRU": "Выполнять (действие, точная природа которого часто не уточняется).",
+        "descriptionDE": "Eine Handlung ausführen (deren genaue Art oft nicht spezifiziert ist)."
+    }, {
+        "de": "wahrscheinlich",
+        "en": "probably",
+        "ru": "вероятно",
+        "descriptionEN": "Almost certainly; as far as one knows or can tell.",
+        "descriptionRU": "Почти наверняка; насколько можно знать или судить.",
+        "descriptionDE": "Höchstwahrscheinlich; soweit man weiß oder sagen kann."
+    }, {
+        "de": "traurig",
+        "en": "sad",
+        "ru": "грустный",
+        "descriptionEN": "Feeling or showing sorrow; unhappy.",
+        "descriptionRU": "Чувствовать или показывать печаль; несчастный.",
+        "descriptionDE": "Trauer oder Unglück zeigend oder empfindend; unglücklich."
+    }, {
+        "de": "immer",
+        "en": "always",
+        "ru": "всегда",
+        "descriptionEN": "At all times; on all occasions.",
+        "descriptionRU": "Во все времена; во всех случаях.",
+        "descriptionDE": "Zu allen Zeiten; bei allen Gelegenheiten."
+    }, {
+        "de": "ganz",
+        "en": "whole",
+        "ru": "весь",
+        "descriptionEN": "All of; entire.",
+        "descriptionRU": "Всё из; целый.",
+        "descriptionDE": "Das Ganze von; gesamt."
+    }, {
+        "de": "einmal",
+        "en": "once",
+        "ru": "один раз",
+        "descriptionEN": "On one occasion or for one time only.",
+        "descriptionRU": "В одном случае или только один раз.",
+        "descriptionDE": "Bei einer Gelegenheit oder nur einmal."
+    }
+]

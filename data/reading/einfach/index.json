@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Weather",
+            "de": "Wetter",
+            "ru": "Погода"
+        },
+        "description": {
+            "en": "Bad Surprise",
+            "de": "Schlimme Überraschung",
+            "ru": "Плохая неожиданность"
+        },
+        "level": "A2",
+        "image": "Wetter.jpg",
+        "file": "Wetter.txt",
+        "words": "Wetter.json",
+        "yesNo": "Wetter.json"
+    }, {
+        "name": {
             "en": "Daniel's Struggle",
             "de": "Daniels Kampf",
             "ru": "Борьба Даниэля"
