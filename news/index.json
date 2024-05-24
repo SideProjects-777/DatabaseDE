@@ -1,24 +1,6 @@
 [
     {
         "name": {
-            "en": "Simple city - Travel Stories \u270D ",
-            "ru": "Просто город - Истории Путешествий \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Simple city - Cameron's Letter \u270D ",
-            "ru": "Просто город - Письмо Камерона \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Simple city - Lila's Birthday \u270D ",
-            "ru": "Просто город - День Рождение Лилы \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
             "en": "Dusseldorf - Altstadt \u266C",
             "ru": "Дюссельдорф - Altstadt \u266C",
             "de": null
@@ -37,20 +19,20 @@
         }
     }, {
         "name": {
-            "en": "Simple city - Travel Stories \u270D ",
-            "ru": "Просто город - Истории Путешествий \u270D",
+            "en": "Reflexive pronoun",
+            "ru": "Возвратное местоимение",
             "de": null
         }
     }, {
         "name": {
-            "en": "Simple city - Cameron's Letter \u270D ",
-            "ru": "Просто город - Письмо Камерона \u270D",
+            "en": "Verbs with prepositions II",
+            "ru": "Глаголы с предлогами II",
             "de": null
         }
     }, {
         "name": {
-            "en": "Simple city - Lila's Birthday \u270D ",
-            "ru": "Просто город - День Рождение Лилы \u270D",
+            "en": "Adjective declensions",
+            "ru": "Склонения прилагательных",
             "de": null
         }
     }
