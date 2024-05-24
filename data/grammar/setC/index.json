@@ -69,5 +69,25 @@
         "file": "verbPrepo.json",
         "icon": "typewriter",
         "iconFamily": "MaterialCommunityIcons"
+    },  {
+        "name": "um - nach",
+        "description": {
+            "en": "Verbs with prepositions II",
+            "de": "Verben mit Präpositionen II",
+            "ru": "Глаголы с предлогами II"
+        },
+        "file": "verbPrepoII.json",
+        "icon": "pen-tool",
+        "iconFamily": "Feather"
+    },   {
+        "name": "mich",
+        "description": {
+            "en": "Reflexive pronoun",
+            "de": "Reflexivpronomen",
+            "ru": "Возвратное местоимение"
+        },
+        "file": "reflexive.json",
+        "icon": "person-search",
+        "iconFamily": "MaterialIcons"
     }
 ]

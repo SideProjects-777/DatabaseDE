@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Ich erkenne ___ (er) nicht.",
+        "answers": [
+            {
+                "text": "mich",
+                "correct": false
+            },
+            {
+                "text": "ihn",
+                "correct": true
+            },
+            {
+                "text": "uns",
+                "correct": false
+            },
+            {
+                "text": "sie",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Ich erkenne ___ (ich) auf dem Foto nicht.",
+        "answers": [
+            {
+                "text": "mich",
+                "correct": true
+            },
+            {
+                "text": "dich",
+                "correct": false
+            },
+            {
+                "text": "ihn",
+                "correct": false
+            },
+            {
+                "text": "euch",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Kann das Baby ___ (es) im Spiegel sehen?",
+        "answers": [
+            {
+                "text": "mich",
+                "correct": false
+            },
+            {
+                "text": "es",
+                "correct": false
+            },
+            {
+                "text": "sich",
+                "correct": true
+            },
+            {
+                "text": "uns",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Kannst du ___ (wir) sehen?",
+        "answers": [
+            {
+                "text": "mich",
+                "correct": false
+            },
+            {
+                "text": "uns",
+                "correct": true
+            },
+            {
+                "text": "ihn",
+                "correct": false
+            },
+            {
+                "text": "sie",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Er hat ___ (sie) auf einem Foto.",
+        "answers": [
+            {
+                "text": "ihn",
+                "correct": false
+            },
+            {
+                "text": "sie",
+                "correct": true
+            },
+            {
+                "text": "ihm",
+                "correct": false
+            },
+            {
+                "text": "euch",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Siehst du ___ (du) auf diesem Foto?",
+        "answers": [
+            {
+                "text": "mich",
+                "correct": false
+            },
+            {
+                "text": "dich",
+                "correct": true
+            },
+            {
+                "text": "ihn",
+                "correct": false
+            },
+            {
+                "text": "euch",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Treffen wir ___ (wir) später?",
+        "answers": [
+            {
+                "text": "mich",
+                "correct": false
+            },
+            {
+                "text": "dich",
+                "correct": false
+            },
+            {
+                "text": "uns",
+                "correct": true
+            },
+            {
+                "text": "sie",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Habt ihr ___ (ihr) schon gewaschen?",
+        "answers": [
+            {
+                "text": "mich",
+                "correct": false
+            },
+            {
+                "text": "uns",
+                "correct": false
+            },
+            {
+                "text": "euch",
+                "correct": true
+            },
+            {
+                "text": "sie",
+                "correct": false
+            }
+        ]
+    }
+]
