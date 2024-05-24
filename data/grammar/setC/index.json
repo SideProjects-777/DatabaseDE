@@ -79,5 +79,15 @@
         "file": "verbPrepoII.json",
         "icon": "pen-tool",
         "iconFamily": "Feather"
+    },   {
+        "name": "mich",
+        "description": {
+            "en": "Reflexive pronoun",
+            "de": "Reflexivpronomen",
+            "ru": "Возвратное местоимение"
+        },
+        "file": "reflexive.json",
+        "icon": "person-search",
+        "iconFamily": "MaterialIcons"
     }
 ]
