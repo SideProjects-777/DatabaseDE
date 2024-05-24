@@ -1,0 +1,157 @@
+[
+    {
+        "name": "(frisch) Obst ist",
+        "answers": [
+            {
+                "text": "Frischer",
+                "correct": false
+            }, {
+                "text": "Frisches",
+                "correct": true
+            }, {
+                "text": "Frische",
+                "correct": false
+            }, {
+                "text": "Frischem",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich trinke gern (schwarz) Kaffee.",
+        "answers": [
+            {
+                "text": "Schwarzes",
+                "correct": false
+            }, {
+                "text": "Schwarzer",
+                "correct": false
+            }, {
+                "text": "Schwarz",
+                "correct": false
+            }, {
+                "text": "Schwarzen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Anna mag (kalt) Limonade.",
+        "answers": [
+
+            {
+                "text": "Kaltes",
+                "correct": false
+            }, {
+                "text": "Kalte",
+                "correct": true
+            }, {
+                "text": "Kalter",
+                "correct": false
+            }, {
+                "text": "Kalten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "(weiß) Kleidung bekommt leicht",
+        "answers": [
+            {
+                "text": "Weißer",
+                "correct": false
+            }, {
+                "text": "Weißes",
+                "correct": false
+            }, {
+                "text": "Weiße",
+                "correct": true
+            }, {
+                "text": "Weißem",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "(grün) Salat schmeckt meinem Freund nicht.",
+        "answers": [
+            {
+                "text": "Grünen",
+                "correct": false
+            }, {
+                "text": "Grüner",
+                "correct": true
+            }, {
+                "text": "Grünes",
+                "correct": false
+            }, {
+                "text": "Grünes",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich habe Angst vor (groß) Höhe.",
+        "answers": [
+            {
+                "text": "Großer",
+                "correct": true
+            }, {
+                "text": "Große",
+                "correct": false
+            }, {
+                "text": "Großes",
+                "correct": false
+            }, {
+                "text": "Großen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "(heiß) Essen muss",
+        "answers": [
+            {
+                "text": "Heißem",
+                "correct": false
+            }, {
+                "text": "Heißer",
+                "correct": false
+            }, {
+                "text": "Heiße",
+                "correct": false
+            }, {
+                "text": "Heißes",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "(scharf) Curry passt gut zur Kokosmilch",
+        "answers": [
+            {
+                "text": "Scharfes",
+                "correct": true
+            }, {
+                "text": "Scharfen",
+                "correct": false
+            }, {
+                "text": "Scharfer",
+                "correct": true
+            }, {
+                "text": "Scharf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich mag (frisch) Fisch.",
+        "answers": [
+            {
+                "text": "Frische",
+                "correct": false
+            }, {
+                "text": "Frischer",
+                "correct": false
+            }, {
+                "text": "Frischen",
+                "correct": true
+            }, {
+                "text": "Frisches",
+                "correct": false
+            }
+        ]
+    }
+]

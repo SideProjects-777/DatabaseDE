@@ -29,5 +29,16 @@
         "file": "plurals.json",
         "icon": "bookmark-box-multiple",
         "iconFamily": "MaterialCommunityIcons"
+    },
+    {
+        "name": "Grün?? Salat",
+        "description": {
+            "en": "Adjective declensions",
+            "de": "Adjektivdeklinationen",
+            "ru": "Склонения прилагательных"
+        },
+        "file": "adjektivdeklinationen.json",
+        "icon": "select-all",
+        "iconFamily": "MaterialIcons"
     }
 ]
