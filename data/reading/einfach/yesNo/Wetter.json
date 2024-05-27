@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Anna hat aus dem Radio gehört, dass es regnen soll.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Benny freut sich auf das Rhein in Flammen Festival bei Regen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Anna schaut Nachrichten, um das Wetter zu sehen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Benny glaubt, dass Anna kein Radio hört.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Rhein in Flammen Festival findet einmal im Monat statt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Anna möchte auf das Festival gehen, egal ob es regnet oder nicht.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Benny wird einen Regenschirm mitnehmen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Anna glaubt, dass es nur am Samstag regnen wird.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Benny hofft, dass es am Wochenende nicht regnet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Wetterfrosch hat gesagt, dass es nicht regnen wird.",
+        "tr": false,
+        "fle": true
+    }
+]

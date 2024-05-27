@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Wann begann Damian seinen Tag?",
+        "answers": [
+            {
+                "text": "Um 6 Uhr morgens",
+                "correct": false
+            }, {
+                "text": "Um 9 Uhr morgens",
+                "correct": true
+            }, {
+                "text": "Um 12 Uhr mittags",
+                "correct": false
+            }, {
+                "text": "Am Abend",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Damian's Leibgericht?",
+        "answers": [
+            {
+                "text": "Wiener Schnitzel",
+                "correct": false
+            }, {
+                "text": "Bratwurst",
+                "correct": false
+            }, {
+                "text": "Schweinshaxe",
+                "correct": true
+            }, {
+                "text": "Sauerbraten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was waren beliebte Beilagen im Biergarten?",
+        "answers": [
+            {
+                "text": "Brezeln mit Senf",
+                "correct": false
+            }, {
+                "text": "Kartoffelsalat",
+                "correct": false
+            }, {
+                "text": "Sauerkraut",
+                "correct": false
+            }, {
+                "text": "Alle der genannten",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was gab es oft als Nachtisch?",
+        "answers": [
+            {
+                "text": "Kartoffelsalat",
+                "correct": false
+            }, {
+                "text": "Schwarzwälder Kirschtorte",
+                "correct": true
+            }, {
+                "text": "Brezeln",
+                "correct": false
+            }, {
+                "text": "Bratwurst",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tat Damian, als die Sonne unterging?",
+        "answers": [
+            {
+                "text": "Seinen Tag beenden",
+                "correct": false
+            }, {
+                "text": "Einen Spaziergang machen",
+                "correct": false
+            }, {
+                "text": "Ein Nickerchen machen",
+                "correct": false
+            }, {
+                "text": "Seine Spezialitäten für den Abend perfektionieren",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was war in der Küche des Biergartens zu hören, als die Mittagszeit näher rückte?",
+        "answers": [
+            {
+                "text": "Ruhe und Stille",
+                "correct": false
+            }, {
+                "text": "Gesang und Musik",
+                "correct": false
+            }, {
+                "text": "Klappern der Töpfe und Zischen der Grills",
+                "correct": true
+            }, {
+                "text": "Telefonklingeln",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Musik in Damians Ohren?",
+        "answers": [
+            {
+                "text": "Das Summen des Kühlschranks",
+                "correct": false
+            }, {
+                "text": "Das Klappern der Töpfe und Pfannen",
+                "correct": true
+            }, {
+                "text": "Der Lärm der Gäste",
+                "correct": false
+            }, {
+                "text": "Das Rauschen des Wasserkochers",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machten die Gäste, als sie Damian's Gerichte sahen?",
+        "answers": [
+            {
+                "text": "Bestellten mehr Essen",
+                "correct": false
+            }, {
+                "text": "Beschwerten sich über die Portionen",
+                "correct": false
+            }, {
+                "text": "Bewunderten jedes Gericht",
+                "correct": true
+            }, {
+                "text": "Gingen nach Hause",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was taten die Kellnerinnen und Kellner, als die Mittagszeit näher rückte?",
+        "answers": [
+            {
+                "text": "Setzten sich und ruhten sich aus",
+                "correct": false
+            }, {
+                "text": "Begannen ihren Feierabend frühzeitig",
+                "correct": false
+            }, {
+                "text": "Eilten in der Küche hin und her",
+                "correct": true
+            }, {
+                "text": "Tranken Kaffee und unterhielten sich",
+                "correct": false
+            }
+        ]
+    }
+]
