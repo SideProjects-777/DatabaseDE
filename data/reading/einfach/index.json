@@ -1,6 +1,38 @@
 [
     {
         "name": {
+            "en": "Weather",
+            "de": "Wetter",
+            "ru": "Погода"
+        },
+        "description": {
+            "en": "Bad Surprise",
+            "de": "Schlimme Überraschung",
+            "ru": "Плохая неожиданность"
+        },
+        "level": "A2",
+        "image": "Wetter.jpg",
+        "file": "Wetter.txt",
+        "words": "Wetter.json",
+        "yesNo": "Wetter.json"
+    }, {
+        "name": {
+            "en": "Daniel's Struggle",
+            "de": "Daniels Kampf",
+            "ru": "Борьба Даниэля"
+        },
+        "description": {
+            "en": "Coffee Addiction",
+            "de": "Kaffeesucht",
+            "ru": "Кофейная зависимость"
+        },
+        "level": "A2",
+        "image": "Daniel.png",
+        "file": "Daniel.txt",
+        "words": "Daniel.json",
+        "multi": "Daniel.json"
+    }, {
+        "name": {
             "en": "Pia's Interests",
             "de": "Pias Interessen",
             "ru": "Интересы Пии"

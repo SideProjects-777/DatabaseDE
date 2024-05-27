@@ -1,24 +1,6 @@
 [
     {
         "name": {
-            "en": "Dusseldorf - Altstadt \u266C",
-            "ru": "Дюссельдорф - Altstadt \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Dusseldorf - Kaiserswerth \u270D",
-            "ru": "Дюссельдорф - Кайзерсверт \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Dusseldorf - Bilk \u266C",
-            "ru": "Дюссельдорф - Бильк \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
             "en": "Reflexive pronoun",
             "ru": "Возвратное местоимение",
             "de": null
@@ -33,6 +15,24 @@
         "name": {
             "en": "Adjective declensions",
             "ru": "Склонения прилагательных",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Simple city - A Chef's Day \u266C ",
+            "ru": "Просто город - День шеф-повара \u266C",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Simple city - Daniel's Struggle \u270D ",
+            "ru": "Просто город - Борьба Даниэля \u270D",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Simple city - Weather \u270D ",
+            "ru": "Просто город - Wetter \u270D",
             "de": null
         }
     }

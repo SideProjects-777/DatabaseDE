@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wie viele Tassen Kaffee trank Daniel morgens?",
+        "answers": [
+            {
+                "text": "Eine Tasse",
+                "correct": false
+            }, {
+                "text": "Zwei Tassen",
+                "correct": true
+            }, {
+                "text": "Drei Tassen",
+                "correct": false
+            }, {
+                "text": "Vier Tassen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was trank Daniel nachmittags?",
+        "answers": [
+            {
+                "text": "Milch",
+                "correct": false
+            }, {
+                "text": "Wasser",
+                "correct": false
+            }, {
+                "text": "Drei Tassen Kaffee",
+                "correct": true
+            }, {
+                "text": "Saft",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wollte Daniels Mutter, dass er aufhört zu trinken?",
+        "answers": [
+            {
+                "text": "Tee",
+                "correct": false
+            }, {
+                "text": "Milch",
+                "correct": false
+            }, {
+                "text": "Saft",
+                "correct": false
+            }, {
+                "text": "Kaffee",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie fühlte sich Daniel ohne Kaffee in der Schule?",
+        "answers": [
+            {
+                "text": "Er war glücklich und aufmerksam.",
+                "correct": false
+            }, {
+                "text": "Er war schlecht gelaunt und müde.",
+                "correct": true
+            }, {
+                "text": "Er war energisch und fröhlich.",
+                "correct": false
+            }, {
+                "text": "Er war nervös und gestresst.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sagte die Krankenschwester zu Daniel?",
+        "answers": [
+            {
+                "text": "Er solle keinen Kaffee trinken.",
+                "correct": false
+            }, {
+                "text": "Er solle vier Tassen am Tag trinken und dann langsam reduzieren.",
+                "correct": true
+            }, {
+                "text": "Er solle mehr Kaffee trinken.",
+                "correct": false
+            }, {
+                "text": "Er solle Milch trinken.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie reagierte Daniel, als seine Mutter den Kaffee wegschüttete?",
+        "answers": [
+            {
+                "text": "Er war glücklich.",
+                "correct": false
+            }, {
+                "text": "Er war gleichgültig.",
+                "correct": false
+            }, {
+                "text": "Er war sehr wütend.",
+                "correct": true
+            }, {
+                "text": "Er war erleichtert.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sagte Daniel zu seiner Mutter, als sie den Kaffee wegschüttete?",
+        "answers": [
+            {
+                "text": "„Mama, ohne Kaffee kann ich nicht in die Schule gehen.“",
+                "correct": true
+            }, {
+                "text": "„Mama, ich trinke keinen Kaffee mehr.“",
+                "correct": false
+            }, {
+                "text": "„Mama, ich will Milch trinken.“",
+                "correct": false
+            }, {
+                "text": "„Mama, ich brauche keinen Kaffee.“",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tat Daniel, nachdem er mit der Krankenschwester gesprochen hatte?",
+        "answers": [
+            {
+                "text": "Er kaufte keinen Kaffee mehr.",
+                "correct": false
+            }, {
+                "text": "Er hörte auf, Kaffee zu trinken.",
+                "correct": false
+            }, {
+                "text": "Er trank weiterhin die gleiche Menge Kaffee.",
+                "correct": false
+            }, {
+                "text": "Er reduzierte seine Kaffeemenge schrittweise.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wohin ging Daniel, um Kaffee zu kaufen?",
+        "answers": [
+            {
+                "text": "Zum Supermarkt",
+                "correct": false
+            }, {
+                "text": "Zum Markt",
+                "correct": true
+            }, {
+                "text": "Zur Bäckerei",
+                "correct": false
+            }, {
+                "text": "Zum Café",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sagte die Mutter, als Daniel ihr den Rat der Krankenschwester erzählte?",
+        "answers": [
+            {
+                "text": "„Ich kaufe keinen Kaffee mehr.“",
+                "correct": false
+            }, {
+                "text": "„Aber dann muss ich wieder Kaffee kaufen!“",
+                "correct": true
+            }, {
+                "text": "„Das ist eine schlechte Idee.“",
+                "correct": false
+            }, {
+                "text": "„Wir brauchen keine Krankenschwester.“",
+                "correct": false
+            }
+        ]
+    }
+]
