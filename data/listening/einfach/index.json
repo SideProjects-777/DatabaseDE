@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "A Chef's Day",
+            "de": "Ein Tag eines Kochs",
+            "ru": "День шеф-повара"
+        },
+        "description": {
+            "en": "German Culinary",
+            "de": "Deutsche Kulinarik",
+            "ru": "Немецкая кулинария"
+        },
+        "level": "A2",
+        "image": "Kulinarik.png",
+        "file": "Kulinarik.mp3",
+        "words": "Kulinarik.json",
+        "multi": "Kulinarik.json"
+    }, {
+        "name": {
             "en": "Lena's Journey",
             "de": "Lenas Reise",
             "ru": "Путешествие Лены"
