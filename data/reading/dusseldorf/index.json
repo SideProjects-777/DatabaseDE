@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "The Vampire",
+            "de": "Der Vampir",
+            "ru": "Вампир"
+        },
+        "description": {
+            "en": "Serial killer",
+            "de": "Serienmörder",
+            "ru": "Серийный убийца"
+        },
+        "level": "A2",
+        "image": "Vampire.jpg",
+        "file": "Vampire.txt",
+        "words": "Vampire.json",
+        "yesNo": "Vampire.json"
+    }, {
+        "name": {
             "en": "Friendly Assistance",
             "de": "Freundliche Hilfe",
             "ru": "Дружественная помощь"
@@ -58,7 +74,7 @@
             "en": "A Traveler's Tale",
             "ru": "Путешественнический рассказ"
         },
-        "level": "B1",
+        "level": "A2",
         "image": "Dusseldorf_Erkunden.jpg",
         "file": "Dusseldorf_Erkunden.txt",
         "words": "Dusseldorf_Erkunden.json",
@@ -128,12 +144,12 @@
         "words": "Elegance.json",
         "yesNo": "Elegance.json"
     }, {
-        "name":{
+        "name": {
             "en": "Düsseldorf Neighborhoods IV",
             "de": "Düsseldorfer Stadtteile IV",
             "ru": "Районы Дюссельдорфа IV"
         },
-        "description":{
+        "description": {
             "en": "Derendorf & Kaiserswerth",
             "de": "Derendorf & Kaiserswerth",
             "ru": "Дерендорф и Кайзерсверт"
