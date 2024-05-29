@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Amelia's Journey",
+            "de": "Amelias Reise",
+            "ru": "Путешествие Амелии"
+        },
+        "description": {
+            "en": "Internship",
+            "de": "Praktikum",
+            "ru": "Стажировка"
+        },
+        "level": "A2",
+        "image": "Amelia.jpg",
+        "file": "Amelia.mp3",
+        "words": "Amelia.json",
+        "yesNo": "Amelia.json"
+    }, {
+        "name": {
             "en": "Guess the city",
             "de": "Errate die Stadt",
             "ru": "Угадайте город"
