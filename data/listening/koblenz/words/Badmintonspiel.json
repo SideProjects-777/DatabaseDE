@@ -1,0 +1,164 @@
+[
+    {
+        "de": "die Schulzeit",
+        "en": "school time",
+        "ru": "школьное время",
+        "descriptionEN": "The period of time during which one attends school.",
+        "descriptionRU": "Период времени, в течение которого человек учится в школе.",
+        "descriptionDE": "Der Zeitraum, in dem man die Schule besucht."
+    }, {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "A large public green area in a town, used for recreation.",
+        "descriptionRU": "Большая общественная зеленая зона в городе, используемая для отдыха.",
+        "descriptionDE": "Ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+    }, {
+        "de": "die Ausbildung",
+        "en": "education",
+        "ru": "образование",
+        "descriptionEN": "The process of receiving or giving systematic instruction, especially at a school or university.",
+        "descriptionRU": "Процесс получения или предоставления систематического обучения, особенно в школе или университете.",
+        "descriptionDE": "Der Prozess des Erhaltens oder Gebens von systematischem Unterricht, insbesondere an einer Schule oder Universität."
+    }, {
+        "de": "der Sommer",
+        "en": "summer",
+        "ru": "лето",
+        "descriptionEN": "The warmest season of the year.",
+        "descriptionRU": "Самый теплый сезон года.",
+        "descriptionDE": "Die wärmste Jahreszeit des Jahres."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "All the visible features of an area of land.",
+        "descriptionRU": "Все видимые особенности участка земли.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landgebiets."
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "The pervading tone or mood of a place, situation, or work of art.",
+        "descriptionRU": "Преобладающий тон или настроение места, ситуации или произведения искусства.",
+        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines Kunstwerks."
+    }, {
+        "de": "der Einheimische",
+        "en": "local",
+        "ru": "местный житель",
+        "descriptionEN": "A person who lives in a particular area, city, or town.",
+        "descriptionRU": "Человек, который живет в определенной области, городе или поселке.",
+        "descriptionDE": "Eine Person, die in einem bestimmten Gebiet, einer Stadt oder einem Dorf lebt."
+    }, {
+        "de": "der Tourist",
+        "en": "tourist",
+        "ru": "турист",
+        "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
+        "descriptionRU": "Человек, который путешествует или посещает место для удовольствия.",
+        "descriptionDE": "Eine Person, die reist oder einen Ort zum Vergnügen besucht."
+    }, {
+        "de": "das Feld",
+        "en": "field",
+        "ru": "поле",
+        "descriptionEN": "An area of open land, especially one planted with crops or pasture.",
+        "descriptionRU": "Участок открытой земли, особенно засаженный культурами или пастбищем.",
+        "descriptionDE": "Ein offenes Landgebiet, insbesondere eines, das mit Nutzpflanzen oder Weideland bepflanzt ist."
+    }, {
+        "de": "die Umgebung",
+        "en": "environment",
+        "ru": "окружающая среда",
+        "descriptionEN": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+        "descriptionRU": "Окружающая среда или условия, в которых живет или функционирует человек, животное или растение.",
+        "descriptionDE": "Die Umgebung oder Bedingungen, in denen eine Person, ein Tier oder eine Pflanze lebt oder arbeitet."
+    }, {
+        "de": "der Spaß",
+        "en": "fun",
+        "ru": "веселье",
+        "descriptionEN": "Enjoyment, amusement, or lighthearted pleasure.",
+        "descriptionRU": "Удовольствие, развлечение или легкомысленное удовольствие.",
+        "descriptionDE": "Vergnügen, Spaß oder leichte Freude."
+    }, {
+        "de": "der Wettkampf",
+        "en": "competition",
+        "ru": "соревнование",
+        "descriptionEN": "An event or contest in which people compete.",
+        "descriptionRU": "Мероприятие или соревнование, в котором люди соревнуются.",
+        "descriptionDE": "Eine Veranstaltung oder ein Wettbewerb, bei dem Menschen antreten."
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "Engage in activity for enjoyment and recreation.",
+        "descriptionRU": "Участвовать в деятельности для удовольствия и отдыха.",
+        "descriptionDE": "Sich zur Freude und Erholung beschäftigen."
+    }, {
+        "de": "ziehen",
+        "en": "to move",
+        "ru": "переезжать",
+        "descriptionEN": "Change one's place of residence or position.",
+        "descriptionRU": "Изменить место жительства или позицию.",
+        "descriptionDE": "Seinen Wohnort oder seine Position ändern."
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посещать",
+        "descriptionEN": "Go to see and spend time with.",
+        "descriptionRU": "Навещать и проводить время с.",
+        "descriptionDE": "Besuchen und Zeit verbringen mit."
+    }, {
+        "de": "telefonieren",
+        "en": "to call",
+        "ru": "звонить",
+        "descriptionEN": "Communicate with someone by phone.",
+        "descriptionRU": "Общаться с кем-то по телефону.",
+        "descriptionDE": "Mit jemandem per Telefon kommunizieren."
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "Travel through (an unfamiliar area) to learn about it.",
+        "descriptionRU": "Путешествовать по (неизвестной местности), чтобы узнать о ней.",
+        "descriptionDE": "Durch (ein unbekanntes Gebiet) reisen, um es kennenzulernen."
+    }, {
+        "de": "zeigen",
+        "en": "to show",
+        "ru": "показывать",
+        "descriptionEN": "Allow (something) to be seen.",
+        "descriptionRU": "Позволить чему-либо быть увиденным.",
+        "descriptionDE": "Erlauben, dass etwas gesehen wird."
+    }, {
+        "de": "spannend",
+        "en": "exciting",
+        "ru": "увлекательный",
+        "descriptionEN": "Causing great enthusiasm and eagerness.",
+        "descriptionRU": "Вызывающий большой энтузиазм и стремление.",
+        "descriptionDE": "Große Begeisterung und Eifer hervorrufend."
+    }, {
+        "de": "beeindruckend",
+        "en": "impressive",
+        "ru": "впечатляющий",
+        "descriptionEN": "Evoking admiration through size, quality, or skill.",
+        "descriptionRU": "Вызывающий восхищение благодаря размеру, качеству или умению.",
+        "descriptionDE": "Bewunderung hervorrufend durch Größe, Qualität oder Können."
+    }, {
+        "de": "friedlich",
+        "en": "peaceful",
+        "ru": "мирный",
+        "descriptionEN": "Free from disturbance; tranquil.",
+        "descriptionRU": "Свободный от беспокойства; спокойный.",
+        "descriptionDE": "Frei von Störung; ruhig."
+    }, {
+        "de": "ruhig",
+        "en": "quiet",
+        "ru": "тихий",
+        "descriptionEN": "Making little or no noise.",
+        "descriptionRU": "Издающий мало или совсем не издающий шум.",
+        "descriptionDE": "Wenig oder keinen Lärm machen."
+    }, {
+        "de": "zusammen",
+        "en": "together",
+        "ru": "вместе",
+        "descriptionEN": "With or in proximity to another person or people.",
+        "descriptionRU": "С или вблизи другого человека или людей.",
+        "descriptionDE": "Mit oder in der Nähe einer anderen Person oder Personen."
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Emilia und Sophia haben sich erst in der Universität kennengelernt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Emilia und Sophia haben in der Badmintonmannschaft gespielt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Schlossgarten ist bekannt für seine überfüllten Plätze.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Mendelssohn-Park ist weniger überlaufen als der Schlossgarten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Mendelssohn-Park bietet wenig Platz für Badminton.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Emilia ist nach Berlin gezogen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sophia studiert Biologie.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Emilia und Sophia telefonieren nicht mehr miteinander, seit sie weggezogen sind.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Mendelssohn-Park ist für Sport und Erholung geeignet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Sophia hat das Badminton-Match gewonnen.",
+        "tr": true,
+        "fle": false
+    }
+]

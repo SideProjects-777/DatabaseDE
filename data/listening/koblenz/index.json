@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Badminton game",
+            "de": "Badmintonspiel",
+            "ru": "Игра в бадминтон"
+        },
+        "description": {
+            "en": "Friends from Koblenz",
+            "de": "Freunde aus Koblenz",
+            "ru": "Друзья из Кобленца"
+        },
+        "level": "A2",
+        "image": "Badmintonspiel.jpg",
+        "file": "Badmintonspiel.mp3",
+        "words": "Badmintonspiel.json",
+        "yesNo": "Badmintonspiel.json"
+    }, {
+        "name": {
             "en": "Koblenz Adventure",
             "de": "Koblenzer Abenteuer",
             "ru": "Приключения в Кобленце"
@@ -42,7 +58,7 @@
             "de": "Freundschaft wurde ewige Liebe",
             "ru": "Из дружбы в вечную любовь"
         },
-        "level": "A2",
+        "level": "B1",
         "image": "Liebesgeschichte.jpg",
         "file": "Liebesgeschichte.mp3",
         "words": "Liebesgeschichte.json",
