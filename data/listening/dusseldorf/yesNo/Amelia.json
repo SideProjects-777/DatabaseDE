@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Amelia wusste nicht, was sie diesen Sommer machen sollte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Amelia hatte einen Job für den Sommer.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Amelia war nervös, weil sie keine Antworten von Unternehmen erhielt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Amelia erhielt ein Praktikum in Berlin, Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Amelia würde an Softwareentwicklungsprojekten in Düsseldorf arbeiten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Konkurrenz für das Praktikum war gering.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Amelia freute sich darauf, neue Kollegen kennenzulernen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Amelia war nicht nervös wegen des Auslandsaufenthalts.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Amelia sprach Deutsch, weil sie Deutschunterricht im College hatte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Amelia wollte einen großen Einfluss auf das Unternehmen haben.",
+        "tr": true,
+        "fle": false
+    }
+]

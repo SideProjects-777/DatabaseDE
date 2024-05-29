@@ -1,0 +1,178 @@
+[
+    {
+        "de": "der Mord",
+        "en": "murder",
+        "ru": "убийство",
+        "descriptionEN": "The unlawful premeditated killing of one human being by another.",
+        "descriptionRU": "Незаконное преднамеренное убийство одного человека другим.",
+        "descriptionDE": "Das unrechtmäßige vorsätzliche Töten eines Menschen durch einen anderen."
+    }, {
+        "de": "das Mädchen",
+        "en": "girl",
+        "ru": "девочка",
+        "descriptionEN": "A female child.",
+        "descriptionRU": "Девочка.",
+        "descriptionDE": "Ein weibliches Kind."
+    }, {
+        "de": "die Haftstrafe",
+        "en": "prison sentence",
+        "ru": "тюремное заключение",
+        "descriptionEN": "A period of time during which someone is imprisoned as a punishment for a crime.",
+        "descriptionRU": "Период времени, в течение которого кто-то находится в тюрьме в качестве наказания за преступление.",
+        "descriptionDE": "Eine Zeitspanne, in der jemand als Strafe für ein Verbrechen eingesperrt ist."
+    }, {
+        "de": "die Übergriffe",
+        "en": "assaults",
+        "ru": "нападения",
+        "descriptionEN": "Violent physical attacks.",
+        "descriptionRU": "Насильственные физические атаки.",
+        "descriptionDE": "Gewalttätige physische Angriffe."
+    }, {
+        "de": "der Experte",
+        "en": "expert",
+        "ru": "эксперт",
+        "descriptionEN": "A person with extensive knowledge or ability based on research, experience, or occupation in a particular area of study.",
+        "descriptionRU": "Человек с обширными знаниями или способностями, основанными на исследованиях, опыте или занятии в определенной области.",
+        "descriptionDE": "Eine Person mit umfassendem Wissen oder Fähigkeiten basierend auf Forschung, Erfahrung oder Beruf in einem bestimmten Fachgebiet."
+    }, {
+        "de": "die Bevölkerung",
+        "en": "population",
+        "ru": "население",
+        "descriptionEN": "All the inhabitants of a particular place.",
+        "descriptionRU": "Все жители определенного места.",
+        "descriptionDE": "Alle Einwohner eines bestimmten Ortes."
+    }, {
+        "de": "der Hinweis",
+        "en": "tip",
+        "ru": "подсказка",
+        "descriptionEN": "A piece of advice or information to help someone.",
+        "descriptionRU": "Совет или информация, помогающая кому-либо.",
+        "descriptionDE": "Ein Ratschlag oder eine Information, die jemandem hilft."
+    }, {
+        "de": "die Lokalpresse",
+        "en": "local press",
+        "ru": "местная пресса",
+        "descriptionEN": "Newspapers and other publications that cover local news and events.",
+        "descriptionRU": "Газеты и другие издания, освещающие местные новости и события.",
+        "descriptionDE": "Zeitungen und andere Veröffentlichungen, die lokale Nachrichten und Ereignisse abdecken."
+    }, {
+        "de": "das Detail",
+        "en": "detail",
+        "ru": "деталь",
+        "descriptionEN": "An individual feature, fact, or item.",
+        "descriptionRU": "Отдельная особенность, факт или предмет.",
+        "descriptionDE": "Einzelnes Merkmal, Fakt oder Gegenstand."
+    }, {
+        "de": "der Spitzname",
+        "en": "nickname",
+        "ru": "прозвище",
+        "descriptionEN": "A familiar or humorous name given to a person instead of or as well as the real name.",
+        "descriptionRU": "Знакомое или шуточное имя, данное человеку вместо настоящего или вместе с ним.",
+        "descriptionDE": "Ein vertrauter oder humorvoller Name, der einer Person anstelle des echten Namens oder zusätzlich dazu gegeben wird."
+    }, {
+        "de": "das Opfer",
+        "en": "victim",
+        "ru": "жертва",
+        "descriptionEN": "A person harmed, injured, or killed as a result of a crime, accident, or other event or action.",
+        "descriptionRU": "Человек, пострадавший, раненный или убитый в результате преступления, несчастного случая или другого события или действия.",
+        "descriptionDE": "Eine Person, die durch ein Verbrechen, einen Unfall oder ein anderes Ereignis oder eine Handlung verletzt oder getötet wird."
+    }, {
+        "de": "der Prozess",
+        "en": "trial",
+        "ru": "судебный процесс",
+        "descriptionEN": "A formal examination of evidence in a court, typically with a judge, to decide guilt in a case of criminal or civil proceedings.",
+        "descriptionRU": "Формальное рассмотрение доказательств в суде, обычно с участием судьи, для принятия решения о виновности в уголовном или гражданском деле.",
+        "descriptionDE": "Eine formale Prüfung von Beweisen vor Gericht, in der Regel mit einem Richter, um die Schuld in einem Straf- oder Zivilverfahren zu entscheiden."
+    }, {
+        "de": "verüben",
+        "en": "to commit",
+        "ru": "совершать",
+        "descriptionEN": "To carry out or perpetrate (a mistake, crime, or immoral act).",
+        "descriptionRU": "Совершать (ошибку, преступление или аморальный поступок).",
+        "descriptionDE": "Begehen (einen Fehler, ein Verbrechen oder eine unmoralische Tat)."
+    }, {
+        "de": "erschüttern",
+        "en": "to shake",
+        "ru": "потрясать",
+        "descriptionEN": "To cause to tremble or vibrate.",
+        "descriptionRU": "Вызывать дрожь или вибрацию.",
+        "descriptionDE": "Zum Zittern oder Vibrieren bringen."
+    }, {
+        "de": "einrichten",
+        "en": "to establish",
+        "ru": "учреждать",
+        "descriptionEN": "To set up on a firm or permanent basis.",
+        "descriptionRU": "Создавать на прочной или постоянной основе.",
+        "descriptionDE": "Auf einer festen oder dauerhaften Basis einrichten."
+    }, {
+        "de": "schicken",
+        "en": "to send",
+        "ru": "отправлять",
+        "descriptionEN": "To cause to go or be taken to a particular destination.",
+        "descriptionRU": "Отправить в определенное место назначения.",
+        "descriptionDE": "An einen bestimmten Ort senden oder bringen lassen."
+    }, {
+        "de": "fassen",
+        "en": "to arrest",
+        "ru": "арестовывать",
+        "descriptionEN": "To seize (someone) by legal authority and take into custody.",
+        "descriptionRU": "Задержать (кого-то) по закону и взять под стражу.",
+        "descriptionDE": "Jemanden durch rechtliche Autorität ergreifen und in Gewahrsam nehmen."
+    }, {
+        "de": "identifizieren",
+        "en": "to identify",
+        "ru": "идентифицировать",
+        "descriptionEN": "To establish or indicate who or what (someone or something) is.",
+        "descriptionRU": "Установить или указать, кто или что (кто-то или что-то) такое.",
+        "descriptionDE": "Feststellen oder anzeigen, wer oder was (jemand oder etwas) ist."
+    }, {
+        "de": "brutal",
+        "en": "brutal",
+        "ru": "жестокий",
+        "descriptionEN": "Savagely violent.",
+        "descriptionRU": "Свирепо жестокий.",
+        "descriptionDE": "Grausam gewalttätig."
+    }, {
+        "de": "anonym",
+        "en": "anonymous",
+        "ru": "анонимный",
+        "descriptionEN": "Not identified by name; of unknown name.",
+        "descriptionRU": "Не идентифицированный по имени; неизвестного имени.",
+        "descriptionDE": "Nicht namentlich identifiziert; unbekannter Name."
+    }, {
+        "de": "lokal",
+        "en": "local",
+        "ru": "местный",
+        "descriptionEN": "Relating to a particular area or neighborhood.",
+        "descriptionRU": "Относящийся к определенной территории или окрестности.",
+        "descriptionDE": "Bezogen auf ein bestimmtes Gebiet oder eine Nachbarschaft."
+    }, {
+        "de": "endlich",
+        "en": "finally",
+        "ru": "наконец",
+        "descriptionEN": "After a long time, typically involving difficulty or delay.",
+        "descriptionRU": "После долгого времени, обычно с трудностями или задержкой.",
+        "descriptionDE": "Nach langer Zeit, typischerweise mit Schwierigkeiten oder Verzögerung."
+    }, {
+        "de": "positiv",
+        "en": "positively",
+        "ru": "положительно",
+        "descriptionEN": "In a way that is constructive, optimistic, or confident.",
+        "descriptionRU": "Таким образом, чтобы это было конструктивно, оптимистично или уверенно.",
+        "descriptionDE": "Auf eine konstruktive, optimistische oder zuversichtliche Weise."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "знаменитый",
+        "descriptionEN": "Known about by many people.",
+        "descriptionRU": "Известный многим людям.",
+        "descriptionDE": "Von vielen Menschen bekannt."
+    }, {
+        "de": "bekannt",
+        "en": "well-known",
+        "ru": "известный",
+        "descriptionEN": "Known widely and popularly.",
+        "descriptionRU": "Широко и популярно известный.",
+        "descriptionDE": "Weit und allgemein bekannt."
+    }
+]

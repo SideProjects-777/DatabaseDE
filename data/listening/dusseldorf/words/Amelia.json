@@ -1,0 +1,157 @@
+[
+    {
+        "de": "die Reise",
+        "en": "journey",
+        "ru": "путешествие",
+        "descriptionEN": "an act of traveling from one place to another.",
+        "descriptionRU": "акт путешествия из одного места в другое.",
+        "descriptionDE": "eine Reise von einem Ort zum anderen."
+    }, {
+        "de": "die Freunde",
+        "en": "friends",
+        "ru": "друзья",
+        "descriptionEN": "people whom one knows and with whom one has a bond of mutual affection.",
+        "descriptionRU": "люди, которых знаешь и с которыми имеешь взаимную привязанность.",
+        "descriptionDE": "Menschen, die man kennt und mit denen man eine gegenseitige Zuneigung hat."
+    }, {
+        "de": "das Unternehmen",
+        "en": "company",
+        "ru": "компания",
+        "descriptionEN": "a business organization that makes, buys, or sells goods or services.",
+        "descriptionRU": "бизнес-организация, которая производит, покупает или продает товары или услуги.",
+        "descriptionDE": "ein Wirtschaftsunternehmen, das Waren oder Dienstleistungen herstellt, kauft oder verkauft."
+    }, {
+        "de": "das Praktikum",
+        "en": "internship",
+        "ru": "стажировка",
+        "descriptionEN": "a period of work experience offered by an organization for a limited period of time.",
+        "descriptionRU": "период работы, предлагаемый организацией на ограниченный период времени.",
+        "descriptionDE": "ein Zeitraum von Arbeitserfahrung, der von einer Organisation für eine begrenzte Zeit angeboten wird."
+    }, {
+        "de": "die E-Mail",
+        "en": "email",
+        "ru": "электронная почта",
+        "descriptionEN": "a system for sending messages from one computer to another computer.",
+        "descriptionRU": "система для отправки сообщений с одного компьютера на другой.",
+        "descriptionDE": "ein System zum Senden von Nachrichten von einem Computer zum anderen."
+    }, {
+        "de": "die Stelle",
+        "en": "position",
+        "ru": "должность",
+        "descriptionEN": "a job in a company or organization.",
+        "descriptionRU": "работа в компании или организации.",
+        "descriptionDE": "eine Anstellung in einem Unternehmen oder einer Organisation."
+    }, {
+        "de": "die Softwareentwicklung",
+        "en": "software development",
+        "ru": "разработка программного обеспечения",
+        "descriptionEN": "the process of creating and maintaining applications and frameworks.",
+        "descriptionRU": "процесс создания и поддержания приложений и фреймворков.",
+        "descriptionDE": "der Prozess der Erstellung und Pflege von Anwendungen und Frameworks."
+    }, {
+        "de": "das Technologieunternehmen",
+        "en": "technology company",
+        "ru": "технологическая компания",
+        "descriptionEN": "a company that focuses on the development and manufacturing of technology.",
+        "descriptionRU": "компания, которая сосредотачивается на разработке и производстве технологий.",
+        "descriptionDE": "ein Unternehmen, das sich auf die Entwicklung und Herstellung von Technologie konzentriert."
+    }, {
+        "de": "der Bewerber",
+        "en": "applicant",
+        "ru": "соискатель",
+        "descriptionEN": "a person who applies for a job or is nominated for a position.",
+        "descriptionRU": "человек, который подает заявку на работу или номинируется на должность.",
+        "descriptionDE": "eine Person, die sich um eine Stelle bewirbt oder für eine Position nominiert wird."
+    }, {
+        "de": "die Konkurrenz",
+        "en": "competition",
+        "ru": "конкуренция",
+        "descriptionEN": "the activity or condition of striving to gain or win something.",
+        "descriptionRU": "деятельность или условие, стремление получить или выиграть что-либо.",
+        "descriptionDE": "die Tätigkeit oder Bedingung, etwas zu gewinnen oder zu erlangen."
+    }, {
+        "de": "das Ausland",
+        "en": "foreign country",
+        "ru": "зарубежная страна",
+        "descriptionEN": "a country other than one's own.",
+        "descriptionRU": "страна, отличная от своей собственной.",
+        "descriptionDE": "ein anderes Land als das eigene."
+    }, {
+        "de": "die Herausforderung",
+        "en": "challenge",
+        "ru": "вызов",
+        "descriptionEN": "tasks or problems that test a person's abilities.",
+        "descriptionRU": "задачи или проблемы, которые проверяют способности человека.",
+        "descriptionDE": "Aufgaben oder Probleme, die die Fähigkeiten einer Person testen."
+    }, {
+        "de": "bekommen",
+        "en": "to receive",
+        "ru": "получить",
+        "descriptionEN": "to be given, presented with, or paid something.",
+        "descriptionRU": "быть одаренным, представленным или оплаченным чем-либо.",
+        "descriptionDE": "etwas erhalten, überreicht bekommen oder bezahlt bekommen."
+    }, {
+        "de": "freuen",
+        "en": "to be glad",
+        "ru": "радоваться",
+        "descriptionEN": "to feel or show pleasure or happiness.",
+        "descriptionRU": "чувствовать или проявлять удовольствие или счастье.",
+        "descriptionDE": "Freude oder Glück empfinden oder zeigen."
+    }, {
+        "de": "sprechen",
+        "en": "to speak",
+        "ru": "говорить",
+        "descriptionEN": "to talk to someone or say something.",
+        "descriptionRU": "разговаривать с кем-то или что-то сказать.",
+        "descriptionDE": "mit jemandem sprechen oder etwas sagen."
+    }, {
+        "de": "planen",
+        "en": "to plan",
+        "ru": "планировать",
+        "descriptionEN": "to decide on and arrange in advance.",
+        "descriptionRU": "решать и организовывать заранее.",
+        "descriptionDE": "im Voraus entscheiden und arrangieren."
+    }, {
+        "de": "treffen",
+        "en": "to meet",
+        "ru": "встречать",
+        "descriptionEN": "to come into the presence or company of someone.",
+        "descriptionRU": "попадать в присутствие или компанию кого-то.",
+        "descriptionDE": "in die Gegenwart oder Gesellschaft von jemandem kommen."
+    }, {
+        "de": "nervös",
+        "en": "nervous",
+        "ru": "нервный",
+        "descriptionEN": "easily agitated or alarmed.",
+        "descriptionRU": "легко возбудимый или встревоженный.",
+        "descriptionDE": "leicht aufgeregt oder alarmiert."
+    }, {
+        "de": "lang",
+        "en": "long",
+        "ru": "долгий",
+        "descriptionEN": "measuring a great distance from end to end.",
+        "descriptionRU": "измерение большого расстояния от конца до конца.",
+        "descriptionDE": "eine große Entfernung von einem Ende zum anderen messen."
+    }, {
+        "de": "glücklich",
+        "en": "happy",
+        "ru": "счастливый",
+        "descriptionEN": "feeling or showing pleasure or contentment.",
+        "descriptionRU": "чувствовать или проявлять удовольствие или удовлетворение.",
+        "descriptionDE": "Freude oder Zufriedenheit empfinden oder zeigen."
+    }, {
+        "de": "bereit",
+        "en": "ready",
+        "ru": "готовый",
+        "descriptionEN": "in a suitable state for an activity, action, or situation.",
+        "descriptionRU": "в подходящем состоянии для деятельности, действия или ситуации.",
+        "descriptionDE": "in einem geeigneten Zustand für eine Aktivität, Handlung oder Situation."
+    }, {
+        "de": "groß",
+        "en": "large",
+        "ru": "большой",
+        "descriptionEN": "of considerable or relatively great size, extent, or capacity.",
+        "descriptionRU": "значительного или относительно большого размера, объема или вместимости.",
+        "descriptionDE": "von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität."
+    }
+]
