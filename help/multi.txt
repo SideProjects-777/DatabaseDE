@@ -25,3 +25,6 @@ Based on it generate 10 Questions of the structure below
 
 	All the questions should be taken from the text.
 	Response should be in json.
+
+    So to sum up:
+    name should contain the question taken from the text, whether array of answers should contain 3 wrong and 1 correct answer (located randomly)

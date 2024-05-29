@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wann findet die Düsseldorfer Nacht der Museen statt?",
+        "answers": [
+            {
+                "text": "Einmal im Monat",
+                "correct": false
+            }, {
+                "text": "Jährlich",
+                "correct": true
+            }, {
+                "text": "Zweimal im Jahr",
+                "correct": false
+            }, {
+                "text": "Alle zwei Jahre",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann beginnt und endet die Veranstaltung?",
+        "answers": [
+            {
+                "text": "Sie beginnt um 19.00 Uhr und endet um 2.00 Uhr.",
+                "correct": true
+            }, {
+                "text": "Sie beginnt um 18.00 Uhr und endet um 1.00 Uhr.",
+                "correct": false
+            }, {
+                "text": "Sie beginnt um 20.00 Uhr und endet um 3.00 Uhr.",
+                "correct": false
+            }, {
+                "text": "Sie beginnt um 17.00 Uhr und endet um 12.00 Uhr.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Museen und Kultureinrichtungen nehmen an der Nacht der Museen teil?",
+        "answers": [
+            {
+                "text": "Weniger als 20",
+                "correct": false
+            }, {
+                "text": "Genau 30",
+                "correct": false
+            }, {
+                "text": "Mehr als 40",
+                "correct": true
+            }, {
+                "text": "Mehr als 60",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist im Ticketpreis von rund 17 Euro enthalten?",
+        "answers": [
+            {
+                "text": "Nur der Eintritt zu allen teilnehmenden Veranstaltungsorten",
+                "correct": false
+            }, {
+                "text": "Nur die Nutzung der Shuttlebusse und historischen Straßenbahnen",
+                "correct": false
+            }, {
+                "text": "Eintritt zu allen teilnehmenden Veranstaltungsorten und unbegrenzte Nutzung der Shuttlebusse und historischen Straßenbahnen",
+                "correct": true
+            }, {
+                "text": "Nur die Nutzung der historischen Straßenbahnen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Aktivitäten bietet die Nacht der Museen?",
+        "answers": [
+            {
+                "text": "Nur Ausstellungen",
+                "correct": false
+            }, {
+                "text": "Nur Live-Musik",
+                "correct": false
+            }, {
+                "text": "Nur Performances",
+                "correct": false
+            }, {
+                "text": "Eine Vielzahl von Aktivitäten wie Ausstellungen, Live-Musik, Performances und besondere Installationen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche interaktive Veranstaltung findet im Kunstpalast statt?",
+        "answers": [
+            {
+                "text": "VR-Erlebnisse",
+                "correct": false
+            }, {
+                "text": "Skulpturen zum Anfassen",
+                "correct": true
+            }, {
+                "text": "Marionettentheater",
+                "correct": false
+            }, {
+                "text": "Indie-Band Auftritte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Aufführungen zeigt das Marionettentheater?",
+        "answers": [
+            {
+                "text": "Ausschnitte aus „Krabat“",
+                "correct": true
+            }, {
+                "text": "Indie-Band Auftritte",
+                "correct": false
+            }, {
+                "text": "DJ Performances",
+                "correct": false
+            }, {
+                "text": "Skulpturen zum Anfassen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche musikalischen Darbietungen finden in der Musikbar „Schleuse Zwei“ statt?",
+        "answers": [
+            {
+                "text": "Aufführungen des Marionettentheaters",
+                "correct": false
+            }, {
+                "text": "VR-Erlebnisse",
+                "correct": false
+            }, {
+                "text": "Indie-Bands und DJs",
+                "correct": true
+            }, {
+                "text": "Skulpturen zum Anfassen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo finden VR-Erlebnisse statt?",
+        "answers": [
+            {
+                "text": "Im Kunstpalast",
+                "correct": false
+            }, {
+                "text": "Im Bilker Bunker",
+                "correct": false
+            }, {
+                "text": "Im Goethe-Museum",
+                "correct": true
+            }, {
+                "text": "Im historischen Straßenbahndepot",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann entstand das Konzept der Langen Nacht der Museen?",
+        "answers": [
+            {
+                "text": "1995",
+                "correct": false
+            }, {
+                "text": "1997",
+                "correct": true
+            }, {
+                "text": "1999",
+                "correct": false
+            }, {
+                "text": "2001",
+                "correct": false
+            }
+        ]
+    }
+]
