@@ -25,14 +25,6 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
     }, {
         "title": {
-            "de": "Haushalt",
-            "en": "Household",
-            "ru": "Быт"
-        },
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/index.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
-    }, {
-        "title": {
             "de": "Haustiere",
             "en": "Domestic animals",
             "ru": "Домашние животные"
