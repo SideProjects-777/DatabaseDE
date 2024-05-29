@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "The Vampire",
+            "de": "Der Vampir",
+            "ru": "Вампир"
+        },
+        "description": {
+            "en": "Serial killer",
+            "de": "Serienmörder",
+            "ru": "Серийный убийца"
+        },
+        "level": "A2",
+        "image": "Vampire.jpg",
+        "file": "Vampire.txt",
+        "words": "Vampire.json",
+        "yesNo": "Vampire.json"
+    }, {
+        "name": {
             "en": "Friendly Assistance",
             "de": "Freundliche Hilfe",
             "ru": "Дружественная помощь"
@@ -127,6 +143,22 @@
         "file": "Elegance.txt",
         "words": "Elegance.json",
         "yesNo": "Elegance.json"
+    }, {
+        "name": {
+            "en": "Düsseldorf Neighborhoods IV",
+            "de": "Düsseldorfer Stadtteile IV",
+            "ru": "Районы Дюссельдорфа IV"
+        },
+        "description": {
+            "en": "Derendorf & Kaiserswerth",
+            "de": "Derendorf & Kaiserswerth",
+            "ru": "Дерендорф и Кайзерсверт"
+        },
+        "level": "B1",
+        "image": "Kaiserswerth.jpg",
+        "file": "Kaiserswerth.txt",
+        "words": "Kaiserswerth.json",
+        "multi": "Kaiserswerth.json"
     }, {
         "name": {
             "en": "Rhein Tower",

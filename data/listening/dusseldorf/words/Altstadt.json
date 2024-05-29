@@ -1,0 +1,102 @@
+[
+
+    {
+        "de": "der Stadtteil",
+        "en": "Neighborhood",
+        "ru": "Район",
+        "descriptionEN": "District or area of a city",
+        "descriptionRU": "Район или область города",
+        "descriptionDE": "Stadtbezirk oder Stadtteil"
+    }, {
+        "de": "die Wohnung",
+        "en": "Apartment",
+        "ru": "Квартира",
+        "descriptionEN": "Residential unit in a building",
+        "descriptionRU": "Жилое помещение в здании",
+        "descriptionDE": "Wohnungseinheit in einem Gebäude"
+    }, {
+        "de": "die Natur",
+        "en": "Nature",
+        "ru": "Природа",
+        "descriptionEN": "Physical world including plants, animals, and landscapes",
+        "descriptionRU": "Физический мир, включающий растения, животных и ландшафты",
+        "descriptionDE": "Physische Welt einschließlich Pflanzen, Tiere und Landschaften"
+    }, {
+        "de": "der Preis",
+        "en": "Price",
+        "ru": "Цена",
+        "descriptionEN": "Amount of money required or given in payment for something",
+        "descriptionRU": "Сумма денег, необходимая или предоставляемая в качестве оплаты за что-либо",
+        "descriptionDE": "Geldbetrag, der für etwas erforderlich oder gegeben wird"
+    }, {
+        "de": "der Spaziergang",
+        "en": "Walk",
+        "ru": "Прогулка",
+        "descriptionEN": "Journey on foot for pleasure or exercise",
+        "descriptionRU": "Путешествие пешком для удовольствия или занятия спортом",
+        "descriptionDE": "Fußreise zum Vergnügen oder zur Bewegung"
+    }, {
+        "de": "die Idylle",
+        "en": "Idyll",
+        "ru": "Идиллия",
+        "descriptionEN": "Peaceful and picturesque scene",
+        "descriptionRU": "Спокойная и живописная сцена",
+        "descriptionDE": "Friedliche und malerische Szene"
+    }, {
+        "de": "der Luxus",
+        "en": "Luxury",
+        "ru": "Роскошь",
+        "descriptionEN": "Great comfort or elegance",
+        "descriptionRU": "Большой комфорт или элегантность",
+        "descriptionDE": "Großer Komfort oder Eleganz"
+    }, {
+        "de": "die Bezahlung",
+        "en": "Payment",
+        "ru": "Оплата",
+        "descriptionEN": "Act or process of paying for something",
+        "descriptionRU": "Действие или процесс оплаты чего-либо",
+        "descriptionDE": "Handlung oder Prozess des Bezahlens für etwas"
+    }, {
+        "de": "wohnen",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "Reside in a particular place",
+        "descriptionRU": "Проживать в определенном месте",
+        "descriptionDE": "In einem bestimmten Ort wohnen"
+    }, {
+        "de": "bewahren",
+        "en": "to preserve",
+        "ru": "сохранять",
+        "descriptionEN": "Maintain in its original or existing state",
+        "descriptionRU": "Сохранять в его первоначальном или существующем состоянии",
+        "descriptionDE": "In seinem ursprünglichen oder bestehenden Zustand erhalten"
+    }, {
+        "de": "erhalten",
+        "en": "to receive",
+        "ru": "получать",
+        "descriptionEN": "Get or be given something",
+        "descriptionRU": "Получить или быть даным чего-либо",
+        "descriptionDE": "Etwas bekommen oder gegeben bekommen"
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посетить",
+        "descriptionEN": "Go to see someone or a place",
+        "descriptionRU": "Идти, чтобы увидеть кого-то или место",
+        "descriptionDE": "Gehen, um jemanden oder einen Ort zu sehen"
+    }, {
+        "de": "vermitteln",
+        "en": "to convey",
+        "ru": "передавать",
+        "descriptionEN": "Communicate or pass on information or knowledge",
+        "descriptionRU": "Общаться или передавать информацию или знания",
+        "descriptionDE": "Kommunizieren oder Informationen oder Wissen weitergeben"
+    }, {
+        "de": "erhöhen",
+        "en": "to increase",
+        "ru": "увеличивать",
+        "descriptionEN": "Make or become greater in amount, size, or degree",
+        "descriptionRU": "Сделать или стать больше в объеме, размере или степени",
+        "descriptionDE": "Mehr in Menge, Größe oder Grad machen oder werden"
+    }
+]

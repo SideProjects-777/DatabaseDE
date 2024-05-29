@@ -1,0 +1,157 @@
+[
+    {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "мероприятие",
+        "descriptionEN": "A planned public or social occasion.",
+        "descriptionRU": "Запланированное публичное или социальное мероприятие.",
+        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung."
+    }, {
+        "de": "die Aktivität",
+        "en": "activity",
+        "ru": "деятельность",
+        "descriptionEN": "Something that a person does for enjoyment or as a job.",
+        "descriptionRU": "То, что человек делает для удовольствия или в качестве работы.",
+        "descriptionDE": "Etwas, das eine Person zur Freude oder als Arbeit tut."
+    }, {
+        "de": "die Ausstellung",
+        "en": "exhibition",
+        "ru": "выставка",
+        "descriptionEN": "A public display of works of art or other items of interest.",
+        "descriptionRU": "Публичная демонстрация произведений искусства или других интересных предметов.",
+        "descriptionDE": "Eine öffentliche Ausstellung von Kunstwerken oder anderen interessanten Gegenständen."
+    }, {
+        "de": "die Musik",
+        "en": "music",
+        "ru": "музыка",
+        "descriptionEN": "Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
+        "descriptionRU": "Вокальные или инструментальные звуки, соединенные таким образом, чтобы создать красоту формы, гармонию и выражение эмоций.",
+        "descriptionDE": "Vokale oder instrumentale Klänge, die so kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen erzeugen."
+    }, {
+        "de": "die Performance",
+        "en": "performance",
+        "ru": "выступление",
+        "descriptionEN": "An act of presenting a play, concert, or other form of entertainment.",
+        "descriptionRU": "Акт представления пьесы, концерта или другой формы развлечения.",
+        "descriptionDE": "Ein Akt der Präsentation eines Theaterstücks, Konzerts oder einer anderen Form der Unterhaltung."
+    }, {
+        "de": "die Installation",
+        "en": "installation",
+        "ru": "установка",
+        "descriptionEN": "A piece of equipment or machinery which is made ready for use.",
+        "descriptionRU": "Оборудование или механизм, подготовленный для использования.",
+        "descriptionDE": "Ein Gerät oder eine Maschine, die für den Gebrauch bereit gemacht wurde."
+    }, {
+        "de": "das Museum",
+        "en": "museum",
+        "ru": "музей",
+        "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "descriptionRU": "Здание, в котором хранятся и выставляются предметы исторического, научного, художественного или культурного значения.",
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
+    }, {
+        "de": "der Ort",
+        "en": "place",
+        "ru": "место",
+        "descriptionEN": "A particular position or point in space.",
+        "descriptionRU": "Конкретное положение или точка в пространстве.",
+        "descriptionDE": "Ein bestimmter Punkt oder Ort im Raum."
+    }, {
+        "de": "die Skulptur",
+        "en": "sculpture",
+        "ru": "скульптура",
+        "descriptionEN": "The art of making two- or three-dimensional representative or abstract forms.",
+        "descriptionRU": "Искусство создания двух- или трехмерных представительных или абстрактных форм.",
+        "descriptionDE": "Die Kunst der Herstellung von zwei- oder dreidimensionalen repräsentativen oder abstrakten Formen."
+    }, {
+        "de": "die Erfahrung",
+        "en": "experience",
+        "ru": "опыт",
+        "descriptionEN": "Practical contact with and observation of facts or events.",
+        "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+    }, {
+        "de": "das Erlebnis",
+        "en": "experience",
+        "ru": "впечатление",
+        "descriptionEN": "An event or occurrence which leaves an impression on someone.",
+        "descriptionRU": "Событие или явление, которое оставляет впечатление на кого-то.",
+        "descriptionDE": "Ein Ereignis oder Geschehnis, das einen Eindruck auf jemanden hinterlässt."
+    }, {
+        "de": "die Nacht",
+        "en": "night",
+        "ru": "ночь",
+        "descriptionEN": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+        "descriptionRU": "Период темноты в каждые двадцать четыре часа; время от заката до восхода солнца.",
+        "descriptionDE": "Die Zeit der Dunkelheit in jedem vierundzwanzig Stunden; die Zeit von Sonnenuntergang bis Sonnenaufgang."
+    }, {
+        "de": "erleben",
+        "en": "experience",
+        "ru": "переживать",
+        "descriptionEN": "To encounter or undergo an event or occurrence.",
+        "descriptionRU": "Встретить или пережить событие или явление.",
+        "descriptionDE": "Ein Ereignis oder Geschehnis erleben."
+    }, {
+        "de": "präsentieren",
+        "en": "present",
+        "ru": "представлять",
+        "descriptionEN": "To show or offer something for others to consider.",
+        "descriptionRU": "Показать или предложить что-то для рассмотрения другими.",
+        "descriptionDE": "Etwas zeigen oder anbieten, damit andere es in Betracht ziehen können."
+    }, {
+        "de": "öffnen",
+        "en": "open",
+        "ru": "открывать",
+        "descriptionEN": "To move a door or window so that an opening is created.",
+        "descriptionRU": "Двигать дверь или окно, чтобы создать проем.",
+        "descriptionDE": "Eine Tür oder ein Fenster bewegen, um eine Öffnung zu schaffen."
+    }, {
+        "de": "verbinden",
+        "en": "connect",
+        "ru": "соединять",
+        "descriptionEN": "To join or link together.",
+        "descriptionRU": "Соединить или связать вместе.",
+        "descriptionDE": "Zusammenführen oder verknüpfen."
+    }, {
+        "de": "entdecken",
+        "en": "discover",
+        "ru": "обнаружить",
+        "descriptionEN": "To find something or someone unexpectedly or during a search.",
+        "descriptionRU": "Найти что-то или кого-то неожиданно или во время поиска.",
+        "descriptionDE": "Etwas oder jemanden unerwartet oder bei einer Suche finden."
+    }, {
+        "de": "veranstalten",
+        "en": "organize",
+        "ru": "организовать",
+        "descriptionEN": "To arrange or coordinate an event or activity.",
+        "descriptionRU": "Организовать или координировать мероприятие или деятельность.",
+        "descriptionDE": "Ein Ereignis oder eine Aktivität arrangieren oder koordinieren."
+    }, {
+        "de": "kulturell",
+        "en": "cultural",
+        "ru": "культурный",
+        "descriptionEN": "Relating to the ideas, customs, and social behaviour of a society.",
+        "descriptionRU": "Относящийся к идеям, обычаям и социальному поведению общества.",
+        "descriptionDE": "Bezogen auf die Ideen, Bräuche und das soziale Verhalten einer Gesellschaft."
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "Concerning history or past events.",
+        "descriptionRU": "Относится к истории или прошлым событиям.",
+        "descriptionDE": "Bezogen auf Geschichte oder vergangene Ereignisse."
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "Being the only one of its kind.",
+        "descriptionRU": "Будучи единственным в своем роде.",
+        "descriptionDE": "Das einzige seiner Art sein."
+    }, {
+        "de": "besonders",
+        "en": "special",
+        "ru": "особенный",
+        "descriptionEN": "Better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
+        "descriptionDE": "Besser, größer oder sonst anders als das Übliche."
+    }
+]

@@ -1,6 +1,38 @@
 [
     {
         "name": {
+            "en": "Weather",
+            "de": "Wetter",
+            "ru": "Погода"
+        },
+        "description": {
+            "en": "Bad Surprise",
+            "de": "Schlimme Überraschung",
+            "ru": "Плохая неожиданность"
+        },
+        "level": "A2",
+        "image": "Wetter.jpg",
+        "file": "Wetter.txt",
+        "words": "Wetter.json",
+        "yesNo": "Wetter.json"
+    }, {
+        "name": {
+            "en": "Daniel's Struggle",
+            "de": "Daniels Kampf",
+            "ru": "Борьба Даниэля"
+        },
+        "description": {
+            "en": "Coffee Addiction",
+            "de": "Kaffeesucht",
+            "ru": "Кофейная зависимость"
+        },
+        "level": "A2",
+        "image": "Daniel.png",
+        "file": "Daniel.txt",
+        "words": "Daniel.json",
+        "multi": "Daniel.json"
+    }, {
+        "name": {
             "en": "Pia's Interests",
             "de": "Pias Interessen",
             "ru": "Интересы Пии"
@@ -79,5 +111,53 @@
         "file": "Adrian.txt",
         "words": "Adrian.json",
         "multi": "Adrian.json"
+    }, {
+        "name": {
+            "en": "Travel Stories",
+            "de": "Reisegeschichten",
+            "ru": "Истории Путешествий"
+        },
+        "description": {
+            "en": "Means of transportation",
+            "de": "Verkehrsmittel",
+            "ru": "Средства передвижения"
+        },
+        "level": "A2",
+        "image": "Reisegeschichten.png",
+        "file": "Reisegeschichten.txt",
+        "words": "Reisegeschichten.json",
+        "yesNo": "Reisegeschichten.json"
+    }, {
+        "name": {
+            "en": "Cameron's Letter",
+            "de": "Camerons Brief",
+            "ru": "Письмо Камерона"
+        },
+        "description": {
+            "en": "Brother's letter",
+            "de": "Brief des Bruders",
+            "ru": "Письмо брата"
+        },
+        "level": "A2",
+        "image": "Cameron.jpg",
+        "file": "Cameron.txt",
+        "words": "Cameron.json",
+        "yesNo": "Cameron.json"
+    }, {
+        "name": {
+            "en": "Lila's Birthday",
+            "de": "Lilas Geburtstags",
+            "ru": "День Рождение Лилы"
+        },
+        "description": {
+            "en": "A happy surprise",
+            "de": "Eine freudige Überraschung",
+            "ru": "Счастливый сюрприз"
+        },
+        "level": "A2",
+        "image": "Lila.jpg",
+        "file": "Lila.txt",
+        "words": "Lila.json",
+        "multi": "Lila.json"
     }
 ]

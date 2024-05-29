@@ -1,7 +1,7 @@
 Based on it generate 10 Questions of the structure below
 
     {
-        "name": "Frage 1", -> question title in german,
+        "name": string question title in german,
         "answers":[
             {
             
@@ -14,7 +14,7 @@ Based on it generate 10 Questions of the structure below
 
     export interface Question {
         name: string, -> question itself in german language 
-        answers:Answers[]; -> an array of answers, usually min 2 and max 4
+        answers:Answers[]; -> an array of answers, usually min 4
     }
 
     export interface Answers {
@@ -25,3 +25,6 @@ Based on it generate 10 Questions of the structure below
 
 	All the questions should be taken from the text.
 	Response should be in json.
+
+    So to sum up:
+    name should contain the question taken from the text, whether array of answers should contain 3 wrong and 1 correct answer (located randomly)

@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wie alt ist Sophie?",
+        "answers": [
+            {
+                "text": "Sophie ist zwölf Jahre alt.",
+                "correct": false
+            }, {
+                "text": "Sophie ist sieben Jahre alt.",
+                "correct": true
+            }, {
+                "text": "Sophie ist sechs Jahre alt.",
+                "correct": false
+            }, {
+                "text": "Sophie ist acht Jahre alt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo lebte Sophie mit ihrer Familie?",
+        "answers": [
+            {
+                "text": "Sophie lebte in Wessex.",
+                "correct": false
+            }, {
+                "text": "Sophie lebte in München.",
+                "correct": false
+            }, {
+                "text": "Sophie lebte in Essen.",
+                "correct": true
+            }, {
+                "text": "Sophie lebte in Bremen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie heißt Sophies Papagei?",
+        "answers": [
+            {
+                "text": "Ihr Papagei heißt Max.",
+                "correct": false
+            }, {
+                "text": "Ihr Papagei heißt Markus.",
+                "correct": true
+            }, {
+                "text": "Ihr Papagei heißt Moritz.",
+                "correct": false
+            }, {
+                "text": "Sie hatte keinen Papagei",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum zogen Sophies Familie um?",
+        "answers": [
+            {
+                "text": "Weil ihre Mutter ein neues Jobangebot hatte",
+                "correct": false
+            }, {
+                "text": "Weil sie ein größeres Haus wollten.",
+                "correct": false
+            }, {
+                "text": "Weil Markus das wollte.",
+                "correct": false
+            }, {
+                "text": "Weil ihr Vater ein neues Jobangebot hatte.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wohin zog Sophies Familie?",
+        "answers": [
+            {
+                "text": "Nach Bremen.",
+                "correct": true
+            }, {
+                "text": "Nach Essen.",
+                "correct": false
+            }, {
+                "text": "Nach München.",
+                "correct": false
+            }, {
+                "text": "Nach Hamburg.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist Sophies Vater von Beruf?",
+        "answers": [
+            {
+                "text": "Er ist Software-Entwickler.",
+                "correct": false
+            }, {
+                "text": "Er ist Arzt.",
+                "correct": false
+            }, {
+                "text": "Er ist Lehrer.",
+                "correct": true
+            }, {
+                "text": "Er ist Journalist.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was macht Sophies Mutter beruflich?",
+        "answers": [
+            {
+                "text": "Sie ist Journalistin.",
+                "correct": true
+            }, {
+                "text": "Sie ist Lehrerin.",
+                "correct": false
+            }, {
+                "text": "Sie hat keine Arbeit",
+                "correct": false
+            }, {
+                "text": "Sie ist Ärztin.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie fühlte sich Sophie am Tag des Umzugs?",
+        "answers": [
+            {
+                "text": "Sie war aufgeregt.",
+                "correct": true
+            }, {
+                "text": "Sie war traurig.",
+                "correct": false
+            }, {
+                "text": "Sie war  verwirrt.",
+                "correct": false
+            }, {
+                "text": "Sie war wütend.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie war das neue Haus im Vergleich zum alten?",
+        "answers": [
+            {
+                "text": "Es war kleiner als ihr altes Haus.",
+                "correct": false
+            }, {
+                "text": "Es war sehr ält.",
+                "correct": false
+            }, {
+                "text": "Es war größer und schöner.",
+                "correct": true
+            }, {
+                "text": "Es war hässlich und stinkend.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo saß Sophie während des Umzugs?",
+        "answers": [
+            {
+                "text": "In der Nähe ihrer Mutter.",
+                "correct": false
+            }, {
+                "text": "Auf dem Vordersitz.",
+                "correct": false
+            }, {
+                "text": "Im Kofferraum.",
+                "correct": false
+            }, {
+                "text": "Auf der Rückbank.",
+                "correct": true
+            }
+        ]
+    }
+]

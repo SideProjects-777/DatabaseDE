@@ -1,0 +1,207 @@
+[
+    {
+        "name": "Johann telefoniert ______ Ina.",
+        "answers": [
+            {
+                "text": "an",
+                "correct": true
+            }, {
+                "text": "über",
+                "correct": false
+            }, {
+                "text": "vor",
+                "correct": false
+            }, {
+                "text": "mit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich habe mich ______ das Thema informiert.",
+        "answers": [
+            {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "und",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }, {
+                "text": "über",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Olivia dankt Mutter ______ ihren guten Rat.",
+        "answers": [
+            {
+                "text": "für",
+                "correct": true
+            }, {
+                "text": "von",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "nach",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Florian lacht _____ den Witz.",
+        "answers": [
+            {
+                "text": "von",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }, {
+                "text": "nach",
+                "correct": false
+            }, {
+                "text": "über",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Alexander erzählt Theo _____ seinem Urlaub.",
+        "answers": [
+            {
+                "text": "über",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "von",
+                "correct": true
+            }, {
+                "text": "nach",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich treffe mich _____ meinem Freund.",
+        "answers": [
+            {
+                "text": "vor",
+                "correct": false
+            }, {
+                "text": "nach",
+                "correct": false
+            }, {
+                "text": "mit",
+                "correct": true
+            }, {
+                "text": "an",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wartet ihr ____ Zoey?",
+        "answers": [
+            {
+                "text": "um",
+                "correct": false
+            }, {
+                "text": "auf",
+                "correct": true
+            }, {
+                "text": "an",
+                "correct": false
+            }, {
+                "text": "über",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Arbeitest du gerne ______ deinen Chef?",
+        "answers": [
+            {
+                "text": "nach",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": true
+            }, {
+                "text": "vor",
+                "correct": false
+            }, {
+                "text": "um",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Jane und Caro arbeiten ______ der gleichen Firma.",
+        "answers": [
+            {
+                "text": "zu",
+                "correct": false
+            }, {
+                "text": "nach",
+                "correct": false
+            }, {
+                "text": "bei",
+                "correct": true
+            }, {
+                "text": "mit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich interessiere mich ______ Biologie.",
+        "answers": [
+            {
+                "text": "nach",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": true
+            }, {
+                "text": "bei",
+                "correct": false
+            }, {
+                "text": "auf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Maria beginnt heute ______ dem Klavierspielen.",
+        "answers": [
+            {
+                "text": "über",
+                "correct": false
+            }, {
+                "text": "mit",
+                "correct": true
+            }, {
+                "text": "vor",
+                "correct": false
+            }, {
+                "text": "von",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Sabrina fängt heute ______ dem neuen Projekt an.",
+        "answers": [
+            {
+                "text": "mit",
+                "correct": true
+            }, {
+                "text": "über",
+                "correct": false
+            }, {
+                "text": "für",
+                "correct": false
+            }, {
+                "text": "vor",
+                "correct": false
+            }
+        ]
+    }
+]

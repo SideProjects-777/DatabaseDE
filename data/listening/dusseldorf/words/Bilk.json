@@ -1,0 +1,178 @@
+[
+    {
+        "de": "die Universität",
+        "en": "university",
+        "ru": "университет",
+        "descriptionEN": "an institution of higher education and research",
+        "descriptionRU": "учебное заведение высшего образования и научных исследований",
+        "descriptionDE": "Eine Einrichtung für höhere Bildung und Forschung"
+    }, {
+        "de": "die Kirche",
+        "en": "church",
+        "ru": "церковь",
+        "descriptionEN": "a building used for public Christian worship",
+        "descriptionRU": "здание, используемое для общественного христианского богослужения",
+        "descriptionDE": "Ein Gebäude, das für öffentliche christliche Gottesdienste genutzt wird"
+    }, {
+        "de": "der Hafen",
+        "en": "harbor",
+        "ru": "гавань",
+        "descriptionEN": "a place on the coast where ships may moor in shelter, especially one protected from rough water by piers, jetties, and other artificial structures",
+        "descriptionRU": "место на побережье, где суда могут швартоваться в укрытии, особенно защищенное от штормов волнами причалов, молами и другими искусственными сооружениями",
+        "descriptionDE": "Ein Ort an der Küste, an dem Schiffe geschützt vor rauem Wasser anlegen können, insbesondere ein Ort, der durch Molen, Dämme und andere künstliche Strukturen geschützt ist"
+    }, {
+        "de": "die Werft",
+        "en": "shipyard",
+        "ru": "верфь",
+        "descriptionEN": "a place where ships are built or repaired",
+        "descriptionRU": "место, где строятся или ремонтируются суда",
+        "descriptionDE": "Ein Ort, an dem Schiffe gebaut oder repariert werden"
+    }, {
+        "de": "der Stadtteil",
+        "en": "district",
+        "ru": "район",
+        "descriptionEN": "a part of a city or town",
+        "descriptionRU": "часть города или города",
+        "descriptionDE": "Ein Teil einer Stadt oder einer Gemeinde"
+    }, {
+        "de": "die Einwohner",
+        "en": "residents",
+        "ru": "жители",
+        "descriptionEN": "people who live in a particular place",
+        "descriptionRU": "люди, живущие в определенном месте",
+        "descriptionDE": "Menschen, die an einem bestimmten Ort leben"
+    }, {
+        "de": "die Arbeitsklasse",
+        "en": "working class",
+        "ru": "рабочий класс",
+        "descriptionEN": "the social group consisting of people who are employed for wages, especially in manual or industrial work",
+        "descriptionRU": "социальная группа, состоящая из людей, которые трудоустроены на заработную плату, особенно в ручном или промышленном труде",
+        "descriptionDE": "Die soziale Gruppe von Menschen, die für Löhne beschäftigt sind, insbesondere in manueller oder industrieller Arbeit"
+    }, {
+        "de": "die Medienbranche",
+        "en": "media industry",
+        "ru": "медиа-индустрия",
+        "descriptionEN": "businesses and organizations that produce and distribute news, entertainment, and other information to the public",
+        "descriptionRU": "предприятия и организации, производящие и распространяющие новости, развлечения и другую информацию для общественности",
+        "descriptionDE": "Unternehmen und Organisationen, die Nachrichten, Unterhaltung und andere Informationen für die Öffentlichkeit produzieren und verbreiten"
+    }, {
+        "de": "die Gentrifizierung",
+        "en": "gentrification",
+        "ru": "гентрификация",
+        "descriptionEN": "the process of renovating and improving a house or district so that it conforms to middle-class taste",
+        "descriptionRU": "процесс реновации и улучшения дома или района, чтобы он соответствовал вкусу среднего класса",
+        "descriptionDE": "Der Prozess der Renovierung und Verbesserung eines Hauses oder Stadtteils, damit er dem Geschmack der Mittelschicht entspricht"
+    }, {
+        "de": "der Lebensunterhalt",
+        "en": "livelihood",
+        "ru": "средства к существованию",
+        "descriptionEN": "a means of securing the necessities of life",
+        "descriptionRU": "средство обеспечения необходимостями жизни",
+        "descriptionDE": "Ein Mittel zur Sicherung der Lebensnotwendigkeiten"
+    }, {
+        "de": "die Multikulturalität",
+        "en": "multiculturalism",
+        "ru": "мультикультурализм",
+        "descriptionEN": "the presence of, or support for the presence of, several distinct cultural or ethnic groups within a society",
+        "descriptionRU": "присутствие нескольких отличных культурных или этнических групп в обществе или поддержка этого присутствия",
+        "descriptionDE": "Das Vorhandensein von mehreren verschiedenen kulturellen oder ethnischen Gruppen innerhalb einer Gesellschaft oder die Unterstützung dieses Vorhandenseins"
+    }, {
+        "de": "die Melting Pot",
+        "en": "melting pot",
+        "ru": "плавильный котел",
+        "descriptionEN": "a place where different peoples, styles, theories, etc. are mixed together",
+        "descriptionRU": "место, где смешиваются различные народы, стили, теории и т. д.",
+        "descriptionDE": "Ein Ort, an dem verschiedene Völker, Stile, Theorien usw. miteinander vermischt werden"
+    }, {
+        "de": "die Anbindung",
+        "en": "connection",
+        "ru": "соединение",
+        "descriptionEN": "a relationship in which a person, thing, or idea is linked or associated with something else",
+        "descriptionRU": "отношения, в которых человек, вещь или идея связаны или ассоциируются с чем-то другим",
+        "descriptionDE": "Eine Beziehung, in der eine Person, eine Sache oder eine Idee mit etwas anderem verbunden oder assoziiert ist"
+    }, {
+        "de": "die Budgetmieten",
+        "en": "budget rentals",
+        "ru": "бюджетная аренда",
+        "descriptionEN": "rental properties available at affordable prices",
+        "descriptionRU": "арендные объекты, доступные по доступным ценам",
+        "descriptionDE": "Mietobjekte zu erschwinglichen Preisen"
+    }, {
+        "de": "die Attraktivität",
+        "en": "attractiveness",
+        "ru": "привлекательность",
+        "descriptionEN": "the quality of being appealing or interesting",
+        "descriptionRU": "качество привлекательности или интересности",
+        "descriptionDE": "Die Qualität, ansprechend oder interessant zu sein"
+    }, {
+        "de": "der Konkurrenzkampf",
+        "en": "competition",
+        "ru": "конкуренция",
+        "descriptionEN": "the activity or condition of competing",
+        "descriptionRU": "деятельность или состояние конкуренции",
+        "descriptionDE": "Die Aktivität oder Bedingung des Wettbewerbs"
+    }, {
+        "de": "die Beliebtheit",
+        "en": "popularity",
+        "ru": "популярность",
+        "descriptionEN": "the state or condition of being liked, admired, or supported by many people",
+        "descriptionRU": "состояние или условие того, что нравится, восхищается или поддерживается многими людьми",
+        "descriptionDE": "Der Zustand oder die Bedingung, von vielen Menschen gemocht, bewundert oder unterstützt zu werden"
+    }, {
+        "de": "das Herz",
+        "en": "heart",
+        "ru": "сердце",
+        "descriptionEN": "the central or most important part",
+        "descriptionRU": "центральная или наиболее важная часть",
+        "descriptionDE": "Der zentrale oder wichtigste Teil"
+    }, {
+        "de": "die Oase",
+        "en": "oasis",
+        "ru": "oазис",
+        "descriptionEN": "a fertile spot in a desert where water is found",
+        "descriptionRU": "плодородное место в пустыне, где находится вода",
+        "descriptionDE": "Ein fruchtbarer Fleck in einer Wüste, wo Wasser zu finden ist"
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "the state of being diverse; variety",
+        "descriptionRU": "состояние разнообразия; разнообразие",
+        "descriptionDE": "Der Zustand der Vielfalt; Vielfalt"
+    }, {
+        "de": "die Bequemlichkeit",
+        "en": "comfort",
+        "ru": "комфорт",
+        "descriptionEN": "a state of physical ease and freedom from pain or constraint",
+        "descriptionRU": "состояние физического комфорта и свободы от боли или ограничения",
+        "descriptionDE": "Ein Zustand körperlicher Leichtigkeit und Freiheit von Schmerzen oder Einschränkungen"
+    }, {
+        "de": "die Erreichbarkeit",
+        "en": "accessibility",
+        "ru": "доступность",
+        "descriptionEN": "the quality of being able to be reached or entered",
+        "descriptionRU": "качество, которое может быть достигнуто или введено",
+        "descriptionDE": "Die Qualität, erreicht oder betreten werden zu können"
+    }, {
+        "de": "die Belastbarkeit",
+        "en": "resilience",
+        "ru": "устойчивость",
+        "descriptionEN": "the capacity to recover quickly from difficulties; toughness",
+        "descriptionRU": "способность быстро оправляться от трудностей; жесткость",
+        "descriptionDE": "Die Fähigkeit, sich schnell von Schwierigkeiten zu erholen; Robustheit"
+    }, {
+        "de": "die Zentralität",
+        "en": "centrality",
+        "ru": "центральность",
+        "descriptionEN": "the quality of being central",
+        "descriptionRU": "качество быть центральным",
+        "descriptionDE": "Die Qualität, zentral zu sein"
+    }, {
+        "de": "das Stadtzentrum",
+        "en": "city center",
+        "ru": "центр города",
+        "descriptionEN": "the central part of a city, typically characterized by a concentration of business and administrative activity",
+        "descriptionRU": "центральная часть города, обычно характеризующаяся концентрацией бизнеса и административной деятельности",
+        "descriptionDE": "Der zentrale Teil einer Stadt, der typischerweise durch eine Konzentration von Geschäfts- und Verwaltungsaktivitäten gekennzeichnet ist"
+    }
+]

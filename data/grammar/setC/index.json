@@ -49,5 +49,45 @@
         "file": "dativ.json",
         "icon": "hardware",
         "iconFamily": "MaterialIcons"
+    },  {
+        "name": "sollen - wollen",
+        "description": {
+            "en": "Modal Verbs",
+            "de": "Modalverben",
+            "ru": "Модальные глаголы"
+        },
+        "file": "modalverben.json",
+        "icon": "run-fast",
+        "iconFamily": "MaterialCommunityIcons"
+    },  {
+        "name": "von - mit",
+        "description": {
+            "en": "Verbs with prepositions",
+            "de": "Verben mit Präpositionen",
+            "ru": "Глаголы с предлогами"
+        },
+        "file": "verbPrepo.json",
+        "icon": "typewriter",
+        "iconFamily": "MaterialCommunityIcons"
+    },  {
+        "name": "um - nach",
+        "description": {
+            "en": "Verbs with prepositions II",
+            "de": "Verben mit Präpositionen II",
+            "ru": "Глаголы с предлогами II"
+        },
+        "file": "verbPrepoII.json",
+        "icon": "pen-tool",
+        "iconFamily": "Feather"
+    },   {
+        "name": "mich",
+        "description": {
+            "en": "Reflexive pronoun",
+            "de": "Reflexivpronomen",
+            "ru": "Возвратное местоимение"
+        },
+        "file": "reflexive.json",
+        "icon": "person-search",
+        "iconFamily": "MaterialIcons"
     }
 ]

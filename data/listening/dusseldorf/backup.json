@@ -1,8 +1,5 @@
-// A2 -> 3
-// B1 -> 1
-// B2 -> 1
 [
-  {
+    {
         "name": {
             "en": "Allure",
             "de": "Der Reiz",
@@ -18,5 +15,22 @@
         "file": "Allure.mp3",
         "words": "Allure.json",
         "yesNo": "Allure.json"
+    },
+    {
+        "name": {
+            "en": "Night at the Museum",
+            "de": "Nacht im Museum",
+            "ru": "Ночь в музее"
+        },
+        "description": {
+            "en": "Annual cultural event",
+            "de": "Jährliches Kulturevent",
+            "ru": "Ежегодное культурное событие"
+        },
+        "level": "A2",
+        "image": "NachtMuseum.jpg",
+        "file": "NachtMuseum.mp3",
+        "words": "NachtMuseum.json",
+        "multi": "NachtMuseum.json"
     }
 ]

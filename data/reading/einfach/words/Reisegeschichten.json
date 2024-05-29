@@ -1,0 +1,178 @@
+[
+    {
+        "de": "der Bahnhof",
+        "en": "train station",
+        "ru": "вокзал",
+        "descriptionEN": "A place where trains stop for passengers to get on and off.",
+        "descriptionRU": "Место, где поезда останавливаются для посадки и высадки пассажиров.",
+        "descriptionDE": "Ein Ort, an dem Züge halten, damit Fahrgäste ein- und aussteigen können."
+    }, {
+        "de": "der Zug",
+        "en": "train",
+        "ru": "поезд",
+        "descriptionEN": "A series of connected vehicles traveling on railways.",
+        "descriptionRU": "Ряд соединенных транспортных средств, движущихся по железным дорогам.",
+        "descriptionDE": "Eine Reihe von verbundenen Fahrzeugen, die auf Eisenbahnen fahren."
+    }, {
+        "de": "die Fähre",
+        "en": "ferry",
+        "ru": "паром",
+        "descriptionEN": "A boat or ship for conveying passengers and goods, especially over a relatively short distance.",
+        "descriptionRU": "Судно для перевозки пассажиров и грузов, особенно на относительно короткие расстояния.",
+        "descriptionDE": "Ein Boot oder Schiff zum Transport von Passagieren und Gütern, besonders über eine relativ kurze Strecke."
+    }, {
+        "de": "das Fahrrad",
+        "en": "bicycle",
+        "ru": "велосипед",
+        "descriptionEN": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars.",
+        "descriptionRU": "Транспортное средство, состоящее из двух колес, соединенных рамой друг за другом, приводимое в движение педалями и управляемое рулем.",
+        "descriptionDE": "Ein Fahrzeug, das aus zwei Rädern besteht, die hintereinander in einem Rahmen gehalten werden, durch Pedale angetrieben und mit einem Lenker gesteuert wird."
+    }, {
+        "de": "das Boot",
+        "en": "boat",
+        "ru": "лодка",
+        "descriptionEN": "A small vessel for traveling over water, typically smaller than a ship.",
+        "descriptionRU": "Малое судно для плавания по воде, обычно меньше, чем корабль.",
+        "descriptionDE": "Ein kleines Schiff zum Reisen über Wasser, typischerweise kleiner als ein Schiff."
+    }, {
+        "de": "die Insel",
+        "en": "island",
+        "ru": "остров",
+        "descriptionEN": "A piece of land surrounded by water.",
+        "descriptionRU": "Кусок земли, окруженный водой.",
+        "descriptionDE": "Ein Stück Land, das von Wasser umgeben ist."
+    }, {
+        "de": "die Autobahn",
+        "en": "highway",
+        "ru": "автобан",
+        "descriptionEN": "A major road designed for fast traffic, with no or few intersections.",
+        "descriptionRU": "Основная дорога, предназначенная для быстрого движения транспорта, с минимальным количеством пересечений или без них.",
+        "descriptionDE": "Eine Hauptstraße, die für schnellen Verkehr ausgelegt ist, mit wenigen oder keinen Kreuzungen."
+    }, {
+        "de": "das Motorrad",
+        "en": "motorcycle",
+        "ru": "мотоцикл",
+        "descriptionEN": "A two-wheeled motor vehicle that is powered by an engine.",
+        "descriptionRU": "Двухколесное транспортное средство с мотором.",
+        "descriptionDE": "Ein zweirädriges Kraftfahrzeug, das von einem Motor angetrieben wird."
+    }, {
+        "de": "die Straßenbahn",
+        "en": "tram",
+        "ru": "трамвай",
+        "descriptionEN": "A rail vehicle that runs on tracks along public urban streets.",
+        "descriptionRU": "Рельсовый транспорт, который движется по путям по городским улицам.",
+        "descriptionDE": "Ein Schienenfahrzeug, das auf Gleisen entlang öffentlicher städtischer Straßen fährt."
+    }, {
+        "de": "das Taxi",
+        "en": "taxi",
+        "ru": "такси",
+        "descriptionEN": "A car licensed to transport passengers in return for payment of a fare.",
+        "descriptionRU": "Автомобиль, лицензированный на перевозку пассажиров за плату.",
+        "descriptionDE": "Ein Auto, das lizenziert ist, um Fahrgäste gegen Bezahlung zu transportieren."
+    }, {
+        "de": "der Flughafen",
+        "en": "airport",
+        "ru": "аэропорт",
+        "descriptionEN": "A complex of runways and buildings for the takeoff, landing, and maintenance of civil aircraft.",
+        "descriptionRU": "Комплекс взлетно-посадочных полос и зданий для взлета, посадки и обслуживания гражданских самолетов.",
+        "descriptionDE": "Ein Komplex aus Start- und Landebahnen und Gebäuden für den Start, die Landung und die Wartung von Zivilflugzeugen."
+    }, {
+        "de": "die Metro",
+        "en": "subway",
+        "ru": "метро",
+        "descriptionEN": "An underground railway system in a city.",
+        "descriptionRU": "Подземная железнодорожная система в городе.",
+        "descriptionDE": "Ein unterirdisches Eisenbahnsystem in einer Stadt."
+    }, {
+        "de": "fahren",
+        "en": "to drive",
+        "ru": "ехать",
+        "descriptionEN": "To control the movement of a vehicle.",
+        "descriptionRU": "Управлять движением транспортного средства.",
+        "descriptionDE": "Die Bewegung eines Fahrzeugs steuern."
+    }, {
+        "de": "wohnen",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "To have one's home in a particular place.",
+        "descriptionRU": "Иметь дом в определенном месте.",
+        "descriptionDE": "Sein Zuhause an einem bestimmten Ort haben."
+    }, {
+        "de": "mieten",
+        "en": "to rent",
+        "ru": "арендовать",
+        "descriptionEN": "To pay someone for the use of something, typically property, land, or a car.",
+        "descriptionRU": "Платить кому-то за использование чего-то, обычно недвижимости, земли или автомобиля.",
+        "descriptionDE": "Jemanden für die Nutzung von etwas bezahlen, typischerweise Eigentum, Land oder ein Auto."
+    }, {
+        "de": "fliegen",
+        "en": "to fly",
+        "ru": "летать",
+        "descriptionEN": "To move through the air using wings.",
+        "descriptionRU": "Двигаться по воздуху, используя крылья.",
+        "descriptionDE": "Sich mit Flügeln durch die Luft bewegen."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "To perceive with the eyes.",
+        "descriptionRU": "Воспринимать глазами.",
+        "descriptionDE": "Mit den Augen wahrnehmen."
+    }, {
+        "de": "reisen",
+        "en": "to travel",
+        "ru": "путешествовать",
+        "descriptionEN": "To make a journey, typically of some length.",
+        "descriptionRU": "Совершать поездку, обычно на некоторое расстояние.",
+        "descriptionDE": "Eine Reise unternehmen, typischerweise von einiger Länge."
+    }, {
+        "de": "leider",
+        "en": "unfortunately",
+        "ru": "к сожалению",
+        "descriptionEN": "It is regrettable or sad to say.",
+        "descriptionRU": "Прискорбно или печально говорить.",
+        "descriptionDE": "Es ist bedauerlich oder traurig zu sagen."
+    }, {
+        "de": "viel",
+        "en": "a lot",
+        "ru": "много",
+        "descriptionEN": "A large amount or number of.",
+        "descriptionRU": "Большое количество или число.",
+        "descriptionDE": "Eine große Menge oder Anzahl von."
+    }, {
+        "de": "gern",
+        "en": "gladly",
+        "ru": "охотно",
+        "descriptionEN": "In a willing manner.",
+        "descriptionRU": "С готовностью.",
+        "descriptionDE": "In einer willigen Weise."
+    }, {
+        "de": "manchmal",
+        "en": "sometimes",
+        "ru": "иногда",
+        "descriptionEN": "Occasionally, rather than all of the time.",
+        "descriptionRU": "Время от времени, а не постоянно.",
+        "descriptionDE": "Gelegentlich, anstatt die ganze Zeit."
+    }, {
+        "de": "zu Fuß",
+        "en": "on foot",
+        "ru": "пешком",
+        "descriptionEN": "Walking rather than traveling by car or other means.",
+        "descriptionRU": "Ходить пешком, а не путешествовать на машине или другим способом.",
+        "descriptionDE": "Zu Fuß gehen statt mit dem Auto oder einem anderen Verkehrsmittel zu reisen."
+    }, {
+        "de": "gern",
+        "en": "gladly",
+        "ru": "охотно",
+        "descriptionEN": "In a willing manner.",
+        "descriptionRU": "С готовностью.",
+        "descriptionDE": "In einer willigen Weise."
+    }, {
+        "de": "leider",
+        "en": "unfortunately",
+        "ru": "к сожалению",
+        "descriptionEN": "It is regrettable or sad to say.",
+        "descriptionRU": "Прискорбно или печально говорить.",
+        "descriptionDE": "Es ist bedauerlich oder traurig zu sagen."
+    }
+]
