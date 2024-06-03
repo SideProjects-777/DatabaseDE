@@ -15,8 +15,7 @@
         "file": "Allure.mp3",
         "words": "Allure.json",
         "yesNo": "Allure.json"
-    },
-    {
+    }, {
         "name": {
             "en": "Night at the Museum",
             "de": "Nacht im Museum",
@@ -32,5 +31,21 @@
         "file": "NachtMuseum.mp3",
         "words": "NachtMuseum.json",
         "multi": "NachtMuseum.json"
+    }, {
+        "name": {
+            "en": "Movie Night",
+            "de": "Filmnacht",
+            "ru": "Ночь фильмов"
+        },
+        "description": {
+            "en": "Cinema Choices",
+            "de": "Kinowahl",
+            "ru": "Выбор кинотеатра"
+        },
+        "level": "A2",
+        "image": "Kinowahl.jpg",
+        "file": "Kinowahl.mp3",
+        "words": "Kinowahl.json",
+        "multi": "Kinowahl.json"
     }
 ]

@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Welches Kino hatte eine gute Lage und bequeme Sitze?",
+        "answers": [
+            {
+                "text": "Apollo Kino",
+                "correct": true
+            }, {
+                "text": "UFA Palast",
+                "correct": false
+            }, {
+                "text": "Savoy Theater",
+                "correct": false
+            }, {
+                "text": "Keines der genannten Kinos",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Kino bot eine hochmoderne Ausstattung und große Leinwände?",
+        "answers": [
+            {
+                "text": "Apollo Kino",
+                "correct": false
+            }, {
+                "text": "UFA Palast",
+                "correct": true
+            }, {
+                "text": "Savoy Theater",
+                "correct": false
+            }, {
+                "text": "Alle genannten Kinos",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Kino bot ein klassisches Ambiente und erschwingliche Karten?",
+        "answers": [
+            {
+                "text": "Apollo Kino",
+                "correct": false
+            }, {
+                "text": "UFA Palast",
+                "correct": false
+            }, {
+                "text": "Savoy Theater",
+                "correct": true
+            }, {
+                "text": "Keines der genannten Kinos",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum entschied sich Heinrich für den UFA Palast Düsseldorf?",
+        "answers": [
+            {
+                "text": "Wegen der günstigeren Kartenpreise",
+                "correct": false
+            }, {
+                "text": "Wegen des klassischen Ambientes",
+                "correct": false
+            }, {
+                "text": "Weil er dort ein besseres Kinoerlebnis hatte",
+                "correct": true
+            }, {
+                "text": "Wegen der Lage und bequemen Sitze",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kauften Heinrich und Franz im Kino?",
+        "answers": [
+            {
+                "text": "Pizza und Cola",
+                "correct": false
+            }, {
+                "text": "Nachos und Limonade",
+                "correct": false
+            }, {
+                "text": "Eis und Energy-Drink",
+                "correct": false
+            }, {
+                "text": "Karten, Popcorn und deutsches Bier",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was hatte Heinrich Angst zu verpassen, als er auf Franz wartete?",
+        "answers": [
+            {
+                "text": "Den letzten Bus nach Hause",
+                "correct": false
+            }, {
+                "text": "Den Beginn des Films",
+                "correct": true
+            }, {
+                "text": "Die Gelegenheit, Popcorn zu kaufen",
+                "correct": false
+            }, {
+                "text": "Den richtigen Weg zum Kino",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Minuten war Franz zu spät im Kino?",
+        "answers": [
+            {
+                "text": "20 Minuten",
+                "correct": false
+            }, {
+                "text": "30 Minuten",
+                "correct": false
+            }, {
+                "text": "10 Minuten",
+                "correct": true
+            }, {
+                "text": "5 Minuten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tat Heinrich, als der Film zu Ende war?",
+        "answers": [
+            {
+                "text": "Er ging sofort nach Hause",
+                "correct": false
+            }, {
+                "text": "Er ging noch etwas trinken",
+                "correct": false
+            }, {
+                "text": "Er klatschte mit den anderen Leuten im Kino Beifall",
+                "correct": true
+            }, {
+                "text": "Er ging nochmal ins Badezimmer",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Worauf wartete Heinrich ungeduldig, als er auf Franz wartete?",
+        "answers": [
+            {
+                "text": "Auf den Filmvorführer",
+                "correct": false
+            }, {
+                "text": "Auf den Beginn des Films",
+                "correct": true
+            }, {
+                "text": "Auf das Ende des Films",
+                "correct": false
+            }, {
+                "text": "Auf die Abspannszene",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Worüber sprachen Heinrich und Franz, als sie nach Hause gingen?",
+        "answers": [
+            {
+                "text": "Über ihre Lieblingsgetränke",
+                "correct": false
+            }, {
+                "text": "Über das Wetter",
+                "correct": false
+            }, {
+                "text": "Über ihre Lieblingsstellen im Film",
+                "correct": true
+            }, {
+                "text": "Über ihre nächsten Urlaubspläne",
+                "correct": false
+            }
+        ]
+    }
+]
