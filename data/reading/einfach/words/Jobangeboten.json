@@ -1,0 +1,164 @@
+[
+    {
+        "de": "das Unternehmen",
+        "en": "company",
+        "ru": "компания",
+        "descriptionEN": "A business organization selling goods or services.",
+        "descriptionRU": "Коммерческая организация, продающая товары или услуги.",
+        "descriptionDE": "Eine Geschäftseinheit, die Waren oder Dienstleistungen verkauft."
+    }, {
+        "de": "das Angebot",
+        "en": "offer",
+        "ru": "предложение",
+        "descriptionEN": "A proposal presented for acceptance.",
+        "descriptionRU": "Предложение для принятия.",
+        "descriptionDE": "Ein Vorschlag zur Annahme."
+    }, {
+        "de": "die Sozialleistungen",
+        "en": "social benefits",
+        "ru": "социальные льготы",
+        "descriptionEN": "Benefits provided by employers beyond salary, such as health insurance.",
+        "descriptionRU": "Льготы, предоставляемые работодателями помимо зарплаты, такие как медицинская страховка.",
+        "descriptionDE": "Vom Arbeitgeber zusätzlich zum Gehalt gewährte Leistungen, wie z. B. Krankenversicherung."
+    }, {
+        "de": "das Fitnessstudio",
+        "en": "gym",
+        "ru": "тренажерный зал",
+        "descriptionEN": "A place equipped for physical exercise.",
+        "descriptionRU": "Место, оборудованное для физических упражнений.",
+        "descriptionDE": "Ein Ort, ausgestattet für körperliche Übungen."
+    }, {
+        "de": "die Vergünstigung",
+        "en": "discount",
+        "ru": "скидка",
+        "descriptionEN": "A reduction in price.",
+        "descriptionRU": "Снижение цены.",
+        "descriptionDE": "Eine Preisreduzierung."
+    }, {
+        "de": "die Sicherheit",
+        "en": "security",
+        "ru": "безопасность",
+        "descriptionEN": "The state of being free from danger or threat.",
+        "descriptionRU": "Состояние защищенности от опасности или угрозы.",
+        "descriptionDE": "Der Zustand, frei von Gefahr oder Bedrohung zu sein."
+    }, {
+        "de": "das Büro",
+        "en": "office",
+        "ru": "офис",
+        "descriptionEN": "A room where people work at desks.",
+        "descriptionRU": "Комната, где люди работают за столами.",
+        "descriptionDE": "Ein Raum, in dem Menschen an Schreibtischen arbeiten."
+    }, {
+        "de": "der Karrierepfad",
+        "en": "career path",
+        "ru": "карьерный путь",
+        "descriptionEN": "The progression of a person's professional life.",
+        "descriptionRU": "Профессиональное развитие человека.",
+        "descriptionDE": "Der Verlauf des beruflichen Werdegangs einer Person."
+    }, {
+        "de": "die Nachhaltigkeit",
+        "en": "sustainability",
+        "ru": "устойчивость",
+        "descriptionEN": "The ability to be maintained at a certain rate or level.",
+        "descriptionRU": "Способность поддерживаться на определенном уровне.",
+        "descriptionDE": "Die Fähigkeit, auf einem bestimmten Niveau gehalten zu werden."
+    }, {
+        "de": "die Dienstreise",
+        "en": "business trip",
+        "ru": "командировка",
+        "descriptionEN": "A journey taken for work purposes.",
+        "descriptionRU": "Поездка по работе.",
+        "descriptionDE": "Eine Reise, die zu Arbeitszwecken unternommen wird."
+    }, {
+        "de": "wohnen",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "To reside in a place.",
+        "descriptionRU": "Проживать в месте.",
+        "descriptionDE": "An einem Ort leben."
+    }, {
+        "de": "arbeiten",
+        "en": "to work",
+        "ru": "работать",
+        "descriptionEN": "To engage in physical or mental activity to achieve a result.",
+        "descriptionRU": "Заниматься физической или умственной деятельностью для достижения результата.",
+        "descriptionDE": "Sich körperlich oder geistig betätigen, um ein Ergebnis zu erzielen."
+    }, {
+        "de": "bieten",
+        "en": "to offer",
+        "ru": "предлагать",
+        "descriptionEN": "To present for acceptance or rejection.",
+        "descriptionRU": "Предлагать для принятия или отклонения.",
+        "descriptionDE": "Zur Annahme oder Ablehnung vorlegen."
+    }, {
+        "de": "entscheiden",
+        "en": "to decide",
+        "ru": "решать",
+        "descriptionEN": "To make a choice from alternatives.",
+        "descriptionRU": "Сделать выбор из альтернатив.",
+        "descriptionDE": "Eine Wahl aus Alternativen treffen."
+    }, {
+        "de": "reisen",
+        "en": "to travel",
+        "ru": "путешествовать",
+        "descriptionEN": "To make a journey.",
+        "descriptionRU": "Совершить поездку.",
+        "descriptionDE": "Eine Reise machen."
+    }, {
+        "de": "beraten",
+        "en": "to advise",
+        "ru": "консультировать",
+        "descriptionEN": "To offer suggestions about the best course of action.",
+        "descriptionRU": "Предлагать советы о наилучшем курсе действий.",
+        "descriptionDE": "Vorschläge zum besten Vorgehen machen."
+    }, {
+        "de": "etabliert",
+        "en": "established",
+        "ru": "установленный",
+        "descriptionEN": "Having been in existence for a long time.",
+        "descriptionRU": "Существующий в течение длительного времени.",
+        "descriptionDE": "Seit langem bestehend."
+    }, {
+        "de": "schwer",
+        "en": "difficult",
+        "ru": "трудный",
+        "descriptionEN": "Not easy to do or understand.",
+        "descriptionRU": "Не легко сделать или понять.",
+        "descriptionDE": "Nicht leicht zu tun oder zu verstehen."
+    }, {
+        "de": "beeindruckend",
+        "en": "impressive",
+        "ru": "впечатляющий",
+        "descriptionEN": "Evoking admiration through size, quality, or skill.",
+        "descriptionRU": "Вызывающий восхищение благодаря размеру, качеству или мастерству.",
+        "descriptionDE": "Bewunderung durch Größe, Qualität oder Können hervorrufend."
+    }, {
+        "de": "jung",
+        "en": "young",
+        "ru": "молодой",
+        "descriptionEN": "Having lived for a short time.",
+        "descriptionRU": "Проживший короткое время.",
+        "descriptionDE": "Von kurzer Lebensdauer."
+    }, {
+        "de": "dynamisch",
+        "en": "dynamic",
+        "ru": "динамичный",
+        "descriptionEN": "Characterized by constant change and activity.",
+        "descriptionRU": "Характеризуется постоянными изменениями и активностью.",
+        "descriptionDE": "Durch ständige Veränderung und Aktivität gekennzeichnet."
+    }, {
+        "de": "klar",
+        "en": "clear",
+        "ru": "ясный",
+        "descriptionEN": "Easy to understand.",
+        "descriptionRU": "Легко понять.",
+        "descriptionDE": "Leicht zu verstehen."
+    }, {
+        "de": "finanziell",
+        "en": "financial",
+        "ru": "финансовый",
+        "descriptionEN": "Relating to money or how it is managed.",
+        "descriptionRU": "Относящийся к деньгам или их управлению.",
+        "descriptionDE": "Im Zusammenhang mit Geld oder wie es verwaltet wird."
+    }
+]

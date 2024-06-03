@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo wohnt Klara Müller?",
+        "answers": [
+            {
+                "text": "In der Goetheallee 5",
+                "correct": false
+            }, {
+                "text": "In der Beethovenstraße 7",
+                "correct": false
+            }, {
+                "text": "In der Schillerstraße 12",
+                "correct": true
+            }, {
+                "text": "In der Mozartstraße 3",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie alt ist Klara Müller?",
+        "answers": [
+            {
+                "text": "28 Jahre alt",
+                "correct": false
+            }, {
+                "text": "30 Jahre alt",
+                "correct": false
+            }, {
+                "text": "32 Jahre alt",
+                "correct": false
+            }, {
+                "text": "34 Jahre alt",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wo befindet sich das Unternehmen Technowise Solutions?",
+        "answers": [
+            {
+                "text": "In Bonn",
+                "correct": false
+            }, {
+                "text": "In Köln",
+                "correct": true
+            }, {
+                "text": "In Düsseldorf",
+                "correct": false
+            }, {
+                "text": "In Koblenz",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bietet Technowise Solutions an?",
+        "answers": [
+            {
+                "text": "Impressive Sozialleistungen",
+                "correct": true
+            }, {
+                "text": "Hohes Gehalt",
+                "correct": false
+            }, {
+                "text": "Gratis Mittagessen",
+                "correct": false
+            }, {
+                "text": "Weniger Arbeitsstunden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie ist das Gehalt bei EcoVision Enterprises?",
+        "answers": [
+            {
+                "text": "Sehr hoch",
+                "correct": false
+            }, {
+                "text": "Mittelmäßig",
+                "correct": false
+            }, {
+                "text": "Bescheiden",
+                "correct": true
+            }, {
+                "text": "Überdurchschnittlich",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machte das Angebot von EcoVision Enterprises spannend für Klara?",
+        "answers": [
+            {
+                "text": "Viele Dienstreisen",
+                "correct": true
+            }, {
+                "text": "Hohe Gehälter",
+                "correct": false
+            }, {
+                "text": "Kurze Arbeitszeiten",
+                "correct": false
+            }, {
+                "text": "Geringer Arbeitsaufwand",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Unternehmen ist EcoVision Enterprises?",
+        "answers": [
+            {
+                "text": "Ein Start-up-Unternehmen",
+                "correct": true
+            }, {
+                "text": "Ein etabliertes Unternehmen",
+                "correct": false
+            }, {
+                "text": "Ein mittelständisches Unternehmen",
+                "correct": false
+            }, {
+                "text": "Ein multinationales Unternehmen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie ist das Team bei EcoVision Enterprises beschrieben?",
+        "answers": [
+            {
+                "text": "Erfahren und traditionell",
+                "correct": false
+            }, {
+                "text": "Alt und konservativ",
+                "correct": false
+            }, {
+                "text": "Groß und international",
+                "correct": false
+            }, {
+                "text": "Jung und dynamisch",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Stadt ist besser mit öffentlichen Verkehrsmitteln zu erreichen?",
+        "answers": [
+            {
+                "text": "Bonn",
+                "correct": false
+            }, {
+                "text": "Köln",
+                "correct": false
+            }, {
+                "text": "Koblenz",
+                "correct": true
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wofür entschied sich Klara Müller letztendlich?",
+        "answers": [
+            {
+                "text": "Für Technowise Solutions",
+                "correct": false
+            }, {
+                "text": "Für EcoVision Enterprises",
+                "correct": true
+            }, {
+                "text": "Für ein drittes Angebot",
+                "correct": false
+            }, {
+                "text": "Für eine Weiterbildung",
+                "correct": false
+            }
+        ]
+    }
+]
