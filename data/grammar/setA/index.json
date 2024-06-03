@@ -7,6 +7,7 @@
             "ru": "Знакомство I"
         },
         "file": "introduction.json",
+        "level": "A1",
         "icon": "handshake-o",
         "iconFamily": "FontAwesome"
     }, {
@@ -17,6 +18,7 @@
             "ru": "Знакомство II"
         },
         "file": "hallo.json",
+        "level": "A1",
         "icon": "hand",
         "iconFamily": "Entypo"
     }, {
@@ -27,6 +29,7 @@
             "ru": "Семья"
         },
         "file": "family.json",
+        "level": "A1",
         "icon": "people",
         "iconFamily": "Ionicons"
     }, {
@@ -37,6 +40,7 @@
             "ru": "Цвета"
         },
         "file": "farben.json",
+        "level": "A1",
         "icon": "color-palette-outline",
         "iconFamily": "Ionicons"
     }, {
@@ -47,6 +51,7 @@
             "ru": "Цифры"
         },
         "file": "zahlen.json",
+        "level": "A1",
         "icon": "number",
         "iconFamily": "Octicons"
     }, {
@@ -57,6 +62,7 @@
             "ru": "Предложения"
         },
         "file": "sentences.json",
+        "level": "A1",
         "icon": "construct-outline",
         "iconFamily": "Ionicons"
     }

@@ -7,6 +7,7 @@
             "ru": "Спряжение"
         },
         "file": "conjugation.json",
+        "level": "A2",
         "icon": "running",
         "iconFamily": "FontAwesome5"
     }, {
@@ -17,6 +18,7 @@
             "ru": "Синонимы"
         },
         "file": "synonym.json",
+        "level": "A2",
         "icon": "clone",
         "iconFamily": "FontAwesome5"
     }, {
@@ -27,6 +29,7 @@
             "ru": "Антонимы"
         },
         "file": "antonyms.json",
+        "level": "A2",
         "icon": "refresh-ccw",
         "iconFamily": "Feather"
     }, {
@@ -37,19 +40,10 @@
             "ru": "Аккузатив"
         },
         "file": "akkusativ.json",
+        "level": "A2",
         "icon": "card-text",
         "iconFamily": "MaterialCommunityIcons"
-    },  {
-        "name": "der - dem",
-        "description": {
-            "en": "Dative",
-            "de": "Dativ",
-            "ru": "Датив"
-        },
-        "file": "dativ.json",
-        "icon": "hardware",
-        "iconFamily": "MaterialIcons"
-    },  {
+    }, {
         "name": "sollen - wollen",
         "description": {
             "en": "Modal Verbs",
@@ -57,9 +51,10 @@
             "ru": "Модальные глаголы"
         },
         "file": "modalverben.json",
+        "level": "B1",
         "icon": "run-fast",
         "iconFamily": "MaterialCommunityIcons"
-    },  {
+    }, {
         "name": "von - mit",
         "description": {
             "en": "Verbs with prepositions",
@@ -67,9 +62,10 @@
             "ru": "Глаголы с предлогами"
         },
         "file": "verbPrepo.json",
+        "level": "B1",
         "icon": "typewriter",
         "iconFamily": "MaterialCommunityIcons"
-    },  {
+    }, {
         "name": "um - nach",
         "description": {
             "en": "Verbs with prepositions II",
@@ -77,9 +73,10 @@
             "ru": "Глаголы с предлогами II"
         },
         "file": "verbPrepoII.json",
+        "level": "B1",
         "icon": "pen-tool",
         "iconFamily": "Feather"
-    },   {
+    }, {
         "name": "mich",
         "description": {
             "en": "Reflexive pronoun",
@@ -87,7 +84,19 @@
             "ru": "Возвратное местоимение"
         },
         "file": "reflexive.json",
+        "level": "B1",
         "icon": "person-search",
+        "iconFamily": "MaterialIcons"
+    }, {
+        "name": "der - dem",
+        "description": {
+            "en": "Dative",
+            "de": "Dativ",
+            "ru": "Датив"
+        },
+        "file": "dativ.json",
+        "level": "B1",
+        "icon": "hardware",
         "iconFamily": "MaterialIcons"
     }
 ]
