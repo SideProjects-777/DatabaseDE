@@ -1,6 +1,38 @@
 [
     {
         "name": {
+            "en": "Night at the Museum",
+            "de": "Nacht im Museum",
+            "ru": "Ночь в музее"
+        },
+        "description": {
+            "en": "Annual cultural event",
+            "de": "Jährliches Kulturevent",
+            "ru": "Ежегодное культурное событие"
+        },
+        "level": "A2",
+        "image": "NachtMuseum.jpg",
+        "file": "NachtMuseum.mp3",
+        "words": "NachtMuseum.json",
+        "multi": "NachtMuseum.json"
+    }, {
+        "name": {
+            "en": "Movie Night",
+            "de": "Filmnacht",
+            "ru": "Ночь фильмов"
+        },
+        "description": {
+            "en": "Cinema Choices",
+            "de": "Kinowahl",
+            "ru": "Выбор кинотеатра"
+        },
+        "level": "A2",
+        "image": "Kinowahl.jpg",
+        "file": "Kinowahl.mp3",
+        "words": "Kinowahl.json",
+        "multi": "Kinowahl.json"
+    }, {
+        "name": {
             "en": "Amelia's Journey",
             "de": "Amelias Reise",
             "ru": "Путешествие Амелии"
