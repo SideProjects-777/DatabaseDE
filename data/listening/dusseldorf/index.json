@@ -223,5 +223,21 @@
         "file": "Bilk.mp3",
         "words": "Bilk.json",
         "yesNo": "Bilk.json"
+    }, {
+        "name": {
+            "en": "Allure",
+            "de": "Der Reiz",
+            "ru": "Привлекательность"
+        },
+        "description": {
+            "en": "Unveiling a new home",
+            "de": "Enthüllung eines neuen Zuhauses",
+            "ru": "Раскрытие нового дома"
+        },
+        "level": "B2",
+        "image": "Allure.jpg",
+        "file": "Allure.mp3",
+        "words": "Allure.json",
+        "yesNo": "Allure.json"
     }
 ]
