@@ -84,5 +84,23 @@
         "amountOfStories": 10,
         "active": true,
         "hasVideo": true
+    }, {
+        "name": {
+            "de": "Mosel",
+            "en": "Moselle",
+            "ru": "Мозель"
+        },
+        "folder": "mosel",
+        "description": {
+            "de": "Ein Weinbaugebiet",
+            "en": "A wine region",
+            "ru": "Винодельческий регион"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/mozelREAD.mp4",
+        "amountOfStories": 1,
+        "active": true,
+        "hasVideo": true
     }
+
 ]
