@@ -1,0 +1,150 @@
+[
+    {
+        "de": "das Kino",
+        "en": "cinema",
+        "ru": "кинотеатр",
+        "descriptionEN": "a theater where movies are shown for public entertainment",
+        "descriptionRU": "театр, где показывают фильмы для общественного развлечения",
+        "descriptionDE": "Ein Theater, in dem Filme zur öffentlichen Unterhaltung gezeigt werden."
+    }, {
+        "de": "der Bruder",
+        "en": "brother",
+        "ru": "брат",
+        "descriptionEN": "a male sibling",
+        "descriptionRU": "мужской родственник по отцовской или материнской линии",
+        "descriptionDE": "Ein männliches Geschwisterkind."
+    }, {
+        "de": "die Karte",
+        "en": "ticket",
+        "ru": "билет",
+        "descriptionEN": "a piece of paper or small card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event",
+        "descriptionRU": "листок бумаги или маленькая карточка, дающая держателю определенное право, особенно на вход в место, поездку на общественном транспорте или участие в событии",
+        "descriptionDE": "Ein Stück Papier oder eine kleine Karte, die dem Inhaber bestimmte Rechte einräumt, insbesondere den Eintritt an einen Ort, die Nutzung öffentlicher Verkehrsmittel oder die Teilnahme an einer Veranstaltung."
+    }, {
+        "de": "der Anfang",
+        "en": "beginning",
+        "ru": "начало",
+        "descriptionEN": "the point in time or space at which something starts",
+        "descriptionRU": "точка во времени или пространстве, с которой начинается что-то",
+        "descriptionDE": "Der Zeitpunkt oder der Ort, an dem etwas beginnt."
+    }, {
+        "de": "die Leinwand",
+        "en": "screen",
+        "ru": "экран",
+        "descriptionEN": "a flat surface onto which pictures or words are projected for viewing",
+        "descriptionRU": "плоская поверхность, на которую проецируются изображения или слова для просмотра",
+        "descriptionDE": "Eine flache Oberfläche, auf die Bilder oder Wörter zur Ansicht projiziert werden."
+    }, {
+        "de": "die Plätze",
+        "en": "seats",
+        "ru": "места",
+        "descriptionEN": "the area occupied by something, especially in the case of seating",
+        "descriptionRU": "область, занимаемая чем-то, особенно в случае мест для сидения",
+        "descriptionDE": "Der Bereich, der von etwas eingenommen wird, insbesondere bei Sitzgelegenheiten."
+    }, {
+        "de": "das Bier",
+        "en": "beer",
+        "ru": "пиво",
+        "descriptionEN": "an alcoholic drink made from yeast-fermented malt flavored with hops",
+        "descriptionRU": "алкогольный напиток, изготовленный из дрожжевого брожения солода с добавлением хмеля",
+        "descriptionDE": "Ein alkoholisches Getränk aus hefevergorenem Malz, aromatisiert mit Hopfen."
+    }, {
+        "de": "der Dunkle",
+        "en": "dark",
+        "ru": "темный",
+        "descriptionEN": "having very little or no light",
+        "descriptionRU": "имеющий очень мало или совсем нет света",
+        "descriptionDE": "Mit sehr wenig oder keinem Licht versehen."
+    }, {
+        "de": "der Gute",
+        "en": "good",
+        "ru": "хороший",
+        "descriptionEN": "of high quality or an acceptable standard",
+        "descriptionRU": "высокого качества или приемлемого стандарта",
+        "descriptionDE": "Von hoher Qualität oder einem akzeptablen Standard."
+    }, {
+        "de": "der Geduldige",
+        "en": "patient",
+        "ru": "терпеливый",
+        "descriptionEN": "able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious",
+        "descriptionRU": "способный принимать или терпеть задержки, проблемы или страдания, не раздражаясь или не беспокоясь",
+        "descriptionDE": "Fähig, Verzögerungen, Probleme oder Leiden zu akzeptieren oder zu tolerieren, ohne genervt oder ängstlich zu werden."
+    }, {
+        "de": "erschwinglich",
+        "en": "affordable",
+        "ru": "доступный",
+        "descriptionEN": "not too expensive; within one's financial means",
+        "descriptionRU": "не слишком дорогой; в пределах финансовых возможностей",
+        "descriptionDE": "Nicht zu teuer; im finanziellen Rahmen einer Person."
+    }, {
+        "de": "klassisch",
+        "en": "classic",
+        "ru": "классический",
+        "descriptionEN": "judged over a period of time to be of the highest quality and outstanding of its kind",
+        "descriptionRU": "признанный в течение определенного времени высшего качества и выдающийся своего рода",
+        "descriptionDE": "Über einen Zeitraum hinweg als von höchster Qualität und herausragend in seiner Art beurteilt."
+    }, {
+        "de": "hochmodern",
+        "en": "hochmodern",
+        "ru": "современный",
+        "descriptionEN": "of the newest design or style",
+        "descriptionRU": "новейшего дизайна или стиля",
+        "descriptionDE": "Von neuestem Design oder Stil."
+    }, {
+        "de": "bequem",
+        "en": "comfortable",
+        "ru": "удобный",
+        "descriptionEN": "providing physical ease and relaxation",
+        "descriptionRU": "обеспечивающий физическое удобство и расслабление",
+        "descriptionDE": "Bietet körperliche Leichtigkeit und Entspannung."
+    }, {
+        "de": "ungeduldig",
+        "en": "impatient",
+        "ru": "нетерпеливый",
+        "descriptionEN": "having or showing a tendency to be quickly irritated or provoked",
+        "descriptionRU": "имеющий или проявляющий склонность к быстрому раздражению или провокации",
+        "descriptionDE": "Zeigt eine Tendenz, schnell gereizt oder provoziert zu werden."
+    }, {
+        "de": "rechtzeitig",
+        "en": "in time",
+        "ru": "вовремя",
+        "descriptionEN": "at the correct or appropriate time",
+        "descriptionRU": "в правильное или подходящее время",
+        "descriptionDE": "Zur richtigen oder angemessenen Zeit."
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "взволнованный",
+        "descriptionEN": "very enthusiastic and eager",
+        "descriptionRU": "очень восторженный и нетерпеливый",
+        "descriptionDE": "Sehr begeistert und eifrig."
+    }, {
+        "de": "gebannt",
+        "en": "spellbound",
+        "ru": "плененный",
+        "descriptionEN": "giving all of one's attention and interest to someone or something",
+        "descriptionRU": "уделяющий всю свою внимательность и интерес кому-то или чему-то",
+        "descriptionDE": "Gibt seine gesamte Aufmerksamkeit und Interesse jemandem oder etwas."
+    }, {
+        "de": "rechts",
+        "en": "right",
+        "ru": "правильно",
+        "descriptionEN": "in a correct manner",
+        "descriptionRU": "правильно",
+        "descriptionDE": "Auf korrekte Weise."
+    }, {
+        "de": "liebling",
+        "en": "favorite",
+        "ru": "любимый",
+        "descriptionEN": "preferred before all others of the same kind",
+        "descriptionRU": "предпочитается перед всеми другими такого же рода",
+        "descriptionDE": "Bevorzugt vor allen anderen gleicher Art."
+    }, {
+        "de": "zum Glück",
+        "en": "fortunately",
+        "ru": "к счастью",
+        "descriptionEN": "used to express relief or gratitude that a dangerous or unpleasant event has not happened or is no longer happening",
+        "descriptionRU": "используется для выражения облегчения или благодарности за то, что опасное или неприятное событие не произошло или больше не происходит",
+        "descriptionDE": "Wird verwendet, um Erleichterung oder Dankbarkeit auszudrücken, dass ein gefährliches oder unangenehmes Ereignis nicht eingetreten ist oder nicht mehr stattfindet."
+    }
+]

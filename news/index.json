@@ -1,24 +1,6 @@
 [
     {
         "name": {
-            "en": "Simple city - A Chef's Day \u266C ",
-            "ru": "Просто город - День шеф-повара \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Simple city - Daniel's Struggle \u270D ",
-            "ru": "Просто город - Борьба Даниэля \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Simple city - Weather \u270D ",
-            "ru": "Просто город - Wetter \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
             "en": "Dusseldorf - The Vampire \u270D",
             "ru": "Дюссельдорф - Вампир \u270D",
             "de": null
@@ -33,6 +15,24 @@
         "name": {
             "en": "Koblenz - Badminton game \u266C",
             "ru": "Кобленц - Игра в бадминтон \u266C",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Dusseldorf - Night at the Museum \u266C",
+            "ru": "Дюссельдорф - Ночь в музее \u266C",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Dusseldorf - Movie Night \u266C",
+            "ru": "Дюссельдорф - Ночь фильмов \u266C",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Dusseldorf - Allure \u266C",
+            "ru": "Дюссельдорф - Привлекательность \u266C",
             "de": null
         }
     }
