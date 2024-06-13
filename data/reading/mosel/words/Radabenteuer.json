@@ -1,0 +1,164 @@
+[
+    {
+        "de": "der Geschichtsstudent",
+        "en": "history student",
+        "ru": "студент истории",
+        "descriptionEN": "A student who studies history as their academic subject.",
+        "descriptionRU": "Студент, который изучает историю в качестве учебного предмета.",
+        "descriptionDE": "Ein Student, der Geschichte als akademisches Fach studiert."
+    }, {
+        "de": "der Radfahrer",
+        "en": "cyclist",
+        "ru": "велосипедист",
+        "descriptionEN": "A person who rides a bicycle.",
+        "descriptionRU": "Человек, который ездит на велосипеде.",
+        "descriptionDE": "Eine Person, die Fahrrad fährt."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "The visible features of an area of land.",
+        "descriptionRU": "Видимые особенности участка земли.",
+        "descriptionDE": "Die sichtbaren Merkmale eines Landstrichs."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "The study of past events.",
+        "descriptionRU": "Изучение прошлых событий.",
+        "descriptionDE": "Das Studium vergangener Ereignisse."
+    }, {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+        "descriptionRU": "Большой природный поток воды, текущий в канале к морю, озеру или другой реке.",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt."
+    }, {
+        "de": "das Dorf",
+        "en": "village",
+        "ru": "деревня",
+        "descriptionEN": "A small settlement typically found in a rural area.",
+        "descriptionRU": "Небольшое поселение, обычно находящееся в сельской местности.",
+        "descriptionDE": "Eine kleine Siedlung, die sich typischerweise in einer ländlichen Gegend befindet."
+    }, {
+        "de": "die Reise",
+        "en": "journey",
+        "ru": "путешествие",
+        "descriptionEN": "An act of traveling from one place to another.",
+        "descriptionRU": "Акт путешествия из одного места в другое.",
+        "descriptionDE": "Ein Akt des Reisens von einem Ort zum anderen."
+    }, {
+        "de": "das Ziel",
+        "en": "goal",
+        "ru": "цель",
+        "descriptionEN": "The object of a person's ambition or effort.",
+        "descriptionRU": "Объект стремления или усилий человека.",
+        "descriptionDE": "Das Objekt des Strebens oder der Bemühungen einer Person."
+    }, {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "A plantation of grapevines, typically producing grapes for winemaking.",
+        "descriptionRU": "Плантация виноградных лоз, обычно для производства винограда для виноделия.",
+        "descriptionDE": "Eine Anpflanzung von Weinreben, die typischerweise Trauben für die Weinherstellung produziert."
+    }, {
+        "de": "die Gastfreundschaft",
+        "en": "hospitality",
+        "ru": "гостеприимство",
+        "descriptionEN": "The friendly and generous reception and entertainment of guests.",
+        "descriptionRU": "Дружелюбный и щедрый прием и развлечение гостей.",
+        "descriptionDE": "Der freundliche und großzügige Empfang und die Unterhaltung von Gästen."
+    }, {
+        "de": "das Café",
+        "en": "café",
+        "ru": "кафе",
+        "descriptionEN": "A small restaurant selling light meals and drinks.",
+        "descriptionRU": "Небольшой ресторан, продающий легкие блюда и напитки.",
+        "descriptionDE": "Ein kleines Restaurant, das leichte Mahlzeiten und Getränke verkauft."
+    }, {
+        "de": "radeln",
+        "en": "to cycle",
+        "ru": "кататься на велосипеде",
+        "descriptionEN": "To ride a bicycle.",
+        "descriptionRU": "Ехать на велосипеде.",
+        "descriptionDE": "Mit dem Fahrrad fahren."
+    }, {
+        "de": "bewundern",
+        "en": "to admire",
+        "ru": "восхищаться",
+        "descriptionEN": "To regard with respect or warm approval.",
+        "descriptionRU": "Смотреть с уважением или теплым одобрением.",
+        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten."
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "To travel through an unfamiliar area to learn about it.",
+        "descriptionRU": "Путешествовать по незнакомой территории, чтобы узнать о ней.",
+        "descriptionDE": "Durch ein unbekanntes Gebiet reisen, um es kennenzulernen."
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посещать",
+        "descriptionEN": "To go to see and spend time with.",
+        "descriptionRU": "Идти, чтобы увидеть и провести время с.",
+        "descriptionDE": "Gehen, um zu sehen und Zeit zu verbringen mit."
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "обнаружить",
+        "descriptionEN": "To find something unexpectedly or during a search.",
+        "descriptionRU": "Найти что-то неожиданно или во время поиска.",
+        "descriptionDE": "Etwas unerwartet finden oder während einer Suche entdecken."
+    }, {
+        "de": "malerisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
+        "descriptionRU": "Визуально привлекательный, особенно в причудливой или очаровательной манере.",
+        "descriptionDE": "Optisch ansprechend, besonders auf eine malerische oder charmante Weise."
+    }, {
+        "de": "bezaubernd",
+        "en": "enchanting",
+        "ru": "очаровательный",
+        "descriptionEN": "Delightfully charming or attractive.",
+        "descriptionRU": "Восхитительно очаровательный или привлекательный.",
+        "descriptionDE": "Entzückend charmant oder attraktiv."
+    }, {
+        "de": "ruhig",
+        "en": "quiet",
+        "ru": "тихий",
+        "descriptionEN": "Making little or no noise.",
+        "descriptionRU": "Производящий мало шума или вообще без шума.",
+        "descriptionDE": "Wenig oder keinen Lärm machen."
+    }, {
+        "de": "historisch",
+        "en": "historic",
+        "ru": "исторический",
+        "descriptionEN": "Famous or important in history.",
+        "descriptionRU": "Известный или важный в истории.",
+        "descriptionDE": "Berühmt oder bedeutend in der Geschichte."
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "Existing in or as part of a tradition; long-established.",
+        "descriptionRU": "Существующий как часть традиции; давний.",
+        "descriptionDE": "Als Teil einer Tradition existierend; langjährig etabliert."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "знаменитый",
+        "descriptionEN": "Known about by many people.",
+        "descriptionRU": "Известный многим людям.",
+        "descriptionDE": "Von vielen Menschen gekannt."
+    }, {
+        "de": "die Festung",
+        "en": "fortress",
+        "ru": "крепость",
+        "descriptionEN": "A military stronghold, especially a strongly fortified town.",
+        "descriptionRU": "Военная крепость, особенно сильно укрепленный город.",
+        "descriptionDE": "Ein militärischer Stützpunkt, besonders eine stark befestigte Stadt."
+    }
+]

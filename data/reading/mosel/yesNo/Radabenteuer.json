@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Max begann seine Radtour in Koblenz.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "In Winningen probierte Max verschiedene Sorten von Käse.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max besuchte die Burg Thurant in Alken.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Oberfell ist bekannt für seine lebhaften und geschäftigen Straßen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max machte einen Abstecher zur Burg Eltz, die sich in der Nähe von Löf befindet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "In Hatzenport besuchte Max die Johanniskirche.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Max' Radtour endete in Cochem.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In Koblenz besuchte Max das Deutsche Eck.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Max verbrachte die Nacht in Oberfell.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max plante, bis nach Luxemburg zu fahren.",
+        "tr": true,
+        "fle": false
+    }
+]
