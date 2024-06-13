@@ -129,9 +129,9 @@
         "multi": "Symphony.json"
     }, {
         "name": {
-            "en": "Düsseldorf Neighborhoods",
-            "de": "Düsseldorfer Viertel",
-            "ru": "Кварталы Дюссельдорфа"
+            "en": "Neighborhoods I",
+            "de": "Viertel I",
+            "ru": "Кварталы I"
         },
         "description": {
             "en": "Old Town & Oberkassel",
@@ -198,9 +198,9 @@
             "ru": "Японский день"
         },
         "description": {
-            "en": "Celebration of Japanese culture",
-            "de": "Feier der japanischen Kultur",
-            "ru": "Празднование японской культуры"
+            "en": "Celebration of culture",
+            "de": "Feier der Kultur",
+            "ru": "Празднование культуры"
         },
         "level": "B2",
         "image": "JapanDay.jpg",
@@ -209,9 +209,9 @@
         "multi": "JapanDay.json"
     }, {
         "name": {
-            "en": "Düsseldorf Neighborhoods III",
-            "de": "Düsseldorfer Viertel III",
-            "ru": "Кварталы Дюссельдорфа III"
+            "en": "Neighborhoods III",
+            "de": "Viertel III",
+            "ru": "Кварталы III"
         },
         "description": {
             "en": "Bilk & Oberbilk & Unterbilk",

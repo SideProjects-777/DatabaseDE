@@ -38,9 +38,9 @@
             "ru": "Дилемма отпуска"
         },
         "description": {
-            "en": "Choosing Dusseldorf",
-            "de": "Düsseldorf wählen",
-            "ru": "Выбор Дюссельдорфа"
+            "en": "Where to travel?",
+            "de": "Wohin soll man reisen?",
+            "ru": "Куда поехать?"
         },
         "level": "A2",
         "image": "Urlaubsdilemma.jpg",
@@ -145,9 +145,9 @@
         "yesNo": "Elegance.json"
     }, {
         "name": {
-            "en": "Düsseldorf Neighborhoods IV",
-            "de": "Düsseldorfer Stadtteile IV",
-            "ru": "Районы Дюссельдорфа IV"
+            "en": "Neighborhoods IV",
+            "de": "Stadtteile IV",
+            "ru": "Районы IV"
         },
         "description": {
             "en": "Derendorf & Kaiserswerth",
@@ -166,9 +166,9 @@
             "ru": "Башня Рейна"
         },
         "description": {
-            "en": "Iconic landmark in Düsseldorf",
-            "de": "Ikonisches Wahrzeichen in Düsseldorf",
-            "ru": "Иконический памятник в Дюссельдорфе"
+            "en": "Iconic landmark",
+            "de": "Ikonisches Wahrzeichen",
+            "ru": "Иконический памятник"
         },
         "level": "B2",
         "image": "Rheinturm.jpg",
@@ -182,9 +182,9 @@
             "ru": "Опыт Японского Дня"
         },
         "description": {
-            "en": "Culinary adventure in Japan",
-            "de": "Kulinarisches Abenteuer in Japan",
-            "ru": "Кулинарное приключение в Японии"
+            "en": "Culinary adventure",
+            "de": "Kulinarisches Abenteuer",
+            "ru": "Кулинарное приключение"
         },
         "level": "B2",
         "image": "JapanDay.jpg",
