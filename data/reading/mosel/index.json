@@ -1,0 +1,18 @@
+[{
+    "name": {
+        "en": "Bike Adventure",
+        "de": "Radabenteuer",
+        "ru": "Приключение на велосипеде"
+    },
+    "description": {
+        "en": "Scenic villages",
+        "de": "Malerische Dörfer",
+        "ru": "Живописные деревни"
+    },
+        "level": "B1",
+        "image": "Radabenteuer.jpg",
+        "file": "Radabenteuer.txt",
+        "words": "Radabenteuer.json",
+        "yesNo": "Radabenteuer.json"
+    }
+]
