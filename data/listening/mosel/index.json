@@ -1,1 +1,18 @@
-[]
+[{
+        "name": {
+            "en": "Highlights",
+            "de": "Höhepunkte",
+            "ru": "Основные моменты"
+        },
+        "description": {
+            "en": "Wine, Castles, Scenic Views",
+            "de": "Wein, Burgen, Landschaftliche Ansichten",
+            "ru": "Вино, Замки, Живописные виды"
+        },
+        "level": "A2",
+        "image": "Highlights.jpg",
+        "file": "Highlights.mp3",
+        "words": "Highlights.json",
+        "yesNo": "Highlights.json"
+    }
+]
