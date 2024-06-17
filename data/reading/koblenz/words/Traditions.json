@@ -1,0 +1,178 @@
+[
+    {
+        "de": "der Samstagabend",
+        "en": "Saturday evening",
+        "ru": "субботний вечер",
+        "descriptionEN": "The evening of Saturday, often a time for social activities.",
+        "descriptionRU": "Вечер субботы, часто время для общественных мероприятий.",
+        "descriptionDE": "Der Abend des Samstags, oft eine Zeit für soziale Aktivitäten."
+    }, {
+        "de": "die Lieblingsmannschaft",
+        "en": "favorite team",
+        "ru": "любимая команда",
+        "descriptionEN": "The sports team that one supports or likes the most.",
+        "descriptionRU": "Спортивная команда, за которую кто-то болеет или которую больше всего любит.",
+        "descriptionDE": "Die Sportmannschaft, die man am meisten unterstützt oder mag."
+    }, {
+        "de": "der Aufstieg",
+        "en": "promotion",
+        "ru": "повышение",
+        "descriptionEN": "The act of moving up to a higher league or division in sports.",
+        "descriptionRU": "Действие перехода в высшую лигу или дивизион в спорте.",
+        "descriptionDE": "Der Aufstieg in eine höhere Liga oder Division im Sport."
+    }, {
+        "de": "der Trainer",
+        "en": "coach",
+        "ru": "тренер",
+        "descriptionEN": "A person who trains and instructs athletes or sports teams.",
+        "descriptionRU": "Человек, который тренирует и инструктирует спортсменов или спортивные команды.",
+        "descriptionDE": "Eine Person, die Sportler oder Mannschaften trainiert und anleitet."
+    }, {
+        "de": "der Spieler",
+        "en": "player",
+        "ru": "игрок",
+        "descriptionEN": "A person who takes part in a sport or game.",
+        "descriptionRU": "Человек, который участвует в спорте или игре.",
+        "descriptionDE": "Eine Person, die an einem Sport oder Spiel teilnimmt."
+    }, {
+        "de": "das Wetter",
+        "en": "weather",
+        "ru": "погода",
+        "descriptionEN": "The atmospheric conditions at a particular place and time.",
+        "descriptionRU": "Атмосферные условия в определенном месте и времени.",
+        "descriptionDE": "Die atmosphärischen Bedingungen an einem bestimmten Ort und zu einer bestimmten Zeit."
+    }, {
+        "de": "die Verletzung",
+        "en": "injury",
+        "ru": "травма",
+        "descriptionEN": "Damage to the body caused by an external force.",
+        "descriptionRU": "Повреждение тела, вызванное внешним воздействием.",
+        "descriptionDE": "Schaden am Körper, verursacht durch eine äußere Kraft."
+    }, {
+        "de": "der Schiedsrichter",
+        "en": "referee",
+        "ru": "судья",
+        "descriptionEN": "An official who watches a game or match closely to ensure the rules are adhered to.",
+        "descriptionRU": "Официальное лицо, которое внимательно следит за игрой или матчем, чтобы обеспечить соблюдение правил.",
+        "descriptionDE": "Ein Offizieller, der ein Spiel oder einen Wettkampf genau beobachtet, um sicherzustellen, dass die Regeln eingehalten werden."
+    }, {
+        "de": "das Glück",
+        "en": "luck",
+        "ru": "удача",
+        "descriptionEN": "Success or failure apparently brought by chance rather than through one's own actions.",
+        "descriptionRU": "Успех или неудача, вызванные случайностью, а не собственными действиями.",
+        "descriptionDE": "Erfolg oder Misserfolg, der anscheinend durch Zufall und nicht durch eigene Handlungen verursacht wird."
+    }, {
+        "de": "die Freundschaft",
+        "en": "friendship",
+        "ru": "дружба",
+        "descriptionEN": "A close and supportive relationship between two or more people.",
+        "descriptionRU": "Близкие и поддерживающие отношения между двумя или более людьми.",
+        "descriptionDE": "Eine enge und unterstützende Beziehung zwischen zwei oder mehr Menschen."
+    }, {
+        "de": "das Bier",
+        "en": "beer",
+        "ru": "пиво",
+        "descriptionEN": "An alcoholic drink made from yeast-fermented malt flavored with hops.",
+        "descriptionRU": "Алкогольный напиток, приготовленный из ферментированного солода, приправленного хмелем.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus mit Hefe vergorenem Malz und Hopfen hergestellt wird."
+    }, {
+        "de": "die Saison",
+        "en": "season",
+        "ru": "сезон",
+        "descriptionEN": "A period of the year characterized by particular conditions or activities, especially in sports.",
+        "descriptionRU": "Период года, характеризующийся определенными условиями или видами деятельности, особенно в спорте.",
+        "descriptionDE": "Ein Zeitraum des Jahres, der durch bestimmte Bedingungen oder Aktivitäten, besonders im Sport, gekennzeichnet ist."
+    }, {
+        "de": "freuen",
+        "en": "to look forward to",
+        "ru": "ожидать с нетерпением",
+        "descriptionEN": "To feel happy anticipation for something that is going to happen.",
+        "descriptionRU": "Чувствовать счастливое ожидание чего-то, что должно произойти.",
+        "descriptionDE": "Sich auf etwas freuen, das geschehen wird."
+    }, {
+        "de": "spielen",
+        "en": "to play",
+        "ru": "играть",
+        "descriptionEN": "To engage in an activity for enjoyment and recreation rather than a serious or practical purpose.",
+        "descriptionRU": "Заниматься деятельностью для удовольствия и отдыха, а не с серьезной или практической целью.",
+        "descriptionDE": "Eine Tätigkeit zum Vergnügen und zur Erholung ausüben, ohne ernsten oder praktischen Zweck."
+    }, {
+        "de": "lernen",
+        "en": "to learn",
+        "ru": "учиться",
+        "descriptionEN": "To acquire knowledge or skills through study, experience, or teaching.",
+        "descriptionRU": "Приобретать знания или навыки через учёбу, опыт или обучение.",
+        "descriptionDE": "Wissen oder Fähigkeiten durch Studium, Erfahrung oder Unterricht erwerben."
+    }, {
+        "de": "umarmen",
+        "en": "to hug",
+        "ru": "обнимать",
+        "descriptionEN": "To hold someone closely in one's arms, especially as a sign of affection.",
+        "descriptionRU": "Держать кого-то близко в своих объятиях, особенно как знак привязанности.",
+        "descriptionDE": "Jemanden eng in die Arme nehmen, besonders als Zeichen der Zuneigung."
+    }, {
+        "de": "verfolgen",
+        "en": "to follow",
+        "ru": "следовать",
+        "descriptionEN": "To observe or monitor the progress of someone or something.",
+        "descriptionRU": "Наблюдать или следить за прогрессом кого-то или чего-то.",
+        "descriptionDE": "Den Fortschritt von jemandem oder etwas beobachten oder überwachen."
+    }, {
+        "de": "begrüßen",
+        "en": "to welcome",
+        "ru": "приветствовать",
+        "descriptionEN": "To greet someone in a friendly way.",
+        "descriptionRU": "Приветствовать кого-то дружелюбно.",
+        "descriptionDE": "Jemanden auf freundliche Weise grüßen."
+    }, {
+        "de": "neue",
+        "en": "new",
+        "ru": "новый",
+        "descriptionEN": "Not existing before; made, introduced, or discovered recently.",
+        "descriptionRU": "Не существовавший раньше; сделанный, введенный или обнаруженный недавно.",
+        "descriptionDE": "Vorher nicht vorhanden; neu gemacht, eingeführt oder entdeckt."
+    }, {
+        "de": "unberechenbar",
+        "en": "unpredictable",
+        "ru": "непредсказуемый",
+        "descriptionEN": "Not able to be predicted; changeable.",
+        "descriptionRU": "Невозможно предсказать; изменчивый.",
+        "descriptionDE": "Nicht vorhersagbar; wechselhaft."
+    }, {
+        "de": "wichtig",
+        "en": "important",
+        "ru": "важный",
+        "descriptionEN": "Of great significance or value.",
+        "descriptionRU": "Имеющий большое значение или ценность.",
+        "descriptionDE": "Von großer Bedeutung oder Wert."
+    }, {
+        "de": "vertraut",
+        "en": "familiar",
+        "ru": "знакомый",
+        "descriptionEN": "Well known from long or close association.",
+        "descriptionRU": "Хорошо известный из-за долгого или близкого общения.",
+        "descriptionDE": "Durch lange oder enge Verbindung gut bekannt."
+    }, {
+        "de": "zusammen",
+        "en": "together",
+        "ru": "вместе",
+        "descriptionEN": "With or in proximity to another person or people.",
+        "descriptionRU": "С или вблизи другого человека или людей.",
+        "descriptionDE": "Mit oder in der Nähe von einer anderen Person oder Personen."
+    }, {
+        "de": "kurz",
+        "en": "short",
+        "ru": "короткий",
+        "descriptionEN": "Measuring a small distance from end to end.",
+        "descriptionRU": "Измерение небольшого расстояния от конца до конца.",
+        "descriptionDE": "Eine kleine Distanz von Ende zu Ende messen."
+    }, {
+        "de": "jung",
+        "en": "young",
+        "ru": "молодой",
+        "descriptionEN": "Having lived or existed for only a short time.",
+        "descriptionRU": "Живущий или существующий всего короткое время.",
+        "descriptionDE": "Erst kurze Zeit lebend oder existierend."
+    }
+]

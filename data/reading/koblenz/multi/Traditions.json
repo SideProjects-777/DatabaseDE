@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Auf welches Ereignis freuen sich Hermann und Bronn die ganze Woche?",
+        "answers": [
+            {
+                "text": "Eine Hochzeit",
+                "correct": false
+            }, {
+                "text": "Ein Konzert",
+                "correct": false
+            }, {
+                "text": "Ein wichtiges Fußballspiel",
+                "correct": true
+            }, {
+                "text": "Ein Theaterstück",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Mannschaft ist die Lieblingsmannschaft von Hermann und Bronn?",
+        "answers": [
+            {
+                "text": "FC Bayern München",
+                "correct": false
+            }, {
+                "text": "Borussia Dortmund",
+                "correct": false
+            }, {
+                "text": "TuS Koblenz",
+                "correct": true
+            }, {
+                "text": "Eintracht Frankfurt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welcher Liga spielt TuS Koblenz?",
+        "answers": [
+            {
+                "text": "Bundesliga",
+                "correct": false
+            }, {
+                "text": "Regionalliga Südwest",
+                "correct": true
+            }, {
+                "text": "2. Bundesliga",
+                "correct": false
+            }, {
+                "text": "Oberliga",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie lange verfolgen Hermann und Bronn gemeinsam die Spiele der TuS Koblenz?",
+        "answers": [
+            {
+                "text": "Seit einem Jahr",
+                "correct": false
+            }, {
+                "text": "Seit fünf Jahren",
+                "correct": false
+            }, {
+                "text": "Seit fast einem Jahrzehnt",
+                "correct": true
+            }, {
+                "text": "Seit zwei Jahrzehnten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo werden Hermann und Bronn das Spiel diese Woche sehen?",
+        "answers": [
+            {
+                "text": "Im Stadion",
+                "correct": false
+            }, {
+                "text": "Bei Bronn zu Hause",
+                "correct": true
+            }, {
+                "text": "Bei Hermann zu Hause",
+                "correct": false
+            }, {
+                "text": "In einer Sportsbar",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche neuen Elemente hat TuS Koblenz?",
+        "answers": [
+            {
+                "text": "Ein neuer Trainer und viele neue, junge und talentierte Spieler",
+                "correct": true
+            }, {
+                "text": "Ein neues Stadion",
+                "correct": false
+            }, {
+                "text": "Ein neues Maskottchen",
+                "correct": false
+            }, {
+                "text": "Neue Vereinsfarben",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Aktivitäten werden Hermann und Bronn vor dem Spiel machen?",
+        "answers": [
+            {
+                "text": "Bier trinken und Würstchen essen",
+                "correct": true
+            }, {
+                "text": "Eine Fahrradtour",
+                "correct": false
+            }, {
+                "text": "Einen Spaziergang",
+                "correct": false
+            }, {
+                "text": "Ins Kino gehen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was tragen Hermann und Bronn manchmal zu den Spielen?",
+        "answers": [
+            {
+                "text": "Ihre TuS-Koblenz-Uniform",
+                "correct": true
+            }, {
+                "text": "Ein Kostüm",
+                "correct": false
+            }, {
+                "text": "Ihre Arbeitsschuhe",
+                "correct": false
+            }, {
+                "text": "Einen Hut",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer hat die Firma vor einigen Jahren verlassen?",
+        "answers": [
+            {
+                "text": "Hermann",
+                "correct": true
+            }, {
+                "text": "Bronn",
+                "correct": false
+            }, {
+                "text": "Beide",
+                "correct": false
+            }, {
+                "text": "Keiner von beiden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum gehen Hermanns und Bronns Söhne lieber mit ihren Freunden aus?",
+        "answers": [
+            {
+                "text": "Weil sie in der Oberstufe sind",
+                "correct": true
+            }, {
+                "text": "Weil sie keine Fußballfans sind",
+                "correct": false
+            }, {
+                "text": "Weil sie umgezogen sind",
+                "correct": false
+            }, {
+                "text": "Weil sie keine Zeit haben",
+                "correct": false
+            }
+        ]
+    }
+]

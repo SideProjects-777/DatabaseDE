@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Mosel mündet bei Koblenz in die Elbe.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Mosel ist für ihre Rieslingweine bekannt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Moseltal hat viele mittelalterliche Burgen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Cochem und Trier sind beliebte Ausflugsziele an der Mosel.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Moselweinfest findet in Berlin statt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Mosel fließt nur durch Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Mosel wird in Frankreich und Luxemburg auch Moselle genannt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Reichsburg Cochem ist eine moderne Burg im Moseltal.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Moseltal ist für seine schöne Landschaft bekannt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Touristen lieben das Moseltal wegen seiner industriellen Gebiete.",
+        "tr": false,
+        "fle": true
+    }
+]

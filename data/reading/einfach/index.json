@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Career Decision",
+            "de": "Karriereentscheidung",
+            "ru": "Решение о карьере"
+        },
+        "description": {
+            "en": "Between two job offers",
+            "de": "Zwischen zwei Jobangeboten",
+            "ru": "Между двумя вакансиями"
+        },
+        "level": "A2",
+        "image": "Jobangeboten.jpg",
+        "file": "Jobangeboten.txt",
+        "words": "Jobangeboten.json",
+        "multi": "Jobangeboten.json"
+    }, {
+        "name": {
             "en": "Weather",
             "de": "Wetter",
             "ru": "Погода"

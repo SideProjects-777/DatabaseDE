@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Sophie's Move",
+            "de": "Sophies Umzug",
+            "ru": "Переезд Софи"
+        },
+        "description": {
+            "en": "New Beginnings",
+            "de": "Neuanfänge",
+            "ru": "Новые Начала"
+        },
+        "level": "A2",
+        "image": "Sophie.png",
+        "file": "Sophie.mp3",
+        "words": "Sophie.json",
+        "multi": "Sophie.json"
+    }, {
+        "name": {
             "en": "A Chef's Day",
             "de": "Ein Tag eines Kochs",
             "ru": "День шеф-повара"

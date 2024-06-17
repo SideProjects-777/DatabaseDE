@@ -1,0 +1,157 @@
+[
+    {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+        "descriptionRU": "Большой естественный поток воды, текущий в канале к морю, озеру или другой реке.",
+        "descriptionDE": "Ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, See oder einem anderen Fluss fließt."
+    }, {
+        "de": "der Wein",
+        "en": "wine",
+        "ru": "вино",
+        "descriptionEN": "An alcoholic drink made from fermented grape juice.",
+        "descriptionRU": "Алкогольный напиток, приготовленный из ферментированного виноградного сока.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentiertem Traubensaft hergestellt wird."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "All the visible features of an area of land, often considered in terms of their aesthetic appeal.",
+        "descriptionRU": "Все видимые черты области земли, часто рассматриваемые с точки зрения их эстетической привлекательности.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landgebiets, oft in Bezug auf ihre ästhetische Anziehungskraft betrachtet."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "A large town or a significant urban area.",
+        "descriptionRU": "Большой город или значительная городская территория.",
+        "descriptionDE": "Eine große Stadt oder ein bedeutendes städtisches Gebiet."
+    }, {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "A large building typically of the medieval period, fortified against attack.",
+        "descriptionRU": "Большое здание, типичное для средневековья, укрепленное против нападения.",
+        "descriptionDE": "Ein großes Gebäude, typischerweise aus dem Mittelalter, das gegen Angriffe befestigt ist."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "The study of past events, particularly in human affairs.",
+        "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "Das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "das Weinfest",
+        "en": "wine festival",
+        "ru": "винный фестиваль",
+        "descriptionEN": "A festival celebrating local wines with tastings, music, and food.",
+        "descriptionRU": "Фестиваль, посвященный местным винам с дегустациями, музыкой и едой.",
+        "descriptionDE": "Ein Fest, das lokale Weine mit Verkostungen, Musik und Essen feiert."
+    }, {
+        "de": "das Tal",
+        "en": "valley",
+        "ru": "долина",
+        "descriptionEN": "A low area of land between hills or mountains, typically with a river or stream flowing through it.",
+        "descriptionRU": "Низменная область земли между холмами или горами, обычно с текущей через нее рекой или ручьем.",
+        "descriptionDE": "Ein niedriges Landgebiet zwischen Hügeln oder Bergen, in dem typischerweise ein Fluss oder Bach fließt."
+    }, {
+        "de": "die Region",
+        "en": "region",
+        "ru": "регион",
+        "descriptionEN": "An area, especially part of a country or the world having definable characteristics but not always fixed boundaries.",
+        "descriptionRU": "Область, особенно часть страны или мира, имеющая определяемые характеристики, но не всегда фиксированные границы.",
+        "descriptionDE": "Ein Gebiet, insbesondere ein Teil eines Landes oder der Welt, das definierbare Merkmale, aber nicht immer feste Grenzen aufweist."
+    }, {
+        "de": "der Tourist",
+        "en": "tourist",
+        "ru": "турист",
+        "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
+        "descriptionRU": "Человек, который путешествует или посещает место для удовольствия.",
+        "descriptionDE": "Eine Person, die zum Vergnügen reist oder einen Ort besucht."
+    }, {
+        "de": "das Gebiet",
+        "en": "area",
+        "ru": "область",
+        "descriptionEN": "A region or part of a town, a country, or the world.",
+        "descriptionRU": "Регион или часть города, страны или мира.",
+        "descriptionDE": "Ein Gebiet oder Teil einer Stadt, eines Landes oder der Welt."
+    }, {
+        "de": "das Ereignis",
+        "en": "event",
+        "ru": "событие",
+        "descriptionEN": "A thing that happens, especially one of importance.",
+        "descriptionRU": "То, что происходит, особенно что-то важное.",
+        "descriptionDE": "Eine Sache, die passiert, insbesondere eine von Bedeutung."
+    }, {
+        "de": "lieben",
+        "en": "to love",
+        "ru": "любить",
+        "descriptionEN": "To have a deep affection for someone or something.",
+        "descriptionRU": "Иметь глубокую привязанность к кому-то или чему-то.",
+        "descriptionDE": "Eine tiefe Zuneigung zu jemandem oder etwas haben."
+    }, {
+        "de": "feiern",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "To acknowledge a significant or happy day or event with a social gathering or enjoyable activity.",
+        "descriptionRU": "Отмечать значимый или счастливый день или событие социальной встречей или приятным занятием.",
+        "descriptionDE": "Einen bedeutenden oder glücklichen Tag oder ein Ereignis mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen."
+    }, {
+        "de": "reisen",
+        "en": "to travel",
+        "ru": "путешествовать",
+        "descriptionEN": "To make a journey, typically of some length.",
+        "descriptionRU": "Совершить поездку, как правило, продолжительную.",
+        "descriptionDE": "Eine Reise machen, typischerweise von einiger Länge."
+    }, {
+        "de": "fehlen",
+        "en": "to lack",
+        "ru": "не хватать",
+        "descriptionEN": "To be without or deficient in something.",
+        "descriptionRU": "Не иметь чего-то или испытывать в чем-то недостаток.",
+        "descriptionDE": "Ohne etwas sein oder an etwas mangeln."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "знаменитый",
+        "descriptionEN": "Known about by many people.",
+        "descriptionRU": "Известный многим людям.",
+        "descriptionDE": "Von vielen Menschen bekannt."
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "Relating to the Middle Ages.",
+        "descriptionRU": "Относящийся к Средним векам.",
+        "descriptionDE": "Bezogen auf das Mittelalter."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having a great deal of money or assets.",
+        "descriptionRU": "Имеющий большое количество денег или активов.",
+        "descriptionDE": "Viel Geld oder Vermögenswerte haben."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Эстетически приятный для чувств или ума.",
+        "descriptionDE": "Die Sinne oder den Geist ästhetisch ansprechend."
+    }, {
+        "de": "historisch",
+        "en": "historic",
+        "ru": "исторический",
+        "descriptionEN": "Famous or important in history.",
+        "descriptionRU": "Знаменитый или важный в истории.",
+        "descriptionDE": "Berühmt oder wichtig in der Geschichte."
+    }, {
+        "de": "lokal",
+        "en": "local",
+        "ru": "местный",
+        "descriptionEN": "Relating to a particular area or neighborhood.",
+        "descriptionRU": "Относящийся к определенной области или району.",
+        "descriptionDE": "Bezogen auf ein bestimmtes Gebiet oder eine Nachbarschaft."
+    }
+]
