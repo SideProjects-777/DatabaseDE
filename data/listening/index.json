@@ -11,9 +11,9 @@
             "en": "City for beginners",
             "ru": "Город для новичков"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfach.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.mp4",
-        "amountOfStories": 5,
+        "amountOfStories": 6,
         "active": true,
         "hasVideo": true
     }, {
@@ -28,7 +28,7 @@
             "en": "Cathedral city",
             "ru": "Город собора"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
@@ -45,7 +45,7 @@
             "en": "The birthplace of Beethoven",
             "ru": "Родина Бетховена"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonn.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
@@ -79,7 +79,7 @@
             "en": "The confluence of the Rhine and Moselle",
             "ru": "Слияние рек Рейн и Мозель"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.mp4",
         "amountOfStories": 8,
         "active": true,
@@ -96,7 +96,7 @@
             "en": "A wine region",
             "ru": "Винодельческий регион"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/mozelLISTEN.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/mozelLISTEN.mp4",
         "amountOfStories": 1,
         "active": true,
