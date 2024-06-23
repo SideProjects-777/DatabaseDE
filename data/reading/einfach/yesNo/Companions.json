@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Anna arbeitet als Investmentbanker.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Elke und Felix studieren beide Medizin an der Charité - Universitätsmedizin Berlin.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Jonas und Tim haben sich bei einer Weinprobe kennengelernt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lena ist Drehbuchautorin fürs Fernsehen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna und Elke waren Freundinnen an der Uni in Potsdam.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Elke hat Felix eingeladen, sich im Museum zu treffen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Jonas hat Tim engagiert, um eine Website zu gestalten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Anna ist schüchtern und traditionell.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Lena hat Felix und Elke bei einer Weinprobe kennengelernt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Felix ist scheu und traditionell.",
+        "tr": false,
+        "fle": true
+    }
+]
