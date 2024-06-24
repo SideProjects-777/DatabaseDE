@@ -1,4 +1,21 @@
-[{
+[
+    {
+        "name": {
+            "en": "Discover Germany",
+            "de": "Entdecke Deutschland",
+            "ru": "Знакомство с Германией"
+        },
+        "description": {
+            "en": "City with rich heritage",
+            "de": "Stadt mit reichem Erbe",
+            "ru": "Город с богатым наследием"
+        },
+        "level": "A2",
+        "image": "Entdecke.jpg",
+        "file": "Entdecke.mp3",
+        "words": "Entdecke.json",
+        "yesNo": "Entdecke.json"
+    }, {
         "name": {
             "en": "Highlights",
             "de": "Höhepunkte",

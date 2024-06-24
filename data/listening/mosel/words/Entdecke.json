@@ -1,0 +1,178 @@
+[
+    {
+        "de": "das Erbe",
+        "en": "Heritage",
+        "ru": "Наследие",
+        "descriptionEN": "Valued objects and qualities such as cultural traditions passed down from previous generations.",
+        "descriptionRU": "Ценные объекты и качества, такие как культурные традиции, передаваемые от предыдущих поколений.",
+        "descriptionDE": "Wertvolle Objekte und Qualitäten wie kulturelle Traditionen, die von früheren Generationen weitergegeben werden."
+    }, {
+        "de": "die Geschichte",
+        "en": "History",
+        "ru": "История",
+        "descriptionEN": "The study of past events, particularly in human affairs.",
+        "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "Das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "die Kultur",
+        "en": "Culture",
+        "ru": "Культура",
+        "descriptionEN": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+        "descriptionRU": "Искусство и другие проявления человеческих интеллектуальных достижений, рассматриваемые в совокупности.",
+        "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden."
+    }, {
+        "de": "die Region",
+        "en": "Region",
+        "ru": "Регион",
+        "descriptionEN": "An area or division, especially part of a country or the world having definable characteristics.",
+        "descriptionRU": "Область или раздел, особенно часть страны или мира, имеющая определимые характеристики.",
+        "descriptionDE": "Ein Gebiet oder eine Abteilung, insbesondere ein Teil eines Landes oder der Welt mit definierbaren Merkmalen."
+    }, {
+        "de": "der Dom",
+        "en": "Cathedral",
+        "ru": "Собор",
+        "descriptionEN": "The principal church of a diocese, with which the bishop is officially associated.",
+        "descriptionRU": "Главная церковь епархии, с которой официально связан епископ.",
+        "descriptionDE": "Die Hauptkirche einer Diözese, mit der der Bischof offiziell verbunden ist."
+    }, {
+        "de": "der Wein",
+        "en": "Wine",
+        "ru": "Вино",
+        "descriptionEN": "An alcoholic drink made from fermented grape juice.",
+        "descriptionRU": "Алкогольный напиток, сделанный из ферментированного виноградного сока.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentiertem Traubensaft hergestellt wird."
+    }, {
+        "de": "der Markt",
+        "en": "Market",
+        "ru": "Рынок",
+        "descriptionEN": "A regular gathering of people for the purchase and sale of provisions, livestock, and other goods.",
+        "descriptionRU": "Регулярное собрание людей для покупки и продажи провизии, скота и других товаров.",
+        "descriptionDE": "Eine regelmäßige Versammlung von Menschen zum Kauf und Verkauf von Vorräten, Vieh und anderen Waren."
+    }, {
+        "de": "die Mosel",
+        "en": "Moselle",
+        "ru": "Мозель",
+        "descriptionEN": "A river in western Europe that rises in the Vosges Mountains and flows through France, Luxembourg, and Germany.",
+        "descriptionRU": "Река в Западной Европе, которая берет начало в Вогезах и протекает через Францию, Люксембург и Германию.",
+        "descriptionDE": "Ein Fluss in Westeuropa, der in den Vogesen entspringt und durch Frankreich, Luxemburg und Deutschland fließt."
+    }, {
+        "de": "das Weingut",
+        "en": "Winery",
+        "ru": "Винодельня",
+        "descriptionEN": "A place where wine is made, especially one where the grapes grown on the premises are used.",
+        "descriptionRU": "Место, где производится вино, особенно то, где используются выращенные на территории виноградники.",
+        "descriptionDE": "Ein Ort, an dem Wein hergestellt wird, insbesondere einer, bei dem die vor Ort angebauten Trauben verwendet werden."
+    }, {
+        "de": "die Tradition",
+        "en": "Tradition",
+        "ru": "Традиция",
+        "descriptionEN": "The transmission of customs or beliefs from generation to generation.",
+        "descriptionRU": "Передача обычаев или верований из поколения в поколение.",
+        "descriptionDE": "Die Weitergabe von Bräuchen oder Überzeugungen von Generation zu Generation."
+    }, {
+        "de": "die Ruine",
+        "en": "Ruin",
+        "ru": "Руины",
+        "descriptionEN": "The remains of a building, typically an old one that has suffered much damage or disintegration.",
+        "descriptionRU": "Остатки здания, обычно старого, которое сильно повреждено или разрушено.",
+        "descriptionDE": "Die Überreste eines Gebäudes, typischerweise eines alten, das stark beschädigt oder zerfallen ist."
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "обнаруживать",
+        "descriptionEN": "To find (something or someone) unexpectedly or in the course of a search.",
+        "descriptionRU": "Находить (что-то или кого-то) неожиданно или в ходе поиска.",
+        "descriptionDE": "Etwas (oder jemanden) unerwartet oder im Verlauf einer Suche finden."
+    }, {
+        "de": "erleben",
+        "en": "to experience",
+        "ru": "испытывать",
+        "descriptionEN": "To encounter or undergo (an event or occurrence).",
+        "descriptionRU": "Столкнуться с (событием или случаем) или пережить его.",
+        "descriptionDE": "Einem Ereignis begegnen oder es erleben."
+    }, {
+        "de": "verkosten",
+        "en": "to taste",
+        "ru": "пробовать",
+        "descriptionEN": "To sample or try the flavor of something.",
+        "descriptionRU": "Попробовать или попробовать вкус чего-либо.",
+        "descriptionDE": "Etwas kosten oder den Geschmack probieren."
+    }, {
+        "de": "besichtigen",
+        "en": "to visit",
+        "ru": "посещать",
+        "descriptionEN": "To go to see and spend time in a place or with a person.",
+        "descriptionRU": "Идти, чтобы увидеть и провести время в каком-то месте или с кем-то.",
+        "descriptionDE": "Um zu sehen und Zeit an einem Ort oder mit einer Person zu verbringen."
+    }, {
+        "de": "verkaufen",
+        "en": "to sell",
+        "ru": "продавать",
+        "descriptionEN": "To give or hand over (something) in exchange for money.",
+        "descriptionRU": "Передавать или отдавать (что-то) в обмен на деньги.",
+        "descriptionDE": "Etwas gegen Geld geben oder übergeben."
+    }, {
+        "de": "feiern",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "To acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
+        "descriptionRU": "Отмечать (значимый или счастливый день или событие) социальным собранием или приятным мероприятием.",
+        "descriptionDE": "Einen bedeutsamen oder glücklichen Tag oder ein Ereignis mit einem geselligen Beisammensein oder einer erfreulichen Aktivität anerkennen."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having a great deal of money or assets; wealthy.",
+        "descriptionRU": "Иметь много денег или активов; богатый.",
+        "descriptionDE": "Über viel Geld oder Vermögen verfügen; wohlhabend."
+    }, {
+        "de": "zentral",
+        "en": "central",
+        "ru": "центральный",
+        "descriptionEN": "Of, at, or forming the center.",
+        "descriptionRU": "Относится к центру или образует его.",
+        "descriptionDE": "Im Zentrum stehend oder es bildend."
+    }, {
+        "de": "malerisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
+        "descriptionRU": "Визуально привлекательный, особенно по-деревенски или очаровательно.",
+        "descriptionDE": "Optisch ansprechend, besonders auf eine malerische oder charmante Weise."
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "Liked or admired by many people.",
+        "descriptionRU": "Любимый или восхищаемый многими людьми.",
+        "descriptionDE": "Von vielen Menschen gemocht oder bewundert."
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "Relating to the Middle Ages.",
+        "descriptionRU": "Относящийся к Средневековью.",
+        "descriptionDE": "Bezieht sich auf das Mittelalter."
+    }, {
+        "de": "bekannt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "Known about by many people.",
+        "descriptionRU": "Известный многим людям.",
+        "descriptionDE": "Von vielen Menschen gekannt."
+    }, {
+        "de": "jährlich",
+        "en": "annual",
+        "ru": "ежегодный",
+        "descriptionEN": "Occurring once every year.",
+        "descriptionRU": "Происходит раз в год.",
+        "descriptionDE": "Einmal im Jahr stattfindend."
+    }, {
+        "de": "lokal",
+        "en": "local",
+        "ru": "местный",
+        "descriptionEN": "Relating to a particular area or neighborhood.",
+        "descriptionRU": "Относящийся к определенной области или району.",
+        "descriptionDE": "Bezieht sich auf ein bestimmtes Gebiet oder eine Nachbarschaft."
+    }
+]
