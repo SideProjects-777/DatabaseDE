@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Stormy Week",
+            "de": "Stürmische Woche",
+            "ru": "Бурная неделя"
+        },
+        "description": {
+            "en": "Rain and aftermath",
+            "de": "Regen und Nachwirkungen",
+            "ru": "Дождь и последствия"
+        },
+        "level": "A2",
+        "image": "Stormy.jpg",
+        "file": "Stormy.mp3",
+        "words": "Stormy.json",
+        "yesNo": "Stormy.json"
+    }, {
+        "name": {
             "en": "Sophie's Move",
             "de": "Sophies Umzug",
             "ru": "Переезд Софи"
