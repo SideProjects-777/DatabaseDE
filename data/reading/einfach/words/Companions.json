@@ -1,0 +1,178 @@
+[
+    {
+        "de": "die Freundschaft",
+        "en": "Friendship",
+        "ru": "Дружба",
+        "descriptionEN": "A close and mutual bond between people.",
+        "descriptionRU": "Близкая и взаимная связь между людьми.",
+        "descriptionDE": "Eine enge und gegenseitige Bindung zwischen Menschen."
+    }, {
+        "de": "das Café",
+        "en": "Cafe",
+        "ru": "Кафе",
+        "descriptionEN": "A small restaurant where drinks and snacks are sold.",
+        "descriptionRU": "Маленький ресторан, где продают напитки и закуски.",
+        "descriptionDE": "Ein kleines Restaurant, in dem Getränke und Snacks verkauft werden."
+    }, {
+        "de": "der Autor",
+        "en": "Author",
+        "ru": "Автор",
+        "descriptionEN": "A person who writes books or articles.",
+        "descriptionRU": "Человек, который пишет книги или статьи.",
+        "descriptionDE": "Eine Person, die Bücher oder Artikel schreibt."
+    }, {
+        "de": "das Studium",
+        "en": "Studies",
+        "ru": "Учеба",
+        "descriptionEN": "The process of studying at a university or college.",
+        "descriptionRU": "Процесс обучения в университете или колледже.",
+        "descriptionDE": "Der Prozess des Studiums an einer Universität oder Hochschule."
+    }, {
+        "de": "die Medizin",
+        "en": "Medicine",
+        "ru": "Медицина",
+        "descriptionEN": "The science or practice of diagnosing, treating, and preventing diseases.",
+        "descriptionRU": "Наука или практика диагностики, лечения и профилактики заболеваний.",
+        "descriptionDE": "Die Wissenschaft oder Praxis der Diagnose, Behandlung und Prävention von Krankheiten."
+    }, {
+        "de": "der Drehbuchautor",
+        "en": "Screenwriter",
+        "ru": "Сценарист",
+        "descriptionEN": "A person who writes scripts for movies or television.",
+        "descriptionRU": "Человек, который пишет сценарии для фильмов или телевидения.",
+        "descriptionDE": "Eine Person, die Drehbücher für Filme oder Fernsehen schreibt."
+    }, {
+        "de": "der Investmentbanker",
+        "en": "Investment Banker",
+        "ru": "Инвестиционный банкир",
+        "descriptionEN": "A person who works in a bank that deals with investments.",
+        "descriptionRU": "Человек, который работает в банке, занимающемся инвестициями.",
+        "descriptionDE": "Eine Person, die in einer Bank arbeitet, die sich mit Investitionen befasst."
+    }, {
+        "de": "der Grafikdesigner",
+        "en": "Graphic Designer",
+        "ru": "Графический дизайнер",
+        "descriptionEN": "A person who creates visual content to communicate messages.",
+        "descriptionRU": "Человек, который создает визуальный контент для передачи сообщений.",
+        "descriptionDE": "Eine Person, die visuelle Inhalte erstellt, um Botschaften zu vermitteln."
+    }, {
+        "de": "die Persönlichkeit",
+        "en": "Personality",
+        "ru": "Личность",
+        "descriptionEN": "The combination of characteristics or qualities that form an individual's distinctive character.",
+        "descriptionRU": "Совокупность характеристик или качеств, которые формируют отличительный характер человека.",
+        "descriptionDE": "Die Kombination von Eigenschaften oder Qualitäten, die den unverwechselbaren Charakter einer Person ausmachen."
+    }, {
+        "de": "das Treffen",
+        "en": "Meeting",
+        "ru": "Встреча",
+        "descriptionEN": "An assembly of people for a particular purpose.",
+        "descriptionRU": "Собрание людей с определенной целью.",
+        "descriptionDE": "Eine Versammlung von Menschen zu einem bestimmten Zweck."
+    }, {
+        "de": "das Museum",
+        "en": "Museum",
+        "ru": "Музей",
+        "descriptionEN": "A building where objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "descriptionRU": "Здание, где хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
+    }, {
+        "de": "die Weinprobe",
+        "en": "Wine Tasting",
+        "ru": "Дегустация вина",
+        "descriptionEN": "An event where people sample different wines.",
+        "descriptionRU": "Мероприятие, где люди пробуют разные вина.",
+        "descriptionDE": "Eine Veranstaltung, bei der Menschen verschiedene Weine probieren."
+    }, {
+        "de": "kennenlernen",
+        "en": "to meet",
+        "ru": "знакомиться",
+        "descriptionEN": "To become acquainted with someone new.",
+        "descriptionRU": "Познакомиться с кем-то новым.",
+        "descriptionDE": "Mit jemandem neuen bekannt werden."
+    }, {
+        "de": "einladen",
+        "en": "to invite",
+        "ru": "приглашать",
+        "descriptionEN": "To ask someone to come to an event.",
+        "descriptionRU": "Пригласить кого-то на мероприятие.",
+        "descriptionDE": "Jemanden zu einer Veranstaltung einladen."
+    }, {
+        "de": "veröffentlichen",
+        "en": "to publish",
+        "ru": "публиковать",
+        "descriptionEN": "To make a document or piece of media available to the public.",
+        "descriptionRU": "Сделать документ или произведение доступным для публики.",
+        "descriptionDE": "Ein Dokument oder ein Medium der Öffentlichkeit zugänglich machen."
+    }, {
+        "de": "arbeiten",
+        "en": "to work",
+        "ru": "работать",
+        "descriptionEN": "To engage in a job or profession.",
+        "descriptionRU": "Заниматься работой или профессией.",
+        "descriptionDE": "Einer Arbeit oder einem Beruf nachgehen."
+    }, {
+        "de": "streiten",
+        "en": "to argue",
+        "ru": "спорить",
+        "descriptionEN": "To express differing views, often heatedly.",
+        "descriptionRU": "Выражать разные мнения, часто горячо.",
+        "descriptionDE": "Unterschiedliche Ansichten äußern, oft hitzig."
+    }, {
+        "de": "kümmern",
+        "en": "to care",
+        "ru": "заботиться",
+        "descriptionEN": "To look after and provide for the needs of someone.",
+        "descriptionRU": "Заботиться и обеспечивать чьи-то нужды.",
+        "descriptionDE": "Sich um jemanden kümmern und für seine Bedürfnisse sorgen."
+    }, {
+        "de": "scheu",
+        "en": "shy",
+        "ru": "застенчивый",
+        "descriptionEN": "Nervous or timid in the company of others.",
+        "descriptionRU": "Нервный или робкий в компании других людей.",
+        "descriptionDE": "Nervös oder schüchtern im Beisein anderer."
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "Following long-established practices.",
+        "descriptionRU": "Следующий давно установленным практикам.",
+        "descriptionDE": "Lang etablierten Praktiken folgend."
+    }, {
+        "de": "offen",
+        "en": "outspoken",
+        "ru": "откровенный",
+        "descriptionEN": "Direct and honest in speech.",
+        "descriptionRU": "Прямой и честный в речи.",
+        "descriptionDE": "Direkt und ehrlich in der Rede."
+    }, {
+        "de": "naiv",
+        "en": "naive",
+        "ru": "наивный",
+        "descriptionEN": "Lacking experience or sophistication.",
+        "descriptionRU": "Не имеющий опыта или утонченности.",
+        "descriptionDE": "Mangel an Erfahrung oder Raffinesse."
+    }, {
+        "de": "lustig",
+        "en": "funny",
+        "ru": "смешной",
+        "descriptionEN": "Causing laughter or amusement.",
+        "descriptionRU": "Вызывающий смех или развлечение.",
+        "descriptionDE": "Lachen oder Amüsement hervorrufen."
+    }, {
+        "de": "gierig",
+        "en": "greedy",
+        "ru": "жадный",
+        "descriptionEN": "Having an excessive desire for wealth or possessions.",
+        "descriptionRU": "Имеющий чрезмерное желание к богатству или владению.",
+        "descriptionDE": "Ein übermäßiges Verlangen nach Reichtum oder Besitz haben."
+    }, {
+        "de": "fürsorglich",
+        "en": "caring",
+        "ru": "заботливый",
+        "descriptionEN": "Displaying kindness and concern for others.",
+        "descriptionRU": "Проявляющий доброту и заботу о других.",
+        "descriptionDE": "Freundlichkeit und Sorge für andere zeigen."
+    }
+]

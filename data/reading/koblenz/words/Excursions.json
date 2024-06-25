@@ -1,0 +1,192 @@
+[
+    {
+        "de": "der Tag",
+        "en": "day",
+        "ru": "день",
+        "descriptionEN": "the time between sunrise and sunset.",
+        "descriptionRU": "промежуток времени между восходом и закатом солнца.",
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang."
+    }, {
+        "de": "die Aktivität",
+        "en": "activity",
+        "ru": "деятельность",
+        "descriptionEN": "the condition in which things are happening or being done.",
+        "descriptionRU": "состояние, при котором что-то происходит или выполняется.",
+        "descriptionDE": "der Zustand, in dem Dinge geschehen oder getan werden."
+    }, {
+        "de": "das Wetter",
+        "en": "weather",
+        "ru": "погода",
+        "descriptionEN": "the state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+        "descriptionRU": "состояние атмосферы в месте и времени, касающееся тепла, сухости, солнечного света, ветра, дождя и т. д.",
+        "descriptionDE": "der Zustand der Atmosphäre an einem Ort und zu einem Zeitpunkt hinsichtlich Hitze, Trockenheit, Sonnenschein, Wind, Regen usw."
+    }, {
+        "de": "die Bewegung",
+        "en": "movement",
+        "ru": "движение",
+        "descriptionEN": "an act of changing physical location or position or of having this changed.",
+        "descriptionRU": "действие изменения физического местоположения или положения или имеющее это изменение.",
+        "descriptionDE": "eine Handlung des Wechselns des physischen Standorts oder der Position oder des Habens dieser Änderung."
+    }, {
+        "de": "der Hund",
+        "en": "dog",
+        "ru": "собака",
+        "descriptionEN": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.",
+        "descriptionRU": "одомашненное хищное млекопитающее, обычно с длинным рылом, острым обонянием и лающим, воющим или скулящим голосом.",
+        "descriptionDE": "ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen scharfen Geruchssinn und eine bellende, heulende oder winselnde Stimme hat."
+    }, {
+        "de": "der Ausflug",
+        "en": "outing",
+        "ru": "поездка",
+        "descriptionEN": "a short trip made for pleasure or education, often with a group of people and lasting no more than a day.",
+        "descriptionRU": "короткое путешествие, совершаемое для удовольствия или образования, часто с группой людей и длительностью не более одного дня.",
+        "descriptionDE": "eine kurze Reise zum Vergnügen oder zur Bildung, oft mit einer Gruppe von Menschen und dauert nicht länger als einen Tag."
+    }, {
+        "de": "die Kamera",
+        "en": "camera",
+        "ru": "камера",
+        "descriptionEN": "a device for recording visual images in the form of photographs, film, or video signals.",
+        "descriptionRU": "устройство для записи визуальных изображений в форме фотографий, пленки или видеосигналов.",
+        "descriptionDE": "ein Gerät zur Aufnahme visueller Bilder in Form von Fotografien, Film oder Videosignalen."
+    }, {
+        "de": "der Weg",
+        "en": "path",
+        "ru": "путь",
+        "descriptionEN": "a way or track laid down for walking or made by continual treading.",
+        "descriptionRU": "путь или тропа, проложенная для ходьбы или созданная постоянным наступлением.",
+        "descriptionDE": "eine Art oder Strecke, die zum Gehen angelegt oder durch kontinuierliches Betreten entstanden ist."
+    }, {
+        "de": "der Blick",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "the ability to see or the range of sight.",
+        "descriptionRU": "способность видеть или область зрения.",
+        "descriptionDE": "die Fähigkeit zu sehen oder das Sichtfeld."
+    }, {
+        "de": "die Pflanze",
+        "en": "plant",
+        "ru": "растение",
+        "descriptionEN": "a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll.",
+        "descriptionRU": "живой организм, подобный деревьям, кустарникам, травам, злакам, папоротникам и мхам, обычно растущий на постоянном месте, впитывающий воду и неорганические вещества через корни и синтезирующий питательные вещества в своих листьях путем фотосинтеза с использованием зеленого пигмента хлорофилла.",
+        "descriptionDE": "ein lebendes Organismus, wie ihn Bäume, Sträucher, Kräuter, Gräser, Farne und Moose darstellen, der typischerweise an einem dauerhaften Standort wächst, Wasser und anorganische Substanzen durch seine Wurzeln aufnimmt und Nährstoffe in seinen Blättern durch Photosynthese unter Verwendung des grünen Pigments Chlorophyll synthetisiert."
+    }, {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "a large public garden or area of land used for recreation.",
+        "descriptionRU": "большой общественный сад или земельная площадь, используемая для отдыха.",
+        "descriptionDE": "ein großer öffentlicher Garten oder ein Gelände, das für Erholungszwecke genutzt wird."
+    }, {
+        "de": "der Genuss",
+        "en": "pleasure",
+        "ru": "удовольствие",
+        "descriptionEN": "a feeling of happy satisfaction and enjoyment.",
+        "descriptionRU": "чувство счастливого удовлетворения и наслаждения.",
+        "descriptionDE": "ein Gefühl der glücklichen Zufriedenheit und Freude."
+    }, {
+        "de": "die Aussicht",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "a sight or prospect, typically of attractive scenery.",
+        "descriptionRU": "вид или перспектива, обычно привлекательного пейзажа.",
+        "descriptionDE": "eine Aussicht oder Aussicht, in der Regel von attraktiver Landschaft."
+    }, {
+        "de": "die Brise",
+        "en": "breeze",
+        "ru": "ветерок",
+        "descriptionEN": "a gentle wind.",
+        "descriptionRU": "легкий ветер.",
+        "descriptionDE": "eine sanfte Brise."
+    }, {
+        "de": "die Tiere",
+        "en": "animals",
+        "ru": "животные",
+        "descriptionEN": "a living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+        "descriptionRU": "живой организм, который питается органическим веществом, обычно имеющий специализированные органы чувств и нервную систему и способный быстро реагировать на раздражители.",
+        "descriptionDE": "ein lebender Organismus, der sich von organischen Stoffen ernährt, in der Regel spezialisierte Sinnesorgane und ein Nervensystem hat und schnell auf Reize reagieren kann."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.",
+        "descriptionRU": "все видимые особенности района сельской местности или земли, часто рассматриваемые с точки зрения их эстетического привлекательности.",
+        "descriptionDE": "alle sichtbaren Merkmale eines Gebiets auf dem Land oder Land, oft im Hinblick auf ihren ästhetischen Reiz betrachtet."
+    }, {
+        "de": "der Rhein",
+        "en": "Rhine",
+        "ru": "Рейн",
+        "descriptionEN": "a major European river carrying more traffic than any other river in the world.",
+        "descriptionRU": "основная европейская река, перевозящая больше трафика, чем любая другая река в мире.",
+        "descriptionDE": "ein bedeutender europäischer Fluss, der mehr Verkehr befördert als jeder andere Fluss der Welt."
+    }, {
+        "de": "die Mosel",
+        "en": "Mosel",
+        "ru": "Мозель",
+        "descriptionEN": "a river flowing from the Vosges mountains in northeastern France through western Germany and Luxembourg into the Rhine.",
+        "descriptionRU": "река, текущая из гор Вогезы на сево-востоке Франции через западную Германию и Люксембург в Рейн.",
+        "descriptionDE": "ein Fluss, der von den Vogesen in Nordostfrankreich durch Westdeutschland und Luxemburg in den Rhein fließt."
+    }, {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "a large building typically of the medieval period, fortified against attack with thick walls, battlements, towers, and in many cases a moat.",
+        "descriptionRU": "большое здание, обычно средневекового периода, укрепленное против нападения с толстыми стенами, бойницами, башнями и во многих случаях рва.",
+        "descriptionDE": "ein großes Gebäude typischerweise aus der mittelalterlichen Zeit, gegen Angriffe mit dicken Mauern, Zinnen, Türmen und in vielen Fällen einem Wassergraben befestigt."
+    }, {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "a plantation of grapevines, typically producing grapes used in winemaking.",
+        "descriptionRU": "плантация виноградных лоз, обычно производящая виноград, используемый в виноделии.",
+        "descriptionDE": "eine Plantage von Weinreben, die typischerweise Trauben produziert, die zur Weinherstellung verwendet werden."
+    }, {
+        "de": "die Reise",
+        "en": "journey",
+        "ru": "путешествие",
+        "descriptionEN": "an act of traveling from one place to another.",
+        "descriptionRU": "действие путешествия из одного места в другое.",
+        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen."
+    }, {
+        "de": "die Aussicht",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "a sight or prospect, typically of attractive scenery.",
+        "descriptionRU": "вид или перспектива, обычно привлекательного пейзажа.",
+        "descriptionDE": "eine Aussicht oder Aussicht, in der Regel von attraktiver Landschaft."
+    }, {
+        "de": "der Felsen",
+        "en": "rock",
+        "ru": "скала",
+        "descriptionEN": "a large rugged mass of hard mineral material.",
+        "descriptionRU": "большая грубая масса твердого минерального материала.",
+        "descriptionDE": "eine große raue Masse aus hartem mineralischem Material."
+    }, {
+        "de": "die Herausforderung",
+        "en": "challenge",
+        "ru": "вызов",
+        "descriptionEN": "a call to take part in a contest or competition, especially a duel.",
+        "descriptionRU": "призыв принять участие в соревновании или соревновании, особенно дуэли.",
+        "descriptionDE": "ein Aufruf, an einem Wettbewerb oder Wettbewerb teilzunehmen, insbesondere einem Duell."
+    }, {
+        "de": "die Ruhe",
+        "en": "peace",
+        "ru": "мир",
+        "descriptionEN": "freedom from disturbance; tranquility.",
+        "descriptionRU": "свобода от беспокойства; спокойствие.",
+        "descriptionDE": "Freiheit von Störungen; Ruhe."
+    }, {
+        "de": "der Park",
+        "en": "park",
+        "ru": "парк",
+        "descriptionEN": "a large public garden or area of land used for recreation.",
+        "descriptionRU": "большой общественный сад или земельная площадь, используемая для отдыха.",
+        "descriptionDE": "ein großer öffentlicher Garten oder ein Gelände, das für Erholungszwecke genutzt wird."
+    }, {
+        "de": "die Strecke",
+        "en": "distance",
+        "ru": "расстояние",
+        "descriptionEN": "an amount of space between two things or people.",
+        "descriptionRU": "расстояние между двумя вещами или людьми.",
+        "descriptionDE": "eine Menge Raum zwischen zwei Dingen oder Menschen."
+    }
+]

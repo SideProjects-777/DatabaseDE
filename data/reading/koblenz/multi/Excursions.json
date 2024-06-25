@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo lebte Anna?",
+        "answers": [
+            {
+                "text": "Koblenz",
+                "correct": true
+            }, {
+                "text": "Berlin",
+                "correct": false
+            }, {
+                "text": "München",
+                "correct": false
+            }, {
+                "text": "Hamburg",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Aktivitäten liebte Anna im Freien?",
+        "answers": [
+            {
+                "text": "Klettern und Rudern",
+                "correct": true
+            }, {
+                "text": "Skifahren und Tanzen",
+                "correct": false
+            }, {
+                "text": "Schwimmen und Joggen",
+                "correct": false
+            }, {
+                "text": "Lesen und Malen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hatte Anna in ihrem Rucksack für die Wanderung gepackt?",
+        "answers": [
+            {
+                "text": "Eine Flasche Wasser, eine Jacke, ein paar Snacks und eine Mütze",
+                "correct": true
+            }, {
+                "text": "Ein Buch, eine Decke und eine Kamera",
+                "correct": false
+            }, {
+                "text": "Ein Handy, ein Picknickkorb und ein Kompass",
+                "correct": false
+            }, {
+                "text": "Ein Regenschirm, eine Sonnenbrille und ein Fernglas",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Flüsse entlang fuhr Anna mit dem Fahrrad?",
+        "answers": [
+            {
+                "text": "Rhein und Mosel",
+                "correct": true
+            }, {
+                "text": "Donau und Elbe",
+                "correct": false
+            }, {
+                "text": "Isar und Neckar",
+                "correct": false
+            }, {
+                "text": "Main und Saale",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Tiere mochte Anna besonders während ihrer Wanderung sehen?",
+        "answers": [
+            {
+                "text": "Viele wilde Tiere",
+                "correct": true
+            }, {
+                "text": "Hunde und Katzen",
+                "correct": false
+            }, {
+                "text": "Vögel und Fische",
+                "correct": false
+            }, {
+                "text": "Insekten und Spinnen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was fühlte Anna, als sie die Brise spürte?",
+        "answers": [
+            {
+                "text": "Toll",
+                "correct": true
+            }, {
+                "text": "Schrecklich",
+                "correct": false
+            }, {
+                "text": "Normal",
+                "correct": false
+            }, {
+                "text": "Verwirrt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was liebte Fritz während der Wanderung?",
+        "answers": [
+            {
+                "text": "Die Bewegung",
+                "correct": true
+            }, {
+                "text": "Das Essen",
+                "correct": false
+            }, {
+                "text": "Das Wasser",
+                "correct": false
+            }, {
+                "text": "Die Ruhe",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Wegen bevorzugte Anna?",
+        "answers": [
+            {
+                "text": "Wege mit vielen Pflanzen",
+                "correct": true
+            }, {
+                "text": "Wege mit hohen Bergen",
+                "correct": false
+            }, {
+                "text": "Wege am Meer",
+                "correct": false
+            }, {
+                "text": "Wege in der Wüste",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Aussicht konnte man oben auf dem Weg genießen?",
+        "answers": [
+            {
+                "text": "Eine schöne Aussicht",
+                "correct": true
+            }, {
+                "text": "Eine gruselige Aussicht",
+                "correct": false
+            }, {
+                "text": "Eine laute Aussicht",
+                "correct": false
+            }, {
+                "text": "Eine traurige Aussicht",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was waren Annas Lieblingswanderwege in Deutschland?",
+        "answers": [
+            {
+                "text": "Rheinsteig und Moselsteig",
+                "correct": true
+            }, {
+                "text": "Alpensteig und Schwarzwaldsteig",
+                "correct": false
+            }, {
+                "text": "Ostseesteig und Nordseesteig",
+                "correct": false
+            }, {
+                "text": "Harzsteig und Eifelsteig",
+                "correct": false
+            }
+        ]
+    }
+]

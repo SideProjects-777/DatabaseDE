@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Beilstein",
+        "population": 140
+    },
+    {
+        "name": "Alken",
+        "population": 650
+    },
+    {
+        "name": "Hatzenport",
+        "population": 650
+    },
+    {
+        "name": "Ediger-Eller",
+        "population": 1000
+    },
+    {
+        "name": "Piesport",
+        "population": 2200
+    },
+    {
+        "name": "Kröv",
+        "population": 2300
+    },
+    {
+        "name": "Mehring",
+        "population": 2400
+    },
+    {
+        "name": "Winningen",
+        "population": 2400
+    },
+    {
+        "name": "Zell",
+        "population": 4200
+    },
+    {
+        "name": "Cochem",
+        "population": 5000
+    },
+    {
+        "name": "Traben-Trarbach",
+        "population": 5900
+    },
+    {
+        "name": "Bernkastel-Kues",
+        "population": 7000
+    },
+    {
+        "name": "Schweich",
+        "population": 8100
+    },
+    {
+        "name": "Trier",
+        "population": 110000
+    }
+]
+
+
+[
+    {
+        "name": "Reichsburg Cochem",
+        "location": "Cochem",
+        "description": "A fairy-tale castle overlooking the town of Cochem and the Mosel River."
+    },
+    {
+        "name": "Porta Nigra",
+        "location": "Trier",
+        "description": "A well-preserved Roman city gate, symbolizing the Roman history of Trier."
+    },
+    {
+        "name": "Bernkastel-Kues Old Town",
+        "location": "Bernkastel-Kues",
+        "description": "A charming medieval old town with half-timbered houses and a picturesque market square."
+    },
+    {
+        "name": "Moselsteig Trail",
+        "location": "Various locations",
+        "description": "A famous hiking trail following the Mosel River, offering stunning views of vineyards and landscapes."
+    },
+    {
+        "name": "Eltz Castle",
+        "location": "Near Moselkern",
+        "description": "A medieval castle nestled in the hills above the Mosel River, known for its well-preserved architecture."
+    },
+    {
+        "name": "Rheinfels Castle",
+        "location": "St. Goar",
+        "description": "A large castle ruin overlooking the Mosel River, offering panoramic views of the surrounding area."
+    },
+    {
+        "name": "Roman Villa Urbana",
+        "location": "Traben-Trarbach",
+        "description": "Remains of a Roman villa complex showcasing Roman architecture and artifacts."
+    },
+    {
+        "name": "Burg Landshut",
+        "location": "Bernkastel-Kues",
+        "description": "A castle ruin with a scenic viewpoint over Bernkastel-Kues and the Mosel River."
+    },
+    {
+        "name": "Mosel Wine Festival",
+        "location": "Various locations",
+        "description": "Annual wine festivals held in several towns along the Mosel, celebrating the region's wine culture."
+    },
+    {
+        "name": "Moselle Cycle Path",
+        "location": "Along the Mosel River",
+        "description": "A popular cycling route that runs along the Mosel River, passing through picturesque landscapes and vineyards."
+    },
+    {
+        "name": "Drachenfels",
+        "location": "Near Cochem",
+        "description": "A hill with ruins of a castle offering panoramic views of Cochem and the Mosel River."
+    },
+    {
+        "name": "Mosel-Weinmuseum",
+        "location": "Bernkastel-Kues",
+        "description": "A museum dedicated to the history and culture of wine-making in the Mosel region."
+    },
+    {
+        "name": "Grevenburg Castle",
+        "location": "Traben-Trarbach",
+        "description": "A castle ruin overlooking the Mosel River, known for its strategic location and historical significance."
+    },
+    {
+        "name": "Marienburg Castle",
+        "location": "Bernkastel-Kues",
+        "description": "A castle ruin offering panoramic views of the Mosel River and the surrounding vineyards."
+    },
+    {
+        "name": "St. Michael's Chapel",
+        "location": "Bernkastel-Kues",
+        "description": "A chapel with stunning views over Bernkastel-Kues and the Mosel River, accessible via a hike or cable car."
+    }
+]
+

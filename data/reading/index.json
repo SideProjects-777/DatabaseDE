@@ -13,7 +13,7 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfach.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachREAD.mp4",
-        "amountOfStories": 11,
+        "amountOfStories": 12,
         "active": true,
         "hasVideo": true
     }, {
@@ -81,7 +81,7 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzREAD.mp4",
-        "amountOfStories": 11,
+        "amountOfStories": 12,
         "active": true,
         "hasVideo": true
     }, {
@@ -98,7 +98,7 @@
         },
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/moselREAD.jpg",
         "video": "https://sideprojects-777.github.io/DatabaseDE/locations/moselREAD.mp4",
-        "amountOfStories": 1,
+        "amountOfStories": 2,
         "active": true,
         "hasVideo": true
     }
