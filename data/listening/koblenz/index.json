@@ -127,5 +127,21 @@
         "file": "Unleashed.mp3",
         "words": "Unleashed.json",
         "yesNo": "Unleashed.json"
+    }, {
+        "name": {
+            "en": "Koblenz Oktoberfest",
+            "de": "Koblenz Oktoberfest",
+            "ru": "Кобленц Октоберфест"
+        },
+        "description": {
+            "en": "Bavarian celebration on Rhine",
+            "de": "Bayerisches Fest am Rhein",
+            "ru": "Баварский праздник на Рейне"
+        },
+        "level": "B2",
+        "image": "Oktoberfest.png",
+        "file": "Oktoberfest.mp3",
+        "words": "Oktoberfest.json",
+        "multi": "Oktoberfest.json"
     }
 ]
