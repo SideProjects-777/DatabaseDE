@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Trier liegt in Bayern.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Trier ist eine der ältesten Städte Deutschlands.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Porta Nigra ist eine UNESCO-Welterbestätte in Trier.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Thronsaal Konstantins befindet sich in Trier.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Trier liegt am Rhein.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Liebfrauenkirche in Trier ist die älteste gotische Kirche Deutschlands.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Römerbrücke in Trier stammt aus der Zeit des Mittelalters.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Trier ist bekannt für seine Weinwirtschaft.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Trierer Weinmarkt findet jährlich statt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Trier ist die kleinste Stadt in der Region Rheinland-Pfalz.",
+        "tr": false,
+        "fle": true
+    }
+]

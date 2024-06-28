@@ -1,0 +1,164 @@
+[
+    {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "The pervading tone or mood of a place.",
+        "descriptionRU": "Всеобщее настроение или тон какого-либо места.",
+        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes."
+    }, {
+        "de": "der Besucher",
+        "en": "visitor",
+        "ru": "посетитель",
+        "descriptionEN": "A person who visits a place.",
+        "descriptionRU": "Человек, который посещает какое-то место.",
+        "descriptionDE": "Eine Person, die einen Ort besucht."
+    }, {
+        "de": "die Veranstaltung",
+        "en": "event",
+        "ru": "мероприятие",
+        "descriptionEN": "An organized occasion.",
+        "descriptionRU": "Организованное событие.",
+        "descriptionDE": "Eine organisierte Veranstaltung."
+    }, {
+        "de": "das Festzelt",
+        "en": "festival tent",
+        "ru": "праздничный шатер",
+        "descriptionEN": "A large tent used for festivals.",
+        "descriptionRU": "Большая палатка, используемая для фестивалей.",
+        "descriptionDE": "Ein großes Zelt, das für Feste verwendet wird."
+    }, {
+        "de": "das Fahrgeschäft",
+        "en": "ride",
+        "ru": "аттракцион",
+        "descriptionEN": "An amusement ride at a fair or amusement park.",
+        "descriptionRU": "Аттракцион на ярмарке или в парке развлечений.",
+        "descriptionDE": "Ein Fahrgeschäft auf einem Jahrmarkt oder in einem Vergnügungspark."
+    }, {
+        "de": "die Spezialität",
+        "en": "specialty",
+        "ru": "специальность",
+        "descriptionEN": "A distinctive or characteristic product.",
+        "descriptionRU": "Характерный продукт.",
+        "descriptionDE": "Ein charakteristisches oder typisches Produkt."
+    }, {
+        "de": "die Köstlichkeit",
+        "en": "delicacy",
+        "ru": "деликатес",
+        "descriptionEN": "A delicious and rare food item.",
+        "descriptionRU": "Вкусный и редкий продукт питания.",
+        "descriptionDE": "Ein köstliches und seltenes Nahrungsmittel."
+    }, {
+        "de": "die Musik",
+        "en": "music",
+        "ru": "музыка",
+        "descriptionEN": "Vocal or instrumental sounds combined to produce harmony.",
+        "descriptionRU": "Вокальные или инструментальные звуки, объединенные для создания гармонии.",
+        "descriptionDE": "Vokale oder instrumentale Klänge, die kombiniert werden, um Harmonie zu erzeugen."
+    }, {
+        "de": "die Kirmes",
+        "en": "fair",
+        "ru": "ярмарка",
+        "descriptionEN": "A gathering with rides and entertainment.",
+        "descriptionRU": "Сборище с аттракционами и развлечениями.",
+        "descriptionDE": "Ein Treffen mit Fahrgeschäften und Unterhaltung."
+    }, {
+        "de": "das Bier",
+        "en": "beer",
+        "ru": "пиво",
+        "descriptionEN": "An alcoholic drink made from yeast-fermented malt.",
+        "descriptionRU": "Алкогольный напиток, приготовленный из ферментированного солода.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus Hefe-fermentiertem Malz hergestellt wird."
+    }, {
+        "de": "die Blaskapelle",
+        "en": "brass band",
+        "ru": "духовой оркестр",
+        "descriptionEN": "A musical ensemble consisting of brass instruments.",
+        "descriptionRU": "Музыкальный ансамбль, состоящий из духовых инструментов.",
+        "descriptionDE": "Ein musikalisches Ensemble, das aus Blechblasinstrumenten besteht."
+    }, {
+        "de": "feiern",
+        "en": "celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "To acknowledge a significant event with festivities.",
+        "descriptionRU": "Отмечать значительное событие торжествами.",
+        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen."
+    }, {
+        "de": "bieten",
+        "en": "offer",
+        "ru": "предлагать",
+        "descriptionEN": "To present or proffer something for acceptance.",
+        "descriptionRU": "Предлагать что-либо для принятия.",
+        "descriptionDE": "Etwas zur Annahme präsentieren oder anbieten."
+    }, {
+        "de": "verwandeln",
+        "en": "transform",
+        "ru": "превращать",
+        "descriptionEN": "To change in form or appearance.",
+        "descriptionRU": "Изменить форму или внешний вид.",
+        "descriptionDE": "Die Form oder das Aussehen ändern."
+    }, {
+        "de": "erleben",
+        "en": "experience",
+        "ru": "испытывать",
+        "descriptionEN": "To encounter or undergo an event or occurrence.",
+        "descriptionRU": "Столкнуться с событием или пережить его.",
+        "descriptionDE": "Ein Ereignis erleben oder durchmachen."
+    }, {
+        "de": "tauchen",
+        "en": "immerse",
+        "ru": "погружаться",
+        "descriptionEN": "To involve oneself deeply in a particular activity.",
+        "descriptionRU": "Глубоко вовлекаться в определенную деятельность.",
+        "descriptionDE": "Sich tief in eine bestimmte Tätigkeit einlassen."
+    }, {
+        "de": "malerisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "Visually attractive, especially in a quaint way.",
+        "descriptionRU": "Визуально привлекательный, особенно в причудливом стиле.",
+        "descriptionDE": "Visuell attraktiv, besonders auf eine malerische Weise."
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "Existing in or as part of a tradition.",
+        "descriptionRU": "Существующий в рамках традиции или как часть традиции.",
+        "descriptionDE": "Im Rahmen einer Tradition existierend oder Teil davon."
+    }, {
+        "de": "abwechslungsreich",
+        "en": "varied",
+        "ru": "разнообразный",
+        "descriptionEN": "Incorporating a number of different types or elements.",
+        "descriptionRU": "Включающий множество различных типов или элементов.",
+        "descriptionDE": "Verschiedene Arten oder Elemente einbeziehend."
+    }, {
+        "de": "deftig",
+        "en": "hearty",
+        "ru": "сытный",
+        "descriptionEN": "Wholesome and substantial.",
+        "descriptionRU": "Здоровый и существенный.",
+        "descriptionDE": "Herzhaft und gehaltvoll."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "Not likely to be forgotten.",
+        "descriptionRU": "Трудно забываемый.",
+        "descriptionDE": "Nicht leicht zu vergessen."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having a lot of something.",
+        "descriptionRU": "Имеющий много чего-либо.",
+        "descriptionDE": "Viel von etwas haben."
+    }, {
+        "de": "zünftig",
+        "en": "jolly",
+        "ru": "веселый",
+        "descriptionEN": "Cheerful and lively.",
+        "descriptionRU": "Веселый и живой.",
+        "descriptionDE": "Fröhlich und lebhaft."
+    }
+]

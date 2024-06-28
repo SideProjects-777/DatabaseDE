@@ -1,0 +1,171 @@
+[
+    {
+        "de": "der Himmel",
+        "en": "Sky",
+        "ru": "Небо",
+        "descriptionEN": "The region of the atmosphere and outer space seen from the earth.",
+        "descriptionRU": "Область атмосферы и космоса, видимая с Земли.",
+        "descriptionDE": "Der Bereich der Atmosphäre und des Weltraums, der von der Erde aus sichtbar ist."
+    }, {
+        "de": "die Wolke",
+        "en": "Cloud",
+        "ru": "Облако",
+        "descriptionEN": "A visible mass of condensed water vapor floating in the atmosphere.",
+        "descriptionRU": "Видимая масса конденсированного водяного пара, плавающая в атмосфере.",
+        "descriptionDE": "Eine sichtbare Masse von kondensiertem Wasserdampf, die in der Atmosphäre schwebt."
+    }, {
+        "de": "der Regen",
+        "en": "Rain",
+        "ru": "Дождь",
+        "descriptionEN": "Water that falls from the clouds in droplets.",
+        "descriptionRU": "Вода, падающая из облаков в виде капель.",
+        "descriptionDE": "Wasser, das in Tropfen aus den Wolken fällt."
+    }, {
+        "de": "der Donner",
+        "en": "Thunder",
+        "ru": "Гром",
+        "descriptionEN": "A loud rumbling or crashing noise heard after a lightning flash.",
+        "descriptionRU": "Громкий грохот или треск, слышимый после вспышки молнии.",
+        "descriptionDE": "Ein lautes Grollen oder Krachen, das nach einem Blitz zu hören ist."
+    }, {
+        "de": "die Straße",
+        "en": "Street",
+        "ru": "Улица",
+        "descriptionEN": "A public road in a city or town, typically with houses and buildings on one or both sides.",
+        "descriptionRU": "Общественная дорога в городе или поселке, обычно с домами и зданиями по обеим сторонам.",
+        "descriptionDE": "Eine öffentliche Straße in einer Stadt oder einem Dorf, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten."
+    }, {
+        "de": "der Fußgänger",
+        "en": "Pedestrian",
+        "ru": "Пешеход",
+        "descriptionEN": "A person walking rather than traveling in a vehicle.",
+        "descriptionRU": "Человек, идущий пешком, а не путешествующий на транспортном средстве.",
+        "descriptionDE": "Eine Person, die zu Fuß geht und nicht mit einem Fahrzeug reist."
+    }, {
+        "de": "die Pfütze",
+        "en": "Puddle",
+        "ru": "Лужа",
+        "descriptionEN": "A small pool of liquid, especially of rainwater on the ground.",
+        "descriptionRU": "Небольшой бассейн с жидкостью, особенно с дождевой водой на земле.",
+        "descriptionDE": "Eine kleine Ansammlung von Flüssigkeit, insbesondere Regenwasser auf dem Boden."
+    }, {
+        "de": "die Freunde",
+        "en": "Friends",
+        "ru": "Друзья",
+        "descriptionEN": "People whom one knows, likes, and trusts.",
+        "descriptionRU": "Люди, которых человек знает, любит и доверяет.",
+        "descriptionDE": "Menschen, die man kennt, mag und denen man vertraut."
+    }, {
+        "de": "die Arbeit",
+        "en": "Work",
+        "ru": "Работа",
+        "descriptionEN": "Activity involving mental or physical effort done to achieve a purpose or result.",
+        "descriptionRU": "Деятельность, включающая умственные или физические усилия, направленная на достижение цели или результата.",
+        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ziel oder Ergebnis zu erreichen."
+    }, {
+        "de": "die Schule",
+        "en": "School",
+        "ru": "Школа",
+        "descriptionEN": "An institution for educating children.",
+        "descriptionRU": "Учреждение для обучения детей.",
+        "descriptionDE": "Eine Einrichtung zur Erziehung von Kindern."
+    }, {
+        "de": "das Einkaufszentrum",
+        "en": "Mall",
+        "ru": "Торговый центр",
+        "descriptionEN": "A large building or series of connected buildings containing a variety of retail stores and typically also restaurants.",
+        "descriptionRU": "Большое здание или серия соединенных зданий, содержащих различные розничные магазины и обычно также рестораны.",
+        "descriptionDE": "Ein großes Gebäude oder eine Reihe von miteinander verbundenen Gebäuden mit verschiedenen Einzelhandelsgeschäften und typischerweise auch Restaurants."
+    }, {
+        "de": "das Museum",
+        "en": "Museum",
+        "ru": "Музей",
+        "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
+    }, {
+        "de": "kochen",
+        "en": "To cook",
+        "ru": "Готовить",
+        "descriptionEN": "To prepare food by combining, mixing, and heating ingredients.",
+        "descriptionRU": "Готовить пищу путем комбинирования, смешивания и нагревания ингредиентов.",
+        "descriptionDE": "Lebensmittel zubereiten, indem Zutaten kombiniert, gemischt und erhitzt werden."
+    }, {
+        "de": "springen",
+        "en": "To jump",
+        "ru": "Прыгать",
+        "descriptionEN": "To push oneself off a surface and into the air by using the muscles in one's legs and feet.",
+        "descriptionRU": "Отталкиваться от поверхности и взлетать в воздух, используя мышцы ног и стоп.",
+        "descriptionDE": "Sich mit den Muskeln in den Beinen und Füßen von einer Oberfläche abdrücken und in die Luft springen."
+    }, {
+        "de": "sehen",
+        "en": "To see",
+        "ru": "Видеть",
+        "descriptionEN": "To perceive with the eyes.",
+        "descriptionRU": "Воспринимать глазами.",
+        "descriptionDE": "Mit den Augen wahrnehmen."
+    }, {
+        "de": "tragen",
+        "en": "To wear",
+        "ru": "Носить",
+        "descriptionEN": "To have on one's body as clothing, decoration, or protection.",
+        "descriptionRU": "Иметь на своем теле как одежду, украшение или защиту.",
+        "descriptionDE": "Am Körper als Kleidung, Dekoration oder Schutz tragen."
+    }, {
+        "de": "bleiben",
+        "en": "To stay",
+        "ru": "Оставаться",
+        "descriptionEN": "To remain in the same place.",
+        "descriptionRU": "Оставаться на том же месте.",
+        "descriptionDE": "An derselben Stelle bleiben."
+    }, {
+        "de": "aufhören",
+        "en": "To stop",
+        "ru": "Остановиться",
+        "descriptionEN": "To cease an action or motion.",
+        "descriptionRU": "Прекратить действие или движение.",
+        "descriptionDE": "Eine Handlung oder Bewegung beenden."
+    }, {
+        "de": "dunkel",
+        "en": "Dark",
+        "ru": "Темный",
+        "descriptionEN": "With little or no light.",
+        "descriptionRU": "С небольшим количеством света или его отсутствием.",
+        "descriptionDE": "Mit wenig oder keinem Licht."
+    }, {
+        "de": "stürmisch",
+        "en": "Stormy",
+        "ru": "Бурный",
+        "descriptionEN": "Characterized by strong winds and usually rain, thunder, lightning, or snow.",
+        "descriptionRU": "Характеризуется сильными ветрами и обычно дождем, громом, молнией или снегом.",
+        "descriptionDE": "Gekennzeichnet durch starke Winde und normalerweise Regen, Donner, Blitz oder Schnee."
+    }, {
+        "de": "grau",
+        "en": "Gray",
+        "ru": "Серый",
+        "descriptionEN": "Of a color intermediate between black and white.",
+        "descriptionRU": "Цвет, промежуточный между черным и белым.",
+        "descriptionDE": "Eine Farbe, die zwischen Schwarz und Weiß liegt."
+    }, {
+        "de": "drinnen",
+        "en": "Indoors",
+        "ru": "Внутри",
+        "descriptionEN": "Inside a building.",
+        "descriptionRU": "Внутри здания.",
+        "descriptionDE": "Innerhalb eines Gebäudes."
+    }, {
+        "de": "draußen",
+        "en": "Outdoors",
+        "ru": "Снаружи",
+        "descriptionEN": "Outside a building.",
+        "descriptionRU": "Снаружи здания.",
+        "descriptionDE": "Außerhalb eines Gebäudes."
+    }, {
+        "de": "stark",
+        "en": "Strong",
+        "ru": "Сильный",
+        "descriptionEN": "Having great physical power and ability.",
+        "descriptionRU": "Обладающий большой физической силой и способностью.",
+        "descriptionDE": "Große körperliche Kraft und Fähigkeit besitzen."
+    }
+]

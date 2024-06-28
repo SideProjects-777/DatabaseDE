@@ -75,7 +75,5 @@ synthesis
 
 wellsaidlabs
 sattari4@
-
-playht
 sonantic
 listnr

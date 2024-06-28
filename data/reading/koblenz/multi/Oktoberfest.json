@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo findet das Koblenzer Oktoberfest statt?",
+        "answers": [
+            {
+                "text": "In München",
+                "correct": false
+            }, {
+                "text": "In Koblenz",
+                "correct": true
+            }, {
+                "text": "In Berlin",
+                "correct": false
+            }, {
+                "text": "In Hamburg",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann wurde das Koblenzer Oktoberfest erstmals gefeiert?",
+        "answers": [
+            {
+                "text": "1863",
+                "correct": true
+            }, {
+                "text": "1810",
+                "correct": false
+            }, {
+                "text": "1900",
+                "correct": false
+            }, {
+                "text": "1950",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Essen gibt es auf dem Koblenzer Oktoberfest?",
+        "answers": [
+            {
+                "text": "Japanisches Sushi",
+                "correct": false
+            }, {
+                "text": "Mexikanische Tacos",
+                "correct": false
+            }, {
+                "text": "Bayerische Spezialitäten",
+                "correct": true
+            }, {
+                "text": "Italienische Pizza",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein wichtiger Bestandteil des Koblenzer Oktoberfestes?",
+        "answers": [
+            {
+                "text": "Live-Musik",
+                "correct": true
+            }, {
+                "text": "Theateraufführungen",
+                "correct": false
+            }, {
+                "text": "Modenschauen",
+                "correct": false
+            }, {
+                "text": "Filmvorführungen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Getränk darf auf dem Oktoberfest nicht fehlen?",
+        "answers": [
+            {
+                "text": "Wein",
+                "correct": false
+            }, {
+                "text": "Cocktails",
+                "correct": false
+            }, {
+                "text": "Bier",
+                "correct": true
+            }, {
+                "text": "Limonade",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo in Koblenz findet das Oktoberfest statt?",
+        "answers": [
+            {
+                "text": "Am Deutschen Eck",
+                "correct": false
+            }, {
+                "text": "Auf dem Zentralplatz",
+                "correct": true
+            }, {
+                "text": "In der Altstadt",
+                "correct": false
+            }, {
+                "text": "Am Schloss",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie lange dauert das Koblenzer Oktoberfest?",
+        "answers": [
+            {
+                "text": "Ein Wochenende",
+                "correct": false
+            }, {
+                "text": "Eine Woche",
+                "correct": false
+            }, {
+                "text": "Zwei Wochen",
+                "correct": false
+            }, {
+                "text": "Ein Monat",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Art von Unterhaltung gibt es auf dem Koblenzer Oktoberfest?",
+        "answers": [
+            {
+                "text": "Traditionelle Blaskapellen und moderne Pop- und Rockbands",
+                "correct": true
+            }, {
+                "text": "Opernaufführungen",
+                "correct": false
+            }, {
+                "text": "Zaubershows",
+                "correct": false
+            }, {
+                "text": "Zirkusvorstellungen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Attraktionen gibt es auf dem Koblenzer Oktoberfest?",
+        "answers": [
+            {
+                "text": "Kletterwände",
+                "correct": false
+            }, {
+                "text": "Fahrgeschäfte",
+                "correct": true
+            }, {
+                "text": "Schwimmbäder",
+                "correct": false
+            }, {
+                "text": "Kinozelte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche historische Figur ist mit den Ursprüngen des Oktoberfestes verbunden?",
+        "answers": [
+            {
+                "text": "König Ludwig II.",
+                "correct": false
+            }, {
+                "text": "Kaiser Wilhelm II.",
+                "correct": false
+            }, {
+                "text": "Prinz Ludwig I. von Bayern",
+                "correct": true
+            }, {
+                "text": "Friedrich der Große",
+                "correct": false
+            }
+        ]
+    }
+]

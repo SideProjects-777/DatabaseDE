@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Wolken sahen sonnig und weiß aus.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Es regnete in Strömen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die meisten Leute blieben drinnen, um dem Regen zu entkommen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Es war einfach, bei Regen Auto zu fahren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Kinder liebten es, in die Pfützen zu springen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Am nächsten Tag regnete es weiterhin stark.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Ein wunderschöner Regenbogen erschien nach dem Regen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Niemand ging in den Park oder an den Strand.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Es war warm genug, um ohne Pullover rauszugehen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Draußen flossen Bäche durch die Straßen.",
+        "tr": true,
+        "fle": false
+    }
+]
