@@ -1,0 +1,235 @@
+[
+    {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "the pervading tone or mood of a place, situation, or work of art.",
+        "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства.",
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks."
+    }, {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "a large building typically fortified and used for residence by a noble or royal family.",
+        "descriptionRU": "большое укрепленное здание, обычно используемое для проживания благородной или королевской семьи.",
+        "descriptionDE": "ein großes, typischerweise befestigtes Gebäude, das von einem adligen oder königlichen Geschlecht bewohnt wird."
+    }, {
+        "de": "die Vorstellung",
+        "en": "idea",
+        "ru": "идея",
+        "descriptionEN": "a thought or suggestion as to a possible course of action.",
+        "descriptionRU": "мысль или предложение относительно возможного курса действий.",
+        "descriptionDE": "ein Gedanke oder Vorschlag für einen möglichen Handlungsablauf."
+    }, {
+        "de": "die Kneipe",
+        "en": "pub",
+        "ru": "паб",
+        "descriptionEN": "an establishment where alcoholic drinks are served to customers.",
+        "descriptionRU": "заведение, где клиентам подают алкогольные напитки.",
+        "descriptionDE": "eine Einrichtung, in der alkoholische Getränke an Kunden serviert werden."
+    }, {
+        "de": "der Wein",
+        "en": "wine",
+        "ru": "вино",
+        "descriptionEN": "an alcoholic drink made from fermented grape juice.",
+        "descriptionRU": "алкогольный напиток, изготовленный из сброженного виноградного сока.",
+        "descriptionDE": "ein alkoholisches Getränk, das aus vergorenem Traubensaft hergestellt wird."
+    }, {
+        "de": "der Markt",
+        "en": "market",
+        "ru": "рынок",
+        "descriptionEN": "a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+        "descriptionRU": "регулярное собрание людей для покупки и продажи продуктов, скота и других товаров.",
+        "descriptionDE": "eine regelmäßige Zusammenkunft von Menschen zum Kauf und Verkauf von Lebensmitteln, Vieh und anderen Waren."
+    }, {
+        "de": "der Besuch",
+        "en": "visit",
+        "ru": "посещение",
+        "descriptionEN": "an act of going or coming to a place for social reasons, tourism, shopping, etc.",
+        "descriptionRU": "акт посещения места по социальным причинам, туризму, шопингу и т. д.",
+        "descriptionDE": "ein Akt des Aufsuchens oder Kommens an einen Ort aus sozialen Gründen, Tourismus, Einkaufen usw."
+    }, {
+        "de": "die Straße",
+        "en": "street",
+        "ru": "улица",
+        "descriptionEN": "a public road in a city or town, typically with houses and buildings on one or both sides.",
+        "descriptionRU": "общественная дорога в городе или поселке, обычно с домами и зданиями с одной или обеих сторон.",
+        "descriptionDE": "eine öffentliche Straße in einer Stadt oder Gemeinde, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten."
+    }, {
+        "de": "der Ausflug",
+        "en": "trip",
+        "ru": "поездка",
+        "descriptionEN": "a journey or excursion, especially for pleasure.",
+        "descriptionRU": "путешествие или экскурсия, особенно для удовольствия.",
+        "descriptionDE": "eine Reise oder Exkursion, insbesondere zum Vergnügen."
+    }, {
+        "de": "die Nacht",
+        "en": "night",
+        "ru": "ночь",
+        "descriptionEN": "the period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+        "descriptionRU": "период темноты в каждые двадцать четыре часа; время от заката до восхода солнца.",
+        "descriptionDE": "die Periode der Dunkelheit in jedem vierundzwanzig Stunden; die Zeit von Sonnenuntergang bis Sonnenaufgang."
+    }, {
+        "de": "die Brücke",
+        "en": "bridge",
+        "ru": "мост",
+        "descriptionEN": "a structure carrying a road, path, railway, etc., across a river, road, or other obstacle.",
+        "descriptionRU": "конструкция, переносящая дорогу, путь, железную дорогу и т. д. через реку, дорогу или другое препятствие.",
+        "descriptionDE": "eine Struktur, die eine Straße, einen Weg, eine Eisenbahn usw. über einen Fluss, eine Straße oder ein anderes Hindernis führt."
+    }, {
+        "de": "der Blick",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "the ability to see or the range of sight.",
+        "descriptionRU": "способность видеть или область видимости.",
+        "descriptionDE": "die Fähigkeit zu sehen oder der Bereich der Sicht."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "the study of past events, particularly in human affairs.",
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "die Ruhe",
+        "en": "peace",
+        "ru": "мир",
+        "descriptionEN": "freedom from disturbance; tranquility.",
+        "descriptionRU": "свобода от беспокойства; спокойствие.",
+        "descriptionDE": "Freiheit von Störungen; Ruhe."
+    }, {
+        "de": "die Entspannung",
+        "en": "relaxation",
+        "ru": "расслабление",
+        "descriptionEN": "the state of being free from tension and anxiety.",
+        "descriptionRU": "состояние, свободное от напряжения и тревоги.",
+        "descriptionDE": "der Zustand, frei von Spannung und Angst zu sein."
+    }, {
+        "de": "die Erfahrung",
+        "en": "experience",
+        "ru": "опыт",
+        "descriptionEN": "practical contact with and observation of facts or events.",
+        "descriptionRU": "совокупность практически усвоенных знаний, навыков, умения.",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+    }, {
+        "de": "die Einrichtung",
+        "en": "establishment",
+        "ru": "учреждение",
+        "descriptionEN": "an organization or institution founded for a particular purpose.",
+        "descriptionRU": "организация или учреждение, основанное для определенной цели.",
+        "descriptionDE": "eine Organisation oder Institution, die für einen bestimmten Zweck gegründet wurde."
+    }, {
+        "de": "das Getränk",
+        "en": "drink",
+        "ru": "напиток",
+        "descriptionEN": "a liquid that is swallowed for sustenance or pleasure.",
+        "descriptionRU": "жидкость, глотаемая для поддержания существования или удовольствия.",
+        "descriptionDE": "eine Flüssigkeit, die zum Erhalt oder zur Freude geschluckt wird."
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future.",
+        "descriptionRU": "неопределенный продолжительный прогресс существования и событий в прошлом, настоящем и будущем.",
+        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt des Daseins und der Ereignisse in der Vergangenheit, Gegenwart und Zukunft."
+    }, {
+        "de": "die Seite",
+        "en": "side",
+        "ru": "сторона",
+        "descriptionEN": "a position to the left or right of an object, place, or central point.",
+        "descriptionRU": "положение слева или справа от объекта, места или центральной точки.",
+        "descriptionDE": "eine Position links oder rechts von einem Objekt, Ort oder zentralen Punkt."
+    }, {
+        "de": "die Kunst",
+        "en": "art",
+        "ru": "искусство",
+        "descriptionEN": "the expression or application of human creative skill and imagination.",
+        "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения.",
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft."
+    }, {
+        "de": "erkunden",
+        "en": "explore",
+        "ru": "исследовать",
+        "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it.",
+        "descriptionRU": "путешествовать через (незнакомую территорию) для изучения ее.",
+        "descriptionDE": "durchreisen (ein unbekanntes Gebiet), um mehr darüber zu erfahren."
+    }, {
+        "de": "genießen",
+        "en": "enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "take delight or pleasure in (an activity or occasion).",
+        "descriptionRU": "наслаждаться или получать удовольствие от (деятельности или случая).",
+        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben."
+    }, {
+        "de": "verbringen",
+        "en": "spend",
+        "ru": "проводить (время)",
+        "descriptionEN": "to pass (time) in a specified way or in a particular place.",
+        "descriptionRU": "проводить (время) определенным образом или в конкретном месте.",
+        "descriptionDE": "eine bestimmte Zeit oder an einem bestimmten Ort verbringen."
+    }, {
+        "de": "entscheiden",
+        "en": "decide",
+        "ru": "решать",
+        "descriptionEN": "to come to a resolution in the mind as a result of consideration.",
+        "descriptionRU": "прийти к решению в уме в результате обдумывания.",
+        "descriptionDE": "eine Entscheidung im Geiste als Ergebnis der Überlegung treffen."
+    }, {
+        "de": "schmieden",
+        "en": "forge",
+        "ru": "ковать",
+        "descriptionEN": "to create or form (something) especially in a careful or skillful way.",
+        "descriptionRU": "создать или сформировать (что-то), особенно тщательно или умело.",
+        "descriptionDE": "etwas besonders sorgfältig oder geschickt erschaffen oder formen."
+    }, {
+        "de": "buchen",
+        "en": "book",
+        "ru": "бронировать",
+        "descriptionEN": "to arrange for someone to have a seat on a plane, a room in a hotel, etc.",
+        "descriptionRU": "организовать для кого-то место на самолете, номер в отеле и т. д.",
+        "descriptionDE": "für jemanden einen Platz im Flugzeug, ein Zimmer im Hotel usw. arrangieren."
+    }, {
+        "de": "wählen",
+        "en": "choose",
+        "ru": "выбирать",
+        "descriptionEN": "to select from a number of possibilities.",
+        "descriptionRU": "выбрать из нескольких возможностей.",
+        "descriptionDE": "aus einer Reihe von Möglichkeiten auswählen."
+    }, {
+        "de": "entspannen",
+        "en": "relax",
+        "ru": "расслабиться",
+        "descriptionEN": "to make or become less tense or anxious.",
+        "descriptionRU": "сделать или стать менее напряженным или тревожным.",
+        "descriptionDE": "weniger angespannt oder ängstlich werden lassen oder werden."
+    }, {
+        "de": "buchen",
+        "en": "book",
+        "ru": "заказывать",
+        "descriptionEN": "to arrange for someone to have a seat on a plane, a room in a hotel, etc.",
+        "descriptionRU": "организовать для кого-то место на самолете, номер в отеле и т. д.",
+        "descriptionDE": "für jemanden einen Platz im Flugzeug, ein Zimmer im Hotel usw. arrangieren."
+    }, {
+        "de": "betrachten",
+        "en": "consider",
+        "ru": "рассматривать",
+        "descriptionEN": "to think about carefully, especially in order to make a decision.",
+        "descriptionRU": "подумать о внимательно, особенно для принятия решения.",
+        "descriptionDE": "besonders sorgfältig darüber nachdenken, um eine Entscheidung zu treffen."
+    }, {
+        "de": "kompromittieren",
+        "en": "compromise",
+        "ru": "компромисс",
+        "descriptionEN": "to settle a dispute by mutual concession.",
+        "descriptionRU": "решить спор путем взаимного уступки.",
+        "descriptionDE": "einen Streit durch gegenseitige Zugeständnisse beilegen."
+    }, {
+        "de": "verfolgen",
+        "en": "pursue",
+        "ru": "преследовать",
+        "descriptionEN": "to follow in order to catch or attack.",
+        "descriptionRU": "следовать, чтобы поймать или атаковать.",
+        "descriptionDE": "folgen, um zu fangen oder anzugreifen."
+    }
+
+]

@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Diverse Companions",
+            "de": "Vielfältige Gefährten",
+            "ru": "Разнообразные друзья"
+        },
+        "description": {
+            "en": "Different yet inseparable",
+            "de": "Verschiedene, aber unzertrennliche",
+            "ru": "Разные, но неразлучные"
+        },
+        "level": "A2",
+        "image": "Companions.png",
+        "file": "Companions.txt",
+        "words": "Companions.json",
+        "multi": "Companions.json"
+    }, {
+        "name": {
             "en": "Career Decision",
             "de": "Karriereentscheidung",
             "ru": "Решение о карьере"

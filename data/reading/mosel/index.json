@@ -1,18 +1,35 @@
-[{
-    "name": {
-        "en": "Bike Adventure",
-        "de": "Radabenteuer",
-        "ru": "Приключение на велосипеде"
-    },
-    "description": {
-        "en": "Scenic villages",
-        "de": "Malerische Dörfer",
-        "ru": "Живописные деревни"
-    },
+[
+    {
+        "name": {
+            "en": "Bike Adventure",
+            "de": "Radabenteuer",
+            "ru": "Приключение на велосипеде"
+        },
+        "description": {
+            "en": "Scenic villages",
+            "de": "Malerische Dörfer",
+            "ru": "Живописные деревни"
+        },
         "level": "B1",
         "image": "Radabenteuer.jpg",
         "file": "Radabenteuer.txt",
         "words": "Radabenteuer.json",
         "yesNo": "Radabenteuer.json"
+    }, {
+        "name": {
+            "en": "Cochem vs Trier",
+            "de": "Cochem gegen Trier",
+            "ru": "Кохем против Трира"
+        },
+        "description": {
+            "en": "Charming towns or ancient history",
+            "de": "Charmante Städte oder alte Geschichte",
+            "ru": "Очаровательный город или древняя история"
+        },
+        "level": "B1",
+        "image": "Charmante.jpg",
+        "file": "Charmante.txt",
+        "words": "Charmante.json",
+        "yesNo": "Charmante.json"
     }
 ]

@@ -64,6 +64,22 @@
         "words": "Lukas.json",
         "multi": "Lukas.json"
     }, {
+        "name":{
+            "en": "Outdoor Adventures",
+            "de": "Outdoor-Abenteuer",
+            "ru": "Приключения на свежем воздухе"
+        },
+        "description": {
+            "en": "Nature excursions",
+            "de": "Naturausflüge",
+            "ru": "Природные экскурсии"
+        },
+        "level": "B1",
+        "image": "Excursions1.jpg",
+        "file": "Excursions.txt",
+        "words": "Excursions.json",
+        "multi": "Excursions.json"
+    }, {
         "name": {
             "en": "Football Traditions",
             "de": "Fußball Traditionen",
