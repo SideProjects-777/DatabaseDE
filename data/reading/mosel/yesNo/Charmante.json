@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Cochem hat schöne alte Häuser und eine Burg auf einem Hügel.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Trier ist eine der jüngsten Städte Deutschlands.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sarah bevorzugt die lebhafte Atmosphäre von Trier.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "In Cochem kann man in gemütlichen Kneipen einheimischen Wein trinken.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Trier hat viele römische Sehenswürdigkeiten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Emily interessiert sich besonders für die alten römischen Gebäude in Cochem.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sarah und Emily haben beschlossen, nur in Trier zu übernachten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sie haben ein gemütliches Hotel im historischen Zentrum von Trier gebucht.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Für die zweite Nacht haben sie ein Gästehaus in Trier ausgewählt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Reise war eine perfekte Mischung aus Spaß und Geschäft in Trier.",
+        "tr": false,
+        "fle": true
+    }
+]
