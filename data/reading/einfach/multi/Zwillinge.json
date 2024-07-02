@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Warum ist es schwer, Annie und Diana auseinanderzuhalten?",
+        "answers": [
+            {
+                "text": "Sie haben unterschiedliche Muttermale.",
+                "correct": false
+            }, {
+                "text": "Sie haben unterschiedliche Hobbys.",
+                "correct": false
+            }, {
+                "text": "Sie haben unterschiedliche Augenfarben.",
+                "correct": false
+            }, {
+                "text": "Sie sehen sich sehr ähnlich.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist ein großer Unterschied zwischen Annie und Diana?",
+        "answers": [
+            {
+                "text": "Annie mag Mathe nicht.",
+                "correct": false
+            }, {
+                "text": "Ihre Füße haben unterschiedliche Merkmale.",
+                "correct": true
+            }, {
+                "text": "Diana ist besser im Sport.",
+                "correct": false
+            }, {
+                "text": "Annie trägt gerne Verkleidungen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum verkleiden sich Annie und Diana manchmal als die jeweils andere?",
+        "answers": [
+            {
+                "text": "Um ihre Freunde zu ärgern.",
+                "correct": false
+            }, {
+                "text": "Um schwierige Situationen in der Schule zu vermeiden.",
+                "correct": true
+            }, {
+                "text": "Um ihre Lehrer zu beeindrucken.",
+                "correct": false
+            }, {
+                "text": "Um an Partys teilzunehmen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum sind Annie und Diana traurig?",
+        "answers": [
+            {
+                "text": "Ihre Eltern haben sie bestraft.",
+                "correct": false
+            }, {
+                "text": "Sie haben schlechte Noten in Mathe und Sport bekommen.",
+                "correct": true
+            }, {
+                "text": "Ihre besten Freunde haben sich von ihnen distanziert.",
+                "correct": false
+            }, {
+                "text": "Sie dürfen nicht mehr verkleidet zur Schule gehen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum haben Annie und Diana ihre Schulen gewechselt?",
+        "answers": [
+            {
+                "text": "Weil sie schlechte Noten bekommen haben.",
+                "correct": true
+            }, {
+                "text": "Weil ihre Eltern umgezogen sind.",
+                "correct": false
+            }, {
+                "text": "Weil sie neue Freunde finden wollten.",
+                "correct": false
+            }, {
+                "text": "Weil ihre Schule geschlossen wurde.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum sind Mr. Thompson und Ms. Nguyen nicht beeindruckt von den Erklärungen von Annie und Diana?",
+        "answers": [
+            {
+                "text": "Weil sie nicht wollen, dass Annie und Diana gute Noten bekommen.",
+                "correct": false
+            }, {
+                "text": "Weil sie denken, dass Annie und Diana nicht gut genug sind.",
+                "correct": false
+            }, {
+                "text": "Weil sie glauben, dass Annie und Diana geschummelt haben.",
+                "correct": true
+            }, {
+                "text": "Weil sie Scarlett mehr vertrauen als Annie und Diana.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum haben Annie und Diana aufgehört, sich als die anderen auszugeben?",
+        "answers": [
+            {
+                "text": "Weil ihre Eltern sie dazu gezwungen haben.",
+                "correct": false
+            }, {
+                "text": "Weil ihre Freunde sie nicht mehr erkannt haben.",
+                "correct": false
+            }, {
+                "text": "Weil sie Fünfen in Mathe und Sport bekommen haben.",
+                "correct": true
+            }, {
+                "text": "Weil sie ihre Lehrer respektieren wollten.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum können sich Annie und Diana immer noch sehen, obwohl sie die Schule gewechselt haben?",
+        "answers": [
+            {
+                "text": "Weil sie dieselben Freunde haben.",
+                "correct": false
+            }, {
+                "text": "Weil ihre Eltern sie in derselben Klasse anmeldeten.",
+                "correct": false
+            }, {
+                "text": "Weil sie jeden Tag gemeinsam zur Schule gehen.",
+                "correct": false
+            }, {
+                "text": "Weil die neuen Schulen nicht weit voneinander entfernt sind.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Warum ist Scarlett eine Feindin von Annie und Diana?",
+        "answers": [
+            {
+                "text": "Weil sie ihre Geheimnisse verraten hat.",
+                "correct": true
+            }, {
+                "text": "Weil sie selbst eine Zwillingsschwester hat.",
+                "correct": false
+            }, {
+                "text": "Weil sie die Schule gewechselt hat.",
+                "correct": false
+            }, {
+                "text": "Weil sie eine bessere Sportlerin ist als Annie und Diana.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum gibt sich Annie manchmal als Diana aus?",
+        "answers": [
+            {
+                "text": "Weil Diana keinen Mathe-Test machen will.",
+                "correct": true
+            }, {
+                "text": "Weil sie Diana ärgern will.",
+                "correct": false
+            }, {
+                "text": "Weil sie die Mathe-Aufgaben besser lösen kann.",
+                "correct": false
+            }, {
+                "text": "Weil ihre Eltern es ihr gesagt haben.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum gibt sich Diana manchmal als Annie aus?",
+        "answers": [
+            {
+                "text": "Weil sie Sportunterricht mag.",
+                "correct": false
+            }, {
+                "text": "Weil sie Annies Schuhe mag.",
+                "correct": false
+            }, {
+                "text": "Weil Annie im Sportunterricht die Meile laufen muss.",
+                "correct": true
+            }, {
+                "text": "Weil sie Diana ärgern will.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "de": "die Zwillinge",
+        "en": "twins",
+        "ru": "близнецы",
+        "descriptionEN": "Two offspring born at the same birth.",
+        "descriptionRU": "Двое детей, рожденных в одной родовой акте.",
+        "descriptionDE": "Zwei Nachkommen bei einer Geburt."
+    }, {
+        "de": "der Unterschied",
+        "en": "difference",
+        "ru": "разница",
+        "descriptionEN": "A point or way in which people or things are not the same.",
+        "descriptionRU": "Точка или способ, в котором люди или вещи не одинаковы.",
+        "descriptionDE": "Ein Punkt oder eine Art und Weise, in der Menschen oder Dinge nicht gleich sind."
+    }, {
+        "de": "der Fuß",
+        "en": "foot",
+        "ru": "нога",
+        "descriptionEN": "The lower extremity of the leg below the ankle.",
+        "descriptionRU": "Нижняя конечность ниже лодыжки.",
+        "descriptionDE": "Das untere Ende des Beins unterhalb des Knöchels."
+    }, {
+        "de": "das Muttermal",
+        "en": "mole (skin)",
+        "ru": "родинка",
+        "descriptionEN": "A small, dark spot or lump on the skin.",
+        "descriptionRU": "Маленькое темное пятнышко или шишка на коже.",
+        "descriptionDE": "Ein kleiner dunkler Fleck oder Knoten auf der Haut."
+    }, {
+        "de": "der Mathe-Test",
+        "en": "math test",
+        "ru": "математический тест",
+        "descriptionEN": "An assessment of mathematical knowledge or ability.",
+        "descriptionRU": "Оценка математических знаний или умений.",
+        "descriptionDE": "Eine Bewertung von mathematischem Wissen oder Fähigkeiten."
+    }, {
+        "de": "der Sportunterricht",
+        "en": "physical education",
+        "ru": "физкультурное занятие",
+        "descriptionEN": "Instruction in physical exercise and games, especially in schools.",
+        "descriptionRU": "Обучение физическим упражнениям и играм, особенно в школах.",
+        "descriptionDE": "Unterricht in körperlicher Bewegung und Spielen, insbesondere in Schulen."
+    }, {
+        "de": "der Meile",
+        "en": "mile",
+        "ru": "миля",
+        "descriptionEN": "A unit of distance equal to 5,280 feet or 1,760 yards.",
+        "descriptionRU": "Единица измерения расстояния, равная 5280 футам или 1760 ярдам.",
+        "descriptionDE": "Eine Maßeinheit für die Entfernung, die 5280 Fuß oder 1760 Yards entspricht."
+    }, {
+        "de": "der Unterschied",
+        "en": "difference",
+        "ru": "разница",
+        "descriptionEN": "A point or way in which people or things are not the same.",
+        "descriptionRU": "Точка или способ, в котором люди или вещи не одинаковы.",
+        "descriptionDE": "Ein Punkt oder eine Art und Weise, in der Menschen oder Dinge nicht gleich sind."
+    }, {
+        "de": "die Feindin",
+        "en": "enemy (female)",
+        "ru": "врагиня",
+        "descriptionEN": "A person who is actively opposed or hostile to someone or something.",
+        "descriptionRU": "Человек, который активно противопоставляется или враждебен кому-то или чему-то.",
+        "descriptionDE": "Eine Person, die aktiv jemandem oder etwas entgegensteht oder feindlich gesinnt ist."
+    }, {
+        "de": "der Lehrer",
+        "en": "teacher",
+        "ru": "учитель",
+        "descriptionEN": "A person who teaches, especially in a school.",
+        "descriptionRU": "Человек, который преподает, особенно в школе.",
+        "descriptionDE": "Eine Person, die unterrichtet, besonders in einer Schule."
+    }, {
+        "de": "die Schule",
+        "en": "school",
+        "ru": "школа",
+        "descriptionEN": "An institution for educating children.",
+        "descriptionRU": "Учебное заведение для обучения детей.",
+        "descriptionDE": "Eine Einrichtung zur Bildung von Kindern."
+    }, {
+        "de": "die Erfahrung",
+        "en": "experience",
+        "ru": "опыт",
+        "descriptionEN": "Practical contact with and observation of facts or events.",
+        "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+    }, {
+        "de": "verkleiden",
+        "en": "to disguise",
+        "ru": "маскировать",
+        "descriptionEN": "To change the appearance or guise of someone or something.",
+        "descriptionRU": "Изменить внешний вид или облик кого-то или чего-то.",
+        "descriptionDE": "Das Aussehen oder die Verkleidung von jemandem oder etwas zu ändern."
+    }, {
+        "de": "auseinanderhalten",
+        "en": "to tell apart",
+        "ru": "различать",
+        "descriptionEN": "To distinguish or recognize differences between things or people.",
+        "descriptionRU": "Отличать или распознавать различия между вещами или людьми.",
+        "descriptionDE": "Unterschiede zwischen Dingen oder Menschen erkennen oder unterscheiden."
+    }, {
+        "de": "verzweifelt",
+        "en": "desperate",
+        "ru": "отчаянный",
+        "descriptionEN": "Feeling or showing a hopeless sense that a situation is so bad as to be impossible to deal with.",
+        "descriptionRU": "Чувство или выражение безысходности, когда ситуация настолько плоха, что ее невозможно решить.",
+        "descriptionDE": "Das Gefühl oder der Ausdruck einer hoffnungslosen Situation, die so schlecht ist, dass sie nicht zu bewältigen ist."
+    }, {
+        "de": "traurig",
+        "en": "sad",
+        "ru": "грустный",
+        "descriptionEN": "Feeling sorrow or unhappiness.",
+        "descriptionRU": "Чувство горя или несчастья.",
+        "descriptionDE": "Das Gefühl von Trauer oder Unglücklichsein."
+    }
+]
