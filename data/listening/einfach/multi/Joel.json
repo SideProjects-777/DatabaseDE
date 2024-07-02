@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wie lange arbeitet Joel bereits in der Buchhandlung?",
+        "answers": [
+            {
+                "text": "Seit einem Monat",
+                "correct": false
+            }, {
+                "text": "Seit vier Monaten",
+                "correct": true
+            }, {
+                "text": "Seit einem Jahr",
+                "correct": false
+            }, {
+                "text": "Seit einer Woche",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Joels Traumjob?",
+        "answers": [
+            {
+                "text": "Automechaniker",
+                "correct": false
+            }, {
+                "text": "Lehrer",
+                "correct": false
+            }, {
+                "text": "Buchhändler",
+                "correct": true
+            }, {
+                "text": "Arzt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer war Joels Lieblingsautor?",
+        "answers": [
+            {
+                "text": "Mark Twain",
+                "correct": true
+            }, {
+                "text": "Charles Dickens",
+                "correct": false
+            }, {
+                "text": "William Shakespeare",
+                "correct": false
+            }, {
+                "text": "J.K. Rowling",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Joels Lieblingsbuch?",
+        "answers": [
+            {
+                "text": "Harry Potter",
+                "correct": false
+            }, {
+                "text": "Huckleberry Finn",
+                "correct": true
+            }, {
+                "text": "Pride and Prejudice",
+                "correct": false
+            }, {
+                "text": "The Great Gatsby",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was verschaffte Joel die Arbeit in der Buchhandlung?",
+        "answers": [
+            {
+                "text": "Geld",
+                "correct": false
+            }, {
+                "text": "Ferien",
+                "correct": false
+            }, {
+                "text": "Zugang zu Büchern",
+                "correct": true
+            }, {
+                "text": "Autos",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bekam Joel einmal pro Woche von seinem Manager geschenkt?",
+        "answers": [
+            {
+                "text": "Geld",
+                "correct": false
+            }, {
+                "text": "Auto",
+                "correct": false
+            }, {
+                "text": "Computer",
+                "correct": false
+            }, {
+                "text": "Buch",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wofür begann Joel zu arbeiten?",
+        "answers": [
+            {
+                "text": "Gebrauchtwagen",
+                "correct": false
+            }, {
+                "text": "Bücher zu lesen",
+                "correct": false
+            }, {
+                "text": "Auto zu kaufen",
+                "correct": true
+            }, {
+                "text": "Urlaub zu machen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war der Hauptgrund für Joel, zu arbeiten?",
+        "answers": [
+            {
+                "text": "Auto zu kaufen",
+                "correct": true
+            }, {
+                "text": "Bücher zu lesen",
+                "correct": false
+            }, {
+                "text": "Geld zu verdienen",
+                "correct": false
+            }, {
+                "text": "Urlaub zu machen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was war Joels Traumauto?",
+        "answers": [
+            {
+                "text": "Fahrrad",
+                "correct": false
+            }, {
+                "text": "Bus",
+                "correct": false
+            }, {
+                "text": "Flugzeug",
+                "correct": false
+            }, {
+                "text": "1984er BMW",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wer schenkte Joel einmal pro Woche ein Buch?",
+        "answers": [
+            {
+                "text": "Freunde",
+                "correct": false
+            }, {
+                "text": "Manager",
+                "correct": true
+            }, {
+                "text": "Kunden",
+                "correct": false
+            }, {
+                "text": "Familie",
+                "correct": false
+            }
+        ]
+    }
+]

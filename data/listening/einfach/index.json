@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Joel's Dream Job",
+            "de": "Joels Traumjob",
+            "ru": "Мечта Джоэла"
+        },
+        "description": {
+            "en": "Passion for books",
+            "de": "Leidenschaft für Bücher",
+            "ru": "Страсть к книгам"
+        },
+        "level": "A2",
+        "image": "Joel.png",
+        "file": "Joel.mp3",
+        "words": "Joel.json",
+        "multi": "Joel.json"
+    }, {
+        "name": {
             "en": "Stormy Week",
             "de": "Stürmische Woche",
             "ru": "Штормовая неделя"
