@@ -107,10 +107,10 @@
             "ru": "Интервью с гражданами"
         },
         "level": "B1",
-        "image": "Bürgerinterviews.jpg",
-        "file": "Bürgerinterviews.txt",
-        "words": "Bürgerinterviews.json",
-        "multi": "Bürgerinterviews.json"
+        "image": "Burgerinterviews.jpg",
+        "file": "Burgerinterviews.txt",
+        "words": "Burgerinterviews.json",
+        "multi": "Burgerinterviews.json"
     }, {
         "name": {
             "en": "Altstadt Charm",
