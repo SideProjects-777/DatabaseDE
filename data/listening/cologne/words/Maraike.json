@@ -14,13 +14,6 @@
         "descriptionRU": "прием пищи утром, первый в день.",
         "descriptionDE": "Eine Mahlzeit, die am Morgen gegessen wird, die erste des Tages."
     }, {
-        "de": "die Stadt",
-        "en": "city",
-        "ru": "город",
-        "descriptionEN": "a large town.",
-        "descriptionRU": "крупный город.",
-        "descriptionDE": "Eine große Stadt."
-    }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
@@ -111,13 +104,6 @@
         "descriptionEN": "make an attempt or effort to do something.",
         "descriptionRU": "попытаться сделать что-то.",
         "descriptionDE": "Versuchen Sie, etwas zu tun."
-    }, {
-        "de": "genießen",
-        "en": "enjoy",
-        "ru": "наслаждаться",
-        "descriptionEN": "take delight or pleasure in (an activity or occasion).",
-        "descriptionRU": "наслаждаться или получать удовольствие от (деятельности или случая).",
-        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben."
     }, {
         "de": "verbringen",
         "en": "spend",
