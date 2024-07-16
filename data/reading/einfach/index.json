@@ -14,7 +14,7 @@
         "image": "Companions.png",
         "file": "Companions.txt",
         "words": "Companions.json",
-        "multi": "Companions.json"
+        "yesNo": "Companions.json"
     }, {
         "name": {
             "en": "Career Decision",
