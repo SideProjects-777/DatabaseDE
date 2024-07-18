@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Academic Journey",
+            "de": "Akademische Reise",
+            "ru": "Академический путь"
+        },
+        "description": {
+            "en": "Emma's New Beginnings",
+            "de": "Emmas Neuanfang",
+            "ru": "Новое начало Эммы"
+        },
+        "level": "A2",
+        "image": "Emmas.png",
+        "file": "Emmas.txt",
+        "words": "Emmas.json",
+        "yesNo": "Emmas.json"
+    }, {
+        "name": {
             "en": "Train Journey Delay",
             "de": "Zugverspätung",
             "ru": "Задержка поезда"
