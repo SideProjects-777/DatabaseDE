@@ -1,0 +1,130 @@
+[
+
+    {
+        "de": "das Feuerwerk",
+        "en": "fireworks",
+        "ru": "фейерверк",
+        "descriptionEN": "A display of explosive devices set off to create colorful lights and sounds in the sky.",
+        "descriptionRU": "Показ взрывных устройств, запускаемых для создания цветных огней и звуков в небе.",
+        "descriptionDE": "Eine Ausstellung von Explosionsgeräten, die abgefeuert werden, um bunte Lichter und Geräusche am Himmel zu erzeugen."
+    }, {
+        "de": "das Fahrgeschäft",
+        "en": "ride",
+        "ru": "аттракцион",
+        "descriptionEN": "A machine at an amusement park that people ride for enjoyment.",
+        "descriptionRU": "Машина в парке развлечений, на которой люди катаются для удовольствия.",
+        "descriptionDE": "Eine Maschine in einem Vergnügungspark, die Menschen zum Vergnügen fahren."
+    }, {
+        "de": "die Bühne",
+        "en": "stage",
+        "ru": "сцена",
+        "descriptionEN": "A platform where artists perform for an audience.",
+        "descriptionRU": "Платформа, на которой артисты выступают перед аудиторией.",
+        "descriptionDE": "Eine Plattform, auf der Künstler vor einem Publikum auftreten."
+    }, {
+        "de": "das Konzert",
+        "en": "concert",
+        "ru": "концерт",
+        "descriptionEN": "A live performance of music before an audience.",
+        "descriptionRU": "Живое исполнение музыки перед аудиторией.",
+        "descriptionDE": "Ein Live-Auftritt von Musik vor einem Publikum."
+    }, {
+        "de": "die Atmosphäre",
+        "en": "atmosphere",
+        "ru": "атмосфера",
+        "descriptionEN": "The mood or feeling in a particular place.",
+        "descriptionRU": "Настроение или чувство в конкретном месте.",
+        "descriptionDE": "Die Stimmung oder das Gefühl an einem bestimmten Ort."
+    }, {
+        "de": "das Essen",
+        "en": "food",
+        "ru": "еда",
+        "descriptionEN": "Substances consumed to provide nutritional support for the body.",
+        "descriptionRU": "Вещества, потребляемые для обеспечения организма питательными веществами.",
+        "descriptionDE": "Substanzen, die konsumiert werden, um dem Körper Nährstoffe zu liefern."
+    }, {
+        "de": "die Leckerei",
+        "en": "delicacy",
+        "ru": "деликатес",
+        "descriptionEN": "A delicious and luxurious food item.",
+        "descriptionRU": "Вкусный и роскошный продукт питания.",
+        "descriptionDE": "Eine köstliche und luxuriöse Speise."
+    }, {
+        "de": "der Wein",
+        "en": "wine",
+        "ru": "вино",
+        "descriptionEN": "An alcoholic drink made from fermented grapes.",
+        "descriptionRU": "Алкогольный напиток, изготовленный из ферментированного винограда.",
+        "descriptionDE": "Ein alkoholisches Getränk aus fermentierten Trauben."
+    }, {
+        "de": "die Musik",
+        "en": "music",
+        "ru": "музыка",
+        "descriptionEN": "Art form and cultural activity whose medium is sound.",
+        "descriptionRU": "Форма искусства и культурная деятельность, средством которой является звук.",
+        "descriptionDE": "Kunstform und kulturelle Aktivität, deren Medium der Klang ist."
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "A group of people related by blood or marriage.",
+        "descriptionRU": "Группа людей, связанных кровным родством или браком.",
+        "descriptionDE": "Eine Gruppe von Menschen, die durch Blut oder Ehe verbunden sind."
+    }, {
+        "de": "synchronisieren",
+        "en": "to synchronize",
+        "ru": "синхронизировать",
+        "descriptionEN": "To occur at the same time or rate.",
+        "descriptionRU": "Происходить в одно и то же время или с одинаковой скоростью.",
+        "descriptionDE": "Gleichzeitig oder mit der gleichen Geschwindigkeit ablaufen."
+    }, {
+        "de": "erhellen",
+        "en": "to illuminate",
+        "ru": "освещать",
+        "descriptionEN": "To light up.",
+        "descriptionRU": "Осветить.",
+        "descriptionDE": "Beleuchten."
+    }, {
+        "de": "lebendig",
+        "en": "lively",
+        "ru": "живой",
+        "descriptionEN": "Full of life and energy.",
+        "descriptionRU": "Полный жизни и энергии.",
+        "descriptionDE": "Voller Leben und Energie."
+    }, {
+        "de": "spektakulär",
+        "en": "spectacular",
+        "ru": "зрелищный",
+        "descriptionEN": "Visually striking.",
+        "descriptionRU": "Визуально впечатляющий.",
+        "descriptionDE": "Visuell beeindruckend."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "Very memorable.",
+        "descriptionRU": "Очень запоминающийся.",
+        "descriptionDE": "Sehr einprägsam."
+    }, {
+        "de": "lokal",
+        "en": "local",
+        "ru": "местный",
+        "descriptionEN": "Belonging or relating to a particular area.",
+        "descriptionRU": "Принадлежит или относится к определенной области.",
+        "descriptionDE": "Zugehörig oder bezogen auf ein bestimmtes Gebiet."
+    }, {
+        "de": "international",
+        "en": "international",
+        "ru": "международный",
+        "descriptionEN": "Existing or occurring between nations.",
+        "descriptionRU": "Существующий или происходящий между нациями.",
+        "descriptionDE": "Zwischen den Nationen existierend oder vorkommend."
+    }, {
+        "de": "fröhlich",
+        "en": "cheerful",
+        "ru": "весёлый",
+        "descriptionEN": "Noticeably happy and optimistic.",
+        "descriptionRU": "Заметно счастливый и оптимистичный.",
+        "descriptionDE": "Erkennbar glücklich und optimistisch."
+    }
+]

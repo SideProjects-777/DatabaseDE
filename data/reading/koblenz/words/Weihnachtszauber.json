@@ -1,0 +1,123 @@
+[
+
+    {
+        "de": "das Gebäude",
+        "en": "building",
+        "ru": "здание",
+        "descriptionEN": "Structures with walls and a roof, such as houses or factories.",
+        "descriptionRU": "Структуры со стенами и крышей, такие как дома или заводы.",
+        "descriptionDE": "Strukturen mit Wänden und einem Dach, wie Häuser oder Fabriken."
+    }, {
+        "de": "der Weihnachtsmarkt",
+        "en": "Christmas market",
+        "ru": "рождественские ярмарка",
+        "descriptionEN": "Festive markets held during the Christmas season.",
+        "descriptionRU": "Праздничные ярмарки, проводимые в рождественский период.",
+        "descriptionDE": "Festliche Märkte, die während der Weihnachtszeit stattfinden."
+    }, {
+        "de": "das Kunsthandwerk",
+        "en": "crafts",
+        "ru": "ремесла",
+        "descriptionEN": "Objects made by hand, often with skill and creativity.",
+        "descriptionRU": "Объекты, созданные вручную, часто с умением и творчеством.",
+        "descriptionDE": "Von Hand gefertigte Objekte, oft mit Geschick und Kreativität."
+    }, {
+        "de": "das Geschenk",
+        "en": "gift",
+        "ru": "подарок",
+        "descriptionEN": "Something given to someone, usually on a special occasion.",
+        "descriptionRU": "Что-то, подаренное кому-то, обычно по особому случаю.",
+        "descriptionDE": "Etwas, das jemandem gegeben wird, normalerweise zu einem besonderen Anlass."
+    }, {
+        "de": "der Duft",
+        "en": "scent",
+        "ru": "запах",
+        "descriptionEN": "A distinctive smell, especially one that is pleasant.",
+        "descriptionRU": "Отличительный запах, особенно приятный.",
+        "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer."
+    }, {
+        "de": "die Musikanten",
+        "en": "musicians",
+        "ru": "музыканты",
+        "descriptionEN": "People who play musical instruments or sing.",
+        "descriptionRU": "Люди, играющие на музыкальных инструментах или поющие.",
+        "descriptionDE": "Menschen, die Musikinstrumente spielen oder singen."
+    }, {
+        "de": "die Eisbahn",
+        "en": "ice rink",
+        "ru": "каток",
+        "descriptionEN": "A smooth, frozen surface for ice skating.",
+        "descriptionRU": "Гладкая замороженная поверхность для катания на коньках.",
+        "descriptionDE": "Eine glatte, gefrorene Fläche zum Schlittschuhlaufen."
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "A custom or belief passed down through generations.",
+        "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение.",
+        "descriptionDE": "Ein Brauch oder Glauben, der durch Generationen weitergegeben wird."
+    }, {
+        "de": "das Fenster",
+        "en": "window",
+        "ru": "окно",
+        "descriptionEN": "An opening in a wall or roof, typically fitted with glass.",
+        "descriptionRU": "Отверстие в стене или крыше, обычно с установленным стеклом.",
+        "descriptionDE": "Eine Öffnung in einer Wand oder einem Dach, typischerweise mit Glas versehen."
+    }, {
+        "de": "der Adventskalender",
+        "en": "advent calendar",
+        "ru": "адвент-календарь",
+        "descriptionEN": "A calendar used to count down the days to Christmas, with a small gift or treat behind each door.",
+        "descriptionRU": "Календарь, используемый для отсчета дней до Рождества, с небольшим подарком или угощением за каждой дверцей.",
+        "descriptionDE": "Ein Kalender, der die Tage bis Weihnachten zählt, mit einem kleinen Geschenk oder Leckerbissen hinter jeder Tür."
+    }, {
+        "de": "die Freude",
+        "en": "joy",
+        "ru": "радость",
+        "descriptionEN": "A feeling of great pleasure and happiness.",
+        "descriptionRU": "Чувство большого удовольствия и счастья.",
+        "descriptionDE": "Ein Gefühl großer Freude und Glück."
+    }, {
+        "de": "verwandeln",
+        "en": "to transform",
+        "ru": "превращать",
+        "descriptionEN": "To change in form or appearance.",
+        "descriptionRU": "Изменить форму или внешний вид.",
+        "descriptionDE": "Sich in Form oder Aussehen verändern."
+    }, {
+        "de": "unterhalten",
+        "en": "to entertain",
+        "ru": "развлекать",
+        "descriptionEN": "To provide someone with amusement or enjoyment.",
+        "descriptionRU": "Обеспечить кому-то развлечение или удовольствие.",
+        "descriptionDE": "Jemandem Unterhaltung oder Vergnügen bieten."
+    }, {
+        "de": "leuchten",
+        "en": "to shine",
+        "ru": "светить",
+        "descriptionEN": "To give off light.",
+        "descriptionRU": "Излучать свет.",
+        "descriptionDE": "Licht abgeben."
+    }, {
+        "de": "fröhlich",
+        "en": "cheerful",
+        "ru": "веселый",
+        "descriptionEN": "Noticeably happy and optimistic.",
+        "descriptionRU": "Заметно счастливый и оптимистичный.",
+        "descriptionDE": "Sichtbar glücklich und optimistisch."
+    }, {
+        "de": "festlich",
+        "en": "festive",
+        "ru": "праздничный",
+        "descriptionEN": "Relating to a festival or celebration.",
+        "descriptionRU": "Относящийся к фестивалю или празднованию.",
+        "descriptionDE": "Einen Bezug zu einem Fest oder einer Feier haben."
+    }, {
+        "de": "besonders",
+        "en": "special",
+        "ru": "особенный",
+        "descriptionEN": "Better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
+        "descriptionDE": "Besser, größer oder anderweitig anders als gewöhnlich."
+    }
+]
