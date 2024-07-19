@@ -1,0 +1,234 @@
+[
+    {
+        "de": "der Zug",
+        "en": "train",
+        "ru": "поезд",
+        "descriptionEN": "a connected series of railroad cars propelled by a locomotive",
+        "descriptionRU": "соединенная серия вагонов, тянемых локомотивом",
+        "descriptionDE": "eine verbundene Reihe von Eisenbahnwagen, die von einer Lokomotive angetrieben wird"
+    }, {
+        "de": "die Frau",
+        "en": "woman",
+        "ru": "женщина",
+        "descriptionEN": "adult human female",
+        "descriptionRU": "взрослая женщина",
+        "descriptionDE": "erwachsene menschliche Frau"
+    }, {
+        "de": "der Bahnhof",
+        "en": "train station",
+        "ru": "вокзал",
+        "descriptionEN": "a place where trains regularly stop for passengers",
+        "descriptionRU": "место, где поезда регулярно останавливаются для пассажиров",
+        "descriptionDE": "ein Ort, an dem Züge regelmäßig für Passagiere halten"
+    }, {
+        "de": "das Gleis",
+        "en": "platform",
+        "ru": "платформа",
+        "descriptionEN": "a flat area beside railroad tracks where passengers board and disembark from trains",
+        "descriptionRU": "плоская площадка рядом с железнодорожными путями, на которой пассажиры садятся и высаживаются из поездов",
+        "descriptionDE": "eine ebene Fläche neben den Bahngleisen, auf der Passagiere in Züge ein- und aussteigen"
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events",
+        "descriptionRU": "неопределенное продолжение существования и событий",
+        "descriptionDE": "die unbestimmte fortlaufende Entwicklung von Existenz und Ereignissen"
+    }, {
+        "de": "die Hilfe",
+        "en": "help",
+        "ru": "помощь",
+        "descriptionEN": "assistance or support given to someone in need",
+        "descriptionRU": "помощь или поддержка, оказываемая кому-то в нужде",
+        "descriptionDE": "Unterstützung oder Hilfe, die jemandem in Not gegeben wird"
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence and events",
+        "descriptionRU": "неопределенное продолжение существования и событий",
+        "descriptionDE": "die unbestimmte fortlaufende Entwicklung von Existenz und Ereignissen"
+    }, {
+        "de": "der Kaffee",
+        "en": "coffee",
+        "ru": "кофе",
+        "descriptionEN": "a drink made from roasted and ground coffee beans",
+        "descriptionRU": "напиток из обжаренных и молотых кофейных зерен",
+        "descriptionDE": "ein Getränk aus gerösteten und gemahlenen Kaffeebohnen"
+    }, {
+        "de": "das Wasser",
+        "en": "water",
+        "ru": "вода",
+        "descriptionEN": "a transparent, odorless, tasteless liquid essential for life",
+        "descriptionRU": "прозрачная, без запаха, безвкусная жидкость, необходимая для жизни",
+        "descriptionDE": "eine transparente, geruchlose, geschmacklose Flüssigkeit, die lebensnotwendig ist"
+    }, {
+        "de": "der Hunger",
+        "en": "hunger",
+        "ru": "голод",
+        "descriptionEN": "a feeling of discomfort or weakness caused by lack of food",
+        "descriptionRU": "чувство дискомфорта или слабости, вызванное отсутствием пищи",
+        "descriptionDE": "ein Gefühl von Unbehagen oder Schwäche aufgrund von Nahrungsmangel"
+    }, {
+        "de": "die Vorfreude",
+        "en": "anticipation",
+        "ru": "ожидание с нетерпением",
+        "descriptionEN": "pleasurable expectation of an upcoming event",
+        "descriptionRU": "приятное ожидание предстоящего события",
+        "descriptionDE": "angenehme Erwartung eines bevorstehenden Ereignisses"
+    }, {
+        "de": "der Platz",
+        "en": "place",
+        "ru": "место",
+        "descriptionEN": "a specific portion of space",
+        "descriptionRU": "определенная часть пространства",
+        "descriptionDE": "ein bestimmter Teil des Raumes"
+    }, {
+        "de": "die Verspätung",
+        "en": "delay",
+        "ru": "задержка",
+        "descriptionEN": "the action of delaying or the state of being delayed",
+        "descriptionRU": "действие задержки или состояние задержки",
+        "descriptionDE": "die Handlung des Verzögerens oder der Zustand der Verzögerung"
+    }, {
+        "de": "die Ewigkeit",
+        "en": "eternity",
+        "ru": "вечность",
+        "descriptionEN": "infinite or unending time",
+        "descriptionRU": "бесконечное или нескончаемое время",
+        "descriptionDE": "unendliche oder endlose Zeit"
+    }, {
+        "de": "das Brötchen",
+        "en": "roll (bread)",
+        "ru": "булочка",
+        "descriptionEN": "a small bread typically baked and served hot",
+        "descriptionRU": "маленький хлеб, обычно выпекаемый и подающийся горячим",
+        "descriptionDE": "ein kleines Brot, das typischerweise gebacken und warm serviert wird"
+    }, {
+        "de": "der Snack",
+        "en": "snack",
+        "ru": "закуска",
+        "descriptionEN": "a small amount of food eaten between meals",
+        "descriptionRU": "небольшое количество еды, съедаемое между основными приемами пищи",
+        "descriptionDE": "eine kleine Menge Essen, die zwischen den Mahlzeiten gegessen wird"
+    }, {
+        "de": "der Bus",
+        "en": "bus",
+        "ru": "автобус",
+        "descriptionEN": "a large motor vehicle carrying passengers by road",
+        "descriptionRU": "большой автомобиль, перевозящий пассажиров по дороге",
+        "descriptionDE": "ein großes Kraftfahrzeug, das Passagiere auf der Straße befördert"
+    }, {
+        "de": "die Mitarbeiter",
+        "en": "employees",
+        "ru": "сотрудники",
+        "descriptionEN": "people who work for an organization",
+        "descriptionRU": "люди, работающие в организации",
+        "descriptionDE": "Menschen, die für eine Organisation arbeiten"
+    }, {
+        "de": "der Informationsschalter",
+        "en": "information desk",
+        "ru": "информационный стол",
+        "descriptionEN": "a counter, typically in a public place, where information and assistance are provided",
+        "descriptionRU": "стойка, обычно в общественном месте, где предоставляются информация и помощь",
+        "descriptionDE": "ein Schalter, typischerweise an öffentlichen Orten, wo Informationen und Hilfe angeboten werden"
+    }, {
+        "de": "die Mitarbeiterin",
+        "en": "employee (female)",
+        "ru": "сотрудница",
+        "descriptionEN": "a woman who works for an organization",
+        "descriptionRU": "женщина, работающая в организации",
+        "descriptionDE": "eine Frau, die für eine Organisation arbeitet"
+    }, {
+        "de": "fahren",
+        "en": "to drive",
+        "ru": "ехать",
+        "descriptionEN": "to travel in a vehicle",
+        "descriptionRU": "путешествовать на транспортном средстве"
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посетить",
+        "descriptionEN": "to go to see someone in their home or where they work",
+        "descriptionRU": "пойти навестить кого-то дома или на работе"
+    }, {
+        "de": "vermissen",
+        "en": "to miss",
+        "ru": "скучать",
+        "descriptionEN": "to feel sad because you are not with someone",
+        "descriptionRU": "чувствовать грусть из-за того, что ты не с кем-то"
+    }, {
+        "de": "planen",
+        "en": "to plan",
+        "ru": "планировать",
+        "descriptionEN": "to decide what you are going to do and how you are going to do it",
+        "descriptionRU": "решить, что вы собираетесь делать и как вы это будете делать"
+    }, {
+        "de": "helfen",
+        "en": "to help",
+        "ru": "помогать",
+        "descriptionEN": "to make it easier for someone to do something",
+        "descriptionRU": "сделать что-то легче для кого-то"
+    }, {
+        "de": "ankommen",
+        "en": "to arrive",
+        "ru": "прибыть",
+        "descriptionEN": "to reach a place, especially at the end of a journey",
+        "descriptionRU": "достигнуть места, особенно в конце путешествия"
+    }, {
+        "de": "warten",
+        "en": "to wait",
+        "ru": "ждать",
+        "descriptionEN": "to stay in one place until something happens or someone arrives",
+        "descriptionRU": "оставаться на одном месте, пока что-то не случится или кто-то не придет"
+    }, {
+        "de": "kaufen",
+        "en": "to buy",
+        "ru": "купить",
+        "descriptionEN": "to get something by paying money for it",
+        "descriptionRU": "получить что-то, заплатив за это деньги"
+    }, {
+        "de": "finden",
+        "en": "to find",
+        "ru": "найти",
+        "descriptionEN": "to discover something or someone by looking for them carefully",
+        "descriptionRU": "обнаружить что-то или кого-то, ища их внимательно"
+    }, {
+        "de": "trinken",
+        "en": "to drink",
+        "ru": "пить",
+        "descriptionEN": "to take liquid into the body through the mouth",
+        "descriptionRU": "принимать жидкость в организм через рот"
+    }, {
+        "de": "müde",
+        "en": "tired",
+        "ru": "усталый",
+        "descriptionEN": "needing to rest or sleep",
+        "descriptionRU": "нуждающийся в отдыхе или сне"
+    }, {
+        "de": "ungeduldig",
+        "en": "impatient",
+        "ru": "нетерпеливый",
+        "descriptionEN": "wanting something to happen as soon as possible",
+        "descriptionRU": "хотящий, чтобы что-то произошло как можно скорее"
+    }, {
+        "de": "genau",
+        "en": "exactly",
+        "ru": "точно",
+        "descriptionEN": "in a complete and detailed way",
+        "descriptionRU": "полным и подробным образом"
+    }, {
+        "de": "sonnig",
+        "en": "sunny",
+        "ru": "солнечный",
+        "descriptionEN": "having a lot of light and warmth from the sun",
+        "descriptionRU": "имеющий много света и тепла от солнца"
+    }, {
+        "de": "hilfsbereit",
+        "en": "helpful",
+        "ru": "полезный",
+        "descriptionEN": "willing to help",
+        "descriptionRU": "готовый помочь"
+    }
+
+]

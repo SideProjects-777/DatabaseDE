@@ -1,38 +1,14 @@
 [
-    {
+ {
         "name": {
-            "en": "Koblenz - Oktoberfest \u270D",
-            "ru": "Koblenz - Октоберфест \u270D",
+            "en": "Simple city - Dream Job \u266C",
+            "ru": "Просто город - Работа мечты \u266C",
             "de": null
         }
     }, {
         "name": {
-            "en": "Mosel - Discover Germany \u266C",
-            "ru": "Мозель - Знакомство с Германией \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Simple city - Stormy Week \u266C",
-            "ru": "Просто город - Штормовая неделя \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Simple city - Diverse Companions \u270D",
-            "ru": "Просто город - Разнообразные друзья \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Mosel - Cochem vs Trier \u270D",
-            "ru": "Мозель - Кохем против Трира \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Koblenz - Outdoor Adventures \u270D",
-            "ru": "Koblenz - Приключения на свежем воздухе \u270D",
+            "en": "Simple city \u270D",
+            "ru": "Просто город \u270D",
             "de": null
         }
     }
