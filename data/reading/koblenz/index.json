@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Summer Festival",
+            "de": "Sommerfest",
+            "ru": "Летний Фестиваль"
+        },
+        "description": {
+            "en": "Lively summer event",
+            "de": "Lebhaftes Sommerereignis",
+            "ru": "Живое летнее событие"
+        },
+        "level": "A2",
+        "image": "Sommerfest.jpg",
+        "file": "Sommerfest.txt",
+        "words": "Sommerfest.json",
+        "multi": "Sommerfest.json"
+    }, {
+        "name": {
             "en": "Marko's Journey",
             "de": "Markos Reise",
             "ru": "Путешествие Марко"
