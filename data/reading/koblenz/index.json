@@ -64,7 +64,7 @@
         "words": "Lukas.json",
         "multi": "Lukas.json"
     }, {
-        "name":{
+        "name": {
             "en": "Outdoor Adventures",
             "de": "Outdoor-Abenteuer",
             "ru": "Приключения на свежем воздухе"
@@ -113,6 +113,22 @@
         "yesNo": "Wehrtechnisches.json"
     }, {
         "name": {
+            "en": "Christmas Magic",
+            "de": "Weihnachtszauber",
+            "ru": "Рождественская магия"
+        },
+        "description": {
+            "en": "Festive holiday activities",
+            "de": "Festliche Aktivitäten",
+            "ru": "Праздничные мероприятия"
+        },
+        "level": "B1",
+        "image": "Weihnachtszauber.jpg",
+        "file": "Weihnachtszauber.txt",
+        "words": "Weihnachtszauber.json",
+        "yesNo": "Weihnachtszauber.json"
+    }, {
+        "name": {
             "en": "Exploring Deutsches Eck",
             "de": "Erkundung von Deutsches Eck",
             "ru": "Исследование Дойчес Эк"
@@ -122,7 +138,7 @@
             "de": "Abenteuer eines neugierigen Reisenden",
             "ru": "Приключение любопытного путешественника"
         },
-        "level": "B2",
+        "level": "B1",
         "image": "Deutsches_Eck_Erkunden.jpg",
         "file": "Deutsches_Eck_Erkunden.txt",
         "words": "Deutsches_Eck_Erkunden.json",
