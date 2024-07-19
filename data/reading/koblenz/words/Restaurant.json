@@ -98,13 +98,6 @@
         "descriptionRU": "Предложить, что кто-то или что-то было бы хорошим или подходящим для определенной работы или цели, или предложить, что должно быть сделано определенное действие.",
         "descriptionDE": "Vorschlagen, dass jemand oder etwas für eine bestimmte Aufgabe oder einen bestimmten Zweck gut oder geeignet wäre, oder vorschlagen, dass eine bestimmte Handlung durchgeführt werden sollte."
     }, {
-        "de": "genießen",
-        "en": "enjoy",
-        "ru": "наслаждаться",
-        "descriptionEN": "To take pleasure in something.",
-        "descriptionRU": "Получать удовольствие от чего-либо.",
-        "descriptionDE": "Vergnügen an etwas haben."
-    }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",

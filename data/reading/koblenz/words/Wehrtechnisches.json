@@ -7,13 +7,6 @@
         "descriptionRU": "здание или место, где хранятся и выставляются произведения искусства, научные экспонаты или другие объекты постоянной ценности.",
         "descriptionDE": "Ein Gebäude oder Ort, an dem Kunstwerke, wissenschaftliche Exemplare oder andere Objekte von bleibendem Wert aufbewahrt und ausgestellt werden."
     }, {
-        "de": "die Stadt",
-        "en": "city",
-        "ru": "город",
-        "descriptionEN": "a large town.",
-        "descriptionRU": "большой город.",
-        "descriptionDE": "Eine große Stadt."
-    }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",

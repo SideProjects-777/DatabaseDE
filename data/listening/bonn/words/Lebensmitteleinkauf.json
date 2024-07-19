@@ -7,13 +7,6 @@
         "descriptionRU": "процесс изменения места проживания или места работы.",
         "descriptionDE": "Der Vorgang, seinen Wohnsitz oder seinen Geschäftsort zu ändern."
     }, {
-        "de": "die Stadt",
-        "en": "city",
-        "ru": "город",
-        "descriptionEN": "a large town.",
-        "descriptionRU": "крупный город.",
-        "descriptionDE": "Eine große Stadt."
-    }, {
         "de": "der Markt",
         "en": "market",
         "ru": "рынок",

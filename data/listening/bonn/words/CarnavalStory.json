@@ -133,13 +133,6 @@
         "descriptionRU": "вещь, используемая для привязывания чего-то или соединения вещей вместе.",
         "descriptionDE": "eine Sache, die verwendet wird, um etwas zu binden oder Dinge zusammenzufügen."
     }, {
-        "de": "die Stadt",
-        "en": "city",
-        "ru": "город",
-        "descriptionEN": "a large town.",
-        "descriptionRU": "крупный населённый пункт, обычно с полной инфраструктурой и правительственными учреждениями.",
-        "descriptionDE": "eine große Stadt."
-    }, {
         "de": "die Freundschaft",
         "en": "friendship",
         "ru": "дружба",

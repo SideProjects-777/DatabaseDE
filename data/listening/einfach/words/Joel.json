@@ -1,0 +1,157 @@
+[
+    {
+        "de": "die Buchhandlung",
+        "en": "bookstore",
+        "ru": "книжный магазин",
+        "descriptionEN": "a store where books are sold",
+        "descriptionRU": "магазин, где продаются книги",
+        "descriptionDE": "ein Geschäft, in dem Bücher verkauft werden"
+    }, {
+        "de": "der Monat",
+        "en": "month",
+        "ru": "месяц",
+        "descriptionEN": "a unit of time approximately equal to 30 days",
+        "descriptionRU": "единица времени, примерно равная 30 дням",
+        "descriptionDE": "eine Zeiteinheit von ungefähr 30 Tagen"
+    }, {
+        "de": "der Traum",
+        "en": "dream",
+        "ru": "мечта",
+        "descriptionEN": "a series of thoughts, images, or emotions occurring during sleep",
+        "descriptionRU": "последовательность мыслей, образов или эмоций, происходящих во сне",
+        "descriptionDE": "eine Abfolge von Gedanken, Bildern oder Emotionen, die im Schlaf auftreten"
+    }, {
+        "de": "der Autor",
+        "en": "author",
+        "ru": "автор",
+        "descriptionEN": "a writer of a book, article, or document",
+        "descriptionRU": "писатель книги, статьи или документа",
+        "descriptionDE": "ein Verfasser eines Buches, Artikels oder Dokuments"
+    }, {
+        "de": "das Buch",
+        "en": "book",
+        "ru": "книга",
+        "descriptionEN": "a set of written, printed, or blank pages fastened together",
+        "descriptionRU": "набор написанных, напечатанных или пустых страниц, скрепленных вместе",
+        "descriptionDE": "eine Sammlung von beschriebenen, gedruckten oder leeren Seiten, die zusammengebunden sind"
+    }, {
+        "de": "die Freizeit",
+        "en": "leisure time",
+        "ru": "свободное время",
+        "descriptionEN": "time that is free from work or other responsibilities",
+        "descriptionRU": "время, свободное от работы или других обязанностей",
+        "descriptionDE": "Zeit, die frei von Arbeit oder anderen Verpflichtungen ist"
+    }, {
+        "de": "die Familie",
+        "en": "family",
+        "ru": "семья",
+        "descriptionEN": "a group of people related by blood or marriage",
+        "descriptionRU": "группа людей, связанных кровными узами или браком",
+        "descriptionDE": "eine Gruppe von Menschen, die durch Blutsverwandtschaft oder Ehe verbunden sind"
+    }, {
+        "de": "das Geld",
+        "en": "money",
+        "ru": "деньги",
+        "descriptionEN": "a medium of exchange for goods and services",
+        "descriptionRU": "средство обмена для товаров и услуг",
+        "descriptionDE": "ein Tauschmittel für Waren und Dienstleistungen"
+    }, {
+        "de": "der Grund",
+        "en": "reason",
+        "ru": "причина",
+        "descriptionEN": "a basis or cause for an action, decision, or belief",
+        "descriptionRU": "основание или причина для действия, решения или убеждения",
+        "descriptionDE": "eine Basis oder Ursache für eine Handlung, Entscheidung oder Überzeugung"
+    }, {
+        "de": "das Auto",
+        "en": "car",
+        "ru": "автомобиль",
+        "descriptionEN": "a four-wheeled vehicle used for transportation",
+        "descriptionRU": "четырехколесный транспортное средство",
+        "descriptionDE": "ein vierrädriges Fahrzeug zur Beförderung"
+    }, {
+        "de": "der Kauf",
+        "en": "purchase",
+        "ru": "покупка",
+        "descriptionEN": "the act of buying something",
+        "descriptionRU": "действие покупки чего-то",
+        "descriptionDE": "der Akt des Kaufens von etwas"
+    }, {
+        "de": "die Entscheidung",
+        "en": "decision",
+        "ru": "решение",
+        "descriptionEN": "a conclusion or resolution reached after consideration",
+        "descriptionRU": "заключение или решение, принятое после обдумывания",
+        "descriptionDE": "ein Schluss oder eine Lösung nach Abwägung"
+    }, {
+        "de": "die Zeitschrift",
+        "en": "magazine",
+        "ru": "журнал",
+        "descriptionEN": "a periodical publication containing articles and illustrations",
+        "descriptionRU": "периодическое издание, содержащее статьи и иллюстрации",
+        "descriptionDE": "eine periodische Veröffentlichung mit Artikeln und Illustrationen"
+    }, {
+        "de": "lesen",
+        "en": "read",
+        "ru": "читать",
+        "descriptionEN": "to look at and comprehend the meaning of written or printed matter",
+        "descriptionRU": "смотреть и понимать значение письменного или печатного материала",
+        "descriptionDE": "betrachten und den Sinn von schriftlichem oder gedrucktem Material verstehen"
+    }, {
+        "de": "empfehlen",
+        "en": "recommend",
+        "ru": "рекомендовать",
+        "descriptionEN": "to suggest or endorse as being suitable, beneficial, or necessary",
+        "descriptionRU": "предложить или поддержать как подходящий, полезный или необходимый",
+        "descriptionDE": "vorschlagen oder unterstützen als geeignet, vorteilhaft oder notwendig"
+    }, {
+        "de": "sparen",
+        "en": "save",
+        "ru": "экономить",
+        "descriptionEN": "to set aside money for future use",
+        "descriptionRU": "откладывать деньги на будущее",
+        "descriptionDE": "Geld für zukünftige Verwendung beiseite legen"
+    }, {
+        "de": "kaufen",
+        "en": "buy",
+        "ru": "покупать",
+        "descriptionEN": "to acquire something in exchange for money",
+        "descriptionRU": "приобретать что-то в обмен на деньги",
+        "descriptionDE": "etwas gegen Geld erwerben"
+    }, {
+        "de": "arbeiten",
+        "en": "work",
+        "ru": "работать",
+        "descriptionEN": "to perform tasks for a job or occupation",
+        "descriptionRU": "выполнять задачи для работы или занятия",
+        "descriptionDE": "Aufgaben für eine Arbeit oder Tätigkeit ausführen"
+    }, {
+        "de": "hören",
+        "en": "hear",
+        "ru": "слышать",
+        "descriptionEN": "to perceive with the ear",
+        "descriptionRU": "воспринимать ухом",
+        "descriptionDE": "mit dem Ohr wahrnehmen"
+    }, {
+        "de": "lieben",
+        "en": "love",
+        "ru": "любить",
+        "descriptionEN": "to have a great affection or liking for",
+        "descriptionRU": "иметь большую привязанность или симпатию к",
+        "descriptionDE": "eine große Zuneigung oder Vorliebe haben für"
+    }, {
+        "de": "schwer",
+        "en": "hard",
+        "ru": "трудно",
+        "descriptionEN": "requiring a great deal of effort or endurance",
+        "descriptionRU": "требующий большого усилия или выносливости",
+        "descriptionDE": "erfordert viel Mühe oder Ausdauer"
+    }, {
+        "de": "klassisch",
+        "en": "classic",
+        "ru": "классический",
+        "descriptionEN": "of the highest quality or class",
+        "descriptionRU": "высшего качества или класса",
+        "descriptionDE": "von höchster Qualität oder Klasse"
+    }
+]

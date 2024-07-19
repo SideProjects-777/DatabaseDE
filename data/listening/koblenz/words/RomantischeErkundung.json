@@ -14,13 +14,6 @@
         "descriptionRU": "действие путешествия из одного места в другое",
         "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen"
     }, {
-        "de": "die Stadt",
-        "en": "city",
-        "ru": "город",
-        "descriptionEN": "a large town",
-        "descriptionRU": "большой город",
-        "descriptionDE": "eine große Stadt"
-    }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",

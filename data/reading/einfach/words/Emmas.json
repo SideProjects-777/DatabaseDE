@@ -1,0 +1,150 @@
+[
+    {
+        "de": "das Zimmer",
+        "en": "room",
+        "ru": "комната",
+        "descriptionEN": "a space that is or can be occupied",
+        "descriptionRU": "пространство, которое занимается или может быть занято",
+        "descriptionDE": "ein Raum, der besetzt oder genutzt werden kann"
+    }, {
+        "de": "das Buch",
+        "en": "book",
+        "ru": "книга",
+        "descriptionEN": "a set of written or printed pages, fastened together",
+        "descriptionRU": "набор письменных или напечатанных страниц, скрепленных вместе",
+        "descriptionDE": "eine Sammlung von geschriebenen oder gedruckten Seiten, die zusammengeheftet sind"
+    }, {
+        "de": "die Uhr",
+        "en": "clock",
+        "ru": "часы",
+        "descriptionEN": "a device for measuring and indicating time",
+        "descriptionRU": "устройство для измерения и отображения времени",
+        "descriptionDE": "ein Gerät zur Messung und Anzeige der Zeit"
+    }, {
+        "de": "der Brief",
+        "en": "letter",
+        "ru": "письмо",
+        "descriptionEN": "a written or printed communication",
+        "descriptionRU": "письменное или печатное сообщение",
+        "descriptionDE": "eine schriftliche oder gedruckte Kommunikation"
+    }, {
+        "de": "der Briefträger",
+        "en": "postman",
+        "ru": "почтальон",
+        "descriptionEN": "a person who delivers letters and parcels",
+        "descriptionRU": "человек, доставляющий письма и посылки",
+        "descriptionDE": "eine Person, die Briefe und Pakete zustellt"
+    }, {
+        "de": "die Universität",
+        "en": "university",
+        "ru": "университет",
+        "descriptionEN": "an institution of higher education",
+        "descriptionRU": "учебное заведение высшего образования",
+        "descriptionDE": "eine Institution für höhere Bildung"
+    }, {
+        "de": "das Studium",
+        "en": "study",
+        "ru": "учеба",
+        "descriptionEN": "the process of learning and acquiring knowledge",
+        "descriptionRU": "процесс обучения и усвоения знаний",
+        "descriptionDE": "der Prozess des Lernens und des Erwerbs von Wissen"
+    }, {
+        "de": "die Wohnung",
+        "en": "apartment",
+        "ru": "квартира",
+        "descriptionEN": "a set of rooms forming an individual residence",
+        "descriptionRU": "набор комнат, образующих индивидуальное жилье",
+        "descriptionDE": "eine Reihe von Räumen, die eine individuelle Wohnung bilden"
+    }, {
+        "de": "die Zeit",
+        "en": "time",
+        "ru": "время",
+        "descriptionEN": "the indefinite continued progress of existence",
+        "descriptionRU": "неопределенное продолжительное развитие существования",
+        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt des Daseins"
+    }, {
+        "de": "die Freundin",
+        "en": "friend",
+        "ru": "друг",
+        "descriptionEN": "a person with whom one has a bond of mutual affection",
+        "descriptionRU": "человек, с которым есть взаимное чувство привязанности",
+        "descriptionDE": "eine Person, mit der man eine gegenseitige Zuneigung verbindet"
+    }, {
+        "de": "das Bett",
+        "en": "bed",
+        "ru": "кровать",
+        "descriptionEN": "a piece of furniture for sleeping",
+        "descriptionRU": "предмет мебели для сна",
+        "descriptionDE": "ein Möbelstück zum Schlafen"
+    }, {
+        "de": "erwarten",
+        "en": "expect",
+        "ru": "ожидать",
+        "descriptionEN": "to look forward to the probable occurrence",
+        "descriptionRU": "ожидать вероятного наступления",
+        "descriptionDE": "sich auf das wahrscheinliche Eintreten freuen"
+    }, {
+        "de": "öffnen",
+        "en": "open",
+        "ru": "открывать",
+        "descriptionEN": "to remove the cover or seal from something",
+        "descriptionRU": "снимать обложку или запечатывание с чего-либо",
+        "descriptionDE": "die Abdeckung oder Versiegelung von etwas entfernen"
+    }, {
+        "de": "anrufen",
+        "en": "call",
+        "ru": "звонить",
+        "descriptionEN": "to communicate with someone by telephone",
+        "descriptionRU": "связаться с кем-то по телефону",
+        "descriptionDE": "mit jemandem telefonisch in Verbindung treten"
+    }, {
+        "de": "gehen",
+        "en": "go",
+        "ru": "идти",
+        "descriptionEN": "to move from one place to another",
+        "descriptionRU": "перемещаться с одного места на другое",
+        "descriptionDE": "sich von einem Ort zum anderen bewegen"
+    }, {
+        "de": "kaufen",
+        "en": "buy",
+        "ru": "купить",
+        "descriptionEN": "to acquire something by paying for it",
+        "descriptionRU": "приобрести что-то, заплатив за это",
+        "descriptionDE": "etwas durch Bezahlung erwerben"
+    }, {
+        "de": "vor",
+        "en": "before",
+        "ru": "до",
+        "descriptionEN": "earlier in time than",
+        "descriptionRU": "ранее во времени, чем",
+        "descriptionDE": "früher in der Zeit als"
+    }, {
+        "de": "viel",
+        "en": "much",
+        "ru": "много",
+        "descriptionEN": "a large amount",
+        "descriptionRU": "большое количество",
+        "descriptionDE": "eine große Menge"
+    }, {
+        "de": "neu",
+        "en": "new",
+        "ru": "новый",
+        "descriptionEN": "not existing before",
+        "descriptionRU": "не существующий ранее",
+        "descriptionDE": "nicht vorher existierend"
+    }, {
+        "de": "genug",
+        "en": "enough",
+        "ru": "достаточно",
+        "descriptionEN": "sufficient for the purpose",
+        "descriptionRU": "достаточно для целей",
+        "descriptionDE": "ausreichend für den Zweck"
+    }, {
+        "de": "viel",
+        "en": "much",
+        "ru": "много",
+        "descriptionEN": "a large amount",
+        "descriptionRU": "большое количество",
+        "descriptionDE": "eine große Menge"
+    }
+]
