@@ -1,6 +1,54 @@
 [
     {
         "name": {
+            "en": "Academic Journey",
+            "de": "Akademische Reise",
+            "ru": "Академический путь"
+        },
+        "description": {
+            "en": "Emma's New Beginnings",
+            "de": "Emmas Neuanfang",
+            "ru": "Новое начало Эммы"
+        },
+        "level": "A2",
+        "image": "Emmas.png",
+        "file": "Emmas.txt",
+        "words": "Emmas.json",
+        "yesNo": "Emmas.json"
+    }, {
+        "name": {
+            "en": "Train Journey Delay",
+            "de": "Zugverspätung",
+            "ru": "Задержка поезда"
+        },
+        "description": {
+            "en": "Visiting grandparents",
+            "de": "Besuch bei Großeltern",
+            "ru": "Визит к бабушке и дедушке"
+        },
+        "level": "A2",
+        "image": "Anna.jpg",
+        "file": "Anna.txt",
+        "words": "Anna.json",
+        "multi": "Anna.json"
+    }, {
+        "name": {
+            "en": "Twins' Secret",
+            "de": "Geheimnis der Zwillinge",
+            "ru": "Секрет близнецов"
+        },
+        "description": {
+            "en": "Cheat and caught",
+            "de": "Betrügen und erwischt",
+            "ru": "Обмануть и поймать"
+        },
+        "level": "A2",
+        "image": "Zwillinge.jpg",
+        "file": "Zwillinge.txt",
+        "words": "Zwillinge.json",
+        "multi": "Zwillinge.json"
+    }, {
+        "name": {
             "en": "Diverse Companions",
             "de": "Vielfältige Gefährten",
             "ru": "Разнообразные друзья"

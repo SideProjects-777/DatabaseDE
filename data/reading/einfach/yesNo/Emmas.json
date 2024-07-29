@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Emma liest ein Buch.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Emma erwartet einen Anruf.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Briefträger heißt Herr Schmidt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Brief kommt von der Universität in Hamburg.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Emma wurde für das Studium angenommen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Claudia und Martin sind nicht stolz auf Emma.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Emma muss sofort umziehen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Julia kennt sich nicht in Berlin aus.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Studium beginnt im Sommer.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Emma träumt von ihrer Zukunft an der Universität.",
+        "tr": true,
+        "fle": false
+    }
+]

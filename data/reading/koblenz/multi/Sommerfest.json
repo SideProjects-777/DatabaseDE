@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Wann findet das Koblenzer Sommerfest normalerweise statt?",
+        "answers": [
+            {
+                "text": "An einem Wochenende im Juni",
+                "correct": false
+            }, {
+                "text": "An einem Wochenende im Juli",
+                "correct": false
+            }, {
+                "text": "An einem Wochenende im August",
+                "correct": true
+            }, {
+                "text": "An einem Wochenende im September",
+                "correct": false
+            }
+
+        ]
+    }, {
+        "name": "Welche Flüsse bieten eine atemberaubende Kulisse für das Koblenzer Sommerfest?",
+        "answers": [
+            {
+                "text": "Elbe und Mosel",
+                "correct": false
+            }, {
+                "text": "Mosel und Donau",
+                "correct": false
+            }, {
+                "text": "Rhein und Mosel",
+                "correct": true
+            }, {
+                "text": "Elbe und Donau",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist eine der Hauptattraktionen des Koblenzer Sommerfests?",
+        "answers": [
+            {
+                "text": "Die Essensstände",
+                "correct": false
+            }, {
+                "text": "Die Fahrgeschäfte",
+                "correct": false
+            }, {
+                "text": "Die Musikkonzerte",
+                "correct": false
+            }, {
+                "text": "Das Feuerwerk",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Musikgenres können Besucher des Koblenzer Sommerfests genießen?",
+        "answers": [
+            {
+                "text": "Klassik und Jazz",
+                "correct": false
+            }, {
+                "text": "Eine Vielzahl von Musikgenres",
+                "correct": true
+            }, {
+                "text": "Rock und Pop",
+                "correct": false
+            }, {
+                "text": "Elektronische Musik",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche traditionellen Leckerbissen sind auf dem Koblenzer Sommerfest sehr beliebt?",
+        "answers": [
+            {
+                "text": "Pizza und Pasta",
+                "correct": false
+            }, {
+                "text": "Sushi und Ramen",
+                "correct": false
+            }, {
+                "text": "Bratwurst und Brezeln",
+                "correct": true
+            }, {
+                "text": "Tacos und Burritos",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Künstlern treten auf den Bühnen des Koblenzer Sommerfests auf?",
+        "answers": [
+            {
+                "text": "Lokale und internationale Künstler",
+                "correct": true
+            }, {
+                "text": "Nur lokale Künstler",
+                "correct": false
+            }, {
+                "text": "Nur internationale Künstler",
+                "correct": false
+            }, {
+                "text": "Nur Straßenkünstler",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bietet das Koblenzer Sommerfest für Kinder?",
+        "answers": [
+            {
+                "text": "Musikkonzerte",
+                "correct": false
+            }, {
+                "text": "Spezielle Bereiche mit Spielen, Gesichtsmalerei und Puppentheater",
+                "correct": true
+            }, {
+                "text": "Feuerwerk",
+                "correct": false
+            }, {
+                "text": "Weinproben",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie wird das Feuerwerk des Koblenzer Sommerfests oft präsentiert?",
+        "answers": [
+            {
+                "text": "Mit Lasershow",
+                "correct": false
+            }, {
+                "text": "Mit Tänzern",
+                "correct": false
+            }, {
+                "text": "Mit Lichtprojektionen",
+                "correct": false
+            }, {
+                "text": "Mit Musik synchronisiert",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was können Besucher an einem warmen Sommertag auf dem Koblenzer Sommerfest genießen?",
+        "answers": [
+            {
+                "text": "Waffeln und Eiscreme",
+                "correct": true
+            }, {
+                "text": "Suppen und heiße Getränke",
+                "correct": false
+            }, {
+                "text": "Kekse und Kuchen",
+                "correct": false
+            }, {
+                "text": "Tee und Scones",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Elemente tragen zur festlichen Atmosphäre des Koblenzer Sommerfests bei?",
+        "answers": [
+            {
+                "text": "Feuerwerk und Paraden",
+                "correct": false
+            }, {
+                "text": "Straßenkünstler, Zauberer und Akrobaten",
+                "correct": true
+            }, {
+                "text": "Bühnenauftritte und Vorträge",
+                "correct": false
+            }, {
+                "text": "Wettbewerbe und Rennen",
+                "correct": false
+            }
+        ]
+    }
+]

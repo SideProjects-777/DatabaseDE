@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Wie alt ist Anna Müller?",
+        "answers": [
+            {
+                "text": "20 Jahre alt",
+                "correct": false
+            }, {
+                "text": "23 Jahre alt",
+                "correct": true
+            }, {
+                "text": "25 Jahre alt",
+                "correct": false
+            }, {
+                "text": "30 Jahre alt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo wohnt Anna Müller?",
+        "answers": [
+            {
+                "text": "München",
+                "correct": false
+            }, {
+                "text": "Frankfurt",
+                "correct": true
+            }, {
+                "text": "Berlin",
+                "correct": false
+            }, {
+                "text": "Hamburg",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was beschloss Anna Müller an einem sonnigen Tag zu tun?",
+        "answers": [
+            {
+                "text": "Ins Kino zu gehen",
+                "correct": false
+            }, {
+                "text": "Zu Hause zu bleiben",
+                "correct": false
+            }, {
+                "text": "Einkaufen zu gehen",
+                "correct": false
+            }, {
+                "text": "Ihre Großeltern in München zu besuchen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie lange dauerte die Busfahrt zum Bahnhof?",
+        "answers": [
+            {
+                "text": "fünf Minuten",
+                "correct": false
+            }, {
+                "text": "zehn Minuten",
+                "correct": false
+            }, {
+                "text": "ungefähr zwanzig Minuten",
+                "correct": true
+            }, {
+                "text": "mehr als eine Stunde",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo bat Anna Müller um Hilfe?",
+        "answers": [
+            {
+                "text": "Im Zug",
+                "correct": false
+            }, {
+                "text": "Am Bahnsteig",
+                "correct": false
+            }, {
+                "text": "Am Informationsschalter",
+                "correct": true
+            }, {
+                "text": "Im Bus",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kaufte Anna Müller am Kiosk?",
+        "answers": [
+            {
+                "text": "Ein Getränk, ein Brötchen und Chips",
+                "correct": true
+            }, {
+                "text": "Ein Buch",
+                "correct": false
+            }, {
+                "text": "Eine Zeitung",
+                "correct": false
+            }, {
+                "text": "Eine Fahrkarte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo wartete Anna Müller auf den Zug?",
+        "answers": [
+            {
+                "text": "Gleis 3",
+                "correct": false
+            }, {
+                "text": "Gleis 7",
+                "correct": true
+            }, {
+                "text": "Gleis 5",
+                "correct": false
+            }, {
+                "text": "Gleis 10",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machte Anna Müller, während sie auf den Zug wartete?",
+        "answers": [
+            {
+                "text": "Sie las ein Buch",
+                "correct": false
+            }, {
+                "text": "Sie sprach mit einer Freundin",
+                "correct": false
+            }, {
+                "text": "Sie aß ein Brötchen und Chips",
+                "correct": true
+            }, {
+                "text": "Sie arbeitete auf ihrem Laptop",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum hatte der Zug Verspätung?",
+        "answers": [
+            {
+                "text": "Fünf Minuten Verspätung",
+                "correct": false
+            }, {
+                "text": "Zehn Minuten Verspätung",
+                "correct": false
+            }, {
+                "text": "Eine Stunde Verspätung",
+                "correct": true
+            }, {
+                "text": "Pünktlich",
+                "correct": false
+            }
+        ]
+    }
+]
