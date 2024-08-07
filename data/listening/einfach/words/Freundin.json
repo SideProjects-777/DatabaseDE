@@ -1,0 +1,164 @@
+[
+    {
+        "de": "die Freundin",
+        "en": "Friend",
+        "ru": "Подруга",
+        "descriptionEN": "A person with whom one has a bond of mutual affection.",
+        "descriptionRU": "Человек, с которым есть взаимная привязанность.",
+        "descriptionDE": "Eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat."
+    }, {
+        "de": "der Kindergarten",
+        "en": "Kindergarten",
+        "ru": "Детский сад",
+        "descriptionEN": "A place where young children are cared for and learn before they go to school.",
+        "descriptionRU": "Место, где маленькие дети заботятся и учатся до школы.",
+        "descriptionDE": "Ein Ort, an dem kleine Kinder betreut werden und lernen, bevor sie zur Schule gehen."
+    }, {
+        "de": "die Pause",
+        "en": "Break",
+        "ru": "Перерыв",
+        "descriptionEN": "A short period of rest or relaxation during work or activities.",
+        "descriptionRU": "Короткий период отдыха или расслабления во время работы или занятий.",
+        "descriptionDE": "Ein kurzer Zeitraum der Ruhe oder Entspannung während der Arbeit oder Aktivitäten."
+    }, {
+        "de": "die Klasse",
+        "en": "Class",
+        "ru": "Класс",
+        "descriptionEN": "A group of students taught together.",
+        "descriptionRU": "Группа студентов, обучаемых вместе.",
+        "descriptionDE": "Eine Gruppe von Schülern, die zusammen unterrichtet werden."
+    }, {
+        "de": "das Wochenende",
+        "en": "Weekend",
+        "ru": "Выходные",
+        "descriptionEN": "The end of the week, typically including Saturday and Sunday.",
+        "descriptionRU": "Конец недели, обычно включая субботу и воскресенье.",
+        "descriptionDE": "Das Ende der Woche, typischerweise einschließlich Samstag und Sonntag."
+    }, {
+        "de": "das Armband",
+        "en": "Bracelet",
+        "ru": "Браслет",
+        "descriptionEN": "A band or chain worn around the wrist.",
+        "descriptionRU": "Повязка или цепочка, носимая вокруг запястья.",
+        "descriptionDE": "Ein Band oder eine Kette, die um das Handgelenk getragen wird."
+    }, {
+        "de": "die Einladung",
+        "en": "Invitation",
+        "ru": "Приглашение",
+        "descriptionEN": "A request to attend or participate in an event.",
+        "descriptionRU": "Запрос на участие или посещение мероприятия.",
+        "descriptionDE": "Eine Aufforderung zur Teilnahme an oder zum Besuch einer Veranstaltung."
+    }, {
+        "de": "das Mittagessen",
+        "en": "Lunch",
+        "ru": "Обед",
+        "descriptionEN": "A meal eaten in the middle of the day.",
+        "descriptionRU": "Прием пищи в середине дня.",
+        "descriptionDE": "Eine Mahlzeit, die in der Mitte des Tages eingenommen wird."
+    }, {
+        "de": "die Interesse",
+        "en": "Interest",
+        "ru": "Интерес",
+        "descriptionEN": "A feeling of wanting to know more about something.",
+        "descriptionRU": "Чувство желания узнать больше о чем-то.",
+        "descriptionDE": "Ein Gefühl des Wunsches, mehr über etwas zu erfahren."
+    }, {
+        "de": "der Grund",
+        "en": "Reason",
+        "ru": "Причина",
+        "descriptionEN": "A cause or explanation for an action or event.",
+        "descriptionRU": "Причина или объяснение действия или события.",
+        "descriptionDE": "Ein Grund oder eine Erklärung für eine Handlung oder ein Ereignis."
+    }, {
+        "de": "das Lächeln",
+        "en": "Smile",
+        "ru": "Улыбка",
+        "descriptionEN": "A facial expression showing pleasure or amusement.",
+        "descriptionRU": "Выражение лица, показывающее удовольствие или развлечение.",
+        "descriptionDE": "Ein Gesichtsausdruck, der Vergnügen oder Unterhaltung zeigt."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "To perceive with the eyes.",
+        "descriptionRU": "Воспринимать глазами.",
+        "descriptionDE": "Mit den Augen wahrnehmen."
+    }, {
+        "de": "einladen",
+        "en": "to invite",
+        "ru": "приглашать",
+        "descriptionEN": "To ask someone to come to an event.",
+        "descriptionRU": "Попросить кого-то прийти на мероприятие.",
+        "descriptionDE": "Jemanden bitten, zu einer Veranstaltung zu kommen."
+    }, {
+        "de": "versuchen",
+        "en": "to try",
+        "ru": "попробовать",
+        "descriptionEN": "To make an effort to do something.",
+        "descriptionRU": "Попытаться сделать что-то.",
+        "descriptionDE": "Ein Bemühen machen, etwas zu tun."
+    }, {
+        "de": "fühlen",
+        "en": "to feel",
+        "ru": "чувствовать",
+        "descriptionEN": "To experience an emotion or physical sensation.",
+        "descriptionRU": "Испытать эмоцию или физическое ощущение.",
+        "descriptionDE": "Ein Gefühl oder eine körperliche Empfindung erfahren."
+    }, {
+        "de": "wünschen",
+        "en": "to wish",
+        "ru": "желать",
+        "descriptionEN": "To desire or hope for something.",
+        "descriptionRU": "Желать или надеяться на что-то.",
+        "descriptionDE": "Etwas wünschen oder hoffen."
+    }, {
+        "de": "erkennen",
+        "en": "to recognize",
+        "ru": "узнавать",
+        "descriptionEN": "To identify someone or something from previous encounters.",
+        "descriptionRU": "Идентифицировать кого-то или что-то по предыдущим встречам.",
+        "descriptionDE": "Jemanden oder etwas von früheren Begegnungen erkennen."
+    }, {
+        "de": "schüchtern",
+        "en": "shy",
+        "ru": "застенчивый",
+        "descriptionEN": "Easily frightened or nervous in social situations.",
+        "descriptionRU": "Легко испуганный или нервный в социальных ситуациях.",
+        "descriptionDE": "Leicht ängstlich oder nervös in sozialen Situationen."
+    }, {
+        "de": "besonders",
+        "en": "special",
+        "ru": "особенный",
+        "descriptionEN": "Better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
+        "descriptionDE": "Besser, größer oder anders als das Übliche."
+    }, {
+        "de": "gemeinsam",
+        "en": "together",
+        "ru": "вместе",
+        "descriptionEN": "With or among others.",
+        "descriptionRU": "С другими людьми или среди них.",
+        "descriptionDE": "Mit oder unter anderen."
+    }, {
+        "de": "herzlich",
+        "en": "cordial",
+        "ru": "дружелюбный",
+        "descriptionEN": "Warm and sincere in manner.",
+        "descriptionRU": "Теплый и искренний в манере.",
+        "descriptionDE": "Warm und aufrichtig in der Art."
+    }, {
+        "de": "lieb",
+        "en": "dear",
+        "ru": "дорогой",
+        "descriptionEN": "Regarded with deep affection.",
+        "descriptionRU": "С глубоким чувством привязанности.",
+        "descriptionDE": "Mit tiefer Zuneigung betrachtet."
+    }, {
+        "de": "überglücklich",
+        "en": "overjoyed",
+        "ru": "в восторге",
+        "descriptionEN": "Extremely happy or delighted.",
+        "descriptionRU": "Очень счастлив или рад.",
+        "descriptionDE": "Äußerst glücklich oder erfreut."
+    }
+]

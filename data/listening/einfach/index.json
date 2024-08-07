@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "New Friend",
+            "de": "Neue Freundin",
+            "ru": "Новая подруга"
+        },
+        "description": {
+            "en": "Sofia, Emma, and Mia",
+            "de": "Sofia, Emma und Mia",
+            "ru": "София, Эмма и Мия"
+        },
+        "level": "A2",
+        "image": "Freundin.jpg",
+        "file": "Freundin.mp3",
+        "words": "Freundin.json",
+        "yesNo": "Freundin.json"
+    }, {
+        "name": {
             "en": "Garden Success",
             "de": "Garten Erfolg",
             "ru": "Успех сада"
