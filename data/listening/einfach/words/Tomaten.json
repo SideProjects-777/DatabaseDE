@@ -1,0 +1,150 @@
+[
+    {
+        "de": "das Projekt",
+        "en": "Project",
+        "ru": "Проект",
+        "descriptionEN": "An individual or collaborative enterprise planned and designed to achieve a particular aim.",
+        "descriptionRU": "Индивидуальное или коллективное предприятие, запланированное и разработанное для достижения определенной цели.",
+        "descriptionDE": "Ein einzelnes oder gemeinschaftliches Unternehmen, das geplant und entworfen wurde, um ein bestimmtes Ziel zu erreichen."
+    }, {
+        "de": "der Schulgarten",
+        "en": "School garden",
+        "ru": "Школьный сад",
+        "descriptionEN": "A garden that is part of a school environment where students can grow plants and learn about nature.",
+        "descriptionRU": "Сад, являющийся частью школьной среды, где ученики могут выращивать растения и изучать природу.",
+        "descriptionDE": "Ein Garten, der Teil der Schulumgebung ist, in dem Schüler Pflanzen anbauen und etwas über die Natur lernen können."
+    }, {
+        "de": "die Parzelle",
+        "en": "Plot",
+        "ru": "Участок",
+        "descriptionEN": "A small area of ground where something is grown.",
+        "descriptionRU": "Небольшой участок земли, на котором что-то выращивается.",
+        "descriptionDE": "Ein kleines Stück Land, auf dem etwas angebaut wird."
+    }, {
+        "de": "das Gemüse",
+        "en": "Vegetable",
+        "ru": "Овощ",
+        "descriptionEN": "A plant or part of a plant used as food.",
+        "descriptionRU": "Растение или часть растения, используемая в пищу.",
+        "descriptionDE": "Eine Pflanze oder ein Teil einer Pflanze, die als Nahrung verwendet wird."
+    }, {
+        "de": "das Kraut",
+        "en": "Herb",
+        "ru": "Трава",
+        "descriptionEN": "A plant with leaves, seeds, or flowers used for flavoring, food, medicine, or perfume.",
+        "descriptionRU": "Растение с листьями, семенами или цветами, используемое для приправы, пищи, лекарств или духов.",
+        "descriptionDE": "Eine Pflanze mit Blättern, Samen oder Blüten, die als Gewürz, Nahrung, Medizin oder Parfüm verwendet wird."
+    }, {
+        "de": "die Tomate",
+        "en": "Tomato",
+        "ru": "Помидор",
+        "descriptionEN": "A glossy red or yellowish fruit that is eaten as a vegetable or in salads.",
+        "descriptionRU": "Блестящий красный или желтоватый плод, который едят как овощ или в салатах.",
+        "descriptionDE": "Eine glänzende rote oder gelbliche Frucht, die als Gemüse oder in Salaten gegessen wird."
+    }, {
+        "de": "der Großvater",
+        "en": "Grandfather",
+        "ru": "Дедушка",
+        "descriptionEN": "The father of one’s father or mother.",
+        "descriptionRU": "Отец одного из родителей.",
+        "descriptionDE": "Der Vater von jemandes Vater oder Mutter."
+    }, {
+        "de": "die Pflanze",
+        "en": "Plant",
+        "ru": "Растение",
+        "descriptionEN": "A living organism that typically grows in a permanent site, absorbing water and nutrients.",
+        "descriptionRU": "Живой организм, который обычно растет на постоянном месте, впитывая воду и питательные вещества.",
+        "descriptionDE": "Ein lebender Organismus, der typischerweise an einem festen Standort wächst und Wasser und Nährstoffe aufnimmt."
+    }, {
+        "de": "das Sonnenlicht",
+        "en": "Sunlight",
+        "ru": "Солнечный свет",
+        "descriptionEN": "The light from the sun.",
+        "descriptionRU": "Свет от солнца.",
+        "descriptionDE": "Das Licht der Sonne."
+    }, {
+        "de": "das Lächeln",
+        "en": "Smile",
+        "ru": "Улыбка",
+        "descriptionEN": "A pleased, kind, or amused facial expression, typically with the corners of the mouth turned up.",
+        "descriptionRU": "Довольное, доброе или развлекательное выражение лица, обычно с поднятыми уголками рта.",
+        "descriptionDE": "Ein zufriedener, freundlicher oder amüsierter Gesichtsausdruck, bei dem die Mundwinkel nach oben gezogen sind."
+    }, {
+        "de": "der Strauß",
+        "en": "Bunch",
+        "ru": "Пучок",
+        "descriptionEN": "A number of things, typically of the same kind, growing or fastened together.",
+        "descriptionRU": "Ряд вещей, обычно одного вида, растущих или закрепленных вместе.",
+        "descriptionDE": "Eine Anzahl von Dingen, die typischerweise derselben Art sind und zusammen wachsen oder befestigt sind."
+    }, {
+        "de": "das Ende",
+        "en": "End",
+        "ru": "Конец",
+        "descriptionEN": "The final part of something.",
+        "descriptionRU": "Завершающая часть чего-либо.",
+        "descriptionDE": "Der letzte Teil von etwas."
+    }, {
+        "de": "pflanzen",
+        "en": "to plant",
+        "ru": "сажать",
+        "descriptionEN": "To place a seed, bulb, or plant in the ground to grow.",
+        "descriptionRU": "Поместить семя, луковицу или растение в землю для роста.",
+        "descriptionDE": "Ein Samen, eine Zwiebel oder eine Pflanze in den Boden legen, damit sie wächst."
+    }, {
+        "de": "wachsen",
+        "en": "to grow",
+        "ru": "расти",
+        "descriptionEN": "To undergo natural development by increasing in size and changing physically.",
+        "descriptionRU": "Проходить естественное развитие, увеличиваясь в размерах и физически изменяясь.",
+        "descriptionDE": "Sich auf natürliche Weise entwickeln, indem man an Größe zunimmt und sich körperlich verändert."
+    }, {
+        "de": "kümmern",
+        "en": "to care",
+        "ru": "заботиться",
+        "descriptionEN": "To look after and provide for the needs of.",
+        "descriptionRU": "Заботиться и обеспечивать потребности кого-либо.",
+        "descriptionDE": "Für jemanden sorgen und dessen Bedürfnisse erfüllen."
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "обнаруживать",
+        "descriptionEN": "To find something or someone unexpectedly or during a search.",
+        "descriptionRU": "Обнаружить что-то или кого-то неожиданно или во время поиска.",
+        "descriptionDE": "Etwas oder jemanden unerwartet oder während einer Suche finden."
+    }, {
+        "de": "verwandeln",
+        "en": "to transform",
+        "ru": "превращать",
+        "descriptionEN": "To make a marked change in the form, nature, or appearance of.",
+        "descriptionRU": "Сделать заметное изменение в форме, природе или внешнем виде.",
+        "descriptionDE": "Eine deutliche Veränderung in Form, Art oder Aussehen bewirken."
+    }, {
+        "de": "bekommen",
+        "en": "to receive",
+        "ru": "получать",
+        "descriptionEN": "To be given, presented with, or paid something.",
+        "descriptionRU": "Получить, быть представленным или оплачено чем-либо.",
+        "descriptionDE": "Etwas gegeben, überreicht oder bezahlt bekommen."
+    }, {
+        "de": "besonders",
+        "en": "special",
+        "ru": "особый",
+        "descriptionEN": "Better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
+        "descriptionDE": "Besser, größer oder anders als das Übliche."
+    }, {
+        "de": "voller",
+        "en": "full of",
+        "ru": "полный",
+        "descriptionEN": "Containing or holding as much or as many as possible.",
+        "descriptionRU": "Содержит или вмещает как можно больше.",
+        "descriptionDE": "So viel wie möglich enthaltend oder haltend."
+    }, {
+        "de": "lieb",
+        "en": "dear",
+        "ru": "дорогой",
+        "descriptionEN": "Regarded with deep affection.",
+        "descriptionRU": "Рассматривается с глубокой привязанностью.",
+        "descriptionDE": "Mit tiefer Zuneigung betrachtet."
+    }
+]
