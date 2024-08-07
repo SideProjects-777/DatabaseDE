@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Sofia und Emma waren seit dem Kindergarten beste Freundinnen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Mia kannte Sofia und Emma bereits, als sie in die Klasse kam.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Frau Lee bat Sofia und Emma, Mia willkommen zu heißen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Sofia freute sich, dass Mia in ihre Klasse kam.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Emma und Sofia machten Freundschaftsarmbänder für Mia.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sofia fühlte sich anfangs ausgeschlossen, als Mia und Emma lachten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Emma fragte Sofia, ob alles in Ordnung sei.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Sofia wollte Mia nicht in ihre Freundschaft einbeziehen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Mia und Sofia hatten viele gemeinsame Interessen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Sofia und Emma übernachteten fast nie am Wochenende zusammen.",
+        "tr": false,
+        "fle": true
+    }
+]

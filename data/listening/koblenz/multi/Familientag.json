@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo verbrachten Max und Lily ihre Sommerferien?",
+        "answers": [
+            {
+                "text": "In Koblenz bei ihren Großeltern",
+                "correct": true
+            }, {
+                "text": "In Hamburg bei Verwandten",
+                "correct": false
+            }, {
+                "text": "In München in einem Hotel",
+                "correct": false
+            }, {
+                "text": "In Berlin bei ihren Freunden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was schlugen die Großeltern an einem sonnigen Nachmittag vor?",
+        "answers": [
+            {
+                "text": "Einen Ausflug in die Berge zu machen",
+                "correct": false
+            }, {
+                "text": "Das Deutsche Eck zu erkunden",
+                "correct": true
+            }, {
+                "text": "Einen Zoobesuch zu machen",
+                "correct": false
+            }, {
+                "text": "Einen Freizeitpark zu besuchen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Denkmal steht am Deutschen Eck?",
+        "answers": [
+            {
+                "text": "Ein Denkmal von Martin Luther",
+                "correct": false
+            }, {
+                "text": "Die Statue von Kaiser Wilhelm I.",
+                "correct": true
+            }, {
+                "text": "Ein Monument von Richard Wagner",
+                "correct": false
+            }, {
+                "text": "Die Statue von Friedrich dem Großen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie konnte die Familie zur Festung Ehrenbreitstein gelangen?",
+        "answers": [
+            {
+                "text": "Mit dem Auto über eine Brücke",
+                "correct": false
+            }, {
+                "text": "Zu Fuß durch einen Tunnel",
+                "correct": false
+            }, {
+                "text": "Mit der Seilbahn über den Fluss",
+                "correct": true
+            }, {
+                "text": "Mit dem Boot über den Fluss",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was skizzierte Lily während des Besuchs der Festung?",
+        "answers": [
+            {
+                "text": "Die Stadt Koblenz bei Nacht",
+                "correct": false
+            }, {
+                "text": "Ein Porträt von Opa",
+                "correct": false
+            }, {
+                "text": "Die Landschaft",
+                "correct": true
+            }, {
+                "text": "Die Statue von Kaiser Wilhelm I.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was genoss die Familie nach der Erkundung der Festung?",
+        "answers": [
+            {
+                "text": "Ein Picknick mit traditionellen deutschen Leckereien",
+                "correct": true
+            }, {
+                "text": "Ein Getränk am Flussufer",
+                "correct": false
+            }, {
+                "text": "Einen Kaffee und Kuchen in einem Café",
+                "correct": false
+            }, {
+                "text": "Ein Abendessen in einem Restaurant",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Souvenir bekamen Max und Lily von ihrer Großmutter?",
+        "answers": [
+            {
+                "text": "Ein Buch über Koblenz",
+                "correct": false
+            }, {
+                "text": "Postkarten von der Festung",
+                "correct": false
+            }, {
+                "text": "Ein T-Shirt mit Koblenz-Motiv",
+                "correct": false
+            }, {
+                "text": "Miniaturschiffe auf Rhein und Mosel",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie bezeichnete Opa die Stadt Koblenz?",
+        "answers": [
+            {
+                "text": "Ein Zentrum für moderne Kunst",
+                "correct": false
+            }, {
+                "text": "Ein wichtiger Handelsplatz",
+                "correct": true
+            }, {
+                "text": "Ein großes Industriezentrum",
+                "correct": false
+            }, {
+                "text": "Ein Urlaubsort für Reiche",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was machten Max und Lily, um die Landschaft festzuhalten?",
+        "answers": [
+            {
+                "text": "Sie drehten ein Video",
+                "correct": false
+            }, {
+                "text": "Sie kauften Postkarten",
+                "correct": false
+            }, {
+                "text": "Sie schrieben ein Tagebuch",
+                "correct": false
+            }, {
+                "text": "Max fotografierte und Lily zeichnete",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was sah die Familie während der Fahrt mit der Seilbahn?",
+        "answers": [
+            {
+                "text": "Den Sonnenuntergang über den Bergen",
+                "correct": false
+            }, {
+                "text": "Einen großen See",
+                "correct": false
+            }, {
+                "text": "Eine riesige Brücke",
+                "correct": false
+            }, {
+                "text": "Eine atemberaubende Aussicht auf den Fluss und die Stadt",
+                "correct": true
+            }
+        ]
+    }
+]

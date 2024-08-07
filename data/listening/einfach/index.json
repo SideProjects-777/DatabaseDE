@@ -1,6 +1,38 @@
 [
     {
         "name": {
+            "en": "New Friend",
+            "de": "Neue Freundin",
+            "ru": "Новая подруга"
+        },
+        "description": {
+            "en": "Sofia, Emma, and Mia",
+            "de": "Sofia, Emma und Mia",
+            "ru": "София, Эмма и Мия"
+        },
+        "level": "A2",
+        "image": "Freundin.jpg",
+        "file": "Freundin.mp3",
+        "words": "Freundin.json",
+        "yesNo": "Freundin.json"
+    }, {
+        "name": {
+            "en": "Lily's Kindness",
+            "de": "Lilys Güte",
+            "ru": "Доброта Лили"
+        },
+        "description": {
+            "en": "Lost puppy",
+            "de": "Verlorener Welpe",
+            "ru": "Потерявшийся щенок"
+        },
+        "level": "A2",
+        "image": "Verlorener.jpg",
+        "file": "Verlorener.mp3",
+        "words": "Verlorener.json",
+        "yesNo": "Verlorener.json"
+    }, {
+        "name": {
             "en": "Dream Job",
             "de": "Traumjob",
             "ru": "Работа мечты"
