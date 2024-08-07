@@ -1,14 +1,21 @@
 [
  {
         "name": {
-            "en": "Koblenz \u270D",
-            "ru": "Кобленц \u270D",
+            "en": "Koblenz - Family Day \u266C",
+            "ru": "Кобленц - Семейный день \u266C",
             "de": null
         }
     }, {
         "name": {
-            "en": "Simple city \u270D",
-            "ru": "Просто город \u270D",
+            "en": "Simple city - New Friend \u266C",
+            "ru": "Просто город - Новая подруга \u266C",
+            "de": null
+        }
+    },
+    {
+        "name": {
+            "en": "Simple city - Lily's Kindness \u266C",
+            "ru": "Просто город - Доброта Лили \u266C",
             "de": null
         }
     }

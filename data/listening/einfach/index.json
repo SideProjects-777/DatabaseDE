@@ -17,22 +17,6 @@
         "yesNo": "Freundin.json"
     }, {
         "name": {
-            "en": "Garden Success",
-            "de": "Garten Erfolg",
-            "ru": "Успех сада"
-        },
-        "description": {
-            "en": "Tomatoes with patience",
-            "de": "Tomaten mit Geduld",
-            "ru": "Помидоры с терпением"
-        },
-        "level": "A2",
-        "image": "Tomaten.jpg",
-        "file": "Tomaten.mp3",
-        "words": "Tomaten.json",
-        "yesNo": "Tomaten.json"
-    }, {
-        "name": {
             "en": "Lily's Kindness",
             "de": "Lilys Güte",
             "ru": "Доброта Лили"
