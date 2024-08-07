@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Lily's Kindness",
+            "de": "Lilys Güte",
+            "ru": "Доброта Лили"
+        },
+        "description": {
+            "en": "Lost puppy",
+            "de": "Verlorener Welpe",
+            "ru": "Потерявшийся щенок"
+        },
+        "level": "A2",
+        "image": "Verlorener.jpg",
+        "file": "Verlorener.mp3",
+        "words": "Verlorener.json",
+        "yesNo": "Verlorener.json"
+    }, {
+        "name": {
             "en": "Dream Job",
             "de": "Traumjob",
             "ru": "Работа мечты"

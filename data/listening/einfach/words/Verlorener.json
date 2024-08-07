@@ -1,0 +1,157 @@
+[
+    {
+        "de": "der Weg",
+        "en": "way",
+        "ru": "путь",
+        "descriptionEN": "A route or course taken in getting from a starting point to a destination.",
+        "descriptionRU": "Маршрут или путь, который используется для перемещения от начальной точки до пункта назначения.",
+        "descriptionDE": "Eine Route oder Strecke, die genommen wird, um von einem Startpunkt zu einem Ziel zu gelangen."
+    }, {
+        "de": "das Gebüsch",
+        "en": "bush",
+        "ru": "кустарник",
+        "descriptionEN": "A dense cluster of shrubs or small trees.",
+        "descriptionRU": "Густая группа кустарников или маленьких деревьев.",
+        "descriptionDE": "Eine dichte Gruppe von Sträuchern oder kleinen Bäumen."
+    }, {
+        "de": "der Welpe",
+        "en": "puppy",
+        "ru": "щенок",
+        "descriptionEN": "A young dog.",
+        "descriptionRU": "Молодая собака.",
+        "descriptionDE": "Ein junger Hund."
+    }, {
+        "de": "die Augen",
+        "en": "eyes",
+        "ru": "глаза",
+        "descriptionEN": "The organs of sight in humans and animals.",
+        "descriptionRU": "Органы зрения у людей и животных.",
+        "descriptionDE": "Die Sehorgane bei Menschen und Tieren."
+    }, {
+        "de": "die Mutter",
+        "en": "mother",
+        "ru": "мать",
+        "descriptionEN": "A woman in relation to her child or children.",
+        "descriptionRU": "Женщина по отношению к своему ребенку или детям.",
+        "descriptionDE": "Eine Frau in Bezug auf ihr Kind oder ihre Kinder."
+    }, {
+        "de": "das Wasser",
+        "en": "water",
+        "ru": "вода",
+        "descriptionEN": "A transparent, tasteless, odorless, and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans.",
+        "descriptionRU": "Прозрачное, безвкусное, без запаха и почти бесцветное химическое вещество, которое является основным компонентом рек, озер и океанов Земли.",
+        "descriptionDE": "Eine durchsichtige, geschmacklose, geruchslose und nahezu farblose chemische Substanz, die den Hauptbestandteil der Flüsse, Seen und Ozeane der Erde bildet."
+    }, {
+        "de": "die Nachbarschaft",
+        "en": "neighborhood",
+        "ru": "соседство",
+        "descriptionEN": "A district, especially one forming a community within a town or city.",
+        "descriptionRU": "Район, особенно тот, который образует сообщество в городе или поселке.",
+        "descriptionDE": "Ein Bezirk, insbesondere einer, der eine Gemeinschaft innerhalb einer Stadt oder eines Ortes bildet."
+    }, {
+        "de": "die Plakate",
+        "en": "posters",
+        "ru": "плакаты",
+        "descriptionEN": "Large printed pictures or announcements used for advertising or decoration.",
+        "descriptionRU": "Большие напечатанные картинки или объявления, используемые для рекламы или украшения.",
+        "descriptionDE": "Große gedruckte Bilder oder Ankündigungen, die für Werbung oder Dekoration verwendet werden."
+    }, {
+        "de": "die Freunde",
+        "en": "friends",
+        "ru": "друзья",
+        "descriptionEN": "People whom one knows and with whom one has a bond of mutual affection.",
+        "descriptionRU": "Люди, которых кто-то знает и с которыми у него есть взаимная привязанность.",
+        "descriptionDE": "Menschen, die man kennt und zu denen man eine Bindung gegenseitiger Zuneigung hat."
+    }, {
+        "de": "die Kekse",
+        "en": "cookies",
+        "ru": "печенье",
+        "descriptionEN": "Small sweet cakes, typically round and flat, made from dough.",
+        "descriptionRU": "Небольшие сладкие пирожные, обычно круглые и плоские, приготовленные из теста.",
+        "descriptionDE": "Kleine süße Kuchen, typischerweise rund und flach, aus Teig gemacht."
+    }, {
+        "de": "das Herz",
+        "en": "heart",
+        "ru": "сердце",
+        "descriptionEN": "The organ in your chest that sends blood around your body.",
+        "descriptionRU": "Орган в вашей груди, который перекачивает кровь по всему телу.",
+        "descriptionDE": "Das Organ in Ihrer Brust, das das Blut durch den Körper pumpt."
+    }, {
+        "de": "die Dankbarkeit",
+        "en": "gratitude",
+        "ru": "благодарность",
+        "descriptionEN": "The quality of being thankful; readiness to show appreciation.",
+        "descriptionRU": "Качество быть благодарным; готовность проявить признательность.",
+        "descriptionDE": "Die Eigenschaft, dankbar zu sein; Bereitschaft, Wertschätzung zu zeigen."
+    }, {
+        "de": "knien",
+        "en": "to kneel",
+        "ru": "становиться на колени",
+        "descriptionEN": "To rest one's weight on one's knees.",
+        "descriptionRU": "Опираясь на колени, становиться на колени.",
+        "descriptionDE": "Sein Gewicht auf die Knie legen."
+    }, {
+        "de": "strecken",
+        "en": "to stretch",
+        "ru": "тянуться",
+        "descriptionEN": "To extend one's limbs or muscles to their full length.",
+        "descriptionRU": "Протягивать конечности или мышцы на всю длину.",
+        "descriptionDE": "Seine Glieder oder Muskeln auf ihre volle Länge ausdehnen."
+    }, {
+        "de": "geben",
+        "en": "to give",
+        "ru": "давать",
+        "descriptionEN": "To present voluntarily without expecting something in return.",
+        "descriptionRU": "Представить добровольно, не ожидая ничего взамен.",
+        "descriptionDE": "Freiwillig überreichen, ohne etwas im Gegenzug zu erwarten."
+    }, {
+        "de": "fragen",
+        "en": "to ask",
+        "ru": "спрашивать",
+        "descriptionEN": "To say something in order to obtain an answer or information.",
+        "descriptionRU": "Сказать что-то, чтобы получить ответ или информацию.",
+        "descriptionDE": "Etwas sagen, um eine Antwort oder Information zu erhalten."
+    }, {
+        "de": "suchen",
+        "en": "to search",
+        "ru": "искать",
+        "descriptionEN": "To try to find something by looking carefully.",
+        "descriptionRU": "Попытка найти что-то, внимательно рассматривая.",
+        "descriptionDE": "Versuchen, etwas zu finden, indem man sorgfältig schaut."
+    }, {
+        "de": "winken",
+        "en": "to wave",
+        "ru": "махать",
+        "descriptionEN": "To move one's hand to and fro in greeting or as a signal.",
+        "descriptionRU": "Двигать рукой вперед и назад в приветствии или как сигнал.",
+        "descriptionDE": "Die Hand hin und her bewegen zum Gruß oder als Signal."
+    }, {
+        "de": "klein",
+        "en": "small",
+        "ru": "маленький",
+        "descriptionEN": "Of a size that is less than normal or usual.",
+        "descriptionRU": "Размер меньше обычного или нормального.",
+        "descriptionDE": "Von einer Größe, die kleiner als normal oder üblich ist."
+    }, {
+        "de": "traurig",
+        "en": "sad",
+        "ru": "грустный",
+        "descriptionEN": "Feeling or showing sorrow; unhappy.",
+        "descriptionRU": "Испытывать или проявлять печаль; несчастный.",
+        "descriptionDE": "Traurigkeit empfinden oder zeigen; unglücklich."
+    }, {
+        "de": "verloren",
+        "en": "lost",
+        "ru": "потерянный",
+        "descriptionEN": "Unable to find one's way.",
+        "descriptionRU": "Не в состоянии найти дорогу.",
+        "descriptionDE": "Unfähig, den Weg zu finden."
+    }, {
+        "de": "dankbar",
+        "en": "grateful",
+        "ru": "благодарный",
+        "descriptionEN": "Feeling or showing an appreciation for something received.",
+        "descriptionRU": "Чувство или проявление признательности за что-то полученное.",
+        "descriptionDE": "Gefühl oder Ausdruck der Wertschätzung für etwas Erhaltenes."
+    }
+]

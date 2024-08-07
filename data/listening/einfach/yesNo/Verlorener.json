@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Lily hörte ein leises Wimmern aus einem Gebüsch.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Welpe war schwarz und hatte große Ohren.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lily fragte ihre Mutter, was sie tun sollte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Lilys Mutter gab dem Welpen Milch zu trinken.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Lily und ihre Mutter hängten Plakate in der Nachbarschaft auf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Welpe gehörte einem Mann namens Mr. Thompson.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Mrs. Thompson war froh, Max wiederzuhaben.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Lily erhielt als Dankeschön Schokolade von Mrs. Thompson.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max war der Name des verlorenen Welpen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Lily winkte Max zum Abschied.",
+        "tr": true,
+        "fle": false
+    }
+]
