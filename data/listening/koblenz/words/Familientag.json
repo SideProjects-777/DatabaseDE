@@ -1,0 +1,178 @@
+[
+    {
+        "de": "die Sommerferien",
+        "en": "summer vacation",
+        "ru": "летние каникулы",
+        "descriptionEN": "A period of vacation during the summer months.",
+        "descriptionRU": "Период отдыха летом.",
+        "descriptionDE": "Eine Zeit des Urlaubs in den Sommermonaten."
+    }, {
+        "de": "der Großvater",
+        "en": "grandfather",
+        "ru": "дедушка",
+        "descriptionEN": "The father of one's parent.",
+        "descriptionRU": "Отец одного из родителей.",
+        "descriptionDE": "Der Vater eines Elternteils."
+    }, {
+        "de": "die Festung",
+        "en": "fortress",
+        "ru": "крепость",
+        "descriptionEN": "A large, strong building used for defense.",
+        "descriptionRU": "Большое, прочное здание, используемое для обороны.",
+        "descriptionDE": "Ein großes, starkes Gebäude, das zur Verteidigung verwendet wird."
+    }, {
+        "de": "das Denkmal",
+        "en": "monument",
+        "ru": "памятник",
+        "descriptionEN": "A structure erected to commemorate a person or event.",
+        "descriptionRU": "Структура, возведенная в честь человека или события.",
+        "descriptionDE": "Ein Bauwerk, das zur Erinnerung an eine Person oder ein Ereignis errichtet wird."
+    }, {
+        "de": "die Aussicht",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "The visual perception of a scene or landscape.",
+        "descriptionRU": "Визуальное восприятие сцены или пейзажа.",
+        "descriptionDE": "Die visuelle Wahrnehmung einer Szene oder Landschaft."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "The study of past events.",
+        "descriptionRU": "Изучение прошлых событий.",
+        "descriptionDE": "Die Studie vergangener Ereignisse."
+    }, {
+        "de": "der Rhein",
+        "en": "Rhine",
+        "ru": "Рейн",
+        "descriptionEN": "A major European river flowing through Germany and the Netherlands.",
+        "descriptionRU": "Основная европейская река, протекающая через Германию и Нидерланды.",
+        "descriptionDE": "Ein wichtiger europäischer Fluss, der durch Deutschland und die Niederlande fließt."
+    }, {
+        "de": "die Statue",
+        "en": "statue",
+        "ru": "статуя",
+        "descriptionEN": "A sculpture representing a person or animal.",
+        "descriptionRU": "Скульптура, изображающая человека или животное.",
+        "descriptionDE": "Eine Skulptur, die eine Person oder ein Tier darstellt."
+    }, {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+        "descriptionRU": "Большой естественный поток воды, текущий в русле к морю, озеру или другой реке.",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Bett zum Meer, einem See oder einem anderen Fluss fließt."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "A large and significant town.",
+        "descriptionRU": "Большой и значимый населенный пункт.",
+        "descriptionDE": "Eine große und bedeutende Stadt."
+    }, {
+        "de": "die Leckerei",
+        "en": "treat",
+        "ru": "угощение",
+        "descriptionEN": "A delightful or appetizing food or drink.",
+        "descriptionRU": "Вкусная или аппетитная еда или напиток.",
+        "descriptionDE": "Ein köstliches oder appetitanregendes Lebensmittel oder Getränk."
+    }, {
+        "de": "der Rucksack",
+        "en": "backpack",
+        "ru": "рюкзак",
+        "descriptionEN": "A bag with shoulder straps carried on the back.",
+        "descriptionRU": "Сумка с лямками, носимая на спине.",
+        "descriptionDE": "Eine Tasche mit Schulterriemen, die auf dem Rücken getragen wird."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "To perceive with the eyes.",
+        "descriptionRU": "Воспринимать глазами.",
+        "descriptionDE": "Mit den Augen wahrnehmen."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "To take pleasure in something.",
+        "descriptionRU": "Получать удовольствие от чего-либо.",
+        "descriptionDE": "Vergnügen an etwas haben."
+    }, {
+        "de": "erforschen",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "To investigate or examine something thoroughly.",
+        "descriptionRU": "Тщательно исследовать или проверять что-то.",
+        "descriptionDE": "Etwas gründlich untersuchen oder prüfen."
+    }, {
+        "de": "skizzieren",
+        "en": "to sketch",
+        "ru": "набросать",
+        "descriptionEN": "To make a rough drawing of something.",
+        "descriptionRU": "Сделать грубый рисунок чего-либо.",
+        "descriptionDE": "Eine grobe Zeichnung von etwas machen."
+    }, {
+        "de": "fotografieren",
+        "en": "to photograph",
+        "ru": "фотографировать",
+        "descriptionEN": "To take a picture with a camera.",
+        "descriptionRU": "Сделать снимок с помощью камеры.",
+        "descriptionDE": "Ein Bild mit einer Kamera machen."
+    }, {
+        "de": "spazieren",
+        "en": "to walk",
+        "ru": "гулять",
+        "descriptionEN": "To move at a regular pace by lifting and setting down each foot in turn.",
+        "descriptionRU": "Двигаться в регулярном темпе, поднимая и ставя каждую ногу по очереди.",
+        "descriptionDE": "Sich in regelmäßigem Tempo fortbewegen, indem man abwechselnd einen Fuß hebt und absetzt."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Приятный для органов чувств или ума эстетически.",
+        "descriptionDE": "Ästhetisch angenehm für die Sinne oder den Verstand."
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "Relating to history or past events.",
+        "descriptionRU": "Относящийся к истории или прошлым событиям.",
+        "descriptionDE": "Geschichte oder vergangenen Ereignissen betreffend."
+    }, {
+        "de": "spannend",
+        "en": "exciting",
+        "ru": "волнующий",
+        "descriptionEN": "Causing great enthusiasm and eagerness.",
+        "descriptionRU": "Вызывающий большой энтузиазм и нетерпение.",
+        "descriptionDE": "Große Begeisterung und Eifer hervorrufend."
+    }, {
+        "de": "wunderbar",
+        "en": "wonderful",
+        "ru": "чудесный",
+        "descriptionEN": "Inspiring delight or admiration.",
+        "descriptionRU": "Вдохновляющий восторг или восхищение.",
+        "descriptionDE": "Begeisterung oder Bewunderung inspirierend."
+    }, {
+        "de": "klein",
+        "en": "small",
+        "ru": "маленький",
+        "descriptionEN": "Of limited size or extent.",
+        "descriptionRU": "Ограниченный по размеру или протяженности.",
+        "descriptionDE": "Begrenzt in Größe oder Umfang."
+    }, {
+        "de": "lecker",
+        "en": "tasty",
+        "ru": "вкусный",
+        "descriptionEN": "Having a pleasant taste.",
+        "descriptionRU": "Имеющий приятный вкус.",
+        "descriptionDE": "Einen angenehmen Geschmack haben."
+    }, {
+        "de": "schnell",
+        "en": "fast",
+        "ru": "быстрый",
+        "descriptionEN": "Moving or capable of moving at high speed.",
+        "descriptionRU": "Двигающийся или способный двигаться с высокой скоростью.",
+        "descriptionDE": "Sich mit hoher Geschwindigkeit bewegen oder bewegen können."
+    }
+]

@@ -33,20 +33,20 @@
         "yesNo": "Abenteuer.json"
     }, {
         "name": {
-            "en": "Wine Adventure",
-            "de": "Weinabenteuer",
-            "ru": "Винное приключение"
+            "en": "Family Day",
+            "de": "Familientag",
+            "ru": "Семейный день"
         },
         "description": {
-            "en": "Lazy man discovers passion",
-            "de": "Faule Mann entdeckt Leidenschaft",
-            "ru": "Ленивый человек обнаруживает страсть"
+            "en": "Cable car",
+            "de": "Seilbahn",
+            "ru": "Кабельная дорога"
         },
-        "level": "A2",
-        "image": "Weinabenteuer.jpg",
-        "file": "Weinabenteuer.mp3",
-        "words": "Weinabenteuer.json",
-        "multi": "Weinabenteuer.json"
+        "level": "B1",
+        "image": "Familientag.jpg",
+        "file": "Familientag.mp3",
+        "words": "Familientag.json",
+        "multi": "Familientag.json"
     }, {
         "name": {
             "en": "Castle Love Story",
@@ -63,38 +63,6 @@
         "file": "Liebesgeschichte.mp3",
         "words": "Liebesgeschichte.json",
         "multi": "Liebesgeschichte.json"
-    }, {
-        "name": {
-            "en": "Riesling Adventure",
-            "de": "Riesling-Abenteuer",
-            "ru": "Приключение с Рислингом"
-        },
-        "description": {
-            "en": "Exploring Koblenz with Riesling",
-            "de": "Koblenz erkunden mit Riesling",
-            "ru": "Исследование Кобленца с Рислингом"
-        },
-        "level": "B1",
-        "image": "RieslingAdventure.jpg",
-        "file": "RieslingAdventure.mp3",
-        "words": "RieslingAdventure.json",
-        "multi": "RieslingAdventure.json"
-    }, {
-        "name": {
-            "en": "Love in Koblenz",
-            "de": "Liebe in Koblenz",
-            "ru": "Любовь в Кобленце"
-        },
-        "description": {
-            "en": "Romantic Exploration",
-            "de": "Romantische Erkundung",
-            "ru": "Романтическое путешествие"
-        },
-        "level": "B1",
-        "image": "RomantischeErkundung.jpg",
-        "file": "RomantischeErkundung.txt",
-        "words": "RomantischeErkundung.json",
-        "multi": "RomantischeErkundung.json"
     }, {
         "name": {
             "en": "Family Fun",
@@ -127,5 +95,53 @@
         "file": "Unleashed.mp3",
         "words": "Unleashed.json",
         "yesNo": "Unleashed.json"
+    }, {
+        "name": {
+            "en": "Riesling Adventure",
+            "de": "Riesling-Abenteuer",
+            "ru": "Приключение с Рислингом"
+        },
+        "description": {
+            "en": "Exploring Koblenz with Riesling",
+            "de": "Koblenz erkunden mit Riesling",
+            "ru": "Исследование Кобленца с Рислингом"
+        },
+        "level": "B2",
+        "image": "RieslingAdventure.jpg",
+        "file": "RieslingAdventure.mp3",
+        "words": "RieslingAdventure.json",
+        "multi": "RieslingAdventure.json"
+    }, {
+        "name": {
+            "en": "Love in Koblenz",
+            "de": "Liebe in Koblenz",
+            "ru": "Любовь в Кобленце"
+        },
+        "description": {
+            "en": "Romantic Exploration",
+            "de": "Romantische Erkundung",
+            "ru": "Романтическое путешествие"
+        },
+        "level": "B2",
+        "image": "RomantischeErkundung.jpg",
+        "file": "RomantischeErkundung.txt",
+        "words": "RomantischeErkundung.json",
+        "multi": "RomantischeErkundung.json"
+    }, {
+        "name": {
+            "en": "Wine Adventure",
+            "de": "Weinabenteuer",
+            "ru": "Винное приключение"
+        },
+        "description": {
+            "en": "Lazy man discovers passion",
+            "de": "Faule Mann entdeckt Leidenschaft",
+            "ru": "Ленивый человек обнаруживает страсть"
+        },
+        "level": "B2",
+        "image": "Weinabenteuer.jpg",
+        "file": "Weinabenteuer.mp3",
+        "words": "Weinabenteuer.json",
+        "multi": "Weinabenteuer.json"
     }
 ]
