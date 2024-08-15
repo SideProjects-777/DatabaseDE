@@ -1,0 +1,136 @@
+[
+    {
+        "de": "die Familie",
+        "en": "Family",
+        "ru": "Семья",
+        "descriptionEN": "A group of one or more parents and their children living together.",
+        "descriptionRU": "Группа из одного или нескольких родителей и их детей, живущих вместе.",
+        "descriptionDE": "Eine Gruppe von einem oder mehreren Elternteilen und ihren Kindern, die zusammenleben."
+    }, {
+        "de": "der Sommer",
+        "en": "Summer",
+        "ru": "Лето",
+        "descriptionEN": "The warmest season of the year, between spring and autumn.",
+        "descriptionRU": "Самый тёплый сезон года, между весной и осенью.",
+        "descriptionDE": "Die wärmste Jahreszeit des Jahres, zwischen Frühling und Herbst."
+    }, {
+        "de": "der Fluss",
+        "en": "River",
+        "ru": "Река",
+        "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+        "descriptionRU": "Большой естественный поток воды, текущий в русле к морю, озеру или другой реке.",
+        "descriptionDE": "Ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt."
+    }, {
+        "de": "das Abenteuer",
+        "en": "Adventure",
+        "ru": "Приключение",
+        "descriptionEN": "An unusual and exciting, typically hazardous, experience or activity.",
+        "descriptionRU": "Необычный и захватывающий, обычно опасный, опыт или деятельность.",
+        "descriptionDE": "Eine ungewöhnliche und aufregende, typischerweise gefährliche, Erfahrung oder Aktivität."
+    }, {
+        "de": "die Burg",
+        "en": "Castle",
+        "ru": "Замок",
+        "descriptionEN": "A large building typically of the medieval period, fortified against attack.",
+        "descriptionRU": "Большое здание, как правило, средневекового периода, укрепленное против нападений.",
+        "descriptionDE": "Ein großes Gebäude, typischerweise aus der mittelalterlichen Zeit, das gegen Angriffe befestigt wurde."
+    }, {
+        "de": "die Seilbahn",
+        "en": "Cable car",
+        "ru": "Канатная дорога",
+        "descriptionEN": "A vehicle that hangs from a moving cable and transports people up and down a mountain.",
+        "descriptionRU": "Транспортное средство, которое подвешено на движущемся тросе и перевозит людей вверх и вниз по горе.",
+        "descriptionDE": "Ein Fahrzeug, das an einem sich bewegenden Seil hängt und Menschen den Berg hinauf und hinunter befördert."
+    }, {
+        "de": "das Eis",
+        "en": "Ice cream",
+        "ru": "Мороженое",
+        "descriptionEN": "A soft, sweet frozen food made with milk and cream.",
+        "descriptionRU": "Мягкий, сладкий замороженный продукт, приготовленный из молока и сливок.",
+        "descriptionDE": "Ein weiches, süßes, gefrorenes Lebensmittel, hergestellt aus Milch und Sahne."
+    }, {
+        "de": "die Sonne",
+        "en": "Sun",
+        "ru": "Солнце",
+        "descriptionEN": "The star at the center of our solar system.",
+        "descriptionRU": "Звезда в центре нашей солнечной системы.",
+        "descriptionDE": "Der Stern im Zentrum unseres Sonnensystems."
+    }, {
+        "de": "das Märchen",
+        "en": "Fairy tale",
+        "ru": "Сказка",
+        "descriptionEN": "A children's story about magical and imaginary beings and lands.",
+        "descriptionRU": "Детская история о волшебных и вымышленных существах и землях.",
+        "descriptionDE": "Eine Kindergeschichte über magische und imaginäre Wesen und Länder."
+    }, {
+        "de": "der Pirat",
+        "en": "Pirate",
+        "ru": "Пират",
+        "descriptionEN": "A person who attacks and robs ships at sea.",
+        "descriptionRU": "Человек, который атакует и грабит корабли в море.",
+        "descriptionDE": "Eine Person, die Schiffe auf See angreift und ausraubt."
+    }, {
+        "de": "die Festung",
+        "en": "Fortress",
+        "ru": "Крепость",
+        "descriptionEN": "A military stronghold, especially a strongly fortified town.",
+        "descriptionRU": "Военная крепость, особенно сильно укрепленный город.",
+        "descriptionDE": "Eine militärische Festung, besonders eine stark befestigte Stadt."
+    }, {
+        "de": "fahren",
+        "en": "to drive",
+        "ru": "ехать",
+        "descriptionEN": "To control the movement of a vehicle.",
+        "descriptionRU": "Управлять движением транспортного средства.",
+        "descriptionDE": "Die Bewegung eines Fahrzeugs kontrollieren."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "To perceive with the eyes.",
+        "descriptionRU": "Воспринимать глазами.",
+        "descriptionDE": "Mit den Augen wahrnehmen."
+    }, {
+        "de": "essen",
+        "en": "to eat",
+        "ru": "есть",
+        "descriptionEN": "To consume food.",
+        "descriptionRU": "Потреблять пищу.",
+        "descriptionDE": "Nahrung zu sich nehmen."
+    }, {
+        "de": "fühlen",
+        "en": "to feel",
+        "ru": "чувствовать",
+        "descriptionEN": "To experience an emotion or sensation.",
+        "descriptionRU": "Испытывать эмоцию или ощущение.",
+        "descriptionDE": "Eine Emotion oder Empfindung erleben."
+    }, {
+        "de": "haben",
+        "en": "to have",
+        "ru": "иметь",
+        "descriptionEN": "To possess, own, or hold.",
+        "descriptionRU": "Владеть, обладать, удерживать.",
+        "descriptionDE": "Besitzen, besitzen oder halten."
+    }, {
+        "de": "hoch",
+        "en": "high",
+        "ru": "высоко",
+        "descriptionEN": "At or to a considerable height.",
+        "descriptionRU": "На значительной высоте.",
+        "descriptionDE": "In beträchtlicher Höhe."
+    }, {
+        "de": "cool",
+        "en": "cool",
+        "ru": "крутой",
+        "descriptionEN": "Fashionably attractive or impressive.",
+        "descriptionRU": "Модно привлекательный или впечатляющий.",
+        "descriptionDE": "Modisch attraktiv oder beeindruckend."
+    }, {
+        "de": "beste",
+        "en": "best",
+        "ru": "лучший",
+        "descriptionEN": "Of the highest quality, excellence, or standing.",
+        "descriptionRU": "Самого высокого качества, совершенства или положения.",
+        "descriptionDE": "Von höchster Qualität, Exzellenz oder Ansehen."
+    }
+]

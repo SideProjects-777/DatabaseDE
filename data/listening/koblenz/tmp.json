@@ -1,0 +1,51 @@
+[
+    {
+        "name": {
+            "en": "Summer fun",
+            "de": "Sommervergnügen",
+            "ru": "Летние радости"
+        },
+        "description": {
+            "en": "Rivers and Castles",
+            "de": "Flüsse und Burgen",
+            "ru": "Реки и замки"
+        },
+        "level": "A2",
+        "image": "Summer.jpg",
+        "file": "Summer.mp3",
+        "words": "Summer.json",
+        "yesNo": "Summer.json"
+    }, {
+        "name": {
+            "en": "Summer fun",
+            "de": "Sommervergnügen",
+            "ru": "Летние радости"
+        },
+        "description": {
+            "en": "Rivers and Castles",
+            "de": "Flüsse und Burgen",
+            "ru": "Реки и замки"
+        },
+        "level": "A2",
+        "image": "Summer.jpg",
+        "file": "Summer.mp3",
+        "words": "Summer.json",
+        "yesNo": "Summer.json"
+    }, {
+        "name": {
+            "en": "Summer fun",
+            "de": "Sommervergnügen",
+            "ru": "Летние радости"
+        },
+        "description": {
+            "en": "Rivers and Castles",
+            "de": "Flüsse und Burgen",
+            "ru": "Реки и замки"
+        },
+        "level": "A2",
+        "image": "Summer.jpg",
+        "file": "Summer.mp3",
+        "words": "Summer.json",
+        "yesNo": "Summer.json"
+    }
+]
