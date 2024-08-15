@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Der Garten in Koblenz heißt Kurfürstlicher Schlossgarten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Blumen im Garten waren alle gleichfarbig.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Springbrunnen im Garten glitzerte in der Sonne.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Erzähler wollte den Springbrunnen mit nach Hause nehmen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Zaubergarten war der Lieblingsplatz des Erzählers.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Eichhörnchen wurde Nutty genannt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Erzähler sagte den Wunsch für einen Hund niemandem.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Garten hat keine Schmetterlinge.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Erzähler fand den Garten nicht schön.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Erzähler plante, den Zaubergarten nicht wieder zu besuchen.",
+        "tr": false,
+        "fle": true
+    }
+]

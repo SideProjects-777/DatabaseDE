@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Marksburg sieht wie eine echte Ritterburg aus.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Es gab keine Rüstungen oder Schwerter in der Marksburg.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Autor verteidigte die Burg gegen Drachen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Autor kletterte auf den Turm der Marksburg.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Treppen im Turm waren flach.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Autor hatte das Gefühl, auf dem Gipfel der Welt zu sein.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Autor wollte am Ende des Tages in einem Schloss leben.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mutter des Autors sagte, dass er ein Ritter in Koblenz sein sollte.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Autor fand den Sommer in Koblenz langweilig.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Autor ist am Ende des Tages gegangen, weil er müde war.",
+        "tr": false,
+        "fle": true
+    }
+]

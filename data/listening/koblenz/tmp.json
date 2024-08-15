@@ -16,36 +16,38 @@
         "words": "Summer.json",
         "yesNo": "Summer.json"
     }, {
+
         "name": {
-            "en": "Summer fun",
-            "de": "Sommervergnügen",
-            "ru": "Летние радости"
+            "en": "Secret Fountain",
+            "de": "Geheimer Brunnen",
+            "ru": "Секретный Фонтан"
         },
         "description": {
-            "en": "Rivers and Castles",
-            "de": "Flüsse und Burgen",
-            "ru": "Реки и замки"
+            "en": "Magical discovery",
+            "de": "Magische Entdeckung",
+            "ru": "Волшебное открытие"
         },
         "level": "A2",
-        "image": "Summer.jpg",
-        "file": "Summer.mp3",
-        "words": "Summer.json",
-        "yesNo": "Summer.json"
+        "image": "Fountain.jpg",
+        "file": "Fountain.mp3",
+        "words": "Fountain.json",
+        "yesNo": "Fountain.json"
     }, {
+
         "name": {
-            "en": "Summer fun",
-            "de": "Sommervergnügen",
-            "ru": "Летние радости"
+            "en": "Knightly Adventure",
+            "de": "Ritterliches Abenteuer",
+            "ru": "Рыцарское приключение"
         },
         "description": {
-            "en": "Rivers and Castles",
-            "de": "Flüsse und Burgen",
-            "ru": "Реки и замки"
+            "en": "Castle Experience",
+            "de": "Burg-Erlebnis",
+            "ru": "Замковый опыт"
         },
         "level": "A2",
-        "image": "Summer.jpg",
-        "file": "Summer.mp3",
-        "words": "Summer.json",
-        "yesNo": "Summer.json"
+        "image": "Ritterliches.jpg",
+        "file": "Ritterliches.mp3",
+        "words": "Ritterliches.json",
+        "yesNo": "Ritterliches.json"
     }
 ]
