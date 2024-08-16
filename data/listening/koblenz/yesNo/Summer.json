@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Koblenz liegt in Deutschland, wo der Rhein und die Mosel zusammenfließen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Familie machte eine Bootsfahrt auf der Mosel.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Festung Ehrenbreitstein sah aus wie aus einem Märchen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Familie fuhr mit einer Seilbahn über den Rhein.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Am Ende des Tages aß die Familie Eis und sah den Sonnenuntergang.",
+        "tr": true,
+        "fle": false
+    }
+]

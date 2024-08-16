@@ -1,0 +1,136 @@
+[
+    {
+        "de": "der Garten",
+        "en": "Garden",
+        "ru": "Сад",
+        "descriptionEN": "A piece of ground for growing plants and flowers.",
+        "descriptionRU": "Участок земли для выращивания растений и цветов.",
+        "descriptionDE": "Ein Stück Land zum Anpflanzen von Pflanzen und Blumen."
+    }, {
+        "de": "der Schlossgarten",
+        "en": "Palace garden",
+        "ru": "Дворцовый сад",
+        "descriptionEN": "A garden located at a palace.",
+        "descriptionRU": "Сад, расположенный при дворце.",
+        "descriptionDE": "Ein Garten, der sich an einem Schloss befindet."
+    }, {
+        "de": "die Blumen",
+        "en": "Flowers",
+        "ru": "Цветы",
+        "descriptionEN": "The reproductive part of a plant, often colorful and fragrant.",
+        "descriptionRU": "Репродуктивная часть растения, часто яркая и ароматная.",
+        "descriptionDE": "Der Fortpflanzungsteil einer Pflanze, oft bunt und duftend."
+    }, {
+        "de": "der Schmetterling",
+        "en": "Butterfly",
+        "ru": "Бабочка",
+        "descriptionEN": "An insect with large, colorful wings.",
+        "descriptionRU": "Насекомое с большими, цветными крыльями.",
+        "descriptionDE": "Ein Insekt mit großen, bunten Flügeln."
+    }, {
+        "de": "der Springbrunnen",
+        "en": "Fountain",
+        "ru": "Фонтан",
+        "descriptionEN": "A decorative structure that shoots water into the air.",
+        "descriptionRU": "Декоративная конструкция, которая выбрасывает воду в воздух.",
+        "descriptionDE": "Eine dekorative Struktur, die Wasser in die Luft schießt."
+    }, {
+        "de": "der Zauberbrunnen",
+        "en": "Magic fountain",
+        "ru": "Волшебный фонтан",
+        "descriptionEN": "A fountain believed to have magical properties.",
+        "descriptionRU": "Фонтан, который считается имеющим магические свойства.",
+        "descriptionDE": "Ein Brunnen, der als magisch angesehen wird."
+    }, {
+        "de": "der Hund",
+        "en": "Dog",
+        "ru": "Собака",
+        "descriptionEN": "A domesticated carnivorous mammal with a bark or howl.",
+        "descriptionRU": "Домашнее хищное млекопитающее с лаем или воем.",
+        "descriptionDE": "Ein domestiziertes Raubtier mit Bellen oder Heulen."
+    }, {
+        "de": "das Eichhörnchen",
+        "en": "Squirrel",
+        "ru": "Белка",
+        "descriptionEN": "A small rodent with a bushy tail, often found in trees.",
+        "descriptionRU": "Маленькое грызун с пушистым хвостом, часто встречающееся на деревьях.",
+        "descriptionDE": "Ein kleines Nagetier mit buschigem Schwanz, oft in Bäumen."
+    }, {
+        "de": "die Nuss",
+        "en": "Nut",
+        "ru": "Орех",
+        "descriptionEN": "A hard-shelled fruit containing a seed.",
+        "descriptionRU": "Плод с твердым панцирем, содержащий семя.",
+        "descriptionDE": "Eine harte Frucht, die einen Samen enthält."
+    }, {
+        "de": "der Lieblingsplatz",
+        "en": "Favorite place",
+        "ru": "Любимое место",
+        "descriptionEN": "A place that one prefers or loves the most.",
+        "descriptionRU": "Место, которое кто-то предпочитает или любит больше всего.",
+        "descriptionDE": "Ein Ort, den man am meisten bevorzugt oder liebt."
+    }, {
+        "de": "der Wunsch",
+        "en": "Wish",
+        "ru": "Желание",
+        "descriptionEN": "A desire or hope for something.",
+        "descriptionRU": "Желание или надежда на что-то.",
+        "descriptionDE": "Ein Verlangen oder Hoffnung auf etwas."
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "открывать",
+        "descriptionEN": "To find or learn something new.",
+        "descriptionRU": "Находить или узнавать что-то новое.",
+        "descriptionDE": "Etwas Neues finden oder lernen."
+    }, {
+        "de": "fühlen",
+        "en": "to feel",
+        "ru": "чувствовать",
+        "descriptionEN": "To experience an emotion or sensation.",
+        "descriptionRU": "Испытывать эмоцию или ощущение.",
+        "descriptionDE": "Eine Emotion oder Empfindung erleben."
+    }, {
+        "de": "verstecken",
+        "en": "to hide",
+        "ru": "прятать",
+        "descriptionEN": "To put something in a place where it cannot be seen.",
+        "descriptionRU": "Поместить что-то в место, где это не видно.",
+        "descriptionDE": "Etwas an einem Ort verstecken, an dem es nicht gesehen werden kann."
+    }, {
+        "de": "nennen",
+        "en": "to name",
+        "ru": "называть",
+        "descriptionEN": "To give a name to someone or something.",
+        "descriptionRU": "Дать имя кому-то или чему-то.",
+        "descriptionDE": "Jemandem oder etwas einen Namen geben."
+    }, {
+        "de": "hoffen",
+        "en": "to hope",
+        "ru": "надеяться",
+        "descriptionEN": "To desire a certain outcome or result.",
+        "descriptionRU": "Желать определенного результата.",
+        "descriptionDE": "Ein bestimmtes Ergebnis oder Ergebnis wünschen."
+    }, {
+        "de": "lustig",
+        "en": "funny",
+        "ru": "веселый",
+        "descriptionEN": "Causing laughter or amusement.",
+        "descriptionRU": "Вызывающий смех или развлечение.",
+        "descriptionDE": "Lachen oder Unterhaltung verursachend."
+    }, {
+        "de": "klein",
+        "en": "small",
+        "ru": "маленький",
+        "descriptionEN": "Of a size that is less than normal or usual.",
+        "descriptionRU": "Размер, который меньше нормального или обычного.",
+        "descriptionDE": "Von einer Größe, die kleiner als normal oder üblich ist."
+    }, {
+        "de": "wunderschön",
+        "en": "beautiful",
+        "ru": "прекрасный",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Угодно воспринимаемое органами чувств или умом.",
+        "descriptionDE": "Die Sinne oder den Geist ästhetisch erfreuend."
+    }
+]

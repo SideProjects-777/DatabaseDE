@@ -1,0 +1,143 @@
+[
+    {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "A large building typically of the medieval period, fortified against attack.",
+        "descriptionRU": "Большое здание, обычно средневекового периода, укрепленное для защиты от атак.",
+        "descriptionDE": "Ein großes Gebäude, das typischerweise aus dem Mittelalter stammt und zur Verteidigung gegen Angriffe befestigt ist."
+    }, {
+        "de": "der Ritter",
+        "en": "knight",
+        "ru": "рыцарь",
+        "descriptionEN": "A man who served as a mounted soldier in armor, especially in the Middle Ages.",
+        "descriptionRU": "Человек, который служил в качестве всадника в доспехах, особенно в Средние века.",
+        "descriptionDE": "Ein Mann, der als gepanzerter Reiter diente, insbesondere im Mittelalter."
+    }, {
+        "de": "der Turm",
+        "en": "tower",
+        "ru": "башня",
+        "descriptionEN": "A tall, narrow building or part of a building that rises above the rest.",
+        "descriptionRU": "Высокое, узкое здание или часть здания, которое поднимается над остальным.",
+        "descriptionDE": "Ein hohes, schmales Gebäude oder Teil eines Gebäudes, das über den Rest hinausragt."
+    }, {
+        "de": "die Treppe",
+        "en": "stairs",
+        "ru": "лестница",
+        "descriptionEN": "A set of steps leading from one floor to another.",
+        "descriptionRU": "Набор ступеней, ведущих с одного этажа на другой.",
+        "descriptionDE": "Eine Reihe von Stufen, die von einer Etage zur anderen führen."
+    }, {
+        "de": "das Tal",
+        "en": "valley",
+        "ru": "долина",
+        "descriptionEN": "A low area of land between hills or mountains, typically with a river running through it.",
+        "descriptionRU": "Низкая территория между холмами или горами, обычно с рекой, протекающей через нее.",
+        "descriptionDE": "Ein niedriges Gebiet zwischen Hügeln oder Bergen, typischerweise mit einem Fluss, der hindurch fließt."
+    }, {
+        "de": "die Rüstung",
+        "en": "armor",
+        "ru": "доспехи",
+        "descriptionEN": "Protective covering worn to prevent injury in combat.",
+        "descriptionRU": "Защитное покрытие, надеваемое для предотвращения травм в бою.",
+        "descriptionDE": "Schutzkleidung, die getragen wird, um Verletzungen im Kampf zu verhindern."
+    }, {
+        "de": "das Schwert",
+        "en": "sword",
+        "ru": "меч",
+        "descriptionEN": "A weapon with a long metal blade and a handle, used for cutting or thrusting.",
+        "descriptionRU": "Оружие с длинным металлическим лезвием и рукояткой, используемое для резки или колющих ударов.",
+        "descriptionDE": "Eine Waffe mit einer langen Metallklinge und einem Griff, die zum Schneiden oder Stoßen verwendet wird."
+    }, {
+        "de": "die Tür",
+        "en": "door",
+        "ru": "дверь",
+        "descriptionEN": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle.",
+        "descriptionRU": "Заслонка с петлями, скользящая или вращающаяся, на входе в здание, комнату или транспортное средство.",
+        "descriptionDE": "Eine schwenkbare, gleitende oder drehende Barriere am Eingang zu einem Gebäude, Raum oder Fahrzeug."
+    }, {
+        "de": "der Sommer",
+        "en": "summer",
+        "ru": "лето",
+        "descriptionEN": "The warmest season of the year, occurring between spring and autumn.",
+        "descriptionRU": "Самый теплый сезон года, происходящий между весной и осенью.",
+        "descriptionDE": "Die wärmste Jahreszeit des Jahres, die zwischen Frühling und Herbst liegt."
+    }, {
+        "de": "das Gefühl",
+        "en": "feeling",
+        "ru": "чувство",
+        "descriptionEN": "An emotional state or reaction.",
+        "descriptionRU": "Эмоциональное состояние или реакция.",
+        "descriptionDE": "Ein emotionaler Zustand oder eine Reaktion."
+    }, {
+        "de": "die Aussicht",
+        "en": "view",
+        "ru": "вид",
+        "descriptionEN": "The ability to see or the scenery visible from a particular place.",
+        "descriptionRU": "Способность видеть или пейзаж, видимый с определенного места.",
+        "descriptionDE": "Die Fähigkeit zu sehen oder die Aussicht, die von einem bestimmten Ort aus sichtbar ist."
+    }, {
+        "de": "die Frage",
+        "en": "question",
+        "ru": "вопрос",
+        "descriptionEN": "A sentence worded or expressed so as to elicit information.",
+        "descriptionRU": "Предложение, сформулированное или выраженное для получения информации.",
+        "descriptionDE": "Ein Satz, der so formuliert oder ausgedrückt ist, dass er Informationen anfordert."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "To perceive with the eyes.",
+        "descriptionRU": "Воспринимать глазами.",
+        "descriptionDE": "Mit den Augen wahrnehmen."
+    }, {
+        "de": "klettern",
+        "en": "to climb",
+        "ru": "лезть",
+        "descriptionEN": "To go up or ascend something using hands and feet.",
+        "descriptionRU": "Подниматься или восходить по чему-либо, используя руки и ноги.",
+        "descriptionDE": "Etwas hinauf- oder aufsteigen, indem man Hände und Füße verwendet."
+    }, {
+        "de": "verteidigen",
+        "en": "to defend",
+        "ru": "защищать",
+        "descriptionEN": "To protect from harm or danger.",
+        "descriptionRU": "Защищать от вреда или опасности.",
+        "descriptionDE": "Vor Schaden oder Gefahr schützen."
+    }, {
+        "de": "wollen",
+        "en": "to want",
+        "ru": "хотеть",
+        "descriptionEN": "To have a desire for something.",
+        "descriptionRU": "Иметь желание чего-либо.",
+        "descriptionDE": "Ein Verlangen nach etwas haben."
+    }, {
+        "de": "leben",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "To remain alive or to reside in a particular place.",
+        "descriptionRU": "Оставаться живым или проживать в определенном месте.",
+        "descriptionDE": "Lebendig bleiben oder an einem bestimmten Ort wohnen."
+    }, {
+        "de": "sein",
+        "en": "to be",
+        "ru": "быть",
+        "descriptionEN": "To exist or live.",
+        "descriptionRU": "Существовать или жить.",
+        "descriptionDE": "Existieren oder leben."
+    }, {
+        "de": "cool",
+        "en": "cool",
+        "ru": "крутой",
+        "descriptionEN": "Fashionable or impressive.",
+        "descriptionRU": "Модный или впечатляющий.",
+        "descriptionDE": "Modisch oder beeindruckend."
+    }, {
+        "de": "steep",
+        "en": "steep",
+        "ru": "крутой",
+        "descriptionEN": "Having a sharp inclination.",
+        "descriptionRU": "Имеющий резкий наклон.",
+        "descriptionDE": "Mit einer scharfen Neigung."
+    }
+]

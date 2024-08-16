@@ -1,0 +1,37 @@
+[
+    {
+
+        "name": {
+            "en": "Secret Fountain",
+            "de": "Geheimer Brunnen",
+            "ru": "Секретный Фонтан"
+        },
+        "description": {
+            "en": "Magical discovery",
+            "de": "Magische Entdeckung",
+            "ru": "Волшебное открытие"
+        },
+        "level": "A2",
+        "image": "Fountain.jpg",
+        "file": "Fountain.mp3",
+        "words": "Fountain.json",
+        "yesNo": "Fountain.json"
+    }, {
+
+        "name": {
+            "en": "Knightly Adventure",
+            "de": "Ritterliches Abenteuer",
+            "ru": "Рыцарское приключение"
+        },
+        "description": {
+            "en": "Castle Experience",
+            "de": "Burg-Erlebnis",
+            "ru": "Замковый опыт"
+        },
+        "level": "A2",
+        "image": "Ritterliches.jpg",
+        "file": "Ritterliches.mp3",
+        "words": "Ritterliches.json",
+        "yesNo": "Ritterliches.json"
+    }
+]
