@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Garden Success",
+            "de": "Garten Erfolg",
+            "ru": "Успех сада"
+        },
+        "description": {
+            "en": "Tomatoes with patience",
+            "de": "Tomaten mit Geduld",
+            "ru": "Помидоры с терпением"
+        },
+        "level": "A2",
+        "image": "Tomaten.jpg",
+        "file": "Tomaten.mp3",
+        "words": "Tomaten.json",
+        "yesNo": "Tomaten.json"
+    }, {
+        "name": {
             "en": "New Friend",
             "de": "Neue Freundin",
             "ru": "Новая подруга"
