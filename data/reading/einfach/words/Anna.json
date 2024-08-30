@@ -12,7 +12,7 @@
         "ru": "женщина",
         "descriptionEN": "adult human female",
         "descriptionRU": "взрослая женщина",
-        "descriptionDE": "erwachsene menschliche Frau"
+        "descriptionDE": "erwachsene weibliche Person"
     }, {
         "de": "der Bahnhof",
         "en": "train station",
@@ -33,7 +33,7 @@
         "ru": "время",
         "descriptionEN": "the indefinite continued progress of existence and events",
         "descriptionRU": "неопределенное продолжение существования и событий",
-        "descriptionDE": "die unbestimmte fortlaufende Entwicklung von Existenz und Ereignissen"
+        "descriptionDE": "der unbegrenzte fortlaufende Fortschritt des Daseins und der Ereignisse"
     }, {
         "de": "die Hilfe",
         "en": "help",
@@ -47,7 +47,7 @@
         "ru": "время",
         "descriptionEN": "the indefinite continued progress of existence and events",
         "descriptionRU": "неопределенное продолжение существования и событий",
-        "descriptionDE": "die unbestimmte fortlaufende Entwicklung von Existenz und Ereignissen"
+        "descriptionDE": "der unbegrenzte fortlaufende Fortschritt des Daseins und der Ereignisse"
     }, {
         "de": "der Kaffee",
         "en": "coffee",
@@ -82,14 +82,14 @@
         "ru": "место",
         "descriptionEN": "a specific portion of space",
         "descriptionRU": "определенная часть пространства",
-        "descriptionDE": "ein bestimmter Teil des Raumes"
+        "descriptionDE": "ein bestimmter Bereich des Raumes"
     }, {
         "de": "die Verspätung",
         "en": "delay",
         "ru": "задержка",
         "descriptionEN": "the action of delaying or the state of being delayed",
         "descriptionRU": "действие задержки или состояние задержки",
-        "descriptionDE": "die Handlung des Verzögerens oder der Zustand der Verzögerung"
+        "descriptionDE": "die Handlung des Verzögerns oder der Zustand der Verzögerung"
     }, {
         "de": "die Ewigkeit",
         "en": "eternity",
@@ -124,14 +124,14 @@
         "ru": "сотрудники",
         "descriptionEN": "people who work for an organization",
         "descriptionRU": "люди, работающие в организации",
-        "descriptionDE": "Menschen, die für eine Organisation arbeiten"
+        "descriptionDE": "Personen, die für eine Organisation arbeiten"
     }, {
         "de": "der Informationsschalter",
         "en": "information desk",
         "ru": "информационный стол",
         "descriptionEN": "a counter, typically in a public place, where information and assistance are provided",
         "descriptionRU": "стойка, обычно в общественном месте, где предоставляются информация и помощь",
-        "descriptionDE": "ein Schalter, typischerweise an öffentlichen Orten, wo Informationen und Hilfe angeboten werden"
+        "descriptionDE": "ein Schalter, typischerweise an öffentlichen Orten, an dem Informationen und Hilfe angeboten werden"
     }, {
         "de": "die Mitarbeiterin",
         "en": "employee (female)",
@@ -144,91 +144,105 @@
         "en": "to drive",
         "ru": "ехать",
         "descriptionEN": "to travel in a vehicle",
-        "descriptionRU": "путешествовать на транспортном средстве"
+        "descriptionRU": "путешествовать на транспортном средстве",
+        "descriptionDE": "in einem Fahrzeug reisen"
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посетить",
         "descriptionEN": "to go to see someone in their home or where they work",
-        "descriptionRU": "пойти навестить кого-то дома или на работе"
+        "descriptionRU": "пойти навестить кого-то дома или на работе",
+        "descriptionDE": "jemanden zu Hause oder an seinem Arbeitsplatz besuchen"
     }, {
         "de": "vermissen",
         "en": "to miss",
         "ru": "скучать",
         "descriptionEN": "to feel sad because you are not with someone",
-        "descriptionRU": "чувствовать грусть из-за того, что ты не с кем-то"
+        "descriptionRU": "чувствовать грусть из-за того, что ты не с кем-то",
+        "descriptionDE": "traurig sein, weil man nicht mit jemandem zusammen ist"
     }, {
         "de": "planen",
         "en": "to plan",
         "ru": "планировать",
         "descriptionEN": "to decide what you are going to do and how you are going to do it",
-        "descriptionRU": "решить, что вы собираетесь делать и как вы это будете делать"
+        "descriptionRU": "решить, что вы собираетесь делать и как вы это будете делать",
+        "descriptionDE": "entscheiden, was man tun und wie man es tun wird"
     }, {
         "de": "helfen",
         "en": "to help",
         "ru": "помогать",
         "descriptionEN": "to make it easier for someone to do something",
-        "descriptionRU": "сделать что-то легче для кого-то"
+        "descriptionRU": "сделать что-то легче для кого-то",
+        "descriptionDE": "es jemandem erleichtern, etwas zu tun"
     }, {
         "de": "ankommen",
         "en": "to arrive",
         "ru": "прибыть",
         "descriptionEN": "to reach a place, especially at the end of a journey",
-        "descriptionRU": "достигнуть места, особенно в конце путешествия"
+        "descriptionRU": "достигнуть места, особенно в конце путешествия",
+        "descriptionDE": "einen Ort erreichen, besonders am Ende einer Reise"
     }, {
         "de": "warten",
         "en": "to wait",
         "ru": "ждать",
         "descriptionEN": "to stay in one place until something happens or someone arrives",
-        "descriptionRU": "оставаться на одном месте, пока что-то не случится или кто-то не придет"
+        "descriptionRU": "оставаться на одном месте, пока что-то не случится или кто-то не придет",
+        "descriptionDE": "an einem Ort bleiben, bis etwas passiert oder jemand ankommt"
     }, {
         "de": "kaufen",
         "en": "to buy",
         "ru": "купить",
         "descriptionEN": "to get something by paying money for it",
-        "descriptionRU": "получить что-то, заплатив за это деньги"
+        "descriptionRU": "получить что-то, заплатив за это деньги",
+        "descriptionDE": "etwas durch Bezahlung erwerben"
     }, {
         "de": "finden",
         "en": "to find",
         "ru": "найти",
         "descriptionEN": "to discover something or someone by looking for them carefully",
-        "descriptionRU": "обнаружить что-то или кого-то, ища их внимательно"
+        "descriptionRU": "обнаружить что-то или кого-то, ища их внимательно",
+        "descriptionDE": "etwas oder jemanden entdecken, indem man sorgfältig danach sucht"
     }, {
         "de": "trinken",
         "en": "to drink",
         "ru": "пить",
         "descriptionEN": "to take liquid into the body through the mouth",
-        "descriptionRU": "принимать жидкость в организм через рот"
+        "descriptionRU": "принимать жидкость в организм через рот",
+        "descriptionDE": "Flüssigkeit durch den Mund in den Körper aufnehmen"
     }, {
         "de": "müde",
         "en": "tired",
         "ru": "усталый",
         "descriptionEN": "needing to rest or sleep",
-        "descriptionRU": "нуждающийся в отдыхе или сне"
+        "descriptionRU": "нуждающийся в отдыхе или сне",
+        "descriptionDE": "Ruhe oder Schlaf benötigend"
     }, {
         "de": "ungeduldig",
         "en": "impatient",
         "ru": "нетерпеливый",
         "descriptionEN": "wanting something to happen as soon as possible",
-        "descriptionRU": "хотящий, чтобы что-то произошло как можно скорее"
+        "descriptionRU": "хотящий, чтобы что-то произошло как можно скорее",
+        "descriptionDE": "möchte, dass etwas so schnell wie möglich passiert"
     }, {
         "de": "genau",
         "en": "exactly",
         "ru": "точно",
         "descriptionEN": "in a complete and detailed way",
-        "descriptionRU": "полным и подробным образом"
+        "descriptionRU": "полным и подробным образом",
+        "descriptionDE": "auf vollständige und detaillierte Weise"
     }, {
         "de": "sonnig",
         "en": "sunny",
         "ru": "солнечный",
         "descriptionEN": "having a lot of light and warmth from the sun",
-        "descriptionRU": "имеющий много света и тепла от солнца"
+        "descriptionRU": "имеющий много света и тепла от солнца",
+        "descriptionDE": "mit viel Licht und Wärme von der Sonne"
     }, {
         "de": "hilfsbereit",
         "en": "helpful",
         "ru": "полезный",
         "descriptionEN": "willing to help",
-        "descriptionRU": "готовый помочь"
+        "descriptionRU": "готовый помочь",
+        "descriptionDE": "bereit zu helfen"
     }
-
 ]
