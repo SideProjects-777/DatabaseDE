@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Wer entschied sich für das Fass?",
+        "answers": [
+            {
+                "text": "Die Winzer aus Trier",
+                "correct": false
+            }, {
+                "text": "Die Weinhändler aus Köln",
+                "correct": false
+            }, {
+                "text": "Die Weinhändler aus Aachen",
+                "correct": true
+            }, {
+                "text": "Die Winzer aus Mainz",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie hieß die schwarze Katze?",
+        "answers": [
+            {
+                "text": "Luna",
+                "correct": false
+            }, {
+                "text": "Mori",
+                "correct": true
+            }, {
+                "text": "Bella",
+                "correct": false
+            }, {
+                "text": "Mia",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann wurde das Denkmal für die schwarze Katze enthüllt?",
+        "answers": [
+            {
+                "text": "1900",
+                "correct": false
+            }, {
+                "text": "1936",
+                "correct": true
+            }, {
+                "text": "1950",
+                "correct": false
+            }, {
+                "text": "2000",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer gestaltete das neue Design der Skulptur?",
+        "answers": [
+            {
+                "text": "Friedrich Freiburg",
+                "correct": true
+            }, {
+                "text": "Michael Apitz",
+                "correct": false
+            }, {
+                "text": "Helmut Schmidt",
+                "correct": false
+            }, {
+                "text": "Klaus Müller",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann steht das Zeller Wahrzeichen im Verkehrskreisel?",
+        "answers": [
+            {
+                "text": "Seit Januar 2010",
+                "correct": false
+            }, {
+                "text": "Seit August 2012",
+                "correct": true
+            }, {
+                "text": "Seit Februar 2015",
+                "correct": false
+            }, {
+                "text": "Seit Dezember 2020",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist auf dem ersten Schein der Zeller Regionalwährung abgebildet?",
+        "answers": [
+            {
+                "text": "Das Zeller Wahrzeichen",
+                "correct": true
+            }, {
+                "text": "Ein Weinfass",
+                "correct": false
+            }, {
+                "text": "Die Stadt Zell",
+                "correct": false
+            }, {
+                "text": "Eine schwarze Katze",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das jährliche Fest in Zell?",
+        "answers": [
+            {
+                "text": "Das Stadtfest",
+                "correct": false
+            }, {
+                "text": "Das Musikfest",
+                "correct": false
+            }, {
+                "text": "Das Tanzfest",
+                "correct": false
+            }, {
+                "text": "Das Weinfest",
+                "correct": true
+            }
+        ]
+    }
+]
