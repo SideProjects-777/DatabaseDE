@@ -1,0 +1,171 @@
+[
+    {
+        "de": "der Weinhändler",
+        "en": "wine merchant",
+        "ru": "винодел",
+        "descriptionEN": "a person who sells wine.",
+        "descriptionRU": "человек, который продает вино.",
+        "descriptionDE": "Eine Person, die Wein verkauft."
+    }, {
+        "de": "das Fass",
+        "en": "barrel",
+        "ru": "бочка",
+        "descriptionEN": "a cylindrical container for storing liquids.",
+        "descriptionRU": "цилиндрический контейнер для хранения жидкостей.",
+        "descriptionDE": "Ein zylindrischer Behälter zur Aufbewahrung von Flüssigkeiten."
+    }, {
+        "de": "die Katze",
+        "en": "cat",
+        "ru": "кошка",
+        "descriptionEN": "a small domesticated feline.",
+        "descriptionRU": "маленькое домашнее животное семейства кошачьих.",
+        "descriptionDE": "Ein kleines domestiziertes Haustier aus der Familie der Katzen."
+    }, {
+        "de": "der Keller",
+        "en": "cellar",
+        "ru": "подвал",
+        "descriptionEN": "a room below ground level for storing wine.",
+        "descriptionRU": "комната ниже уровня земли для хранения вина.",
+        "descriptionDE": "Ein Raum unterhalb des Erdniveaus zur Lagerung von Wein."
+    }, {
+        "de": "der Erfolg",
+        "en": "success",
+        "ru": "успех",
+        "descriptionEN": "the achievement of desired outcomes.",
+        "descriptionRU": "достижение желаемых результатов.",
+        "descriptionDE": "Das Erreichen von gewünschten Ergebnissen."
+    }, {
+        "de": "der Brunnen",
+        "en": "fountain",
+        "ru": "фонтан",
+        "descriptionEN": "a structure that pours out water.",
+        "descriptionRU": "сооружение, из которого льется вода.",
+        "descriptionDE": "Eine Struktur, die Wasser ausgießt."
+    }, {
+        "de": "der Schein",
+        "en": "note",
+        "ru": "банкнота",
+        "descriptionEN": "a piece of paper money.",
+        "descriptionRU": "кусок бумажных денег.",
+        "descriptionDE": "Ein Stück Papiergeld."
+    }, {
+        "de": "der Verkehrskreisel",
+        "en": "roundabout",
+        "ru": "круговое движение",
+        "descriptionEN": "a circular intersection or junction.",
+        "descriptionRU": "круговое пересечение или развязка.",
+        "descriptionDE": "Eine kreisförmige Kreuzung oder Verbindung."
+    }, {
+        "de": "das Denkmal",
+        "en": "monument",
+        "ru": "памятник",
+        "descriptionEN": "a structure built to honor someone.",
+        "descriptionRU": "сооружение, построенное в честь кого-то.",
+        "descriptionDE": "Eine Struktur, die gebaut wurde, um jemanden zu ehren."
+    }, {
+        "de": "der Karikaturist",
+        "en": "caricaturist",
+        "ru": "карикатурист",
+        "descriptionEN": "an artist who creates caricatures.",
+        "descriptionRU": "художник, создающий карикатуры.",
+        "descriptionDE": "Ein Künstler, der Karikaturen erstellt."
+    }, {
+        "de": "der Künstler",
+        "en": "artist",
+        "ru": "художник",
+        "descriptionEN": "a person who creates art.",
+        "descriptionRU": "человек, создающий искусство.",
+        "descriptionDE": "Eine Person, die Kunst schafft."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "to perceive with the eyes.",
+        "descriptionRU": "воспринимать с помощью глаз.",
+        "descriptionDE": "Mit den Augen wahrnehmen."
+    }, {
+        "de": "feiern",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "to acknowledge a significant event with festivities.",
+        "descriptionRU": "отмечать важное событие торжествами.",
+        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen."
+    }, {
+        "de": "finden",
+        "en": "to find",
+        "ru": "находить",
+        "descriptionEN": "to discover something.",
+        "descriptionRU": "обнаружить что-то.",
+        "descriptionDE": "Etwas entdecken."
+    }, {
+        "de": "hoffen",
+        "en": "to hope",
+        "ru": "надеяться",
+        "descriptionEN": "to wish for a desired outcome.",
+        "descriptionRU": "желать желаемого результата.",
+        "descriptionDE": "Auf ein gewünschtes Ergebnis hoffen."
+    }, {
+        "de": "schaffen",
+        "en": "to create",
+        "ru": "создавать",
+        "descriptionEN": "to bring something into existence.",
+        "descriptionRU": "создать что-то.",
+        "descriptionDE": "Etwas ins Leben rufen."
+    }, {
+        "de": "erzählen",
+        "en": "to tell",
+        "ru": "рассказывать",
+        "descriptionEN": "to narrate or recount.",
+        "descriptionRU": "повествовать или пересказывать.",
+        "descriptionDE": "Erzählen oder berichten."
+    }, {
+        "de": "tapfer",
+        "en": "brave",
+        "ru": "смелый",
+        "descriptionEN": "showing courage.",
+        "descriptionRU": "проявляющий мужество.",
+        "descriptionDE": "Mut zeigend."
+    }, {
+        "de": "liebenswert",
+        "en": "lovable",
+        "ru": "милый",
+        "descriptionEN": "endearing and charming.",
+        "descriptionRU": "привлекательный и очаровательный.",
+        "descriptionDE": "Herzlich und charmant."
+    }, {
+        "de": "legendär",
+        "en": "legendary",
+        "ru": "легендарный",
+        "descriptionEN": "famous in legend.",
+        "descriptionRU": "знаменитый в легенде.",
+        "descriptionDE": "Berühmt in der Legende."
+    }, {
+        "de": "absolut",
+        "en": "absolute",
+        "ru": "абсолютный",
+        "descriptionEN": "complete and total.",
+        "descriptionRU": "полный и тотальный.",
+        "descriptionDE": "Vollständig und total."
+    }, {
+        "de": "grandios",
+        "en": "grand",
+        "ru": "великолепный",
+        "descriptionEN": "impressive and splendid.",
+        "descriptionRU": "впечатляющий и великолепный.",
+        "descriptionDE": "Beeindruckend und prächtig."
+    }, {
+        "de": "wunderschön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "very pleasing to the senses.",
+        "descriptionRU": "очень приятный для чувств.",
+        "descriptionDE": "Sehr angenehm für die Sinne."
+    }, {
+        "de": "neuer",
+        "en": "new",
+        "ru": "новый",
+        "descriptionEN": "recently made or discovered.",
+        "descriptionRU": "недавно сделанный или открытый.",
+        "descriptionDE": "Kürzlich hergestellt oder entdeckt."
+    }
+]

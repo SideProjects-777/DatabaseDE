@@ -1,0 +1,73 @@
+[
+    {
+        "de": "der Ort",
+        "en": "place",
+        "ru": "место",
+        "descriptionEN": "a particular position or point in space.",
+        "descriptionRU": "определенное местоположение или точка в пространстве.",
+        "descriptionDE": "Ein bestimmter Standort oder Punkt im Raum."
+    }, {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "a large building or group of buildings fortified against attack.",
+        "descriptionRU": "большое здание или группа зданий, укрепленных против нападения.",
+        "descriptionDE": "Ein großes Gebäude oder eine Gruppe von Gebäuden, die gegen Angriffe befestigt sind."
+    }, {
+        "de": "das Dorf",
+        "en": "village",
+        "ru": "деревня",
+        "descriptionEN": "a small settlement, typically one smaller than a town.",
+        "descriptionRU": "небольшое поселение, обычно меньше города.",
+        "descriptionDE": "Eine kleine Siedlung, typischerweise kleiner als eine Stadt."
+    }, {
+        "de": "die Prinzessin",
+        "en": "princess",
+        "ru": "принцесса",
+        "descriptionEN": "a daughter of a monarch.",
+        "descriptionRU": "дочь монарха.",
+        "descriptionDE": "Eine Tochter eines Monarchen."
+    }, {
+        "de": "schlängeln",
+        "en": "to meander",
+        "ru": "извиваться",
+        "descriptionEN": "to follow a winding course.",
+        "descriptionRU": "следовать извилистому пути.",
+        "descriptionDE": "Einem gewundenen Pfad folgen."
+    }, {
+        "de": "erklimmen",
+        "en": "to climb",
+        "ru": "взбираться",
+        "descriptionEN": "to go or come up a slope or incline.",
+        "descriptionRU": "подниматься или приходить по склону или наклону.",
+        "descriptionDE": "Einen Hang oder eine Steigung hinaufgehen oder erklimmen."
+    }, {
+        "de": "malerisch",
+        "en": "picturesque",
+        "ru": "живописный",
+        "descriptionEN": "visually attractive, especially in a quaint or charming way.",
+        "descriptionRU": "визуально привлекательный, особенно в причудливом или очаровательном виде.",
+        "descriptionDE": "Visuell ansprechend, besonders auf malerische oder charmante Weise."
+    }, {
+        "de": "liebevoll",
+        "en": "loving",
+        "ru": "любящий",
+        "descriptionEN": "feeling or showing love or great care.",
+        "descriptionRU": "испытывающий или проявляющий любовь или большую заботу.",
+        "descriptionDE": "Ein Gefühl oder Ausdruck von Liebe oder großer Fürsorge."
+    }, {
+        "de": "freundlich",
+        "en": "friendly",
+        "ru": "дружелюбный",
+        "descriptionEN": "kind and pleasant.",
+        "descriptionRU": "добрый и приятный.",
+        "descriptionDE": "Nett und angenehm."
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "used to single out one person, thing, or situation over all others.",
+        "descriptionRU": "используется для выделения одного человека, вещи или ситуации среди всех остальных.",
+        "descriptionDE": "Wird verwendet, um eine Person, Sache oder Situation vor allen anderen hervorzuheben."
+    }
+]

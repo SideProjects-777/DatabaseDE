@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Wie wird Beilstein oft bezeichnet?",
+        "answers": [
+            {
+                "text": "Das Märchen der Mosel",
+                "correct": false
+            }, {
+                "text": "Das Dornröschen der Mosel",
+                "correct": true
+            }, {
+                "text": "Die Perle der Mosel",
+                "correct": false
+            }, {
+                "text": "Das Schloss der Mosel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Burg thront über dem Dorf Beilstein?",
+        "answers": [
+            {
+                "text": "Burg Metternich",
+                "correct": true
+            }, {
+                "text": "Burg Hohenzollern",
+                "correct": false
+            }, {
+                "text": "Burg Eltz",
+                "correct": false
+            }, {
+                "text": "Burg Rheinfels",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was geschah mit der Prinzessin in der Burg?",
+        "answers": [
+            {
+                "text": "Sie verließ die Burg",
+                "correct": false
+            }, {
+                "text": "Sie wurde zur Königin gekrönt",
+                "correct": false
+            }, {
+                "text": "Sie fiel in einen tiefen Schlaf",
+                "correct": true
+            }, {
+                "text": "Sie zog in eine andere Stadt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was können Besucher auf der Burgruine sehen?",
+        "answers": [
+            {
+                "text": "Einen atemberaubenden Blick auf die Mosel",
+                "correct": true
+            }, {
+                "text": "Ein modernes Museum",
+                "correct": false
+            }, {
+                "text": "Ein großes Festmahl",
+                "correct": false
+            }, {
+                "text": "Ein neues Schloss",
+                "correct": false
+            }
+        ]
+    }
+]
