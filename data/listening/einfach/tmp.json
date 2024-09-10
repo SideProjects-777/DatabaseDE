@@ -49,5 +49,23 @@
         "words": "Pizzatraum.json",
         "multi": "Pizzatraum.json"
 
+    }, {
+
+        "name": {
+            "en": "Missis Wilson's Bike",
+            "de": "Frau Wilsons Fahrrad",
+            "ru": "Велосипед Фрау Уилсон"
+        },
+        "description": {
+            "en": "Learning to Ride",
+            "de": "Radfahren lernen",
+            "ru": "Учимся ездить"
+        },
+        "level": "A2",
+        "image": "Radfahren.jpg",
+        "file": "Radfahren.mp3",
+        "words": "Radfahren.json",
+        "multi": "Radfahren.json"
+
     }
 ]
