@@ -1,0 +1,18 @@
+[{
+        "name": {
+            "en": "Family Celebration",
+            "de": "Familienfeier",
+            "ru": "Семейное торжество"
+        },
+        "description": {
+            "en": "Grandma's Wish",
+            "de": "Omas Wunsch",
+            "ru": "Бабушкин Желание"
+        },
+        "level": "A2",
+        "image": "Familienfeier.jpg",
+        "file": "Familienfeier.mp3",
+        "words": "Familienfeier.json",
+        "multi": "Familienfeier.json"
+    }
+]
