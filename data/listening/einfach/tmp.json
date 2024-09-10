@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": {
             "en": "Family Celebration",
             "de": "Familienfeier",
@@ -14,5 +15,21 @@
         "file": "Familienfeier.mp3",
         "words": "Familienfeier.json",
         "multi": "Familienfeier.json"
+    }, {
+        "name": {
+            "en": "Nature's Haven",
+            "de": "Naturparadies",
+            "ru": "Убежище природы"
+        },
+        "description": {
+            "en": "Quiet time in the woods",
+            "de": "Ruhige Zeit im Wald",
+            "ru": "Тихое время в лесу"
+        },
+        "level": "A2",
+        "image": "Naturparadies.jpg",
+        "file": "Naturparadies.mp3",
+        "words": "Naturparadies.json",
+        "multi": "Naturparadies.json"
     }
 ]
