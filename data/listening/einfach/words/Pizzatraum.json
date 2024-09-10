@@ -1,0 +1,157 @@
+[
+    {
+        "de": "die Leidenschaft",
+        "en": "passion",
+        "ru": "Страсть",
+        "descriptionEN": "a strong feeling of enthusiasm or excitement for something or about doing something.",
+        "descriptionRU": "Сильное чувство энтузиазма или волнения по поводу чего-то или выполнения чего-то.",
+        "descriptionDE": "Ein starkes Gefühl von Begeisterung oder Aufregung für etwas oder über das Tun von etwas."
+    }, {
+        "de": "das Schwimmen",
+        "en": "swimming",
+        "ru": "Плавание",
+        "descriptionEN": "the sport or activity of moving through water by using the arms and legs.",
+        "descriptionRU": "Спорт или активность передвижения по воде с использованием рук и ног.",
+        "descriptionDE": "Der Sport oder die Aktivität, sich durch Wasser zu bewegen, indem man Arme und Beine benutzt."
+    }, {
+        "de": "das Singen",
+        "en": "singing",
+        "ru": "Пение",
+        "descriptionEN": "the act of making musical sounds with the voice.",
+        "descriptionRU": "Действие создания музыкальных звуков с помощью голоса.",
+        "descriptionDE": "Das Handeln, musikalische Klänge mit der Stimme zu erzeugen."
+    }, {
+        "de": "die Pizza",
+        "en": "pizza",
+        "ru": "Пицца",
+        "descriptionEN": "a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, olives, vegetables, meat, etc.), which is then baked at a high temperature.",
+        "descriptionRU": "Блюдо итальянского происхождения, состоящее из обычно круглой, плоской основы из дрожжевого теста на основе пшеницы, покрытого помидорами, сыром и часто различными другими ингредиентами (такими как анчоусы, оливки, овощи, мясо и др.), которые затем запекаются при высокой температуре.",
+        "descriptionDE": "Ein Gericht italienischen Ursprungs, das aus einer normalerweise runden, flachen Basis aus Hefe-Getreideteig besteht, die mit Tomaten, Käse und oft verschiedenen anderen Zutaten (wie Sardellen, Oliven, Gemüse, Fleisch usw.) belegt und dann bei hoher Temperatur gebacken wird."
+    }, {
+        "de": "das College",
+        "en": "college",
+        "ru": "Колледж",
+        "descriptionEN": "an educational institution or establishment, especially one providing higher education or specialized training.",
+        "descriptionRU": "Образовательное учреждение или заведение, особенно предоставляющее высшее образование или специализированное обучение.",
+        "descriptionDE": "Eine Bildungseinrichtung oder -anstalt, insbesondere eine, die höhere Bildung oder spezialisierte Ausbildung anbietet."
+    }, {
+        "de": "der Abschluss",
+        "en": "graduation",
+        "ru": "Выпуск",
+        "descriptionEN": "the action of receiving or conferring an academic degree or diploma.",
+        "descriptionRU": "Действие получения или присвоения академической степени или диплома.",
+        "descriptionDE": "Die Handlung, einen akademischen Grad oder ein Diplom zu erhalten oder zu verleihen."
+    }, {
+        "de": "die Entscheidung",
+        "en": "decision",
+        "ru": "Решение",
+        "descriptionEN": "a conclusion or resolution reached after consideration.",
+        "descriptionRU": "Заключение или разрешение, принятое после рассмотрения.",
+        "descriptionDE": "Ein Ergebnis oder eine Lösung, die nach Überlegung erreicht wird."
+    }, {
+        "de": "der Weg",
+        "en": "path",
+        "ru": "Путь",
+        "descriptionEN": "a course of action or conduct.",
+        "descriptionRU": "Курс действий или поведения.",
+        "descriptionDE": "Ein Handlungs- oder Verhaltensweg."
+    }, {
+        "de": "die Eltern",
+        "en": "parents",
+        "ru": "Родители",
+        "descriptionEN": "a person's father and mother.",
+        "descriptionRU": "Отец и мать человека.",
+        "descriptionDE": "Der Vater und die Mutter einer Person."
+    }, {
+        "de": "das Geld",
+        "en": "money",
+        "ru": "Деньги",
+        "descriptionEN": "a current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.",
+        "descriptionRU": "Текущий обменный медиум в форме монет и банкнот; монеты и банкноты вместе.",
+        "descriptionDE": "Ein aktuelles Tauschmittel in Form von Münzen und Banknoten; Münzen und Banknoten zusammen."
+    }, {
+        "de": "der Beruf",
+        "en": "profession",
+        "ru": "Профессия",
+        "descriptionEN": "a paid occupation, especially one that involves prolonged training and formal education.",
+        "descriptionRU": "Оплачиваемая работа, особенно та, которая требует длительного обучения и формального образования.",
+        "descriptionDE": "Ein bezahlter Beruf, insbesondere einer, der langwieriges Training und formale Bildung erfordert."
+    }, {
+        "de": "die Freude",
+        "en": "joy",
+        "ru": "Радость",
+        "descriptionEN": "a feeling of great pleasure and happiness.",
+        "descriptionRU": "Чувство большого удовольствия и счастья.",
+        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück."
+    }, {
+        "de": "backen",
+        "en": "to bake",
+        "ru": "Печь",
+        "descriptionEN": "to cook food by dry heat without direct exposure to a flame, typically in an oven.",
+        "descriptionRU": "Готовить пищу при сухом тепле без прямого воздействия пламени, обычно в духовке.",
+        "descriptionDE": "Essen durch trockene Hitze ohne direkte Flamme zu kochen, typischerweise im Ofen."
+    }, {
+        "de": "entwickeln",
+        "en": "to develop",
+        "ru": "Развивать",
+        "descriptionEN": "to grow or cause to grow and become more mature, advanced, or elaborate.",
+        "descriptionRU": "Расти или вызывать рост и становиться более зрелым, продвинутым или сложным.",
+        "descriptionDE": "Wachsen oder verursachen, dass etwas wächst und reifer, fortschrittlicher oder ausgefeilter wird."
+    }, {
+        "de": "denken",
+        "en": "to think",
+        "ru": "Думать",
+        "descriptionEN": "to use one's mind actively to form connected ideas.",
+        "descriptionRU": "Использовать ум активно для формирования связанных идей.",
+        "descriptionDE": "Den eigenen Verstand aktiv nutzen, um verbundene Ideen zu bilden."
+    }, {
+        "de": "machen",
+        "en": "to make",
+        "ru": "Делать",
+        "descriptionEN": "to form something by putting parts together or combining substances.",
+        "descriptionRU": "Формировать что-то, соединяя части или комбинируя вещества.",
+        "descriptionDE": "Etwas bilden, indem man Teile zusammenfügt oder Substanzen kombiniert."
+    }, {
+        "de": "teilen",
+        "en": "to share",
+        "ru": "Делить",
+        "descriptionEN": "to give a portion of something to others.",
+        "descriptionRU": "Давать часть чего-то другим.",
+        "descriptionDE": "Ein Teil von etwas an andere geben."
+    }, {
+        "de": "begegnen",
+        "en": "to encounter",
+        "ru": "Встретить",
+        "descriptionEN": "to meet someone unexpectedly or by chance.",
+        "descriptionRU": "Встретить кого-то неожиданно или случайно.",
+        "descriptionDE": "Jemanden unerwartet oder zufällig treffen."
+    }, {
+        "de": "stabil",
+        "en": "stable",
+        "ru": "Стабильный",
+        "descriptionEN": "not likely to change or fail; firmly established.",
+        "descriptionRU": "Маловероятно изменится или потерпит неудачу; твердо установленный.",
+        "descriptionDE": "Nicht wahrscheinlich, dass es sich ändert oder scheitert; fest etabliert."
+    }, {
+        "de": "fest",
+        "en": "firm",
+        "ru": "Твердый",
+        "descriptionEN": "having a solid, almost unyielding surface or structure.",
+        "descriptionRU": "Имеющий твердую, почти не поддающуюся деформации поверхность или структуру.",
+        "descriptionDE": "Eine feste, fast unnachgiebige Oberfläche oder Struktur habend."
+    }, {
+        "de": "glücklich",
+        "en": "happy",
+        "ru": "Счастливый",
+        "descriptionEN": "feeling or showing pleasure or contentment.",
+        "descriptionRU": "Чувствующий или демонстрирующий удовольствие или удовлетворение.",
+        "descriptionDE": "Gefühl oder Zeigen von Freude oder Zufriedenheit."
+    }, {
+        "de": "besorgt",
+        "en": "worried",
+        "ru": "Встревоженный",
+        "descriptionEN": "feeling or showing concern or anxiety.",
+        "descriptionRU": "Чувствующий или демонстрирующий беспокойство или тревогу.",
+        "descriptionDE": "Gefühl oder Zeigen von Besorgnis oder Angst."
+    }
+]

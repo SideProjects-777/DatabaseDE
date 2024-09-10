@@ -31,5 +31,23 @@
         "file": "Naturparadies.mp3",
         "words": "Naturparadies.json",
         "multi": "Naturparadies.json"
+    }, {
+
+        "name": {
+            "en": "Pizza Dream",
+            "de": "Pizzatraum",
+            "ru": "Мечта о пицце"
+        },
+        "description": {
+            "en": "Passion over profession",
+            "de": "Leidenschaft über Beruf",
+            "ru": "Страсть важнее профессии"
+        },
+        "level": "A2",
+        "image": "Pizzatraum.png",
+        "file": "Pizzatraum.mp3",
+        "words": "Pizzatraum.json",
+        "multi": "Pizzatraum.json"
+
     }
 ]
