@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Wie beschreibt Samantha die Entfernung Griechenlands?",
+        "answers": [
+            {
+                "text": "Es ist sehr günstig.",
+                "correct": false
+            }, {
+                "text": "Es ist nah.",
+                "correct": false
+            }, {
+                "text": "Es ist zu weit weg.",
+                "correct": true
+            }, {
+                "text": "Es ist erschwinglich.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie fühlt sich Samantha, wenn sie an eine Hütte im Wald denkt?",
+        "answers": [
+            {
+                "text": "Gestresst",
+                "correct": false
+            }, {
+                "text": "Langweilig",
+                "correct": false
+            }, {
+                "text": "Verärgert",
+                "correct": false
+            }, {
+                "text": "Aufgeregt",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welches Land möchte Samantha besuchen?",
+        "answers": [
+            {
+                "text": "Frankreich",
+                "correct": false
+            }, {
+                "text": "Spanien",
+                "correct": false
+            }, {
+                "text": "Italien",
+                "correct": false
+            }, {
+                "text": "Griechenland",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was vermeidet Samantha bei ihrer Auszeit?",
+        "answers": [
+            {
+                "text": "Lange Flüge",
+                "correct": true
+            }, {
+                "text": "Ruhige Orte",
+                "correct": false
+            }, {
+                "text": "Kleine Cafés",
+                "correct": false
+            }, {
+                "text": "Besuche bei Freunden",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was trinkt Samantha am Kamin?",
+        "answers": [
+            {
+                "text": "Heiße Schokolade",
+                "correct": false
+            }, {
+                "text": "Tee",
+                "correct": false
+            }, {
+                "text": "Saft",
+                "correct": false
+            }, {
+                "text": "Kaffee",
+                "correct": true
+            }
+        ]
+    }
+]

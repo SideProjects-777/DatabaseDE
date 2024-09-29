@@ -1,0 +1,178 @@
+[
+    {
+        "de": "das Haus",
+        "en": "House",
+        "ru": "Дом",
+        "descriptionEN": "A building for human habitation.",
+        "descriptionRU": "Здание, предназначенное для проживания людей.",
+        "descriptionDE": "Ein Gebäude zum Wohnen."
+    }, {
+        "de": "die Familie",
+        "en": "Family",
+        "ru": "Семья",
+        "descriptionEN": "A group consisting of parents and children living together.",
+        "descriptionRU": "Группа людей, состоящая из родителей и детей, живущих вместе.",
+        "descriptionDE": "Eine Gruppe bestehend aus Eltern und Kindern, die zusammenleben."
+    }, {
+        "de": "der Duft",
+        "en": "Fragrance",
+        "ru": "Аромат",
+        "descriptionEN": "A pleasant, sweet smell.",
+        "descriptionRU": "Приятный, сладкий запах.",
+        "descriptionDE": "Ein angenehmer, süßer Geruch."
+    }, {
+        "de": "das Lachen",
+        "en": "Laughter",
+        "ru": "Смех",
+        "descriptionEN": "The action or sound of laughing.",
+        "descriptionRU": "Действие или звук смеха.",
+        "descriptionDE": "Die Handlung oder das Geräusch des Lachens."
+    }, {
+        "de": "die Kerze",
+        "en": "Candle",
+        "ru": "Свеча",
+        "descriptionEN": "A stick of wax with a wick that is burned to provide light.",
+        "descriptionRU": "Палочка из воска с фитилем, которая сжигается для освещения.",
+        "descriptionDE": "Ein Wachsstab mit Docht, der zum Beleuchten angezündet wird."
+    }, {
+        "de": "der Kuchen",
+        "en": "Cake",
+        "ru": "Торт",
+        "descriptionEN": "A sweet baked food made from flour, sugar, and other ingredients.",
+        "descriptionRU": "Сладкое выпеченное блюдо, приготовленное из муки, сахара и других ингредиентов.",
+        "descriptionDE": "Ein süßes Gebäck, hergestellt aus Mehl, Zucker und anderen Zutaten."
+    }, {
+        "de": "die Großmutter",
+        "en": "Grandmother",
+        "ru": "Бабушка",
+        "descriptionEN": "The mother of one's father or mother.",
+        "descriptionRU": "Мать отца или матери.",
+        "descriptionDE": "Die Mutter des Vaters oder der Mutter."
+    }, {
+        "de": "das Geschenk",
+        "en": "Gift",
+        "ru": "Подарок",
+        "descriptionEN": "Something given willingly to someone without payment.",
+        "descriptionRU": "Что-то, что дарится кому-то без оплаты.",
+        "descriptionDE": "Etwas, das jemandem freiwillig ohne Bezahlung gegeben wird."
+    }, {
+        "de": "der Schein",
+        "en": "Glow",
+        "ru": "Сияние",
+        "descriptionEN": "A steady radiance of light or heat.",
+        "descriptionRU": "Постоянное свечение света или тепла.",
+        "descriptionDE": "Ein stetiges Leuchten von Licht oder Wärme."
+    }, {
+        "de": "die Gesellschaft",
+        "en": "Company",
+        "ru": "Общество",
+        "descriptionEN": "The presence of another person or people.",
+        "descriptionRU": "Присутствие другого человека или людей.",
+        "descriptionDE": "Die Anwesenheit einer anderen Person oder Personen."
+    }, {
+        "de": "die Freude",
+        "en": "Joy",
+        "ru": "Радость",
+        "descriptionEN": "A feeling of great pleasure and happiness.",
+        "descriptionRU": "Чувство большого удовольствия и счастья.",
+        "descriptionDE": "Ein Gefühl großer Freude und Glücklichkeit."
+    }, {
+        "de": "das Herz",
+        "en": "Heart",
+        "ru": "Сердце",
+        "descriptionEN": "The central or most vital part of something.",
+        "descriptionRU": "Центральная или наиболее важная часть чего-то.",
+        "descriptionDE": "Der zentrale oder wichtigste Teil von etwas."
+    }, {
+        "de": "plaudern",
+        "en": "to chat",
+        "ru": "болтать",
+        "descriptionEN": "To talk in a relaxed, informal way.",
+        "descriptionRU": "Говорить в непринужденной, неформальной манере.",
+        "descriptionDE": "In entspannter, informeller Weise sprechen."
+    }, {
+        "de": "fühlen",
+        "en": "to feel",
+        "ru": "чувствовать",
+        "descriptionEN": "To be aware of a physical or emotional sensation.",
+        "descriptionRU": "Осознавать физическое или эмоциональное ощущение.",
+        "descriptionDE": "Ein körperliches oder emotionales Gefühl wahrnehmen."
+    }, {
+        "de": "ansehen",
+        "en": "to look at",
+        "ru": "смотреть",
+        "descriptionEN": "To direct one's gaze toward something.",
+        "descriptionRU": "Направить свой взгляд на что-то.",
+        "descriptionDE": "Den Blick auf etwas richten."
+    }, {
+        "de": "versammeln",
+        "en": "to gather",
+        "ru": "собираться",
+        "descriptionEN": "To come together in a group.",
+        "descriptionRU": "Собраться в группе.",
+        "descriptionDE": "Sich in einer Gruppe versammeln."
+    }, {
+        "de": "lächeln",
+        "en": "to smile",
+        "ru": "улыбаться",
+        "descriptionEN": "To form one's features into a pleased expression.",
+        "descriptionRU": "Придать лицу довольное выражение.",
+        "descriptionDE": "Die Gesichtszüge zu einem zufriedenen Ausdruck formen."
+    }, {
+        "de": "wünschen",
+        "en": "to wish",
+        "ru": "желать",
+        "descriptionEN": "To hope for something to happen.",
+        "descriptionRU": "Надеяться, что что-то произойдет.",
+        "descriptionDE": "Sich wünschen, dass etwas passiert."
+    }, {
+        "de": "fröhlich",
+        "en": "cheerful",
+        "ru": "радостный",
+        "descriptionEN": "Noticeably happy and optimistic.",
+        "descriptionRU": "Замечательно счастливый и оптимистичный.",
+        "descriptionDE": "Erkennbar glücklich und optimistisch."
+    }, {
+        "de": "sanft",
+        "en": "gentle",
+        "ru": "нежный",
+        "descriptionEN": "Having or showing a mild, kind nature.",
+        "descriptionRU": "Обладающий мягким, добрым характером.",
+        "descriptionDE": "Ein mildes, freundliches Wesen haben oder zeigen."
+    }, {
+        "de": "köstlich",
+        "en": "delicious",
+        "ru": "вкусный",
+        "descriptionEN": "Highly pleasant to the taste.",
+        "descriptionRU": "Очень приятный на вкус.",
+        "descriptionDE": "Sehr angenehm im Geschmack."
+    }, {
+        "de": "weise",
+        "en": "wise",
+        "ru": "мудрый",
+        "descriptionEN": "Having experience and good judgment.",
+        "descriptionRU": "Обладающий опытом и здравым смыслом.",
+        "descriptionDE": "Mit Erfahrung und gutem Urteilsvermögen."
+    }, {
+        "de": "flackernd",
+        "en": "flickering",
+        "ru": "мерцающий",
+        "descriptionEN": "Shining unsteadily.",
+        "descriptionRU": "Нестабильно сияющий.",
+        "descriptionDE": "Unruhig leuchtend."
+    }, {
+        "de": "wertvoll",
+        "en": "precious",
+        "ru": "драгоценный",
+        "descriptionEN": "Of great value or importance.",
+        "descriptionRU": "Большой ценности или важности.",
+        "descriptionDE": "Von großem Wert oder großer Bedeutung."
+    }, {
+        "de": "zusammen",
+        "en": "together",
+        "ru": "вместе",
+        "descriptionEN": "With or in proximity to another person.",
+        "descriptionRU": "С другим человеком или в его близости.",
+        "descriptionDE": "Mit einer anderen Person oder in ihrer Nähe."
+    }
+]

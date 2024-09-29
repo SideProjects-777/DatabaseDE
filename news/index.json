@@ -1,26 +1,8 @@
 [
     {
         "name": {
-            "en": "Simple city - Knightly Adventure \u266C",
-            "ru": "Кобленц - Рыцарское приключение \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Koblenz - Secret Fountain \u266C",
-            "ru": "Кобленц - Секретный Фонтан \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Moselle - Fairytale Beilstein \u270D",
-            "ru": "Мозель - Сказочный Бейльштайн \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Moselle - Wine tale \u270D",
-            "ru": "Мозель - Винная сказка \u270D",
+            "en": "Simple city \u266C",
+            "ru": "Просто город \u266C",
             "de": null
         }
     }
