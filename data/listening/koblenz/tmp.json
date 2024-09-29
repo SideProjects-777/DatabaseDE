@@ -1,3 +1,52 @@
 [
+    {
+        "name": {
+            "en": "Loreley",
+            "de": "Loreley",
+            "ru": "Лорель"
+        },
+        "description": {
+            "en": "Enchanting siren's song",
+            "de": "Verzaubernder Gesang der Nixe",
+            "ru": "Завораживающая песня сирены"
+        },
+        "level": "A2",
+        "image": "Loreley.jpg",
+        "file": "Loreley.mp3",
+        "words": "Loreley.json",
+        "yesNo": "Loreley.json"
+    }, {
+        "name": {
+            "en": "Dragon",
+            "de": "Drachen",
+            "ru": "Дракон"
+        },
+        "description": {
+            "en": "Hero defeats the beast",
+            "de": "Held besiegt das Ungeheuer",
+            "ru": "Герой побеждает чудовище"
+        },
+        "level": "A2",
+        "image": "Dragon.jpg",
+        "file": "Dragon.mp3",
+        "words": "Dragon.json",
+        "yesNo": "Dragon.json"
+    }, {
+        "name": {
+            "en": "Ghost",
+            "de": "Geist",
+            "ru": "Призрак"
+        },
+        "description": {
+            "en": "Mysterious ghostly encounter",
+            "de": "Geheimnisvolle Geisterbegegnung",
+            "ru": "Таинственная встреча с призраком"
+        },
+        "level": "A2",
+        "image": "Ghost.jpg",
+        "file": "Ghost.mp3",
+        "words": "Ghost.json",
+        "yesNo": "Ghost.json"
+    }
 
 ]

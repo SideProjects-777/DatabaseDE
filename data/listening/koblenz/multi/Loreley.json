@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Wo rankt sich die Legende der Loreley?",
+        "answers": [
+            {
+                "text": "In der Stadt Köln",
+                "correct": false
+            }, {
+                "text": "In der Stadt Koblenz",
+                "correct": true
+            }, {
+                "text": "In der Stadt Bonn",
+                "correct": false
+            }, {
+                "text": "In der Stadt Mainz",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sitzt die Nixe auf?",
+        "answers": [
+            {
+                "text": "Auf einem hohen Felsen",
+                "correct": true
+            }, {
+                "text": "Auf einem Boot",
+                "correct": false
+            }, {
+                "text": "Auf dem Wasser",
+                "correct": false
+            }, {
+                "text": "Auf der Straße",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was passiert mit den Schiffern, wenn sie den Gesang hören?",
+        "answers": [
+            {
+                "text": "Sie fahren sicher",
+                "correct": false
+            }, {
+                "text": "Sie machen eine Pause",
+                "correct": false
+            }, {
+                "text": "Sie vergessen alles um sich herum",
+                "correct": true
+            }, {
+                "text": "Sie trinken Wasser",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was glauben die Menschen in Koblenz über die Loreley?",
+        "answers": [
+            {
+                "text": "Sie sehen sie manchmal",
+                "correct": true
+            }, {
+                "text": "Sie ist immer sichtbar",
+                "correct": false
+            }, {
+                "text": "Sie wohnt im Rhein",
+                "correct": false
+            }, {
+                "text": "Sie ist ein Fisch",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie beschreibt die Legende die Magie der Loreley?",
+        "answers": [
+            {
+                "text": "Langweilig",
+                "correct": false
+            }, {
+                "text": "Kalt",
+                "correct": false
+            }, {
+                "text": "Unsichtbar",
+                "correct": false
+            }, {
+                "text": "Voller Magie",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -17,6 +17,22 @@
         "words": "Ritterliches.json",
         "yesNo": "Ritterliches.json"
     }, {
+        "name": {
+            "en": "Summer fun",
+            "de": "Sommervergnügen",
+            "ru": "Летние радости"
+        },
+        "description": {
+            "en": "Rivers and Castles",
+            "de": "Flüsse und Burgen",
+            "ru": "Реки и замки"
+        },
+        "level": "A2",
+        "image": "Summer.jpg",
+        "file": "Summer.mp3",
+        "words": "Summer.json",
+        "yesNo": "Summer.json"
+    }, {
 
         "name": {
             "en": "Secret Fountain",
@@ -35,20 +51,20 @@
         "yesNo": "Fountain.json"
     }, {
         "name": {
-            "en": "Summer fun",
-            "de": "Sommervergnügen",
-            "ru": "Летние радости"
+            "en": "Koblenz Adventure",
+            "de": "Koblenzer Abenteuer",
+            "ru": "Приключения в Кобленце"
         },
         "description": {
-            "en": "Rivers and Castles",
-            "de": "Flüsse und Burgen",
-            "ru": "Реки и замки"
+            "en": "Friends explore historic city",
+            "de": "Freunde erkunden historische Stadt",
+            "ru": "Друзья исследуют исторический город"
         },
-        "level": "A2",
-        "image": "Summer.jpg",
-        "file": "Summer.mp3",
-        "words": "Summer.json",
-        "yesNo": "Summer.json"
+        "level": "B1",
+        "image": "Abenteuer.jpg",
+        "file": "Abenteuer.mp3",
+        "words": "Abenteuer.json",
+        "yesNo": "Abenteuer.json"
     }, {
         "name": {
             "en": "Badminton game",
@@ -60,27 +76,11 @@
             "de": "Freunde aus Koblenz",
             "ru": "Друзья из Кобленца"
         },
-        "level": "A2",
+        "level": "B1",
         "image": "Badmintonspiel.jpg",
         "file": "Badmintonspiel.mp3",
         "words": "Badmintonspiel.json",
         "yesNo": "Badmintonspiel.json"
-    }, {
-        "name": {
-            "en": "Koblenz Adventure",
-            "de": "Koblenzer Abenteuer",
-            "ru": "Приключения в Кобленце"
-        },
-        "description": {
-            "en": "Friends explore historic city",
-            "de": "Freunde erkunden historische Stadt",
-            "ru": "Друзья исследуют исторический город"
-        },
-        "level": "A2",
-        "image": "Abenteuer.jpg",
-        "file": "Abenteuer.mp3",
-        "words": "Abenteuer.json",
-        "yesNo": "Abenteuer.json"
     }, {
         "name": {
             "en": "Family Day",
@@ -97,22 +97,6 @@
         "file": "Familientag.mp3",
         "words": "Familientag.json",
         "multi": "Familientag.json"
-    }, {
-        "name": {
-            "en": "Castle Love Story",
-            "de": "Schloss Liebesgeschichte",
-            "ru": "История любви в замке"
-        },
-        "description": {
-            "en": "Friendship turned everlasting love",
-            "de": "Freundschaft wurde ewige Liebe",
-            "ru": "Из дружбы в вечную любовь"
-        },
-        "level": "B1",
-        "image": "Liebesgeschichte.jpg",
-        "file": "Liebesgeschichte.mp3",
-        "words": "Liebesgeschichte.json",
-        "multi": "Liebesgeschichte.json"
     }, {
         "name": {
             "en": "Family Fun",
@@ -193,5 +177,21 @@
         "file": "Weinabenteuer.mp3",
         "words": "Weinabenteuer.json",
         "multi": "Weinabenteuer.json"
+    }, {
+        "name": {
+            "en": "Castle Love Story",
+            "de": "Schloss Liebesgeschichte",
+            "ru": "История любви в замке"
+        },
+        "description": {
+            "en": "Friendship turned everlasting love",
+            "de": "Freundschaft wurde ewige Liebe",
+            "ru": "Из дружбы в вечную любовь"
+        },
+        "level": "B2",
+        "image": "Liebesgeschichte.jpg",
+        "file": "Liebesgeschichte.mp3",
+        "words": "Liebesgeschichte.json",
+        "multi": "Liebesgeschichte.json"
     }
 ]
