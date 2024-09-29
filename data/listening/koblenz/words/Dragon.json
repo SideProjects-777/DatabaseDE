@@ -1,0 +1,59 @@
+[
+    {
+        "de": "der Drache",
+        "en": "the dragon",
+        "ru": "дракон",
+        "descriptionEN": "A mythical creature often depicted as large, serpent-like, and capable of flight.",
+        "descriptionRU": "Мифическое существо, часто изображаемое как большое, змееобразное и способное к полету.",
+        "descriptionDE": "Ein mythisches Wesen, das oft als groß, schlangenartig und flugfähig dargestellt wird."
+    }, {
+        "de": "der Ritter",
+        "en": "the knight",
+        "ru": "рыцарь",
+        "descriptionEN": "A medieval soldier who typically served a lord in exchange for land or protection.",
+        "descriptionRU": "Средневековый солдат, который обычно служил лорду в обмен на землю или защиту.",
+        "descriptionDE": "Ein mittelalterlicher Soldat, der typischerweise einem Herrn im Austausch für Land oder Schutz diente."
+    }, {
+        "de": "das Denkmal",
+        "en": "the memorial",
+        "ru": "памятник",
+        "descriptionEN": "A structure established to commemorate a person or event.",
+        "descriptionRU": "Структура, установленная в память о человеке или событии.",
+        "descriptionDE": "Eine Struktur, die errichtet wurde, um eine Person oder ein Ereignis zu gedenken."
+    }, {
+        "de": "der Kampf",
+        "en": "the fight",
+        "ru": "бой",
+        "descriptionEN": "A violent confrontation between two or more parties.",
+        "descriptionRU": "Насильственное столкновение между двумя или более сторонами.",
+        "descriptionDE": "Eine gewaltsame Konfrontation zwischen zwei oder mehr Parteien."
+    }, {
+        "de": "kommen",
+        "en": "to come",
+        "ru": "приходить",
+        "descriptionEN": "To move or travel toward a place.",
+        "descriptionRU": "Перемещаться или путешествовать к месту.",
+        "descriptionDE": "Sich bewegen oder reisen zu einem Ort."
+    }, {
+        "de": "besiegen",
+        "en": "to defeat",
+        "ru": "побеждать",
+        "descriptionEN": "To overcome in a contest or conflict.",
+        "descriptionRU": "Превосходить в соревновании или конфликте.",
+        "descriptionDE": "In einem Wettbewerb oder Konflikt überwinden."
+    }, {
+        "de": "errichten",
+        "en": "to erect",
+        "ru": "устанавливать",
+        "descriptionEN": "To construct or set up something.",
+        "descriptionRU": "Строить или устанавливать что-либо.",
+        "descriptionDE": "Etwas bauen oder aufstellen."
+    }, {
+        "de": "mutig",
+        "en": "brave",
+        "ru": "смелый",
+        "descriptionEN": "Having or showing courage.",
+        "descriptionRU": "Имеющий или проявляющий смелость.",
+        "descriptionDE": "Mutig oder tapfer sein."
+    }
+]

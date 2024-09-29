@@ -26,8 +26,8 @@
             "de": "Held besiegt das Ungeheuer",
             "ru": "Герой побеждает чудовище"
         },
-        "level": "A2",
-        "image": "Dragon.jpg",
+        "level": "B1",
+        "image": "Dragon.png",
         "file": "Dragon.mp3",
         "words": "Dragon.json",
         "yesNo": "Dragon.json"
