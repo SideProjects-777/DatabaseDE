@@ -1,0 +1,52 @@
+[
+    {
+        "de": "der Geist",
+        "en": "the spirit",
+        "ru": "дух",
+        "descriptionEN": "The non-physical part of a person, often considered immortal.",
+        "descriptionRU": "Неплотная часть человека, часто рассматриваемая как бессмертная.",
+        "descriptionDE": "Der nicht körperliche Teil einer Person, der oft als unsterblich angesehen wird."
+    }, {
+        "de": "die Lady",
+        "en": "the lady",
+        "ru": "дама",
+        "descriptionEN": "A polite or formal way to refer to a woman.",
+        "descriptionRU": "Вежливый или формальный способ обратиться к женщине.",
+        "descriptionDE": "Eine höfliche oder formelle Bezeichnung für eine Frau."
+    }, {
+        "de": "erschein",
+        "en": "to appear",
+        "ru": "появляться",
+        "descriptionEN": "To come into sight or become visible.",
+        "descriptionRU": "Появляться в поле зрения или становиться видимым.",
+        "descriptionDE": "In Sicht kommen oder sichtbar werden."
+    }, {
+        "de": "wandern",
+        "en": "to wander",
+        "ru": "блуждать",
+        "descriptionEN": "To move about without a fixed course.",
+        "descriptionRU": "Перемещаться без определенного направления.",
+        "descriptionDE": "Sich ohne festgelegten Kurs bewegen."
+    }, {
+        "de": "erfahren",
+        "en": "to experience",
+        "ru": "узнавать",
+        "descriptionEN": "To come to know or learn something through direct observation or participation.",
+        "descriptionRU": "Узнавать или учиться чему-либо через непосредственное наблюдение или участие.",
+        "descriptionDE": "Etwas durch direkte Beobachtung oder Teilnahme kennenlernen oder lernen."
+    }, {
+        "de": "erwidern",
+        "en": "to respond",
+        "ru": "отвечать",
+        "descriptionEN": "To say something in return.",
+        "descriptionRU": "Сказать что-то в ответ.",
+        "descriptionDE": "Etwas als Antwort sagen."
+    }, {
+        "de": "rein",
+        "en": "pure",
+        "ru": "чистый",
+        "descriptionEN": "Not mixed or contaminated; free from moral fault.",
+        "descriptionRU": "Не смешанный или загрязненный; свободный от моральной вины.",
+        "descriptionDE": "Nicht gemischt oder verunreinigt; frei von moralischer Schuld."
+    }
+]

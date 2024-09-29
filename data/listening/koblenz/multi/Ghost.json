@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Wer soll nachts an der Weißfrauenbrücke erscheinen?",
+        "answers": [
+            {
+                "text": "Ein großer Drache",
+                "correct": false
+            }, {
+                "text": "Ein mutiger Ritter",
+                "correct": false
+            }, {
+                "text": "Der Geist einer Adligen",
+                "correct": true
+            }, {
+                "text": "Ein geheimnisvoller Mann",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum starb die Weiße Frau?",
+        "answers": [
+            {
+                "text": "Weil sie einen Kampf verlor",
+                "correct": false
+            }, {
+                "text": "Weil sie in ein Schloss zog",
+                "correct": false
+            }, {
+                "text": "Weil sie von ihrem Ehemann betrogen wurde",
+                "correct": true
+            }, {
+                "text": "Weil sie einen Zauber ausgesprochen hat",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was passiert, wenn jemand der Weißen Frau begegnet?",
+        "answers": [
+            {
+                "text": "Er wird in ein Schloss gebracht",
+                "correct": false
+            }, {
+                "text": "Er wird die Brücke überqueren können",
+                "correct": false
+            }, {
+                "text": "Er wird Glück oder Unglück erfahren",
+                "correct": true
+            }, {
+                "text": "Er wird den Drachen besiegen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann kann man die Weiße Frau besonders sehen?",
+        "answers": [
+            {
+                "text": "In der Dämmerung",
+                "correct": false
+            }, {
+                "text": "Während des Tages",
+                "correct": false
+            }, {
+                "text": "In der Mittagszeit",
+                "correct": false
+            }, {
+                "text": "An Vollmondnächten",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was erinnert die Legende die Menschen?",
+        "answers": [
+            {
+                "text": "An die sichtbare Welt",
+                "correct": false
+            }, {
+                "text": "An die unsichtbare Welt voller Geheimnisse",
+                "correct": true
+            }, {
+                "text": "An das Schloss der Weißen Frau",
+                "correct": false
+            }, {
+                "text": "An die Zeit der Ritter",
+                "correct": false
+            }
+        ]
+    }
+]
