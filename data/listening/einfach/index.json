@@ -1,6 +1,74 @@
 [
     {
         "name": {
+            "en": "Family Celebration",
+            "de": "Familienfeier",
+            "ru": "Семейное торжество"
+        },
+        "description": {
+            "en": "Grandma's Wish",
+            "de": "Omas Wunsch",
+            "ru": "Бабушкин Желание"
+        },
+        "level": "A2",
+        "image": "Familienfeier.jpg",
+        "file": "Familienfeier.mp3",
+        "words": "Familienfeier.json",
+        "multi": "Familienfeier.json"
+    }, {
+        "name": {
+            "en": "Nature's Haven",
+            "de": "Naturparadies",
+            "ru": "Убежище природы"
+        },
+        "description": {
+            "en": "Quiet time in the woods",
+            "de": "Ruhige Zeit im Wald",
+            "ru": "Тихое время в лесу"
+        },
+        "level": "A2",
+        "image": "Naturparadies.jpg",
+        "file": "Naturparadies.mp3",
+        "words": "Naturparadies.json",
+        "multi": "Naturparadies.json"
+    }, {
+
+        "name": {
+            "en": "Pizza Dream",
+            "de": "Pizzatraum",
+            "ru": "Мечта о пицце"
+        },
+        "description": {
+            "en": "Passion over profession",
+            "de": "Leidenschaft über Beruf",
+            "ru": "Страсть важнее профессии"
+        },
+        "level": "A2",
+        "image": "Pizzatraum.png",
+        "file": "Pizzatraum.mp3",
+        "words": "Pizzatraum.json",
+        "multi": "Pizzatraum.json"
+
+    }, {
+
+        "name": {
+            "en": "Missis Wilson's Bike",
+            "de": "Frau Wilsons Fahrrad",
+            "ru": "Велосипед Фрау Уилсон"
+        },
+        "description": {
+            "en": "Learning to Ride",
+            "de": "Radfahren lernen",
+            "ru": "Учимся ездить"
+        },
+        "level": "A2",
+        "image": "Radfahren.jpg",
+        "file": "Radfahren.mp3",
+        "words": "Radfahren.json",
+        "multi": "Radfahren.json"
+
+    }, {
+        "name": {
             "en": "Garden Success",
             "de": "Garten Erfolg",
             "ru": "Успех сада"
