@@ -1,0 +1,67 @@
+[
+
+    {
+        "de": "die Nixe",
+        "en": "the mermaid",
+        "ru": "русалка",
+        "descriptionEN": "A mythical sea creature with a woman's upper body and a fish's tail.",
+        "descriptionRU": "Мифическое морское существо с верхней частью тела женщины и хвостом рыбы.",
+        "descriptionDE": "Ein mythisches Meereswesen mit dem Oberkörper einer Frau und dem Schwanz eines Fisches."
+    }, {
+        "de": "der Gesang",
+        "en": "the song",
+        "ru": "песня",
+        "descriptionEN": "The act of singing or a melody.",
+        "descriptionRU": "Акт пения или мелодия.",
+        "descriptionDE": "Der Akt des Singens oder eine Melodie."
+    }, {
+        "de": "der Felsen",
+        "en": "the rock",
+        "ru": "скала",
+        "descriptionEN": "A solid mineral material forming part of the earth's surface.",
+        "descriptionRU": "Твердый минеральный материал, составляющий часть земной поверхности.",
+        "descriptionDE": "Ein fester mineralischer Stoff, der Teil der Erdoberfläche ist."
+    }, {
+        "de": "die Strömung",
+        "en": "the current",
+        "ru": "течение",
+        "descriptionEN": "A flow of water in a particular direction.",
+        "descriptionRU": "Поток воды в определенном направлении.",
+        "descriptionDE": "Ein Wasserfluss in eine bestimmte Richtung."
+    }, {
+        "de": "der Nebel",
+        "en": "the fog",
+        "ru": "туман",
+        "descriptionEN": "A thick cloud of tiny water droplets suspended in the atmosphere.",
+        "descriptionRU": "Плотное облако крошечных капель воды, находящихся в атмосфере.",
+        "descriptionDE": "Eine dichte Wolke kleiner Wassertröpfchen in der Atmosphäre."
+    }, {
+        "de": "verzaubern",
+        "en": "to enchant",
+        "ru": "очаровывать",
+        "descriptionEN": "To delight someone in a way that is almost magical.",
+        "descriptionRU": "Очаровать кого-то так, что это почти магически.",
+        "descriptionDE": "Jemanden auf eine fast magische Weise erfreuen."
+    }, {
+        "de": "wunderschön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Угодно чувствам или уму эстетически.",
+        "descriptionDE": "Die Sinne oder den Geist ästhetisch erfreuen."
+    }, {
+        "de": "gefährlich",
+        "en": "dangerous",
+        "ru": "опасный",
+        "descriptionEN": "Able or likely to cause harm or injury.",
+        "descriptionRU": "Способный или вероятный причинить вред или травму.",
+        "descriptionDE": "Fähig oder wahrscheinlich, Schaden oder Verletzungen zu verursachen."
+    }, {
+        "de": "abgelenkt",
+        "en": "distracted",
+        "ru": "отвлеченный",
+        "descriptionEN": "Unable to concentrate because one's mind is preoccupied.",
+        "descriptionRU": "Невозможность сосредоточиться, потому что ум занят.",
+        "descriptionDE": "Unfähig, sich zu konzentrieren, weil der Geist beschäftigt ist."
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Wer lebte vor vielen Jahrhunderten in den Wäldern nahe Koblenz?",
+        "answers": [
+            {
+                "text": "Ein großer Löwe",
+                "correct": false
+            }, {
+                "text": "Ein riesiger Drache",
+                "correct": true
+            }, {
+                "text": "Ein mutiger Ritter",
+                "correct": false
+            }, {
+                "text": "Ein geheimnisvoller Mann",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie hieß der junge Ritter, der nach Koblenz kam?",
+        "answers": [
+            {
+                "text": "Georg",
+                "correct": true
+            }, {
+                "text": "Hans",
+                "correct": false
+            }, {
+                "text": "Jakob",
+                "correct": false
+            }, {
+                "text": "Fritz",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was gab der geheimnisvolle alte Mann dem Ritter?",
+        "answers": [
+            {
+                "text": "Eine goldene Rüstung",
+                "correct": false
+            }, {
+                "text": "Ein Pferd",
+                "correct": false
+            }, {
+                "text": "Ein Zauberbuch",
+                "correct": false
+            }, {
+                "text": "Ein magisches Schwert",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was geschah nach dem Kampf mit dem Drachen?",
+        "answers": [
+            {
+                "text": "Der Drache gewann",
+                "correct": false
+            }, {
+                "text": "Georg wurde berühmt",
+                "correct": false
+            }, {
+                "text": "Die Bürger errichteten ein Denkmal",
+                "correct": true
+            }, {
+                "text": "Georg verließ die Stadt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was macht der Geist von Georg bis heute?",
+        "answers": [
+            {
+                "text": "Er schläft",
+                "correct": false
+            }, {
+                "text": "Er wacht über die Stadt",
+                "correct": true
+            }, {
+                "text": "Er kämpft gegen andere Drachen",
+                "correct": false
+            }, {
+                "text": "Er hat die Stadt verlassen",
+                "correct": false
+            }
+        ]
+    }
+]
