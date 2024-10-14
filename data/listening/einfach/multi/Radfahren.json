@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Warum freute sich Frau Wilson sehr?",
+        "answers": [
+            {
+                "text": "Weil sie einen neuen Job bekommen hatte",
+                "correct": false
+            },
+            {
+                "text": "Weil sie ihren Gehaltsscheck erhalten hatte",
+                "correct": true
+            },
+            {
+                "text": "Weil sie ein neues Haus gekauft hatte",
+                "correct": false
+            },
+            {
+                "text": "Weil sie ein neues Auto bekommen hatte",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Wie alt war Frau Wilson, als sie ihr erstes Fahrrad kaufte?",
+        "answers": [
+            {
+                "text": "25 Jahre",
+                "correct": false
+            },
+            {
+                "text": "20 Jahre",
+                "correct": false
+            },
+            {
+                "text": "30 Jahre",
+                "correct": true
+            },
+            {
+                "text": "35 Jahre",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Was wollte Frau Wilson ihren Kindern beibringen?",
+        "answers": [
+            {
+                "text": "Schwimmen",
+                "correct": false
+            },
+            {
+                "text": "Fahrradfahren",
+                "correct": true
+            },
+            {
+                "text": "Klavier spielen",
+                "correct": false
+            },
+            {
+                "text": "Kochen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Wie war der erste Tag von Frau Wilson auf dem Fahrrad?",
+        "answers": [
+            {
+                "text": "Sehr einfach",
+                "correct": false
+            },
+            {
+                "text": "Sehr angenehm",
+                "correct": false
+            },
+            {
+                "text": "Ein bisschen schwierig",
+                "correct": true
+            },
+            {
+                "text": "Ganz normal",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Welche Farbe hatte das Fahrrad, das Frau Wilson auswählte?",
+        "answers": [
+            {
+                "text": "Rot",
+                "correct": false
+            },
+            {
+                "text": "Grün",
+                "correct": false
+            },
+            {
+                "text": "Blau",
+                "correct": true
+            },
+            {
+                "text": "Schwarz",
+                "correct": false
+            }
+        ]
+    }
+]
