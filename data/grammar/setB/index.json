@@ -32,8 +32,7 @@
         "level": "A2",
         "icon": "bookmark-box-multiple",
         "iconFamily": "MaterialCommunityIcons"
-    },
-    {
+    }, {
         "name": "Grün?? Salat",
         "description": {
             "en": "Adjective declensions",
@@ -44,5 +43,16 @@
         "level": "A2",
         "icon": "select-all",
         "iconFamily": "MaterialIcons"
+    }, {
+        "name": "Leerstellen",
+        "description": {
+            "en": "Fill in the blanks",
+            "de": "Füllen Sie die Leerstellen aus",
+            "ru": "Заполните пробелы"
+        },
+        "file": "missing.json",
+        "level": "A2",
+        "icon": "puzzle-piece",
+        "iconFamily": "FontAwesome"
     }
 ]
