@@ -44,6 +44,39 @@
         "icon": "color-palette-outline",
         "iconFamily": "Ionicons"
     }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Correct response",
+            "de": "Richtige Antwort",
+            "ru": "Правильный ответ"
+        },
+        "file": "fragenbogen.json",
+        "level": "A1",
+        "icon": "question-circle-o",
+        "iconFamily": "FontAwesome"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Fill in the blanks I",
+            "de": "Füllen Sie die Leerstellen aus I",
+            "ru": "Заполните пробелы I"
+        },
+        "file": "blanksA1.json",
+        "level": "A1",
+        "icon": "puzzle-star",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Fill in the blanks II",
+            "de": "Füllen Sie die Leerstellen aus II",
+            "ru": "Заполните пробелы II"
+        },
+        "file": "blanksA11.json",
+        "level": "A1",
+        "icon": "puzzle-star-outline",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
         "name": "11 - elf",
         "description": {
             "en": "Numbers",
@@ -65,5 +98,16 @@
         "level": "A1",
         "icon": "construct-outline",
         "iconFamily": "Ionicons"
+    }, {
+        "name": "der / die / das",
+        "description": {
+            "en": "Articles",
+            "de": "Artikel",
+            "ru": "Aртикли"
+        },
+        "file": "article.json",
+        "level": "A1",
+        "icon": "robot-confused",
+        "iconFamily": "MaterialCommunityIcons"
     }
 ]

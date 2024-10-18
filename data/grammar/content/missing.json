@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Ich ____ Brot zum Frühstück.",
+        "answers": [
+            {
+                "text": "trinke",
+                "correct": false
+            }, {
+                "text": "gehe",
+                "correct": false
+            }, {
+                "text": "esse",
+                "correct": true
+            }, {
+                "text": "sehe",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wir fahren ____ Auto in den Urlaub.",
+        "answers": [
+            {
+                "text": "zu",
+                "correct": false
+            }, {
+                "text": "auf",
+                "correct": false
+            }, {
+                "text": "mit",
+                "correct": true
+            }, {
+                "text": "unter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich habe ____ Katze.",
+        "answers": [
+            {
+                "text": "eine",
+                "correct": true
+            }, {
+                "text": "ein",
+                "correct": false
+            }, {
+                "text": "einen",
+                "correct": false
+            }, {
+                "text": "der",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Sie wohnt ____ Berlin.",
+        "answers": [
+            {
+                "text": "auf",
+                "correct": false
+            }, {
+                "text": "in",
+                "correct": true
+            }, {
+                "text": "bei",
+                "correct": false
+            }, {
+                "text": "nach",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich gehe ____ Park.",
+        "answers": [
+            {
+                "text": "zum",
+                "correct": false
+            }, {
+                "text": "bei",
+                "correct": false
+            }, {
+                "text": "am",
+                "correct": false
+            }, {
+                "text": "in den",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Das ist ____ Freund.",
+        "answers": [
+            {
+                "text": "meine",
+                "correct": false
+            }, {
+                "text": "meinem",
+                "correct": false
+            }, {
+                "text": "mein",
+                "correct": true
+            }, {
+                "text": "meiner",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wir ____ morgen ins Kino.",
+        "answers": [
+            {
+                "text": "sehen",
+                "correct": false
+            }, {
+                "text": "gehen",
+                "correct": true
+            }, {
+                "text": "trinken",
+                "correct": false
+            }, {
+                "text": "schlafen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Er hat ____ Apfel gegessen.",
+        "answers": [
+            {
+                "text": "einen",
+                "correct": true
+            }, {
+                "text": "eine",
+                "correct": false
+            }, {
+                "text": "ein",
+                "correct": false
+            }, {
+                "text": "den",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Das ____ mein Buch.",
+        "answers": [
+            {
+                "text": "ist",
+                "correct": true
+            }, {
+                "text": "sind",
+                "correct": false
+            }, {
+                "text": "bin",
+                "correct": false
+            }, {
+                "text": "habe",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie ____ du?",
+        "answers": [
+            {
+                "text": "gehst",
+                "correct": false
+            }, {
+                "text": "kaufst",
+                "correct": false
+            }, {
+                "text": "wohnst",
+                "correct": false
+            }, {
+                "text": "heißt",
+                "correct": true
+            }
+        ]
+    }
+]
