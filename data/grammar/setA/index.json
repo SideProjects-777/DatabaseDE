@@ -55,6 +55,17 @@
         "icon": "question-circle-o",
         "iconFamily": "FontAwesome"
     }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Fill in the blanks",
+            "de": "Füllen Sie die Leerstellen aus",
+            "ru": "Заполните пробелы"
+        },
+        "file": "blanksA1.json",
+        "level": "A1",
+        "icon": "puzzle-star",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
         "name": "11 - elf",
         "description": {
             "en": "Numbers",
