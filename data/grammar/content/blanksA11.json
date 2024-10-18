@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Was möchten Sie trinken? – Für mich bitte einen Kaffee. – Und ich _____ bitte einen Tee.",
+        "answers": [
+            {
+                "text": "nimmst",
+                "correct": false
+            },
+            {
+                "text": "nimmt",
+                "correct": false
+            },
+            {
+                "text": "nehme",
+                "correct": true
+            },
+            {
+                "text": "nehmen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Wann ist das Fest von Maria? – _____ Samstag.",
+        "answers": [
+            {
+                "text": "Um",
+                "correct": false
+            },
+            {
+                "text": "Am",
+                "correct": true
+            },
+            {
+                "text": "Zum",
+                "correct": false
+            },
+            {
+                "text": "Beim",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Mir ist kalt. Bitte _____ das Fenster zu.",
+        "answers": [
+            {
+                "text": "kann",
+                "correct": false
+            },
+            {
+                "text": "öffne",
+                "correct": false
+            },
+            {
+                "text": "will",
+                "correct": false
+            },
+            {
+                "text": "mach",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "name": "Ist das ein Brief von Niklas? – Nein, das ist _____ Brief von Niklas. Das ist ein Brief von Simona.",
+        "answers": [
+            {
+                "text": "kein",
+                "correct": true
+            },
+            {
+                "text": "ein",
+                "correct": false
+            },
+            {
+                "text": "nicht",
+                "correct": false
+            },
+            {
+                "text": "keiner",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Was essen wir denn heute Abend? – Heute essen wir _____ Suppe",
+        "answers": [
+            {
+                "text": "das",
+                "correct": false
+            },
+            {
+                "text": "eine",
+                "correct": true
+            },
+            {
+                "text": "die",
+                "correct": false
+            },
+            {
+                "text": "ein",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Wo sind die Autoschlüssel? – Hier sind sie, _____ Schublade. – Vielen Dank!",
+        "answers": [
+            {
+                "text": "auf dem",
+                "correct": false
+            },
+            {
+                "text": "in die",
+                "correct": false
+            },
+            {
+                "text": "in der",
+                "correct": true
+            },
+            {
+                "text": "aus dem",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Entschuldigung… Wann fängt das Konzert an, bitte? – Das Konzert fängt _____ 19 Uhr an. – Vielen Dank!",
+        "answers": [
+            {
+                "text": "um",
+                "correct": true
+            },
+            {
+                "text": "an",
+                "correct": false
+            },
+            {
+                "text": "bei",
+                "correct": false
+            },
+            {
+                "text": "in",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Paula, ist das dein Hund? – Ja, das ist _____ Hund Bello.",
+        "answers": [
+            {
+                "text": "unsere",
+                "correct": false
+            },
+            {
+                "text": "deine",
+                "correct": false
+            },
+            {
+                "text": "ihr",
+                "correct": false
+            },
+            {
+                "text": "mein",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "name": "Woher kommen Sie? – Ich komme _____ Frankreich.",
+        "answers": [
+            {
+                "text": "von",
+                "correct": false
+            },
+            {
+                "text": "aus",
+                "correct": true
+            },
+            {
+                "text": "nach",
+                "correct": false
+            },
+            {
+                "text": "zu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Mein Name ist Mia. Und wie heißen Sie? – Sehr erfreut, ich _____ Tom.",
+        "answers": [
+            {
+                "text": "heißen",
+                "correct": false
+            },
+            {
+                "text": "war",
+                "correct": false
+            },
+            {
+                "text": "heiße",
+                "correct": true
+            },
+            {
+                "text": "mache",
+                "correct": false
+            }
+        ]
+    }
+]

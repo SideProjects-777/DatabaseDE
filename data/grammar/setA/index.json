@@ -57,13 +57,24 @@
     }, {
         "name": "Wortschatz",
         "description": {
-            "en": "Fill in the blanks",
-            "de": "Füllen Sie die Leerstellen aus",
-            "ru": "Заполните пробелы"
+            "en": "Fill in the blanks I",
+            "de": "Füllen Sie die Leerstellen aus I",
+            "ru": "Заполните пробелы I"
         },
         "file": "blanksA1.json",
         "level": "A1",
         "icon": "puzzle-star",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Fill in the blanks II",
+            "de": "Füllen Sie die Leerstellen aus II",
+            "ru": "Заполните пробелы II"
+        },
+        "file": "blanksA11.json",
+        "level": "A1",
+        "icon": "puzzle-star-outline",
         "iconFamily": "MaterialCommunityIcons"
     }, {
         "name": "11 - elf",
