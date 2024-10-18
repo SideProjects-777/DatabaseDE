@@ -1,16 +1,5 @@
 [
-    {
-        "name": "der / die / das",
-        "description": {
-            "en": "Articles",
-            "de": "Artikel",
-            "ru": "Aртикли"
-        },
-        "file": "article.json",
-        "level": "A1",
-        "icon": "robot-confused",
-        "iconFamily": "MaterialCommunityIcons"
-    }, {
+     {
         "name": "die Kinder",
         "description": {
             "en": "Nominative",
