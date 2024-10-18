@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Du bist im Restaurant. Der Kellner fragt: Was möchten Sie essen? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich hätte gern einen Salat.",
+                "correct": true
+            }, {
+                "text": "Ich möchte schlafen.",
+                "correct": false
+            }, {
+                "text": "Ich gehe jetzt.",
+                "correct": false
+            }, {
+                "text": "Ich hätte gern einen Tee.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du bist am Flughafen. Jemand fragt: Wo ist Ihr Pass? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich habe keinen Pass.",
+                "correct": false
+            }, {
+                "text": "Hier ist mein Pass.",
+                "correct": true
+            }, {
+                "text": "Ich spreche kein Deutsch.",
+                "correct": false
+            }, {
+                "text": "Ich bin Tourist.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du bist im Hotel. Die Rezeptionistin fragt: Haben Sie eine Reservierung? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich will kein Zimmer.",
+                "correct": false
+            }, {
+                "text": "Ich möchte bezahlen.",
+                "correct": false
+            }, {
+                "text": "Ich habe Hunger.",
+                "correct": false
+            }, {
+                "text": "Ja, ich habe eine Reservierung.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Du bist im Supermarkt. Der Kassierer fragt: Möchten Sie eine Tüte? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ja, ich habe eine Reservierung.",
+                "correct": false
+            }, {
+                "text": "Ja, bitte.",
+                "correct": true
+            }, {
+                "text": "Ich kaufe einen Apfel.",
+                "correct": false
+            }, {
+                "text": "Ich bin fertig.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du bist beim Arzt. Der Arzt fragt: Wie fühlen Sie sich? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich fühle mich gut.",
+                "correct": false
+            }, {
+                "text": "Ich habe Kopfschmerzen.",
+                "correct": true
+            }, {
+                "text": "Ich habe keine Zeit.",
+                "correct": false
+            }, {
+                "text": "Mir ist kalt.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du möchtest im Restaurant bezahlen. Der Kellner fragt: Zusammen oder getrennt? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich nehme das Essen.",
+                "correct": false
+            }, {
+                "text": "Ich zahle morgen.",
+                "correct": false
+            }, {
+                "text": "Ich habe kein Geld.",
+                "correct": false
+            }, {
+                "text": "Zusammen, bitte.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Du bist im Bus. Der Fahrer fragt: Haben Sie ein Ticket? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich bin müde.",
+                "correct": false
+            }, {
+                "text": "Ich habe kein Geld.",
+                "correct": false
+            }, {
+                "text": "Ja, hier ist es.",
+                "correct": true
+            }, {
+                "text": "Ich brauche ein neues Ticket.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du bist im Hotel. Jemand fragt: Wo ist der Aufzug? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Der Aufzug ist rechts.",
+                "correct": true
+            }, {
+                "text": "Der Aufzug ist draußen.",
+                "correct": false
+            }, {
+                "text": "Ich brauche kein Zimmer.",
+                "correct": false
+            }, {
+                "text": "Ich warte hier.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Du bist beim Bäcker. Die Verkäuferin fragt: Möchten Sie noch etwas? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich habe keinen Hunger.",
+                "correct": false
+            }, {
+                "text": "Ich möchte gehen.",
+                "correct": false
+            }, {
+                "text": "Ich brauche Wasser.",
+                "correct": false
+            }, {
+                "text": "Ja, bitte ein Brötchen.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Du bist im Taxi. Der Fahrer fragt: Wohin möchten Sie fahren? Deine Antwort:",
+        "answers": [
+            {
+                "text": "Ich möchte essen.",
+                "correct": false
+            }, {
+                "text": "Ich gehe zu Fuß.",
+                "correct": false
+            }, {
+                "text": "Ich habe kein Geld.",
+                "correct": false
+            }, {
+                "text": "Zum Bahnhof, bitte.",
+                "correct": true
+            }
+        ]
+    }
+]

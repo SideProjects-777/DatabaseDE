@@ -44,6 +44,17 @@
         "icon": "color-palette-outline",
         "iconFamily": "Ionicons"
     }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Correct response",
+            "de": "Richtige Antwort",
+            "ru": "Правильный ответ"
+        },
+        "file": "fragenbogen.json",
+        "level": "A1",
+        "icon": "question-circle-o",
+        "iconFamily": "FontAwesome"
+    }, {
         "name": "11 - elf",
         "description": {
             "en": "Numbers",
