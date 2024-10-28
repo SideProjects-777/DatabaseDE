@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Burg Eltz",
+            "de": "Burg Eltz",
+            "ru": "Бург Эльц"
+        },
+        "description": {
+            "en": "Hilltop castle",
+            "de": "Hügel-Schloss",
+            "ru": "Замок на холме"
+        },
+        "level": "A2",
+        "image": "Eltz.jpg",
+        "file": "Eltz.txt",
+        "words": "Eltz.json",
+        "yesNo": "Eltz.json"
+    }, {
+        "name": {
             "en": "Fairytale Beilstein",
             "de": "Märchenhaftes Beilstein",
             "ru": "Сказочный Бейльштайн"
