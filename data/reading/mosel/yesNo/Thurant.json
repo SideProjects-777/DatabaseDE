@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Burg Thurant ist eine alte Burg bei Alken.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Burg wurde im 15. Jahrhundert gebaut.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Burg liegt auf einem Hügel über der Mosel.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Burg wurde nur als Wohnhaus genutzt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Burg hat eine romanische Architektur.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Burg ist schwer angreifbar aufgrund ihrer Bauweise.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Besucher können die Burg ganzjährig besichtigen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Führungen über die Geschichte der Burg werden angeboten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Es gibt keine Rabatte für Kinder und Studenten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Umgebung der Burg hat viele Restaurants.",
+        "tr": true,
+        "fle": false
+    }
+]

@@ -1,0 +1,116 @@
+[
+
+    {
+        "de": "das Moseltal",
+        "en": "Mosel Valley",
+        "ru": "долина Мозеля",
+        "descriptionEN": "A river valley region known for wine production in Germany.",
+        "descriptionRU": "Регион в долине реки, известный виноделием в Германии.",
+        "descriptionDE": "Eine Flussregion, die in Deutschland für den Weinanbau bekannt ist."
+    }, {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "A large building or group of buildings fortified against attack.",
+        "descriptionRU": "Большое здание или группа зданий, укреплённых для защиты.",
+        "descriptionDE": "Ein großes Gebäude oder eine Gruppe von Gebäuden, die gegen Angriffe befestigt sind."
+    }, {
+        "de": "das Kloster",
+        "en": "monastery",
+        "ru": "монастырь",
+        "descriptionEN": "A religious building where monks live, pray, and work.",
+        "descriptionRU": "Религиозное здание, где живут, молятся и работают монахи.",
+        "descriptionDE": "Ein religiöses Gebäude, in dem Mönche leben, beten und arbeiten."
+    }, {
+        "de": "die Kirche",
+        "en": "church",
+        "ru": "церковь",
+        "descriptionEN": "A building for public Christian worship.",
+        "descriptionRU": "Здание для общественного христианского богослужения.",
+        "descriptionDE": "Ein Gebäude für die öffentliche christliche Anbetung."
+    }, {
+        "de": "der Pilger",
+        "en": "pilgrim",
+        "ru": "паломник",
+        "descriptionEN": "A person who journeys to a sacred place for religious reasons.",
+        "descriptionRU": "Человек, который совершает путешествие к святому месту по религиозным причинам.",
+        "descriptionDE": "Eine Person, die aus religiösen Gründen an einen heiligen Ort reist."
+    }, {
+        "de": "der Marktplatz",
+        "en": "market square",
+        "ru": "рыночная площадь",
+        "descriptionEN": "An open space in a town where a market is held.",
+        "descriptionRU": "Открытое пространство в городе, где проводится рынок.",
+        "descriptionDE": "Ein offener Platz in einer Stadt, auf dem ein Markt abgehalten wird."
+    }, {
+        "de": "das Fachwerkhaus",
+        "en": "half-timbered house",
+        "ru": "фахверковый дом",
+        "descriptionEN": "A building with wooden framework filled with other materials.",
+        "descriptionRU": "Здание с деревянным каркасом, заполненным другими материалами.",
+        "descriptionDE": "Ein Gebäude mit Holzrahmen, das mit anderen Materialien gefüllt ist."
+    }, {
+        "de": "das Kopfsteinpflaster",
+        "en": "cobblestone",
+        "ru": "булыжник",
+        "descriptionEN": "A stone used in paving streets.",
+        "descriptionRU": "Камень, используемый для мощения улиц.",
+        "descriptionDE": "Ein Stein, der zum Pflastern von Straßen verwendet wird."
+    }, {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "A plantation of grapevines, typically for winemaking.",
+        "descriptionRU": "Плантация виноградных лоз, обычно для производства вина.",
+        "descriptionDE": "Eine Plantage von Weinreben, typischerweise für die Weinherstellung."
+    }, {
+        "de": "das Weingut",
+        "en": "winery",
+        "ru": "винодельня",
+        "descriptionEN": "A place where wine is produced and often sold.",
+        "descriptionRU": "Место, где производится и продаётся вино.",
+        "descriptionDE": "Ein Ort, an dem Wein produziert und oft verkauft wird."
+    }, {
+        "de": "besichtigen",
+        "en": "visit",
+        "ru": "посещать",
+        "descriptionEN": "To go to see a place.",
+        "descriptionRU": "Сходить посмотреть место.",
+        "descriptionDE": "Einen Ort besuchen."
+    }, {
+        "de": "bewundern",
+        "en": "admire",
+        "ru": "восхищаться",
+        "descriptionEN": "To regard with respect or warm approval.",
+        "descriptionRU": "Смотреть с уважением или одобрением.",
+        "descriptionDE": "Mit Respekt oder Zustimmung betrachten."
+    }, {
+        "de": "umgeben",
+        "en": "surround",
+        "ru": "окружать",
+        "descriptionEN": "To enclose on all sides.",
+        "descriptionRU": "Окружать со всех сторон.",
+        "descriptionDE": "Von allen Seiten umgeben."
+    }, {
+        "de": "historisch",
+        "en": "historic",
+        "ru": "исторический",
+        "descriptionEN": "Belonging to the past.",
+        "descriptionRU": "Принадлежащий прошлому.",
+        "descriptionDE": "Zur Vergangenheit gehörend."
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "Relating to the Middle Ages.",
+        "descriptionRU": "Относящийся к Средневековью.",
+        "descriptionDE": "Bezieht sich auf das Mittelalter."
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "Being the only one of its kind.",
+        "descriptionRU": "Быть единственным в своем роде.",
+        "descriptionDE": "Das einzige seiner Art sein."
+    }
+]

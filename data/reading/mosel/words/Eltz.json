@@ -1,0 +1,136 @@
+[
+    {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "A large building or group of buildings fortified against attack with thick walls, battlements, and often a moat.",
+        "descriptionRU": "Большое здание или группа зданий, укрепленных против нападения с толстыми стенами и рвом.",
+        "descriptionDE": "Ein großes Gebäude oder eine Gruppe von Gebäuden, das gegen Angriffe mit dicken Mauern und oft einem Graben befestigt ist."
+    }, {
+        "de": "die Schatzkammer",
+        "en": "treasury",
+        "ru": "казна",
+        "descriptionEN": "A place where valuables or treasures are stored.",
+        "descriptionRU": "Место, где хранятся ценные вещи или сокровища.",
+        "descriptionDE": "Ein Ort, an dem wertvolle Gegenstände oder Schätze aufbewahrt werden."
+    }, {
+        "de": "das Jagdzimmer",
+        "en": "hunting room",
+        "ru": "охотничья комната",
+        "descriptionEN": "A room typically decorated with items related to hunting.",
+        "descriptionRU": "Комната, обычно украшенная предметами, связанными с охотой.",
+        "descriptionDE": "Ein Raum, der typischerweise mit Jagdutensilien dekoriert ist."
+    }, {
+        "de": "die Rüstung",
+        "en": "armor",
+        "ru": "доспехи",
+        "descriptionEN": "Protective clothing worn in battle, typically made of metal.",
+        "descriptionRU": "Защитная одежда, надеваемая в бою, обычно из металла.",
+        "descriptionDE": "Schutzkleidung, die im Kampf getragen wird, meist aus Metall."
+    }, {
+        "de": "der Turm",
+        "en": "tower",
+        "ru": "башня",
+        "descriptionEN": "A tall structure that rises high above the ground.",
+        "descriptionRU": "Высокое сооружение, поднимающееся над землей.",
+        "descriptionDE": "Eine hohe Struktur, die sich weit über den Boden erhebt."
+    }, {
+        "de": "das Fachwerk",
+        "en": "half-timbering",
+        "ru": "фахверк",
+        "descriptionEN": "A style of building with timber framework, typical in medieval Germany.",
+        "descriptionRU": "Стиль здания с деревянными рамами, типичный для средневековой Германии.",
+        "descriptionDE": "Ein Baustil mit einem Holzrahmen, typisch für das mittelalterliche Deutschland."
+    }, {
+        "de": "das Dach",
+        "en": "roof",
+        "ru": "крыша",
+        "descriptionEN": "The structure covering the top of a building.",
+        "descriptionRU": "Конструкция, покрывающая верхнюю часть здания.",
+        "descriptionDE": "Die Struktur, die die Oberseite eines Gebäudes bedeckt."
+    }, {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "A natural watercourse, usually freshwater, flowing towards an ocean, sea, lake, or another river.",
+        "descriptionRU": "Естественный водоток, обычно пресноводный, текущий к океану, морю, озеру или другой реке.",
+        "descriptionDE": "Ein natürlicher Wasserlauf, der sich in der Regel aus Süßwasser zusammensetzt und in ein Meer, einen See oder einen anderen Fluss fließt."
+    }, {
+        "de": "die Küche",
+        "en": "kitchen",
+        "ru": "кухня",
+        "descriptionEN": "A room or area where food is prepared and cooked.",
+        "descriptionRU": "Комната или место, где готовят и готовят пищу.",
+        "descriptionDE": "Ein Raum oder Bereich, in dem Essen zubereitet und gekocht wird."
+    }, {
+        "de": "der Wanderweg",
+        "en": "trail",
+        "ru": "тропа",
+        "descriptionEN": "A path or track for walking or hiking.",
+        "descriptionRU": "Путь или тропа для пеших прогулок.",
+        "descriptionDE": "Ein Pfad oder Weg zum Wandern oder Spazierengehen."
+    }, {
+        "de": "besichtigen",
+        "en": "to visit",
+        "ru": "посетить",
+        "descriptionEN": "To go and see a place as a tourist.",
+        "descriptionRU": "Посетить место как турист.",
+        "descriptionDE": "Ein Ort als Tourist besuchen."
+    }, {
+        "de": "zeigen",
+        "en": "to show",
+        "ru": "показывать",
+        "descriptionEN": "To present or demonstrate something.",
+        "descriptionRU": "Представлять или демонстрировать что-либо.",
+        "descriptionDE": "Etwas präsentieren oder demonstrieren."
+    }, {
+        "de": "umgeben",
+        "en": "to surround",
+        "ru": "окружать",
+        "descriptionEN": "To be all around something.",
+        "descriptionRU": "Быть вокруг чего-либо.",
+        "descriptionDE": "Um etwas herum sein."
+    }, {
+        "de": "leben",
+        "en": "to live",
+        "ru": "жить",
+        "descriptionEN": "To have life or exist.",
+        "descriptionRU": "Иметь жизнь или существовать.",
+        "descriptionDE": "Leben haben oder existieren."
+    }, {
+        "de": "ändern",
+        "en": "to change",
+        "ru": "изменять",
+        "descriptionEN": "To make something different.",
+        "descriptionRU": "Сделать что-то другим.",
+        "descriptionDE": "Etwas anders machen."
+    }, {
+        "de": "regional",
+        "en": "regional",
+        "ru": "региональный",
+        "descriptionEN": "Relating to or characteristic of a specific geographic area.",
+        "descriptionRU": "Относящийся к определенному географическому региону.",
+        "descriptionDE": "Bezogen auf oder charakteristisch für ein bestimmtes geografisches Gebiet."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing to look at or aesthetically attractive.",
+        "descriptionRU": "Приятный для взгляда или эстетически привлекательный.",
+        "descriptionDE": "Angenehm anzusehen oder ästhetisch ansprechend."
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "Relating to the Middle Ages.",
+        "descriptionRU": "Относящийся к Средневековью.",
+        "descriptionDE": "Im Zusammenhang mit dem Mittelalter."
+    }, {
+        "de": "kulturell",
+        "en": "cultural",
+        "ru": "культурный",
+        "descriptionEN": "Relating to the ideas, customs, and social behavior of a society.",
+        "descriptionRU": "Относящийся к идеям, обычаям и социальному поведению общества.",
+        "descriptionDE": "Bezogen auf die Ideen, Bräuche und das soziale Verhalten einer Gesellschaft."
+    }
+]

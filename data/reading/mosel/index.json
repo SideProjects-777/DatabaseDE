@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Burg Eltz",
+            "de": "Burg Eltz",
+            "ru": "Бург Эльц"
+        },
+        "description": {
+            "en": "Hilltop castle",
+            "de": "Hügel-Schloss",
+            "ru": "Замок на холме"
+        },
+        "level": "A2",
+        "image": "Eltz.jpg",
+        "file": "Eltz.txt",
+        "words": "Eltz.json",
+        "yesNo": "Eltz.json"
+    }, {
+        "name": {
             "en": "Fairytale Beilstein",
             "de": "Märchenhaftes Beilstein",
             "ru": "Сказочный Бейльштайн"
@@ -63,5 +79,21 @@
         "file": "Charmante.txt",
         "words": "Charmante.json",
         "yesNo": "Charmante.json"
+    }, {
+        "name": {
+            "en": "Burg Thurant",
+            "de": "Burg Thurant",
+            "ru": "Замок Турант"
+        },
+        "description": {
+            "en": "Historic site",
+            "de": "Historischer Ort",
+            "ru": "Историческое место"
+        },
+        "level": "B2",
+        "image": "Thurant.jpg",
+        "file": "Thurant.txt",
+        "words": "Thurant.json",
+        "yesNo": "Thurant.json"
     }
 ]

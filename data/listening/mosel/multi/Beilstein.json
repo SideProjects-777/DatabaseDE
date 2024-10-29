@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wie wird Beilstein auch genannt?",
+        "answers": [
+            {
+                "text": "Perle der Mosel",
+                "correct": false
+            }, {
+                "text": "Schönheit der Mosel",
+                "correct": false
+            }, {
+                "text": "Dornröschen der Mosel",
+                "correct": true
+            }, {
+                "text": "Schatz der Mosel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Jahrhundert wurde Beilstein gegründet?",
+        "answers": [
+            {
+                "text": "12. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "13. Jahrhundert",
+                "correct": true
+            }, {
+                "text": "15. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "17. Jahrhundert",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Gebäude ist das beeindruckendste in Beilstein?",
+        "answers": [
+            {
+                "text": "Marktplatz",
+                "correct": false
+            }, {
+                "text": "Weingut",
+                "correct": false
+            }, {
+                "text": "Burg Metternich",
+                "correct": true
+            }, {
+                "text": "Moselpromenade",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann wurde die Burg Metternich beschädigt?",
+        "answers": [
+            {
+                "text": "Im 14. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "Im 16. Jahrhundert",
+                "correct": false
+            }, {
+                "text": "Im 17. Jahrhundert",
+                "correct": true
+            }, {
+                "text": "Im 18. Jahrhundert",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wofür ist die Barockkirche in Beilstein bekannt?",
+        "answers": [
+            {
+                "text": "Für ihre Glasmalereien",
+                "correct": false
+            }, {
+                "text": "Für ihre hohe Kuppel",
+                "correct": false
+            }, {
+                "text": "Für ihren Holzaltar",
+                "correct": true
+            }, {
+                "text": "Für ihre Fresken",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist der Mittelpunkt der Stadt Beilstein?",
+        "answers": [
+            {
+                "text": "Der Marktplatz",
+                "correct": true
+            }, {
+                "text": "Die Moselpromenade",
+                "correct": false
+            }, {
+                "text": "Das Kloster",
+                "correct": false
+            }, {
+                "text": "Der Weinberg",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Einwohner hat Beilstein ungefähr?",
+        "answers": [
+            {
+                "text": "Weniger als 200",
+                "correct": true
+            }, {
+                "text": "Etwa 500",
+                "correct": false
+            }, {
+                "text": "Rund 300",
+                "correct": false
+            }, {
+                "text": "Über 1000",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Wein stammt aus der Region um Beilstein?",
+        "answers": [
+            {
+                "text": "Merlot",
+                "correct": false
+            }, {
+                "text": "Cabernet Sauvignon",
+                "correct": false
+            }, {
+                "text": "Riesling",
+                "correct": true
+            }, {
+                "text": "Pinot Noir",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was können Besucher auf der Moselpromenade genießen?",
+        "answers": [
+            {
+                "text": "Den Blick auf die Weinberge",
+                "correct": true
+            }, {
+                "text": "Den Blick auf den Rhein",
+                "correct": false
+            }, {
+                "text": "Den Blick auf das Kloster",
+                "correct": false
+            }, {
+                "text": "Den Blick auf die Burgruine",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Aktivität ist in Beilstein beliebt?",
+        "answers": [
+            {
+                "text": "Skifahren",
+                "correct": false
+            }, {
+                "text": "Segeln",
+                "correct": false
+            }, {
+                "text": "Tauchgänge",
+                "correct": false
+            }, {
+                "text": "Flusskreuzfahrten auf der Mosel",
+                "correct": true
+            }
+        ]
+    }
+]

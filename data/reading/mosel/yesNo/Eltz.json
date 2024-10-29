@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Burg Eltz liegt in der Nähe von Wierschem.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Burg wurde im Laufe der Geschichte mehrfach zerstört.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Familie besitzt die Burg seit über 850 Jahren.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Besucher können die Burg das ganze Jahr über besichtigen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Burg Eltz ist von einem Wald umgeben.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Es gibt Führungen in nur einer Sprache.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Küche und das Jagdzimmer gehören zu den besuchbaren Räumen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Schlosscafé serviert Speisen aus der Region.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Burg Eltz ist auf einem Hügel über der Donau gelegen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Burg hat steile Dächer und Fachwerkwände.",
+        "tr": true,
+        "fle": false
+    }
+]

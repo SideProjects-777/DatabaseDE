@@ -1,0 +1,150 @@
+[
+    {
+        "de": "der Hügel",
+        "en": "the hill",
+        "ru": "холм",
+        "descriptionEN": "A naturally raised area of land, smaller than a mountain.",
+        "descriptionRU": "Естественно возвышенная местность, меньшая по размеру, чем гора.",
+        "descriptionDE": "Ein natürlich erhöhter Landstrich, kleiner als ein Berg."
+    }, {
+        "de": "die Geschichte",
+        "en": "the history",
+        "ru": "история",
+        "descriptionEN": "The study of past events, particularly in human affairs.",
+        "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "der Weinberg",
+        "en": "the vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "A plantation of grapevines, typically for winemaking.",
+        "descriptionRU": "Плантация виноградных лоз, обычно для производства вина.",
+        "descriptionDE": "Eine Plantage von Weinreben, typischerweise zur Weinherstellung."
+    }, {
+        "de": "die Architektur",
+        "en": "the architecture",
+        "ru": "архитектура",
+        "descriptionEN": "The art or practice of designing and constructing buildings.",
+        "descriptionRU": "Искусство или практика проектирования и строительства зданий.",
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden."
+    }, {
+        "de": "das Erlebnis",
+        "en": "the experience",
+        "ru": "опыт",
+        "descriptionEN": "Practical contact with and observation of facts or events.",
+        "descriptionRU": "Практическое взаимодействие и наблюдение за фактами или событиями.",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+    }, {
+        "de": "die Natur",
+        "en": "the nature",
+        "ru": "природа",
+        "descriptionEN": "The physical world collectively, including plants, animals, and landscapes.",
+        "descriptionRU": "Физический мир в совокупности, включая растения, животных и ландшафты.",
+        "descriptionDE": "Die physische Welt insgesamt, einschließlich Pflanzen, Tiere und Landschaften."
+    }, {
+        "de": "der Besuch",
+        "en": "the visit",
+        "ru": "визит",
+        "descriptionEN": "An act of going to see a person or place.",
+        "descriptionRU": "Акт посещения человека или места.",
+        "descriptionDE": "Ein Akt des Besuchs einer Person oder eines Ortes."
+    }, {
+        "de": "die Umgebung",
+        "en": "the surroundings",
+        "ru": "окружающая среда",
+        "descriptionEN": "The area around a particular place or location.",
+        "descriptionRU": "Область вокруг определенного места или местоположения.",
+        "descriptionDE": "Der Bereich um einen bestimmten Ort oder Standort."
+    }, {
+        "de": "das Angebot",
+        "en": "the offer",
+        "ru": "предложение",
+        "descriptionEN": "A proposal or suggestion, typically for a service or opportunity.",
+        "descriptionRU": "Предложение или совет, обычно для услуги или возможности.",
+        "descriptionDE": "Ein Vorschlag oder eine Empfehlung, typischerweise für eine Dienstleistung oder Gelegenheit."
+    }, {
+        "de": "die Familie",
+        "en": "the family",
+        "ru": "семья",
+        "descriptionEN": "A group of individuals related by blood, marriage, or adoption.",
+        "descriptionRU": "Группа людей, связанных кровными узами, браком или усыновлением.",
+        "descriptionDE": "Eine Gruppe von Personen, die durch Blut, Ehe oder Adoption verbunden sind."
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "To travel through an unfamiliar area to learn about it.",
+        "descriptionRU": "Путешествовать по незнакомой местности, чтобы узнать о ней.",
+        "descriptionDE": "Durch ein unbekanntes Gebiet reisen, um darüber zu lernen."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "To take pleasure in something.",
+        "descriptionRU": "Получать удовольствие от чего-либо.",
+        "descriptionDE": "Vergnügen an etwas haben."
+    }, {
+        "de": "zeigen",
+        "en": "to show",
+        "ru": "показывать",
+        "descriptionEN": "To cause or allow something to be seen.",
+        "descriptionRU": "Причинить или позволить чему-то быть увиденным.",
+        "descriptionDE": "Etwas sehen zu lassen oder zu ermöglichen."
+    }, {
+        "de": "erfahren",
+        "en": "to learn",
+        "ru": "узнавать",
+        "descriptionEN": "To gain knowledge or information about something.",
+        "descriptionRU": "Получить знания или информацию о чем-либо.",
+        "descriptionDE": "Wissen oder Informationen über etwas zu gewinnen."
+    }, {
+        "de": "fühlen",
+        "en": "to feel",
+        "ru": "чувствовать",
+        "descriptionEN": "To perceive or experience an emotion or sensation.",
+        "descriptionRU": "Воспринять или испытать эмоцию или ощущение.",
+        "descriptionDE": "Eine Emotion oder ein Gefühl wahrzunehmen oder zu erfahren."
+    }, {
+        "de": "vermitteln",
+        "en": "to convey",
+        "ru": "передавать",
+        "descriptionEN": "To communicate or make something known.",
+        "descriptionRU": "Передать или сделать что-то известным.",
+        "descriptionDE": "Etwas zu kommunizieren oder bekannt zu machen."
+    }, {
+        "de": "schätzen",
+        "en": "to appreciate",
+        "ru": "ценить",
+        "descriptionEN": "To recognize the value or significance of something.",
+        "descriptionRU": "Признавать ценность или значимость чего-либо.",
+        "descriptionDE": "Den Wert oder die Bedeutung von etwas zu erkennen."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Удовлетворяющий чувства или разум эстетически.",
+        "descriptionDE": "Das Gefühl oder den Geist ästhetisch erfreuen."
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "Relating to the Middle Ages.",
+        "descriptionRU": "Относящийся к Средним векам.",
+        "descriptionDE": "In Bezug auf das Mittelalter."
+    }, {
+        "de": "günstig",
+        "en": "affordable",
+        "ru": "доступный",
+        "descriptionEN": "Inexpensive or reasonably priced.",
+        "descriptionRU": "Недорогой или по разумной цене.",
+        "descriptionDE": "Preiswert oder zu einem angemessenen Preis."
+    }, {
+        "de": "besonders",
+        "en": "special",
+        "ru": "особенный",
+        "descriptionEN": "Better, greater, or otherwise different from what is usual.",
+        "descriptionRU": "Лучше, больше или иначе отличающаяся от обычного.",
+        "descriptionDE": "Besser, größer oder anders als das Gewöhnliche."
+    }
+]

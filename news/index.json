@@ -1,15 +1,20 @@
 [
     {
         "name": {
-            "en": "Simple city \u266C",
-            "ru": "Просто город \u266C",
+            "en": "Moselle - Burg Eltz \u270D",
+            "ru": "Мозель - Бург Эльц \u270D",
             "de": null
         }
-    },
-    {
+    }, {
         "name": {
-            "en": "Koblenz \u266C",
-            "ru": "Кобленц \u266C",
+            "en": "Moselle - Burg Thurant \u270D",
+            "ru": "Мозель - Замок Турант \u270D",
+            "de": null
+        }
+    }, {
+        "name": {
+            "en": "Moselle - Medieval Beilstein \u266C",
+            "ru": "Мозель - Средневековый Бейльштайн \u266C",
             "de": null
         }
     }
