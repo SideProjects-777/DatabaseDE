@@ -1,26 +1,20 @@
 [
     {
         "name": {
-            "en": "Simple city - Knightly Adventure \u266C",
-            "ru": "Кобленц - Рыцарское приключение \u266C",
+            "en": "Moselle - Burg Eltz \u270D",
+            "ru": "Мозель - Бург Эльц \u270D",
             "de": null
         }
     }, {
         "name": {
-            "en": "Koblenz - Secret Fountain \u266C",
-            "ru": "Кобленц - Секретный Фонтан \u266C",
+            "en": "Moselle - Burg Thurant \u270D",
+            "ru": "Мозель - Замок Турант \u270D",
             "de": null
         }
     }, {
         "name": {
-            "en": "Moselle - Fairytale Beilstein \u270D",
-            "ru": "Мозель - Сказочный Бейльштайн \u270D",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Moselle - Wine tale \u270D",
-            "ru": "Мозель - Винная сказка \u270D",
+            "en": "Moselle - Medieval Beilstein \u266C",
+            "ru": "Мозель - Средневековый Бейльштайн \u266C",
             "de": null
         }
     }
