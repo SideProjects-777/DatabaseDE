@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Was hat die Großmutter gemacht, nachdem das Lied gesungen wurde?",
+        "answers": [
+            {
+                "text": "Sie hat einen Toast ausgebracht",
+                "correct": false
+            }, {
+                "text": "Sie hat die Geschenke geöffnet",
+                "correct": false
+            }, {
+                "text": "Sie hat die Kerzen ausgeblasen",
+                "correct": true
+            }, {
+                "text": "Sie hat den Kuchen angeschnitten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat den Raum erfüllt, nachdem die Großmutter ihren Wunsch geäußert hat?",
+        "answers": [
+            {
+                "text": "Musik und Tanz",
+                "correct": false
+            }, {
+                "text": "Gespräche und Tränen",
+                "correct": false
+            }, {
+                "text": "Liebe und Lachen",
+                "correct": true
+            }, {
+                "text": "Stille und Dunkelheit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hat die Großmutter als ihr wahres Geschenk erkannt?",
+        "answers": [
+            {
+                "text": "Die Familie, die das Leben feiert",
+                "correct": true
+            }, {
+                "text": "Das Lied, das gesungen wurde",
+                "correct": false
+            }, {
+                "text": "Den köstlichen Kuchen",
+                "correct": false
+            }, {
+                "text": "Die Geschenke, die sie erhielt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer saß inmitten der fröhlichen Runde?",
+        "answers": [
+            {
+                "text": "Der Onkel",
+                "correct": false
+            }, {
+                "text": "Die Großmutter",
+                "correct": true
+            }, {
+                "text": "Die Mutter",
+                "correct": false
+            }, {
+                "text": "Der Großvater",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was haben die Familienmitglieder gemacht, als der Kuchen ankam?",
+        "answers": [
+            {
+                "text": "Sie haben Geschenke ausgetauscht",
+                "correct": false
+            }, {
+                "text": "Sie haben sich zum Singen versammelt",
+                "correct": true
+            }, {
+                "text": "Sie haben miteinander geredet",
+                "correct": false
+            }, {
+                "text": "Sie haben den Kuchen gegessen",
+                "correct": false
+            }
+        ]
+    }
+]

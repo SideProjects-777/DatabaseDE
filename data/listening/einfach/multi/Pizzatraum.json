@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Welches war Clark's Lieblingsessen?",
+        "answers": [
+            {
+                "text": "Pizza",
+                "correct": true
+            }, {
+                "text": "Hamburger",
+                "correct": false
+            }, {
+                "text": "Sushi",
+                "correct": false
+            }, {
+                "text": "Spaghetti",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welchen Abschluss machte Clark am College?",
+        "answers": [
+            {
+                "text": "Biologie",
+                "correct": false
+            }, {
+                "text": "Mathematik",
+                "correct": false
+            }, {
+                "text": "Chemie",
+                "correct": true
+            }, {
+                "text": "Physik",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wollten Clarks Eltern, dass er wird?",
+        "answers": [
+            {
+                "text": "Künstler",
+                "correct": false
+            }, {
+                "text": "Arzt",
+                "correct": true
+            }, {
+                "text": "Ingenieur",
+                "correct": false
+            }, {
+                "text": "Lehrer",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum waren Clarks Eltern besorgt?",
+        "answers": [
+            {
+                "text": "Weil Clark nicht genug Freunde hat",
+                "correct": false
+            }, {
+                "text": "Weil Clark zu viel Zeit in der Küche verbringt",
+                "correct": false
+            }, {
+                "text": "Weil Clark so viel Geld als Arzt verdienen könnte",
+                "correct": true
+            }, {
+                "text": "Weil Clark kein gutes Studium gemacht hat",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bedeutete Erfolg für Clark?",
+        "answers": [
+            {
+                "text": "Einen sicheren Job haben",
+                "correct": false
+            }, {
+                "text": "In einer großen Stadt leben",
+                "correct": false
+            }, {
+                "text": "Geld verdienen",
+                "correct": false
+            }, {
+                "text": "Seine Leidenschaft ausleben und anderen Freude machen",
+                "correct": true
+            }
+        ]
+    }
+]

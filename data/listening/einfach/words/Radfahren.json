@@ -1,0 +1,87 @@
+[
+    {
+        "de": "der Tag",
+        "en": "Day",
+        "ru": "День",
+        "descriptionEN": "A period of 24 hours.",
+        "descriptionRU": "Период в 24 часа.",
+        "descriptionDE": "Ein Zeitraum von 24 Stunden."
+    }, {
+        "de": "der Gehaltsscheck",
+        "en": "Paycheck",
+        "ru": "Чек на зарплату",
+        "descriptionEN": "A check given for payment of wages.",
+        "descriptionRU": "Чек, выданный для оплаты заработной платы.",
+        "descriptionDE": "Ein Scheck, der zur Zahlung des Gehalts ausgegeben wird."
+    }, {
+        "de": "das Fahrrad",
+        "en": "Bicycle",
+        "ru": "Велосипед",
+        "descriptionEN": "A vehicle with two wheels that a person rides by pushing on foot pedals.",
+        "descriptionRU": "Транспортное средство с двумя колесами, на котором человек ездит, толкаясь ногами.",
+        "descriptionDE": "Ein Fahrzeug mit zwei Rädern, das eine Person durch Treten von Pedalen bewegt."
+    }, {
+        "de": "die Verhältnisse",
+        "en": "Circumstances",
+        "ru": "Обстоятельства",
+        "descriptionEN": "The conditions or facts affecting a situation.",
+        "descriptionRU": "Условия или факты, влияющие на ситуацию.",
+        "descriptionDE": "Die Bedingungen oder Tatsachen, die eine Situation beeinflussen."
+    }, {
+        "de": "der Traum",
+        "en": "Dream",
+        "ru": "Мечта",
+        "descriptionEN": "A series of thoughts, images, or emotions occurring during sleep, or an aspiration.",
+        "descriptionRU": "Серия мыслей, образов или эмоций, происходящих во время сна, или стремление.",
+        "descriptionDE": "Eine Serie von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten, oder eine Aspiration."
+    }, {
+        "de": "der Job",
+        "en": "Job",
+        "ru": "Работа",
+        "descriptionEN": "A paid position of regular employment.",
+        "descriptionRU": "Оплачиваемая должность регулярного трудоустройства.",
+        "descriptionDE": "Eine bezahlte Position der regulären Beschäftigung."
+    }, {
+        "de": "die Kinder",
+        "en": "Children",
+        "ru": "Дети",
+        "descriptionEN": "Young human beings below the age of puberty.",
+        "descriptionRU": "Молодые человеческие существа до половой зрелости.",
+        "descriptionDE": "Junge Menschen unter dem Alter der Pubertät."
+    }, {
+        "de": "die Welt",
+        "en": "World",
+        "ru": "Мир",
+        "descriptionEN": "The earth, together with all of its countries and peoples.",
+        "descriptionRU": "Земля вместе со всеми ее странами и народами.",
+        "descriptionDE": "Die Erde zusammen mit allen ihren Ländern und Völkern."
+    }, {
+        "de": "lernen",
+        "en": "To learn",
+        "ru": "Учить",
+        "descriptionEN": "To gain knowledge or skill through experience or education.",
+        "descriptionRU": "Приобретать знания или навыки через опыт или образование.",
+        "descriptionDE": "Wissen oder Fähigkeiten durch Erfahrung oder Bildung erwerben."
+    }, {
+        "de": "freuen",
+        "en": "To be happy",
+        "ru": "Радоваться",
+        "descriptionEN": "To feel or show pleasure or contentment.",
+        "descriptionRU": "Чувствовать или показывать удовольствие или удовлетворение.",
+        "descriptionDE": "Gefühl oder Zeigen von Freude oder Zufriedenheit."
+    }, {
+        "de": "schwierig",
+        "en": "Difficult",
+        "ru": "Трудный",
+        "descriptionEN": "Not easy; requiring effort or skill.",
+        "descriptionRU": "Не легкий; требующий усилий или навыков.",
+        "descriptionDE": "Nicht einfach; erfordert Anstrengung oder Fähigkeiten."
+    }, {
+        "de": "entschlossen",
+        "en": "Determined",
+        "ru": "Решительный",
+        "descriptionEN": "Having made a firm decision and being resolved not to change it.",
+        "descriptionRU": "Принявший твердое решение и решивший не менять его.",
+        "descriptionDE": "Eine feste Entscheidung getroffen haben und entschlossen sein, diese nicht zu ändern."
+    }
+]

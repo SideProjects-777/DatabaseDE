@@ -1,0 +1,143 @@
+[
+    {
+        "de": "der Kalender",
+        "en": "Calendar",
+        "ru": "Календарь",
+        "descriptionEN": "A system for organizing days for social, religious, commercial, or administrative purposes.",
+        "descriptionRU": "Система для организации дней для социальных, религиозных, коммерческих или административных целей.",
+        "descriptionDE": "Ein System zur Organisation von Tagen für soziale, religiöse, kommerzielle oder administrative Zwecke."
+    }, {
+        "de": "die Pause",
+        "en": "Break",
+        "ru": "Перерыв",
+        "descriptionEN": "A short period of rest or relaxation.",
+        "descriptionRU": "Короткий период отдыха или расслабления.",
+        "descriptionDE": "Eine kurze Zeit der Ruhe oder Entspannung."
+    }, {
+        "de": "die Gedanken",
+        "en": "Thoughts",
+        "ru": "Мысли",
+        "descriptionEN": "The product of mental activity; ideas or reflections.",
+        "descriptionRU": "Результат умственной деятельности; идеи или размышления.",
+        "descriptionDE": "Das Produkt geistiger Aktivität; Ideen oder Überlegungen."
+    }, {
+        "de": "das Wasser",
+        "en": "Water",
+        "ru": "Вода",
+        "descriptionEN": "A clear, colorless, odorless, and tasteless liquid essential for life.",
+        "descriptionRU": "Прозрачная, бесцветная, без запаха и вкуса жидкость, необходимая для жизни.",
+        "descriptionDE": "Eine klare, farb- und geruchlose Flüssigkeit, die für das Leben unerlässlich ist."
+    }, {
+        "de": "die Häuser",
+        "en": "Houses",
+        "ru": "Дома",
+        "descriptionEN": "Buildings for human habitation.",
+        "descriptionRU": "Здания для проживания людей.",
+        "descriptionDE": "Gebäude für die menschliche Behausung."
+    }, {
+        "de": "die Menschenmassen",
+        "en": "Crowds",
+        "ru": "Толпы",
+        "descriptionEN": "A large number of people gathered together.",
+        "descriptionRU": "Большое количество людей, собравшихся вместе.",
+        "descriptionDE": "Eine große Anzahl von Menschen, die zusammengekommen sind."
+    }, {
+        "de": "der Kamin",
+        "en": "Fireplace",
+        "ru": "Камин",
+        "descriptionEN": "A structure for containing a fire in a building.",
+        "descriptionRU": "Структура для размещения огня в здании.",
+        "descriptionDE": "Eine Struktur zum Beherbergen eines Feuers in einem Gebäude."
+    }, {
+        "de": "die Sonne",
+        "en": "Sun",
+        "ru": "Солнце",
+        "descriptionEN": "The star around which the earth orbits.",
+        "descriptionRU": "Звезда, вокруг которой вращается Земля.",
+        "descriptionDE": "Der Stern, um den die Erde kreist."
+    }, {
+        "de": "der Alltagslärm",
+        "en": "Everyday noise",
+        "ru": "Повседневный шум",
+        "descriptionEN": "The usual background noise of daily life.",
+        "descriptionRU": "Обычный фоновый шум повседневной жизни.",
+        "descriptionDE": "Der übliche Hintergrundgeräusch des täglichen Lebens."
+    }, {
+        "de": "die Zeit",
+        "en": "Time",
+        "ru": "Время",
+        "descriptionEN": "The indefinite continued progress of existence.",
+        "descriptionRU": "Неопределённый продолженный процесс существования.",
+        "descriptionDE": "Der unbestimmte kontinuierliche Fortschritt der Existenz."
+    }, {
+        "de": "entspannen",
+        "en": "To relax",
+        "ru": "Расслабляться",
+        "descriptionEN": "To make or become less tense or anxious.",
+        "descriptionRU": "Сделать или стать менее напряжённым или тревожным.",
+        "descriptionDE": "Sich weniger angespannt oder besorgt fühlen."
+    }, {
+        "de": "suchen",
+        "en": "To search",
+        "ru": "Искать",
+        "descriptionEN": "To try to find something.",
+        "descriptionRU": "Попытаться найти что-то.",
+        "descriptionDE": "Versuchen, etwas zu finden."
+    }, {
+        "de": "schauen",
+        "en": "To look",
+        "ru": "Смотреть",
+        "descriptionEN": "To direct one's gaze in a particular direction.",
+        "descriptionRU": "Направить взгляд в определённом направлении.",
+        "descriptionDE": "Seinen Blick in eine bestimmte Richtung richten."
+    }, {
+        "de": "lächeln",
+        "en": "To smile",
+        "ru": "Улыбаться",
+        "descriptionEN": "To make a facial expression of happiness or amusement.",
+        "descriptionRU": "Сделать выражение лица счастья или удовольствия.",
+        "descriptionDE": "Ein Gesichtsausdruck von Glück oder Vergnügen machen."
+    }, {
+        "de": "überwältigen",
+        "en": "To overwhelm",
+        "ru": "Переполнять",
+        "descriptionEN": "To affect someone very strongly or suddenly.",
+        "descriptionRU": "Влиять на кого-то очень сильно или внезапно.",
+        "descriptionDE": "Jemanden sehr stark oder plötzlich beeinflussen."
+    }, {
+        "de": "ruhig",
+        "en": "Quiet",
+        "ru": "Тихий",
+        "descriptionEN": "Making little or no noise.",
+        "descriptionRU": "Создающий мало или никакого шума.",
+        "descriptionDE": "Wenig oder keinen Lärm machen."
+    }, {
+        "de": "gemütlich",
+        "en": "Cozy",
+        "ru": "Уютный",
+        "descriptionEN": "Providing a feeling of comfort and warmth.",
+        "descriptionRU": "Обеспечивающий ощущение комфорта и тепла.",
+        "descriptionDE": "Ein Gefühl von Komfort und Wärme bieten."
+    }, {
+        "de": "wundervoll",
+        "en": "Wonderful",
+        "ru": "Чудесный",
+        "descriptionEN": "Inspiring delight or admiration.",
+        "descriptionRU": "Вдохновляющий восторг или восхищение.",
+        "descriptionDE": "Begeisterung oder Bewunderung hervorrufend."
+    }, {
+        "de": "fantastisch",
+        "en": "Fantastic",
+        "ru": "Фантастический",
+        "descriptionEN": "Extraordinarily good or impressive.",
+        "descriptionRU": "Необыкновенно хороший или впечатляющий.",
+        "descriptionDE": "Außergewöhnlich gut oder beeindruckend."
+    }, {
+        "de": "einfach",
+        "en": "Simple",
+        "ru": "Простой",
+        "descriptionEN": "Easily understood or done.",
+        "descriptionRU": "Легко понимаемый или выполненный.",
+        "descriptionDE": "Leicht zu verstehen oder zu tun."
+    }
+]

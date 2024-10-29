@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wie ist das Wetter heute? – ____ sonnig.",
+        "answers": [
+            {
+                "text": "Es heute ist",
+                "correct": false
+            }, {
+                "text": "Heute ist es",
+                "correct": true
+            }, {
+                "text": "Heute es ist",
+                "correct": false
+            }, {
+                "text": "Es ist heute",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "War es schön im Park? – Ja, danke, wir ____ viel Spaß.",
+        "answers": [
+            {
+                "text": "hatten",
+                "correct": true
+            }, {
+                "text": "waren",
+                "correct": false
+            }, {
+                "text": "haben",
+                "correct": false
+            }, {
+                "text": "sind",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was brauchen wir für das Kinderzimmer? – Wir kaufen ____ Tisch",
+        "answers": [
+            {
+                "text": "eine",
+                "correct": false
+            }, {
+                "text": "einen",
+                "correct": true
+            }, {
+                "text": "kein",
+                "correct": false
+            }, {
+                "text": "ein",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Magst du morgen mit uns ins Kino? – Nein, leider _____ ich morgen arbeiten.",
+        "answers": [
+            {
+                "text": "möchte",
+                "correct": false
+            }, {
+                "text": "kann",
+                "correct": false
+            }, {
+                "text": "will",
+                "correct": false
+            }, {
+                "text": "muss",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Ich fahre um 08:00 Uhr. Und wann _____ du? – Ich fahre um 08:30 Uhr los.",
+        "answers": [
+            {
+                "text": "fahrt",
+                "correct": false
+            }, {
+                "text": "fährst",
+                "correct": true
+            }, {
+                "text": "fahre",
+                "correct": false
+            }, {
+                "text": "fahren",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Entschuldigung, wo sind hier die Toiletten? – ____ die Treppe runter und dann links. – Vielen Dank!",
+        "answers": [
+            {
+                "text": "Hier Sie gehen",
+                "correct": false
+            }, {
+                "text": "Gehen Sie hier",
+                "correct": false
+            }, {
+                "text": "Hier gehen",
+                "correct": false
+            }, {
+                "text": "Gehen Sie die Treppe runter und dann links.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Hallo, Herr Truman. _____ ? – Danke, gut. Und Ihnen?",
+        "answers": [
+            {
+                "text": "Wie heißt du",
+                "correct": false
+            }, {
+                "text": "Wie geht es Ihnen",
+                "correct": true
+            }, {
+                "text": "Wie gehen",
+                "correct": false
+            }, {
+                "text": "Wie geht es dir",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Isst du gern Eis? – Ja, ich _____ Eis",
+        "answers": [
+            {
+                "text": "mache",
+                "correct": false
+            }, {
+                "text": "kaufe",
+                "correct": false
+            }, {
+                "text": "mag",
+                "correct": true
+            }, {
+                "text": "suche",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Könnte ich mal bitte Ihr Telefon benutzen? – Ja, _____ . – Danke sehr",
+        "answers": [
+            {
+                "text": "hier bitte, gerne",
+                "correct": true
+            }, {
+                "text": "danke Ihnen",
+                "correct": false
+            }, {
+                "text": "bitte nicht",
+                "correct": false
+            }, {
+                "text": "ich telefoniere",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich komme aus Italien. Und _____ kommen Sie? – Ich komme aus Deutschland.",
+        "answers": [
+            {
+                "text": "was",
+                "correct": false
+            }, {
+                "text": "woher",
+                "correct": true
+            }, {
+                "text": "wo",
+                "correct": false
+            }, {
+                "text": "wer",
+                "correct": false
+            }
+        ]
+    }
+]

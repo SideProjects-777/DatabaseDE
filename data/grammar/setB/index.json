@@ -1,16 +1,5 @@
 [
-    {
-        "name": "der / die / das",
-        "description": {
-            "en": "Articles",
-            "de": "Artikel",
-            "ru": "Aртикли"
-        },
-        "file": "article.json",
-        "level": "A1",
-        "icon": "robot-confused",
-        "iconFamily": "MaterialCommunityIcons"
-    }, {
+     {
         "name": "die Kinder",
         "description": {
             "en": "Nominative",
@@ -32,8 +21,7 @@
         "level": "A2",
         "icon": "bookmark-box-multiple",
         "iconFamily": "MaterialCommunityIcons"
-    },
-    {
+    }, {
         "name": "Grün?? Salat",
         "description": {
             "en": "Adjective declensions",
@@ -44,5 +32,16 @@
         "level": "A2",
         "icon": "select-all",
         "iconFamily": "MaterialIcons"
+    }, {
+        "name": "Leerstellen",
+        "description": {
+            "en": "Fill in the blanks",
+            "de": "Füllen Sie die Leerstellen aus",
+            "ru": "Заполните пробелы"
+        },
+        "file": "missing.json",
+        "level": "A2",
+        "icon": "puzzle-piece",
+        "iconFamily": "FontAwesome"
     }
 ]
