@@ -31,5 +31,21 @@
         "file": "Highlights.mp3",
         "words": "Highlights.json",
         "yesNo": "Highlights.json"
+    }, {
+        "name": {
+            "en": "Medieval Beilstein",
+            "de": "Mittelalterliches Beilstein",
+            "ru": "Средневековый Бейльштайн"
+        },
+        "description": {
+            "en": "Historical charm",
+            "de": "Historischer Charme",
+            "ru": "Историческое очарование"
+        },
+        "level": "B1",
+        "image": "Beilstein.jpg",
+        "file": "Beilstein.mp3",
+        "words": "Beilstein.json",
+        "multi": "Beilstein.json"
     }
 ]
