@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wofür ist das Moselweinfest bekannt?",
+        "answers": [
+            {
+                "text": "Für seine Sportveranstaltungen.",
+                "correct": false
+            }, {
+                "text": "Für seine Kunstwerke.",
+                "correct": false
+            }, {
+                "text": "Für seine Weine und Kultur.",
+                "correct": true
+            }, {
+                "text": "Für seine historischen Gebäude.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie lange dauert das Fest?",
+        "answers": [
+            {
+                "text": "Zwei Tage.",
+                "correct": false
+            }, {
+                "text": "Drei Tage.",
+                "correct": false
+            }, {
+                "text": "Fünf Tage.",
+                "correct": true
+            }, {
+                "text": "Eine Woche.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was gibt es im Moseltal zu erleben?",
+        "answers": [
+            {
+                "text": "Sport und Wettkämpfe.",
+                "correct": false
+            }, {
+                "text": "Filmvorführungen.",
+                "correct": false
+            }, {
+                "text": "Wein, Geschichten und Spannung.",
+                "correct": true
+            }, {
+                "text": "Kunstausstellungen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was müssen die Teilnehmer herausfinden?",
+        "answers": [
+            {
+                "text": "Wer der beste Winzer ist.",
+                "correct": false
+            }, {
+                "text": "Wer das beste Essen kocht.",
+                "correct": false
+            }, {
+                "text": "Wer der Mörder ist.",
+                "correct": true
+            }, {
+                "text": "Wer die meisten Weine probiert hat.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Veranstaltung ist das Krimidinner?",
+        "answers": [
+            {
+                "text": "Eine Tanzveranstaltung.",
+                "correct": false
+            }, {
+                "text": "Ein Sportevent.",
+                "correct": false
+            }, {
+                "text": "Eine Kunstausstellung.",
+                "correct": false
+            }, {
+                "text": "Eine unterhaltsame Art, Wein zu probieren.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was können die Gäste während des Festes tun?",
+        "answers": [
+            {
+                "text": "Tanzen.",
+                "correct": false
+            }, {
+                "text": "Musik hören.",
+                "correct": false
+            }, {
+                "text": "Filme schauen.",
+                "correct": false
+            }, {
+                "text": "Wein probieren.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wie wird die Veranstaltung unterhaltsamer?",
+        "answers": [
+            {
+                "text": "Durch die Musik.",
+                "correct": false
+            }, {
+                "text": "Durch die Anzahl der Weine.",
+                "correct": false
+            }, {
+                "text": "Durch die Kleidung der Teilnehmer.",
+                "correct": true
+            }, {
+                "text": "Durch das Wetter.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das Ziel der Teams?",
+        "answers": [
+            {
+                "text": "Das Rätsel zu lösen.",
+                "correct": true
+            }, {
+                "text": "Die meisten Weine zu kosten.",
+                "correct": false
+            }, {
+                "text": "Den Festumzug zu gewinnen.",
+                "correct": false
+            }, {
+                "text": "Die beste Kleidung zu tragen.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist eine tolle Art, etwas über die Kultur zu erfahren?",
+        "answers": [
+            {
+                "text": "Das Krimidinner auf dem Moselweinfest.",
+                "correct": true
+            }, {
+                "text": "Eine Weinprobe im Restaurant.",
+                "correct": false
+            }, {
+                "text": "Ein Kinobesuch.",
+                "correct": false
+            }, {
+                "text": "Ein Museumsausflug.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Für wen ist das Fest perfekt?",
+        "answers": [
+            {
+                "text": "Für Sportler und Tänzer.",
+                "correct": false
+            }, {
+                "text": "Für Künstler und Musiker.",
+                "correct": false
+            }, {
+                "text": "Für Weinliebhaber und Krimifans.",
+                "correct": true
+            }, {
+                "text": "Für Geschichtenerzähler.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Murder Mystery",
+            "de": "Mordrätsel",
+            "ru": "Убийственное расследование"
+        },
+        "description": {
+            "en": "Thrilling wine festival",
+            "de": "Aufregendes Weinfest",
+            "ru": "Увлекательный винный фестиваль"
+        },
+        "level": "A2",
+        "image": "Murder.jpg",
+        "file": "Murder.mp3",
+        "words": "Murder.json",
+        "multi": "Murder.json"
+    }, {
+        "name": {
             "en": "Discover Germany",
             "de": "Entdecke Deutschland",
             "ru": "Знакомство с Германией"
