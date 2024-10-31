@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": {
             "en": "Cycling Adventure",
             "de": "Fahrradabenteuer",
@@ -14,5 +15,21 @@
         "file": "Cycling.txt",
         "words": "Cycling.json",
         "yesNo": "Cycling.json"
+    }, {
+        "name": {
+            "en": "Mosel River Crossings",
+            "de": "Moselübergänge",
+            "ru": "Переходы через Мозель"
+        },
+        "description": {
+            "en": "Historical Mosel Bridges",
+            "de": "Historische Moselbrücken",
+            "ru": "Исторические мосты Мозеля"
+        },
+        "level": "B2",
+        "image": "Bridge.jpg",
+        "file": "Bridge.txt",
+        "words": "Bridge.json",
+        "multi": "Bridge.json"
     }
 ]
