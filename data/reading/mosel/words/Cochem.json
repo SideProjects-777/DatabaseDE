@@ -1,0 +1,136 @@
+[
+    {
+        "de": "die Burg",
+        "en": "the castle",
+        "ru": "замок",
+        "descriptionEN": "A large fortified building or set of buildings.",
+        "descriptionRU": "Большое укрепленное здание или комплекс зданий.",
+        "descriptionDE": "Ein großes befestigtes Gebäude oder eine Gruppe von Gebäuden."
+    }, {
+        "de": "der Hügel",
+        "en": "the hill",
+        "ru": "холм",
+        "descriptionEN": "A naturally raised area of land, not as high as a mountain.",
+        "descriptionRU": "Естественно поднятая территория земли, не такая высокая, как гора.",
+        "descriptionDE": "Ein natürlich erhöhter Landbereich, nicht so hoch wie ein Berg."
+    }, {
+        "de": "der Krieg",
+        "en": "the war",
+        "ru": "война",
+        "descriptionEN": "A state of armed conflict between different countries or groups.",
+        "descriptionRU": "Состояние вооруженного конфликта между разными странами или группами.",
+        "descriptionDE": "Ein Zustand bewaffneter Konflikte zwischen verschiedenen Ländern oder Gruppen."
+    }, {
+        "de": "der Wiederaufbau",
+        "en": "the reconstruction",
+        "ru": "восстановление",
+        "descriptionEN": "The process of rebuilding or restoring something.",
+        "descriptionRU": "Процесс восстановления или восстановления чего-либо.",
+        "descriptionDE": "Der Prozess des Wiederaufbaus oder der Wiederherstellung von etwas."
+    }, {
+        "de": "das Aussehen",
+        "en": "the appearance",
+        "ru": "внешний вид",
+        "descriptionEN": "The way that someone or something looks.",
+        "descriptionRU": "То, как кто-то или что-то выглядит.",
+        "descriptionDE": "Die Art und Weise, wie jemand oder etwas aussieht."
+    }, {
+        "de": "die Aussicht",
+        "en": "the view",
+        "ru": "вид",
+        "descriptionEN": "What can be seen from a particular place.",
+        "descriptionRU": "То, что можно увидеть из определенного места.",
+        "descriptionDE": "Was von einem bestimmten Ort aus zu sehen ist."
+    }, {
+        "de": "die Führung",
+        "en": "the tour",
+        "ru": "экскурсия",
+        "descriptionEN": "A guided visit to a place.",
+        "descriptionRU": "Экскурсия с гидом по какому-либо месту.",
+        "descriptionDE": "Ein geführter Besuch an einem Ort."
+    }, {
+        "de": "der Weinberg",
+        "en": "the vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "An area of land where grapevines are grown for winemaking.",
+        "descriptionRU": "Участок земли, на котором выращиваются виноградные лозы для производства вина.",
+        "descriptionDE": "Ein Gebiet, in dem Weinreben für die Weinherstellung angebaut werden."
+    }, {
+        "de": "die Kunst",
+        "en": "the art",
+        "ru": "искусство",
+        "descriptionEN": "The expression of human creativity, typically in visual form.",
+        "descriptionRU": "Выражение человеческого творчества, обычно в визуальной форме.",
+        "descriptionDE": "Der Ausdruck menschlicher Kreativität, typischerweise in visueller Form."
+    }, {
+        "de": "bauen",
+        "en": "to build",
+        "ru": "строить",
+        "descriptionEN": "To construct something by putting parts or material together.",
+        "descriptionRU": "Создавать что-то, соединяя части или материалы.",
+        "descriptionDE": "Etwas konstruieren, indem man Teile oder Material zusammenfügt."
+    }, {
+        "de": "zerstören",
+        "en": "to destroy",
+        "ru": "уничтожать",
+        "descriptionEN": "To cause something to no longer exist.",
+        "descriptionRU": "Заставить что-то перестать существовать.",
+        "descriptionDE": "Etwas dazu bringen, nicht mehr zu existieren."
+    }, {
+        "de": "erfahren",
+        "en": "to learn",
+        "ru": "узнавать",
+        "descriptionEN": "To gain knowledge or skill through experience or education.",
+        "descriptionRU": "Приобретать знания или навыки через опыт или образование.",
+        "descriptionDE": "Wissen oder Fähigkeiten durch Erfahrung oder Ausbildung erwerben."
+    }, {
+        "de": "erreichen",
+        "en": "to reach",
+        "ru": "достигать",
+        "descriptionEN": "To arrive at a place or achieve something.",
+        "descriptionRU": "Добраться до места или достичь чего-то.",
+        "descriptionDE": "An einem Ort ankommen oder etwas erreichen."
+    }, {
+        "de": "wunderschön",
+        "en": "beautiful",
+        "ru": "прекрасный",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Удовлетворяющий чувства или разум эстетически.",
+        "descriptionDE": "Die Sinne oder den Verstand ästhetisch erfreuen."
+    }, {
+        "de": "mittelalterlich",
+        "en": "medieval",
+        "ru": "средневековый",
+        "descriptionEN": "Relating to the Middle Ages.",
+        "descriptionRU": "Относящийся к средним векам.",
+        "descriptionDE": "Im Zusammenhang mit dem Mittelalter."
+    }, {
+        "de": "glitzernd",
+        "en": "sparkling",
+        "ru": "блестящий",
+        "descriptionEN": "Shining with a bright, shimmering, reflected light.",
+        "descriptionRU": "Сияющий ярким, мерцающим отраженным светом.",
+        "descriptionDE": "Mit einem hellen, schimmernden, reflektierten Licht strahlend."
+    }, {
+        "de": "prächtig",
+        "en": "magnificent",
+        "ru": "великолепный",
+        "descriptionEN": "Extremely beautiful and impressive.",
+        "descriptionRU": "Чрезвычайно красивый и впечатляющий.",
+        "descriptionDE": "Äußerst schön und beeindruckend."
+    }, {
+        "de": "märchenhaft",
+        "en": "fairy-tale",
+        "ru": "сказочный",
+        "descriptionEN": "Like a fairy tale; enchanting and magical.",
+        "descriptionRU": "Как в сказке; очаровательный и волшебный.",
+        "descriptionDE": "Wie ein Märchen; bezaubernd und magisch."
+    }, {
+        "de": "traumhaft",
+        "en": "dreamlike",
+        "ru": "сказочный",
+        "descriptionEN": "Having the qualities of a dream; surreal.",
+        "descriptionRU": "Обладающий качествами сна; сюрреалистичный.",
+        "descriptionDE": "Die Eigenschaften eines Traums habend; surreal."
+    }
+]

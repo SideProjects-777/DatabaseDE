@@ -81,6 +81,22 @@
         "yesNo": "Charmante.json"
     }, {
         "name": {
+            "en": "Cochem Castle",
+            "de": "Burg Cochem",
+            "ru": "Замок Кохем"
+        },
+        "description": {
+            "en": "Historic Fortress",
+            "de": "Historische Festung",
+            "ru": "Историческая крепость"
+        },
+        "level": "B1",
+        "image": "Cochem.jpg",
+        "file": "Cochem.txt",
+        "words": "Cochem.json",
+        "multi": "Cochem.json"
+    }, {
+        "name": {
             "en": "Burg Thurant",
             "de": "Burg Thurant",
             "ru": "Замок Турант"
