@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Max fuhr am Sonntagmorgen von Koblenz los.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Burg Rheinfels befindet sich in Cochem.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max machte eine Pause in Lahnstein, um die Aussicht zu genießen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Boppard ist bekannt für seine Weinberge.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Max erreichte St. Goar, bevor er nach Boppard kam.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Cochem hat eine lebendige Atmosphäre mit vielen Restaurants.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Max reiste nach Ediger-Eller, nachdem er in Zell ankam.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Max genoss ein Glas Wein, während er die Kultur kennenlernte.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Dorf Zell ist bekannt für seinen Käse.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Radtour brachte Max viele Erinnerungen.",
+        "tr": true,
+        "fle": false
+    }
+]
