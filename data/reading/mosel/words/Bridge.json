@@ -1,0 +1,101 @@
+[
+    {
+        "de": "der Fluss",
+        "en": "River",
+        "ru": "Река",
+        "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+        "descriptionRU": "Большой природный поток воды, текущий в русле к морю, озеру или другой реке.",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Bett zum Meer, einem See oder einem anderen Fluss fließt."
+    }, {
+        "de": "das Dorf",
+        "en": "Village",
+        "ru": "Деревня",
+        "descriptionEN": "A small settlement in a rural area, typically smaller than a town.",
+        "descriptionRU": "Небольшое населённое пункт в сельской местности, обычно меньше города.",
+        "descriptionDE": "Eine kleine Siedlung in ländlichen Gebieten, typischerweise kleiner als eine Stadt."
+    }, {
+        "de": "das Bauwerk",
+        "en": "Building",
+        "ru": "Здание",
+        "descriptionEN": "A structure with a roof and walls, such as a house or factory.",
+        "descriptionRU": "Сооружение с крышей и стенами, например, дом или фабрика.",
+        "descriptionDE": "Ein Gebäude mit einem Dach und Wänden, wie ein Haus oder eine Fabrik."
+    }, {
+        "de": "die Umgebung",
+        "en": "Surroundings",
+        "ru": "Окружение",
+        "descriptionEN": "The area around a particular place.",
+        "descriptionRU": "Область вокруг определенного места.",
+        "descriptionDE": "Der Bereich um einen bestimmten Ort herum."
+    }, {
+        "de": "die Landschaft",
+        "en": "Landscape",
+        "ru": "Пейзаж",
+        "descriptionEN": "All the visible features of an area of land, often considered in terms of aesthetic appeal.",
+        "descriptionRU": "Все видимые характеристики области земли, часто рассматриваемые с точки зрения эстетической привлекательности.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs, oft im Hinblick auf die ästhetische Anziehungskraft betrachtet."
+    }, {
+        "de": "der Verkehr",
+        "en": "Traffic",
+        "ru": "Движение",
+        "descriptionEN": "The movement of vehicles, people, or goods in an area.",
+        "descriptionRU": "Движение транспортных средств, людей или товаров в определенной области.",
+        "descriptionDE": "Die Bewegung von Fahrzeugen, Personen oder Waren in einem Gebiet."
+    }, {
+        "de": "die Rolle",
+        "en": "Role",
+        "ru": "Роль",
+        "descriptionEN": "The function or position that something has in a particular situation.",
+        "descriptionRU": "Функция или положение, которое что-то имеет в конкретной ситуации.",
+        "descriptionDE": "Die Funktion oder Position, die etwas in einer bestimmten Situation hat."
+    }, {
+        "de": "der Blick",
+        "en": "View",
+        "ru": "Вид",
+        "descriptionEN": "The ability to see something or to be seen.",
+        "descriptionRU": "Способность видеть что-то или быть увиденным.",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen oder gesehen zu werden."
+    }, {
+        "de": "die Erkundung",
+        "en": "Exploration",
+        "ru": "Исследование",
+        "descriptionEN": "The act of traveling through an unfamiliar area to learn about it.",
+        "descriptionRU": "Действие путешествия по незнакомой местности для ее изучения.",
+        "descriptionDE": "Die Handlung, durch ein unbekanntes Gebiet zu reisen, um es kennenzulernen."
+    }, {
+        "de": "der Handel",
+        "en": "Trade",
+        "ru": "Торговля",
+        "descriptionEN": "The action of buying and selling goods and services.",
+        "descriptionRU": "Действие покупки и продажи товаров и услуг.",
+        "descriptionDE": "Die Handlung des Kaufs und Verkaufs von Waren und Dienstleistungen."
+    }, {
+        "de": "verbinden",
+        "en": "Connect",
+        "ru": "Соединять",
+        "descriptionEN": "To join together or link.",
+        "descriptionRU": "Соединять вместе или связывать.",
+        "descriptionDE": "Zusammenfügen oder verbinden."
+    }, {
+        "de": "spielen",
+        "en": "Play",
+        "ru": "Играть",
+        "descriptionEN": "To engage in activity for enjoyment and recreation.",
+        "descriptionRU": "Заниматься деятельностью для удовольствия и отдыха.",
+        "descriptionDE": "Aktiv sein, um Spaß und Erholung zu haben."
+    }, {
+        "de": "erleben",
+        "en": "Experience",
+        "ru": "Испытать",
+        "descriptionEN": "To encounter or undergo an event.",
+        "descriptionRU": "Столкнуться или пройти через событие.",
+        "descriptionDE": "Ein Ereignis erleben oder durchleben."
+    }, {
+        "de": "zeigen",
+        "en": "Show",
+        "ru": "Показать",
+        "descriptionEN": "To present or display something.",
+        "descriptionRU": "Представить или показать что-то.",
+        "descriptionDE": "Etwas präsentieren oder zeigen."
+    }
+]

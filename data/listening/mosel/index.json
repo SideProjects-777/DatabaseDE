@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Murder Mystery",
+            "de": "Mordrätsel",
+            "ru": "Расследование убийства"
+        },
+        "description": {
+            "en": "Thrilling wine festival",
+            "de": "Aufregendes Weinfest",
+            "ru": "Увлекательный винный фестиваль"
+        },
+        "level": "A2",
+        "image": "Murder.jpg",
+        "file": "Murder.mp3",
+        "words": "Murder.json",
+        "multi": "Murder.json"
+    }, {
+        "name": {
             "en": "Discover Germany",
             "de": "Entdecke Deutschland",
             "ru": "Знакомство с Германией"
@@ -47,5 +63,21 @@
         "file": "Beilstein.mp3",
         "words": "Beilstein.json",
         "multi": "Beilstein.json"
+    }, {
+        "name": {
+            "en": "Cuisine Highlights",
+            "de": "Küchen-Highlights",
+            "ru": "Блюда Мозеля"
+        },
+        "description": {
+            "en": "Discover local dishes",
+            "de": "Entdecken Sie lokale Gerichte",
+            "ru": "Откройте местные блюда"
+        },
+        "level": "B1",
+        "image": "Cuisine.jpg",
+        "file": "Cuisine.mp3",
+        "words": "Cuisine.json",
+        "yesNo": "Cuisine.json"
     }
 ]

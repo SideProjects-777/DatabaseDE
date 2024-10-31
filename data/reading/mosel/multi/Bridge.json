@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was ist die Mosel bekannt für?",
+        "answers": [
+            {
+                "text": "Für seine Skigebiete.",
+                "correct": false
+            }, {
+                "text": "Für seine Weinberge und Dörfer.",
+                "correct": true
+            }, {
+                "text": "Für seine großen Städte.",
+                "correct": false
+            }, {
+                "text": "Für seine Strände.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Jahr wurde die Alte Moselbrücke gebaut?",
+        "answers": [
+            {
+                "text": "Um 200 n. Chr.",
+                "correct": true
+            }, {
+                "text": "Um 100 n. Chr.",
+                "correct": false
+            }, {
+                "text": "Um 300 n. Chr.",
+                "correct": false
+            }, {
+                "text": "Um 500 n. Chr.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Bauwerk ist in Trier?",
+        "answers": [
+            {
+                "text": "Die Briedeler Brücke.",
+                "correct": false
+            }, {
+                "text": "Die Koblenzer Brücke.",
+                "correct": false
+            }, {
+                "text": "Die Alte Moselbrücke.",
+                "correct": true
+            }, {
+                "text": "Die Pündericher Brücke.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Blick wird von der Moselbrücke in Cochem geboten?",
+        "answers": [
+            {
+                "text": "Auf die Burg Cochem.",
+                "correct": true
+            }, {
+                "text": "Auf das Meer.",
+                "correct": false
+            }, {
+                "text": "Auf die Alpen.",
+                "correct": false
+            }, {
+                "text": "Auf die Stadt Trier.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo liegt die Pündericher Brücke?",
+        "answers": [
+            {
+                "text": "In der Stadt Koblenz.",
+                "correct": false
+            }, {
+                "text": "In Cochem.",
+                "correct": false
+            }, {
+                "text": "In Trier.",
+                "correct": false
+            }, {
+                "text": "Im Dorf Pünderich.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was verbindet die Briedeler Brücke?",
+        "answers": [
+            {
+                "text": "Die Städte Cochem und Bruttig-Fankel.",
+                "correct": false
+            }, {
+                "text": "Die Städte Koblenz und Trier.",
+                "correct": false
+            }, {
+                "text": "Die Städte Briedel und Enkirch.",
+                "correct": true
+            }, {
+                "text": "Die Dörfer Pünderich und Cochem.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist die Koblenzer Brücke?",
+        "answers": [
+            {
+                "text": "Ein modernes Wunderwerk.",
+                "correct": true
+            }, {
+                "text": "Eine alte Ruine.",
+                "correct": false
+            }, {
+                "text": "Eine Fußgängerbrücke.",
+                "correct": false
+            }, {
+                "text": "Ein Kunstwerk.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bietet eine Reise entlang der Mosel?",
+        "answers": [
+            {
+                "text": "Ein stressiges Abenteuer.",
+                "correct": false
+            }, {
+                "text": "Eine lange Autofahrt.",
+                "correct": false
+            }, {
+                "text": "Eine langweilige Reise.",
+                "correct": false
+            }, {
+                "text": "Ein unvergessliches Erlebnis.",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was wird an der Pündericher Brücke angeboten?",
+        "answers": [
+            {
+                "text": "Internationale Küche.",
+                "correct": false
+            }, {
+                "text": "Berühmte Moselweine.",
+                "correct": true
+            }, {
+                "text": "Bergwanderungen.",
+                "correct": false
+            }, {
+                "text": "Skikurse.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Für wen ist eine Reise entlang der Mosel gedacht?",
+        "answers": [
+            {
+                "text": "Für Sportler.",
+                "correct": false
+            }, {
+                "text": "Für Stadtbewohner.",
+                "correct": false
+            }, {
+                "text": "Für Geschichts-, Natur- oder Weinliebhaber.",
+                "correct": true
+            }, {
+                "text": "Für Technikbegeisterte.",
+                "correct": false
+            }
+        ]
+    }
+]

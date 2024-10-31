@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo befindet sich die Burg Cochem?",
+        "answers": [
+            {
+                "text": "In einer Großstadt",
+                "correct": false
+            }, {
+                "text": "Am Rhein",
+                "correct": false
+            }, {
+                "text": "Über der Stadt Cochem",
+                "correct": true
+            }, {
+                "text": "In den Alpen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann wurde die Burg Cochem erbaut?",
+        "answers": [
+            {
+                "text": "Im Jahr 500",
+                "correct": false
+            }, {
+                "text": "Um das Jahr 1000",
+                "correct": true
+            }, {
+                "text": "Im Jahr 1200",
+                "correct": false
+            }, {
+                "text": "Im Jahr 1500",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wer hat die Burg im 19. Jahrhundert wieder aufgebaut?",
+        "answers": [
+            {
+                "text": "Ein amerikanischer Architekt",
+                "correct": false
+            }, {
+                "text": "Ein deutscher König",
+                "correct": false
+            }, {
+                "text": "Louis Fréderic Jacques Ravené",
+                "correct": true
+            }, {
+                "text": "Ein berühmter Maler",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Stil wurde die Burg Cochem wieder aufgebaut?",
+        "answers": [
+            {
+                "text": "Romanischer Stil",
+                "correct": false
+            }, {
+                "text": "Neugotischer Stil",
+                "correct": true
+            }, {
+                "text": "Barocker Stil",
+                "correct": false
+            }, {
+                "text": "Moderne Architektur",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kann man in der Burg Cochem sehen?",
+        "answers": [
+            {
+                "text": "Renaissance- und Barockmöbel",
+                "correct": true
+            }, {
+                "text": "Moderne Kunst",
+                "correct": false
+            }, {
+                "text": "Einen Zoo",
+                "correct": false
+            }, {
+                "text": "Einen großen Park",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie lange dauert es, um von Cochem zum Schloss zu laufen?",
+        "answers": [
+            {
+                "text": "5–10 Minuten",
+                "correct": false
+            }, {
+                "text": "15–20 Minuten",
+                "correct": true
+            }, {
+                "text": "30–40 Minuten",
+                "correct": false
+            }, {
+                "text": "1 Stunde",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist die Burg Cochem bekannt für?",
+        "answers": [
+            {
+                "text": "Ihre modernen Ausstellungen",
+                "correct": false
+            }, {
+                "text": "Ihr großer Zoo",
+                "correct": false
+            }, {
+                "text": "Ihre Weinberge",
+                "correct": true
+            }, {
+                "text": "Ihre Freizeitparks",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie kann man zur Burg Cochem gelangen?",
+        "answers": [
+            {
+                "text": "Nur zu Fuß",
+                "correct": false
+            }, {
+                "text": "Nur mit dem Auto",
+                "correct": false
+            }, {
+                "text": "Nur mit dem Flugzeug",
+                "correct": false
+            }, {
+                "text": "Mit dem Zug und dann zu Fuß",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wann wurde die Burg Cochem zerstört?",
+        "answers": [
+            {
+                "text": "Im Jahr 1589",
+                "correct": false
+            }, {
+                "text": "Im Jahr 1689",
+                "correct": true
+            }, {
+                "text": "Im Jahr 1700",
+                "correct": false
+            }, {
+                "text": "Im Jahr 1800",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Führungen werden angeboten?",
+        "answers": [
+            {
+                "text": "Ungeführte Besichtigungen",
+                "correct": false
+            }, {
+                "text": "Liebevoll gestaltete Führungen",
+                "correct": true
+            }, {
+                "text": "Online-Führungen",
+                "correct": false
+            }, {
+                "text": "Kurze Rundgänge",
+                "correct": false
+            }
+        ]
+    }
+]

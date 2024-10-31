@@ -1,0 +1,143 @@
+[
+    {
+        "de": "das Abenteuer",
+        "en": "Adventure",
+        "ru": "Приключение",
+        "descriptionEN": "An unusual and exciting experience.",
+        "descriptionRU": "Необычный и захватывающий опыт.",
+        "descriptionDE": "Ein ungewöhnliches und spannendes Erlebnis."
+    }, {
+        "de": "das Fahrrad",
+        "en": "Bicycle",
+        "ru": "Велосипед",
+        "descriptionEN": "A vehicle composed of two wheels held in a frame.",
+        "descriptionRU": "Транспортное средство, состоящее из двух колес, удерживаемых в раме.",
+        "descriptionDE": "Ein Fahrzeug, das aus zwei Rädern besteht und in einem Rahmen gehalten wird."
+    }, {
+        "de": "der Fluss",
+        "en": "River",
+        "ru": "Река",
+        "descriptionEN": "A large natural stream of water flowing in a channel.",
+        "descriptionRU": "Большой природный поток воды, текущий в русле.",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt."
+    }, {
+        "de": "die Aussicht",
+        "en": "View",
+        "ru": "Вид",
+        "descriptionEN": "The ability to see something, especially a landscape.",
+        "descriptionRU": "Способность видеть что-то, особенно пейзаж.",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen, insbesondere eine Landschaft."
+    }, {
+        "de": "die Burg",
+        "en": "Castle",
+        "ru": "Замок",
+        "descriptionEN": "A large building fortified against attack.",
+        "descriptionRU": "Большое здание, укрепленное против атак.",
+        "descriptionDE": "Ein großes Gebäude, das gegen Angriffe befestigt ist."
+    }, {
+        "de": "das Dorf",
+        "en": "Village",
+        "ru": "Деревня",
+        "descriptionEN": "A small settlement, typically rural.",
+        "descriptionRU": "Небольшое населённое место, обычно сельское.",
+        "descriptionDE": "Eine kleine Siedlung, typischerweise ländlich."
+    }, {
+        "de": "die Erinnerung",
+        "en": "Memory",
+        "ru": "Память",
+        "descriptionEN": "The faculty by which the mind stores and remembers information.",
+        "descriptionRU": "Способность ума хранить и запоминать информацию.",
+        "descriptionDE": "Die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern."
+    }, {
+        "de": "die Gasse",
+        "en": "Alley",
+        "ru": "Переулок",
+        "descriptionEN": "A narrow passageway between buildings.",
+        "descriptionRU": "Узкий проход между зданиями.",
+        "descriptionDE": "Ein schmaler Durchgang zwischen Gebäuden."
+    }, {
+        "de": "die Landschaft",
+        "en": "Landscape",
+        "ru": "Пейзаж",
+        "descriptionEN": "All the visible features of an area of land.",
+        "descriptionRU": "Все видимые особенности области земли.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landbereichs."
+    }, {
+        "de": "bewundern",
+        "en": "To admire",
+        "ru": "Восхищаться",
+        "descriptionEN": "To regard with respect or warm approval.",
+        "descriptionRU": "Смотреть с уважением или теплым одобрением.",
+        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten."
+    }, {
+        "de": "schlendern",
+        "en": "To stroll",
+        "ru": "Гулять",
+        "descriptionEN": "To walk in a leisurely way.",
+        "descriptionRU": "Гулять неторопливо.",
+        "descriptionDE": "Langsam und entspannt gehen."
+    }, {
+        "de": "fließen",
+        "en": "To flow",
+        "ru": "Течь",
+        "descriptionEN": "To move steadily and continuously in a current.",
+        "descriptionRU": "Двигаться постоянно и непрерывно по течению.",
+        "descriptionDE": "Stetig und kontinuierlich in einem Strom bewegen."
+    }, {
+        "de": "erreichen",
+        "en": "To reach",
+        "ru": "Достигать",
+        "descriptionEN": "To arrive at a destination.",
+        "descriptionRU": "Прибыть к месту назначения.",
+        "descriptionDE": "An einem Ziel ankommen."
+    }, {
+        "de": "freuen",
+        "en": "To rejoice",
+        "ru": "Радоваться",
+        "descriptionEN": "To feel joy or great delight.",
+        "descriptionRU": "Чувствовать радость или большое удовольствие.",
+        "descriptionDE": "Freude oder großes Vergnügen empfinden."
+    }, {
+        "de": "untergehen",
+        "en": "To set",
+        "ru": "Садиться",
+        "descriptionEN": "To go down below the horizon.",
+        "descriptionRU": "Опуститься ниже горизонта.",
+        "descriptionDE": "Unter den Horizont gehen."
+    }, {
+        "de": "schmecken",
+        "en": "To taste",
+        "ru": "Пробовать",
+        "descriptionEN": "To perceive the flavor of something.",
+        "descriptionRU": "Воспринимать вкус чего-либо.",
+        "descriptionDE": "Den Geschmack von etwas wahrnehmen."
+    }, {
+        "de": "lebendig",
+        "en": "Lively",
+        "ru": "Живой",
+        "descriptionEN": "Full of life and energy.",
+        "descriptionRU": "Полный жизни и энергии.",
+        "descriptionDE": "Voll von Leben und Energie."
+    }, {
+        "de": "malerisch",
+        "en": "Picturesque",
+        "ru": "Живописный",
+        "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
+        "descriptionRU": "Визуально привлекательный, особенно в старомодном или очаровательном смысле.",
+        "descriptionDE": "Visuell ansprechend, besonders in einer malerischen oder charmanten Weise."
+    }, {
+        "de": "traumhaft",
+        "en": "Dreamlike",
+        "ru": "Сказочный",
+        "descriptionEN": "Having the qualities of a dream.",
+        "descriptionRU": "Имеющий качества сна.",
+        "descriptionDE": "Die Eigenschaften eines Traums habend."
+    }, {
+        "de": "wundervoll",
+        "en": "Wonderful",
+        "ru": "Замечательный",
+        "descriptionEN": "Inspiring delight or pleasure.",
+        "descriptionRU": "Вдохновляющий восторг или удовольствие.",
+        "descriptionDE": "Freude oder Vergnügen inspirierend."
+    }
+]

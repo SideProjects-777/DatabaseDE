@@ -1,0 +1,108 @@
+[
+    {
+        "de": "der Krimi",
+        "en": "Crime",
+        "ru": "Преступление",
+        "descriptionEN": "A fictional narrative involving a crime, typically a mystery.",
+        "descriptionRU": "Вымышленный рассказ, связанный с преступлением, обычно является загадкой.",
+        "descriptionDE": "Eine fiktive Erzählung, die ein Verbrechen betrifft, normalerweise ein Rätsel."
+    }, {
+        "de": "das Feuerwerk",
+        "en": "Fireworks",
+        "ru": "Фейерверк",
+        "descriptionEN": "A display of fireworks for entertainment.",
+        "descriptionRU": "Показ фейерверков для развлечения.",
+        "descriptionDE": "Eine Darbietung von Feuerwerk zur Unterhaltung."
+    }, {
+        "de": "die Teilnehmer",
+        "en": "Participants",
+        "ru": "Участники",
+        "descriptionEN": "People who take part in an event or activity.",
+        "descriptionRU": "Люди, участвующие в событии или деятельности.",
+        "descriptionDE": "Menschen, die an einer Veranstaltung oder Aktivität teilnehmen."
+    }, {
+        "de": "die Kultur",
+        "en": "Culture",
+        "ru": "Культура",
+        "descriptionEN": "The social behavior and norms found in human societies.",
+        "descriptionRU": "Социальное поведение и нормы, присущие человеческим обществам.",
+        "descriptionDE": "Das soziale Verhalten und die Normen, die in menschlichen Gesellschaften zu finden sind."
+    }, {
+        "de": "der Wein",
+        "en": "Wine",
+        "ru": "Вино",
+        "descriptionEN": "An alcoholic drink made from fermented grapes.",
+        "descriptionRU": "Алкогольный напиток, изготовленный из ферментированных винограда.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird."
+    }, {
+        "de": "die Spannung",
+        "en": "Tension",
+        "ru": "Напряжение",
+        "descriptionEN": "Mental or emotional strain or stress.",
+        "descriptionRU": "Психическое или эмоциональное напряжение или стресс.",
+        "descriptionDE": "Mentale oder emotionale Anspannung oder Stress."
+    }, {
+        "de": "das Rätsel",
+        "en": "Puzzle",
+        "ru": "Головоломка",
+        "descriptionEN": "A game or problem that tests ingenuity.",
+        "descriptionRU": "Игра или задача, проверяющая изобретательность.",
+        "descriptionDE": "Ein Spiel oder Problem, das die Einfallsreichtum testet."
+    }, {
+        "de": "der Schauspieler",
+        "en": "Actor",
+        "ru": "Актер",
+        "descriptionEN": "A person who performs in plays, films, or television.",
+        "descriptionRU": "Человек, выступающий в спектаклях, фильмах или телевидении.",
+        "descriptionDE": "Eine Person, die in Theaterstücken, Filmen oder im Fernsehen auftritt."
+    }, {
+        "de": "die Teilnehmerin",
+        "en": "Female participant",
+        "ru": "Участница",
+        "descriptionEN": "A woman who takes part in an event.",
+        "descriptionRU": "Женщина, участвующая в событии.",
+        "descriptionDE": "Eine Frau, die an einer Veranstaltung teilnimmt."
+    }, {
+        "de": "die Kleidung",
+        "en": "Clothing",
+        "ru": "Одежда",
+        "descriptionEN": "Garments worn on the body.",
+        "descriptionRU": "Предметы одежды, носящиеся на теле.",
+        "descriptionDE": "Kleidungsstücke, die am Körper getragen werden."
+    }, {
+        "de": "probieren",
+        "en": "To taste",
+        "ru": "Пробовать",
+        "descriptionEN": "To sample or experience the flavor of something.",
+        "descriptionRU": "Пробовать или испытывать вкус чего-либо.",
+        "descriptionDE": "Etwas kosten oder den Geschmack von etwas erleben."
+    }, {
+        "de": "mischen",
+        "en": "To mix",
+        "ru": "Смешивать",
+        "descriptionEN": "To combine two or more substances or elements.",
+        "descriptionRU": "Объединять два или более вещества или элемента.",
+        "descriptionDE": "Zwei oder mehr Substanzen oder Elemente kombinieren."
+    }, {
+        "de": "tragen",
+        "en": "To wear",
+        "ru": "Носить",
+        "descriptionEN": "To have clothing or accessories on the body.",
+        "descriptionRU": "Иметь одежду или аксессуары на теле.",
+        "descriptionDE": "Kleidung oder Accessoires am Körper haben."
+    }, {
+        "de": "arbeiten",
+        "en": "To work",
+        "ru": "Работать",
+        "descriptionEN": "To engage in physical or mental activity to achieve a purpose.",
+        "descriptionRU": "Заниматься физической или умственной деятельностью для достижения цели.",
+        "descriptionDE": "Sich an körperlicher oder geistiger Arbeit beteiligen, um ein Ziel zu erreichen."
+    }, {
+        "de": "lernen",
+        "en": "To learn",
+        "ru": "Учиться",
+        "descriptionEN": "To acquire knowledge or skill through experience.",
+        "descriptionRU": "Приобретать знания или навыки через опыт.",
+        "descriptionDE": "Wissen oder Fähigkeiten durch Erfahrung erwerben."
+    }
+]

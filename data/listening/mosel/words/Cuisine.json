@@ -1,0 +1,164 @@
+[
+    {
+        "de": "der Wein",
+        "en": "Wine",
+        "ru": "Вино",
+        "descriptionEN": "An alcoholic drink made from fermented grapes or other fruits.",
+        "descriptionRU": "Алкогольный напиток, сделанный из ферментированного винограда или других фруктов.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben oder anderen Früchten hergestellt wird."
+    }, {
+        "de": "die Soße",
+        "en": "Sauce",
+        "ru": "Соус",
+        "descriptionEN": "A liquid or semi-liquid substance served with food to add flavor.",
+        "descriptionRU": "Жидкое или полужидкое вещество, подаваемое с едой для добавления вкуса.",
+        "descriptionDE": "Eine flüssige oder halbfeste Substanz, die zu Speisen gereicht wird, um Geschmack zu verleihen."
+    }, {
+        "de": "das Gericht",
+        "en": "Dish",
+        "ru": "Блюдо",
+        "descriptionEN": "A specific type of prepared food.",
+        "descriptionRU": "Конкретный тип приготовленной еды.",
+        "descriptionDE": "Eine bestimmte Art von zubereiteter Speise."
+    }, {
+        "de": "das Wildbret",
+        "en": "Venison",
+        "ru": "Оленина",
+        "descriptionEN": "Meat from deer, often prepared in various traditional ways.",
+        "descriptionRU": "Мясо оленя, часто приготовленное различными традиционными способами.",
+        "descriptionDE": "Fleisch vom Wild, das oft auf verschiedene traditionelle Weise zubereitet wird."
+    }, {
+        "de": "das Kaninchen",
+        "en": "Rabbit",
+        "ru": "Кролик",
+        "descriptionEN": "A small mammal that is often prepared as food in game dishes.",
+        "descriptionRU": "Маленький млекопитающий, который часто готовится как блюдо из дичи.",
+        "descriptionDE": "Ein kleines Säugetier, das oft als Wildgericht zubereitet wird."
+    }, {
+        "de": "die Zwiebel",
+        "en": "Onion",
+        "ru": "Лук",
+        "descriptionEN": "A pungent bulb used as a vegetable and flavoring in cooking.",
+        "descriptionRU": "Острый луковый корнеплод, используемый как овощ и приправа в кулинарии.",
+        "descriptionDE": "Eine scharfe Zwiebel, die als Gemüse und Gewürz beim Kochen verwendet wird."
+    }, {
+        "de": "das Fleisch",
+        "en": "Meat",
+        "ru": "Мясо",
+        "descriptionEN": "Animal flesh that is used as food.",
+        "descriptionRU": "Плоть животных, которая используется в пищу.",
+        "descriptionDE": "Tierisches Fleisch, das als Nahrung verwendet wird."
+    }, {
+        "de": "der Pilz",
+        "en": "Mushroom",
+        "ru": "Гриб",
+        "descriptionEN": "A fungal growth used in cooking for its flavor.",
+        "descriptionRU": "Грибной рост, используемый в кулинарии за его вкус.",
+        "descriptionDE": "Ein Pilzgewächs, das wegen seines Geschmacks beim Kochen verwendet wird."
+    }, {
+        "de": "das Kraut",
+        "en": "Herb",
+        "ru": "Трава",
+        "descriptionEN": "A plant or plant part used for its flavor, scent, or medicinal properties.",
+        "descriptionRU": "Растение или его часть, используемая за аромат, вкус или лечебные свойства.",
+        "descriptionDE": "Eine Pflanze oder Pflanzenteil, die wegen ihres Geschmacks, Duftes oder medizinischer Eigenschaften verwendet wird."
+    }, {
+        "de": "der Speck",
+        "en": "Bacon",
+        "ru": "Бекон",
+        "descriptionEN": "Cured meat, often from pork, used to add flavor to dishes.",
+        "descriptionRU": "Вяленое мясо, часто свинина, используемое для придания вкуса блюдам.",
+        "descriptionDE": "Gepökeltes Fleisch, oft vom Schwein, das verwendet wird, um Gerichten Geschmack zu verleihen."
+    }, {
+        "de": "das Schweinefleisch",
+        "en": "Pork",
+        "ru": "Свинина",
+        "descriptionEN": "Meat from pigs, widely used in various cuisines.",
+        "descriptionRU": "Мясо свиней, широко используемое в разных кухнях.",
+        "descriptionDE": "Fleisch von Schweinen, das in verschiedenen Küchen verwendet wird."
+    }, {
+        "de": "der Markt",
+        "en": "Market",
+        "ru": "Рынок",
+        "descriptionEN": "A place where goods and services are bought and sold.",
+        "descriptionRU": "Место, где товары и услуги покупаются и продаются.",
+        "descriptionDE": "Ein Ort, an dem Waren und Dienstleistungen gekauft und verkauft werden."
+    }, {
+        "de": "zubereiten",
+        "en": "to prepare",
+        "ru": "готовить",
+        "descriptionEN": "To make food or a meal ready for eating.",
+        "descriptionRU": "Подготовить еду или блюдо к употреблению.",
+        "descriptionDE": "Essen oder eine Mahlzeit zum Verzehr bereitmachen."
+    }, {
+        "de": "grillen",
+        "en": "to grill",
+        "ru": "жарить на гриле",
+        "descriptionEN": "To cook food on a grill or open flame.",
+        "descriptionRU": "Готовить еду на гриле или открытом огне.",
+        "descriptionDE": "Essen auf einem Grill oder über offenem Feuer zubereiten."
+    }, {
+        "de": "servieren",
+        "en": "to serve",
+        "ru": "подавать",
+        "descriptionEN": "To present food or drink for consumption.",
+        "descriptionRU": "Представить еду или напитки для употребления.",
+        "descriptionDE": "Essen oder Getränke zum Verzehr anbieten."
+    }, {
+        "de": "belegen",
+        "en": "to top",
+        "ru": "накрывать",
+        "descriptionEN": "To cover or garnish a dish with an ingredient.",
+        "descriptionRU": "Покрыть или украсить блюдо ингредиентом.",
+        "descriptionDE": "Ein Gericht mit einer Zutat bedecken oder garnieren."
+    }, {
+        "de": "verwenden",
+        "en": "to use",
+        "ru": "использовать",
+        "descriptionEN": "To employ something as a means to an end.",
+        "descriptionRU": "Применять что-то как средство для достижения цели.",
+        "descriptionDE": "Etwas als Mittel zum Zweck verwenden."
+    }, {
+        "de": "kombinieren",
+        "en": "to combine",
+        "ru": "сочетать",
+        "descriptionEN": "To bring together or merge two or more elements.",
+        "descriptionRU": "Соединить или объединить два или более элемента.",
+        "descriptionDE": "Zwei oder mehr Elemente zusammenführen oder verschmelzen."
+    }, {
+        "de": "süß",
+        "en": "sweet",
+        "ru": "сладкий",
+        "descriptionEN": "Having a pleasant sugary taste.",
+        "descriptionRU": "Обладает приятным сладким вкусом.",
+        "descriptionDE": "Mit einem angenehmen zuckerhaltigen Geschmack."
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "Liked or enjoyed by many people.",
+        "descriptionRU": "Любимый или пользующийся популярностью у многих людей.",
+        "descriptionDE": "Von vielen Menschen gemocht oder genossen."
+    }, {
+        "de": "herbstlich",
+        "en": "autumnal",
+        "ru": "осенний",
+        "descriptionEN": "Related to or typical of autumn.",
+        "descriptionRU": "Связано с осенью или типично для нее.",
+        "descriptionDE": "Im Zusammenhang mit dem Herbst oder typisch dafür."
+    }, {
+        "de": "frisch",
+        "en": "fresh",
+        "ru": "свежий",
+        "descriptionEN": "Recently made or obtained, not stale.",
+        "descriptionRU": "Недавно приготовлен или получен, не несвежий.",
+        "descriptionDE": "Kürzlich gemacht oder erhalten, nicht abgestanden."
+    }, {
+        "de": "pikant",
+        "en": "spicy",
+        "ru": "острый",
+        "descriptionEN": "Having a strong, pungent flavor.",
+        "descriptionRU": "Имеет сильный, резкий вкус.",
+        "descriptionDE": "Mit einem starken, würzigen Geschmack."
+    }
+]
