@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Mosel ist bekannt für ihren süßen Riesling.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Flammkuchen ist ein traditionelles Gericht aus Bayern.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Sauerbraten in der Moselregion wird oft in Wein oder Essig eingelegt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Zwiebelkuchen wird hauptsächlich im Sommer serviert.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Forellen und Hechte aus der Mosel werden häufig gegrillt oder geräuchert.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Riesling wird nur als Getränk an der Mosel genossen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Wildgerichte sind in der Moselregion aufgrund der vielen Wälder beliebt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Schweinefleisch ist kein Grundnahrungsmittel in der Moselregion.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Schwenkbraten wird auf Festen und Märkten angeboten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Fischgerichte an der Mosel werden oft mit Spätburgunder kombiniert.",
+        "tr": false,
+        "fle": true
+    }
+]
