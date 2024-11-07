@@ -1,0 +1,137 @@
+[
+
+    {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "A natural watercourse, typically a body of flowing water.",
+        "descriptionRU": "Естественный водоток, обычно поток воды.",
+        "descriptionDE": "Ein natürlicher Wasserlauf, in der Regel fließendes Wasser."
+    }, {
+        "de": "die Avifauna",
+        "en": "avifauna",
+        "ru": "авифауна",
+        "descriptionEN": "The bird species of a particular region.",
+        "descriptionRU": "Птицы, обитающие в определенном регионе.",
+        "descriptionDE": "Die Vogelarten einer bestimmten Region."
+    }, {
+        "de": "der Eisvogel",
+        "en": "kingfisher",
+        "ru": "рикша",
+        "descriptionEN": "A small, brightly colored bird known for its fishing abilities.",
+        "descriptionRU": "Маленькая ярко окрашенная птица, известная своими рыболовными способностями.",
+        "descriptionDE": "Ein kleiner, bunt gefärbter Vogel, bekannt für seine Fischereifähigkeiten."
+    }, {
+        "de": "der Mäusebussard",
+        "en": "buzzard",
+        "ru": "птичий ястреб",
+        "descriptionEN": "A bird of prey that hunts small mammals.",
+        "descriptionRU": "Птица хищник, охотящаяся на мелких млекопитающих.",
+        "descriptionDE": "Ein Raubvogel, der kleine Säugetiere jagt."
+    }, {
+        "de": "der Adler",
+        "en": "eagle",
+        "ru": "орел",
+        "descriptionEN": "A large bird of prey known for its powerful flight and keen eyesight.",
+        "descriptionRU": "Большая хищная птица, известная своей мощной полетной способностью и острым зрением.",
+        "descriptionDE": "Ein großer Raubvogel, bekannt für seinen kraftvollen Flug und scharfen Blick."
+    }, {
+        "de": "der Schwan",
+        "en": "swan",
+        "ru": "лебедь",
+        "descriptionEN": "A large, graceful water bird with a long neck.",
+        "descriptionRU": "Большая, грациозная водная птица с длинной шеей.",
+        "descriptionDE": "Ein großer, anmutiger Wasservogel mit einem langen Hals."
+    }, {
+        "de": "die Libelle",
+        "en": "dragonfly",
+        "ru": "стрекоза",
+        "descriptionEN": "An insect with elongated body and transparent wings.",
+        "descriptionRU": "Насекомое с удлиненным телом и прозрачными крыльями.",
+        "descriptionDE": "Ein Insekt mit langem Körper und durchsichtigen Flügeln."
+    }, {
+        "de": "die Forelle",
+        "en": "trout",
+        "ru": "форель",
+        "descriptionEN": "A type of fish found in freshwater environments.",
+        "descriptionRU": "Вид рыбы, обитающей в пресных водах.",
+        "descriptionDE": "Ein Fisch, der in Süßwasserumgebungen vorkommt."
+    }, {
+        "de": "der Hecht",
+        "en": "pike",
+        "ru": "щука",
+        "descriptionEN": "A large predatory fish found in lakes and rivers.",
+        "descriptionRU": "Большая хищная рыба, обитающая в озерах и реках.",
+        "descriptionDE": "Ein großer Raubfisch, der in Seen und Flüssen lebt."
+    }, {
+        "de": "die Schmetterlinge",
+        "en": "butterflies",
+        "ru": "бабочки",
+        "descriptionEN": "Colorful insects with large wings that often fly around flowers.",
+        "descriptionRU": "Красочные насекомые с большими крыльями, которые часто летают вокруг цветов.",
+        "descriptionDE": "Bunte Insekten mit großen Flügeln, die oft um Blumen fliegen."
+    }, {
+        "de": "das Insekt",
+        "en": "insect",
+        "ru": "насекомое",
+        "descriptionEN": "A small arthropod, often with six legs and wings.",
+        "descriptionRU": "Маленький членистоногий, часто с шестью ногами и крыльями.",
+        "descriptionDE": "Ein kleines Arthropod, oft mit sechs Beinen und Flügeln."
+    }, {
+        "de": "fliegen",
+        "en": "to fly",
+        "ru": "летать",
+        "descriptionEN": "To move through the air using wings.",
+        "descriptionRU": "Передвигаться по воздуху с помощью крыльев.",
+        "descriptionDE": "Durch die Luft bewegen mit Flügeln."
+    }, {
+        "de": "jagen",
+        "en": "to hunt",
+        "ru": "охотиться",
+        "descriptionEN": "To pursue and kill for food.",
+        "descriptionRU": "Преследовать и убивать для еды.",
+        "descriptionDE": "Verfolgen und töten zum Nahrungserwerb."
+    }, {
+        "de": "fliehen",
+        "en": "to flee",
+        "ru": "убегать",
+        "descriptionEN": "To run away from danger.",
+        "descriptionRU": "Бежать от опасности.",
+        "descriptionDE": "Vor Gefahr weglaufen."
+    }, {
+        "de": "verstecken",
+        "en": "to hide",
+        "ru": "прятаться",
+        "descriptionEN": "To put something out of sight.",
+        "descriptionRU": "Спрятать что-то от взгляда.",
+        "descriptionDE": "Etwas aus dem Blickfeld verschwinden lassen."
+    }, {
+        "de": "ruhig",
+        "en": "calm",
+        "ru": "спокойный",
+        "descriptionEN": "Free from agitation or excitement.",
+        "descriptionRU": "Без возбуждения или волнения.",
+        "descriptionDE": "Frei von Aufregung oder Erregung."
+    }, {
+        "de": "lebendig",
+        "en": "alive",
+        "ru": "живой",
+        "descriptionEN": "Having life; not dead.",
+        "descriptionRU": "Имеющий жизнь; не мертвый.",
+        "descriptionDE": "Lebendigkeit; nicht tot."
+    }, {
+        "de": "vielfältig",
+        "en": "diverse",
+        "ru": "разнообразный",
+        "descriptionEN": "Showing variety; having many different types.",
+        "descriptionRU": "Показывающий разнообразие; имеющий много разных типов.",
+        "descriptionDE": "Vielfalt aufweisend; viele verschiedene Typen haben."
+    }, {
+        "de": "bemerkenswert",
+        "en": "remarkable",
+        "ru": "замечательный",
+        "descriptionEN": "Worthy of attention or notice.",
+        "descriptionRU": "Заслуживающий внимания или замечания.",
+        "descriptionDE": "Beachtenswert oder auffällig."
+    }
+]

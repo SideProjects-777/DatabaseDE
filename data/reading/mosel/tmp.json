@@ -11,9 +11,9 @@
             "ru": "Разнообразные животные в Мозеле."
         },
         "level": "B2",
-        "image": "BiodiversityI.jpg",
-        "file": "BiodiversityI.mp3",
-        "words": "BiodiversityI.json",
-        "multi": "BiodiversityI.json"
+        "image": "BiodiversityII.jpg",
+        "file": "BiodiversityII.txt",
+        "words": "BiodiversityII.json",
+        "yesNo": "BiodiversityII.json"
     }
 ]
