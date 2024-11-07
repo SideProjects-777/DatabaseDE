@@ -1,0 +1,19 @@
+[
+    {
+        "name": {
+            "en": "Biodiversity I",
+            "de": "Biodiversität I",
+            "ru": "Биоразнообразие I"
+        },
+        "description": {
+            "en": "Diverse animals in Mosel.",
+            "de": "Verschiedene Tiere an der Mosel.",
+            "ru": "Разнообразные животные в Мозеле."
+        },
+        "level": "B2",
+        "image": "BiodiversityI.jpg",
+        "file": "BiodiversityI.mp3",
+        "words": "BiodiversityI.json",
+        "multi": "BiodiversityI.json"
+    }, 
+]

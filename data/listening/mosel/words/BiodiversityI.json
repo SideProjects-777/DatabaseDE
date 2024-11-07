@@ -1,0 +1,157 @@
+[
+    {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "a large natural stream of water.",
+        "descriptionRU": "большой естественный поток воды.",
+        "descriptionDE": "ein großer natürlicher Wasserlauf."
+    }, {
+        "de": "das Ökosystem",
+        "en": "ecosystem",
+        "ru": "экосистема",
+        "descriptionEN": "a community of living organisms and their physical environment.",
+        "descriptionRU": "сообщество живых существ и их физическая среда.",
+        "descriptionDE": "eine Gemeinschaft von lebenden Organismen und ihrer physischen Umgebung."
+    }, {
+        "de": "der Wald",
+        "en": "forest",
+        "ru": "лес",
+        "descriptionEN": "a large area covered chiefly with trees and undergrowth.",
+        "descriptionRU": "большая территория, покрытая деревьями и кустарниками.",
+        "descriptionDE": "eine große Fläche, die hauptsächlich mit Bäumen und Sträuchern bedeckt ist."
+    }, {
+        "de": "das Wildschwein",
+        "en": "wild boar",
+        "ru": "дикий кабан",
+        "descriptionEN": "a large, wild pig, native to Europe, Asia, and North Africa.",
+        "descriptionRU": "крупная дикая свинья, родом из Европы, Азии и Северной Африки.",
+        "descriptionDE": "ein großes, wildes Schwein, das in Europa, Asien und Nordafrika heimisch ist."
+    }, {
+        "de": "die Dämmerung",
+        "en": "dusk",
+        "ru": "сумерки",
+        "descriptionEN": "the time of day when the light is dim, either morning or evening.",
+        "descriptionRU": "время суток, когда свет тусклый, утром или вечером.",
+        "descriptionDE": "die Zeit des Tages, wenn das Licht gedämpft ist, entweder am Morgen oder Abend."
+    }, {
+        "de": "der Fuchs",
+        "en": "fox",
+        "ru": "лиса",
+        "descriptionEN": "a small to medium-sized carnivorous mammal.",
+        "descriptionRU": "млекопитающее среднего размера, плотоядное.",
+        "descriptionDE": "ein kleines bis mittelgroßes fleischfressendes Säugetier."
+    }, {
+        "de": "der Rothirsch",
+        "en": "red deer",
+        "ru": "красный олень",
+        "descriptionEN": "a large species of deer native to Europe and parts of Asia.",
+        "descriptionRU": "крупный вид оленя, родом из Европы и части Азии.",
+        "descriptionDE": "eine große Hirschart, die in Europa und Teilen Asiens heimisch ist."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "all the visible features of an area of countryside or land.",
+        "descriptionRU": "все видимые особенности района или земли.",
+        "descriptionDE": "alle sichtbaren Merkmale eines Landstrichs oder Gebiets."
+    }, {
+        "de": "der Lebensraum",
+        "en": "habitat",
+        "ru": "место обитания",
+        "descriptionEN": "the natural home or environment of an organism.",
+        "descriptionRU": "естественное место обитания организма.",
+        "descriptionDE": "der natürliche Lebensbereich eines Organismus."
+    }, {
+        "de": "die Vielfalt",
+        "en": "diversity",
+        "ru": "разнообразие",
+        "descriptionEN": "the state of being diverse; variety.",
+        "descriptionRU": "состояние, при котором что-то разнообразно; многообразие.",
+        "descriptionDE": "der Zustand, vielfältig zu sein; Verschiedenheit."
+    }, {
+        "de": "die Morgen",
+        "en": "morning",
+        "ru": "утро",
+        "descriptionEN": "the first part of the day.",
+        "descriptionRU": "первая часть дня.",
+        "descriptionDE": "der erste Teil des Tages."
+    }, {
+        "de": "der Herbst",
+        "en": "autumn",
+        "ru": "осень",
+        "descriptionEN": "the season between summer and winter.",
+        "descriptionRU": "сезон между летом и зимой.",
+        "descriptionDE": "die Jahreszeit zwischen Sommer und Winter."
+    }, {
+        "de": "essen",
+        "en": "to eat",
+        "ru": "есть",
+        "descriptionEN": "to consume food.",
+        "descriptionRU": "употреблять пищу.",
+        "descriptionDE": "Nahrung zu sich nehmen."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "to perceive with the eyes.",
+        "descriptionRU": "воспринять с помощью глаз.",
+        "descriptionDE": "mit den Augen wahrnehmen."
+    }, {
+        "de": "anpassen",
+        "en": "to adapt",
+        "ru": "адаптироваться",
+        "descriptionEN": "to change to suit new conditions.",
+        "descriptionRU": "изменяться, чтобы соответствовать новым условиям.",
+        "descriptionDE": "sich an neue Bedingungen anpassen."
+    }, {
+        "de": "jagen",
+        "en": "to hunt",
+        "ru": "охотиться",
+        "descriptionEN": "to chase and kill for food or sport.",
+        "descriptionRU": "преследовать и убивать ради пищи или удовольствия.",
+        "descriptionDE": "verfolgen und töten, um Nahrung zu bekommen."
+    }, {
+        "de": "majestätisch",
+        "en": "majestic",
+        "ru": "великолепный",
+        "descriptionEN": "having grandeur or beauty.",
+        "descriptionRU": "иметь величие или красоту.",
+        "descriptionDE": "mit Pracht oder Schönheit."
+    }, {
+        "de": "scharf",
+        "en": "sharp",
+        "ru": "острый",
+        "descriptionEN": "having a fine edge or point.",
+        "descriptionRU": "имеющий тонкий край или точку.",
+        "descriptionDE": "mit einer feinen Kante oder Spitze."
+    }, {
+        "de": "anmutig",
+        "en": "graceful",
+        "ru": "грациозный",
+        "descriptionEN": "showing elegance and beauty in movement.",
+        "descriptionRU": "показывать элегантность и красоту в движении.",
+        "descriptionDE": "Eleganz und Schönheit in der Bewegung zeigend."
+    }, {
+        "de": "schlau",
+        "en": "clever",
+        "ru": "умный",
+        "descriptionEN": "quick to understand or learn.",
+        "descriptionRU": "быстро понимающий или обучающийся.",
+        "descriptionDE": "schnell im Verstehen oder Lernen."
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "to a greater degree than normal.",
+        "descriptionRU": "в большей степени, чем обычно.",
+        "descriptionDE": "in größerem Maße als normal."
+    }, {
+        "de": "häufig",
+        "en": "frequently",
+        "ru": "часто",
+        "descriptionEN": "occurring often.",
+        "descriptionRU": "происходит часто.",
+        "descriptionDE": "kommt oft vor."
+    }
+]
