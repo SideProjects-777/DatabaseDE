@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Moselregion ist für ihre Rieslingtrauben berühmt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Weinfest der Mittelmosel findet im Juli statt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Jedes Dorf an der Mosel veranstaltet sein eigenes Weinfest.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das älteste Weinfest Deutschlands findet in Bernkastel-Kues statt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Mosel Musikfestival ist ein Festival für klassische Musik.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Weinfest in Winningen ist sehr familiär und traditionell.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Mosel Musikfestival findet nur im Juli statt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Das Weinfest der Mittelmosel bietet Feuerwerke und Umzüge.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Das Mosel Musikfestival findet auch in Klöstern und Burgen statt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Weinfeste an der Mosel finden das ganze Jahr über statt.",
+        "tr": false,
+        "fle": true
+    }
+]

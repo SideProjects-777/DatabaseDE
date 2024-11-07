@@ -79,5 +79,37 @@
         "file": "Cuisine.mp3",
         "words": "Cuisine.json",
         "yesNo": "Cuisine.json"
+    }, {
+        "name": {
+            "en": "Festivals I",
+            "de": "Feste I",
+            "ru": "Фестивали 1"
+        },
+        "description": {
+            "en": "Music and wine",
+            "de": "Musik und Wein",
+            "ru": "Музыка и вино"
+        },
+        "level": "B1",
+        "image": "Festival_I.jpg",
+        "file": "Festival_I.mp3",
+        "words": "Festival_I.json",
+        "yesNo": "Festival_I.json"
+    }, {
+        "name": {
+            "en": "Festivals II",
+            "de": "Feste II",
+            "ru": "Фестивали 2"
+        },
+        "description": {
+            "en": "Celebrations and tradition",
+            "de": "Feiern und Tradition",
+            "ru": "Празднование и традиции"
+        },
+        "level": "B1",
+        "image": "Festival_II.jpg",
+        "file": "Festival_II.mp3",
+        "words": "Festival_II.json",
+        "multi": "Festival_II.json"
     }
 ]

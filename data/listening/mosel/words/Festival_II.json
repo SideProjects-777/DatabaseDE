@@ -1,0 +1,136 @@
+[
+    {
+        "de": "das Fest",
+        "en": "Festival",
+        "ru": "Фестиваль",
+        "descriptionEN": "An organized series of events and celebrations.",
+        "descriptionRU": "Организованная серия мероприятий и празднований.",
+        "descriptionDE": "Eine organisierte Reihe von Veranstaltungen und Feiern."
+    }, {
+        "de": "der Charakter",
+        "en": "Character",
+        "ru": "Характер",
+        "descriptionEN": "The unique qualities or traits of something or someone.",
+        "descriptionRU": "Уникальные качества или черты чего-то или кого-то.",
+        "descriptionDE": "Die einzigartigen Eigenschaften oder Merkmale von etwas oder jemandem."
+    }, {
+        "de": "der Federweiße",
+        "en": "Federweißer",
+        "ru": "Федервейсер",
+        "descriptionEN": "A young, sweet, partially fermented wine.",
+        "descriptionRU": "Молодое, сладкое, частично ферментированное вино.",
+        "descriptionDE": "Ein junger, süßer, teilweise fermentierter Wein."
+    }, {
+        "de": "der Zwiebelkuchen",
+        "en": "Onion Tart",
+        "ru": "Луковый пирог",
+        "descriptionEN": "A savory tart made with onions, often served with wine.",
+        "descriptionRU": "Соленый пирог с луком, часто подается с вином.",
+        "descriptionDE": "Ein herzhafter Kuchen mit Zwiebeln, der oft mit Wein serviert wird."
+    }, {
+        "de": "die Erntezeit",
+        "en": "Harvest Season",
+        "ru": "Сезон урожая",
+        "descriptionEN": "The time of year when crops are gathered.",
+        "descriptionRU": "Время года, когда собирается урожай.",
+        "descriptionDE": "Die Jahreszeit, in der die Ernte eingebracht wird."
+    }, {
+        "de": "der Glühwein",
+        "en": "Mulled Wine",
+        "ru": "Глинтвейн",
+        "descriptionEN": "A spiced, heated wine often served during winter festivities.",
+        "descriptionRU": "Пряное, подогретое вино, часто подается на зимних праздниках.",
+        "descriptionDE": "Ein gewürzter, erhitzter Wein, der oft bei winterlichen Festen serviert wird."
+    }, {
+        "de": "die Besonderheit",
+        "en": "Specialty",
+        "ru": "Особенность",
+        "descriptionEN": "A unique or distinctive feature or quality.",
+        "descriptionRU": "Уникальная или характерная черта или качество.",
+        "descriptionDE": "Eine einzigartige oder unverwechselbare Eigenschaft oder Qualität."
+    }, {
+        "de": "der Weihnachtsmarkt",
+        "en": "Christmas Market",
+        "ru": "Рождественская ярмарка",
+        "descriptionEN": "A festive outdoor market held during the Christmas season.",
+        "descriptionRU": "Праздничный уличный рынок, проходящий в рождественский сезон.",
+        "descriptionDE": "Ein festlicher Außenmarkt, der während der Weihnachtszeit stattfindet."
+    }, {
+        "de": "die Region",
+        "en": "Region",
+        "ru": "Регион",
+        "descriptionEN": "A specific geographical area.",
+        "descriptionRU": "Определенная географическая область.",
+        "descriptionDE": "Ein bestimmtes geografisches Gebiet."
+    }, {
+        "de": "zelebrieren",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "To acknowledge a significant event with festivities.",
+        "descriptionRU": "Отмечать важное событие с торжествами.",
+        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen."
+    }, {
+        "de": "probieren",
+        "en": "to try",
+        "ru": "пробовать",
+        "descriptionEN": "To sample or taste something new.",
+        "descriptionRU": "Пробовать что-то новое.",
+        "descriptionDE": "Etwas Neues probieren oder kosten."
+    }, {
+        "de": "verkosten",
+        "en": "to taste",
+        "ru": "дегустировать",
+        "descriptionEN": "To sample the flavor of food or drink.",
+        "descriptionRU": "Попробовать вкус еды или напитка.",
+        "descriptionDE": "Den Geschmack von Essen oder Trinken probieren."
+    }, {
+        "de": "ziehen",
+        "en": "to attract",
+        "ru": "привлекать",
+        "descriptionEN": "To draw the attention or interest of someone.",
+        "descriptionRU": "Привлекать внимание или интерес кого-то.",
+        "descriptionDE": "Die Aufmerksamkeit oder das Interesse von jemandem auf sich ziehen."
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "In keeping with established customs or practices.",
+        "descriptionRU": "Соответствует устоявшимся обычаям или практикам.",
+        "descriptionDE": "Im Einklang mit etablierten Bräuchen oder Praktiken."
+    }, {
+        "de": "rustikal",
+        "en": "rustic",
+        "ru": "деревенский",
+        "descriptionEN": "Relating to the countryside; simple or quaint.",
+        "descriptionRU": "Относящийся к сельской местности; простой или уютный.",
+        "descriptionDE": "Bezieht sich auf das Landleben; einfach oder gemütlich."
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "To a greater degree than usual.",
+        "descriptionRU": "В большей степени, чем обычно.",
+        "descriptionDE": "In höherem Maße als üblich."
+    }, {
+        "de": "idyllisch",
+        "en": "idyllic",
+        "ru": "идиллический",
+        "descriptionEN": "Extremely pleasant, peaceful, and picturesque.",
+        "descriptionRU": "Чрезвычайно приятный, спокойный и живописный.",
+        "descriptionDE": "Außergewöhnlich angenehm, friedlich und malerisch."
+    }, {
+        "de": "regional",
+        "en": "regional",
+        "ru": "региональный",
+        "descriptionEN": "Relating to a particular geographic area.",
+        "descriptionRU": "Относящийся к определенной географической области.",
+        "descriptionDE": "Bezieht sich auf ein bestimmtes geografisches Gebiet."
+    }, {
+        "de": "unvergesslich",
+        "en": "unforgettable",
+        "ru": "незабываемый",
+        "descriptionEN": "Impossible to forget; memorable.",
+        "descriptionRU": "Невозможно забыть; запоминающийся.",
+        "descriptionDE": "Unvergesslich; einprägsam."
+    }
+]

@@ -1,0 +1,151 @@
+[
+
+    {
+        "de": "der Wein",
+        "en": "Wine",
+        "ru": "Вино",
+        "descriptionEN": "An alcoholic beverage made from fermented grapes.",
+        "descriptionRU": "Алкогольный напиток, изготовленный из ферментированного винограда.",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird."
+    }, {
+        "de": "die Traube",
+        "en": "Grape",
+        "ru": "Виноград",
+        "descriptionEN": "The fruit used in winemaking; typically grows in clusters.",
+        "descriptionRU": "Плод, используемый в виноделии; обычно растет в гроздьях.",
+        "descriptionDE": "Die Frucht, die im Weinbau verwendet wird; wächst typischerweise in Trauben."
+    }, {
+        "de": "der Einheimische",
+        "en": "Local",
+        "ru": "Местный житель",
+        "descriptionEN": "A resident or native of a particular area.",
+        "descriptionRU": "Житель или уроженец определенной местности.",
+        "descriptionDE": "Ein Bewohner oder Eingeborener eines bestimmten Gebiets."
+    }, {
+        "de": "das Weingut",
+        "en": "Winery",
+        "ru": "Винодельня",
+        "descriptionEN": "A facility or establishment where wine is produced.",
+        "descriptionRU": "Объект или учреждение, где производится вино.",
+        "descriptionDE": "Eine Anlage oder Einrichtung, in der Wein hergestellt wird."
+    }, {
+        "de": "die Weinkönigin",
+        "en": "Wine Queen",
+        "ru": "Королева вина",
+        "descriptionEN": "A ceremonial title given to a woman chosen to represent a wine region.",
+        "descriptionRU": "Торжественное звание, присваиваемое женщине, представляющей винодельческий регион.",
+        "descriptionDE": "Ein zeremonieller Titel, der einer Frau verliehen wird, die eine Weinregion repräsentiert."
+    }, {
+        "de": "die Tradition",
+        "en": "Tradition",
+        "ru": "Традиция",
+        "descriptionEN": "A long-established custom or belief passed down through generations.",
+        "descriptionRU": "Давний обычай или верование, передающееся через поколения.",
+        "descriptionDE": "Ein lang etablierter Brauch oder Glaube, der über Generationen weitergegeben wird."
+    }, {
+        "de": "das Feuerwerk",
+        "en": "Firework",
+        "ru": "Фейерверк",
+        "descriptionEN": "A device that explodes to produce lights and sounds, often used in celebrations.",
+        "descriptionRU": "Устройство, взрывающееся для создания световых и звуковых эффектов, часто используется на праздниках.",
+        "descriptionDE": "Ein Gerät, das explodiert, um Licht- und Klangeffekte zu erzeugen, oft bei Festen verwendet."
+    }, {
+        "de": "die Musik",
+        "en": "Music",
+        "ru": "Музыка",
+        "descriptionEN": "The art of arranging sounds in time to produce a composition.",
+        "descriptionRU": "Искусство упорядочения звуков во времени для создания композиции.",
+        "descriptionDE": "Die Kunst, Klänge in einer bestimmten Abfolge anzuordnen, um eine Komposition zu erzeugen."
+    }, {
+        "de": "der Sommer",
+        "en": "Summer",
+        "ru": "Лето",
+        "descriptionEN": "The warmest season of the year, typically associated with outdoor activities.",
+        "descriptionRU": "Самый тёплый сезон года, обычно ассоциируется с активным отдыхом на природе.",
+        "descriptionDE": "Die wärmste Jahreszeit, typischerweise mit Outdoor-Aktivitäten verbunden."
+    }, {
+        "de": "das Kloster",
+        "en": "Monastery",
+        "ru": "Монастырь",
+        "descriptionEN": "A building or complex where monks or nuns live and worship.",
+        "descriptionRU": "Здание или комплекс, где живут и поклоняются монахи или монахини.",
+        "descriptionDE": "Ein Gebäude oder Komplex, in dem Mönche oder Nonnen leben und beten."
+    }, {
+        "de": "feiern",
+        "en": "to celebrate",
+        "ru": "праздновать",
+        "descriptionEN": "To acknowledge a significant event with festivities.",
+        "descriptionRU": "Отмечать важное событие с торжествами.",
+        "descriptionDE": "Ein wichtiges Ereignis mit Festlichkeiten anerkennen."
+    }, {
+        "de": "verschmelzen",
+        "en": "to merge",
+        "ru": "сливаться",
+        "descriptionEN": "To combine or blend seamlessly.",
+        "descriptionRU": "Соединяться или смешиваться бесшовно.",
+        "descriptionDE": "Sich nahtlos verbinden oder vermischen."
+    }, {
+        "de": "beteiligen",
+        "en": "to participate",
+        "ru": "участвовать",
+        "descriptionEN": "To take part in an activity or event.",
+        "descriptionRU": "Принимать участие в деятельности или событии.",
+        "descriptionDE": "An einer Aktivität oder einem Ereignis teilnehmen."
+    }, {
+        "de": "veranstalten",
+        "en": "to organize",
+        "ru": "организовать",
+        "descriptionEN": "To make arrangements or preparations for an event.",
+        "descriptionRU": "Сделать подготовку или организовать мероприятие.",
+        "descriptionDE": "Vorbereitungen für eine Veranstaltung treffen."
+    }, {
+        "de": "erleben",
+        "en": "to experience",
+        "ru": "пережить",
+        "descriptionEN": "To encounter or undergo an event or situation.",
+        "descriptionRU": "Встретить или испытать событие или ситуацию.",
+        "descriptionDE": "Ein Ereignis oder eine Situation erleben oder durchlaufen."
+    }, {
+        "de": "historisch",
+        "en": "historic",
+        "ru": "исторический",
+        "descriptionEN": "Relating to history or past events.",
+        "descriptionRU": "Относящийся к истории или прошлым событиям.",
+        "descriptionDE": "In Bezug auf Geschichte oder vergangene Ereignisse."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "Well-known by many people.",
+        "descriptionRU": "Хорошо известный многим людям.",
+        "descriptionDE": "Von vielen Menschen gut bekannt."
+    }, {
+        "de": "besonders",
+        "en": "especially",
+        "ru": "особенно",
+        "descriptionEN": "To a higher degree than usual.",
+        "descriptionRU": "В большей степени, чем обычно.",
+        "descriptionDE": "In höherem Maße als üblich."
+    }, {
+        "de": "regional",
+        "en": "regional",
+        "ru": "региональный",
+        "descriptionEN": "Relating to a particular area or region.",
+        "descriptionRU": "Относящийся к определенной области или региону.",
+        "descriptionDE": "Bezogen auf eine bestimmte Region oder ein Gebiet."
+    }, {
+        "de": "jährlich",
+        "en": "annually",
+        "ru": "ежегодно",
+        "descriptionEN": "Happening once a year.",
+        "descriptionRU": "Происходит раз в год.",
+        "descriptionDE": "Einmal im Jahr stattfindend."
+    }, {
+        "de": "malerisch",
+        "en": "scenic",
+        "ru": "живописный",
+        "descriptionEN": "Visually attractive, typically in a picturesque way.",
+        "descriptionRU": "Визуально привлекательный, обычно живописный.",
+        "descriptionDE": "Visuell attraktiv, typischerweise auf malerische Weise."
+    }
+]
