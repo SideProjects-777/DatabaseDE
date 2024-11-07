@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wo fließt die Mosel entlang?",
+        "answers": [
+            {
+                "text": "Durch Spanien und Italien",
+                "correct": false
+            }, {
+                "text": "Durch die Schweiz und Österreich",
+                "correct": false
+            }, {
+                "text": "Durch Deutschland, Luxemburg und Frankreich",
+                "correct": true
+            }, {
+                "text": "Nur durch Deutschland und Frankreich",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist das besondere an der Mosellandschaft?",
+        "answers": [
+            {
+                "text": "Nur flache Ebenen und Felder",
+                "correct": false
+            }, {
+                "text": "Abwechslungsreiche Landschaft mit Hügeln und Flussufern",
+                "correct": true
+            }, {
+                "text": "Nur dichte Wälder ohne andere Merkmale",
+                "correct": false
+            }, {
+                "text": "Viel Schnee und Gletscher",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Tiere sind typisch für die Moselregion?",
+        "answers": [
+            {
+                "text": "Rothirsch, Wildschwein, Fuchs",
+                "correct": true
+            }, {
+                "text": "Bären, Wölfe, Kängurus",
+                "correct": false
+            }, {
+                "text": "Eisbären, Wale, Delfine",
+                "correct": false
+            }, {
+                "text": "Löwen, Tiger, Krokodile",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann kann man Rothirsche im Moseltal sehen?",
+        "answers": [
+            {
+                "text": "Am frühen Morgen oder späten Abend",
+                "correct": true
+            }, {
+                "text": "Mittags bei Sonnenschein",
+                "correct": false
+            }, {
+                "text": "Nur in den Sommermonaten",
+                "correct": false
+            }, {
+                "text": "In der Nacht bei Mondschein",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was frisst das Rotwild?",
+        "answers": [
+            {
+                "text": "Fische und Insekten",
+                "correct": false
+            }, {
+                "text": "Früchte und Nüsse",
+                "correct": false
+            }, {
+                "text": "Fleisch und Aas",
+                "correct": false
+            }, {
+                "text": "Gräser",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Warum sind Wildschweine im Herbst besonders aktiv?",
+        "answers": [
+            {
+                "text": "Weil sie in den Winter ziehen",
+                "correct": false
+            }, {
+                "text": "Weil sie dann in größeren Gruppen leben",
+                "correct": false
+            }, {
+                "text": "Weil es dann viel zu fressen gibt",
+                "correct": true
+            }, {
+                "text": "Weil sie die Jagdsaison beginnen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo sieht man häufig Rehe im Moseltal?",
+        "answers": [
+            {
+                "text": "Auf den Hochalpen und Bergen",
+                "correct": false
+            }, {
+                "text": "In städtischen Parks und Gärten",
+                "correct": false
+            }, {
+                "text": "In den Weinbergen und an Waldrändern",
+                "correct": true
+            }, {
+                "text": "In großen Flüssen und Seen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Tiere sind besonders anpassungsfähig in der Moselregion?",
+        "answers": [
+            {
+                "text": "Der Bär",
+                "correct": false
+            }, {
+                "text": "Der Wolf",
+                "correct": false
+            }, {
+                "text": "Der Adler",
+                "correct": false
+            }, {
+                "text": "Der Fuchs",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wann sind Füchse in der Moselregion aktiv?",
+        "answers": [
+            {
+                "text": "In der Morgen- und Abenddämmerung",
+                "correct": true
+            }, {
+                "text": "Nur tagsüber bei Sonnenschein",
+                "correct": false
+            }, {
+                "text": "In der Mittagszeit",
+                "correct": false
+            }, {
+                "text": "Nur in der Nacht",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist der Hauptgrund, warum das Moseltal so besonders ist?",
+        "answers": [
+            {
+                "text": "Die überwältigende Anzahl von Touristen",
+                "correct": false
+            }, {
+                "text": "Die hohe Baukunst der Dörfer",
+                "correct": false
+            }, {
+                "text": "Die hohe Artenvielfalt und die einzigartigen Lebensräume",
+                "correct": true
+            }, {
+                "text": "Die Nähe zu den Großstädten",
+                "correct": false
+            }
+        ]
+    }
+]

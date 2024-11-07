@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Welches Fest feiert den jungen Wein Federweißer?",
+        "answers": [
+            {
+                "text": "Zeller Schwarze Katz Festival",
+                "correct": false
+            }, {
+                "text": "Federweißerfest",
+                "correct": true
+            }, {
+                "text": "Weihnachtsmarkt",
+                "correct": false
+            }, {
+                "text": "Mosel Musikfestival",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wann findet das Zeller Schwarze Katz Festival statt?",
+        "answers": [
+            {
+                "text": "Ende Juni",
+                "correct": true
+            }, {
+                "text": "Im Dezember",
+                "correct": false
+            }, {
+                "text": "Anfang Oktober",
+                "correct": false
+            }, {
+                "text": "Mitte Mai",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welches Gericht wird häufig beim Federweißerfest serviert?",
+        "answers": [
+
+            {
+                "text": "Bratwurst",
+                "correct": false
+            }, {
+                "text": "Käsesuppe",
+                "correct": false
+            }, {
+                "text": "Zwiebelkuchen",
+                "correct": true
+            }, {
+                "text": "Waffeln",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt ist bekannt für das Weihnachtsmarktfest?",
+        "answers": [
+
+            {
+                "text": "Koblenz",
+                "correct": false
+            }, {
+                "text": "Trier",
+                "correct": true
+            }, {
+                "text": "Mainz",
+                "correct": false
+            }, {
+                "text": "Düsseldorf",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was zeichnet den Federweißen Wein aus?",
+        "answers": [
+
+            {
+                "text": "Bitter und schwer",
+                "correct": false
+            }, {
+                "text": "Trocken und fruchtig",
+                "correct": false
+            }, {
+                "text": "Schwach und neutral",
+                "correct": false
+            }, {
+                "text": "Süß und sprudelnd",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist das Hauptthema des Zeller Schwarze Katz Festivals?",
+        "answers": [
+
+            {
+                "text": "Weihnachten",
+                "correct": false
+            }, {
+                "text": "Weinbaukultur der Region",
+                "correct": true
+            }, {
+                "text": "Sommerliche Musikveranstaltungen",
+                "correct": false
+            }, {
+                "text": "Historische Märkte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird auf den Weihnachtsmärkten angeboten?",
+        "answers": [
+
+            {
+                "text": "Frische Früchte",
+                "correct": false
+            }, {
+                "text": "Handgefertigte Geschenke",
+                "correct": true
+            }, {
+                "text": "Moderne Kunst",
+                "correct": false
+            }, {
+                "text": "Elektronische Geräte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Musik ist auf dem Zeller Schwarze Katz Festival zu hören?",
+        "answers": [
+            {
+                "text": "Traditionelle Musik",
+                "correct": true
+            }, {
+                "text": "Rockmusik",
+                "correct": false
+            }, {
+                "text": "Jazz",
+                "correct": false
+            }, {
+                "text": "Techno",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist ein wichtiger Bestandteil der Weihnachtsmärkte?",
+        "answers": [
+            {
+                "text": "Glühwein",
+                "correct": true
+            }, {
+                "text": "Federweißer Wein",
+                "correct": false
+            }, {
+                "text": "Fischgerichte",
+                "correct": false
+            }, {
+                "text": "Frühstücksgerichte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "In welchem Monat beginnt die Erntezeit für Federweißen?",
+        "answers": [
+
+            {
+                "text": "Frühjahr",
+                "correct": false
+            }, {
+                "text": "Winter",
+                "correct": false
+            }, {
+                "text": "Frühherbst",
+                "correct": true
+            }, {
+                "text": "Sommer",
+                "correct": false
+            }
+        ]
+    }
+]

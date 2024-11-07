@@ -97,6 +97,38 @@
         "multi": "Cochem.json"
     }, {
         "name": {
+            "en": "Cycling Adventure",
+            "de": "Fahrradabenteuer",
+            "ru": "Велоприключение"
+        },
+        "description": {
+            "en": "Explore charming towns",
+            "de": "Charmante Städte erkunden",
+            "ru": "Исследуйте очаровательные города"
+        },
+        "level": "B1",
+        "image": "Cycling.jpg",
+        "file": "Cycling.txt",
+        "words": "Cycling.json",
+        "yesNo": "Cycling.json"
+    }, {
+        "name": {
+            "en": "Mosel River Crossings",
+            "de": "Moselübergänge",
+            "ru": "Переходы через Мозель"
+        },
+        "description": {
+            "en": "Historical Mosel Bridges",
+            "de": "Historische Moselbrücken",
+            "ru": "Исторические мосты Мозеля"
+        },
+        "level": "B2",
+        "image": "Bridge.jpg",
+        "file": "Bridge.txt",
+        "words": "Bridge.json",
+        "multi": "Bridge.json"
+    }, {
+        "name": {
             "en": "Burg Thurant",
             "de": "Burg Thurant",
             "ru": "Замок Турант"

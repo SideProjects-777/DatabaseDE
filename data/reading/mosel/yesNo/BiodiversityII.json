@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Moselregion ist bekannt für ihre große Vogelvielfalt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Eisvogel ist ein unauffälliger Vogel und schwer zu beobachten.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Mäusebussard jagt große Tiere wie Rehe.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Schwäne gleiten über die ruhigen Abschnitte des Flusses.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Grasfrosch lebt hauptsächlich in trockenen Wäldern.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Mosel ist Heimat für eine Vielzahl von Fischarten, darunter der Hecht.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Europäische Smaragdeidechse ist eine Amphibienart, die sich an den felsigen Hängen des Tals aufhält.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Libellen sind in der Moselregion nicht besonders verbreitet.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Moselregion bietet günstige Bedingungen für Reptilien und Amphibien.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel ist ein artenreiches und vielfältiges Ökosystem.",
+        "tr": true,
+        "fle": false
+    }
+]
