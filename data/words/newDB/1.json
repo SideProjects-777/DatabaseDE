@@ -1,0 +1,75 @@
+[
+    {
+        "title": {
+            "de": "A1 Nomen",
+            "en": "A1 Nouns",
+            "ru": "A1 Существительные"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1nouns/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1nouns/image.jpg"
+    }, {
+        "title": {
+            "de": "A1 Verben",
+            "en": "A1 Verbs",
+            "ru": "A1 Глаголы"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1verbs/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/a1verbs/image.jpg"
+    }, {
+        "title": {
+            "de": "Haushalt",
+            "en": "Household",
+            "ru": "Быт"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
+    }, {
+        "title": {
+            "de": "Haustiere",
+            "en": "Domestic animals",
+            "ru": "Домашние животные"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/image.jpg"
+    }, {
+        "title": {
+            "de": "Reisen",
+            "en": "Travel",
+            "ru": "Путешествие"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/image.jpg"
+    }, {
+        "title": {
+            "de": "Sports",
+            "en": "Sport",
+            "ru": "Спорт"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/image.jpg"
+    }, {
+        "title": {
+            "de": "Lebensmittel",
+            "en": "Food",
+            "ru": "Питание"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/image.jpg"
+    }, {
+        "title": {
+            "de": "Unterhaltung",
+            "en": "Entertainment",
+            "ru": "Развлечение"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/image.jpg"
+    }, {
+        "title": {
+            "de": "Medizin",
+            "en": "Medicine",
+            "ru": "Медицина"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/medicine/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/medicine/image.jpg"
+    }
+]

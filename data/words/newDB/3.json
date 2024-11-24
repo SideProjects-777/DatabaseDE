@@ -1,0 +1,123 @@
+[
+    {
+        "name": {
+            "de": "Stolpersteine",
+            "en": "Stumbling blocks",
+            "ru": "Камни преткновения"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Stolpersteine.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Stolpersteine.json"
+    }, {
+        "name": {
+            "de": "Fremde im Dom",
+            "en": "Strangers in the cathedral",
+            "ru": "Незнакомцы в соборе"
+        },       
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json"
+    }, {
+        "name": {
+            "de": "Verlorene Brieftasche",
+            "en": "Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Lost_Wallet.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Lost_Wallet.json"
+    }, {
+        "name": {
+            "de": "Köln im Dialog",
+            "en": "Cologne in Dialogue",
+            "ru": "Кёльн в диалоге"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dialog.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dialog.json"
+    }, {
+        "name": {
+            "de": "Wilde Entdeckungen",
+            "en": "Wild Explorations",
+            "ru": "Дикие исследования"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Zoopark.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Zoo.json"
+    }, {
+        "name": {
+            "de": "Köln erkunden I",
+            "en": "Exploring Cologne I",
+            "ru": "Знакомство с Кельном I"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_I.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_I.json"
+    }, {
+        "name": {
+            "de": "Köln erkunden II",
+            "en": "Exploring Cologne II",
+            "ru": "Знакомство с Кельном II"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_II.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_II.json"
+    }, {
+        "name": {
+            "de": "Köln erkunden III",
+            "en": "Exploring Cologne III",
+            "ru": "Знакомство с Кельном III"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_III.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_III.json"
+    }, {
+        "name": {
+            "en": "Panda Surprise",
+            "de": "Panda-Überraschung",
+            "ru": "Пандовый сюрприз"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Magic.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Magic.json"
+    }, {
+        "name": {
+            "de": "Kölner Dom",
+            "en": "Cologne cathedral",
+            "ru": "Кельнский собор"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dom.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dom.json"
+    }, {
+        "name": {
+            "de": "Köln gegen Düsseldorf",
+            "en": "Cologne vs. Düsseldorf",
+            "ru": "Кёльн против Дюссельдорфа"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/KoelnDus.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/KoelnDus.json"
+    }, {
+        "name": {
+            "de": "Kölsch",
+            "en": "Kölsch",
+            "ru": "Kölsch"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Bierboom.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Bierboom.json"
+    }, {
+        "name": {
+            "de": "FC Köln",
+            "en": "FC Köln",
+            "ru": "ФК Кёльн"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/FC_Koeln.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/FC_Koeln.json"
+    }, {
+        "name": {
+            "de": "Weihnachtsbräuche",
+            "en": "Christmas Traditions",
+            "ru": "Рождественские традиции"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Christmas.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Christmas.json"
+    }, {
+        "name": {
+            "en": "Spirit Guardians",
+            "de": "Geisterwächter",
+            "ru": "Стражи духов"
+        },        
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Athletes.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Athletes.json"
+    }
+]
