@@ -1,53 +1,66 @@
 [
     {
+        "id": 1,
         "title": {
             "de": "Allgemein",
             "en": "General",
             "ru": "Общее"
         },
-        "filename": "general.json"
+        "filename": "general.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/general.jpg"
     }, {
+        "id": 2,
         "title": {
             "de": "Bonn \u270D",
             "en": "Bonn \u270D",
             "ru": "Бонн \u270D"
         },
-        "filename": "bonn.json"
+        "filename": "bonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonn.jpg"
     }, {
+        "id": 3,
         "title": {
             "de": "Cologne \u270D",
             "en": "Cologne \u270D",
             "ru": "Кёльн \u270D"
         },
-        "filename": "cologne.json"
+        "filename": "cologne.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg"
     }, {
+        "id": 4,
         "title": {
             "de": "Düsseldorf \u270D",
             "en": "Düsseldorf \u270D",
             "ru": "Дюссельдорф \u270D"
         },
-        "filename": "dusseldorf.json"
+        "filename": "dusseldorf.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg"
     }, {
+        "id": 5,
         "title": {
             "de": "Koblenz \u270D",
             "en": "Koblenz \u270D",
             "ru": "Кобленц \u270D"
         },
-        "filename": "koblenz.json"
+        "filename": "koblenz.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg"
     }, {
+        "id": 6,
         "title": {
             "de": "Einfach Stadt \u270D",
             "en": "Simple city \u270D",
             "ru": "Просто город \u270D"
         },
-        "filename": "einfach.json"
+        "filename": "einfach.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfach.jpg"
     }, {
+        "id": 7,
         "title": {
             "de": "Mosel \u270D",
             "en": "Moselle \u270D",
             "ru": "Мозель \u270D"
         },
-        "filename": "mosel.json"
+        "filename": "mosel.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/moselREAD.jpg"
     }
-
 ]

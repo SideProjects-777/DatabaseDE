@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": {
             "de": "Lebensfreude in Bonn",
             "en": "Joy of Life in Bonn",
@@ -8,24 +9,25 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Anna.json"
     }, {
+        "id": 2,
         "title": {
             "de": "Süße Geheimnisse",
             "en": "Sweet Secrets",
             "ru": "Сладкие тайны"
         },
-
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json"
     }, {
+        "id": 3,
         "title": {
             "de": "Gesundheitsberatung",
             "en": "Health Consultation",
             "ru": "Опыт консультации по здоровью"
         },
-
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Krankheit.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Krankheit.json"
     }, {
+        "id": 4,
         "title": {
             "de": "Schönes Wochenende",
             "en": "Warm Weekend",
@@ -34,6 +36,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Weekend.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Weekend.json"
     }, {
+        "id": 5,
         "title": {
             "de": "Wohnungssuche",
             "en": "Flat search",
@@ -42,6 +45,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wohnung.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wohnung.json"
     }, {
+        "id": 6,
         "title": {
             "de": "Der rosa Zwischenfall",
             "en": "The Pink Incident",
@@ -50,6 +54,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/PinkIncident.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/PinkIncident.json"
     }, {
+        "id": 7,
         "title": {
             "de": "Karnevalsfreude",
             "en": "Carnival joy",
@@ -58,6 +63,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Karnevalsfreude.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Karnevalsfreude.json"
     }, {
+        "id": 8,
         "title": {
             "de": "Warum Bonn?",
             "en": "Why Bonn?",
@@ -66,6 +72,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Bonn.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Warum_Bonn.json"
     }, {
+        "id": 9,
         "title": {
             "de": "Diamanten und Täuschung",
             "en": "Diamonds and deception",
@@ -74,6 +81,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Frank.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Frank.json"
     }, {
+        "id": 10,
         "title": {
             "de": "Harmonien der Vergangenheit",
             "en": "Harmonies of the Past",
@@ -82,6 +90,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Rock_Symphony.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Rock_Symphony.json"
     }, {
+        "id": 11,
         "title": {
             "de": "Wandern durch die Geschichte",
             "en": "Hiking through History",
@@ -90,24 +99,25 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wandern.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wandern.json"
     }, {
+        "id": 12,
         "title": {
             "de": "Karnevalsfeier",
             "en": "Carnival Celebration",
             "ru": "Празднование карнавала"
         },
-
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/RosenmontagBonn.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/RosenmontagBonn.json"
     }, {
+        "id": 13,
         "title": {
             "de": "Zugverspätungen",
             "en": "Train Delays",
             "ru": "Задержки поездов"
         },
-
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Zugverspetung.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Zugverspetung.json"
     }, {
+        "id": 14,
         "title": {
             "de": "COVID mit Beethoven",
             "en": "COVID with Beethoven",
@@ -116,6 +126,7 @@
         "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/COVID_Beethoven.jpg",
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/COVID_Beethoven.json"
     }, {
+        "id": 15,
         "title": {
             "de": "Das Arithmeum ",
             "en": "The Arithmeum",

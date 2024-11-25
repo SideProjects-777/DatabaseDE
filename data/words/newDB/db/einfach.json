@@ -1,243 +1,152 @@
 [
     {
-        "name": {
+        "id": 1,
+        "title": {
             "en": "Academic Journey",
             "de": "Akademische Reise",
             "ru": "Академический путь"
         },
-        "description": {
-            "en": "Emma's New Beginnings",
-            "de": "Emmas Neuanfang",
-            "ru": "Новое начало Эммы"
-        },
-        "level": "A2",
-        "image": "Emmas.png",
-        "file": "Emmas.txt",
-        "words": "Emmas.json",
-        "yesNo": "Emmas.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Emmas.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Emmas.json"
+    },
+    {
+        "id": 2,
+        "title": {
             "en": "Train Journey Delay",
             "de": "Zugverspätung",
             "ru": "Задержка поезда"
         },
-        "description": {
-            "en": "Visiting grandparents",
-            "de": "Besuch bei Großeltern",
-            "ru": "Визит к бабушке и дедушке"
-        },
-        "level": "A2",
-        "image": "Anna.jpg",
-        "file": "Anna.txt",
-        "words": "Anna.json",
-        "multi": "Anna.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Anna.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Anna.txt"
+    },
+    {
+        "id": 3,
+        "title": {
             "en": "Twins' Secret",
             "de": "Geheimnis der Zwillinge",
             "ru": "Секрет близнецов"
         },
-        "description": {
-            "en": "Cheat and caught",
-            "de": "Betrügen und erwischt",
-            "ru": "Обмануть и поймать"
-        },
-        "level": "A2",
-        "image": "Zwillinge.jpg",
-        "file": "Zwillinge.txt",
-        "words": "Zwillinge.json",
-        "multi": "Zwillinge.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Zwillinge.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Zwillinge.txt"
+    },
+    {
+        "id": 4,
+        "title": {
             "en": "Diverse Companions",
             "de": "Vielfältige Gefährten",
             "ru": "Разнообразные друзья"
         },
-        "description": {
-            "en": "Different yet inseparable",
-            "de": "Verschiedene, aber unzertrennliche",
-            "ru": "Разные, но неразлучные"
-        },
-        "level": "A2",
-        "image": "Companions.png",
-        "file": "Companions.txt",
-        "words": "Companions.json",
-        "yesNo": "Companions.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Companions.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Companions.txt"
+    },
+    {
+        "id": 5,
+        "title": {
             "en": "Career Decision",
             "de": "Karriereentscheidung",
             "ru": "Решение о карьере"
         },
-        "description": {
-            "en": "Between two job offers",
-            "de": "Zwischen zwei Jobangeboten",
-            "ru": "Между двумя вакансиями"
-        },
-        "level": "A2",
-        "image": "Jobangeboten.jpg",
-        "file": "Jobangeboten.txt",
-        "words": "Jobangeboten.json",
-        "multi": "Jobangeboten.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Jobangeboten.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Jobangeboten.txt"
+    },
+    {
+        "id": 6,
+        "title": {
             "en": "Weather",
             "de": "Wetter",
             "ru": "Погода"
         },
-        "description": {
-            "en": "Bad Surprise",
-            "de": "Schlimme Überraschung",
-            "ru": "Плохая неожиданность"
-        },
-        "level": "A2",
-        "image": "Wetter.jpg",
-        "file": "Wetter.txt",
-        "words": "Wetter.json",
-        "yesNo": "Wetter.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Wetter.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Wetter.txt"
+    },
+    {
+        "id": 7,
+        "title": {
             "en": "Daniel's Struggle",
             "de": "Daniels Kampf",
             "ru": "Борьба Даниэля"
         },
-        "description": {
-            "en": "Coffee Addiction",
-            "de": "Kaffeesucht",
-            "ru": "Кофейная зависимость"
-        },
-        "level": "A2",
-        "image": "Daniel.png",
-        "file": "Daniel.txt",
-        "words": "Daniel.json",
-        "multi": "Daniel.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Daniel.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Daniel.txt"
+    },
+    {
+        "id": 8,
+        "title": {
             "en": "Pia's Interests",
             "de": "Pias Interessen",
             "ru": "Интересы Пии"
         },
-        "description": {
-            "en": "Hobbies and friends",
-            "de": "Hobbys und Freunde",
-            "ru": "Хобби и друзья"
-        },
-        "level": "A2",
-        "image": "Pia.png",
-        "file": "Pia.txt",
-        "words": "Pia.json",
-        "multi": "Pia.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Pia.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Pia.txt"
+    },
+    {
+        "id": 9,
+        "title": {
             "en": "Sophia's Life",
             "de": "Sophias Leben",
             "ru": "Жизнь Софии"
         },
-        "description": {
-            "en": "Activities",
-            "de": "Die Aktivitäten",
-            "ru": "Интересы"
-        },
-        "level": "A2",
-        "image": "Sophia.jpg",
-        "file": "Sophia.txt",
-        "words": "Sophia.json",
-        "yesNo": "Sophia.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Sophia.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Sophia.txt"
+    },
+    {
+        "id": 10,
+        "title": {
             "en": "Final year",
             "de": "Abschlussjahr",
             "ru": "Последний год"
         },
-        "description": {
-            "en": "First School Day",
-            "de": "Erste Schultage",
-            "ru": "Первый школьный день"
-        },
-        "level": "A2",
-        "image": "Abschlussjahr.png",
-        "file": "Abschlussjahr.txt",
-        "words": "Abschlussjahr.json",
-        "yesNo": "Abschlussjahr.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Abschlussjahr.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Abschlussjahr.txt"
+    },
+    {
+        "id": 11,
+        "title": {
             "en": "German Sunday",
             "de": "Deutscher Sonntag",
             "ru": "Немецкое воскресенье"
         },
-        "description": {
-            "en": "Weekend customs",
-            "de": "Wochenendbräuche",
-            "ru": "Обычаи выходного дня"
-        },
-        "level": "A2",
-        "image": "Weekend.jpg",
-        "file": "Weekend.txt",
-        "words": "Weekend.json",
-        "yesNo": "Weekend.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Weekend.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Weekend.txt"
+    },
+    {
+        "id": 12,
+        "title": {
             "en": "Jobs",
             "de": "Jobs",
             "ru": "Работы"
         },
-        "description": {
-            "en": "Different professions",
-            "de": "Verschiedene Berufe",
-            "ru": "Разные профессии"
-        },
-        "level": "A2",
-        "image": "Adrian.jpg",
-        "file": "Adrian.txt",
-        "words": "Adrian.json",
-        "multi": "Adrian.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Adrian.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Adrian.txt"
+    },
+    {
+        "id": 13,
+        "title": {
             "en": "Travel Stories",
             "de": "Reisegeschichten",
             "ru": "Истории Путешествий"
         },
-        "description": {
-            "en": "Means of transportation",
-            "de": "Verkehrsmittel",
-            "ru": "Средства передвижения"
-        },
-        "level": "A2",
-        "image": "Reisegeschichten.png",
-        "file": "Reisegeschichten.txt",
-        "words": "Reisegeschichten.json",
-        "yesNo": "Reisegeschichten.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Reisegeschichten.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Reisegeschichten.txt"
+    },
+    {
+        "id": 14,
+        "title": {
             "en": "Cameron's Letter",
             "de": "Camerons Brief",
             "ru": "Письмо Камерона"
         },
-        "description": {
-            "en": "Brother's letter",
-            "de": "Brief des Bruders",
-            "ru": "Письмо брата"
-        },
-        "level": "A2",
-        "image": "Cameron.jpg",
-        "file": "Cameron.txt",
-        "words": "Cameron.json",
-        "yesNo": "Cameron.json"
-    }, {
-        "name": {
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Cameron.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Cameron.txt"
+    },
+    {
+        "id": 15,
+        "title": {
             "en": "Lila's Birthday",
             "de": "Lilas Geburtstags",
             "ru": "День Рождение Лилы"
         },
-        "description": {
-            "en": "A happy surprise",
-            "de": "Eine freudige Überraschung",
-            "ru": "Счастливый сюрприз"
-        },
-        "level": "A2",
-        "image": "Lila.jpg",
-        "file": "Lila.txt",
-        "words": "Lila.json",
-        "multi": "Lila.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Lila.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Lila.txt"
     }
 ]

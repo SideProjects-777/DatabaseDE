@@ -1,243 +1,123 @@
 [
     {
-        "name": {
+        "title": {
             "en": "Summer Festival",
             "de": "Sommerfest",
             "ru": "Летний Фестиваль"
         },
-        "description": {
-            "en": "Lively summer event",
-            "de": "Lebhaftes Sommerereignis",
-            "ru": "Живое летнее событие"
-        },
-        "level": "A2",
-        "image": "Sommerfest.jpg",
-        "file": "Sommerfest.txt",
-        "words": "Sommerfest.json",
-        "multi": "Sommerfest.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Sommerfest.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Sommerfest.json"
     }, {
-        "name": {
+        "title": {
             "en": "Marko's Journey",
             "de": "Markos Reise",
             "ru": "Путешествие Марко"
         },
-        "description": {
-            "en": "Working abroad",
-            "de": "Im Ausland arbeiten",
-            "ru": "Работа за границей"
-        },
-        "level": "A2",
-        "image": "Markos.jpg",
-        "file": "Markos.txt",
-        "words": "Markos.json",
-        "yesNo": "Markos.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Markos.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Markos.json"
     }, {
-        "name": {
+        "title": {
             "en": "In the restaurant",
             "de": "Im Restaurant",
             "ru": "В ресторане"
         },
-        "description": {
-            "en": "Culinary Experience",
-            "de": "Kulinarische Erfahrung",
-            "ru": "Кулинарный опыт"
-        },
-        "level": "A2",
-        "image": "Restaurant.jpg",
-        "file": "Restaurant.txt",
-        "words": "Restaurant.json",
-        "multi": "Restaurant.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Restaurant.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Restaurant.json"
     }, {
-        "name": {
+        "title": {
             "en": "Beer Buddies",
             "de": "Bierfreunde",
             "ru": "Пивные друзья"
         },
-        "description": {
-            "en": "Three Friends",
-            "de": "Drei Freunde",
-            "ru": "Три друга"
-        },
-        "level": "A2",
-        "image": "Bierfreunde.jpg",
-        "file": "Bierfreunde.txt",
-        "words": "Bierfreunde.json",
-        "multi": "Bierfreunde.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Bierfreunde.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Bierfreunde.json"
     }, {
-        "name": {
+        "title": {
             "en": "My city",
             "de": "Meine Stadt",
             "ru": "Мой город"
         },
-        "description": {
-            "en": "Lukas Müller's Story",
-            "de": "Die Geschichte von Lukas Müller",
-            "ru": "История Лукаса Мюллера"
-        },
-        "level": "A2",
-        "image": "Lukas.jpg",
-        "file": "Lukas.txt",
-        "words": "Lukas.json",
-        "multi": "Lukas.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Lukas.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Lukas.json"
     }, {
-        "name": {
+        "title": {
             "en": "Outdoor Adventures",
             "de": "Outdoor-Abenteuer",
             "ru": "Приключения на свежем воздухе"
         },
-        "description": {
-            "en": "Nature excursions",
-            "de": "Naturausflüge",
-            "ru": "Природные экскурсии"
-        },
-        "level": "B1",
-        "image": "Excursions1.jpg",
-        "file": "Excursions.txt",
-        "words": "Excursions.json",
-        "multi": "Excursions.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Excursions1.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Excursions.json"
     }, {
-        "name": {
+        "title": {
             "en": "Football Traditions",
             "de": "Fußball Traditionen",
             "ru": "Футбольные традиции"
         },
-        "description": {
-            "en": "Game Day Rituals",
-            "de": "Spieltag Rituale",
-            "ru": "Ритуалы игрового дня"
-        },
-        "level": "B1",
-        "image": "Traditions.jpg",
-        "file": "Traditions.txt",
-        "words": "Traditions.json",
-        "multi": "Traditions.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Traditions.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Traditions.json"
     }, {
-        "name": {
+        "title": {
             "en": "Exploring two museums",
             "de": "Erkundung zweier Museen",
             "ru": "Исследование двух музеев"
         },
-        "description": {
-            "en": "Wehrtechnisches vs Deutsche Bahn",
-            "de": "Wehrtechnisches vs Deutsche Bahn",
-            "ru": "Военно-технический против Дойче Бан"
-        },
-        "level": "B1",
-        "image": "Wehrtechnisches.jpg",
-        "file": "Wehrtechnisches.txt",
-        "words": "Wehrtechnisches.json",
-        "yesNo": "Wehrtechnisches.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Wehrtechnisches.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Wehrtechnisches.json"
     }, {
-        "name": {
+        "title": {
             "en": "Christmas Magic",
             "de": "Weihnachtszauber",
             "ru": "Рождественская магия"
         },
-        "description": {
-            "en": "Festive holiday activities",
-            "de": "Festliche Aktivitäten",
-            "ru": "Праздничные мероприятия"
-        },
-        "level": "B1",
-        "image": "Weihnachtszauber.jpg",
-        "file": "Weihnachtszauber.txt",
-        "words": "Weihnachtszauber.json",
-        "yesNo": "Weihnachtszauber.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Weihnachtszauber.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Weihnachtszauber.json"
     }, {
-        "name": {
+        "title": {
             "en": "Exploring Deutsches Eck",
             "de": "Erkundung von Deutsches Eck",
             "ru": "Исследование Дойчес Эк"
         },
-        "description": {
-            "en": "Traveler's unforgettable adventure",
-            "de": "Abenteuer eines neugierigen Reisenden",
-            "ru": "Приключение любопытного путешественника"
-        },
-        "level": "B1",
-        "image": "Deutsches_Eck_Erkunden.jpg",
-        "file": "Deutsches_Eck_Erkunden.txt",
-        "words": "Deutsches_Eck_Erkunden.json",
-        "yesNo": "Deutsches_Eck_Erkunden.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Deutsches_Eck_Erkunden.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Deutsches_Eck_Erkunden.json"
     }, {
-        "name": {
+        "title": {
             "en": "Ehrenbreitstein Fortress",
             "de": "Festung Ehrenbreitstein",
             "ru": "Крепость Эренбрейтштайн"
         },
-        "description": {
-            "en": "Historic fortress",
-            "de": "Historische Festung",
-            "ru": "Историческая крепость"
-        },
-        "level": "B2",
-        "image": "Ehrenbreitstein.jpeg",
-        "file": "Ehrenbreitstein.txt",
-        "words": "Ehrenbreitstein.json",
-        "multi": "Ehrenbreitstein.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Ehrenbreitstein.jpeg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Ehrenbreitstein.json"
     }, {
-        "name": {
+        "title": {
             "en": "Museum Mystery",
             "de": "Museumsgeheimnis",
             "ru": "Тайна музея"
         },
-        "description": {
-            "en": "Art theft investigation",
-            "de": "Kunstdiebstahlermittlung",
-            "ru": "Расследование кражи искусства"
-        },
-        "level": "B2",
-        "image": "Museumsgeheimnis.jpg",
-        "file": "Museumsgeheimnis.txt",
-        "words": "Museumsgeheimnis.json",
-        "multi": "Museumsgeheimnis.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Museumsgeheimnis.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Museumsgeheimnis.json"
     }, {
-        "name": {
+        "title": {
             "en": "Riesling",
             "de": "Riesling",
             "ru": "Рислинг"
         },
-        "description": {
-            "en": "Grape variety",
-            "de": "Rebsorte",
-            "ru": "Сорт винограда"
-        },
-        "level": "B2",
-        "image": "Riesling.jpg",
-        "file": "Riesling.txt",
-        "words": "Riesling.json",
-        "yesNo": "Riesling.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Riesling.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Riesling.json"
     }, {
-        "name": {
+        "title": {
             "en": "Bakery Triumph",
             "de": "Bäckerei-Triumph",
             "ru": "Триумф пекарни"
         },
-        "description": {
-            "en": "Stormy Carnival",
-            "de": "Stürmischer Karneval",
-            "ru": "Бурный карнавал"
-        },
-        "level": "B2",
-        "image": "Stormy.jpg",
-        "file": "Stormy.txt",
-        "words": "Stormy.json",
-        "yesNo": "Stormy.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Stormy.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Stormy.json"
     }, {
-        "name": {
+        "title": {
             "en": "Oktoberfest",
             "de": "Oktoberfest",
             "ru": "Октоберфест"
         },
-        "description": {
-            "en": "Bavarian celebration on Rhine",
-            "de": "Bayerisches Fest am Rhein",
-            "ru": "Баварский праздник на Рейне"
-        },
-        "level": "B2",
-        "image": "Oktoberfest.png",
-        "file": "Oktoberfest.mp3",
-        "words": "Oktoberfest.json",
-        "multi": "Oktoberfest.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/img/Oktoberfest.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/koblenz/words/Oktoberfest.json"
     }
 ]
