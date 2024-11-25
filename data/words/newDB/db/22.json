@@ -1,0 +1,243 @@
+[
+    {
+        "name": {
+            "de": "Ein Tag in Köln",
+            "en": "A Day in Cologne",
+            "ru": "День в Кёльне"
+        },
+        "description": {
+            "de": "Maraike's Samstag",
+            "en": "Maraike's Saturday",
+            "ru": "Суббота Марайки"
+        },
+        "level": "A2",
+        "image": "Maraike.jpg",
+        "file": "Maraike.mp3",
+        "words": "Maraike.json",
+        "yesNo": "Maraike.json"
+    }, {
+        "name": {
+            "de": "Adrians Köln",
+            "en": "Adrian's Cologne",
+            "ru": "Кельн Адриана"
+        },
+        "description": {
+            "de": "Entdeckung der Lieblingsorte",
+            "en": "Exploring Favorite Places",
+            "ru": "Исследование любимых мест"
+        },
+        "level": "A2",
+        "image": "ExploringCologne.jpg",
+        "file": "ExploringCologne.mp3",
+        "words": "ExploringCologne.json",
+        "multi": "ExploringCologne.json"
+    }, {
+        "name": {
+            "de": "Einkaufsabenteuer",
+            "en": "Shopping Adventure",
+            "ru": "Приключение в магазине"
+        },
+        "description": {
+            "de": "Pauls erstes Einkaufen",
+            "en": "Paul's First Shopping",
+            "ru": "Первые покупки Поля"
+        },
+        "level": "A2",
+        "image": "Einkaufen.jpg",
+        "file": "Einkaufen.mp3",
+        "words": "Einkaufen.json",
+        "yesNo": "Einkaufen.json"
+    }, {
+        "name": {
+            "de": "Kölner Begegnung",
+            "en": "Meeting in Cologne",
+            "ru": "Знакомство в Кельне"
+        },
+        "description": {
+            "en": "City Rediscovery",
+            "de": "Stadt-Wiederentdeckung",
+            "ru": "Переосмысление города"
+        },
+        "level": "A2",
+        "image": "Meeting_Cologne.jpg",
+        "file": "Meeting_Cologne.mp3",
+        "words": "Meeting_Cologne.json",
+        "multi": "Meeting_Cologne.json"
+    }, {
+        "name": {
+            "en": "Urban Dreamers",
+            "de": "Stadträume",
+            "ru": "Городские мечтатели"
+        },
+        "description": {
+            "en": "Friendship in the city",
+            "de": "Freundschaft in der Stadt",
+            "ru": "Дружба в городе"
+        },
+        "level": "A2",
+        "image": "FriendshipWork.jpg",
+        "file": "FriendshipWork.mp3",
+        "words": "FriendshipWork.json",
+        "multi": "FriendshipWork.json"
+    }, {
+        "name": {
+            "en": "Fragrant Legacy",
+            "de": "Duftvolles Erbe",
+            "ru": "Ароматное наследие"
+        },
+        "description": {
+            "en": "Legacy of Eau de Cologne",
+            "de": "Erbe des Eau de Cologne",
+            "ru": "Наследие одеколона"
+        },
+        "level": "B1",
+        "image": "Parfum.jpg",
+        "file": "Parfum.mp3",
+        "words": "Parfum.json",
+        "yesNo": "Parfum.json"
+    }, {
+        "name": {
+            "de": "Morgenerlebnisse",
+            "en": "Morning Explorations",
+            "ru": "Утренние приключения"
+        },
+        "description": {
+            "en": "An Interview with Citizens",
+            "de": "Ein Interview mit Bürgern",
+            "ru": "Интервью с горожанами"
+        },
+        "level": "B1",
+        "image": "MorgenerlebnisseI.jpg",
+        "file": "MorgenerlebnisseI.mp3",
+        "words": "MorgenerlebnisseI.json",
+        "yesNo": "MorgenerlebnisseI.json"
+    }, {
+        "name": {
+            "de": "Schokoladenparadies",
+            "en": "Chocolate Paradise",
+            "ru": "Шоколадный рай"
+        },
+        "description": {
+            "de": "Jan Hoffmann im Schokoladenmuseum",
+            "en": "Jan Hoffmann at the Chocolate Museum",
+            "ru": "Ян Хоффман в Шоколадном музее"
+        },
+        "level": "B1",
+        "image": "Schokoladenparadies.jpg",
+        "file": "Schokoladenparadies.mp3",
+        "words": "Schokoladenparadies.json",
+        "yesNo": "Schokoladenparadies.json"
+    }, {
+        "name": {
+            "de": "Freundschaft",
+            "en": "Friendship",
+            "ru": "Дружба"
+        },
+        "description": {
+            "de": "Unterschiedliche Menschen und Kulturen",
+            "en": "Different people and cultures",
+            "ru": "Разные люди и культуры"
+        },
+        "level": "B1",
+        "image": "Friendship.jpg",
+        "file": "Friendship.mp3",
+        "words": "Friendship.json",
+        "multi": "Friendship.json"
+    }, {
+        "name": {
+            "de": "Osterfest",
+            "en": "Easter festival",
+            "ru": "Пасха"
+        },
+        "description": {
+            "de": "Von Trauer zu Freude",
+            "en": "From sadness to joy",
+            "ru": "От траура к радости"
+        },
+        "level": "B1",
+        "image": "Ostern.jpg",
+        "file": "Ostern.mp3",
+        "words": "Ostern.json",
+        "multi": "Ostern.json"
+    }, {
+        "name": {
+            "de": "Unvergessliche Begegnungen",
+            "en": "Memorable Encounters",
+            "ru": "Незабвенные встречи"
+        },
+        "description": {
+            "de": "Eine Reise mit der Kölner Seilbahn",
+            "en": "A Journey on the Cologne Cable Car",
+            "ru": "Путешествие на Кельнской канатной дороге"
+        },
+        "level": "B2",
+        "image": "Seilbahn.jpg",
+        "file": "Seilbahn.mp3",
+        "words": "Seilbahn.json",
+        "yesNo": "Seilbahn.json"
+    }, {
+        "name": {
+            "de": "Meine Familie",
+            "en": "My family",
+            "ru": "Моя семья"
+        },
+        "description": {
+            "de": "Grüße aus Köln",
+            "en": "Greetings from Cologne",
+            "ru": "Привет из Кёльна"
+        },
+        "level": "B2",
+        "image": "Sarah.jpg",
+        "file": "Sarah.mp3",
+        "words": "Sarah.json",
+        "multi": "Sarah.json"
+    }, {
+        "name": {
+            "de": "Flughafen Bonn/Köln",
+            "en": "Bonn/Cologne Airport",
+            "ru": "Аэропорт Бонн/Кельн"
+        },
+        "description": {
+            "en": "Interesting details about the airport",
+            "de": "Interessante Details über den Flughafen",
+            "ru": "Интересные детали аэропорта"
+        },
+        "level": "B2",
+        "image": "Flughafen_Cologne_Bonn.jpg",
+        "file": "Flughafen_Cologne_Bonn.mp3",
+        "words": "Flughafen_Cologne_Bonn.json",
+        "yesNo": "Flughafen_Cologne_Bonn.json"
+    }, {
+        "name": {
+            "de": "Kölns Erbe",
+            "en": "Cologne's Heritage",
+            "ru": "Наследие Кёльна"
+        },
+        "description": {
+            "de": "Ein Zentrum der Literatur und Kunst",
+            "en": "A Hub of Literature and Art",
+            "ru": "Центр литературы и искусства"
+        },
+        "level": "B2",
+        "image": "Literatur.jpg",
+        "file": "Literatur.mp3",
+        "words": "Literatur.json",
+        "multi": "Literatur.json"
+    }, {
+        "name": {
+            "de": "Kölner Messe",
+            "en": "Cologne Fair",
+            "ru": "Кельнская Ярмарка"
+        },
+        "description": {
+            "de": "Ein Globales Zentrum für Wirtschaft",
+            "en": "A Global Hub for Business",
+            "ru": "Глобальный Центр Бизнеса"
+        },
+        "level": "B2",
+        "image": "Koelnmesse.jpg",
+        "file": "Koelnmesse.mp3",
+        "words": "Koelnmesse.json",
+        "multi": "Koelnmesse.json"
+    }
+]

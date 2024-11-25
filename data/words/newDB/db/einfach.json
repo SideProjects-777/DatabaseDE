@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "en": "Academic Journey",
+            "de": "Akademische Reise",
+            "ru": "Академический путь"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Emmas.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Emmas.json"
+    },
+    {
+        "id": 2,
+        "title": {
+            "en": "Train Journey Delay",
+            "de": "Zugverspätung",
+            "ru": "Задержка поезда"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Anna.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Anna.txt"
+    },
+    {
+        "id": 3,
+        "title": {
+            "en": "Twins' Secret",
+            "de": "Geheimnis der Zwillinge",
+            "ru": "Секрет близнецов"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Zwillinge.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Zwillinge.txt"
+    },
+    {
+        "id": 4,
+        "title": {
+            "en": "Diverse Companions",
+            "de": "Vielfältige Gefährten",
+            "ru": "Разнообразные друзья"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Companions.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Companions.txt"
+    },
+    {
+        "id": 5,
+        "title": {
+            "en": "Career Decision",
+            "de": "Karriereentscheidung",
+            "ru": "Решение о карьере"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Jobangeboten.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Jobangeboten.txt"
+    },
+    {
+        "id": 6,
+        "title": {
+            "en": "Weather",
+            "de": "Wetter",
+            "ru": "Погода"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Wetter.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Wetter.txt"
+    },
+    {
+        "id": 7,
+        "title": {
+            "en": "Daniel's Struggle",
+            "de": "Daniels Kampf",
+            "ru": "Борьба Даниэля"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Daniel.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Daniel.txt"
+    },
+    {
+        "id": 8,
+        "title": {
+            "en": "Pia's Interests",
+            "de": "Pias Interessen",
+            "ru": "Интересы Пии"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Pia.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Pia.txt"
+    },
+    {
+        "id": 9,
+        "title": {
+            "en": "Sophia's Life",
+            "de": "Sophias Leben",
+            "ru": "Жизнь Софии"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Sophia.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Sophia.txt"
+    },
+    {
+        "id": 10,
+        "title": {
+            "en": "Final year",
+            "de": "Abschlussjahr",
+            "ru": "Последний год"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Abschlussjahr.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Abschlussjahr.txt"
+    },
+    {
+        "id": 11,
+        "title": {
+            "en": "German Sunday",
+            "de": "Deutscher Sonntag",
+            "ru": "Немецкое воскресенье"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Weekend.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Weekend.txt"
+    },
+    {
+        "id": 12,
+        "title": {
+            "en": "Jobs",
+            "de": "Jobs",
+            "ru": "Работы"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Adrian.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Adrian.txt"
+    },
+    {
+        "id": 13,
+        "title": {
+            "en": "Travel Stories",
+            "de": "Reisegeschichten",
+            "ru": "Истории Путешествий"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Reisegeschichten.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Reisegeschichten.txt"
+    },
+    {
+        "id": 14,
+        "title": {
+            "en": "Cameron's Letter",
+            "de": "Camerons Brief",
+            "ru": "Письмо Камерона"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Cameron.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Cameron.txt"
+    },
+    {
+        "id": 15,
+        "title": {
+            "en": "Lila's Birthday",
+            "de": "Lilas Geburtstags",
+            "ru": "День Рождение Лилы"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/img/Lila.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/einfach/words/Lila.txt"
+    }
+]

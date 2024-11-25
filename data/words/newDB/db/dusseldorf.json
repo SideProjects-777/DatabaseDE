@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "en": "The Vampire",
+            "de": "Der Vampir",
+            "ru": "Вампир"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Vampire.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Vampire.json"
+    }, {
+        "id": 2,
+        "title": {
+            "en": "Friendly Assistance",
+            "de": "Freundliche Hilfe",
+            "ru": "Дружественная помощь"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Keys.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Keys.json"
+    }, {
+        "id": 3,
+        "title": {
+            "en": "Vacation dilemma",
+            "de": "Urlaubsdilemma",
+            "ru": "Дилемма отпуска"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Urlaubsdilemma.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Urlaubsdilemma.json"
+    }, {
+        "id": 4,
+        "title": {
+            "en": "Fashion Fun Day",
+            "de": "Mode-Spaßtag",
+            "ru": "День моды и веселья"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/ChicExpedition.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/ChicExpedition.json"
+    }, {
+        "id": 5,
+        "title": {
+            "en": "Exploring Dusseldorf",
+            "de": "Düsseldorf erkunden",
+            "ru": "Знакомство с Дюссельдорфом"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Dusseldorf_Erkunden.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Dusseldorf_Erkunden.json"
+    }, {
+        "id": 6,
+        "title": {
+            "en": "Tonhalle Legends",
+            "de": "Tonhalle Legenden",
+            "ru": "Легенды Тонхалле"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Tonhalle.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Tonhalle.json"
+    }, {
+        "id": 7,
+        "title": {
+            "en": "Hidden gems",
+            "de": "Versteckte Juwelen",
+            "ru": "Скрытые жемчужины"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Burgerinterviews.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Burgerinterviews.json"
+    }, {
+        "id": 8,
+        "title": {
+            "en": "Altstadt Charm",
+            "de": "Altstadt Charme",
+            "ru": "Шарм Старого Города"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Altstadt.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Altstadt.json"
+    }, {
+        "id": 9,
+        "title": {
+            "en": "Kö Elegance",
+            "de": "Kö Eleganz",
+            "ru": "Элегантность Кё"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Elegance.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Elegance.json"
+    }, {
+        "id": 10,
+        "title": {
+            "en": "Neighborhoods IV",
+            "de": "Stadtteile IV",
+            "ru": "Районы IV"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Kaiserswerth.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Kaiserswerth.json"
+    }, {
+        "id": 11,
+        "title": {
+            "en": "Rhein Tower",
+            "de": "Rheinturm",
+            "ru": "Башня Рейна"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Rheinturm.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Rheinturm.json"
+    }, {
+        "id": 12,
+        "title": {
+            "en": "Japan Day Experience",
+            "de": "Japanischer Tag Erlebnis",
+            "ru": "Опыт Японского Дня"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/JapanDay.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/JapanDay.json"
+    }, {
+        "id": 13,
+        "title": {
+            "en": "Castle Treasure Adventure",
+            "de": "Schloss Schatzabenteuer",
+            "ru": "Приключение в замке"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Treasure.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Treasure.json"
+    }, {
+        "id": 14,
+        "title": {
+            "en": "City Charms",
+            "de": "Stadtzauber",
+            "ru": "Прелесть городов"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Stadtzauber.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Stadtzauber.json"
+    }, {
+        "id": 15,
+        "title": {
+            "en": "Heine University",
+            "de": "Heine Universität",
+            "ru": "Университет Гейне"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Heine.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Heine.json"
+    }
+]

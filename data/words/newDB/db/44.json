@@ -1,0 +1,247 @@
+[
+    {
+        "name": {
+            "en": "Family Celebration",
+            "de": "Familienfeier",
+            "ru": "Семейное торжество"
+        },
+        "description": {
+            "en": "Grandma's Wish",
+            "de": "Omas Wunsch",
+            "ru": "Бабушкин Желание"
+        },
+        "level": "A2",
+        "image": "Familienfeier.jpg",
+        "file": "Familienfeier.mp3",
+        "words": "Familienfeier.json",
+        "multi": "Familienfeier.json"
+    }, {
+        "name": {
+            "en": "Nature's Haven",
+            "de": "Naturparadies",
+            "ru": "Убежище природы"
+        },
+        "description": {
+            "en": "Quiet time in the woods",
+            "de": "Ruhige Zeit im Wald",
+            "ru": "Тихое время в лесу"
+        },
+        "level": "A2",
+        "image": "Naturparadies.jpg",
+        "file": "Naturparadies.mp3",
+        "words": "Naturparadies.json",
+        "multi": "Naturparadies.json"
+    }, {
+
+        "name": {
+            "en": "Pizza Dream",
+            "de": "Pizzatraum",
+            "ru": "Мечта о пицце"
+        },
+        "description": {
+            "en": "Passion over profession",
+            "de": "Leidenschaft über Beruf",
+            "ru": "Страсть важнее профессии"
+        },
+        "level": "A2",
+        "image": "Pizzatraum.png",
+        "file": "Pizzatraum.mp3",
+        "words": "Pizzatraum.json",
+        "multi": "Pizzatraum.json"
+
+    }, {
+
+        "name": {
+            "en": "Missis Wilson's Bike",
+            "de": "Frau Wilsons Fahrrad",
+            "ru": "Велосипед Фрау Уилсон"
+        },
+        "description": {
+            "en": "Learning to Ride",
+            "de": "Radfahren lernen",
+            "ru": "Учимся ездить"
+        },
+        "level": "A2",
+        "image": "Radfahren.jpg",
+        "file": "Radfahren.mp3",
+        "words": "Radfahren.json",
+        "multi": "Radfahren.json"
+
+    }, {
+        "name": {
+            "en": "Garden Success",
+            "de": "Garten Erfolg",
+            "ru": "Успех сада"
+        },
+        "description": {
+            "en": "Tomatoes with patience",
+            "de": "Tomaten mit Geduld",
+            "ru": "Помидоры с терпением"
+        },
+        "level": "A2",
+        "image": "Tomaten.jpg",
+        "file": "Tomaten.mp3",
+        "words": "Tomaten.json",
+        "yesNo": "Tomaten.json"
+    }, {
+        "name": {
+            "en": "New Friend",
+            "de": "Neue Freundin",
+            "ru": "Новая подруга"
+        },
+        "description": {
+            "en": "Sofia, Emma, and Mia",
+            "de": "Sofia, Emma und Mia",
+            "ru": "София, Эмма и Мия"
+        },
+        "level": "A2",
+        "image": "Freundin.jpg",
+        "file": "Freundin.mp3",
+        "words": "Freundin.json",
+        "yesNo": "Freundin.json"
+    }, {
+        "name": {
+            "en": "Lily's Kindness",
+            "de": "Lilys Güte",
+            "ru": "Доброта Лили"
+        },
+        "description": {
+            "en": "Lost puppy",
+            "de": "Verlorener Welpe",
+            "ru": "Потерявшийся щенок"
+        },
+        "level": "A2",
+        "image": "Verlorener.jpg",
+        "file": "Verlorener.mp3",
+        "words": "Verlorener.json",
+        "yesNo": "Verlorener.json"
+    }, {
+        "name": {
+            "en": "Dream Job",
+            "de": "Traumjob",
+            "ru": "Работа мечты"
+        },
+        "description": {
+            "en": "Passion for books",
+            "de": "Leidenschaft für Bücher",
+            "ru": "Страсть к книгам"
+        },
+        "level": "A2",
+        "image": "Joel.png",
+        "file": "Joel.mp3",
+        "words": "Joel.json",
+        "multi": "Joel.json"
+    }, {
+        "name": {
+            "en": "Stormy Week",
+            "de": "Stürmische Woche",
+            "ru": "Штормовая неделя"
+        },
+        "description": {
+            "en": "Rain and aftermath",
+            "de": "Regen und Nachwirkungen",
+            "ru": "Дождь и последствия"
+        },
+        "level": "A2",
+        "image": "Stormy.jpg",
+        "file": "Stormy.mp3",
+        "words": "Stormy.json",
+        "yesNo": "Stormy.json"
+    }, {
+        "name": {
+            "en": "Sophie's Move",
+            "de": "Sophies Umzug",
+            "ru": "Переезд Софи"
+        },
+        "description": {
+            "en": "New Beginnings",
+            "de": "Neuanfänge",
+            "ru": "Новые Начала"
+        },
+        "level": "A2",
+        "image": "Sophie.png",
+        "file": "Sophie.mp3",
+        "words": "Sophie.json",
+        "multi": "Sophie.json"
+    }, {
+        "name": {
+            "en": "A Chef's Day",
+            "de": "Ein Tag eines Kochs",
+            "ru": "День шеф-повара"
+        },
+        "description": {
+            "en": "German Culinary",
+            "de": "Deutsche Kulinarik",
+            "ru": "Немецкая кулинария"
+        },
+        "level": "A2",
+        "image": "KulinarikNew.png",
+        "file": "Kulinarik.mp3",
+        "words": "Kulinarik.json",
+        "multi": "Kulinarik.json"
+    }, {
+        "name": {
+            "en": "Lena's Journey",
+            "de": "Lenas Reise",
+            "ru": "Путешествие Лены"
+        },
+        "description": {
+            "en": "Summer language course",
+            "de": "Sommer Sprachkurs",
+            "ru": "Летний языковой курс"
+        },
+        "level": "A2",
+        "image": "Lena.png",
+        "file": "Lena.mp3",
+        "words": "Lena.json",
+        "yesNo": "Lena.json"
+    }, {
+        "name": {
+            "en": "Thomas's Favorites",
+            "de": "Thomas' Favoriten",
+            "ru": "Любимое Томаса"
+        },
+        "description": {
+            "en": "Fruits and vegetables",
+            "de": "Obst und Gemüse",
+            "ru": "Фрукты и овощи"
+        },
+        "level": "A2",
+        "image": "Thomas.jpg",
+        "file": "Thomas.mp3",
+        "words": "Thomas.json",
+        "yesNo": "Thomas.json"
+    }, {
+        "name": {
+            "en": "Lily's Adventure",
+            "de": "Lilys Abenteuer",
+            "ru": "Приключения Лили"
+        },
+        "description": {
+            "en": "Zoo Visit",
+            "de": "Zoobesuch",
+            "ru": "Визит в зоопарк"
+        },
+        "level": "A2",
+        "image": "Lily.jpg",
+        "file": "Lily.mp3",
+        "words": "Lily.json",
+        "multi": "Lily.json"
+    }, {
+        "name": {
+            "en": "Coffee Tradition",
+            "de": "Kaffeetradition",
+            "ru": "Традиция кофе"
+        },
+        "description": {
+            "en": "Friends share cakes",
+            "de": "Freunde teilen Kuchen",
+            "ru": "Друзья делятся пирогами"
+        },
+        "level": "A2",
+        "image": "Kaffeetradition.jpg",
+        "file": "Kaffeetradition.mp3",
+        "words": "Kaffeetradition.json",
+        "yesNo": "Kaffeetradition.json"
+    }
+]

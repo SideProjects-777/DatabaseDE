@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "en": "Burg Eltz",
+            "de": "Burg Eltz",
+            "ru": "Бург Эльц"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Eltz.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Eltz.json"
+    }, {
+        "id": 2,
+        "title": {
+            "en": "Fairytale Beilstein",
+            "de": "Märchenhaftes Beilstein",
+            "ru": "Сказочный Бейльштайн"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Beilstein.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Beilstein.json"
+    }, {
+        "id": 3,
+        "title": {
+            "en": "Zell's Black Cat",
+            "de": "Zeller Schwarze Katz",
+            "ru": "Черная кошка из Целля"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Weingeschichte.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Weingeschichte.json"
+    }, {
+        "id": 4,
+        "title": {
+            "en": "Bike Adventure",
+            "de": "Radabenteuer",
+            "ru": "Приключение на велосипеде"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Radabenteuer.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Radabenteuer.json"
+    }, {
+        "id": 5,
+        "title": {
+            "en": "Cochem vs Trier",
+            "de": "Cochem gegen Trier",
+            "ru": "Кохем против Трира"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Charmante.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Charmante.json"
+    }, {
+        "id": 6,
+        "title": {
+            "en": "Cochem Castle",
+            "de": "Burg Cochem",
+            "ru": "Замок Кохем"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Cochem.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Cochem.json"
+    }, {
+        "id": 7,
+        "title": {
+            "en": "Cycling Adventure",
+            "de": "Fahrradabenteuer",
+            "ru": "Велоприключение"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Cycling.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Cycling.json"
+    }, {
+        "id": 8,
+        "title": {
+            "en": "Mosel River Crossings",
+            "de": "Moselübergänge",
+            "ru": "Переходы через Мозель"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Bridge.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Bridge.json"
+    }, {
+        "id": 9,
+        "title": {
+            "en": "Burg Thurant",
+            "de": "Burg Thurant",
+            "ru": "Замок Турант"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/img/Thurant.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/mosel/words/Thurant.json"
+    }
+]
