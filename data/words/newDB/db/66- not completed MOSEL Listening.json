@@ -1,0 +1,115 @@
+[
+    {
+        "name": {
+            "en": "Murder Mystery",
+            "de": "Mordrätsel",
+            "ru": "Расследование убийства"
+        },
+        "description": {
+            "en": "Thrilling wine festival",
+            "de": "Aufregendes Weinfest",
+            "ru": "Увлекательный винный фестиваль"
+        },
+        "level": "A2",
+        "image": "Murder.jpg",
+        "file": "Murder.mp3",
+        "words": "Murder.json",
+        "multi": "Murder.json"
+    }, {
+        "name": {
+            "en": "Discover Germany",
+            "de": "Entdecke Deutschland",
+            "ru": "Знакомство с Германией"
+        },
+        "description": {
+            "en": "City with rich heritage",
+            "de": "Stadt mit reichem Erbe",
+            "ru": "Город с богатым наследием"
+        },
+        "level": "A2",
+        "image": "Entdecke.jpg",
+        "file": "Entdecke.mp3",
+        "words": "Entdecke.json",
+        "yesNo": "Entdecke.json"
+    }, {
+        "name": {
+            "en": "Highlights",
+            "de": "Höhepunkte",
+            "ru": "Основные моменты"
+        },
+        "description": {
+            "en": "Wine, Castles, Scenic Views",
+            "de": "Wein, Burgen, Landschaftliche Ansichten",
+            "ru": "Вино, Замки, Живописные виды"
+        },
+        "level": "A2",
+        "image": "Highlights.jpg",
+        "file": "Highlights.mp3",
+        "words": "Highlights.json",
+        "yesNo": "Highlights.json"
+    }, {
+        "name": {
+            "en": "Medieval Beilstein",
+            "de": "Mittelalterliches Beilstein",
+            "ru": "Средневековый Бейльштайн"
+        },
+        "description": {
+            "en": "Historical charm",
+            "de": "Historischer Charme",
+            "ru": "Историческое очарование"
+        },
+        "level": "B1",
+        "image": "Beilstein.jpg",
+        "file": "Beilstein.mp3",
+        "words": "Beilstein.json",
+        "multi": "Beilstein.json"
+    }, {
+        "name": {
+            "en": "Cuisine Highlights",
+            "de": "Küchen-Highlights",
+            "ru": "Блюда Мозеля"
+        },
+        "description": {
+            "en": "Discover local dishes",
+            "de": "Entdecken Sie lokale Gerichte",
+            "ru": "Откройте местные блюда"
+        },
+        "level": "B1",
+        "image": "Cuisine.jpg",
+        "file": "Cuisine.mp3",
+        "words": "Cuisine.json",
+        "yesNo": "Cuisine.json"
+    }, {
+        "name": {
+            "en": "Festivals I",
+            "de": "Feste I",
+            "ru": "Фестивали 1"
+        },
+        "description": {
+            "en": "Music and wine",
+            "de": "Musik und Wein",
+            "ru": "Музыка и вино"
+        },
+        "level": "B1",
+        "image": "Festival_I.jpg",
+        "file": "Festival_I.mp3",
+        "words": "Festival_I.json",
+        "yesNo": "Festival_I.json"
+    }, {
+        "name": {
+            "en": "Festivals II",
+            "de": "Feste II",
+            "ru": "Фестивали 2"
+        },
+        "description": {
+            "en": "Celebrations and tradition",
+            "de": "Feiern und Tradition",
+            "ru": "Празднование и традиции"
+        },
+        "level": "B1",
+        "image": "Festival_II.jpg",
+        "file": "Festival_II.mp3",
+        "words": "Festival_II.json",
+        "multi": "Festival_II.json"
+    }
+]

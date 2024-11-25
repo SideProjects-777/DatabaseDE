@@ -1,0 +1,243 @@
+[
+    {
+        "name": {
+            "de": "Fahrradtour",
+            "en": "Bike tour",
+            "ru": "Велосипедный тур"
+        },
+        "description": {
+            "de": "Picknick am See",
+            "en": "Picnic at the lake",
+            "ru": "Пикник на озере"
+        },
+        "level": "A2",
+        "image": "Fahrradtour.jpg",
+        "file": "Fahrradtour.mp3",
+        "words": "Fahrradtour.json",
+        "multi": "Fahrradtour.json"
+    }, {
+        "name": {
+            "de": "Markus' Ermittlung",
+            "en": "Markus' Investigation",
+            "ru": "Расследование Маркуса"
+        },
+        "description": {
+            "de": "Die Geheimnisse der verlorenen Tasche",
+            "en": "The Mysteries of the Lost Purse",
+            "ru": "Тайны потерянной сумки"
+        },
+        "level": "A2",
+        "image": "Geheimnisse.jpg",
+        "file": "Geheimnisse.mp3",
+        "words": "Geheimnisse.json",
+        "multi": "Geheimnisse.json"
+    }, {
+        "name": {
+            "de": "Am Flughafen",
+            "en": "At the airport",
+            "ru": "В аэропорту"
+        },
+        "description": {
+            "de": "Der Urlaub der Familie Mueller",
+            "en": "The Müller Family's Vacation",
+            "ru": "Отпуск семьи Мюллер"
+        },
+        "level": "A2",
+        "image": "Am_Flughafen.jpg",
+        "file": "Am_Flughafen.mp3",
+        "words": "Am_Flughafen.json",
+        "multi": "Am_Flughafen.json"
+    }, {
+        "name": {
+            "de": "Meine Familie und Ich",
+            "en": "My Family and I",
+            "ru": "Моя семья и я"
+        },
+        "description": {
+            "de": "Leben in Bonn",
+            "en": "Life in Bonn",
+            "ru": "Жизнь в Бонне"
+        },
+        "level": "A2",
+        "image": "LebenBonn.jpg",
+        "file": "LebenBonn.mp3",
+        "words": "LebenBonn.json",
+        "yesNo": "LebenBonn.json"
+    }, {
+        "name": {
+            "de": "Müllers Bonner Fall",
+            "en": "Muller's Bonn case",
+            "ru": "Боннское дело Мюллера"
+        },
+        "description": {
+            "de": "Das gestohlene Gold",
+            "en": "The Stolen Gold",
+            "ru": "Украденное золото"
+        },
+        "level": "A2",
+        "image": "Gold.jpg",
+        "file": "Gold.mp3",
+        "words": "Gold.json",
+        "yesNo": "Gold.json"
+    }, {
+        "name": {
+            "de": "Julias Neue Welt",
+            "en": "Julia's New Horizons",
+            "ru": "Новые горизонты Юлии"
+        },
+        "description": {
+            "de": "Von Stuttgart nach Bonn",
+            "en": "From Stuttgart to Bonn",
+            "ru": "Из Штутгарта в Бонн"
+        },
+        "level": "B1",
+        "image": "NeuStadt.jpg",
+        "file": "NeuStadt.mp3",
+        "words": "NeuStadt.json",
+        "yesNo": "NeuStadt.json"
+    }, {
+        "name": {
+            "de": "Das erste Mal in Bonn",
+            "en": "First Time in Bonn",
+            "ru": "Первый раз в Бонне"
+        },
+        "description": {
+            "de": "Eine kleine Stadt mit einem großen Herzen",
+            "en": "A Small City with a Big Heart",
+            "ru": "Маленький город с большим сердцем"
+        },
+        "level": "B1",
+        "image": "ErsteMal.jpg",
+        "file": "ErsteMal.mp3",
+        "words": "ErsteMal.json",
+        "yesNo": "ErsteMal.json"
+    }, {
+        "name": {
+            "de": "Ein Wintermärchen",
+            "en": "A Winter Wonderland",
+            "ru": "Зимняя сказка"
+        },
+        "description": {
+            "de": "Mein erstes Weihnachten",
+            "en": "My First Christmas",
+            "ru": "Моё первое Рождество"
+        },
+        "level": "B1",
+        "image": "MeinWeihnachten.jpg",
+        "file": "MeinWeihnachten.mp3",
+        "words": "MeinWeihnachten.json",
+        "yesNo": "MeinWeihnachten.json"
+    }, {
+        "name": {
+            "de": "Bonn entdecken III",
+            "en": "Discovering Bonn III",
+            "ru": "Знакомство с Бонном III"
+        },
+        "description": {
+            "de": "Lebensmitteleinkauf",
+            "en": "Grocery Shopping",
+            "ru": "Продуктовые магазины"
+        },
+        "level": "B1",
+        "image": "Lebensmitteleinkauf.jpg",
+        "file": "Lebensmitteleinkauf.mp3",
+        "words": "Lebensmitteleinkauf.json",
+        "multi": "Lebensmitteleinkauf.json"
+    }, {
+        "name": {
+            "de": "Die Zusammenarbeit beim Karneval",
+            "en": "The Carnival Collaboration",
+            "ru": "Сотрудничество на карнавале"
+        },
+        "description": {
+            "de": "Eine Geschichte über Freundschaft und Kreativität",
+            "en": "A Tale of Friendship and Creativity",
+            "ru": "Сказка о дружбе и творчестве"
+        },
+        "level": "B1",
+        "image": "CarnavalStory.png",
+        "file": "CarnavalStory.mp3",
+        "words": "CarnavalStory.json",
+        "multi": "CarnavalStory.json"
+    }, {
+        "name": {
+            "de": "Beethoven-Haus I",
+            "en": "Beethoven House I",
+            "ru": "Дом Бетховена I"
+        },
+        "description": {
+            "de": "Überblick über das Museum",
+            "en": "Overview of the museum",
+            "ru": "Обзор музея"
+        },
+        "level": "B2",
+        "image": "BeethovenI.jpg",
+        "file": "BeethovenI.mp3",
+        "words": "BeethovenI.json",
+        "yesNo": "BeethovenI.json"
+    }, {
+        "name": {
+            "de": "Beethoven-Haus II",
+            "en": "Beethoven House II",
+            "ru": "Дом Бетховена II"
+        },
+        "description": {
+            "de": "Hintergrund und seine Exponate",
+            "en": "Background and its exhibits",
+            "ru": "История и ее экспонаты"
+        },
+        "level": "B2",
+        "image": "BeethovenII.jpg",
+        "file": "BeethovenII.mp3",
+        "words": "BeethovenII.json",
+        "multi": "BeethovenII.json"
+    }, {
+        "name": {
+            "de": "Hofgarten",
+            "en": "Court garden",
+            "ru": "Сад во дворе"
+        },
+        "description": {
+            "de": "Veranstaltungsort politischer Großkundgebungen",
+            "en": "Venue for major political rallies",
+            "ru": "Место проведения крупных политических митингов"
+        },
+        "level": "B2",
+        "image": "Hofgarten.jpg",
+        "file": "Hofgarten.mp3",
+        "words": "Hofgarten.json",
+        "yesNo": "Hofgarten.json"
+    }, {
+        "name": {
+            "de": "Bonn entdecken I",
+            "en": "Discovering Bonn I",
+            "ru": "Знакомство с Бонном I"
+        },
+        "description": {
+            "de": "Straßen",
+            "en": "Streets",
+            "ru": "Улицы"
+        },
+        "level": "B2",
+        "image": "BonnStreets.jpg",
+        "file": "BonnStreets.mp3",
+        "words": "BonnStreets.json",
+        "multi": "BonnStreets.json"
+    }, {
+        "name": {
+            "de": "Bonn entdecken II",
+            "en": "Discovering Bonn II",
+            "ru": "Знакомство с Бонном II"
+        },
+        "description": {
+            "de": "Berühmte Karnevale",
+            "en": "Famous carnavals",
+            "ru": "Знаменитые карнавалы"
+        },
+        "level": "B2",
+        "image": "BonnCarnavals.jpg",
+        "file": "BonnCarnavals.mp3",
+        "words": "BonnCarnavals.json",
+        "multi": "BonnCarnavals.json"
+    }
+]

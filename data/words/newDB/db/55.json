@@ -1,0 +1,245 @@
+[
+    {
+        "name": {
+            "en": "Loreley",
+            "de": "Loreley",
+            "ru": "Лорель"
+        },
+        "description": {
+            "en": "Enchanting siren's song",
+            "de": "Verzaubernder Gesang der Nixe",
+            "ru": "Завораживающая песня сирены"
+        },
+        "level": "A2",
+        "image": "Loreley.jpg",
+        "file": "Loreley.mp3",
+        "words": "Loreley.json",
+        "multi": "Loreley.json"
+    }, {
+        "name": {
+            "en": "Dragon",
+            "de": "Drachen",
+            "ru": "Дракон"
+        },
+        "description": {
+            "en": "Hero defeats the beast",
+            "de": "Held besiegt das Ungeheuer",
+            "ru": "Герой побеждает чудовище"
+        },
+        "level": "B1",
+        "image": "Dragon.png",
+        "file": "Dragon.mp3",
+        "words": "Dragon.json",
+        "multi": "Dragon.json"
+    }, {
+        "name": {
+            "en": "Ghost",
+            "de": "Geist",
+            "ru": "Призрак"
+        },
+        "description": {
+            "en": "Mysterious ghostly encounter",
+            "de": "Geheimnisvolle Geisterbegegnung",
+            "ru": "Таинственная встреча с призраком"
+        },
+        "level": "A2",
+        "image": "Ghost.jpg",
+        "file": "Ghost.mp3",
+        "words": "Ghost.json",
+        "multi": "Ghost.json"
+    }, {
+
+        "name": {
+            "en": "Knightly Adventure",
+            "de": "Ritterliches Abenteuer",
+            "ru": "Рыцарское приключение"
+        },
+        "description": {
+            "en": "Castle Experience",
+            "de": "Burg-Erlebnis",
+            "ru": "Замковый опыт"
+        },
+        "level": "A2",
+        "image": "Ritterliches.jpg",
+        "file": "Ritterliches.mp3",
+        "words": "Ritterliches.json",
+        "yesNo": "Ritterliches.json"
+    }, {
+        "name": {
+            "en": "Summer fun",
+            "de": "Sommervergnügen",
+            "ru": "Летние радости"
+        },
+        "description": {
+            "en": "Rivers and Castles",
+            "de": "Flüsse und Burgen",
+            "ru": "Реки и замки"
+        },
+        "level": "A2",
+        "image": "Summer.jpg",
+        "file": "Summer.mp3",
+        "words": "Summer.json",
+        "yesNo": "Summer.json"
+    }, {
+
+        "name": {
+            "en": "Secret Fountain",
+            "de": "Geheimer Brunnen",
+            "ru": "Секретный Фонтан"
+        },
+        "description": {
+            "en": "Magical discovery",
+            "de": "Magische Entdeckung",
+            "ru": "Волшебное открытие"
+        },
+        "level": "A2",
+        "image": "Fountain.jpg",
+        "file": "Fountain.mp3",
+        "words": "Fountain.json",
+        "yesNo": "Fountain.json"
+    }, {
+        "name": {
+            "en": "Koblenz Adventure",
+            "de": "Koblenzer Abenteuer",
+            "ru": "Приключения в Кобленце"
+        },
+        "description": {
+            "en": "Friends explore historic city",
+            "de": "Freunde erkunden historische Stadt",
+            "ru": "Друзья исследуют исторический город"
+        },
+        "level": "B1",
+        "image": "Abenteuer.jpg",
+        "file": "Abenteuer.mp3",
+        "words": "Abenteuer.json",
+        "yesNo": "Abenteuer.json"
+    }, {
+        "name": {
+            "en": "Badminton game",
+            "de": "Badmintonspiel",
+            "ru": "Игра в бадминтон"
+        },
+        "description": {
+            "en": "Friends from Koblenz",
+            "de": "Freunde aus Koblenz",
+            "ru": "Друзья из Кобленца"
+        },
+        "level": "B1",
+        "image": "Badmintonspiel.jpg",
+        "file": "Badmintonspiel.mp3",
+        "words": "Badmintonspiel.json",
+        "yesNo": "Badmintonspiel.json"
+    }, {
+        "name": {
+            "en": "Family Day",
+            "de": "Familientag",
+            "ru": "Семейный день"
+        },
+        "description": {
+            "en": "Cable car",
+            "de": "Seilbahn",
+            "ru": "Кабельная дорога"
+        },
+        "level": "B1",
+        "image": "Familientag.jpg",
+        "file": "Familientag.mp3",
+        "words": "Familientag.json",
+        "multi": "Familientag.json"
+    }, {
+        "name": {
+            "en": "Family Fun",
+            "de": "Familien Spaß",
+            "ru": "Семейное развлечение"
+        },
+        "description": {
+            "en": "Fun for all",
+            "de": "Spaß für alle",
+            "ru": "Веселье для всех"
+        },
+        "level": "B1",
+        "image": "Altersgruppen.jpg",
+        "file": "Altersgruppen.mp3",
+        "words": "Altersgruppen.json",
+        "yesNo": "Altersgruppen.json"
+    }, {
+        "name": {
+            "en": "Dreams Unleashed",
+            "de": "Träume verwirklicht",
+            "ru": "Мечты осуществлены"
+        },
+        "description": {
+            "en": "Actress's festival adventure",
+            "de": "Schauspielerin beim Festivalabenteuer",
+            "ru": "Приключение актрисы на фестивале"
+        },
+        "level": "B2",
+        "image": "Unleashed.jpg",
+        "file": "Unleashed.mp3",
+        "words": "Unleashed.json",
+        "yesNo": "Unleashed.json"
+    }, {
+        "name": {
+            "en": "Riesling Adventure",
+            "de": "Riesling-Abenteuer",
+            "ru": "Приключение с Рислингом"
+        },
+        "description": {
+            "en": "Exploring Koblenz with Riesling",
+            "de": "Koblenz erkunden mit Riesling",
+            "ru": "Исследование Кобленца с Рислингом"
+        },
+        "level": "B2",
+        "image": "RieslingAdventure.jpg",
+        "file": "RieslingAdventure.mp3",
+        "words": "RieslingAdventure.json",
+        "multi": "RieslingAdventure.json"
+    }, {
+        "name": {
+            "en": "Love in Koblenz",
+            "de": "Liebe in Koblenz",
+            "ru": "Любовь в Кобленце"
+        },
+        "description": {
+            "en": "Romantic Exploration",
+            "de": "Romantische Erkundung",
+            "ru": "Романтическое путешествие"
+        },
+        "level": "B2",
+        "image": "RomantischeErkundung.jpg",
+        "file": "RomantischeErkundung.mp3",
+        "words": "RomantischeErkundung.json",
+        "multi": "RomantischeErkundung.json"
+    }, {
+        "name": {
+            "en": "Wine Adventure",
+            "de": "Weinabenteuer",
+            "ru": "Винное приключение"
+        },
+        "description": {
+            "en": "Lazy man discovers passion",
+            "de": "Faule Mann entdeckt Leidenschaft",
+            "ru": "Ленивый человек обнаруживает страсть"
+        },
+        "level": "B2",
+        "image": "Weinabenteuer.jpg",
+        "file": "Weinabenteuer.mp3",
+        "words": "Weinabenteuer.json",
+        "multi": "Weinabenteuer.json"
+    }, {
+        "name": {
+            "en": "Castle Love Story",
+            "de": "Schloss Liebesgeschichte",
+            "ru": "История любви в замке"
+        },
+        "description": {
+            "en": "Friendship turned everlasting love",
+            "de": "Freundschaft wurde ewige Liebe",
+            "ru": "Из дружбы в вечную любовь"
+        },
+        "level": "B2",
+        "image": "Liebesgeschichte.jpg",
+        "file": "Liebesgeschichte.mp3",
+        "words": "Liebesgeschichte.json",
+        "multi": "Liebesgeschichte.json"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "name": {
+            "en": "Burg Eltz",
+            "de": "Burg Eltz",
+            "ru": "Бург Эльц"
+        },
+        "description": {
+            "en": "Hilltop castle",
+            "de": "Hügel-Schloss",
+            "ru": "Замок на холме"
+        },
+        "level": "A2",
+        "image": "Eltz.jpg",
+        "file": "Eltz.txt",
+        "words": "Eltz.json",
+        "yesNo": "Eltz.json"
+    }, {
+        "name": {
+            "en": "Fairytale Beilstein",
+            "de": "Märchenhaftes Beilstein",
+            "ru": "Сказочный Бейльштайн"
+        },
+        "description": {
+            "en": "Charming village",
+            "de": "Charmantes Dorf",
+            "ru": "Очаровательная деревня"
+        },
+        "level": "A2",
+        "image": "Beilstein.jpg",
+        "file": "Beilstein.txt",
+        "words": "Beilstein.json",
+        "multi": "Beilstein.json"
+    }, {
+        "name": {
+            "en": "Zell's Black Cat",
+            "de": "Zeller Schwarze Katz",
+            "ru": "Черная кошка из Целля"
+        },
+        "description": {
+            "en": "Wine tale",
+            "de": "Weingeschichte",
+            "ru": "Винная сказка"
+        },
+        "level": "B1",
+        "image": "Weingeschichte.jpg",
+        "file": "Weingeschichte.txt",
+        "words": "Weingeschichte.json",
+        "multi": "Weingeschichte.json"
+    }, {
+        "name": {
+            "en": "Bike Adventure",
+            "de": "Radabenteuer",
+            "ru": "Приключение на велосипеде"
+        },
+        "description": {
+            "en": "Scenic villages",
+            "de": "Malerische Dörfer",
+            "ru": "Живописные деревни"
+        },
+        "level": "B1",
+        "image": "Radabenteuer.jpg",
+        "file": "Radabenteuer.txt",
+        "words": "Radabenteuer.json",
+        "yesNo": "Radabenteuer.json"
+    }, {
+        "name": {
+            "en": "Cochem vs Trier",
+            "de": "Cochem gegen Trier",
+            "ru": "Кохем против Трира"
+        },
+        "description": {
+            "en": "Charming towns or ancient history",
+            "de": "Charmante Städte oder alte Geschichte",
+            "ru": "Очаровательный город или древняя история"
+        },
+        "level": "B1",
+        "image": "Charmante.jpg",
+        "file": "Charmante.txt",
+        "words": "Charmante.json",
+        "yesNo": "Charmante.json"
+    }, {
+        "name": {
+            "en": "Cochem Castle",
+            "de": "Burg Cochem",
+            "ru": "Замок Кохем"
+        },
+        "description": {
+            "en": "Historic Fortress",
+            "de": "Historische Festung",
+            "ru": "Историческая крепость"
+        },
+        "level": "B1",
+        "image": "Cochem.jpg",
+        "file": "Cochem.txt",
+        "words": "Cochem.json",
+        "multi": "Cochem.json"
+    }, {
+        "name": {
+            "en": "Cycling Adventure",
+            "de": "Fahrradabenteuer",
+            "ru": "Велоприключение"
+        },
+        "description": {
+            "en": "Explore charming towns",
+            "de": "Charmante Städte erkunden",
+            "ru": "Исследуйте очаровательные города"
+        },
+        "level": "B1",
+        "image": "Cycling.jpg",
+        "file": "Cycling.txt",
+        "words": "Cycling.json",
+        "yesNo": "Cycling.json"
+    }, {
+        "name": {
+            "en": "Mosel River Crossings",
+            "de": "Moselübergänge",
+            "ru": "Переходы через Мозель"
+        },
+        "description": {
+            "en": "Historical Mosel Bridges",
+            "de": "Historische Moselbrücken",
+            "ru": "Исторические мосты Мозеля"
+        },
+        "level": "B2",
+        "image": "Bridge.jpg",
+        "file": "Bridge.txt",
+        "words": "Bridge.json",
+        "multi": "Bridge.json"
+    }, {
+        "name": {
+            "en": "Burg Thurant",
+            "de": "Burg Thurant",
+            "ru": "Замок Турант"
+        },
+        "description": {
+            "en": "Historic site",
+            "de": "Historischer Ort",
+            "ru": "Историческое место"
+        },
+        "level": "B2",
+        "image": "Thurant.jpg",
+        "file": "Thurant.txt",
+        "words": "Thurant.json",
+        "yesNo": "Thurant.json"
+    }
+]

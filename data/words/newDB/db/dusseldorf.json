@@ -1,0 +1,243 @@
+[
+    {
+        "name": {
+            "en": "The Vampire",
+            "de": "Der Vampir",
+            "ru": "Вампир"
+        },
+        "description": {
+            "en": "Serial killer",
+            "de": "Serienmörder",
+            "ru": "Серийный убийца"
+        },
+        "level": "A2",
+        "image": "Vampire.jpg",
+        "file": "Vampire.txt",
+        "words": "Vampire.json",
+        "yesNo": "Vampire.json"
+    }, {
+        "name": {
+            "en": "Friendly Assistance",
+            "de": "Freundliche Hilfe",
+            "ru": "Дружественная помощь"
+        },
+        "description": {
+            "en": "Locked door",
+            "de": "Verschlossene Tür",
+            "ru": "Запертая дверь"
+        },
+        "level": "A2",
+        "image": "Keys.jpg",
+        "file": "Keys.txt",
+        "words": "Keys.json",
+        "yesNo": "Keys.json"
+    }, {
+        "name": {
+            "en": "Vacation dilemma",
+            "de": "Urlaubsdilemma",
+            "ru": "Дилемма отпуска"
+        },
+        "description": {
+            "en": "Where to travel?",
+            "de": "Wohin soll man reisen?",
+            "ru": "Куда поехать?"
+        },
+        "level": "A2",
+        "image": "Urlaubsdilemma.jpg",
+        "file": "Urlaubsdilemma.txt",
+        "words": "Urlaubsdilemma.json",
+        "yesNo": "Urlaubsdilemma.json"
+    }, {
+        "name": {
+            "en": "Fashion Fun Day",
+            "de": "Mode-Spaßtag",
+            "ru": "День моды и веселья"
+        },
+        "description": {
+            "en": "Buying clothes",
+            "de": "Kleidung kaufen",
+            "ru": "Покупать одежду"
+        },
+        "level": "A2",
+        "image": "ChicExpedition.jpg",
+        "file": "ChicExpedition.txt",
+        "words": "ChicExpedition.json",
+        "multi": "ChicExpedition.json"
+    }, {
+        "name": {
+            "de": "Düsseldorf erkunden",
+            "en": "Exploring Dusseldorf",
+            "ru": "Знакомство с Дюссельдорфом"
+        },
+        "description": {
+            "de": "Eine Reisegeschichte",
+            "en": "A Traveler's Tale",
+            "ru": "Путешественнический рассказ"
+        },
+        "level": "B1",
+        "image": "Dusseldorf_Erkunden.jpg",
+        "file": "Dusseldorf_Erkunden.txt",
+        "words": "Dusseldorf_Erkunden.json",
+        "yesNo": "Dusseldorf_Erkunden.json"
+    }, {
+        "name": {
+            "en": "Tonhalle Legends",
+            "de": "Tonhalle Legenden",
+            "ru": "Легенды Тонхалле"
+        },
+        "description": {
+            "en": "Iconic musicians",
+            "de": "Ikone Musiker",
+            "ru": "Иконические музыканты"
+        },
+        "level": "B1",
+        "image": "Tonhalle.jpg",
+        "file": "Tonhalle.txt",
+        "words": "Tonhalle.json",
+        "multi": "Tonhalle.json"
+    }, {
+        "name": {
+            "en": "Hidden gems",
+            "de": "Versteckte Juwelen",
+            "ru": "Скрытые жемчужины"
+        },
+        "description": {
+            "en": "Citizen interviews",
+            "de": "Bürgerinterviews",
+            "ru": "Интервью с гражданами"
+        },
+        "level": "B1",
+        "image": "Burgerinterviews.jpg",
+        "file": "Burgerinterviews.txt",
+        "words": "Burgerinterviews.json",
+        "multi": "Burgerinterviews.json"
+    }, {
+        "name": {
+            "en": "Altstadt Charm",
+            "de": "Altstadt Charme",
+            "ru": "Шарм Старого Города"
+        },
+        "description": {
+            "en": "Vibrant historic hub",
+            "de": "Lebendiger historischer Hotspot",
+            "ru": "Живой исторический центр"
+        },
+        "level": "B1",
+        "image": "Altstadt.jpg",
+        "file": "Altstadt.txt",
+        "words": "Altstadt.json",
+        "yesNo": "Altstadt.json"
+    }, {
+        "name": {
+            "en": "Kö Elegance",
+            "de": "Kö Eleganz",
+            "ru": "Элегантность Кё"
+        },
+        "description": {
+            "en": "Historic charm",
+            "de": "Historischer Charme",
+            "ru": "Исторический шарм"
+        },
+        "level": "B1",
+        "image": "Elegance.jpg",
+        "file": "Elegance.txt",
+        "words": "Elegance.json",
+        "yesNo": "Elegance.json"
+    }, {
+        "name": {
+            "en": "Neighborhoods IV",
+            "de": "Stadtteile IV",
+            "ru": "Районы IV"
+        },
+        "description": {
+            "en": "Derendorf & Kaiserswerth",
+            "de": "Derendorf & Kaiserswerth",
+            "ru": "Дерендорф и Кайзерсверт"
+        },
+        "level": "B1",
+        "image": "Kaiserswerth.jpg",
+        "file": "Kaiserswerth.txt",
+        "words": "Kaiserswerth.json",
+        "multi": "Kaiserswerth.json"
+    }, {
+        "name": {
+            "en": "Rhein Tower",
+            "de": "Rheinturm",
+            "ru": "Башня Рейна"
+        },
+        "description": {
+            "en": "Iconic landmark",
+            "de": "Ikonisches Wahrzeichen",
+            "ru": "Иконический памятник"
+        },
+        "level": "B2",
+        "image": "Rheinturm.jpg",
+        "file": "Rheinturm.txt",
+        "words": "Rheinturm.json",
+        "yesNo": "Rheinturm.json"
+    }, {
+        "name": {
+            "en": "Japan Day Experience",
+            "de": "Japanischer Tag Erlebnis",
+            "ru": "Опыт Японского Дня"
+        },
+        "description": {
+            "en": "Culinary adventure",
+            "de": "Kulinarisches Abenteuer",
+            "ru": "Кулинарное приключение"
+        },
+        "level": "B2",
+        "image": "JapanDay.jpg",
+        "file": "JapanDay.txt",
+        "words": "JapanDay.json",
+        "multi": "JapanDay.json"
+    }, {
+        "name": {
+            "en": "Castle Treasure Adventure",
+            "de": "Schloss Schatzabenteuer",
+            "ru": "Приключение в замке"
+        },
+        "description": {
+            "en": "Discovering hidden castle treasure",
+            "de": "Verborgenen Schlossschatz entdecken",
+            "ru": "Открытие сокровищ в замке"
+        },
+        "level": "B2",
+        "image": "Treasure.jpg",
+        "file": "Treasure.txt",
+        "words": "Treasure.json",
+        "multi": "Treasure.json"
+    }, {
+        "name": {
+            "en": "City Charms",
+            "de": "Stadtzauber",
+            "ru": "Прелесть городов"
+        },
+        "description": {
+            "en": "A journalist's adventure",
+            "de": "Das Abenteuer eines Journalisten",
+            "ru": "Приключения журналиста"
+        },
+        "level": "B2",
+        "image": "Stadtzauber.jpg",
+        "file": "Stadtzauber.txt",
+        "words": "Stadtzauber.json",
+        "multi": "Stadtzauber.json"
+    }, {
+        "name": {
+            "en": "Heine University",
+            "de": "Heine Universität",
+            "ru": "Университет Гейне"
+        },
+        "description": {
+            "en": "Academic excellence",
+            "de": "Akademische Exzellenz",
+            "ru": "Академическое совершенство"
+        },
+        "level": "B2",
+        "image": "Heine.jpg",
+        "file": "Heine.txt",
+        "words": "Heine.json",
+        "multi": "Heine.json"
+    }
+]

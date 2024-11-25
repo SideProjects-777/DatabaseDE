@@ -1,0 +1,53 @@
+[
+    {
+        "title": {
+            "de": "Allgemein",
+            "en": "General",
+            "ru": "Общее"
+        },
+        "filename": "general.json"
+    }, {
+        "title": {
+            "de": "Bonn \u270D",
+            "en": "Bonn \u270D",
+            "ru": "Бонн \u270D"
+        },
+        "filename": "bonn.json"
+    }, {
+        "title": {
+            "de": "Cologne \u270D",
+            "en": "Cologne \u270D",
+            "ru": "Кёльн \u270D"
+        },
+        "filename": "cologne.json"
+    }, {
+        "title": {
+            "de": "Düsseldorf \u270D",
+            "en": "Düsseldorf \u270D",
+            "ru": "Дюссельдорф \u270D"
+        },
+        "filename": "dusseldorf.json"
+    }, {
+        "title": {
+            "de": "Koblenz \u270D",
+            "en": "Koblenz \u270D",
+            "ru": "Кобленц \u270D"
+        },
+        "filename": "koblenz.json"
+    }, {
+        "title": {
+            "de": "Einfach Stadt \u270D",
+            "en": "Simple city \u270D",
+            "ru": "Просто город \u270D"
+        },
+        "filename": "einfach.json"
+    }, {
+        "title": {
+            "de": "Mosel \u270D",
+            "en": "Moselle \u270D",
+            "ru": "Мозель \u270D"
+        },
+        "filename": "mosel.json"
+    }
+
+]
