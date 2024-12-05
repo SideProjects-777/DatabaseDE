@@ -143,5 +143,21 @@
         "file": "Thurant.txt",
         "words": "Thurant.json",
         "yesNo": "Thurant.json"
+    }, {
+        "name": {
+            "en": "Biodiversity",
+            "de": "Biodiversität",
+            "ru": "Биоразнообразие"
+        },
+        "description": {
+            "en": "Diverse animals in Mosel.",
+            "de": "Verschiedene Tiere an der Mosel.",
+            "ru": "Разнообразные животные в Мозеле."
+        },
+        "level": "B2",
+        "image": "BiodiversityII.jpg",
+        "file": "BiodiversityII.txt",
+        "words": "BiodiversityII.json",
+        "yesNo": "BiodiversityII.json"
     }
 ]
