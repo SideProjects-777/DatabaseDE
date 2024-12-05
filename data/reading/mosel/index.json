@@ -159,5 +159,21 @@
         "file": "BiodiversityII.txt",
         "words": "BiodiversityII.json",
         "yesNo": "BiodiversityII.json"
+    }, {
+        "name": {
+            "en": "Moselle in War",
+            "de": "Mosel im Krieg",
+            "ru": "Мозель на войне"
+        },
+        "description": {
+            "en": "A river's wartime resilience",
+            "de": "Kriegszeitliche Resilienz eines Flusses",
+            "ru": "Военная стойкость реки"
+        },
+        "level": "B2",
+        "image": "WWII.jpg",
+        "file": "WWII.txt",
+        "words": "WWII.json",
+        "yesNo": "WWII.json"
     }
 ]

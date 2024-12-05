@@ -1,0 +1,171 @@
+[
+    {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+        "descriptionRU": "Крупный естественный поток воды, текущий в русле к морю, озеру или другому потоку.",
+        "descriptionDE": "Ein großer natürlicher Wasserlauf, der in einem Flussbett zum Meer, zu einem See oder zu einem anderen Gewässer fließt."
+    }, {
+        "de": "die Brücke",
+        "en": "bridge",
+        "ru": "мост",
+        "descriptionEN": "A structure carrying a road, path, or railway over a river or other obstacle.",
+        "descriptionRU": "Строение, соединяющее через реку или другую преграду дорогу, путь или железную дорогу.",
+        "descriptionDE": "Eine Konstruktion, die eine Straße, einen Weg oder eine Eisenbahn über einen Fluss oder ein anderes Hindernis führt."
+    }, {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "A plantation of grapevines, typically producing grapes for winemaking.",
+        "descriptionRU": "Плантация виноградных лоз, обычно используемая для производства вина.",
+        "descriptionDE": "Eine Pflanzung von Weinstöcken, die typischerweise Trauben für die Weinherstellung produziert."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "ландшафт",
+        "descriptionEN": "All the visible features of an area of land, often considered in terms of their aesthetic appeal.",
+        "descriptionRU": "Все видимые особенности участка земли, часто рассматриваемые с точки зрения их эстетической привлекательности.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Gebiets, oft unter ästhetischen Gesichtspunkten betrachtet."
+    }, {
+        "de": "der Krieg",
+        "en": "war",
+        "ru": "война",
+        "descriptionEN": "A state of armed conflict between different countries or groups.",
+        "descriptionRU": "Состояние вооруженного конфликта между странами или группами.",
+        "descriptionDE": "Ein Zustand bewaffneter Konflikte zwischen verschiedenen Ländern oder Gruppen."
+    }, {
+        "de": "die Resilienz",
+        "en": "resilience",
+        "ru": "устойчивость",
+        "descriptionEN": "The capacity to recover quickly from difficulties.",
+        "descriptionRU": "Способность быстро восстанавливаться после трудностей.",
+        "descriptionDE": "Die Fähigkeit, sich schnell von Schwierigkeiten zu erholen."
+    }, {
+        "de": "die Zerstörung",
+        "en": "destruction",
+        "ru": "разрушение",
+        "descriptionEN": "The action of causing so much damage that it no longer exists.",
+        "descriptionRU": "Действие, при котором что-то полностью разрушается.",
+        "descriptionDE": "Die Handlung, bei der etwas so stark beschädigt wird, dass es nicht mehr existiert."
+    }, {
+        "de": "das Symbol",
+        "en": "symbol",
+        "ru": "символ",
+        "descriptionEN": "A mark or sign representing an idea, object, or relationship.",
+        "descriptionRU": "Знак, символ или слово, представляющее идею, объект или отношение.",
+        "descriptionDE": "Ein Zeichen, ein Symbol oder ein Wort, das eine Idee, ein Objekt oder eine Beziehung darstellt."
+    }, {
+        "de": "die Erinnerung",
+        "en": "memory",
+        "ru": "воспоминание",
+        "descriptionEN": "The faculty by which the mind stores and remembers information.",
+        "descriptionRU": "Способность ума сохранять и вспоминать информацию.",
+        "descriptionDE": "Die Fähigkeit des Geistes, Informationen zu speichern und sich daran zu erinnern."
+    }, {
+        "de": "das Opfer",
+        "en": "sacrifice",
+        "ru": "жертва",
+        "descriptionEN": "An act of giving up something valued for the sake of others.",
+        "descriptionRU": "Действие по отказу от чего-то ценного ради других.",
+        "descriptionDE": "Ein Akt des Verzichts auf etwas Wertvolles zugunsten anderer."
+    }, {
+        "de": "die Freiheit",
+        "en": "freedom",
+        "ru": "свобода",
+        "descriptionEN": "The power or right to act, speak, or think freely.",
+        "descriptionRU": "Сила или право действовать, говорить или думать свободно.",
+        "descriptionDE": "Die Macht oder das Recht, frei zu handeln, zu sprechen oder zu denken."
+    }, {
+        "de": "der Frieden",
+        "en": "peace",
+        "ru": "мир",
+        "descriptionEN": "A state or period in which there is no war or a war has ended.",
+        "descriptionRU": "Состояние или период, когда нет войны или она закончилась.",
+        "descriptionDE": "Ein Zustand oder eine Periode, in der es keinen Krieg gibt oder der Krieg beendet ist."
+    }, {
+        "de": "wandern",
+        "en": "to hike",
+        "ru": "поход",
+        "descriptionEN": "To walk a long distance for leisure or exercise.",
+        "descriptionRU": "Ходить на длительное расстояние для отдыха или спорта.",
+        "descriptionDE": "Eine lange Strecke zu Fuß zurücklegen zur Erholung oder zum Training."
+    }, {
+        "de": "bauen",
+        "en": "to build",
+        "ru": "строить",
+        "descriptionEN": "To construct something by putting parts or materials together.",
+        "descriptionRU": "Создавать что-то, собирая части или материалы.",
+        "descriptionDE": "Etwas konstruieren, indem Teile oder Materialien zusammengefügt werden."
+    }, {
+        "de": "zerstören",
+        "en": "to destroy",
+        "ru": "разрушать",
+        "descriptionEN": "To cause so much damage that it cannot be repaired.",
+        "descriptionRU": "Нанести настолько сильный ущерб, что восстановление невозможно.",
+        "descriptionDE": "So viel Schaden verursachen, dass es nicht repariert werden kann."
+    }, {
+        "de": "fliehen",
+        "en": "to flee",
+        "ru": "убегать",
+        "descriptionEN": "To run away from danger or threat.",
+        "descriptionRU": "Убегать от опасности или угрозы.",
+        "descriptionDE": "Vor einer Gefahr oder Bedrohung fliehen."
+    }, {
+        "de": "kämpfen",
+        "en": "to fight",
+        "ru": "сражаться",
+        "descriptionEN": "To engage in a struggle or conflict.",
+        "descriptionRU": "Участвовать в борьбе или конфликте.",
+        "descriptionDE": "Sich an einem Kampf oder Konflikt beteiligen."
+    }, {
+        "de": "überleben",
+        "en": "to survive",
+        "ru": "выживать",
+        "descriptionEN": "To continue to live or exist despite danger or hardship.",
+        "descriptionRU": "Продолжать жить или существовать несмотря на опасности или трудности.",
+        "descriptionDE": "Trotz Gefahr oder Not weiterleben oder existieren."
+    }, {
+        "de": "friedlich",
+        "en": "peaceful",
+        "ru": "мирный",
+        "descriptionEN": "Free from disturbance; tranquil.",
+        "descriptionRU": "Свободный от беспокойства; спокойный.",
+        "descriptionDE": "Frei von Störungen; ruhig."
+    }, {
+        "de": "strategisch",
+        "en": "strategic",
+        "ru": "стратегический",
+        "descriptionEN": "Relating to the identification of long-term goals.",
+        "descriptionRU": "Относящийся к постановке долгосрочных целей.",
+        "descriptionDE": "Im Zusammenhang mit der Festlegung langfristiger Ziele."
+    }, {
+        "de": "wichtig",
+        "en": "important",
+        "ru": "важный",
+        "descriptionEN": "Of great significance or value.",
+        "descriptionRU": "Большой значимости или ценности.",
+        "descriptionDE": "Von großer Bedeutung oder Wert."
+    }, {
+        "de": "mutig",
+        "en": "brave",
+        "ru": "смелый",
+        "descriptionEN": "Showing courage in the face of danger.",
+        "descriptionRU": "Проявление смелости перед лицом опасности.",
+        "descriptionDE": "Mut in der Gefahr zeigen."
+    }, {
+        "de": "erbittert",
+        "en": "bitter",
+        "ru": "ожесточённый",
+        "descriptionEN": "Showing strong animosity or opposition.",
+        "descriptionRU": "Выражение сильной враждебности или сопротивления.",
+        "descriptionDE": "Zeigt starke Feindschaft oder Widerstand."
+    }, {
+        "de": "stark",
+        "en": "strong",
+        "ru": "сильный",
+        "descriptionEN": "Having great physical power or strength.",
+        "descriptionRU": "Обладающий большой физической силой или мощью.",
+        "descriptionDE": "Große körperliche Kraft oder Stärke haben."
+    }
+]

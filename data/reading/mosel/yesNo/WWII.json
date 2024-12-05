@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Mosel war während des Zweiten Weltkriegs ein strategisches Schlachtfeld.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel war ein ruhiger Fluss ohne jegliche Bedeutung für den Krieg.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Moselregion blieb während des gesamten Zweiten Weltkriegs unversehrt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Städte Trier, Koblenz und Cochem waren während des Krieges von schweren Kämpfen betroffen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel hatte keine strategische Bedeutung für den Transport von Nachschub und Truppen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Menschen an der Mosel litten unter Nahrungsmangel und der ständigen Gefahr der Vertreibung.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Fluss selbst wurde während des Krieges nicht durch Trümmer verschmutzt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Nach dem Krieg mussten die Menschen an der Mosel einen schwierigen Wiederaufbauprozess durchlaufen.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel ist heute ein Symbol für Frieden und Wohlstand.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Geschichte der Mosel während des Krieges ist heute nicht mehr relevant.",
+        "tr": false,
+        "fle": true
+    }
+]
