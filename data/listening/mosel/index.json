@@ -111,5 +111,21 @@
         "file": "Festival_II.mp3",
         "words": "Festival_II.json",
         "multi": "Festival_II.json"
+    }, {
+        "name": {
+            "en": "Biodiversity",
+            "de": "Biodiversität",
+            "ru": "Биоразнообразие"
+        },
+        "description": {
+            "en": "Diverse animals",
+            "de": "Verschiedene Tiere",
+            "ru": "Разнообразные животные"
+        },
+        "level": "B2",
+        "image": "BiodiversityI.jpg",
+        "file": "BiodiversityI.mp3",
+        "words": "BiodiversityI.json",
+        "multi": "BiodiversityI.json"
     }
 ]
