@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Mosel fließt durch drei Länder: Frankreich, Luxemburg und Deutschland.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel entspringt in Deutschland.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Moselregion ist bekannt für ihre Rieslingweine.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel mündet bei Frankfurt in den Rhein.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Römer waren die ersten, die an der Mosel Wein anbauten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel hat ihren Ursprung in den Vogesen in Frankreich.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Riesling ist die einzige Weinsorte, die an der Mosel angebaut wird.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Mosel ist länger als der Rhein.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die steilen Hänge der Moselregion bestehen aus schieferhaltigem Boden.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel ist ein wichtiger Handelsweg seit der Antike.",
+        "tr": true,
+        "fle": false
+    }
+]

@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Discover the Mosel",
+            "de": "Entdecke die Mosel",
+            "ru": "Откройте Мозель"
+        },
+        "description": {
+            "en": "Mosel quiz and insights",
+            "de": "Mosel-Quiz und Einblicke",
+            "ru": "Викторина и факты о Мозеле"
+        },
+        "level": "A2",
+        "image": "Mosel.jpg",
+        "file": "Mosel.mp3",
+        "words": "Mosel.json",
+        "yesNo": "Mosel.json"
+    }, {
+        "name": {
             "en": "Murder Mystery",
             "de": "Mordrätsel",
             "ru": "Расследование убийства"

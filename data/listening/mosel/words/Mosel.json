@@ -1,0 +1,143 @@
+[
+    {
+        "de": "der Hang",
+        "en": "Slope",
+        "ru": "Склон",
+        "descriptionEN": "A surface that is at an angle to the horizontal.",
+        "descriptionRU": "Поверхность, расположенная под углом к горизонту.",
+        "descriptionDE": "Eine Oberfläche, die im Winkel zur Horizontalen steht."
+    }, {
+        "de": "die Kultur",
+        "en": "Culture",
+        "ru": "Культура",
+        "descriptionEN": "The arts, customs, and achievements of a society or group.",
+        "descriptionRU": "Искусство, обычаи и достижения общества или группы.",
+        "descriptionDE": "Die Kunst, Bräuche und Errungenschaften einer Gesellschaft oder Gruppe."
+    }, {
+        "de": "der Boden",
+        "en": "Soil",
+        "ru": "Почва",
+        "descriptionEN": "The upper layer of earth in which plants grow.",
+        "descriptionRU": "Верхний слой земли, на котором растут растения.",
+        "descriptionDE": "Die obere Erdschicht, in der Pflanzen wachsen."
+    }, {
+        "de": "die Landschaft",
+        "en": "Landscape",
+        "ru": "Пейзаж",
+        "descriptionEN": "All the visible features of an area of land.",
+        "descriptionRU": "Все видимые особенности участка земли.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Gebiets."
+    }, {
+        "de": "die Römer",
+        "en": "Romans",
+        "ru": "Римляне",
+        "descriptionEN": "People from ancient Rome.",
+        "descriptionRU": "Люди из древнего Рима.",
+        "descriptionDE": "Menschen aus dem antiken Rom."
+    }, {
+        "de": "der Ursprung",
+        "en": "Origin",
+        "ru": "Происхождение",
+        "descriptionEN": "The point where something begins.",
+        "descriptionRU": "Точка, с которой что-то начинается.",
+        "descriptionDE": "Der Punkt, an dem etwas beginnt."
+    }, {
+        "de": "der Fluss",
+        "en": "River",
+        "ru": "Река",
+        "descriptionEN": "A large natural stream of water flowing in a channel.",
+        "descriptionRU": "Крупный природный поток воды, текущий в русле.",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt."
+    }, {
+        "de": "das Erbe",
+        "en": "Heritage",
+        "ru": "Наследие",
+        "descriptionEN": "The traditions and achievements passed down from previous generations.",
+        "descriptionRU": "Традиции и достижения, передаваемые от предыдущих поколений.",
+        "descriptionDE": "Die Traditionen und Errungenschaften, die von früheren Generationen weitergegeben wurden."
+    }, {
+        "de": "fließen",
+        "en": "to flow",
+        "ru": "течь",
+        "descriptionEN": "To move smoothly in a continuous stream.",
+        "descriptionRU": "Двигаться плавно в непрерывном потоке.",
+        "descriptionDE": "Sich glatt in einem kontinuierlichen Strom bewegen."
+    }, {
+        "de": "entspringen",
+        "en": "to originate",
+        "ru": "происходить",
+        "descriptionEN": "To begin or arise from a source.",
+        "descriptionRU": "Начинаться или происходить из источника.",
+        "descriptionDE": "Von einer Quelle beginnen oder entstehen."
+    }, {
+        "de": "anbauen",
+        "en": "to cultivate",
+        "ru": "выращивать",
+        "descriptionEN": "To prepare and use land for crops.",
+        "descriptionRU": "Подготавливать и использовать землю для выращивания культур.",
+        "descriptionDE": "Land für den Anbau von Pflanzen vorbereiten und nutzen."
+    }, {
+        "de": "verbinden",
+        "en": "to connect",
+        "ru": "соединять",
+        "descriptionEN": "To bring together or link.",
+        "descriptionRU": "Объединять или связывать.",
+        "descriptionDE": "Zusammenbringen oder verbinden."
+    }, {
+        "de": "testen",
+        "en": "to test",
+        "ru": "тестировать",
+        "descriptionEN": "To assess or evaluate something.",
+        "descriptionRU": "Оценивать или проверять что-либо.",
+        "descriptionDE": "Etwas bewerten oder prüfen."
+    }, {
+        "de": "münden",
+        "en": "to flow into",
+        "ru": "впадать",
+        "descriptionEN": "To empty into another body of water.",
+        "descriptionRU": "Впадать в другое водное пространство.",
+        "descriptionDE": "In ein anderes Gewässer münden."
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий",
+        "descriptionEN": "Astonishing or awe-inspiring.",
+        "descriptionRU": "Потрясающий или вдохновляющий.",
+        "descriptionDE": "Erstaunlich oder beeindruckend."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having an abundance of something valuable.",
+        "descriptionRU": "Имеющий изобилие чего-то ценного.",
+        "descriptionDE": "Etwas Wertvolles im Überfluss haben."
+    }, {
+        "de": "lebendig",
+        "en": "vibrant",
+        "ru": "живой",
+        "descriptionEN": "Full of energy and life.",
+        "descriptionRU": "Полный энергии и жизни.",
+        "descriptionDE": "Voller Energie und Leben."
+    }, {
+        "de": "schieferhaltig",
+        "en": "slate-rich",
+        "ru": "содержащий сланец",
+        "descriptionEN": "Containing or rich in slate.",
+        "descriptionRU": "Содержащий или богатый сланцем.",
+        "descriptionDE": "Schiefer enthaltend oder reich an Schiefer."
+    }, {
+        "de": "natürlich",
+        "en": "naturally",
+        "ru": "естественно",
+        "descriptionEN": "In a natural manner.",
+        "descriptionRU": "В естественной манере.",
+        "descriptionDE": "Auf natürliche Weise."
+    }, {
+        "de": "berühmt",
+        "en": "famous",
+        "ru": "известный",
+        "descriptionEN": "Known by many people.",
+        "descriptionRU": "Известный многим людям.",
+        "descriptionDE": "Von vielen Menschen bekannt."
+    }
+]
