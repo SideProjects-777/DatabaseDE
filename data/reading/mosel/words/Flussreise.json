@@ -1,0 +1,115 @@
+[
+    {
+        "de": "die Sonne",
+        "en": "the sun",
+        "ru": "солнце",
+        "descriptionEN": "The star at the center of the solar system that provides light and heat to Earth.",
+        "descriptionRU": "Звезда в центре солнечной системы, которая дает свет и тепло Земле.",
+        "descriptionDE": "Der Stern im Zentrum des Sonnensystems, der Licht und Wärme zur Erde bringt."
+    }, {
+        "de": "der Weinberg",
+        "en": "the vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "An area of land where grapevines are grown for wine production.",
+        "descriptionRU": "Участок земли, на котором выращивают виноград для производства вина.",
+        "descriptionDE": "Ein Stück Land, auf dem Weinreben für die Weinproduktion angebaut werden."
+    }, {
+        "de": "die Festung",
+        "en": "the fortress",
+        "ru": "крепость",
+        "descriptionEN": "A large, strong building or structure used for defense against enemies.",
+        "descriptionRU": "Большое, прочное здание или сооружение, использующееся для защиты от врагов.",
+        "descriptionDE": "Ein großes, starkes Gebäude oder eine Struktur, die zur Verteidigung gegen Feinde dient."
+    }, {
+        "de": "die Karte",
+        "en": "the map",
+        "ru": "карта",
+        "descriptionEN": "A representation of an area, showing physical features and locations.",
+        "descriptionRU": "Представление области, показывающее физические особенности и местоположения.",
+        "descriptionDE": "Eine Darstellung eines Gebiets, das physische Merkmale und Standorte zeigt."
+    }, {
+        "de": "der Fluss",
+        "en": "the river",
+        "ru": "река",
+        "descriptionEN": "A large, flowing body of water that usually empties into a sea or ocean.",
+        "descriptionRU": "Большое текущее водное тело, которое обычно впадает в море или океан.",
+        "descriptionDE": "Ein großes, fließendes Gewässer, das normalerweise in ein Meer oder einen Ozean mündet."
+    }, {
+        "de": "die Zinne",
+        "en": "the battlement",
+        "ru": "башенка",
+        "descriptionEN": "A defensive structure on top of a castle wall, often with gaps for shooting.",
+        "descriptionRU": "Оборонительная структура на вершине стены замка, часто с отверстиями для стрельбы.",
+        "descriptionDE": "Eine Verteidigungsstruktur auf der Spitze einer Schlossmauer, oft mit Lücken zum Schießen."
+    }, {
+        "de": "der Hügel",
+        "en": "the hill",
+        "ru": "холм",
+        "descriptionEN": "A small, raised area of land, typically lower than a mountain.",
+        "descriptionRU": "Небольшая возвышенность земли, обычно ниже горы.",
+        "descriptionDE": "Ein kleiner, erhöhter Landbereich, der typischerweise niedriger als ein Berg ist."
+    }, {
+        "de": "die Region",
+        "en": "the region",
+        "ru": "регион",
+        "descriptionEN": "An area or division of a country or the world with specific characteristics.",
+        "descriptionRU": "Область или часть страны или мира с определенными характеристиками.",
+        "descriptionDE": "Ein Gebiet oder eine Division eines Landes oder der Welt mit spezifischen Merkmalen."
+    }, {
+        "de": "die Entdeckung",
+        "en": "the discovery",
+        "ru": "открытие",
+        "descriptionEN": "The act of finding something new or unknown.",
+        "descriptionRU": "Действие по нахождению чего-то нового или неизвестного.",
+        "descriptionDE": "Die Handlung, etwas Neues oder Unbekanntes zu finden."
+    }, {
+        "de": "der Wasserfall",
+        "en": "the waterfall",
+        "ru": "водопад",
+        "descriptionEN": "A flow of water that falls from a height, often over a cliff.",
+        "descriptionRU": "Поток воды, который падает с высоты, часто с утеса.",
+        "descriptionDE": "Ein Wasserfluss, der aus einer Höhe fällt, oft über eine Klippe."
+    }, {
+        "de": "die Dämmerung",
+        "en": "the twilight",
+        "ru": "сумерки",
+        "descriptionEN": "The period of time between sunset and nightfall when the sky is partially lit.",
+        "descriptionRU": "Период времени между закатом и наступлением ночи, когда небо частично освещено.",
+        "descriptionDE": "Der Zeitraum zwischen Sonnenuntergang und Nacht, in dem der Himmel teilweise beleuchtet ist."
+    }, {
+        "de": "freuen",
+        "en": "to be happy",
+        "ru": "радоваться",
+        "descriptionEN": "To feel or show happiness or pleasure.",
+        "descriptionRU": "Чувствовать или показывать счастье или удовольствие.",
+        "descriptionDE": "Glück oder Freude empfinden oder zeigen."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Приятный для чувств или разума эстетически.",
+        "descriptionDE": "Ästhetisch ansprechend für die Sinne oder den Verstand."
+    }, {
+        "de": "aufgeregt",
+        "en": "excited",
+        "ru": "взволнованный",
+        "descriptionEN": "Feeling or showing enthusiasm or eagerness.",
+        "descriptionRU": "Чувство или проявление энтузиазма или нетерпения.",
+        "descriptionDE": "Gefühl oder Ausdruck von Begeisterung oder Eifer."
+    }, {
+        "de": "golden",
+        "en": "golden",
+        "ru": "золотой",
+        "descriptionEN": "Having the color or appearance of gold.",
+        "descriptionRU": "Имеющий цвет или внешний вид золота.",
+        "descriptionDE": "Die Farbe oder das Aussehen von Gold habend."
+    }, {
+        "de": "weiter",
+        "en": "further",
+        "ru": "дальше",
+        "descriptionEN": "At or to a greater distance.",
+        "descriptionRU": "На большем расстоянии.",
+        "descriptionDE": "In größerer Entfernung."
+    }
+]

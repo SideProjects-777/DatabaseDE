@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Wohin gingen Anna und Herold nach Koblenz?",
+        "answers": [
+            {
+                "text": "Nach Trier",
+                "correct": false
+            }, {
+                "text": "Nach Mainz",
+                "correct": false
+            }, {
+                "text": "Nach Cochem",
+                "correct": true
+            }, {
+                "text": "Nach Frankfurt",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was haben Anna und Herold in Koblenz gemacht?",
+        "answers": [
+            {
+                "text": "Einkaufen gegangen",
+                "correct": false
+            }, {
+                "text": "Die alten Festungen angeschaut",
+                "correct": true
+            }, {
+                "text": "Im Kino einen Film gesehen",
+                "correct": false
+            }, {
+                "text": "Den Rhein überquert",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wollten Anna und Herold als Nächstes tun?",
+        "answers": [
+            {
+                "text": "Einen Wein probieren",
+                "correct": false
+            }, {
+                "text": "Ihr nächstes Abenteuer planen",
+                "correct": true
+            }, {
+                "text": "Zurück nach Hause fahren",
+                "correct": false
+            }, {
+                "text": "Eine Festung besichtigen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie wollte Herold nach Cochem gelangen?",
+        "answers": [
+            {
+                "text": "Mit einem Boot den Fluss hinunterfahren",
+                "correct": true
+            }, {
+                "text": "Mit dem Zug fahren",
+                "correct": false
+            }, {
+                "text": "Mit dem Auto fahren",
+                "correct": false
+            }, {
+                "text": "Zu Fuß gehen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sahen Anna und Herold, als sie sich Cochem näherten?",
+        "answers": [
+            {
+                "text": "Ein Schloss",
+                "correct": false
+            }, {
+                "text": "Ein Hotel",
+                "correct": false
+            }, {
+                "text": "Ein Museum",
+                "correct": false
+            }, {
+                "text": "Die Burg",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was machten Anna und Herold in der Burg?",
+        "answers": [
+            {
+                "text": "Sie machten ein Picknick im Garten",
+                "correct": false
+            }, {
+                "text": "Sie gingen auf den Turm und machten Fotos",
+                "correct": false
+            }, {
+                "text": "Sie besichtigten die Burg und schauten sich die Bilder an",
+                "correct": true
+            }, {
+                "text": "Sie kauften Souvenirs im Shop",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sahen Anna und Herold von den Zinnen der Burg?",
+        "answers": [
+            {
+                "text": "Die Mosel und die Hügel",
+                "correct": true
+            }, {
+                "text": "Die Stadt Cochem",
+                "correct": false
+            }, {
+                "text": "Den Rhein und die Berge",
+                "correct": false
+            }, {
+                "text": "Die Weinfelder",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wollten Anna und Herold nach dem Besuch in Cochem tun?",
+        "answers": [
+            {
+                "text": "Nach Koblenz zurückkehren",
+                "correct": false
+            }, {
+                "text": "Nach Trier fahren",
+                "correct": false
+            }, {
+                "text": "Die Mosel weiter erkunden",
+                "correct": true
+            }, {
+                "text": "In ein Hotel gehen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was hatte Herold von einem versteckten Wasserfall gehört?",
+        "answers": [
+            {
+                "text": "Er hatte von einem Wasserfall am Rhein gehört",
+                "correct": false
+            }, {
+                "text": "Er hatte von einem Wasserfall in Cochem gehört",
+                "correct": false
+            }, {
+                "text": "Er hatte von einem Wasserfall in Koblenz gehört",
+                "correct": false
+            }, {
+                "text": "Er hatte von einem Wasserfall im Wald gehört",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was war das nächste Abenteuer, das Anna und Herold planten?",
+        "answers": [
+            {
+                "text": "Eine Wanderung in den Weinbergen machen",
+                "correct": false
+            }, {
+                "text": "Eine Bootsfahrt auf dem Rhein unternehmen",
+                "correct": false
+            }, {
+                "text": "Den versteckten Wasserfall im Wald suchen",
+                "correct": true
+            }, {
+                "text": "Ein Schloss in der Nähe besichtigen",
+                "correct": false
+            }
+        ]
+    }
+]
