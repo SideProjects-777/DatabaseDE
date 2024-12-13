@@ -175,5 +175,21 @@
         "file": "WWII.txt",
         "words": "WWII.json",
         "yesNo": "WWII.json"
+    }, {
+        "name": {
+            "en": "River Journey",
+            "de": "Flussreise",
+            "ru": "Путешествие по реке"
+        },
+        "description": {
+            "en": "Journey along the Moselle",
+            "de": "Reise entlang der Mosel",
+            "ru": "Путешествие вдоль Мозеля"
+        },
+        "level": "B2",
+        "image": "Flussreise.jpg",
+        "file": "Flussreise.txt",
+        "words": "Flussreise.json",
+        "multi": "Flussreise.json"
     }
 ]

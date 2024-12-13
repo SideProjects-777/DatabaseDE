@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was ist Traben-Trarbach bekannt für?",
+        "answers": [
+            {
+                "text": "Es ist die kleinste Stadt an der Mosel.",
+                "correct": false
+            }, {
+                "text": "Es ist für seine moderne Architektur bekannt.",
+                "correct": false
+            }, {
+                "text": "Es war der zweitgrößte Weinhandelshafen in Europa.",
+                "correct": true
+            }, {
+                "text": "Es hat keine historische Bedeutung.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Sehenswürdigkeit bietet einen tollen Blick auf Traben-Trarbach?",
+        "answers": [
+            {
+                "text": "Der Runder Turm",
+                "correct": false
+            }, {
+                "text": "Der Zeller Kreisverkehr",
+                "correct": false
+            }, {
+                "text": "Die Burgruine Grevenburg",
+                "correct": true
+            }, {
+                "text": "Das Restaurant Turmblick",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Architektur ist am Flussufer von Traben-Trarbach zu finden?",
+        "answers": [
+            {
+                "text": "Jugendstil-Residenzen",
+                "correct": true
+            }, {
+                "text": "Gotische Kirchen",
+                "correct": false
+            }, {
+                "text": "Barocke Paläste",
+                "correct": false
+            }, {
+                "text": "Moderne Wolkenkratzer",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist die Moseltherme?",
+        "answers": [
+            {
+                "text": "Ein berühmtes Weingut",
+                "correct": false
+            }, {
+                "text": "Ein historisches Gebäude",
+                "correct": false
+            }, {
+                "text": "Ein Aussichtspunkt",
+                "correct": false
+            }, {
+                "text": "Das einzige Thermalbad im Moseltal",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was ist das Maskottchen von Zell?",
+        "answers": [
+            {
+                "text": "Ein roter Fuchs",
+                "correct": false
+            }, {
+                "text": "Eine schwarze Katze",
+                "correct": true
+            }, {
+                "text": "Ein goldener Adler",
+                "correct": false
+            }, {
+                "text": "Ein weißer Schwan",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Legende ist mit der schwarzen Katze von Zell verbunden?",
+        "answers": [
+            {
+                "text": "Sie rettete eine Stadt vor einer Flut.",
+                "correct": false
+            }, {
+                "text": "Sie wurde als königliches Symbol gewählt.",
+                "correct": false
+            }, {
+                "text": "Sie half einem Weinhändler, eine Gefahr zu überstehen.",
+                "correct": true
+            }, {
+                "text": "Sie brachte den ersten Wein zur Mosel.",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wie viele Straßen hat Zell in seiner Breite?",
+        "answers": [
+            {
+                "text": "Vier",
+                "correct": true
+            }, {
+                "text": "Drei",
+                "correct": false
+            }, {
+                "text": "Fünf",
+                "correct": false
+            }, {
+                "text": "Zehn",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Wein ist in Zell berühmt?",
+        "answers": [
+            {
+                "text": "Mosel Gold",
+                "correct": false
+            }, {
+                "text": "Riesling Royale",
+                "correct": false
+            }, {
+                "text": "Bordeaux Blanc",
+                "correct": false
+            }, {
+                "text": "Schwarze Katz",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wo kann man in Zell einen herrlichen Blick genießen?",
+        "answers": [
+            {
+                "text": "Auf der Burgruine Grevenburg",
+                "correct": false
+            }, {
+                "text": "In der Moseltherme",
+                "correct": false
+            }, {
+                "text": "Im Restaurant Turmblick",
+                "correct": true
+            }, {
+                "text": "Am Kreisverkehr mit der schwarzen Katze",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was symbolisiert die Statue der schwarzen Katze in Zell?",
+        "answers": [
+            {
+                "text": "Die lokale Weingeschichte",
+                "correct": true
+            }, {
+                "text": "Die moderne Kunst der Region",
+                "correct": false
+            }, {
+                "text": "Die Architektur der Stadt",
+                "correct": false
+            }, {
+                "text": "Den Handel mit Frankreich",
+                "correct": false
+            }
+        ]
+    }
+]

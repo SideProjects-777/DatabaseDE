@@ -1,0 +1,136 @@
+[
+    {
+        "de": "die Attraktion",
+        "en": "attraction",
+        "ru": "достопримечательность",
+        "descriptionEN": "A feature or quality that draws visitors to a place.",
+        "descriptionRU": "Особенность или качество, привлекающее посетителей в место.",
+        "descriptionDE": "Eine Eigenschaft oder Qualität, die Besucher anzieht."
+    }, {
+        "de": "der Wein",
+        "en": "wine",
+        "ru": "вино",
+        "descriptionEN": "An alcoholic drink made from fermented grape juice.",
+        "descriptionRU": "Алкогольный напиток, изготовленный из ферментированного виноградного сока.",
+        "descriptionDE": "Ein alkoholisches Getränk aus fermentiertem Traubensaft."
+    }, {
+        "de": "die Region",
+        "en": "region",
+        "ru": "регион",
+        "descriptionEN": "A geographic area defined by specific characteristics.",
+        "descriptionRU": "Географическая область, определяемая специфическими характеристиками.",
+        "descriptionDE": "Eine geografische Region mit spezifischen Merkmalen."
+    }, {
+        "de": "die Gastfreundschaft",
+        "en": "hospitality",
+        "ru": "гостеприимство",
+        "descriptionEN": "Friendly and generous reception of guests or visitors.",
+        "descriptionRU": "Дружелюбный и щедрый прием гостей или посетителей.",
+        "descriptionDE": "Freundlicher und großzügiger Empfang von Gästen oder Besuchern."
+    }, {
+        "de": "die Sehenswürdigkeit",
+        "en": "sight",
+        "ru": "достопримечательность",
+        "descriptionEN": "A notable place or landmark worth visiting.",
+        "descriptionRU": "Значимое место или достопримечательность, которую стоит посетить.",
+        "descriptionDE": "Ein bemerkenswerter Ort oder eine Sehenswürdigkeit, die einen Besuch wert ist."
+    }, {
+        "de": "die Burgruine",
+        "en": "castle ruin",
+        "ru": "руины замка",
+        "descriptionEN": "The remains of a castle that has fallen into decay.",
+        "descriptionRU": "Остатки замка, пришедшего в упадок.",
+        "descriptionDE": "Die Überreste einer Burg, die verfallen ist."
+    }, {
+        "de": "der Damm",
+        "en": "dam",
+        "ru": "дамба",
+        "descriptionEN": "A structure built to control or hold back water.",
+        "descriptionRU": "Сооружение, построенное для управления или удержания воды.",
+        "descriptionDE": "Eine Struktur, die Wasser zurückhält oder kontrolliert."
+    }, {
+        "de": "die Legende",
+        "en": "legend",
+        "ru": "легенда",
+        "descriptionEN": "A traditional story often regarded as historical but unauthenticated.",
+        "descriptionRU": "Традиционная история, часто считающаяся исторической, но недостоверной.",
+        "descriptionDE": "Eine traditionelle Geschichte, die oft als historisch gilt, aber nicht authentifiziert ist."
+    }, {
+        "de": "die Katze",
+        "en": "cat",
+        "ru": "кошка",
+        "descriptionEN": "A small domesticated carnivorous mammal.",
+        "descriptionRU": "Маленькое домашнее хищное млекопитающее.",
+        "descriptionDE": "Ein kleines domestiziertes fleischfressendes Säugetier."
+    }, {
+        "de": "der Brunnen",
+        "en": "fountain",
+        "ru": "фонтан",
+        "descriptionEN": "A structure that sends water into the air for decoration or drinking.",
+        "descriptionRU": "Сооружение, выбрасывающее воду в воздух для украшения или питья.",
+        "descriptionDE": "Eine Struktur, die Wasser zur Dekoration oder zum Trinken in die Luft sprüht."
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посещать",
+        "descriptionEN": "To go to see and spend time in a place.",
+        "descriptionRU": "Идти, чтобы увидеть и провести время в каком-то месте.",
+        "descriptionDE": "Einen Ort aufsuchen und dort Zeit verbringen."
+    }, {
+        "de": "erleben",
+        "en": "to experience",
+        "ru": "испытывать",
+        "descriptionEN": "To encounter or live through an event.",
+        "descriptionRU": "Пережить или испытать событие.",
+        "descriptionDE": "Ein Ereignis erleben oder durchleben."
+    }, {
+        "de": "tauchen",
+        "en": "to dive",
+        "ru": "нырять",
+        "descriptionEN": "To plunge into water or immerse oneself in something.",
+        "descriptionRU": "Погружаться в воду или во что-то.",
+        "descriptionDE": "In Wasser eintauchen oder sich in etwas vertiefen."
+    }, {
+        "de": "erzählen",
+        "en": "to tell",
+        "ru": "рассказывать",
+        "descriptionEN": "To communicate information or a story.",
+        "descriptionRU": "Передавать информацию или рассказывать историю.",
+        "descriptionDE": "Informationen oder eine Geschichte mitteilen."
+    }, {
+        "de": "liegen",
+        "en": "to lie",
+        "ru": "лежать",
+        "descriptionEN": "To be in a horizontal position or situated somewhere.",
+        "descriptionRU": "Находиться в горизонтальном положении или быть расположенным где-то.",
+        "descriptionDE": "In horizontaler Position sein oder irgendwo liegen."
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "Related to or based on history.",
+        "descriptionRU": "Связанный с историей или основанный на ней.",
+        "descriptionDE": "Bezogen auf oder basierend auf Geschichte."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having abundant resources or wealth.",
+        "descriptionRU": "Обладающий обилием ресурсов или богатством.",
+        "descriptionDE": "Mit reichlich Ressourcen oder Wohlstand ausgestattet."
+    }, {
+        "de": "exquisit",
+        "en": "exquisite",
+        "ru": "изысканный",
+        "descriptionEN": "Extremely beautiful or elegant.",
+        "descriptionRU": "Чрезвычайно красивый или элегантный.",
+        "descriptionDE": "Außergewöhnlich schön oder elegant."
+    }, {
+        "de": "beliebt",
+        "en": "popular",
+        "ru": "популярный",
+        "descriptionEN": "Liked or admired by many people.",
+        "descriptionRU": "Любимый или популярный среди многих людей.",
+        "descriptionDE": "Von vielen Menschen gemocht oder bewundert."
+    }
+]
