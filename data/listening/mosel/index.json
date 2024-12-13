@@ -143,5 +143,21 @@
         "file": "BiodiversityI.mp3",
         "words": "BiodiversityI.json",
         "multi": "BiodiversityI.json"
+    }, {
+        "name": {
+            "en": "Hidden Gems",
+            "de": "Verborgene Schätze",
+            "ru": "Скрытые жемчужины"
+        },
+        "description": {
+            "en": "Unique attractions",
+            "de": "Einzigartiger Attraktionen",
+            "ru": "Уникальных места"
+        },
+        "level": "B2",
+        "image": "Attraktionen.jpg",
+        "file": "Attraktionen.mp3",
+        "words": "Attraktionen.json",
+        "multi": "Attraktionen.json"
     }
 ]
