@@ -1,0 +1,115 @@
+[
+    {
+        "de": "die Weinberge",
+        "en": "vineyards",
+        "ru": "виноградники",
+        "descriptionEN": "An area of land where grapevines are grown for winemaking.",
+        "descriptionRU": "Участок земли, на котором выращиваются виноградные лозы для производства вина.",
+        "descriptionDE": "Ein Gebiet, in dem Reben für die Weinproduktion angebaut werden."
+    }, {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "All the visible features of an area of land, often considered in terms of their aesthetic appeal.",
+        "descriptionRU": "Все видимые особенности участка земли, часто рассматриваемые с эстетической точки зрения.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs, oft in Bezug auf ihre ästhetische Anziehungskraft."
+    }, {
+        "de": "die Burg",
+        "en": "fortress",
+        "ru": "крепость",
+        "descriptionEN": "A large fortified building or military stronghold.",
+        "descriptionRU": "Большое укрепленное здание или военное укрепление.",
+        "descriptionDE": "Ein großes befestigtes Gebäude oder militärische Festung."
+    }, {
+        "de": "die Region",
+        "en": "region",
+        "ru": "регион",
+        "descriptionEN": "An area, especially part of a country or the world, having definable characteristics but not always fixed boundaries.",
+        "descriptionRU": "Участок земли, особенно часть страны или мира, имеющая определенные характеристики, но не всегда фиксированные границы.",
+        "descriptionDE": "Ein Gebiet, besonders ein Teil eines Landes oder der Welt, das definierbare Merkmale aufweist, aber nicht immer feste Grenzen hat."
+    }, {
+        "de": "der Frühling",
+        "en": "spring",
+        "ru": "весна",
+        "descriptionEN": "The season of the year between winter and summer, characterized by warmer weather and the growth of plants.",
+        "descriptionRU": "Сезон года между зимой и летом, характеризующийся более теплой погодой и ростом растений.",
+        "descriptionDE": "Die Jahreszeit zwischen Winter und Sommer, gekennzeichnet durch wärmeres Wetter und das Wachstum von Pflanzen."
+    }, {
+        "de": "das Tal",
+        "en": "valley",
+        "ru": "долина",
+        "descriptionEN": "A low area of land between hills or mountains, often with a river running through it.",
+        "descriptionRU": "Низкая область земли между холмами или горами, часто с рекой, протекающей через нее.",
+        "descriptionDE": "Ein niedriges Landgebiet zwischen Hügeln oder Bergen, oft mit einem Fluss, der hindurchfließt."
+    }, {
+        "de": "die Ruine",
+        "en": "ruin",
+        "ru": "руины",
+        "descriptionEN": "The remains of a building, typically one that has been destroyed or fallen into disrepair.",
+        "descriptionRU": "Остатки здания, обычно разрушенного или пришедшего в упадок.",
+        "descriptionDE": "Die Überreste eines Gebäudes, das typischerweise zerstört oder in Verfall geraten ist."
+    }, {
+        "de": "der Geschmack",
+        "en": "taste",
+        "ru": "вкус",
+        "descriptionEN": "The sensation of flavor perceived in the mouth, especially in relation to food or drink.",
+        "descriptionRU": "Ощущение вкуса, воспринимаемое во рту, особенно в отношении пищи или напитков.",
+        "descriptionDE": "Die Geschmackswahrnehmung im Mund, insbesondere im Zusammenhang mit Essen oder Trinken."
+    }, {
+        "de": "die Saison",
+        "en": "season",
+        "ru": "сезон",
+        "descriptionEN": "A period of the year characterized by particular weather conditions or activities.",
+        "descriptionRU": "Период года, характеризующийся определенными погодными условиями или деятельностью.",
+        "descriptionDE": "Ein Zeitraum des Jahres, der durch bestimmte Wetterbedingungen oder Aktivitäten gekennzeichnet ist."
+    }, {
+        "de": "die Stadt",
+        "en": "city",
+        "ru": "город",
+        "descriptionEN": "A large and permanent settlement, typically with a significant population and infrastructure.",
+        "descriptionRU": "Большое и постоянное поселение, обычно с большим населением и инфраструктурой.",
+        "descriptionDE": "Eine große und dauerhafte Siedlung, typischerweise mit einer signifikanten Bevölkerung und Infrastruktur."
+    }, {
+        "de": "wandern",
+        "en": "to hike",
+        "ru": "походить",
+        "descriptionEN": "To walk long distances, especially in nature or through a rural area.",
+        "descriptionRU": "Ходить на большие расстояния, особенно по природе или через сельскую местность.",
+        "descriptionDE": "Lange Strecken zu Fuß gehen, besonders in der Natur oder durch ländliche Gebiete."
+    }, {
+        "de": "probieren",
+        "en": "to try",
+        "ru": "попробовать",
+        "descriptionEN": "To attempt or test something, especially food or drink.",
+        "descriptionRU": "Попробовать или испытать что-то, особенно еду или напитки.",
+        "descriptionDE": "Etwas versuchen oder testen, besonders Essen oder Trinken."
+    }, {
+        "de": "köstlich",
+        "en": "delicious",
+        "ru": "вкусный",
+        "descriptionEN": "Highly pleasing to the taste.",
+        "descriptionRU": "Очень приятный на вкус.",
+        "descriptionDE": "Sehr angenehm im Geschmack."
+    }, {
+        "de": "atemberaubend",
+        "en": "breathtaking",
+        "ru": "захватывающий",
+        "descriptionEN": "Causing great admiration or awe.",
+        "descriptionRU": "Вызывающий восхищение или благоговение.",
+        "descriptionDE": "Großartige Bewunderung oder Ehrfurcht verursachend."
+    }, {
+        "de": "ruhig",
+        "en": "calm",
+        "ru": "спокойный",
+        "descriptionEN": "Free from disturbance or agitation.",
+        "descriptionRU": "Свободный от беспокойства или возбуждения.",
+        "descriptionDE": "Frei von Störungen oder Aufregung."
+    }, {
+        "de": "idyllisch",
+        "en": "idyllic",
+        "ru": "идиллический",
+        "descriptionEN": "Charming in a rustic or peaceful way.",
+        "descriptionRU": "Очаровательный в сельском или мирном стиле.",
+        "descriptionDE": "Charmant auf eine rustikale oder friedliche Weise."
+    }
+]

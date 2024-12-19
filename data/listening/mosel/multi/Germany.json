@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Was assoziiert der Autor mit Deutschland?",
+        "answers": [
+            {
+                "text": "Berge, Strände und moderne Städte",
+                "correct": false
+            }, {
+                "text": "Schlösser, Weinberge und ansprechende Landschaften",
+                "correct": true
+            }, {
+                "text": "Wälder, Seen und hohe Gebäude",
+                "correct": false
+            }, {
+                "text": "Küstenregionen, historische Denkmäler und Städte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt wird im Text als reizvoll beschrieben?",
+        "answers": [
+            {
+                "text": "Trier",
+                "correct": false
+            }, {
+                "text": "Koblenz",
+                "correct": false
+            }, {
+                "text": "Beilstein",
+                "correct": true
+            }, {
+                "text": "Mainz",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wurde in Beilstein probiert?",
+        "answers": [
+            {
+                "text": "Spargel",
+                "correct": true
+            }, {
+                "text": "Bratwurst",
+                "correct": false
+            }, {
+                "text": "Käse",
+                "correct": false
+            }, {
+                "text": "Apfelstrudel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welcher Wein ist die herausragende Rebsorte im Moseltal?",
+        "answers": [
+            {
+                "text": "Merlot",
+                "correct": false
+            }, {
+                "text": "Cabernet Sauvignon",
+                "correct": false
+            }, {
+                "text": "Chardonnay",
+                "correct": false
+            }, {
+                "text": "Riesling",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Art von Blick bietet die Burg Metternich?",
+        "answers": [
+            {
+                "text": "Ein Blick auf das Meer",
+                "correct": false
+            }, {
+                "text": "Ein Blick auf die Berge",
+                "correct": false
+            }, {
+                "text": "Ein atemberaubender Panoramablick über das Tal",
+                "correct": true
+            }, {
+                "text": "Ein Blick auf den Flughafen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was ist die Saison für Spargel in Deutschland?",
+        "answers": [
+            {
+                "text": "Frühling",
+                "correct": true
+            }, {
+                "text": "Sommer",
+                "correct": false
+            }, {
+                "text": "Herbst",
+                "correct": false
+            }, {
+                "text": "Winter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird im Text als 'weißes Gold' bezeichnet?",
+        "answers": [
+            {
+                "text": "Käse",
+                "correct": false
+            }, {
+                "text": "Wein",
+                "correct": false
+            }, {
+                "text": "Fisch",
+                "correct": false
+            }, {
+                "text": "Spargel",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was beschreibt die Region Moseltal am besten?",
+        "answers": [
+            {
+                "text": "Ein Ort mit moderner Architektur",
+                "correct": false
+            }, {
+                "text": "Ein Ort, der Geschichte, Kultur und Naturschönheiten vereint",
+                "correct": true
+            }, {
+                "text": "Ein Ort für Großstadtflair",
+                "correct": false
+            }, {
+                "text": "Ein Ort für tropische Pflanzen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wurde in verschiedenen Varianten probiert?",
+        "answers": [
+            {
+                "text": "Wein",
+                "correct": true
+            }, {
+                "text": "Käse",
+                "correct": false
+            }, {
+                "text": "Bier",
+                "correct": false
+            }, {
+                "text": "Schnitzel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Anblick bietet das Moseltal?",
+        "answers": [
+            {
+                "text": "Ein hektisches, geschäftiges Bild",
+                "correct": false
+            }, {
+                "text": "Ein modernes, urbanes Bild",
+                "correct": false
+            }, {
+                "text": "Ein ruhiger und idyllischer Anblick",
+                "correct": true
+            }, {
+                "text": "Ein düsterer und geheimnisvoller Anblick",
+                "correct": false
+            }
+        ]
+    }
+]
