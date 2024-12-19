@@ -1,0 +1,108 @@
+[
+    {
+        "de": "die Hängebrücke",
+        "en": "Suspension bridge",
+        "ru": "Подвесной мост",
+        "descriptionEN": "A bridge that is supported by cables suspended between towers.",
+        "descriptionRU": "Мост, поддерживаемый канатами, подвешенными между башнями.",
+        "descriptionDE": "Ein Brücke, die von Seilen getragen wird, die zwischen Türmen aufgehängt sind."
+    }, {
+        "de": "die Aussicht",
+        "en": "View",
+        "ru": "Вид",
+        "descriptionEN": "The ability to see something, or the scene that is visible.",
+        "descriptionRU": "Способность видеть что-то или сцена, которая видна.",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen, oder die sichtbare Szene."
+    }, {
+        "de": "der Parkplatz",
+        "en": "Parking lot",
+        "ru": "Парковка",
+        "descriptionEN": "An area where vehicles can be parked.",
+        "descriptionRU": "Место, где можно припарковать транспортные средства.",
+        "descriptionDE": "Ein Bereich, in dem Fahrzeuge geparkt werden können."
+    }, {
+        "de": "der Wanderer",
+        "en": "Hiker",
+        "ru": "Пешеход",
+        "descriptionEN": "A person who walks long distances for pleasure or exercise.",
+        "descriptionRU": "Человек, который ходит на большие расстояния для удовольствия или упражнений.",
+        "descriptionDE": "Eine Person, die lange Strecken zum Vergnügen oder zur Bewegung geht."
+    }, {
+        "de": "die Perspektive",
+        "en": "Perspective",
+        "ru": "Перспектива",
+        "descriptionEN": "A particular attitude toward or way of regarding something.",
+        "descriptionRU": "Особое отношение к чему-то или способ его восприятия.",
+        "descriptionDE": "Eine bestimmte Haltung oder Art, etwas zu betrachten."
+    }, {
+        "de": "die Stabilität",
+        "en": "Stability",
+        "ru": "Стабильность",
+        "descriptionEN": "The state of being stable or unchanging.",
+        "descriptionRU": "Состояние стабильности или неизменности.",
+        "descriptionDE": "Der Zustand, stabil oder unverändert zu sein."
+    }, {
+        "de": "der Naturfreund",
+        "en": "Nature lover",
+        "ru": "Любитель природы",
+        "descriptionEN": "A person who loves nature and enjoys spending time in it.",
+        "descriptionRU": "Человек, который любит природу и наслаждается временем, проведенным на природе.",
+        "descriptionDE": "Eine Person, die die Natur liebt und es genießt, Zeit in ihr zu verbringen."
+    }, {
+        "de": "die Erfahrung",
+        "en": "Experience",
+        "ru": "Опыт",
+        "descriptionEN": "Practical contact with and observation of facts or events.",
+        "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+    }, {
+        "de": "die Bedeutung",
+        "en": "Meaning",
+        "ru": "Значение",
+        "descriptionEN": "What is meant by a word, text, concept, or action.",
+        "descriptionRU": "То, что подразумевается под словом, текстом, концепцией или действием.",
+        "descriptionDE": "Was mit einem Wort, Text, Konzept oder einer Handlung gemeint ist."
+    }, {
+        "de": "die Geschwindigkeit",
+        "en": "Speed",
+        "ru": "Скорость",
+        "descriptionEN": "The rate at which something moves or operates.",
+        "descriptionRU": "Скорость, с которой что-то движется или работает.",
+        "descriptionDE": "Die Rate, mit der sich etwas bewegt oder arbeitet."
+    }, {
+        "de": "der Tourismus",
+        "en": "Tourism",
+        "ru": "Туризм",
+        "descriptionEN": "The commercial organization and operation of vacations and visits to places of interest.",
+        "descriptionRU": "Коммерческая организация и проведение отпусков и посещений интересных мест.",
+        "descriptionDE": "Die kommerzielle Organisation und Durchführung von Urlauben und Besuchen von Sehenswürdigkeiten."
+    }, {
+        "de": "die Herausforderung",
+        "en": "Challenge",
+        "ru": "Вызов",
+        "descriptionEN": "A task or situation that tests someone's abilities.",
+        "descriptionRU": "Задача или ситуация, проверяющая способности человека.",
+        "descriptionDE": "Eine Aufgabe oder Situation, die die Fähigkeiten einer Person testet."
+    }, {
+        "de": "die Aussicht",
+        "en": "View",
+        "ru": "Вид",
+        "descriptionEN": "The ability to see something, or the scene that is visible.",
+        "descriptionRU": "Способность видеть что-то или сцена, которая видна.",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen, oder die sichtbare Szene."
+    }, {
+        "de": "die Wanderung",
+        "en": "Hike",
+        "ru": "Поход",
+        "descriptionEN": "A long walk, especially in the countryside.",
+        "descriptionRU": "Долгая прогулка, особенно в сельской местности.",
+        "descriptionDE": "Ein langer Spaziergang, besonders in der Landschaft."
+    }, {
+        "de": "die Verbindung",
+        "en": "Connection",
+        "ru": "Связь",
+        "descriptionEN": "A relationship or link between two or more things.",
+        "descriptionRU": "Отношение или связь между двумя или более вещами.",
+        "descriptionDE": "Eine Beziehung oder Verbindung zwischen zwei oder mehr Dingen."
+    }
+]

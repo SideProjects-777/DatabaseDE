@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Geierlay",
+            "de": "Geierlay",
+            "ru": "Гейерай"
+        },
+        "description": {
+            "en": "Suspension bridge",
+            "de": "Hängebrücke",
+            "ru": "Подвесной мост"
+        },
+        "level": "A2",
+        "image": "Geierlay.jpg",
+        "file": "Geierlay.txt",
+        "words": "Geierlay.json",
+        "yesNo": "Geierlay.json"
+    }, {
+        "name": {
             "en": "Burg Eltz",
             "de": "Burg Eltz",
             "ru": "Бург Эльц"
