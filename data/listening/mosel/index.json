@@ -129,6 +129,22 @@
         "multi": "Festival_II.json"
     }, {
         "name": {
+            "en": "Hunsrück-Mosel Connection",
+            "de": "Hunsrück-Mosel-Verbindung",
+            "ru": "Связь Хунсрюк-Мозель"
+        },
+        "description": {
+            "en": "Vineyards vs forests",
+            "de": "Weinberge vs Wälder",
+            "ru": "Виноградники против леса"
+        },
+        "level": "B1",
+        "image": "Hunsruck.jpg",
+        "file": "Hunsruck.mp3",
+        "words": "Hunsruck.json",
+        "yesNo": "Hunsruck.json"
+    }, {
+        "name": {
             "en": "Biodiversity",
             "de": "Biodiversität",
             "ru": "Биоразнообразие"
