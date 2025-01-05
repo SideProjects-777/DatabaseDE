@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Mosel ist für ihre Weinberge und ihren gewundenen Fluss berühmt.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Hunsrück ist eine flache Region ohne Berge.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Mosel fließt durch den Hunsrück.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Hunsrück war in der Antike nur von den Römern bewohnt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Region Hunsrück ist bekannt für ihre Burgen und Schlösser.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Saar-Hunsrück-Steig verbindet die Regionen Mosel und Hunsrück.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Hunsrück ist für seine hohen Berge und steilen Täler bekannt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Mosel ist berühmt für ihren Riesling-Wein.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Im Hunsrück gibt es viele Wälder und sanfte Hügel.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Region Hunsrück ist jung und hat keine historische Bedeutung.",
+        "tr": false,
+        "fle": true
+    }
+]

@@ -129,6 +129,22 @@
         "multi": "Festival_II.json"
     }, {
         "name": {
+            "en": "Hunsrück-Mosel Connection",
+            "de": "Hunsrück-Mosel-Verbindung",
+            "ru": "Связь Хунсрюк-Мозель"
+        },
+        "description": {
+            "en": "Vineyards vs forests",
+            "de": "Weinberge vs Wälder",
+            "ru": "Виноградники против леса"
+        },
+        "level": "B1",
+        "image": "Hunsruck.jpg",
+        "file": "Hunsruck.mp3",
+        "words": "Hunsruck.json",
+        "yesNo": "Hunsruck.json"
+    }, {
+        "name": {
             "en": "Biodiversity",
             "de": "Biodiversität",
             "ru": "Биоразнообразие"
@@ -159,5 +175,21 @@
         "file": "Attraktionen.mp3",
         "words": "Attraktionen.json",
         "multi": "Attraktionen.json"
+    }, {
+        "name": {
+            "en": "Journey Through Germany",
+            "de": "Reise durch Deutschland",
+            "ru": "Путешествие по Германии"
+        },
+        "description": {
+            "en": "Castles, wine, and history",
+            "de": "Schlösser, Wein und Geschichte",
+            "ru": "Замки, вино и история"
+        },
+        "level": "B2",
+        "image": "Germany.jpg",
+        "file": "Germany.mp3",
+        "words": "Germany.json",
+        "multi": "Germany.json"
     }
 ]

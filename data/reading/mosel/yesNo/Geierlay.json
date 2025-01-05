@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Geierlay-Hängebrücke befindet sich im Hunsrück in Rheinland-Pfalz.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Eintritt zur Geierlay-Hängebrücke ist kostenpflichtig.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Es gibt nur einen Parkplatz für die Geierlay-Hängebrücke.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Parkplatz 1 befindet sich am Besucherzentrum in Morsdorf.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Brücke ist 500 Meter lang.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Geierlay-Hängebrücke wurde 2015 eröffnet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Brücke ist 200 Meter hoch.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Geierlay-Hängebrücke bietet den Besuchern eine stabile, schwingungsfreie Erfahrung.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Brücke bietet einen atemberaubenden Blick auf die Landschaft des Hunsrücks.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Geierlay-Hängebrücke ist ein beliebtes Touristenziel.",
+        "tr": true,
+        "fle": false
+    }
+]

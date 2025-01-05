@@ -1,0 +1,157 @@
+[
+    {
+        "de": "die Landschaft",
+        "en": "landscape",
+        "ru": "пейзаж",
+        "descriptionEN": "All the visible features of an area of land.",
+        "descriptionRU": "Все видимые особенности земельного участка.",
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "The study of past events.",
+        "descriptionRU": "Изучение прошлых событий.",
+        "descriptionDE": "Das Studium vergangener Ereignisse."
+    }, {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "A large fortified building or complex.",
+        "descriptionRU": "Большое укрепленное здание или комплекс.",
+        "descriptionDE": "Ein großes befestigtes Gebäude oder Komplex."
+    }, {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "An area of land planted with grapevines.",
+        "descriptionRU": "Участок земли, засаженный виноградниками.",
+        "descriptionDE": "Ein Gebiet, das mit Reben bepflanzt ist."
+    }, {
+        "de": "der Wald",
+        "en": "forest",
+        "ru": "лес",
+        "descriptionEN": "A large area covered chiefly with trees and undergrowth.",
+        "descriptionRU": "Большая территория, покрытая в основном деревьями и подлеском.",
+        "descriptionDE": "Ein großes Gebiet, das hauptsächlich mit Bäumen und Sträuchern bedeckt ist."
+    }, {
+        "de": "die Region",
+        "en": "region",
+        "ru": "регион",
+        "descriptionEN": "An area or division, especially part of a country or the world.",
+        "descriptionRU": "Область или подразделение, особенно часть страны или мира.",
+        "descriptionDE": "Ein Gebiet oder eine Abteilung, insbesondere ein Teil eines Landes oder der Welt."
+    }, {
+        "de": "die Verbindung",
+        "en": "connection",
+        "ru": "связь",
+        "descriptionEN": "A relationship or link between two or more things.",
+        "descriptionRU": "Отношение или связь между двумя или более вещами.",
+        "descriptionDE": "Eine Beziehung oder ein Link zwischen zwei oder mehr Dingen."
+    }, {
+        "de": "die Kultur",
+        "en": "culture",
+        "ru": "культура",
+        "descriptionEN": "The social behavior and norms found in human societies.",
+        "descriptionRU": "Социальное поведение и нормы, присущие человеческим обществам.",
+        "descriptionDE": "Das soziale Verhalten und die Normen, die in menschlichen Gesellschaften zu finden sind."
+    }, {
+        "de": "der Tourismus",
+        "en": "tourism",
+        "ru": "туризм",
+        "descriptionEN": "The commercial organization and operation of vacations and visits to places of interest.",
+        "descriptionRU": "Коммерческая организация и проведение отпусков и посещений интересных мест.",
+        "descriptionDE": "Die kommerzielle Organisation und Durchführung von Urlauben und Besuchen von Sehenswürdigkeiten."
+    }, {
+        "de": "die Freiheit",
+        "en": "freedom",
+        "ru": "свобода",
+        "descriptionEN": "The power or right to act, speak, or think as one wants.",
+        "descriptionRU": "Право или возможность действовать, говорить или думать по своему усмотрению.",
+        "descriptionDE": "Die Macht oder das Recht zu handeln, zu sprechen oder zu denken, wie man will."
+    }, {
+        "de": "wandern",
+        "en": "to hike",
+        "ru": "гулять",
+        "descriptionEN": "To walk for a long distance, especially in the countryside.",
+        "descriptionRU": "Гулять на большие расстояния, особенно в сельской местности.",
+        "descriptionDE": "Lange Strecken zu Fuß gehen, besonders auf dem Land."
+    }, {
+        "de": "verbinden",
+        "en": "to connect",
+        "ru": "связывать",
+        "descriptionEN": "To bring two or more things together.",
+        "descriptionRU": "Соединить два или более объекта.",
+        "descriptionDE": "Zwei oder mehr Dinge zusammenbringen."
+    }, {
+        "de": "genießen",
+        "en": "to enjoy",
+        "ru": "наслаждаться",
+        "descriptionEN": "To take pleasure in something.",
+        "descriptionRU": "Получать удовольствие от чего-то.",
+        "descriptionDE": "Etwas genießen und Freude daran haben."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing the senses or mind aesthetically.",
+        "descriptionRU": "Приятный для чувств или разума эстетически.",
+        "descriptionDE": "Angenehm für die Sinne oder den Geist."
+    }, {
+        "de": "ruhig",
+        "en": "calm",
+        "ru": "спокойный",
+        "descriptionEN": "Free from disturbance or agitation.",
+        "descriptionRU": "Свободный от беспокойства или волнений.",
+        "descriptionDE": "Frei von Störungen oder Aufregung."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having a great deal of money or assets.",
+        "descriptionRU": "Имеющий много денег или активов.",
+        "descriptionDE": "Viel Geld oder Vermögen besitzen."
+    }, {
+        "de": "alt",
+        "en": "old",
+        "ru": "старый",
+        "descriptionEN": "Having lived for a long time.",
+        "descriptionRU": "Проживший долгое время.",
+        "descriptionDE": "Lange Zeit gelebt haben."
+    }, {
+        "de": "traditionell",
+        "en": "traditional",
+        "ru": "традиционный",
+        "descriptionEN": "Relating to customs or beliefs passed down through generations.",
+        "descriptionRU": "Относящийся к обычаям или верованиям, передаваемым из поколения в поколение.",
+        "descriptionDE": "Bezogen auf Bräuche oder Überzeugungen, die von Generation zu Generation weitergegeben werden."
+    }, {
+        "de": "einzigartig",
+        "en": "unique",
+        "ru": "уникальный",
+        "descriptionEN": "Being the only one of its kind.",
+        "descriptionRU": "Будучи единственным в своем роде.",
+        "descriptionDE": "Das einzige seiner Art."
+    }, {
+        "de": "ruhig",
+        "en": "quiet",
+        "ru": "тихий",
+        "descriptionEN": "Making little or no noise.",
+        "descriptionRU": "Издающий мало или совсем не издающий звуков.",
+        "descriptionDE": "Kaum oder keinen Lärm machen."
+    }, {
+        "de": "interessant",
+        "en": "interesting",
+        "ru": "интересный",
+        "descriptionEN": "Arousing curiosity or interest.",
+        "descriptionRU": "Пробуждающий любопытство или интерес.",
+        "descriptionDE": "Neugier oder Interesse wecken."
+    }, {
+        "de": "kulturell",
+        "en": "cultural",
+        "ru": "культурный",
+        "descriptionEN": "Relating to culture, customs, or traditions.",
+        "descriptionRU": "Относящийся к культуре, обычаям или традициям.",
+        "descriptionDE": "Bezogen auf Kultur, Bräuche oder Traditionen."
+    }
+]
