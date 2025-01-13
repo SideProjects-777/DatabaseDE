@@ -141,8 +141,8 @@
             "de": "Nacht im Museum",
             "ru": "Ночь в музее"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/NachtMuseum.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/NachtMuseum.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/NachtMuseum.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/NachtMuseum.json"
     }, {
         "id": 17,
         "title": {
@@ -150,8 +150,8 @@
             "de": "Filmnacht",
             "ru": "Ночь фильмов"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Kinowahl.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Kinowahl.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Kinowahl.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Kinowahl.json"
     }, {
         "id": 18,
         "title": {
@@ -159,8 +159,8 @@
             "de": "Amelias Reise",
             "ru": "Путешествие Амелии"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Amelia.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Amelia.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Amelia.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Amelia.json"
     }, {
         "id": 19,
         "title": {
@@ -168,8 +168,8 @@
             "de": "Errate die Stadt",
             "ru": "Угадайте город"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Cosmopolitan.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Cosmopolitan.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Cosmopolitan.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Cosmopolitan.json"
     }, {
         "id": 20,
         "title": {
@@ -177,8 +177,8 @@
             "de": "Aquazoo Abenteuer",
             "ru": "Приключения в Аквазоопарке"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Aquazoo.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Aquazoo.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Aquazoo.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Aquazoo.json"
     }, {
         "id": 21,
         "title": {
@@ -186,8 +186,8 @@
             "de": "Träume in Düsseldorf",
             "ru": "Мечты в Дюссельдорфе"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Schauspielerreise.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Schauspielerreise.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Schauspielerreise.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Schauspielerreise.json"
     }, {
         "id": 22,
         "title": {
@@ -195,8 +195,8 @@
             "de": "Wetter",
             "ru": "Погода"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Klimafuhrer.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Klimafuhrer.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Klimafuhrer.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Klimafuhrer.json"
     }, {
         "id": 23,
         "title": {
@@ -204,8 +204,8 @@
             "de": "Die Symphonie der Liebe",
             "ru": "Симфония любви"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Symphony.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Symphony.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Symphony.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Symphony.json"
     }, {
         "id": 24,
         "title": {
@@ -213,8 +213,8 @@
             "de": "Viertel I",
             "ru": "Кварталы I"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Altstadt.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Altstadt.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Altstadt.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Altstadt.json"
     }, {
         "id": 25,
         "title": {
@@ -222,8 +222,8 @@
             "en": "Jogging by the promenade",
             "ru": "Пробежка у променада"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Rheinuferpromenade.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Rheinuferpromenade.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Rheinuferpromenade.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Rheinuferpromenade.json"
     }, {
         "id": 26,
         "title": {
@@ -231,8 +231,8 @@
             "de": "Himmelsabenteuer",
             "ru": "Небесное приключение"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Himmelsabenteuer.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Himmelsabenteuer.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Himmelsabenteuer.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Himmelsabenteuer.json"
     }, {
         "id": 27,
         "title": {
@@ -240,8 +240,8 @@
             "de": "Schloss Benrath",
             "ru": "Замок Бенрат"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Benrath.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Benrath.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Benrath.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Benrath.json"
     }, {
         "id": 28,
         "title": {
@@ -249,8 +249,8 @@
             "de": "Japan-Tag",
             "ru": "Японский день"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/JapanDay.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/JapanDay.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/JapanDay.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/JapanDay.json"
     }, {
         "id": 29,
         "title": {
@@ -258,8 +258,8 @@
             "de": "Viertel III",
             "ru": "Кварталы III"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Bilk.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Bilk.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Bilk.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Bilk.json"
     }, {
         "id": 30,
         "title": {
@@ -267,7 +267,7 @@
             "de": "Der Reiz",
             "ru": "Привлекательность"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Allure.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Allure.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Allure.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Allure.json"
     }
 ]

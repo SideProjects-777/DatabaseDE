@@ -141,8 +141,8 @@
             "en": "Bike tour",
             "ru": "Велосипедный тур"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Fahrradtour.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Fahrradtour.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Fahrradtour.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Fahrradtour.json"
     }, {
         "id": 17,
         "title": {
@@ -150,8 +150,8 @@
             "en": "Markus' Investigation",
             "ru": "Расследование Маркуса"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Geheimnisse.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Geheimnisse.json"
     }, {
         "id": 18,
         "title": {
@@ -159,8 +159,8 @@
             "en": "At the airport",
             "ru": "В аэропорту"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Am_Flughafen.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Am_Flughafen.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Am_Flughafen.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Am_Flughafen.json"
     }, {
         "id": 19,
         "title": {
@@ -168,8 +168,8 @@
             "en": "My Family and I",
             "ru": "Моя семья и я"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/LebenBonn.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/LebenBonn.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/LebenBonn.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/LebenBonn.json"
     }, {
         "id": 20,
         "title": {
@@ -177,8 +177,8 @@
             "en": "Muller's Bonn case",
             "ru": "Боннское дело Мюллера"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Gold.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Gold.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Gold.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Gold.json"
     }, {
         "id": 21,
         "title": {
@@ -186,8 +186,8 @@
             "en": "Julia's New Horizons",
             "ru": "Новые горизонты Юлии"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/NeuStadt.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/NeuStadt.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/NeuStadt.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/NeuStadt.json"
     }, {
         "id": 22,
         "title": {
@@ -195,8 +195,8 @@
             "en": "First Time in Bonn",
             "ru": "Первый раз в Бонне"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/ErsteMal.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/ErsteMal.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/ErsteMal.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/ErsteMal.json"
     }, {
         "id": 23,
         "title": {
@@ -204,8 +204,8 @@
             "en": "A Winter Wonderland",
             "ru": "Зимняя сказка"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/MeinWeihnachten.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/MeinWeihnachten.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/MeinWeihnachten.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/MeinWeihnachten.json"
     }, {
         "id": 24,
         "title": {
@@ -213,8 +213,8 @@
             "en": "Discovering Bonn III",
             "ru": "Знакомство с Бонном III"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Lebensmitteleinkauf.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Lebensmitteleinkauf.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Lebensmitteleinkauf.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Lebensmitteleinkauf.json"
     }, {
         "id": 25,
         "title": {
@@ -222,8 +222,8 @@
             "en": "The Carnival Collaboration",
             "ru": "Сотрудничество на карнавале"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/CarnavalStory.png",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/CarnavalStory.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/CarnavalStory.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/CarnavalStory.json"
     }, {
         "id": 26,
         "title": {
@@ -231,8 +231,8 @@
             "en": "Beethoven House I",
             "ru": "Дом Бетховена I"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/BeethovenI.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/BeethovenI.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BeethovenI.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BeethovenI.json"
     }, {
         "id": 27,
         "title": {
@@ -240,8 +240,8 @@
             "en": "Beethoven House II",
             "ru": "Дом Бетховена II"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/BeethovenII.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/BeethovenII.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BeethovenII.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BeethovenII.json"
     }, {
         "id": 28,
         "title": {
@@ -249,8 +249,8 @@
             "en": "Court garden",
             "ru": "Сад во дворе"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Hofgarten.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Hofgarten.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Hofgarten.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Hofgarten.json"
     }, {
         "id": 29,
         "title": {
@@ -258,8 +258,8 @@
             "en": "Discovering Bonn I",
             "ru": "Знакомство с Бонном I"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/BonnStreets.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/BonnStreets.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BonnStreets.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BonnStreets.json"
     }, {
         "id": 30,
         "title": {
@@ -267,7 +267,7 @@
             "en": "Discovering Bonn II",
             "ru": "Знакомство с Бонном II"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/BonnCarnavals.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/BonnCarnavals.json"
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BonnCarnavals.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BonnCarnavals.json"
     }
 ]
