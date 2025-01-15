@@ -20,6 +20,15 @@
     }, {
         "id": 3,
         "title": {
+            "de": "Bonn \u266C",
+            "en": "Bonn \u266C",
+            "ru": "Бонн \u266C"
+        },
+        "filename": "bonnLISTEN.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.jpg"
+    }, {
+        "id": 4,
+        "title": {
             "de": "Cologne \u270D",
             "en": "Cologne \u270D",
             "ru": "Кёльн \u270D"
@@ -27,7 +36,16 @@
         "filename": "cologne.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg"
     }, {
-        "id": 4,
+        "id": 5,
+        "title": {
+            "de": "Cologne \u266C",
+            "en": "Cologne \u266C",
+            "ru": "Кёльн \u266C"
+        },
+        "filename": "cologneLISTEN.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.jpg"
+    }, {
+        "id": 6,
         "title": {
             "de": "Düsseldorf \u270D",
             "en": "Düsseldorf \u270D",
@@ -36,7 +54,16 @@
         "filename": "dusseldorf.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg"
     }, {
-        "id": 5,
+        "id": 7,
+        "title": {
+            "de": "Düsseldorf \u266C",
+            "en": "Düsseldorf \u266C",
+            "ru": "Дюссельдорф \u266C"
+        },
+        "filename": "dusseldorfLISTEN.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dus1.jpg"
+    }, {
+        "id": 8,
         "title": {
             "de": "Koblenz \u270D",
             "en": "Koblenz \u270D",
@@ -45,7 +72,7 @@
         "filename": "koblenz.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg"
     }, {
-        "id": 6,
+        "id": 10,
         "title": {
             "de": "Einfach Stadt \u270D",
             "en": "Simple city \u270D",
@@ -54,7 +81,7 @@
         "filename": "einfach.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfach.jpg"
     }, {
-        "id": 7,
+        "id": 12,
         "title": {
             "de": "Mosel \u270D",
             "en": "Moselle \u270D",
