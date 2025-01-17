@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": {
+        "title": {
             "en": "Family Celebration",
             "de": "Familienfeier",
             "ru": "Семейное торжество"
@@ -10,7 +10,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Familienfeier.json"
     }, {
         "id": 2,
-        "name": {
+        "title": {
             "en": "Nature's Haven",
             "de": "Naturparadies",
             "ru": "Убежище природы"
@@ -19,7 +19,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Naturparadies.json"
     }, {
         "id": 3,
-        "name": {
+        "title": {
             "en": "Pizza Dream",
             "de": "Pizzatraum",
             "ru": "Мечта о пицце"
@@ -28,7 +28,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Pizzatraum.json"
     }, {
         "id": 4,
-        "name": {
+        "title": {
             "en": "Missis Wilson's Bike",
             "de": "Frau Wilsons Fahrrad",
             "ru": "Велосипед Фрау Уилсон"
@@ -37,7 +37,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Radfahren.json"
     }, {
         "id": 5,
-        "name": {
+        "title": {
             "en": "Garden Success",
             "de": "Garten Erfolg",
             "ru": "Успех сада"
@@ -46,7 +46,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Tomaten.json"
     }, {
         "id": 6,
-        "name": {
+        "title": {
             "en": "New Friend",
             "de": "Neue Freundin",
             "ru": "Новая подруга"
@@ -55,7 +55,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Freundin.json"
     }, {
         "id": 7,
-        "name": {
+        "title": {
             "en": "Lily's Kindness",
             "de": "Lilys Güte",
             "ru": "Доброта Лили"
@@ -64,7 +64,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Verlorener.json"
     }, {
         "id": 8,
-        "name": {
+        "title": {
             "en": "Dream Job",
             "de": "Traumjob",
             "ru": "Работа мечты"
@@ -73,7 +73,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Joel.json"
     }, {
         "id": 9,
-        "name": {
+        "title": {
             "en": "Stormy Week",
             "de": "Stürmische Woche",
             "ru": "Штормовая неделя"
@@ -82,7 +82,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Stormy.json"
     }, {
         "id": 10,
-        "name": {
+        "title": {
             "en": "Sophie's Move",
             "de": "Sophies Umzug",
             "ru": "Переезд Софи"
@@ -91,7 +91,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Sophie.json"
     }, {
         "id": 11,
-        "name": {
+        "title": {
             "en": "A Chef's Day",
             "de": "Ein Tag eines Kochs",
             "ru": "День шеф-повара"
@@ -100,7 +100,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Kulinarik.json"
     }, {
         "id": 12,
-        "name": {
+        "title": {
             "en": "Lena's Journey",
             "de": "Lenas Reise",
             "ru": "Путешествие Лены"
@@ -109,7 +109,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Lena.json"
     }, {
         "id": 13,
-        "name": {
+        "title": {
             "en": "Thomas's Favorites",
             "de": "Thomas' Favoriten",
             "ru": "Любимое Томаса"
@@ -118,7 +118,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Thomas.json"
     }, {
         "id": 14,
-        "name": {
+        "title": {
             "en": "Lily's Adventure",
             "de": "Lilys Abenteuer",
             "ru": "Приключения Лили"
@@ -127,7 +127,7 @@
         "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Lily.json"
     }, {
         "id": 15,
-        "name": {
+        "title": {
             "en": "Coffee Tradition",
             "de": "Kaffeetradition",
             "ru": "Традиция кофе"
