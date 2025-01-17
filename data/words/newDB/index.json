@@ -72,6 +72,15 @@
         "filename": "koblenz.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg"
     }, {
+        "id": 9,
+        "title": {
+            "de": "Koblenz \u266C",
+            "en": "Koblenz \u266C",
+            "ru": "Кобленц \u266C"
+        },
+        "filename": "koblenzLISTEN.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.jpg"
+    }, {
         "id": 10,
         "title": {
             "de": "Einfach Stadt \u270D",
@@ -80,6 +89,15 @@
         },
         "filename": "einfach.json",
         "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfach.jpg"
+    }, {
+        "id": 11,
+        "title": {
+            "de": "Einfach Stadt \u266C",
+            "en": "Simple city \u266C",
+            "ru": "Просто город \u266C"
+        },
+        "filename": "einfachLISTEN.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.jpg"
     }, {
         "id": 12,
         "title": {
