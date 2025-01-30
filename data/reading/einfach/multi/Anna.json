@@ -136,7 +136,7 @@
             }
         ]
     }, {
-        "name": "Warum hatte der Zug Verspätung?",
+        "name": "Wie lange hatte der Zug Verspätung?",
         "answers": [
             {
                 "text": "Fünf Minuten Verspätung",
