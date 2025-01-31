@@ -1,5 +1,22 @@
 [
+
     {
+        "name": {
+            "en": "My Days in Mosel",
+            "de": "Meine Tage an der Mosel",
+            "ru": "Мои дни в Мозеле"
+        },
+        "description": {
+            "en": "Diary of Mark, an Amateur Cyclist",
+            "de": "Tagebuch von Mark, einem Amateur-Radfahrer",
+            "ru": "Дневник Марка, велосипедиста-любителя"
+        },
+        "level": "A2",
+        "image": "Diary.jpg",
+        "file": "Diary.txt",
+        "words": "Diary.json",
+        "multi": "Diary.json"
+    }, {
         "name": {
             "en": "Geierlay",
             "de": "Geierlay",

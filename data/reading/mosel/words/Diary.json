@@ -1,0 +1,164 @@
+[
+    {
+        "de": "das Abenteuer",
+        "en": "adventure",
+        "ru": "приключение",
+        "descriptionEN": "An exciting or unusual experience.",
+        "descriptionRU": "Волнующий или необычный опыт.",
+        "descriptionDE": "Eine aufregende oder ungewöhnliche Erfahrung."
+    }, {
+        "de": "die Reifen",
+        "en": "tires",
+        "ru": "шины",
+        "descriptionEN": "Rubber coverings around wheels.",
+        "descriptionRU": "Резиновые покрышки вокруг колес.",
+        "descriptionDE": "Gummiüberzüge um Räder."
+    }, {
+        "de": "das Kopfsteinpflaster",
+        "en": "cobblestone pavement",
+        "ru": "брусчатка",
+        "descriptionEN": "A road surface made of small, usually round stones.",
+        "descriptionRU": "Дорожное покрытие из небольших, обычно круглых камней.",
+        "descriptionDE": "Eine Straßenoberfläche aus kleinen, meist runden Steinen."
+    }, {
+        "de": "die Weinberge",
+        "en": "vineyards",
+        "ru": "виноградники",
+        "descriptionEN": "Fields where grapes are grown for wine production.",
+        "descriptionRU": "Поля, где выращивают виноград для производства вина.",
+        "descriptionDE": "Felder, auf denen Trauben für die Weinproduktion angebaut werden."
+    }, {
+        "de": "das Tal",
+        "en": "valley",
+        "ru": "долина",
+        "descriptionEN": "A low area between hills or mountains.",
+        "descriptionRU": "Низина между холмами или горами.",
+        "descriptionDE": "Ein tiefliegendes Gebiet zwischen Hügeln oder Bergen."
+    }, {
+        "de": "das Gasthaus",
+        "en": "inn",
+        "ru": "гостевой дом",
+        "descriptionEN": "A small hotel or guesthouse, often with a restaurant.",
+        "descriptionRU": "Небольшая гостиница или гостевой дом, часто с рестораном.",
+        "descriptionDE": "Ein kleines Hotel oder Gästehaus, oft mit Restaurant."
+    }, {
+        "de": "der Besitzer",
+        "en": "owner",
+        "ru": "владелец",
+        "descriptionEN": "A person who owns something.",
+        "descriptionRU": "Человек, который чем-то владеет.",
+        "descriptionDE": "Eine Person, die etwas besitzt."
+    }, {
+        "de": "der Hügel",
+        "en": "hill",
+        "ru": "холм",
+        "descriptionEN": "A naturally raised area of land, smaller than a mountain.",
+        "descriptionRU": "Природное возвышение земли, меньше горы.",
+        "descriptionDE": "Eine natürliche Erhebung des Landes, kleiner als ein Berg."
+    }, {
+        "de": "das Straßencafé",
+        "en": "street café",
+        "ru": "уличное кафе",
+        "descriptionEN": "A café with outdoor seating, usually on a sidewalk or square.",
+        "descriptionRU": "Кафе с местами на улице, обычно на тротуаре или площади.",
+        "descriptionDE": "Ein Café mit Außensitzplätzen, meist auf einem Gehweg oder Platz."
+    }, {
+        "de": "der Riesling",
+        "en": "Riesling",
+        "ru": "Рислинг",
+        "descriptionEN": "A type of white grape and the wine made from it.",
+        "descriptionRU": "Сорт белого винограда и вино, произведенное из него.",
+        "descriptionDE": "Eine Weißweinsorte und der daraus hergestellte Wein."
+    }, {
+        "de": "der Abschied",
+        "en": "farewell",
+        "ru": "прощание",
+        "descriptionEN": "The act of saying goodbye.",
+        "descriptionRU": "Действие прощания.",
+        "descriptionDE": "Der Akt des Abschiednehmens."
+    }, {
+        "de": "fahren",
+        "en": "to ride",
+        "ru": "ехать",
+        "descriptionEN": "To travel in or on a vehicle, bicycle, or similar.",
+        "descriptionRU": "Передвигаться на транспортном средстве, велосипеде и т. д.",
+        "descriptionDE": "Mit einem Fahrzeug, Fahrrad oder Ähnlichem reisen."
+    }, {
+        "de": "rollen",
+        "en": "to roll",
+        "ru": "катиться",
+        "descriptionEN": "To move smoothly over a surface by turning over itself.",
+        "descriptionRU": "Передвигаться по поверхности, переворачиваясь.",
+        "descriptionDE": "Sich sanft über eine Oberfläche bewegen, indem man sich überdreht."
+    }, {
+        "de": "gleiten",
+        "en": "to glide",
+        "ru": "скользить",
+        "descriptionEN": "To move smoothly and effortlessly.",
+        "descriptionRU": "Двигаться плавно и без усилий.",
+        "descriptionDE": "Sich sanft und mühelos bewegen."
+    }, {
+        "de": "halten",
+        "en": "to stop",
+        "ru": "останавливаться",
+        "descriptionEN": "To cease movement or come to a standstill.",
+        "descriptionRU": "Прекратить движение или остановиться.",
+        "descriptionDE": "Die Bewegung beenden oder zum Stillstand kommen."
+    }, {
+        "de": "schenken",
+        "en": "to give (as a gift)",
+        "ru": "дарить",
+        "descriptionEN": "To give something as a present.",
+        "descriptionRU": "Подарить что-то.",
+        "descriptionDE": "Etwas als Geschenk geben."
+    }, {
+        "de": "lachen",
+        "en": "to laugh",
+        "ru": "смеяться",
+        "descriptionEN": "To express happiness or amusement with a sound.",
+        "descriptionRU": "Выражать радость или веселье с помощью звука.",
+        "descriptionDE": "Freude oder Vergnügen mit einem Geräusch ausdrücken."
+    }, {
+        "de": "reichhaltig",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having a lot of something, abundant.",
+        "descriptionRU": "Имеющий в избытке что-то.",
+        "descriptionDE": "Etwas in großer Menge habend, üppig."
+    }, {
+        "de": "warm",
+        "en": "warm",
+        "ru": "тёплый",
+        "descriptionEN": "Having a moderate heat.",
+        "descriptionRU": "Имеющий умеренное тепло.",
+        "descriptionDE": "Eine angenehme Wärme habend."
+    }, {
+        "de": "wackelig",
+        "en": "wobbly",
+        "ru": "шаткий",
+        "descriptionEN": "Unstable or not firm.",
+        "descriptionRU": "Неустойчивый или не прочный.",
+        "descriptionDE": "Instabil oder nicht fest."
+    }, {
+        "de": "göttlich",
+        "en": "divine",
+        "ru": "божественный",
+        "descriptionEN": "Extremely good or pleasant.",
+        "descriptionRU": "Очень хороший или приятный.",
+        "descriptionDE": "Außergewöhnlich gut oder angenehm."
+    }, {
+        "de": "schnell",
+        "en": "fast",
+        "ru": "быстрый",
+        "descriptionEN": "Moving at high speed.",
+        "descriptionRU": "Двигающийся с высокой скоростью.",
+        "descriptionDE": "Mit hoher Geschwindigkeit bewegend."
+    }, {
+        "de": "langsam",
+        "en": "slow",
+        "ru": "медленный",
+        "descriptionEN": "Moving with little speed.",
+        "descriptionRU": "Двигающийся медленно.",
+        "descriptionDE": "Mit geringer Geschwindigkeit bewegend."
+    }
+]
