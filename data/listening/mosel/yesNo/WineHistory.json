@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Römer nannten den Fluss Mosella, was 'kleine Mosa' bedeutet.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Im Mittelalter gab es keine Dörfer rund um die Weinindustrie an der Mosel.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Im 17. Jahrhundert wurde die Mosel zu einem Zentrum des Rieslings.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Der Kurfürst von Trier verbot im 18. Jahrhundert den Anbau von Riesling an der Mosel.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Preußen senkte die Zölle für Moselwein, um die Weinwirtschaft zu fördern.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "In den 1850er Jahren entdeckten die Winzer, dass sie den Alkoholgehalt des Weins mit Wasser erhöhen können.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Viele Gebiete an der Mosel wurden mit Müller-Thurgau bepflanzt, weil sie sich nicht für Riesling eigneten.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Im 20. Jahrhundert war Liebfraumilch ein beliebter Wein in Nordamerika.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die gesamte deutsche Weinindustrie konzentriert sich heute auf die Produktion von süßen Weinen.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Der Zollverein erhöhte die Zölle für Moselwein innerhalb des Deutschen Bundes.",
+        "tr": false,
+        "fle": true
+    }
+]

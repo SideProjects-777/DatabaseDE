@@ -191,5 +191,21 @@
         "file": "Germany.mp3",
         "words": "Germany.json",
         "multi": "Germany.json"
+    }, {
+        "name": {
+            "en": "Mosel Wine History",
+            "de": "Mosel Wein Geschichte",
+            "ru": "История вина Мозеля"
+        },
+        "description": {
+            "en": "Roman origins, Riesling dominance",
+            "de": "Römische Ursprünge, Riesling-Dominanz",
+            "ru": "Римские корни, доминирование рислинга"
+        },
+        "level": "B2",
+        "image": "WineHistory.jpg",
+        "file": "WineHistory.mp3",
+        "words": "WineHistory.json",
+        "yesNo": "WineHistory.json"
     }
 ]

@@ -1,0 +1,157 @@
+[
+    {
+        "de": "der Weinberg",
+        "en": "vineyard",
+        "ru": "виноградник",
+        "descriptionEN": "A plantation of grapevines used for winemaking.",
+        "descriptionRU": "Участок земли, на котором выращивают виноград для вина.",
+        "descriptionDE": "Ein Anbaugebiet für Weinreben zur Weinproduktion."
+    }, {
+        "de": "die Gärung",
+        "en": "fermentation",
+        "ru": "брожение",
+        "descriptionEN": "A process where yeast converts sugars into alcohol.",
+        "descriptionRU": "Процесс, в котором дрожжи превращают сахар в алкоголь.",
+        "descriptionDE": "Ein Prozess, bei dem Hefe Zucker in Alkohol umwandelt."
+    }, {
+        "de": "der Winzer",
+        "en": "winemaker",
+        "ru": "винодел",
+        "descriptionEN": "A person who produces wine.",
+        "descriptionRU": "Человек, который занимается производством вина.",
+        "descriptionDE": "Eine Person, die Wein herstellt."
+    }, {
+        "de": "die Rebe",
+        "en": "vine",
+        "ru": "лоза",
+        "descriptionEN": "A climbing plant that produces grapes.",
+        "descriptionRU": "Вьющееся растение, дающее виноград.",
+        "descriptionDE": "Eine kletternde Pflanze, die Trauben trägt."
+    }, {
+        "de": "das Weingut",
+        "en": "winery",
+        "ru": "винодельня",
+        "descriptionEN": "A place where wine is produced.",
+        "descriptionRU": "Место, где производится вино.",
+        "descriptionDE": "Ein Ort, an dem Wein hergestellt wird."
+    }, {
+        "de": "die Traube",
+        "en": "grape",
+        "ru": "виноград",
+        "descriptionEN": "A small, round fruit used to make wine.",
+        "descriptionRU": "Мелкий, круглый фрукт, используемый для производства вина.",
+        "descriptionDE": "Eine kleine, runde Frucht zur Weinherstellung."
+    }, {
+        "de": "der Riesling",
+        "en": "Riesling",
+        "ru": "Рислинг",
+        "descriptionEN": "A type of white grape used to make wine.",
+        "descriptionRU": "Разновидность белого винограда, используемая для вина.",
+        "descriptionDE": "Eine Art Weißweintraube zur Weinproduktion."
+    }, {
+        "de": "der Adel",
+        "en": "nobility",
+        "ru": "дворянство",
+        "descriptionEN": "A privileged class of people with high social status.",
+        "descriptionRU": "Привилегированный класс людей с высоким статусом.",
+        "descriptionDE": "Eine privilegierte soziale Schicht mit hohem Status."
+    }, {
+        "de": "die Zölle",
+        "en": "tariffs",
+        "ru": "таможенные пошлины",
+        "descriptionEN": "Taxes on imported or exported goods.",
+        "descriptionRU": "Налоги на импорт или экспорт товаров.",
+        "descriptionDE": "Steuern auf importierte oder exportierte Waren."
+    }, {
+        "de": "die Zollunion",
+        "en": "customs union",
+        "ru": "таможенный союз",
+        "descriptionEN": "An agreement to remove trade barriers between countries.",
+        "descriptionRU": "Соглашение об устранении торговых барьеров между странами.",
+        "descriptionDE": "Eine Vereinbarung zur Beseitigung von Handelshemmnissen zwischen Ländern."
+    }, {
+        "de": "das Klima",
+        "en": "climate",
+        "ru": "климат",
+        "descriptionEN": "The weather conditions of a region over time.",
+        "descriptionRU": "Погодные условия в регионе в течение долгого времени.",
+        "descriptionDE": "Die Wetterbedingungen einer Region über einen längeren Zeitraum."
+    }, {
+        "de": "die Qualität",
+        "en": "quality",
+        "ru": "качество",
+        "descriptionEN": "The standard of something measured against other things.",
+        "descriptionRU": "Степень соответствия стандартам или требованиям.",
+        "descriptionDE": "Der Maßstab, an dem etwas gemessen wird."
+    }, {
+        "de": "exportieren",
+        "en": "to export",
+        "ru": "экспортировать",
+        "descriptionEN": "To send goods to another country for sale.",
+        "descriptionRU": "Отправлять товары в другую страну для продажи.",
+        "descriptionDE": "Waren in ein anderes Land verkaufen."
+    }, {
+        "de": "lagern",
+        "en": "to store",
+        "ru": "хранить",
+        "descriptionEN": "To keep something in a particular place for future use.",
+        "descriptionRU": "Хранить что-то в определённом месте для будущего использования.",
+        "descriptionDE": "Etwas an einem bestimmten Ort aufbewahren."
+    }, {
+        "de": "anbauen",
+        "en": "to cultivate",
+        "ru": "возделывать",
+        "descriptionEN": "To grow plants, especially for agriculture.",
+        "descriptionRU": "Выращивать растения, особенно для сельского хозяйства.",
+        "descriptionDE": "Pflanzen anbauen, besonders für die Landwirtschaft."
+    }, {
+        "de": "fermentieren",
+        "en": "to ferment",
+        "ru": "бродить",
+        "descriptionEN": "To undergo chemical breakdown by yeast or bacteria.",
+        "descriptionRU": "Претерпевать химический распад с помощью дрожжей или бактерий.",
+        "descriptionDE": "Durch Hefe oder Bakterien chemisch umgewandelt werden."
+    }, {
+        "de": "besteuern",
+        "en": "to tax",
+        "ru": "облагать налогом",
+        "descriptionEN": "To impose a financial charge on goods or income.",
+        "descriptionRU": "Налагать финансовый сбор на товары или доход.",
+        "descriptionDE": "Eine finanzielle Abgabe auf Waren oder Einkommen erheben."
+    }, {
+        "de": "süß",
+        "en": "sweet",
+        "ru": "сладкий",
+        "descriptionEN": "Having a sugary taste.",
+        "descriptionRU": "Имеющий сладкий вкус.",
+        "descriptionDE": "Mit einem zuckerhaltigen Geschmack."
+    }, {
+        "de": "trocken",
+        "en": "dry",
+        "ru": "сухой",
+        "descriptionEN": "Lacking moisture or sweetness in wine.",
+        "descriptionRU": "Без влаги или без сладости в вине.",
+        "descriptionDE": "Ohne Feuchtigkeit oder Süße im Wein."
+    }, {
+        "de": "teuer",
+        "en": "expensive",
+        "ru": "дорогой",
+        "descriptionEN": "Costing a lot of money.",
+        "descriptionRU": "Стоящий много денег.",
+        "descriptionDE": "Kostet viel Geld."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having a lot of wealth or resources.",
+        "descriptionRU": "Обладающий большим количеством богатства или ресурсов.",
+        "descriptionDE": "Mit viel Wohlstand oder Ressourcen ausgestattet."
+    }, {
+        "de": "gemeinsam",
+        "en": "common",
+        "ru": "общий",
+        "descriptionEN": "Shared by multiple people or groups.",
+        "descriptionRU": "Используемый несколькими людьми или группами.",
+        "descriptionDE": "Von mehreren Personen oder Gruppen geteilt."
+    }
+]
