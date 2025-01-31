@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Museums",
+            "de": "Museen",
+            "ru": "Музеи"
+        },
+        "description": {
+            "en": "Explore the history",
+            "de": "Entdecken Sie Geschichte",
+            "ru": "Изучите историю"
+        },
+        "level": "A2",
+        "image": "Museums.jpg",
+        "file": "Museums.mp3",
+        "words": "Museums.json",
+        "multi": "Museums.json"
+    }, {
+        "name": {
             "en": "Discover the Mosel",
             "de": "Entdecke die Mosel",
             "ru": "Откройте Мозель"

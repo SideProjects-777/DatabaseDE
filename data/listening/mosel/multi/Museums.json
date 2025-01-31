@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Was ist das Moselweinmuseum?",
+        "answers": [
+            {
+                "text": "Ein Museum über römische Geschichte",
+                "correct": false
+            }, {
+                "text": "Ein Museum über Weinherstellung im Moseltal",
+                "correct": true
+            }, {
+                "text": "Ein Museum über Tierwelt",
+                "correct": false
+            }, {
+                "text": "Ein Museum über lokale Traditionen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kann man im Moselweinmuseum sehen?",
+        "answers": [
+            {
+                "text": "Römische Artefakte",
+                "correct": false
+            }, {
+                "text": "Ein interaktives Museum zur Natur",
+                "correct": false
+            }, {
+                "text": "Alte Werkzeuge und Weine probieren",
+                "correct": true
+            }, {
+                "text": "Wein aus verschiedenen Regionen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wo befindet sich das Archäologische Museum?",
+        "answers": [
+            {
+                "text": "In der Stadt Trier",
+                "correct": true
+            }, {
+                "text": "In Bernkastel-Kues",
+                "correct": false
+            }, {
+                "text": "In Koblenz",
+                "correct": false
+            }, {
+                "text": "In Cochem",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kann man im Archäologischen Museum Trier sehen?",
+        "answers": [
+
+            {
+                "text": "Ein interaktives Museum zur Natur",
+                "correct": false
+            }, {
+                "text": "Moderne Kunstwerke",
+                "correct": false
+            }, {
+                "text": "Artefakte und alte Gebäude der römischen Geschichte",
+                "correct": true
+            }, {
+                "text": "Ein Weinmuseum",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was bietet der Nationalpark Eifel Museum?",
+        "answers": [
+            {
+                "text": "Ausstellung über lokale Weinproduktion",
+                "correct": false
+            }, {
+                "text": "Informationen über Natur, Tiere und Geschichte",
+                "correct": true
+            }, {
+                "text": "Moderne Kunstwerke und Artefakte",
+                "correct": false
+            }, {
+                "text": "Archäologische Funde aus dem Mittelalter",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was kann man im Nationalpark Eifel Museum tun?",
+        "answers": [
+            {
+                "text": "Die Tiere im Zoo beobachten",
+                "correct": false
+            }, {
+                "text": "Die heimische Tierwelt erkunden",
+                "correct": true
+            }, {
+                "text": "Historische Artefakte sehen",
+                "correct": false
+            }, {
+                "text": "An einer Weinverkostung teilnehmen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Womit beschäftigen sich viele Museen in der Moselregion?",
+        "answers": [
+            {
+                "text": "Mit der Geschichte von Weinbauern",
+                "correct": false
+            }, {
+                "text": "Mit Kunst der modernen Zeit",
+                "correct": false
+            }, {
+                "text": "Mit der Naturwissenschaft",
+                "correct": false
+            }, {
+                "text": "Mit lokaler Geschichte, Kultur und Tradition",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was bietet die Moselregion ihren Besuchern?",
+        "answers": [
+            {
+                "text": "Ein reiches kulturelles Erbe",
+                "correct": true
+            }, {
+                "text": "Eine große Auswahl an modernen Kunstgalerien",
+                "correct": false
+            }, {
+                "text": "Historische Sehenswürdigkeiten aus dem Mittelalter",
+                "correct": false
+            }, {
+                "text": "Luxuriöse Hotelanlagen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum sind die Moselregion Museen besonders interessant?",
+        "answers": [
+            {
+                "text": "Weil sie interaktive Exponate bieten",
+                "correct": false
+            }, {
+                "text": "Weil sie eine breite Vielfalt an Themen bieten",
+                "correct": true
+            }, {
+                "text": "Weil sie nur Wein ausstellen",
+                "correct": false
+            }, {
+                "text": "Weil sie nur römische Artefakte zeigen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sind ideale Besucher der Moselregion Museen?",
+        "answers": [
+            {
+                "text": "Liebhaber moderner Kunst",
+                "correct": false
+            }, {
+                "text": "Alle, die mehr über das Leben in der Region erfahren möchten",
+                "correct": true
+            }, {
+                "text": "Nur Weinliebhaber",
+                "correct": false
+            }, {
+                "text": "Nur Historiker",
+                "correct": false
+            }
+        ]
+    }
+]
