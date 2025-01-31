@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Wie heißt die Besitzerin des Gasthauses 'La Repose'?",
+        "answers": [
+
+            {
+                "text": "Anna",
+                "correct": false
+            }, {
+                "text": "Greta",
+                "correct": true
+            }, {
+                "text": "Maria",
+                "correct": false
+            }, {
+                "text": "Sophia",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Stadt erreichte der Reisende am dritten Tag?",
+        "answers": [
+
+            {
+                "text": "Cochem",
+                "correct": false
+            }, {
+                "text": "Zell",
+                "correct": false
+            }, {
+                "text": "Traben-Trarbach",
+                "correct": true
+            }, {
+                "text": "Koblenz",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was schenkte Greta dem Reisenden zum Abschied?",
+        "answers": [
+            {
+                "text": "Eine Flasche Riesling und eine Postkarte",
+                "correct": true
+            }, {
+                "text": "Ein Glas Riesling",
+                "correct": false
+            }, {
+                "text": "Ein Stück Aprikosenkuchen",
+                "correct": false
+            }, {
+                "text": "Ein Fahrrad",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Art von Kuchen bekam der Reisende von Josef?",
+        "answers": [
+
+            {
+                "text": "Apfelstrudel",
+                "correct": false
+            }, {
+                "text": "Schwarzwälder Kirschtorte",
+                "correct": false
+            }, {
+                "text": "Käsekuchen",
+                "correct": false
+            }, {
+                "text": "Aprikosenkuchen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Warum lachte Greta über das Fahrrad des Reisenden?",
+        "answers": [
+
+            {
+                "text": "Weil es neu und glänzend war",
+                "correct": false
+            }, {
+                "text": "Weil es wackelig war",
+                "correct": true
+            }, {
+                "text": "Weil es zu groß für ihn war",
+                "correct": false
+            }, {
+                "text": "Weil es ein E-Bike war",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Farbe hatte die Sonne, die sich in der Mosel spiegelte?",
+        "answers": [
+            {
+                "text": "Golden",
+                "correct": true
+            }, {
+                "text": "Rot",
+                "correct": false
+            }, {
+                "text": "Blau",
+                "correct": false
+            }, {
+                "text": "Silbern",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was sagte Josef über das Radfahren an der Mosel?",
+        "answers": [
+
+            {
+                "text": "Man braucht unbedingt ein teures Fahrrad",
+                "correct": false
+            }, {
+                "text": "Man muss auf seinen Verstand hören, nicht auf seine Beine",
+                "correct": true
+            }, {
+                "text": "Es ist nur für Profis geeignet",
+                "correct": false
+            }, {
+                "text": "Man sollte früh am Morgen starten",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum fühlte sich der Reisende in Traben-Trarbach zunächst wie ein Außenseiter?",
+        "answers": [
+
+            {
+                "text": "Weil niemand ihm ein Glas Wein anbot",
+                "correct": false
+            }, {
+                "text": "Weil er sein Fahrrad verlor",
+                "correct": false
+            }, {
+                "text": "Weil er die Einheimischen beobachtete, aber nicht mit ihnen sprach",
+                "correct": true
+            }, {
+                "text": "Weil er kein Deutsch sprechen konnte",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was gab die alte Frau dem Reisenden auf dem Marktplatz?",
+        "answers": [
+
+            {
+                "text": "Ein Glas Wein",
+                "correct": false
+            }, {
+                "text": "Ein Stück Käse",
+                "correct": false
+            }, {
+                "text": "Ein Brot",
+                "correct": false
+            }, {
+                "text": "Kirschen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Welche Lektion lernte der Reisende während seiner Reise an der Mosel?",
+        "answers": [
+
+            {
+                "text": "Es ist wichtig, immer schneller zu fahren",
+                "correct": false
+            }, {
+                "text": "Es geht darum, langsamer zu werden und von der Reise zu lernen",
+                "correct": true
+            }, {
+                "text": "Nur teure Fahrräder eignen sich für die Mosel",
+                "correct": false
+            }, {
+                "text": "Man sollte keine Fremden ansprechen",
+                "correct": false
+            }
+        ]
+    }
+]

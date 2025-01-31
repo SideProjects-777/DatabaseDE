@@ -1,0 +1,130 @@
+[
+
+    {
+        "de": "das Museum",
+        "en": "museum",
+        "ru": "музей",
+        "descriptionEN": "A building or institution for preserving and displaying historical objects.",
+        "descriptionRU": "Здание или учреждение для сохранения и展示 исторических объектов.",
+        "descriptionDE": "Ein Gebäude oder eine Institution zur Bewahrung und Ausstellung historischer Objekte."
+    }, {
+        "de": "die Geschichte",
+        "en": "history",
+        "ru": "история",
+        "descriptionEN": "The study of past events, particularly in human affairs.",
+        "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+    }, {
+        "de": "die Weinherstellung",
+        "en": "winemaking",
+        "ru": "виноделие",
+        "descriptionEN": "The process of producing wine from grapes.",
+        "descriptionRU": "Процесс производства вина из винограда.",
+        "descriptionDE": "Der Prozess der Weinproduktion aus Trauben."
+    }, {
+        "de": "der Werkzeug",
+        "en": "tool",
+        "ru": "инструмент",
+        "descriptionEN": "A device used to carry out a specific task.",
+        "descriptionRU": "Устройство, используемое для выполнения определенной задачи.",
+        "descriptionDE": "Ein Gerät, das zur Durchführung einer bestimmten Aufgabe verwendet wird."
+    }, {
+        "de": "die Artefakte",
+        "en": "artifacts",
+        "ru": "артефакты",
+        "descriptionEN": "Objects made by humans, typically of historical or cultural significance.",
+        "descriptionRU": "Объекты, созданные человеком, обычно исторического или культурного значения.",
+        "descriptionDE": "Von Menschen gemachte Objekte, die normalerweise historisch oder kulturell von Bedeutung sind."
+    }, {
+        "de": "der Nationalpark",
+        "en": "national park",
+        "ru": "национальный парк",
+        "descriptionEN": "A protected area of land used for conservation and enjoyment.",
+        "descriptionRU": "Охраняемая территория, используемая для сохранения природы и отдыха.",
+        "descriptionDE": "Ein geschütztes Gebiet von Land, das für den Naturschutz und die Erholung genutzt wird."
+    }, {
+        "de": "die Tierwelt",
+        "en": "wildlife",
+        "ru": "дикая природа",
+        "descriptionEN": "The animals and plants that live in the natural environment.",
+        "descriptionRU": "Животные и растения, обитающие в естественной среде.",
+        "descriptionDE": "Die Tiere und Pflanzen, die in der natürlichen Umgebung leben."
+    }, {
+        "de": "die Tradition",
+        "en": "tradition",
+        "ru": "традиция",
+        "descriptionEN": "The passing down of customs or beliefs from generation to generation.",
+        "descriptionRU": "Передача обычаев или верований из поколения в поколение.",
+        "descriptionDE": "Die Weitergabe von Bräuchen oder Überzeugungen von Generation zu Generation."
+    }, {
+        "de": "der Erbe",
+        "en": "heritage",
+        "ru": "наследие",
+        "descriptionEN": "The cultural legacy handed down from past generations.",
+        "descriptionRU": "Культурное наследие, передаваемое от поколений к поколению.",
+        "descriptionDE": "Das kulturelle Erbe, das von vergangenen Generationen weitergegeben wird."
+    }, {
+        "de": "lernen",
+        "en": "to learn",
+        "ru": "учить",
+        "descriptionEN": "To gain knowledge or skills through study or experience.",
+        "descriptionRU": "Получать знания или навыки через учебу или опыт.",
+        "descriptionDE": "Wissen oder Fähigkeiten durch Studium oder Erfahrung erwerben."
+    }, {
+        "de": "sehen",
+        "en": "to see",
+        "ru": "видеть",
+        "descriptionEN": "To observe with the eyes.",
+        "descriptionRU": "Наблюдать глазами.",
+        "descriptionDE": "Mit den Augen beobachten."
+    }, {
+        "de": "erfahren",
+        "en": "to learn",
+        "ru": "узнавать",
+        "descriptionEN": "To gain information through experience or study.",
+        "descriptionRU": "Получать информацию через опыт или учебу.",
+        "descriptionDE": "Information durch Erfahrung oder Studium erhalten."
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "To travel through an area to learn more about it.",
+        "descriptionRU": "Путешествовать по территории, чтобы узнать о ней больше.",
+        "descriptionDE": "Durch ein Gebiet reisen, um mehr darüber zu erfahren."
+    }, {
+        "de": "konzentrieren",
+        "en": "to focus",
+        "ru": "сосредотачиваться",
+        "descriptionEN": "To direct attention to a specific task or subject.",
+        "descriptionRU": "Направлять внимание на конкретную задачу или тему.",
+        "descriptionDE": "Die Aufmerksamkeit auf eine bestimmte Aufgabe oder ein bestimmtes Thema richten."
+    }, {
+        "de": "reich",
+        "en": "rich",
+        "ru": "богатый",
+        "descriptionEN": "Having abundant resources, often wealth.",
+        "descriptionRU": "Иметь обилие ресурсов, часто богатства.",
+        "descriptionDE": "Über reiche Ressourcen verfügen, oft Wohlstand."
+    }, {
+        "de": "interaktiv",
+        "en": "interactive",
+        "ru": "интерактивный",
+        "descriptionEN": "Involving active participation or engagement.",
+        "descriptionRU": "Предполагающий активное участие или вовлеченность.",
+        "descriptionDE": "Aktive Teilnahme oder Engagement einbeziehen."
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "Relating to past events or history.",
+        "descriptionRU": "Относящийся к прошлым событиям или истории.",
+        "descriptionDE": "Bezieht sich auf vergangene Ereignisse oder Geschichte."
+    }, {
+        "de": "kulturell",
+        "en": "cultural",
+        "ru": "культурный",
+        "descriptionEN": "Relating to the culture of a society or group.",
+        "descriptionRU": "Относящийся к культуре общества или группы.",
+        "descriptionDE": "Bezieht sich auf die Kultur einer Gesellschaft oder Gruppe."
+    }
+]

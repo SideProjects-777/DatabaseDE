@@ -1,6 +1,22 @@
 [
     {
         "name": {
+            "en": "Museums",
+            "de": "Museen",
+            "ru": "Музеи"
+        },
+        "description": {
+            "en": "Explore the history",
+            "de": "Entdecken Sie Geschichte",
+            "ru": "Изучите историю"
+        },
+        "level": "A2",
+        "image": "Museums.jpg",
+        "file": "Museums.mp3",
+        "words": "Museums.json",
+        "multi": "Museums.json"
+    }, {
+        "name": {
             "en": "Discover the Mosel",
             "de": "Entdecke die Mosel",
             "ru": "Откройте Мозель"
@@ -191,5 +207,21 @@
         "file": "Germany.mp3",
         "words": "Germany.json",
         "multi": "Germany.json"
+    }, {
+        "name": {
+            "en": "Mosel Wine History",
+            "de": "Mosel Wein Geschichte",
+            "ru": "История вина Мозеля"
+        },
+        "description": {
+            "en": "Roman origins, Riesling dominance",
+            "de": "Römische Ursprünge, Riesling-Dominanz",
+            "ru": "Римские корни, доминирование рислинга"
+        },
+        "level": "B2",
+        "image": "WineHistory.jpg",
+        "file": "WineHistory.mp3",
+        "words": "WineHistory.json",
+        "yesNo": "WineHistory.json"
     }
 ]
