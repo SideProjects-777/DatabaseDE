@@ -1,0 +1,143 @@
+[
+    {
+        "de": "die Burg",
+        "en": "castle",
+        "ru": "замок",
+        "descriptionEN": "A large fortified building, often historical.",
+        "descriptionRU": "Большое укреплённое здание, часто историческое.",
+        "descriptionDE": "Ein großes befestigtes Gebäude, oft historisch."
+    }, {
+        "de": "der Hügel",
+        "en": "hill",
+        "ru": "холм",
+        "descriptionEN": "A raised area of land, smaller than a mountain.",
+        "descriptionRU": "Возвышенность на поверхности земли, меньше горы.",
+        "descriptionDE": "Ein erhöhter Bereich der Landschaft, kleiner als ein Berg."
+    }, {
+        "de": "der Fluss",
+        "en": "river",
+        "ru": "река",
+        "descriptionEN": "A large natural stream of water flowing in a channel.",
+        "descriptionRU": "Крупный естественный поток воды, текущий по руслу.",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt."
+    }, {
+        "de": "das Boot",
+        "en": "boat",
+        "ru": "лодка",
+        "descriptionEN": "A small vessel for traveling on water.",
+        "descriptionRU": "Малое судно для передвижения по воде.",
+        "descriptionDE": "Ein kleines Fahrzeug zum Reisen auf dem Wasser."
+    }, {
+        "de": "das Café",
+        "en": "café",
+        "ru": "кафе",
+        "descriptionEN": "A small restaurant serving drinks and snacks.",
+        "descriptionRU": "Небольшое заведение, подающее напитки и закуски.",
+        "descriptionDE": "Ein kleines Restaurant, das Getränke und Snacks serviert."
+    }, {
+        "de": "die Region",
+        "en": "region",
+        "ru": "регион",
+        "descriptionEN": "A geographical area with specific characteristics.",
+        "descriptionRU": "Географическая область с особыми характеристиками.",
+        "descriptionDE": "Ein geografisches Gebiet mit bestimmten Merkmalen."
+    }, {
+        "de": "das Wasser",
+        "en": "water",
+        "ru": "вода",
+        "descriptionEN": "A clear, tasteless liquid essential for life.",
+        "descriptionRU": "Прозрачная жидкость без вкуса, необходимая для жизни.",
+        "descriptionDE": "Eine klare, geschmacklose Flüssigkeit, die für das Leben notwendig ist."
+    }, {
+        "de": "der Abend",
+        "en": "evening",
+        "ru": "вечер",
+        "descriptionEN": "The time between afternoon and night.",
+        "descriptionRU": "Время между днём и ночью.",
+        "descriptionDE": "Die Zeit zwischen Nachmittag und Nacht."
+    }, {
+        "de": "das Restaurant",
+        "en": "restaurant",
+        "ru": "ресторан",
+        "descriptionEN": "A place where meals are prepared and served.",
+        "descriptionRU": "Место, где готовят и подают еду.",
+        "descriptionDE": "Ein Ort, an dem Mahlzeiten zubereitet und serviert werden."
+    }, {
+        "de": "besuchen",
+        "en": "to visit",
+        "ru": "посещать",
+        "descriptionEN": "To go to a place for a short time.",
+        "descriptionRU": "Прийти в место на короткое время.",
+        "descriptionDE": "Für kurze Zeit an einen Ort gehen."
+    }, {
+        "de": "sitzen",
+        "en": "to sit",
+        "ru": "сидеть",
+        "descriptionEN": "To rest in a seated position.",
+        "descriptionRU": "Находиться в положении сидя.",
+        "descriptionDE": "In einer sitzenden Position verweilen."
+    }, {
+        "de": "trinken",
+        "en": "to drink",
+        "ru": "пить",
+        "descriptionEN": "To consume a liquid.",
+        "descriptionRU": "Употреблять жидкость.",
+        "descriptionDE": "Eine Flüssigkeit zu sich nehmen."
+    }, {
+        "de": "machen",
+        "en": "to do",
+        "ru": "делать",
+        "descriptionEN": "To perform an action or task.",
+        "descriptionRU": "Совершать действие или задачу.",
+        "descriptionDE": "Eine Handlung oder Aufgabe ausführen."
+    }, {
+        "de": "probieren",
+        "en": "to try",
+        "ru": "пробовать",
+        "descriptionEN": "To test or taste something.",
+        "descriptionRU": "Испытать или попробовать что-то.",
+        "descriptionDE": "Etwas testen oder kosten."
+    }, {
+        "de": "klein",
+        "en": "small",
+        "ru": "маленький",
+        "descriptionEN": "Of a limited size or extent.",
+        "descriptionRU": "Ограниченного размера или объёма.",
+        "descriptionDE": "Von begrenzter Größe oder Umfang."
+    }, {
+        "de": "schön",
+        "en": "beautiful",
+        "ru": "красивый",
+        "descriptionEN": "Pleasing in appearance.",
+        "descriptionRU": "Приятный на вид.",
+        "descriptionDE": "Ansprechend im Aussehen."
+    }, {
+        "de": "ruhig",
+        "en": "calm",
+        "ru": "спокойный",
+        "descriptionEN": "Free from disturbance or noise.",
+        "descriptionRU": "Без шума и волнений.",
+        "descriptionDE": "Frei von Störungen oder Lärm."
+    }, {
+        "de": "alt",
+        "en": "old",
+        "ru": "старый",
+        "descriptionEN": "Having existed for a long time.",
+        "descriptionRU": "Существующий долгое время.",
+        "descriptionDE": "Seit langer Zeit existierend."
+    }, {
+        "de": "regional",
+        "en": "regional",
+        "ru": "региональный",
+        "descriptionEN": "Relating to a specific area.",
+        "descriptionRU": "Относящийся к определенному региону.",
+        "descriptionDE": "Bezogen auf eine bestimmte Region."
+    }, {
+        "de": "wunderschön",
+        "en": "gorgeous",
+        "ru": "великолепный",
+        "descriptionEN": "Extremely beautiful or delightful.",
+        "descriptionRU": "Очень красивый или восхитительный.",
+        "descriptionDE": "Außergewöhnlich schön oder erfreulich."
+    }
+]
