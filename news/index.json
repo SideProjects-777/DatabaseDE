@@ -1,20 +1,14 @@
 [
     {
         "name": {
-            "en": "Moselle - My Days in Mosel \u270D",
-            "ru": "Мозель - Мои дни в Мозеле \u270D",
+            "en": "Moselle - Cochem Adventure \u270D",
+            "ru": "Мозель - Приключение в Кохеме \u270D",
             "de": null
         }
     }, {
         "name": {
-            "en": "Moselle - Mosel Wine History \u266C",
-            "ru": "Мозель - История вина Мозеля \u266C",
-            "de": null
-        }
-    }, {
-        "name": {
-            "en": "Moselle - Museums \u266C",
-            "ru": "Мозель - Музеи \u266C",
+            "en": "Moselle - The Hidden Tunnel \u266C",
+            "ru": "Мозель - Тайный тоннель \u266C",
             "de": null
         }
     }

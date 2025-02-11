@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Die Burg Cochem steht auf einem Hügel.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Stadt Cochem liegt an der Donau.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Viele Touristen besuchen die Burg Cochem.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Die Mosel fließt schnell durch die Stadt.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Im Sommer fahren viele Boote auf der Mosel.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Paul kommt aus Berlin.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul besucht Cochem mit seiner Familie.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Die Region ist berühmt für ihren Wein.",
+        "tr": true,
+        "fle": false
+    }, {
+        "title": "Am Abend essen Paul und seine Freunde in einem großen Restaurant.",
+        "tr": false,
+        "fle": true
+    }, {
+        "title": "Paul denkt, dass Cochem eine wunderbare Stadt ist.",
+        "tr": true,
+        "fle": false
+    }
+]

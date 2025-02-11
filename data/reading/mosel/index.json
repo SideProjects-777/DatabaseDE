@@ -2,6 +2,22 @@
 
     {
         "name": {
+            "en": "Cochem Adventure",
+            "de": "Cochem Abenteuer",
+            "ru": "Приключение в Кохеме"
+        },
+        "description": {
+            "en": "Exploring the Mosel town",
+            "de": "Erkundung der Moselstadt",
+            "ru": "Исследование города на Мозеле"
+        },
+        "level": "A2",
+        "image": "Erkundung.jpg",
+        "file": "Erkundung.txt",
+        "words": "Erkundung.json",
+        "yesNo": "Erkundung.json"
+    }, {
+        "name": {
             "en": "My Days in Mosel",
             "de": "Meine Tage an der Mosel",
             "ru": "Мои дни в Мозеле"
