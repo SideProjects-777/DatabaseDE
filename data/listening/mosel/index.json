@@ -223,5 +223,21 @@
         "file": "WineHistory.mp3",
         "words": "WineHistory.json",
         "yesNo": "WineHistory.json"
+    }, {
+        "name": {
+            "en": "The Hidden Tunnel",
+            "de": "Der geheime Tunnel",
+            "ru": "Тайный тоннель"
+        },
+        "description": {
+            "en": "Mystery in an old wine cellar",
+            "de": "Geheimnis in einem alten Weinkeller",
+            "ru": "Тайна в старом винном погребе"
+        },
+        "level": "B2",
+        "image": "HiddenTunnel.jpg",
+        "file": "HiddenTunnel.mp3",
+        "words": "HiddenTunnel.json",
+        "multi": "HiddenTunnel.json"
     }
 ]

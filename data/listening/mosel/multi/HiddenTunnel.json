@@ -1,0 +1,173 @@
+[
+    {
+        "name": "In welcher Stadt kommt Jonas mit dem Zug an?",
+        "answers": [
+            {
+                "text": "In Koblenz",
+                "correct": false
+            }, {
+                "text": "In Trier",
+                "correct": false
+            }, {
+                "text": "In Traben-Trarbach",
+                "correct": true
+            }, {
+                "text": "In Cochem",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wofür ist Traben-Trarbach bekannt?",
+        "answers": [
+            {
+                "text": "Für Jugendstil-Architektur und historische Weinkeller",
+                "correct": true
+            }, {
+                "text": "Für moderne Hochhäuser und große Einkaufszentren",
+                "correct": false
+            }, {
+                "text": "Für Strände und tropisches Klima",
+                "correct": false
+            }, {
+                "text": "Für große Industrieanlagen",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was entdeckt Jonas in der Stadtbibliothek?",
+        "answers": [
+            {
+                "text": "Ein Buch über geheime Rezepte",
+                "correct": false
+            }, {
+                "text": "Eine alte Karte mit einem verborgenen Eingang",
+                "correct": true
+            }, {
+                "text": "Eine Nachricht von Herrn Becker",
+                "correct": false
+            }, {
+                "text": "Einen alten Weinfassdeckel",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Wohin führt die kleine Tür, die Jonas findet?",
+        "answers": [
+            {
+                "text": "In einen alten Weinkeller",
+                "correct": false
+            }, {
+                "text": "Auf den Dachboden eines alten Hauses",
+                "correct": false
+            }, {
+                "text": "Zu einem verschlossenen Raum mit Fenstern",
+                "correct": false
+            }, {
+                "text": "Zu einer steilen Treppe in die Tiefe",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Was hört Jonas, nachdem er die Treppe hinabgestiegen ist?",
+        "answers": [
+            {
+                "text": "Das Rufen eines alten Mannes",
+                "correct": false
+            }, {
+                "text": "Ein lautes Donnern",
+                "correct": false
+            }, {
+                "text": "Schritte hinter sich",
+                "correct": true
+            }, {
+                "text": "Das Lachen von Kindern",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was liegt in der geheimnisvollen Holzkiste?",
+        "answers": [
+            {
+                "text": "Goldmünzen und Edelsteine",
+                "correct": false
+            }, {
+                "text": "Alte Weinflaschen und ein Bündel Briefe",
+                "correct": true
+            }, {
+                "text": "Eine alte Landkarte und ein Kompass",
+                "correct": false
+            }, {
+                "text": "Eine verschlossene Metallbox",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was steht auf dem ersten Brief, den Jonas liest?",
+        "answers": [
+            {
+                "text": "Verlasse diesen Ort sofort!",
+                "correct": false
+            }, {
+                "text": "Hier liegen verborgene Schätze!",
+                "correct": false
+            }, {
+                "text": "Folge den Zeichen an der Wand.",
+                "correct": false
+            }, {
+                "text": "Der Tunnel darf niemals entdeckt werden...",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Wer erscheint plötzlich in der Kammer, als Jonas die Briefe liest?",
+        "answers": [
+            {
+                "text": "Herr Becker",
+                "correct": true
+            }, {
+                "text": "Ein Polizist",
+                "correct": false
+            }, {
+                "text": "Ein geheimnisvoller Fremder",
+                "correct": false
+            }, {
+                "text": "Ein Freund von Jonas",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Welche Reaktion zeigt Herr Becker, als er Jonas im Tunnel sieht?",
+        "answers": [
+            {
+                "text": "Wut",
+                "correct": false
+            }, {
+                "text": "Angst",
+                "correct": false
+            }, {
+                "text": "Neugier",
+                "correct": true
+            }, {
+                "text": "Freude",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Was wird über den Tunnel gesagt?",
+        "answers": [
+            {
+                "text": "Er wurde für den Weintransport genutzt",
+                "correct": false
+            }, {
+                "text": "Er führte direkt zum Rathaus",
+                "correct": false
+            }, {
+                "text": "Er verband mehrere Weingüter miteinander",
+                "correct": true
+            }, {
+                "text": "Er war ein Teil der Kanalisation",
+                "correct": false
+            }
+        ]
+    }
+]

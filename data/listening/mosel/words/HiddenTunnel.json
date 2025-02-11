@@ -1,0 +1,143 @@
+[
+    {
+        "de": "der Zug",
+        "en": "train",
+        "ru": "поезд",
+        "descriptionEN": "A vehicle that runs on tracks and transports people or goods.",
+        "descriptionRU": "Транспортное средство, движущееся по рельсам и перевозящее людей или грузы.",
+        "descriptionDE": "Ein Fahrzeug, das auf Schienen fährt und Personen oder Güter transportiert."
+    }, {
+        "de": "die Altstadt",
+        "en": "old town",
+        "ru": "старый город",
+        "descriptionEN": "The historic center of a city, often with preserved architecture.",
+        "descriptionRU": "Исторический центр города, часто с сохранившейся архитектурой.",
+        "descriptionDE": "Das historische Zentrum einer Stadt, oft mit erhaltener Architektur."
+    }, {
+        "de": "der Weinkeller",
+        "en": "wine cellar",
+        "ru": "винный погреб",
+        "descriptionEN": "A cellar where wine is stored and sometimes aged.",
+        "descriptionRU": "Подвал, в котором хранится и выдерживается вино.",
+        "descriptionDE": "Ein Keller, in dem Wein gelagert und manchmal gereift wird."
+    }, {
+        "de": "die Luft",
+        "en": "air",
+        "ru": "воздух",
+        "descriptionEN": "The invisible gas that surrounds the Earth and is breathed by living beings.",
+        "descriptionRU": "Невидимый газ, окружающий Землю и вдыхаемый живыми существами.",
+        "descriptionDE": "Das unsichtbare Gas, das die Erde umgibt und von Lebewesen eingeatmet wird."
+    }, {
+        "de": "der Führer",
+        "en": "guide",
+        "ru": "гид",
+        "descriptionEN": "A person who shows and explains places of interest to visitors.",
+        "descriptionRU": "Человек, показывающий и объясняющий достопримечательности посетителям.",
+        "descriptionDE": "Eine Person, die Besuchern Sehenswürdigkeiten zeigt und erklärt."
+    }, {
+        "de": "der Tunnel",
+        "en": "tunnel",
+        "ru": "туннель",
+        "descriptionEN": "An underground passage for transportation or secret access.",
+        "descriptionRU": "Подземный проход для транспорта или скрытого доступа.",
+        "descriptionDE": "Ein unterirdischer Durchgang für den Transport oder den geheimen Zugang."
+    }, {
+        "de": "das Buch",
+        "en": "book",
+        "ru": "книга",
+        "descriptionEN": "A set of written, printed, or blank pages bound together.",
+        "descriptionRU": "Набор написанных, напечатанных или пустых страниц, скрепленных вместе.",
+        "descriptionDE": "Eine Sammlung geschriebener, gedruckter oder leerer Seiten, die zusammengebunden sind."
+    }, {
+        "de": "die Mauer",
+        "en": "wall",
+        "ru": "стена",
+        "descriptionEN": "A vertical structure that encloses or divides spaces.",
+        "descriptionRU": "Вертикальная структура, ограждающая или разделяющая пространства.",
+        "descriptionDE": "Eine vertikale Struktur, die Räume umschließt oder trennt."
+    }, {
+        "de": "die Kammer",
+        "en": "chamber",
+        "ru": "камера",
+        "descriptionEN": "A small enclosed space, often used for specific purposes.",
+        "descriptionRU": "Небольшое закрытое пространство, часто используемое для определенных целей.",
+        "descriptionDE": "Ein kleiner abgeschlossener Raum, der oft für bestimmte Zwecke genutzt wird."
+    }, {
+        "de": "die Flasche",
+        "en": "bottle",
+        "ru": "бутылка",
+        "descriptionEN": "A container, typically made of glass or plastic, for holding liquids.",
+        "descriptionRU": "Сосуд, обычно сделанный из стекла или пластика, для хранения жидкостей.",
+        "descriptionDE": "Ein Behälter, typischerweise aus Glas oder Kunststoff, zum Aufbewahren von Flüssigkeiten."
+    }, {
+        "de": "ankommen",
+        "en": "to arrive",
+        "ru": "прибывать",
+        "descriptionEN": "To reach a destination.",
+        "descriptionRU": "Достичь места назначения.",
+        "descriptionDE": "Ein Ziel erreichen."
+    }, {
+        "de": "erkunden",
+        "en": "to explore",
+        "ru": "исследовать",
+        "descriptionEN": "To travel around and learn about a place.",
+        "descriptionRU": "Путешествовать и узнавать о месте.",
+        "descriptionDE": "Herumreisen und einen Ort kennenlernen."
+    }, {
+        "de": "erzählen",
+        "en": "to tell",
+        "ru": "рассказывать",
+        "descriptionEN": "To communicate information or a story.",
+        "descriptionRU": "Передавать информацию или рассказывать историю.",
+        "descriptionDE": "Informationen oder eine Geschichte weitergeben."
+    }, {
+        "de": "verschwinden",
+        "en": "to disappear",
+        "ru": "исчезать",
+        "descriptionEN": "To cease to be visible or exist.",
+        "descriptionRU": "Переставать быть видимым или существовать.",
+        "descriptionDE": "Nicht mehr sichtbar oder vorhanden sein."
+    }, {
+        "de": "öffnen",
+        "en": "to open",
+        "ru": "открывать",
+        "descriptionEN": "To make something accessible.",
+        "descriptionRU": "Сделать что-то доступным.",
+        "descriptionDE": "Etwas zugänglich machen."
+    }, {
+        "de": "entdecken",
+        "en": "to discover",
+        "ru": "обнаруживать",
+        "descriptionEN": "To find something previously unknown.",
+        "descriptionRU": "Найти что-то ранее неизвестное.",
+        "descriptionDE": "Etwas zuvor Unbekanntes finden."
+    }, {
+        "de": "historisch",
+        "en": "historical",
+        "ru": "исторический",
+        "descriptionEN": "Related to history or past events.",
+        "descriptionRU": "Связанный с историей или прошлыми событиями.",
+        "descriptionDE": "Mit Geschichte oder vergangenen Ereignissen verbunden."
+    }, {
+        "de": "fasziniert",
+        "en": "fascinated",
+        "ru": "очарованный",
+        "descriptionEN": "Deeply interested or captivated.",
+        "descriptionRU": "Глубоко заинтересованный или захваченный.",
+        "descriptionDE": "Tief interessiert oder gefesselt."
+    }, {
+        "de": "verlassen",
+        "en": "abandoned",
+        "ru": "заброшенный",
+        "descriptionEN": "Left without care or maintenance.",
+        "descriptionRU": "Оставленный без ухода или обслуживания.",
+        "descriptionDE": "Ohne Pflege oder Wartung zurückgelassen."
+    }, {
+        "de": "vorsichtig",
+        "en": "carefully",
+        "ru": "осторожно",
+        "descriptionEN": "With caution and attention to detail.",
+        "descriptionRU": "С осторожностью и вниманием к деталям.",
+        "descriptionDE": "Mit Vorsicht und Aufmerksamkeit für Details."
+    }
+]
